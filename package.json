@@ -1,7 +1,7 @@
 {
-  "name": "mercury-photo",
-  "version": "2.0.46",
-  "description": "A collection of exotic and tropical drink recipes",
+  "name": "mercury.photo",
+  "version": "1.0.1",
+  "description": "Rangefinder + Mirrorless Digital + Large Format Film Photography + Music, Arts, & News",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -9,12 +9,11 @@
     "build": "npx @11ty/eleventy"
   },
   "keywords": [
-    "zed",
-    "cocktails",
-    "tropical",
-    "recipes"
+    "photography",
+    "music",
+    "journalism"
   ],
-  "homepage": "https://github.com/seezee/mercury-photo",
+  "homepage": "https://github.com/seezee/mercury.photo",
   "author": "Chris J. Zähller",
   "license": "GPL-3.0-or-later",
   "dependencies": {

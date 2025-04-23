@@ -11,13 +11,13 @@
 
 A tiki recipe database built with Eleventy
 
-<h4> <span> · </span> <a href="https://github.com/seezee/mercury-photo/blob/master/README.md"> Documentation </a> <span> · </span> <a href="https://github.com/seezee/mercury-photo/issues"> Report Bug </a> <span> · </span> <a href="https://github.com/seezee/mercury-photo/issues"> Request Feature </a> </h4>
+<h4> <span> · </span> <a href="https://github.com/seezee/mercury.photo/blob/master/README.md"> Documentation </a> <span> · </span> <a href="https://github.com/seezee/mercury.photo/issues"> Report Bug </a> <span> · </span> <a href="https://github.com/seezee/mercury.photo/issues"> Request Feature </a> </h4>
 
 </div>
 
 ## :notebook_with_decorative_cover: Table of Contents
 
-- [Tiki DB by SEEZEE](#mpb-db-by-seezee)
+- [Tiki DB by SEEZEE](#tiki-db-by-seezee)
   - [:notebook\_with\_decorative\_cover: Table of Contents](#notebook_with_decorative_cover-table-of-contents)
     - [:bulb: About the Project](#bulb-about-the-project)
     - [:pencil: License](#pencil-license)
@@ -35,6 +35,6 @@ Distributed under [GNUv3](https://www.gnu.org/licenses/gpl-3.0.en.html) or later
 
 Chris J Zähller — [@czahller](https://x.com/czahller/) — <chris@messengerwebdesign.com>
 
-Project link: [https://github.com/seezee/mercury-photo](https://github.com/seezee/mercury-photo)
+Project link: [https://github.com/seezee/mercury.photo](https://github.com/seezee/mercury.photo)
 
-Website: [Tiny Paper Umbrella](https://tinypaperumbrella.com)
+Website: [Mercury Photo Bureau](https://mercury.photo)
