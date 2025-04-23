@@ -12,6 +12,7 @@ tags:
   - folk
   - Woody Guthrie
   - Woody Guthrie Folk Festival
+  - Woodyfest 2014
 date: 2021-07-13T21:14:39+00:00
 excerpt: I met “Princess of Twang” Nancy Apple in 2013, my first year volunteering to document the Woody Guthrie Folk Festival.
 ---
