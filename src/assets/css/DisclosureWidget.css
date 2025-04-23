@@ -1,0 +1,178 @@
+/* Based on https://www.makethingsaccessible.com/guides/responsive-and-accessible-tabbed-interfaces/ */
+
+:root {
+  interpolate-size: allow-keywords;
+}
+
+h3:has( > .widget__btn[role='tab']) {
+  margin-inline-end: var(--s-5);
+  padding-block-end: 1px;
+}
+
+.widget__btn {
+  position: relative;
+  padding: var(--s0);
+  padding-block-end: var(--s1);
+  margin: 0;
+
+  font-family: var(--mpb-font-sans);
+  font-size: var(--mpb-font-size-0);
+  font-weight: bold;
+  text-transform: unset;
+
+  color: var(--mpb-color-textReverse);
+  background-color: var(--mpb-color-textPrimary);
+
+  cursor: pointer;
+}
+
+.widget__btn[aria-expanded] {
+  display: flex;
+  align-items: center;
+  margin-block-end: var(--s-5);
+
+  inline-size: 100%;
+  text-align: inline-start;
+}
+
+.widget__btn[aria-expanded]::before,
+.widget__btn[aria-expanded]::after {
+  content: '';
+  position: absolute;
+  background-color: var(--mpb-color-textReverse);
+}
+
+/* The cross icon horizontal element */
+.widget__btn[aria-expanded]::before {
+  inset-inline-end: 1rem;
+  block-size: 1rem;
+  inline-size: .3rem;
+  transition: transform ease-in 200ms;
+}
+
+/* The cross icon vertical element */
+.widget__btn[aria-expanded]::after {
+  inset-inline-end: .65rem;
+  block-size: .3rem;
+  inline-size: 1rem;
+}
+
+.widget__btn[aria-expanded='true']::before {
+  transform: scaleY(0);
+}
+
+.widget__btn[aria-expanded]:focus-visible {
+  outline: var(--mpb-alert-border-width) solid var(--mpb-color-textReverse);
+  outline-offset: calc(var(--mpb-alert-border-width) * -2);
+}
+
+.widget__panel[role='region'] {
+  position: relative;
+  inset-block-start: calc(var(--s-5) * -1);
+  padding: var(--s1);
+
+  border-width: var(--s-5);
+  border: solid var(--mpb-color-textPrimary) var(--s-5);
+  border-start-end-radius: var(--mpb-radius-1x);
+  border-end-start-radius: var(--mpb-radius-1x);
+  border-end-end-radius: var(--mpb-radius-1x);
+
+  background-color: var(--mpb-color-tabPanelBG);
+}
+
+[role='tablist'] {
+  display: flex;
+  gap: 2px;
+}
+
+[role='tab'] {
+  position: relative;
+  inset-block-start: var(--s-5);
+
+  border-inline: var(--s-5) solid var(--mpb-color-textPrimary);
+  border-block-start: var(--s-5) solid var(--mpb-color-textPrimary);
+  border-start-start-radius: 0;
+  border-end-start-radius: 0;
+  border-end-end-radius: 0;
+}
+
+[role='tab'][aria-selected='true'] {
+  color: var(--mpb-color-textPrimary);
+  background-color: var(--mpb-color-tabPanelBG);
+  box-shadow: 0 var(--s-5) var(--mpb-color-tabPanelBG);
+}
+
+[role='tab'][aria-selected='true']::after {
+  content: '';
+  position: absolute;
+  inset-inline-start: 0;
+  inset-block-end: calc(var(--s-5) * -.5);
+  inline-size: 100%;
+  block-size: calc(var(--s-5) + 2px);
+  background-color: var(--mpb-color-tabPanelBG);
+  z-index: 2;
+}
+
+[role='tabpanel'] {
+  position: relative;
+  padding: var(--s1);
+
+  border: var(--s-5) solid var(--mpb-color-textPrimary);
+  border-start-end-radius: var(--mpb-radius-1x);
+  border-end-start-radius: var(--mpb-radius-1x);
+  border-end-end-radius: var(--mpb-radius-1x);
+
+  background-color: var(--mpb-color-tabPanelBG);
+}
+
+[role='tab']:focus-visible {
+  outline: var(--mpb-alert-border-width) solid var(--mpb-color-accent);
+  outline-offset: calc(var(--mpb-alert-border-width) * -2);
+}
+
+[role='tabpanel']:focus-visible {
+  position: relative;
+  outline: var(--mpb-alert-border-width) solid var(--mpb-color-accent);
+  outline-offset: calc(var(--mpb-alert-border-width) * -3);
+  z-index: 1;
+}
+
+[hidden] {
+  display: none;
+}
+
+[data-expanded='false'] + .widget__panel {
+  display: none;
+
+  @media (prefers-reduced-motion: no-preference) {
+    transition: content-visibility 0.25s allow-discrete, block-size 0.25s ease-in-out, display 0.25s ease-in-out, opacity 0.25s ease-in-out;
+    transition-behavior: allow-discrete;
+    block-size: 0;
+    opacity: 0;
+    overflow-y: clip;
+
+    @starting-style {
+      block-size: 0;
+    }
+  }
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  [data-expanded='true'] + .widget__panel {
+    block-size: auto;
+    opacity: 1;
+  }
+}
+
+
+
+@media screen and (forced-colors: active) {
+  .widget__btn[aria-expanded]::before,
+  .widget__btn[aria-expanded]::after {
+    background-color: ButtonText;
+  }
+
+  [role='tab'][aria-selected='true']::after {
+    background-color: Window;
+  }
+}

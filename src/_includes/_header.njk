@@ -1,0 +1,17 @@
+<!-- axelinter:disable:button-name -->
+<header id="header">
+  <cluster-l justify="space-between" align="center" id="nav-primary-wrapper">
+    <cluster-l justify="flex-start">
+      <div id="header__mpb-lettermark-wrapper">
+        <a href="/#s1"><span class="sr-only">Home</span><span class="mpb-lettermark">{% svgIcon "./_site/assets/images/icons/mpb-lettermark.svg" %}</span></a>
+      </div>
+      <div class="search" id="search"></div>
+    </cluster-l>
+    <cluster-l justify="flex-start" space="var(--s-1)">
+      {% include "_nav-main.njk" %}
+      <mpb-theme-toggle>
+        <button id="theme-toggle"></button>
+      </mpb-theme-toggle>
+    </cluster-l>
+  </cluster-l>
+</header>

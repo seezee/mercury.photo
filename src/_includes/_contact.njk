@@ -1,0 +1,82 @@
+<form action="https://formspree.io/f/mblrdrkn" id="contact-form" method="POST">
+  <stack-l>
+    <div>
+      <label for="name">Name<span>*</span></label>
+      <input
+        id="name"
+        type="text"
+        name="name"
+        maxLength="256"
+        autocorrect="off"
+        spellcheck="false"
+        required
+      />
+    </div>
+    <div>
+      <label for="email">Email<span>*</span></label>
+      <input
+        id="email"
+        type="email"
+        name="_replyto"
+        maxLength="256"
+        autocapitalize="none"
+        autocorrect="off"
+        spellcheck="false"
+        required
+      />
+    </div>
+    <div>
+      <label for="subject">Subject<span>*</span></label>
+      <input
+        id="subject"
+        type="text"
+        name="_subject"
+        maxLength="256"
+        required
+      />
+    </div>
+    <div class="sr-only">
+      <label for="potedemel">Skip this field if you’re human<span>*</span></label>
+      <input
+        id="potedemel"
+        type="text"
+        name="_gotcha"
+        maxLength="64"
+      />
+    </div>
+    <div>
+      <label for="message">Message<span>*</span></label>
+      <textarea
+        id="message"
+        name="message"
+        maxLength="4096"
+        rows="10"
+        required
+      ></textarea>
+    </div>
+
+Maximum 4096 characters. Total Characters remaining: <span class="counter">4096</span>
+
+    <button
+      class="g-recaptcha button button-primary"
+      data-sitekey="6LccW_EqAAAAALxdJJUgo_S1XgjjECD0XJjvh_sO"
+      data-callback="onSubmit"
+      data-action="submit">Send it!</button>
+  </stack-l>
+</form>
+
+<script>
+  const textarea = document.getElementById(`message`);
+  const counter = document.querySelector(`.counter`);
+
+  textarea.addEventListener(`keyup`, countCharacters, false);
+
+
+  function countCharacters() {
+      const text          = textarea.value;
+      const textLength    = text.length;
+      const textMax       = 4096;
+      const textRemaining = (textMax - textLength);
+      counter.innerText   = `${textRemaining}`;
+  }
+</script>

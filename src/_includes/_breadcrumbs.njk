@@ -1,0 +1,20 @@
+<nav id="breadcrumbs" aria-lable="breadcrumbs">
+  <cluster-l role="list" justify="flex-start" space="var(--s-1)">
+    <p role="listitem">you are here: </p>
+    {% if tags == "home" %}
+      <span role="listitem" id="breadcrumb-home" aria-current="page"><a href="/#s1">home</a></span>
+    {% else%}
+      <span role="listitem" id="breadcrumb-home"><a href="/#s1">home</a></span>
+    {% endif %}
+    {%- for post in collections.all -%}
+      {% if page.url == post.url %}
+        {% if tags == "home" %}<!-- Do nothing -->
+        {% else %}
+        <span role="listitem">
+          <a href="{{ post.url }}" id="breadcrumb-current" aria-current="page">{{ post.data.title }}</a>
+        </span>
+        {% endif %}
+      {% endif %}
+    {%- endfor -%}
+  </cluster-l>
+</nav>

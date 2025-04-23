@@ -1,0 +1,263 @@
+<form action="https://formspree.io/f/" id="okie-x-artist-survey" method="POST">
+  <stack-l>
+    <fieldset><legend>Who are you?</legend>
+      <stack-l>
+        <div>
+          <label for="name">What is your name?<span>*</span></label>
+          <input
+            id="name"
+            type="text"
+            name="name"
+            maxLength="256"
+            autocorrect="off"
+            spellcheck="false"
+            required
+          />
+        </div>
+        <div>
+          <label for="email">What is your email address?<span>*</span></label>
+          <input
+            id="email"
+            type="email"
+            name="_replyto"
+            maxLength="256"
+            autocapitalize="none"
+            autocorrect="off"
+            spellcheck="false"
+            required
+          />
+        </div>
+        <div>
+          <label for="email">What is your mobile phone number?<span>*</span></label>
+          <input
+            id="phone"
+            type="tel"
+            name="_replyto"
+            maxLength="16"
+            autocapitalize="none"
+            autocorrect="off"
+            spellcheck="false"
+            required
+          />
+        </div>
+      </stack-l>
+    </fieldset>
+    <fieldset><legend>Tell us a little about your musical self</legend>
+      <stack-l>
+        <div>
+          <label for="artist-name">If you are a solo performer who doesn’t perform under your birth name, what is your artist name?<span>*</span></label>
+          <input
+            id="artist-name"
+            type="text"
+            name="_artist-name"
+            maxLength="256"
+          />
+        </div>
+        <fieldset><legend>Are you currently in a band?</legend>
+          <stack-l class="radio-wrapper">
+            <label for="band-yes">
+              <input
+                id="band-yes"
+                type="radio"
+                name="_in-band"
+                value="Yes"
+              />
+            Yes</label>
+            <label for="band-no">
+              <input
+                id="band-no"
+                type="radio"
+                name="_in-band"
+                value="No"
+              />
+            No</label>
+          </stack-l>
+        </fieldset>
+        <stack-l>
+          <label for="band-names">If you answered “Yes,” what is your band name (separate multiple items with commas)?</label>
+          <textarea
+            id="band-names"
+            name="_band-names"
+            maxLength="4096"
+          >
+        </stack-l>
+        <stack-l>
+          <label for="former-bands">List any bands you have played with in the past (i.e., been a member of) (separate multiple items with commas)</label>
+          <textarea
+            id="former-bands"
+            name="_former-bands"
+            maxLength="4096"
+          >
+        </stack-l>
+        <stack-l>
+          <label for="genres">What musical genre(s) do you perform (separate multiple items with commas)?</label>
+          <textarea
+            id="genres"
+            name="_genres"
+            maxLength="4096"
+          >
+        </stack-l>
+        <stack-l>
+          <label for="instruments">What instrument(s) do you play (separate multiple items with commas)?</label>
+          <textarea
+            id="instruments"
+            name="_instruments"
+            maxLength="4096"
+          >
+        </stack-l>
+        <fieldset><legend>I am a (check all that apply):</legend>
+          <stack-l class="checkbox-wrapper">
+            <label for="singer">
+              <input
+                id="singer"
+                type="checkbox"
+                name="_skills"
+                value="Singer"
+              />
+            Singer</label>
+            <label for="">
+              <input
+                id="rapper"
+                type="checkbox"
+                name="_skills"
+                value="Rapper"
+              />
+            Rapper</label>
+            <label for="songwriter">
+              <input
+                id="songwriter"
+                type="checkbox"
+                name="_skills"
+                value="Songwriter"
+              />
+            Songwriter</label>
+            <label for="composer">
+              <input
+                id="composer"
+                type="checkbox"
+                name="_skills"
+                value="Composer"
+              />
+            Composer</label>
+            <label for="dj">
+              <input
+                id="dj"
+                type="checkbox"
+                name="_skills"
+                value="DJ"
+              />
+            DJ</label>
+            <label for="producer">
+              <input
+                id="producer"
+                type="checkbox"
+                name="_skills"
+                value="Producer"
+              />
+            Producer</label>
+          </stack-l>
+        </fieldset>
+      </stack-l>
+    </fieldset>
+    <fieldset><legend>What's your Oklahoma connection?</legend>
+      <stack-l>
+        <fieldset><legend>Do you currently live in Oklahoma?</legend>
+          <stack-l class="radio-wrapper">
+            <label for="okie-yes">
+              <input
+                id="okie-yes"
+                type="radio"
+                name="_okie"
+                value="Yes"
+              />
+            Yes</label>
+            <label for="okie-no">
+              <input
+                id="okie-no"
+                type="radio"
+                name="_okie"
+                value="No"
+              />
+            No</label>
+          </stack-l>
+        </fieldset>
+        <stack-l>
+          <label for="hometown">If you answered “Yes,” enter your current town. If you answered “No,” enter your former Oklahoma hometown</label>
+          <input
+            type="text"
+            id="hometown"
+            name="_hometown"
+            maxLength="256"
+          >
+        </stack-l>
+        <stack-l>
+          <label for="current-home">If you answered “No,” enter your current town and state</label>
+          <input
+            type="text"
+            id="current-home"
+            name="_current-home"
+            maxLength="256"
+          >
+        </stack-l>
+      </stack-l>
+    </fieldset>
+    <fieldset><legend>Okay, let's finish this!</legend>
+      <stack-l>
+        <div class="sr-only">
+          <label for="ldkjhoi">Skip this field if you’re human<span>*</span></label>
+          <input
+            id="ldkjhoi"
+            type="text"
+            name="_gotcha"
+            maxLength="64"
+          />
+        </div>
+        <div>
+          <label for="message">Type any additional comments or information here.</label>
+          <textarea
+            id="message"
+            name="message"
+            maxLength="4096"
+            rows="10"
+          ></textarea>
+        </div>
+
+Maximum 4096 characters. Total Characters remaining: <span class="counter">4096</span>
+      </stack-l>
+    </fieldset>
+    <stack-l>
+
+<span class="required">*</span>By submitting this survey, I accept Mercury Photo Bureau’s [Privacy Policy](/legal/privacy/) and [Terms of Use](/legal/terms-of-use/), and I agree that the information I provide may be publicly displayed.
+      <div class="checkbox-wrapper">
+        <label for="acceptance"><input
+            id="acceptance"
+            type="checkbox"
+            name="_acceptance"
+            value="I accept"
+            required
+          />I accept</label>
+      </div>
+    </stack-l>
+    <button
+      class="g-recaptcha button button-primary"
+      data-sitekey="6LccW_EqAAAAALxdJJUgo_S1XgjjECD0XJjvh_sO"
+      data-callback="onSubmit"
+      data-action="submit">Send it!</button>
+  </stack-l>
+</form>
+
+<script>
+  const textarea = document.getElementById(`message`);
+  const counter = document.querySelector(`.counter`);
+
+  textarea.addEventListener(`keyup`, countCharacters, false);
+
+
+  function countCharacters() {
+      const text          = textarea.value;
+      const textLength    = text.length;
+      const textMax       = 4096;
+      const textRemaining = (textMax - textLength);
+      counter.innerText   = `${textRemaining}`;
+  }
+</script>

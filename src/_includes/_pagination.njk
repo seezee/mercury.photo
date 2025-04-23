@@ -1,0 +1,23 @@
+<!-- Blog -->
+{% set previousPost = collections.blog | getPreviousCollectionItem %}
+{% set nextPost = collections.blog | getNextCollectionItem %}
+
+{% if previousPost or nextPost %}
+  <nav id="pagination" aria-label="pagination">
+    <cluster-l justify="space-between">
+      {% if previousPost %}
+        <a href="{{ previousPost.url }}" id="page-previous">← Previous</a>
+      {% else %}
+        <div class="pagination-spacer"></div>
+      {% endif %}
+      <div id="navigation-mpb-lettermark-wrapper">
+        {% svgIcon "./_site/assets/images/icons/mpb-lettermark.svg" %}
+      </div>
+      {% if nextPost %}
+        <a href="{{ nextPost.url }}" id="page-next">Next →</a>
+      {% else %}
+        <div class="pagination-spacer"></div>
+      {% endif %}
+    </cluster-l>
+  </nav>
+{% endif %}

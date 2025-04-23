@@ -1,0 +1,81 @@
+<!--nav id="nav-primary" class="header-footer" aria-label="primary">
+  <cluster-l role="list" justify="flex-start" space="var(--s-1)">
+    <div role="listitem"><a href="/">Home</a></div>
+    <div role="listitem"><a href="/about/">About</a></div>
+    <div role="listitem"><a href="/blog/">Blog</a></div>
+    <div role="listitem"><a href="/okie-x/">OKIE-X</a></div>
+  </cluster-l>
+</nav-->
+<nav id="nav-primary" class="navigation header-footer" aria-label="primary">
+			<ul class="navigation__list">
+				<li class="navigation__item">
+					<a href="/#s1" class="navigation__link">Home</a>
+				</li>
+				<li class="navigation__item js-has-submenu" data-expanded="false">
+					<a href="/about/" class="navigation__link">About</a>
+					<button
+						class="navigation__button js-button"
+						aria-label="Submenu of About"
+						aria-expanded="false"
+					>
+						<svg
+							xmlns="http://www.w3.org/2000/svg"
+							viewBox="0 0 24 24"
+							stroke-width="1.5"
+							stroke="currentColor"
+							fill="none"
+							stroke-linecap="round"
+							stroke-linejoin="round"
+							role="presentation"
+              class="submenu-indicator"
+						>
+							<path stroke="none" d="M0 0h24v24H0z" fill="none" />
+							<polyline fill="var(--mpb-color-textReverse)" points="6 9 12 15 18 9" />
+						</svg>
+					</button>
+					<ul aria-hidden="true" class="navigation__submenu">
+						<li class="navigation__item">
+							<a class="navigation__link" href="/about/staff/">Staff</a>
+						</li>
+						<li class="navigation__item">
+							<a class="navigation__link" href="/about/support-this-site/">Support This Site</span>
+							</a>
+						</li>
+					</ul>
+				</li>
+				<li class="navigation__item">
+					<a href="/blog/" class="navigation__link">Blog</a>
+				</li>
+				<li class="navigation__item js-has-submenu">
+					<a href="/okie-x" class="navigation__link">OKIE-X</a>
+					<button
+						class="navigation__button js-button"
+						aria-label="Submenu of OKIE-X"
+						aria-expanded="false"
+					>
+						<svg
+							xmlns="http://www.w3.org/2000/svg"
+							viewBox="0 0 24 24"
+							stroke-width="1.5"
+							stroke="currentColor"
+							fill="none"
+							stroke-linecap="round"
+							stroke-linejoin="round"
+							role="presentation"
+              class="submenu-indicator"
+						>
+							<path stroke="none" d="M0 0h24v24H0z" fill="none" />
+							<polyline fill="var(--mpb-color-textReverse)" points="6 9 12 15 18 9" />
+						</svg>
+					</button>
+					<ul aria-hidden="true" class="navigation__submenu">
+						<li class="navigation__item">
+							<a class="navigation__link" href="/okie-x/okie-x-faq/">OKIE-X FAQ</a>
+						</li>
+						<li class="navigation__item">
+							<a class="navigation__link" href="/okie-x/okie-x-artists-survey/">OKIE-X Artist Survey</a>
+						</li>
+					</ul>
+				</li>
+			</ul>
+		</nav>

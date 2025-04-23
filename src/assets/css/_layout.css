@@ -1,0 +1,921 @@
+/**
+* Layout
+*
+* 1.  noscript
+* 2.  #skip-link
+* 3.  Search
+* 3.  Theme toggle
+* 4.  #nav-primary-wrapper, .breadcrumbs-separator, #main-wrapper
+* 5   blog-index
+* 6.  .masonry
+* 7.  Columns (.col-2, .col-3, .col-4, .col-5)
+* 8.  .index
+* 9.  <dd> styles: .dd-add-space, dd+br
+* 10. .after-icon spacer
+* 11. .recipe-index
+* 12. #mpb-logo (footer icon)
+*/
+
+/* No script */
+noscript div {
+  inline-size: fit-content;
+  max-inline-size: 100ch;
+  margin-inline: auto;
+  padding: var(--s1);
+
+  font-size: 2rem;
+  font-weight: var(--bold, 700);
+  line-height: 1.1;
+
+  color: #fff;
+  background-color: oklch(30% var(--mpb-alert-color-chroma) 19.75);
+
+  svg {
+    display: inline-block;
+    margin-inline-end: .5ch;
+    margin-block-start: calc(1ex - 1cap);
+
+    vertical-align: middle;
+
+    fill: #fff;
+  }
+}
+
+/* #skip-link */
+#skip-link {
+  inset-block-start: var(--s-5);
+}
+
+/* Header & Pagination Icons */
+
+#header__mpb-lettermark-wrapper {
+
+  svg {
+    inline-size: 2rem;
+  }
+}
+
+/* Search */
+.pagefind-ui__search-input {
+  appearance: none;
+  -webkit-appearance: none;
+  background-image: var(--mpb-search-icon);
+  background-repeat: no-repeat;
+  background-size: 1em;
+  background-position: .5em center;
+
+  &:focus,
+  &:active {
+    background-image: none!important;
+  }
+}
+
+.pagefind-ui__search-input {
+  max-inline-size: min(66vw, 22ch);
+  padding-inline: var(--s0);
+  padding-block: var(--s-5);
+
+  font-family: var(--mpb-font-mono);
+  line-height: 1.1;
+
+  color: var(--mpb-color-textPrimary);
+  background-color: var(--mpb-color-textSecondary);
+  border: solid 2px var(--mpb-color-textPrimary);
+  border-radius: var(--mpb-radius-1x);
+}
+
+.field {
+  position: relative;
+}
+
+#search-hint__wrapper {
+  align-items: safe center;
+  display: flex;
+  gap: 4px;
+  justify-content: right;
+  pointer-events: none;
+  position: absolute;
+  inset-inline-start: 10.3rem;
+  inset-block-start: .275rem;
+
+  & kbd {
+    background-color: var(--mpb-color-textPrimary);
+    border: 1px solid var(--mpb-color-textSecondary);
+    color: var(--mpb-color-textSecondary);
+  }
+}
+
+@media screen and (pointer:coarse) {
+  #search-hint__wrapper {
+    display: none;
+  }
+}
+
+.pagefind-ui__drawer {
+  position: absolute;
+  z-index: 99;
+  inline-size: clamp(100%, 60ch, 77vw);
+  padding: var(--s0);
+
+  background-color: var(--mpb-color-textSecondary);
+
+  * {
+    text-align: start;
+  }
+
+  fieldset:first-child {
+    display: flex;
+    flex-wrap: wrap;
+  }
+
+  &.pagefind-ui__hidden {
+    display: none;
+  }
+}
+
+.pagefind-ui__button {
+  display: block;
+  margin-top: var(--s1);
+  margin-inline: auto;
+}
+
+/* Theme toggle based on
+https://web.dev/articles/building/a-theme-switch-component */
+#theme-toggle {
+  margin-block-start: var(--toggle-margin-top);
+  padding: 0;
+  inline-size: var(--toggle-size);
+  block-size: var(--toggle-size);
+  min-inline-size: var(--toggle-min-size);
+  min-block-size: var(--toggle-min-size);
+  aspect-ratio: 1;
+
+  -webkit-tap-highlight-color: transparent;
+  background: none;
+  border: none;
+  border-radius: 50%;
+  outline-offset: 5px;
+  cursor: pointer;
+
+  touch-action: manipulation;
+
+  > svg {
+    inline-size: 100%;
+    block-size: 100%;
+
+    stroke-linecap: round;
+  }
+
+  &:hover > .sun-and-moon > :is(.moon,.sun) {
+    fill: var(--mpb-color-iconFillHover);
+  }
+
+  &:hover .sun-and-moon >.sun-beams {
+    stroke: var(--mpb-color-iconFillHover);
+  }
+}
+
+.sun-and-moon {
+
+  > :is(.moon,.sun,.sun-beams) {
+    transform-origin: center center;
+  }
+
+  > :is(.moon,.sun) {
+    fill: var(--mpb-color-textPrimary);
+  }
+
+  > .sun-beams {
+    stroke: var(--mpb-color-textPrimary);
+    stroke-width: 2px;
+  }
+}
+
+[data-theme='dark'] .sun-and-moon {
+  > .sun {
+    transform: scale(1.75);
+  }
+
+  > .sun-beams {
+    opacity: 0;
+  }
+
+  > .moon > circle {
+    transform: translate(-7px);
+
+    @supports (cx: 1px) {
+      transform: translateX(0);
+      cx: 17px;
+    }
+  }
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .sun-and-moon {
+    > .sun {
+      transition: transform .5s var(--ease-elastic-3) .5s;
+    }
+
+    > .sun-beams {
+      transition: transform .5s var(--ease-elastic-4), opacity .5s var(--ease-3) .5s;
+    }
+
+    .moon > circle {
+      transition: cx .25s var(--ease-out-5) .5s;
+    }
+  }
+
+  [data-theme='dark'] .sun-and-moon {
+    > .sun {
+      transition: transform .25s var(--ease-out-5) .5s;
+    }
+
+    > .sun-beams {
+      transform: rotate(-25deg);
+      transition-duration: .15s;
+    }
+
+    > .moon > circle {
+      transition-delay: .25s;
+      transition-duration: .5s;
+    }
+  }
+}
+
+/* #nav-primary-wrapper, .breadcrumbs-separator, #main-wrapper */
+#nav-primary-wrapper {
+  padding-block-end: var(--s1);
+
+  border-block-end: 1px solid var(--mpb-color-textPrimary);
+}
+
+.navigation {
+	width: fit-content;
+}
+
+.navigation__list {
+	display: flex;
+  flex-wrap: wrap;
+  gap: var(--s1);
+  justify-content: flex-start;
+  align-items: safe center;
+	margin: 0;
+	padding: 0;
+}
+
+.navigation__item {
+	padding-inline-start: var(--s-1);
+	padding-inline-end: var(--s2);
+	list-style-type: none;
+	display: flex;
+	align-items: safe center;
+	position: relative;
+  text-align: left;
+}
+
+ul ul .navigation__item {
+  padding-block: var(--s-1)
+}
+
+.navigation__item[data-expanded="true"] {
+	box-shadow: var(--mpb-shadow-elevation-low);
+}
+
+.navigation__item[data-expanded="true"] > button {
+	transform: scaleY(-1);
+}
+
+.navigation__link {
+	display: flex;
+	align-items: safe center;
+	gap: var(--s-1);
+	text-decoration: none;
+	color: currentColor;
+}
+
+.navigation__link:hover,
+.navigation__link:focus {
+	text-decoration: underline;
+}
+
+.navigation__button {
+	position: absolute;
+	cursor: pointer;
+	inset-inline-end: var(--s-5);
+	border: none;
+	background-color: transparent;
+	display: flex;
+	align-items: safe center;
+	padding: 0;
+}
+
+.navigation__button > svg {
+	width: 1.5rem;
+}
+
+.navigation__submenu {
+  background-color: var(--mpb-color-textSecondary);
+	position: absolute;
+	padding: 0;
+	inset-block-start: 100%;
+	inset-inline-start: 0;
+	width: 12.5rem;
+	box-shadow: var(--mpb-shadow-elevation-low);
+}
+
+.navigation__submenu[aria-hidden="true"] {
+	display: none;
+}
+
+.navigation__submenu > li:not(:last-child) {
+	border-block-end: 1px solid var(--mpb-color-textPrimary);
+}
+
+.submenu-indicator {
+  path{
+    fill: var(--mpb-color-submenu-indicator);
+  }
+
+  polyline {
+    color: var(--mpb-color-textPrimary);
+  }
+}
+
+.breadcrumbs {
+
+  [role="listitem"] {
+    font-variant-numeric: lining-nums slashed-zero;
+  }
+}
+
+.breadcrumbs-separator {
+  opacity: .5;
+}
+
+#main-wrapper {
+  inline-size: 100%;
+}
+
+/* .blog-index */
+.blog-index {
+  li {
+    margin-block-end: var(--s1);
+    break-inside: avoid;
+  }
+}
+
+main ul.blog-index li::marker {
+  content: '';
+}
+
+/**
+ * Masonry layout
+ *
+ * This code may need different syntax when masonry ships to browsers;
+ * see https://github.com/w3c/csswg-drafts/issues/9041 and also commented
+ * example code below
+ */
+ .masonry {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, var(--mpb-masonry-width));
+  grid-gap: var(--mpb-masonry-gap);
+  justify-content: center;
+  padding: var(--mpb-masonry-gap);
+
+  /* @supports (grid-template-rows: masonry) { */
+    grid-template-rows: masonry;
+  /* } */
+
+  @supports (display: masonry) { /* Alternate syntax. */
+    display: masonry;
+    masonry-template-tracks: repeat(auto-fit, var(--mpb-masonry-width));
+    gap: var(--mpb-masonry-gap);
+  }
+
+  > * {
+    width: var(--mpb-masonry-width);
+  }
+}
+
+/*
+* Masonry syntax after feature ships to browsers:
+*
+* `display: masonry`, fall back to Flexbox
+*
+* All of the rules for this class are in the same place
+*
+* .masonry {
+*   display: flex;
+*   flex-wrap: wrap;
+*   // The following lines will be ignored by browsers that don't understand
+*   // masonry and applied by browsers that understand masonry, overriding the
+*   // previous lines
+*   display: masonry;
+*   masonry-template: repeat(auto-fill, auto);
+* }
+*
+* Masonry as part of Grid, fall back to Flexbox
+*
+* Rules for the class are split across different layers/queries, resulting in
+* bulkier CSS and making it less efficient to update
+*
+* Media queries do not increase specificity, so make sure fallbacks are
+* de-prioritized
+*
+* @layer fallbacks {
+*   .masonry {
+*      display: flex;
+*      flex-wrap: wrap;
+*   }
+* }
+*
+* @supports (grid-template-rows: masonry) {
+*  .masonry {
+*      display: grid;
+*      grid-template-rows: masonry;
+*  }
+* } */
+
+/* Columns */
+.col-2,
+.col-3,
+.col-4,
+.col-5 {
+  columns: 1;
+  column-gap: var(--s-1);
+}
+
+div.col-2,
+div.col-3,
+div.col-4,
+div.col-5 {
+  margin-block-end: var(--s-1);
+}
+
+@media screen and (min-width: 62.25rem) {
+  .col-2 {
+    columns: 2;
+  }
+
+  .col-3 {
+    columns: 3;
+  }
+
+  .col-4 {
+    columns: 4;
+  }
+
+  .col-5 {
+    columns: 5;
+  }
+}
+
+/* .index */
+.index {
+  font-family: var(--mpb-font-sans);
+
+  & a {
+    text-decoration: none;
+  }
+
+  li {
+    margin-block-end: var(--s-1);
+
+    line-height: calc(1em + .25rem);
+
+    list-style-type: none;
+  }
+}
+
+/* <dd> styles */
+.dd-add-space {
+  dd + dd {
+    margin-block-start: var(--s1);
+  }
+}
+
+[data-i='Stack-var(--s1)false'] > dd+br {
+  margin-block-start: 0;
+  }
+
+/* .after-icon spacer */
+.after-icon {
+  display: inline-block;
+  inline-size: .5ch;
+}
+
+/* #mpb-logo (footer icon) */
+#mpb-logo-wrapper {
+  margin-block: var(--s1);
+
+  svg {
+    inline-size: 6rem;
+  }
+}
+
+/* Footnotes & sidenotes */
+
+#space-occupier {
+  min-inline-size:30ch;
+  height: 0;
+  margin: 0;
+}
+
+.app-marginnotes-list {
+  list-style: none;
+}
+
+#fnref\:1 {
+  anchor-name: --fn-1;
+}
+
+#fnref\:2 {
+  anchor-name: --fn-2;
+}
+
+#fnref\:3 {
+  anchor-name: --fn-3;
+}
+
+#fnref\:4 {
+  anchor-name: --fn-4;
+}
+
+#fnref\:5 {
+  anchor-name: --fn-5;
+}
+
+#fnref\:6 {
+  anchor-name: --fn-6;
+}
+
+#fnref\:7 {
+  anchor-name: --fn-7;
+}
+
+
+#fnref\:8 {
+  anchor-name: --fn-8;
+}
+
+#fnref\:9 {
+  anchor-name: --fn-9;
+}
+
+#fnref\:10 {
+  anchor-name: --fn-10;
+}
+
+#mnref\:1 {
+  anchor-name: --mn-1;
+}
+
+#mnref\:2 {
+  anchor-name: --mn-2;
+}
+
+#mnref\:3 {
+  anchor-name: --mn-3;
+}
+
+#mnref\:4 {
+  anchor-name: --mn-4;
+}
+
+#mnref\:5 {
+  anchor-name: --mn-5;
+}
+
+#mnref\:6 {
+  anchor-name: --mn-6;
+}
+
+#mnref\:7 {
+  anchor-name: --mn-7;
+}
+
+
+#mnref\:8 {
+  anchor-name: --mn-8;
+}
+
+#mnref\:9 {
+  anchor-name: --mn-9;
+}
+
+#mnref\:10 {
+  anchor-name: --mn-10;
+}
+
+/* Fixes notes being too wide on small mobile devices. */
+ #sidenotes {
+  max-inline-size: 21ch;
+}
+
+/* Fixes notes being too wide on small mobile devices. */
+[id^="fn\:"],
+[id^="mn\:"] {
+  max-inline-size: none;
+}
+
+/* Reset for larger screens. */
+@media screen and (min-width: 20rem) {
+
+  #sidenotes {
+    max-inline-size: none;
+  }
+
+  [id^="fn\:"],
+  [id^="mn\:"] { /* Span body width when wrapped */
+    max-inline-size: none;
+  }
+}
+
+@media screen and (min-width: 64rem) {
+  [id^="fn\:"],
+  [id^="mn\:"] { /* Fit sidebar width when not wrapped */
+    max-inline-size: 30ch;
+  }
+}
+
+.flex_box-flexed {
+
+  #sidenotes li {
+    padding-inline-end: var(--s1);
+  }
+
+  [id^="fn\:"],
+  [id^="mn\:"] {
+    bottom: auto;
+    anchor-name: --sidenote;
+    inset-block-start: max(anchor(start) , calc(anchor(--sidenote bottom) + var(--s1)));
+
+    @supports (anchor-name: --sidenote) {
+      position: absolute;
+    }
+  }
+
+  #fn\:1 {
+    position-anchor: --fn-1;
+    inset-block-start: calc(anchor(start) - var(--s1));
+  }
+
+  #fn\:2 {
+    position-anchor: --fn-2;
+  }
+
+  #fn\:3 {
+    position-anchor: --fn-3;
+  }
+
+  #fn\:4 {
+    position-anchor: --fn-4;
+  }
+
+  #fn\:5 {
+    position-anchor: --fn-5;
+  }
+
+  #fn\:6 {
+    position-anchor: --fn-6;
+  }
+
+  #fn\:7 {
+    position-anchor: --fn-6;
+  }
+
+  #fn\:7 {
+    position-anchor: --fn-7;
+  }
+
+  #fn\:8 {
+    position-anchor: --fn-8;
+  }
+
+  #fn\:9 {
+    position-anchor: --fn-9;
+  }
+
+  #fn\:10 {
+    position-anchor: --fn-10;
+  }
+
+  #mn\:1 {
+    position-anchor: --mn-1;
+    inset-block-start: calc(anchor(start) - var(--s1));
+  }
+
+  #mn\:2 {
+    position-anchor: --mn-2;
+  }
+
+  #mn\:3 {
+    position-anchor: --mn-3;
+  }
+
+  #mn\:4 {
+    position-anchor: --mn-4;
+  }
+
+  #mn\:5 {
+    position-anchor: --mn-5;
+  }
+
+  #mn\:6 {
+    position-anchor: --mn-6;
+  }
+
+  #mn\:7 {
+    position-anchor: --mn-6;
+  }
+
+  #mn\:7 {
+    position-anchor: --mn-7;
+  }
+
+  #mn\:8 {
+    position-anchor: --mn-8;
+  }
+
+  #mn\:9 {
+    position-anchor: --mn-9;
+  }
+
+  #mn\:10 {
+    position-anchor: --mn-10;
+  }
+}
+
+/* Pagination */
+#pagination {
+
+  #mpb-lettermark {
+    color: var(--mpb-color-accent);
+  }
+
+  svg {
+    inline-size: 3rem;
+  }
+}
+
+#pagination {
+  max-width: 58ch;
+}
+
+#footer-main {
+  max-width: 60ch;
+}
+
+#pagination,
+#footer-main {
+  margin-block-end: var(--s2);
+}
+
+#scroller-wrapper {
+  position: absolute;
+  inset-block-start: var(--scrollLength);
+  inset-inline-end: 0.25rem;
+  inset-block-end: -5em;
+  inline-size: 3em;
+  pointer-events: none;
+}
+
+#scroller {
+  display: inline-block;
+  /* `fixed` is fallback */
+  position: fixed;
+  /* preferred positioning, requires prefixing for most support, and not supported on Safari @link https://caniuse.com/#search=position%3A%20sticky */
+  position: sticky;
+  /* reinstate clicks */
+  pointer-events: all;
+  /* achieves desired positioning within the viewport relative to the top of the viewport once `sticky` takes over, or always if `fixed` fallback is used */
+  inset-block-start: calc(100vh - 5rem);
+  text-decoration: none;
+  font-size: 2rem;
+  line-height: 3rem;
+  text-align: center;
+  inline-size: 2.5rem;
+  block-size: 2.5rem;
+  border-radius: 50%;
+  border: .1rem solid var(--mpb-color-textPrimary);
+  background-color: var(--mpb-color-textSecondary);
+  /* emoji don't behave like regular fonts
+     so this helped position it correctly */
+  padding: 0.25rem;
+
+  svg {
+    display: inline-block;
+    inline-size: 1rem;
+    text-align: center;
+    vertical-align: text-top;
+  }
+}
+
+.staff-wrapper {
+  text-align: center;
+
+  figure, img {
+    margin-inline: auto;
+  }
+
+  h2 {
+    font-size: var(--mpb-font-size-0);
+  }
+
+  p {
+    font-size: var(--mpb-font-size--2);
+  }
+}
+
+#mixologist-wrapper {
+  margin-block-start: var(--s3);
+}
+
+#okie-x-artist-survey {
+  border: 1px solid currentColor;
+  border-radius: var(--mpb-radius-1x);
+  padding: var(--s1);
+}
+
+#sitemap {
+
+  column-gap: var(--s2);
+  column-rule: 1px solid var(--mpb-color-textPrimary);
+
+  h2 {
+    font-size: var(--mpb-font-size-1);
+  }
+
+  ul {
+    position: relative;
+    inset-inline-start: -2em;
+    inline-size: calc(100% + 1em);
+    list-style: none;
+
+    svg {
+      margin-inline-end: .5em;
+    }
+  }
+
+  li:not(:last-of-type) {
+    margin-block-end: var(--s-4);
+  }
+}
+
+.taglist li:not(:last-of-type) {
+  margin-block-end: var(--s1);
+}
+
+/* Wedding Pricelist */
+.wedding-services-wrapper {
+  background-color: var(--mpb-color-figureBG);
+
+  .header-pricelist {
+    background-color: var(--mpb-color-textPrimary);
+    padding: var(--s1);
+
+    h2 {
+      font-family: var(--mpb-font-display-sc);
+      font-variant: normal;
+      font-size: var(--mpb-font-size-1);
+      text-align: center;
+
+      a,
+      a:visited {
+        color: var(--mpb-color-textReverse);
+      }
+
+      :after {
+        display: none;
+      }
+    }
+  }
+
+  li {
+    font-family: var(--mpb-font-sans);
+    font-size: var(--mpb-font-size--1);
+
+    &:not(:last-of-type) {
+      margin-block-end: var(--s-2);
+    }
+  }
+
+  .button {
+    text-align: center;
+    margin-inline: auto;
+    margin-bottom: var(--s1);
+  }
+}
+
+.wedding-price {
+  font-size: var(--mpb-font-size-5);
+  text-align: center;
+
+  span {
+    color: var(--mpb-color-accent);
+    font-size: var(--mpb-font-size--2);
+    line-height: 1;
+    vertical-align: super;
+    margin-inline-end: .25ch;
+  }
+}

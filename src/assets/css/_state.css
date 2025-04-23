@@ -1,0 +1,68 @@
+/**
+ * 1. fadeout & fadein animation for hiding & showing stuff
+ * 2. :focus-visible styles
+ */
+
+.header-footer > ul > li {
+   > a.current,
+   > a.current:visited {
+    text-decoration-line: underline;
+    text-decoration-style: solid;
+    text-decoration-thickness: .5rem;
+    text-underline-offset: .5rem;
+
+    color: var(--mpb-color-accent);
+   }
+}
+
+.header-footer .navigation__link:has(+ .navigation__button + .navigation__submenu a.current),
+.header-footer .navigation__link:has(+ .navigatin__button + .navigation__submenu a.current:visited) {
+    text-decoration-line: underline;
+    text-decoration-style: solid;
+    text-decoration-thickness: .5rem;
+    text-underline-offset: .5rem;
+
+    color: var(--mpb-color-accent);
+}
+
+@keyframes fadeout {
+  from { display: block; max-height: 10vh;}
+  to { opacity: 0; max-height: 0;}
+}
+
+/* Hiding and showing */
+@keyframes fadein {
+  from { opacity: 0; max-height: 0 }
+  to { opacity: 1; max-height: 10vh;}
+}
+
+.hide,
+#search-hint__wrapper.hide,
+#searchClear.hide {
+  display: none;
+
+  animation: fadeout 0ms;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .hide,
+  #search-hint__wrapper.hide {
+    animation: fadeout 200ms var(--ease-out-1);
+  }
+  .show {
+    animation: fadein 200ms var(--ease-in-1);
+  }
+}
+
+.show {
+  display: block;
+
+  animation: fadein 0ms;
+}
+
+/* Focus outline */
+:focus-visible {
+  outline: var(--mpb-alert-border-width) auto var(--mpb-color-accent);
+  outline-offset: var(--s-5);
+  border-radius: var(--mpb-radius-1x);
+}

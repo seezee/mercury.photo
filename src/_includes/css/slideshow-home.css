@@ -1,0 +1,503 @@
+/**
+  * PURE RESPONSIVE CSS3 SLIDESHOW GALLERY adapted from Roko C. buljan
+  * http://stackoverflow.com/a/34696029/383904
+  * https://codepen.io/rokobuljan/pen/XXzqKQ
+  *
+  */
+
+/* SLIDER */
+
+.slider-wrapper {
+  position: relative;
+  overflow: hidden;
+  block-size: 100%; /* Or set a fixed height */
+  color: var(--mpb-color-textPrimary);
+  text-align: center;
+}
+
+.slider-wrapper .slider {
+  block-size: 100%;
+  white-space: nowrap;
+  font-size: 0;
+  transition: 0.8s;
+}
+
+/* SLIDES */
+
+.slider-wrapper .slider > * {
+  display: inline-block;
+  white-space: normal;
+  vertical-align: top;
+  block-size: 100%;
+  inline-size: 100%;
+  background: none 50% no-repeat;
+  background-size: cover;
+}
+
+/* PREV/NEXT, CONTAINERS & ANCHORS */
+
+.slider-wrapper .prevNext {
+  position: absolute;
+  z-index: 1;
+  inset-block-start: 50%;
+  block-size: 0;
+  inline-size: 100%;
+}
+
+.slider-wrapper .prevNext svg {
+  display: inline-block;
+  inline-size: 2rem;
+  text-align: center;
+  vertical-align: middle;
+}
+
+.slider-wrapper .prevNext > div+div {
+  visibility: hidden; /* Hide all but first P/N container */
+}
+
+.slider-wrapper .prevNext a {
+  background-color: #fff;
+  position: absolute;
+  width:       3.75rem;
+  height:      3.75rem;
+  line-height: 3.75rem; /* If you want to place numbers */
+  text-align: center;
+  opacity: 0.7;
+  -webkit-transition: 0.3s;
+          transition: 0.3s;
+  -webkit-transform: translateY(-50%);
+          transform: translateY(-50%);
+  inset-inline-start: 0;
+}
+
+[data-theme='dark']  .slider-wrapper .prevNext a {
+  background-color: #000;
+}
+
+.slider-wrapper .prevNext a:hover {
+  opacity: 1;
+}
+
+.slider-wrapper .prevNext a+a {
+  inset-inline-start: auto;
+  inset-inline-end: 0;
+}
+
+/* NAVIGATION */
+
+.slider-wrapper .bullets {
+  position: absolute;
+  z-index: 2;
+  inset-block-end: 0;
+  padding-block: 1rem;
+  padding-inline: 0;
+  width: 100%;
+  text-align: center;
+}
+
+.slider-wrapper .bullets > a {
+  display: inline-block;
+  width:       2rem;
+  height:      2rem;
+  line-height: 2rem;
+  text-decoration: none;
+  text-align: center;
+  background: rgba(255, 255, 255, 1);
+  -webkit-transition: 0.3s;
+          transition: 0.3s;
+}
+
+.slider-wrapper .bullets > a+a {
+  background: rgba(255, 255, 255, 0.5); /* Dim all but first */
+}
+
+.slider-wrapper .bullets > a:hover {
+  background: rgba(255, 255, 255, 0.7) !important;
+}
+
+/* NAVIGATION BUTTONS */
+/* ALL: */
+.slider-wrapper > s:target ~ .bullets > * {
+  background: rgba(255, 255, 255, 0.5);
+}
+/* ACTIVE */
+#s1:target ~ .bullets > *:nth-child(1),
+#s2:target ~ .bullets > *:nth-child(2),
+#s3:target ~ .bullets > *:nth-child(3),
+#s4:target ~ .bullets > *:nth-child(4),
+#s5:target ~ .bullets > *:nth-child(5),
+#s6:target ~ .bullets > *:nth-child(6),
+#s7:target ~ .bullets > *:nth-child(7),
+#s8:target ~ .bullets > *:nth-child(8),
+#s9:target ~ .bullets > *:nth-child(9),
+#s10:target ~ .bullets > *:nth-child(10),
+#s11:target ~ .bullets > *:nth-child(11),
+#s12:target ~ .bullets > *:nth-child(12),
+#s13:target ~ .bullets > *:nth-child(13),
+#s14:target ~ .bullets > *:nth-child(14),
+#s15:target ~ .bullets > *:nth-child(15),
+#s16:target ~ .bullets > *:nth-child(16) {
+  background-color: rgba(255, 255, 255, 1);
+}
+
+/* More slides? Add here more rules */
+
+/* PREV/NEXT CONTAINERS VISIBILITY */
+/* ALL: */
+.slider-wrapper > s:target ~ .prevNext > * {
+  visibility: hidden;
+}
+
+/* ACTIVE: */
+#s1:target ~ .prevNext > *:nth-child(1),
+#s2:target ~ .prevNext > *:nth-child(2),
+#s3:target ~ .prevNext > *:nth-child(3),
+#s4:target ~ .prevNext > *:nth-child(4),
+#s5:target ~ .prevNext > *:nth-child(5),
+#s6:target ~ .prevNext > *:nth-child(6),
+#s7:target ~ .prevNext > *:nth-child(7),
+#s8:target ~ .prevNext > *:nth-child(8),
+#s9:target ~ .prevNext > *:nth-child(9),
+#s10:target ~ .prevNext > *:nth-child(10),
+#s11:target ~ .prevNext > *:nth-child(11),
+#s12:target ~ .prevNext > *:nth-child(12),
+#s13:target ~ .prevNext > *:nth-child(13),
+#s14:target ~ .prevNext > *:nth-child(14),
+#s15:target ~ .prevNext > *:nth-child(15),
+#s16:target ~ .prevNext > *:nth-child(16) {
+  visibility: visible;
+}
+/* More slides? Add here more rules */
+
+/* SLIDER ANIMATION POSITIONS */
+
+#s1:target ~ .slider {
+  transform: translateX(0%);
+  -webkit-transform: translateX(0%);
+}
+
+#s2:target ~ .slider {
+  transform: translateX(-100%);
+  -webkit-transform: translateX(-100%);
+}
+
+#s3:target ~ .slider {
+  transform: translateX(-200%);
+  -webkit-transform: translateX(-200%);
+}
+
+#s4:target ~ .slider {
+  transform: translateX(-300%);
+  -webkit-transform: translateX(-300%);
+}
+
+#s5:target ~ .slider {
+  transform: translateX(-400%);
+  -webkit-transform: translateX(-400%);
+}
+
+#s6:target ~ .slider {
+  transform: translateX(-500%);
+  -webkit-transform: translateX(-500%);
+}
+
+#s7:target ~ .slider {
+  transform: translateX(-600%);
+  -webkit-transform: translateX(-600%);
+}
+
+#s8:target ~ .slider {
+  transform: translateX(-700%);
+  -webkit-transform: translateX(-700%);
+}
+
+#s9:target ~ .slider {
+  transform: translateX(-800%);
+  -webkit-transform: translateX(-800%);
+}
+
+#s10:target ~ .slider {
+  transform: translateX(-900%);
+  -webkit-transform: translateX(-900%);
+}
+
+#s11:target ~ .slider {
+  transform: translateX(-1000%);
+  -webkit-transform: translateX(-1000%);
+}
+
+#s12:target ~ .slider {
+  transform: translateX(-1100%);
+  -webkit-transform: translateX(-1100%);
+}
+
+#s13:target ~ .slider {
+  transform: translateX(-1200%);
+  -webkit-transform: translateX(-1200%);
+}
+
+#s14:target ~ .slider {
+  transform: translateX(-1300%);
+  -webkit-transform: translateX(-1300%);
+}
+
+#s15:target ~ .slider {
+  transform: translateX(-1400%);
+  -webkit-transform: translateX(-1400%);
+}
+
+#s16:target ~ .slider {
+  transform: translateX(-1500%);
+  -webkit-transform: translateX(-1500%);
+}
+/* More slides? Add here more rules */
+
+.slider-wrapper [id^='sw'] {
+  block-size: 100vh;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+
+#sw1 {
+  background-image:
+    url('assets/images/site/slideshow/hero-01-l-xlg-1x.jpg');
+  background-image: image-set(
+    url('assets/images/site/slideshow/hero-01-l-xlg-1x.webp') 1x,
+    url('assets/images/site/slideshow/hero-01-l-xlg-2x.webp') 2x
+  );
+}
+
+#sw2 {
+  background-image:
+    url('assets/images/site/slideshow/hero-02-l-xlg-1x.jpg');
+  background-image: image-set(
+    url('assets/images/site/slideshow/hero-02-l-xlg-1x.webp') 1x,
+    url('assets/images/site/slideshow/hero-02-l-xlg-2x.webp') 2x
+  );
+}
+
+#sw3 {
+  background-image:
+    url('assets/images/site/slideshow/hero-03-l-xlg-1x.jpg');
+  background-image: image-set(
+    url('assets/images/site/slideshow/hero-03-l-xlg-1x.webp') 1x,
+    url('assets/images/site/slideshow/hero-03-l-xlg-2x.webp') 2x
+  );
+}
+
+#sw4 {
+  background-image:
+    url('assets/images/site/slideshow/hero-04-l-xlg-1x.jpg');
+  background-image: image-set(
+    url('assets/images/site/slideshow/hero-04-l-xlg-1x.webp') 1x,
+    url('assets/images/site/slideshow/hero-04-l-xlg-2x.webp') 2x
+  );
+}
+
+#sw5 {
+  background-image:
+    url('assets/images/site/slideshow/hero-05-l-xlg-1x.jpg');
+  background-image: image-set(
+    url('assets/images/site/slideshow/hero-05-l-xlg-1x.webp') 1x,
+    url('assets/images/site/slideshow/hero-05-l-xlg-2x.webp') 2x
+  );
+}
+
+#sw6 {
+  background-image:
+    url('assets/images/site/slideshow/hero-06-l-xlg-1x.jpg');
+  background-image: image-set(
+    url('assets/images/site/slideshow/hero-06-l-xlg-1x.webp') 1x,
+    url('assets/images/site/slideshow/hero-06-l-xlg-2x.webp') 2x
+  );
+}
+
+#sw7 {
+  background-image:
+    url('assets/images/site/slideshow/hero-07-l-xlg-1x.jpg');
+  background-image: image-set(
+    url('assets/images/site/slideshow/hero-07-l-xlg-1x.webp') 1x,
+    url('assets/images/site/slideshow/hero-07-l-xlg-2x.webp') 2x
+  );
+}
+
+#sw8 {
+  background-image:
+    url('assets/images/site/slideshow/hero-08-l-xlg-1x.jpg');
+  background-image: image-set(
+    url('assets/images/site/slideshow/hero-08-l-xlg-1x.webp') 1x,
+    url('assets/images/site/slideshow/hero-08-l-xlg-2x.webp') 2x
+  );
+}
+
+#sw9 {
+  background-image:
+    url('assets/images/site/slideshow/hero-09-l-xlg-1x.jpg');
+  background-image: image-set(
+    url('assets/images/site/slideshow/hero-09-l-xlg-1x.webp') 1x,
+    url('assets/images/site/slideshow/hero-09-l-xlg-2x.webp') 2x
+  );
+}
+
+#sw10 {
+  background-image:
+    url('assets/images/site/slideshow/hero-10-l-xlg-1x.jpg');
+  background-image: image-set(
+    url('assets/images/site/slideshow/hero-10-l-xlg-1x.webp') 1x,
+    url('assets/images/site/slideshow/hero-10-l-xlg-2x.webp') 2x
+  );
+}
+
+#sw11 {
+  background-image:
+    url('assets/images/site/slideshow/hero-11-l-xlg-1x.jpg');
+  background-image: image-set(
+    url('assets/images/site/slideshow/hero-11-l-xlg-1x.webp') 1x,
+    url('assets/images/site/slideshow/hero-11-l-xlg-2x.webp') 2x
+  );
+}
+
+#sw12 {
+  background-image:
+    url('assets/images/site/slideshow/hero-12-l-xlg-1x.jpg');
+  background-image: image-set(
+    url('assets/images/site/slideshow/hero-12-l-xlg-1x.webp') 1x,
+    url('assets/images/site/slideshow/hero-12-l-xlg-2x.webp') 2x
+  );
+}
+
+#sw13 {
+  background-image:
+    url('assets/images/site/slideshow/hero-13-l-xlg-1x.jpg');
+  background-image: image-set(
+    url('assets/images/site/slideshow/hero-13-l-xlg-1x.webp') 1x,
+    url('assets/images/site/slideshow/hero-13-l-xlg-2x.webp') 2x
+  );
+}
+
+#sw14 {
+  background-image:
+    url('assets/images/site/slideshow/hero-14-l-xlg-1x.jpg');
+  background-image: image-set(
+    url('assets/images/site/slideshow/hero-14-l-xlg-1x.webp') 1x,
+    url('assets/images/site/slideshow/hero-14-l-xlg-2x.webp') 2x
+  );
+}
+
+#sw15 {
+  background-image:
+    url('assets/images/site/slideshow/hero-15-l-xlg-1x.jpg');
+  background-image: image-set(
+    url('assets/images/site/slideshow/hero-15-l-xlg-1x.webp') 1x,
+    url('assets/images/site/slideshow/hero-15-l-xlg-2x.webp') 2x
+  );
+}
+
+#sw16 {
+  background-image:
+    url('assets/images/site/slideshow/hero-16-l-xlg-1x.jpg');
+  background-image: image-set(
+    url('assets/images/site/slideshow/hero-16-l-xlg-1x.webp') 1x,
+    url('assets/images/site/slideshow/hero-16-l-xlg-2x.webp') 2x
+  );
+}
+
+.slider-wrapper #overlay,
+.slider-wrapper [id^="watermark"] {
+  position: absolute;
+  inset: 0;
+  background-repeat: repeat;
+  opacity: .5;
+}
+
+.slider-wrapper #overlay {
+  background-image: url('assets/images/site/slideshow/overlay.svg');
+  background-size: 12rem;
+  inline-size: 1600%;
+  block-size: 100vh;
+}
+
+.slider-wrapper [id^="watermark"] {
+  background-image: url('assets/images/site/slideshow/watermark.svg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: 30vw;
+}
+
+#watermark02 {
+  inset-inline-start: 100%;
+}
+
+#watermark03 {
+  inset-inline-start: 200%;
+}
+
+#watermark04 {
+  inset-inline-start: 300%;
+}
+
+#watermark05 {
+  inset-inline-start: 400%;
+}
+
+#watermark06 {
+  inset-inline-start: 500%;
+}
+
+#watermark07 {
+  inset-inline-start: 600%;
+}
+
+#watermark08 {
+  inset-inline-start: 700%;
+}
+
+#watermark09 {
+  inset-inline-start: 800%;
+}
+
+#watermark10 {
+  inset-inline-start: 900%;
+}
+
+#watermark11 {
+  inset-inline-start: 1000%;
+}
+
+#watermark12 {
+  inset-inline-start: 1100%;
+}
+
+#watermark13 {
+  inset-inline-start: 1200%;
+}
+
+#watermark14 {
+  inset-inline-start: 1300%;
+}
+
+#watermark15 {
+  inset-inline-start:1400%;
+}
+
+#watermark16 {
+  inset-inline-start: 1500%;
+}
+
+.slider-wrapper a {
+  border-radius: 50%;
+  margin: 0 3px;
+  color: rgba(0,0,0,0.8);
+  text-decoration: none;
+}
+
+#main-wrapper {
+  inline-size: 100vw;
+  max-inline-size: 100vw;
+  position: relative;
+  inset-inline-start: 50%;
+  inset-inline-end: 50%;
+  margin-inline-start: -50vw;
+  margin-inline-end: -50vw;
+}

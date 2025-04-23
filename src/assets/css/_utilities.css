@@ -1,0 +1,172 @@
+/**
+ * Utilities CSS
+ *
+ * 1. .alignleft, .alignright, .aligncenter
+ * 2. .no-break
+ * 3. .sr-only,.keywords, .govuk-visually-hidden
+ * 4. .frac
+ * 5. .small-caps, #breadcrumbs
+ * 6. .short-work
+ */
+
+ /* .alignleft, .alignright, .aligncenter */
+.alignleft {
+  text-align: start;
+}
+
+.alignright {
+  text-align:end
+}
+
+.aligncenter {
+  text-align: center;
+  text-wrap: balance;
+}
+
+/* .no-break */
+.no-break {
+  break-inside: avoid;
+}
+/* .sr-only, .keywords, .govuk-visually-hidden */
+.sr-only,
+.keywords,
+.govuk-visually-hidden {
+
+  &:not(:focus-visible) {
+    position: absolute;
+    display: inline-block;
+    inline-size: 1px;
+    block-size: 1px;
+    padding: 0;
+    margin: -1px;
+    overflow: hidden;
+    clip: rect(0, 0, 0, 0);
+
+    white-space: nowrap;
+
+    border-width: 0;
+  }
+}
+
+/* .frac */
+.frac sup,
+.frac sub {
+  font-size: .55rem;
+}
+
+.frac sub {
+  display: inline-block;
+  position: relative;
+  inset-inline-start: -.1rem;
+  inset-block-start: -.2rem;
+}
+
+table .frac {
+  display: inline-block;
+  position: relative;
+  inset-inline-start: -.25rem;
+  margin-inline-end: -.6rem;
+  font-weight: 600;
+
+  sup {
+    display: inline-block;
+    position: relative;
+    inset-inline-end: -.25rem;
+  }
+
+  sub {
+    inset-inline-start: -.25rem;
+  }
+}
+
+/* Tooltip */
+.tooltip[title] {
+  text-decoration: underline dotted;
+  cursor: pointer;
+}
+
+/* Drop caps */
+
+.drop-cap:first-letter {
+  font-family: "Playfair Display", serif;
+  font-size: 5rem;
+  color: var(--mpb-color-accent);
+  float: left;
+  line-height: .8;
+  margin-inline-end: 0.05em;
+  text-shadow: -2px 2px var(--mpb-color-textSecondary), -4px 4px #d6cec2;
+}
+
+.drop-cap.descender::first-letter {
+  margin-block-end: .2em;
+}
+
+h1,
+hgroup:has(stack-l h1) {
+
+  ~ p:not(:empty):first-of-type::first-letter {
+    font-family: "Playfair Display", serif;
+    font-size: 5rem;
+    color: var(--mpb-color-accent);
+    float: left;
+    line-height: .8;
+    margin-inline-end: 0.05em;
+    text-shadow: -2px 2px var(--mpb-color-textSecondary), -4px 4px #d6cec2;
+   }
+
+  ~ p:not(:empty).descender:first-of-type::first-letter {
+    margin-block-end: .2em;
+  }
+
+  &:before,
+  &:after {
+    content: "";
+    display: block;
+  }
+}
+
+hgroup:has(h1) h1 ~ p:not(:empty):first-of-type:first-letter {
+  font: inherit;
+  color: inherit;
+  float: none;
+  line-height: inherit;
+  margin-inline-end: inherit;
+  text-shadow: none;
+
+  &:before,
+  &:after {
+    content: unset;
+    display: inline;
+  }
+}
+
+/* .small-caps, #breadcrumbs */
+.small-caps,
+#breadcrumbs {
+  font-variant:  all-small-caps;
+  letter-spacing: .05ch;
+}
+
+.no-small-caps {
+  font-variant: normal;
+}
+
+/* .short-work */
+.short-work {
+  font-style: normal;
+
+  quotes: "\201C" "\201D" "\2018" "\2019";
+
+  &::before {
+    content: open-quote;
+  }
+
+  &::after {
+    content: close-quote;
+  }
+
+}
+
+.icon-before svg {
+  margin-inline-end: .5em;
+}

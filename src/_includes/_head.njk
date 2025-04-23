@@ -1,0 +1,161 @@
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <!-- Grab title from the page data and dump it here -->
+  <link rel="icon" href="/favicon.ico" sizes="48x48"><!-- `sizes="48x48"` tricks Chromium browsers into using the SVG. Safari sitll doesn't support SVG; it will use the .ico -->
+  <link rel="icon" href="/icon.svg" sizes="any" type="image/svg+xml">
+  <link rel="apple-touch-icon" href="/apple-touch-icon.png"><!-- 180×180 -->
+  <link rel="manifest" href="/manifest.webmanifest" crossorigin="use-credentials">
+  <link rel=”preload” href=”assets/fonts/Merriweather-Variable.woff2″ crossorigin>
+  <link rel=”preload” href=”assets/fonts/MerriweatherSans-Variable.woff2″ crossorigin>
+  <link rel=”preload” href=”assets/fonts/PlayfarDisplay-Variable.woff2″ crossorigin>
+  <!-- Must load in head or masonry layout fails -->
+  <script src="/assets/js/index.js" type="module"></script>
+  <script type="speculationrules">
+    {
+      "prerender": [
+        {
+          "where": {
+            "href_matches": "/*"
+          },
+          "eagerness": "eager"
+        }
+      ]
+    }
+  </script>
+  <style>
+    :root {
+      --mpb-search-icon: url(/assets/images/icons/search.svg);
+      --mpb-external-icon: url(/assets/images/icons/external.svg);
+      --mpb-details-marker: url(/assets/images/icons/chevron-right.svg);
+      --mbp-arrow-up: url(/assets/images/icons/arrow-up.svg);
+    }
+
+    [data-theme='dark'] {
+        --mpb-search-icon: url(/assets/images/icons/search-dark.svg);
+        --mpb-external-icon: url(/assets/images/icons/external-dark.svg);
+        --mpb-details-marker: url(/assets/images/icons/chevron-right-dark.svg);
+    }
+
+    @font-face{
+      font-family: Merriweather;
+      src: url('/assets/fonts/Merriweather-Variable.woff2') format('woff2');
+      font-display: swap;
+      font-weight: var(--normal, 500);
+      font-style: normal;
+    }
+
+    @font-face{
+      font-family: Merriweather;
+      src: url('/assets/fonts/Merriweather-Italic-Variable.woff2') format('woff2');
+      font-display: swap;
+      font-weight: var(--normal, 500);
+      font-style: italic;
+    }
+
+    @font-face{
+      font-family: MerriweatherSans;
+      src: url('/assets/fonts/MerriweatherSans-Variable.woff2') format('woff2');
+      font-display: swap;
+      font-weight: var(--normal, 500);
+      font-style: normal;
+    }
+
+    @font-face{
+      font-family: MerriweatherSans;
+      src: url('/assets/fonts/MerriweatherSans-Italic-Variable.woff2') format('woff2');
+      font-display: swap;
+      font-weight: var(--normal, 500);
+      font-style: italic;
+    }
+
+    @font-face{
+      font-family: Playfair;
+      src: url('/assets/fonts/PlayfairDisplay-Variable.woff2') format('woff2');
+      font-display: swap;
+      font-style: normal;
+      font-weight: var(--normal, 500);
+      font-variant: normal;
+    }
+
+    @font-face{
+      font-family: Playfair;
+      src: url('/assets/fonts/PlayfairDisplay-Italic-Variable.woff2') format('woff2');
+      font-display: swap;
+      font-style: italic;
+      font-weight: var(--normal, 500);
+      font-variant: normal;
+    }
+
+    @font-face{
+      font-family: PlayfairSC;
+      src: url('/assets/fonts/PlayfairDisplaySC-Regular.woff2') format('woff2');
+      font-display: swap;
+      font-weight: var(--normal, 500);
+      font-style: normal;
+      font-variant: small-caps;
+    }
+
+    @font-face{
+      font-family: PlayfairSC;
+      src: url('/assets/fonts/PlayfairDisplaySC-Italic.woff2') format('woff2');
+      font-display: swap;
+      font-weight: var(--normal, 500);
+      font-style: italic;
+      font-variant: small-caps;
+    }
+
+    @font-face{
+      font-family: PlayfairSC;
+      src: url('/assets/fonts/PlayfairDisplaySC-Bold.woff2') format('woff2');
+      font-display: swap;
+      font-weight: var(--bold, 700);
+      font-style: normal;
+      font-variant: small-caps;
+    }
+
+    @font-face{
+      font-family: PlayfairSC;
+      src: url('/assets/fonts/PlayfairDisplaySC-BoldItalic.woff2') format('woff2');
+      font-display: swap;
+      font-weight: var(--bold, 700);
+      font-style: italic;
+      font-variant: small-caps;
+    }
+
+    @font-face{
+      font-family: Cousine;
+      src: url('/assets/fonts/Cousine-Regular.woff2') format('woff2');
+      font-display: swap;
+      font-weight: var(--normal, 500);
+      font-style: normal;
+    }
+
+    @font-face{
+      font-family: Cousine;
+      src: url('/assets/fonts/Cousine-Italic.woff2') format('woff2');
+      font-display: swap;
+      font-weight: var(--normal, 500);
+      font-style: italic;
+    }
+
+    @font-face{
+      font-family: Cousine;
+      src: url('/assets/fonts/Cousine-Bold.woff2') format('woff2');
+      font-display: swap;
+      font-weight: var(--bold, 700);
+      font-style: normal;
+    }
+
+    @font-face{
+      font-family: Cousine;
+      src: url('/assets/fonts/Cousine-BoldItalic.woff2') format('woff2');
+      font-display: swap;
+      font-weight: var(--bold, 700);
+      font-style: italic;
+    }
+  </style>
+  <link rel="stylesheet" href="/assets/css/index.css">
+  <meta property="og:site_name" content="Mercury Photo Bureau">
+  {% seo "" %}
+</head>

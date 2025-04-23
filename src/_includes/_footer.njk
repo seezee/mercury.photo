@@ -1,0 +1,91 @@
+<footer role="contentinfo" id="footer-main">
+  <stack-l>
+    <hr />
+    <cluster-l justify="space-between" align="center">
+      <cluster-l justify="flex-start">
+        <p>Copyright &copy; 2012{{ helpers.currentYear() | safe }} Chris J. Zähller. All rights reserved.</p>
+      </cluster-l>
+      <div id="mpb-logo-wrapper">
+        {% svgIcon "./_site/assets/images/icons/mpb-logo.svg" %}
+      </div>
+      {% include "_nav-footer.njk" %}
+    </cluster-l>
+  </stack-l>
+
+  <!-- Web components, including Every Layout -->
+  <!-- Load only if needed -->
+  <script>
+    if (document.querySelector('mpb-callout')) {
+      import('/assets/js/Admonition.js');
+    };
+    if (document.querySelector('box-l')) {
+      import('/assets/js/Box.js');
+    };
+    if (document.querySelector('center-l')) {
+      import('/assets/js/Center.js');
+    };
+    if (document.querySelector('cluster-l')) {
+      import('/assets/js/Cluster.js');
+    };
+    if (document.querySelector('container-l')) {
+      import('/assets/js/Container.js');
+    };
+    if (document.querySelector('cover-l')) {
+      import('/assets/js/Cover.js');
+    };
+    if (document.querySelector('frame-l')) {
+      import('/assets/js/Frame.js');
+    };
+    if (document.querySelector('grid-l')) {
+      import('/assets/js/Grid.js');
+    };
+    if (document.querySelector('icon-l')) {
+      import('/assets/js/Icon.js');
+    };
+    if (document.querySelector('imposter-l')) {
+      import('/assets/js/Imposter.js');
+    };
+    if (document.querySelector('mpb-dialog-img')) {
+      import('/assets/js/DialogImage.js');
+    };
+    if (document.querySelector('reel-l')) {
+      import('/assets/js/Reel.js');
+    };
+    if (document.querySelector('sidebar-l')) {
+      import('/assets/js/Sidebar.js');
+    };
+    if (document.querySelector('stack-l')) {
+      import('/assets/js/Stack.js');
+    };
+    if (document.querySelector('switcher-l')) {
+      import('/assets/js/Switcher.js');
+    };
+  </script>
+  <script
+    src="/pagefind/pagefind-ui.js"
+    onload="new PagefindUI(
+      {
+        element: `#search`,
+        showImages: false,
+        showSubResults: true,
+        showEmptyFilters: false,
+        resetStyles: false
+      }
+    );">
+  </script>
+  {% set js %}
+    <!-- Inline as many scripts as you like -->
+    <!-- Capture the JS content as a Nunjucks variable -->
+    {% include "js/breadcrumbs.js" %}
+    {% include "js/currentNav.js" %}
+    {% include "js/dropdown.js" %}
+    {% include "js/DisclosureWidget.js" %}
+    {% include "js/masonry.js" %}
+    {% include "js/move-footnotes.js" %}
+    {% include "js/search.js" %}
+  {% endset %}
+  <!-- Feed it through our Terser `jsmin` filter to minify -->
+  <script>
+    {{ js | jsmin | safe }}
+  </script>
+</footer>
