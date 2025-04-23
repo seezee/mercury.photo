@@ -2,14 +2,14 @@
 
 * Contributors: Chris J. Zähller (seezee)
 * Author URI: <https://github.com/seezee>
-* Version: 1.0.3
+* Version: 1.0.4
 * License: [GNUv3](https://www.gnu.org/licenses/gpl-3.0.en.html) or later
 * License URI: <https://www.gnu.org/licenses/gpl-3.0.html>
 * tags: blog, tiki, rum, cocktails
 
 <div align='center'>
 
-A tiki recipe database built with Eleventy
+A site dedicated to photography, music, and news. Home of the OKIE-X portrait project built with Eleventy.
 
 <h4> <span> · </span> <a href="https://github.com/seezee/mercury.photo/blob/master/README.md"> Documentation </a> <span> · </span> <a href="https://github.com/seezee/mercury.photo/issues"> Report Bug </a> <span> · </span> <a href="https://github.com/seezee/mercury.photo/issues"> Request Feature </a> </h4>
 
