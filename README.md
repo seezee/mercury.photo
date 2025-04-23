@@ -1,4 +1,4 @@
-# Tiki DB by SEEZEE
+# Mercury Photo Bureau
 
 * Contributors: Chris J. Zähller (seezee)
 * Author URI: <https://github.com/seezee>
@@ -17,7 +17,7 @@ A tiki recipe database built with Eleventy
 
 ## :notebook_with_decorative_cover: Table of Contents
 
-- [Tiki DB by SEEZEE](#tiki-db-by-seezee)
+- [Mercury Photo Bureau](#mercury-photo-bureau)
   - [:notebook\_with\_decorative\_cover: Table of Contents](#notebook_with_decorative_cover-table-of-contents)
     - [:bulb: About the Project](#bulb-about-the-project)
     - [:pencil: License](#pencil-license)
@@ -25,11 +25,11 @@ A tiki recipe database built with Eleventy
 
 ### :bulb: About the Project
 
-A personal collection of exotic and historical drink recipes based on Martin Cate’s rum taxonomy. We encourage you to purchase the cited books as they contain useful and sometimes vital information not found on this site.
+A site dedicated to photography, music, and news. Home of the OKIE-X portrait project.
 
 ### :pencil: License
 
-Distributed under [GNUv3](https://www.gnu.org/licenses/gpl-3.0.en.html) or later.
+Code distributed under [GNUv3](https://www.gnu.org/licenses/gpl-3.0.en.html) or later. Content copyright © 2012 – 2025 Chris J. Zähller; all rights reserved.
 
 ### :mailbox_with_mail: Contact
 
