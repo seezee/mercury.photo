@@ -151,6 +151,8 @@ hgroup:has(h1) h1 ~ p:not(:empty):first-of-type:first-letter {
   font-variant: normal;
 }
 
+/* Citations */
+
 /* .short-work */
 .short-work {
   font-style: normal;
@@ -169,4 +171,19 @@ hgroup:has(h1) h1 ~ p:not(:empty):first-of-type:first-letter {
 
 .icon-before svg {
   margin-inline-end: .5em;
+}
+
+/* Aspect ratios */
+
+.aspect {
+  inline-size: 100%,
+  block-size: auto;
+}
+
+.aspect-4x3 {
+  aspect-ratio: 4 / 3;
+}
+
+.aspect-16x9 {
+  aspect-ratio:16 / 9
 }
