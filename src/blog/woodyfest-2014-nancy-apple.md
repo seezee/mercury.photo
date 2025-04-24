@@ -1,5 +1,5 @@
 ---
-layout: _main.njk
+layout: _main-blog.njk
 title: Woodyfest 2014&colon; Nancy Apple
 tags: 
   - blog

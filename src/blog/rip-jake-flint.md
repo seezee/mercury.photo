@@ -1,5 +1,5 @@
 ---
-layout: _main.njk
+layout: _main-blog.njk
 title: R.I.P Jake Flint, 1985&zwj;&hairsp;&zwj;&ndash;&zwj;&hairsp;&zwj;2022
 tags: 
   - blog

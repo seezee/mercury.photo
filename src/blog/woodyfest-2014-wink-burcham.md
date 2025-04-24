@@ -1,5 +1,5 @@
 ---
-layout: _main.njk
+layout: _main-blog.njk
 title: Woodyfest 2014&colon; Wink Burcham
 tags: 
   - blog

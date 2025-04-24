@@ -746,6 +746,8 @@ icon-l {
 /* a (anchor) */
 a,
 a:visited {
+  text-decoration-thickness: from-font;
+  text-underline-offset: 0.2ex;
   color: var(--mpb-color-textPrimary);
 }
 

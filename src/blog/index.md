@@ -12,7 +12,10 @@ eleventyExcludeFromCollections: true
 
 <mpb-callout type="note">
 
-We are in the midst of migrating platforms. Over the next few months we hope to restore all previously published posts, starting with the most recent. If you don't see the post you are looking for, please be patient; it will be reinstated eventually.
+We are in the middle of migrating platforms. Over the next few months we hope to restore all previously published posts, starting with the most recent. Until we finish reinstating the missing posts, some internal links will not work.
+
+If you don't see the post you are looking for or a link directs you to nowhere, please be patient and check back later.
+
 </mpb-callout>
 <ul class="blog-index" role="list">
 {%- for post in collections.blog | reverse -%}

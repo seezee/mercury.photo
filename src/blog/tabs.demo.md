@@ -1,5 +1,5 @@
 ---
-layout: _main.njk
+layout: _main-blog.njk
 title: Tabs Demo
 tags: ignore
 excerpt: Code example for tabs interface

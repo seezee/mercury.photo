@@ -1,0 +1,11 @@
+---
+layout: layout.njk
+---
+<main id="main">
+  <article class="post" data-pagefind-body>
+    <stack-l>
+      {{ content | safe }}
+      <small id="pubdate">Published {{ page.date.toUTCString() | safe }}</small>
+    </stack-l>
+  </article>
+</main>
