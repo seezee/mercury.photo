@@ -83,6 +83,7 @@ initial-value: 0.1;
 
   --mpb-color-accent: var(--mpb-color-secondary-500);
   --mpb-color-accent-reverse: oklch(79.5% 0.1533 79.91);
+  --mpb-color-highlight: var(--mpb-color-accent-reverse);
 
   --mpb-color-submenu-indicator: var(--mpb-c-p-900);
 
