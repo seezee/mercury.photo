@@ -2,7 +2,7 @@
 
 * Contributors: Chris J. Zähller (seezee)
 * Author URI: <https://github.com/seezee>
-* Version: 1.0.8
+* Version: 1.0.9
 * License: [GNUv3](https://www.gnu.org/licenses/gpl-3.0.en.html) or later
 * License URI: <https://www.gnu.org/licenses/gpl-3.0.html>
 * tags: photography, music, journalism
