@@ -271,7 +271,7 @@ dl {
 }
 
 dt {
-  font-family: MerriweatherSans, (--mpb-font-sans);
+  font-family: MerriweatherSans, var(--mpb-font-sans);
   line-height: 1.1;
   text-wrap: balance;
 }
