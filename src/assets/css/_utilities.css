@@ -153,6 +153,11 @@ hgroup:has(h1) h1 ~ p:not(:empty):first-of-type:first-letter {
 
 /* Citations */
 
+/* .full-citation */
+.full-citation {
+  font-style: normal;
+}
+
 /* .short-work */
 .short-work {
   font-style: normal;

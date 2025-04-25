@@ -1,6 +1,6 @@
 ---
 layout: _main-blog.njk
-title: Woodyfest 2014&colon; Backstage, Band Camp, & Okemah
+title: "Woodyfest 2014: Backstage, Band Camp, & Okemah"
 tags: 
   - blog
   - photography, digital

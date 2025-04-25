@@ -1,6 +1,6 @@
 ---
 layout: _main-blog.njk
-title: Woodyfest 2014&colon; Wink Burcham
+title: "Woodyfest 2014: Wink Burcham"
 tags: 
   - blog
   - photography, digital

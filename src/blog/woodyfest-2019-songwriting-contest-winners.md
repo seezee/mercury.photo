@@ -1,6 +1,6 @@
 ---
 layout: _main-blog.njk
-title: Woodyfest 2014&colon; Songwriting Contest Winners
+title: "Woodyfest 2014: Songwriting Contest Winners"
 tags: 
   - blog
   - photography, digital

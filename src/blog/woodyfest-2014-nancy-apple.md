@@ -1,6 +1,6 @@
 ---
 layout: _main-blog.njk
-title: Woodyfest 2014&colon; Nancy Apple
+title: "Woodyfest 2014: Nancy Apple"
 tags: 
   - blog
   - photography, digital

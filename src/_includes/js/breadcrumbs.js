@@ -5,11 +5,11 @@
 
   const home    = document.getElementById(`breadcrumb-home`);
   const path    = document.location.pathname;
-  const blog = path.startsWith(`/blog/`);
+  const blog    = path.startsWith(`/blog/`);
   const legal   = path.startsWith(`/legal/`);
 
   let pathArray = path.split('/');
-  let child  = pathArray[2];
+  let child     = pathArray[2];
 
   if (path === `/`) {
     return;

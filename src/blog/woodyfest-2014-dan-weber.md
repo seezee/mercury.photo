@@ -1,6 +1,6 @@
 ---
 layout: _main-blog.njk
-title: Woodyfest 2014&colon; Dan Weber
+title: "Woodyfest 2014: Dan Weber"
 tags: 
   - blog
   - photography, digital

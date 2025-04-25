@@ -1,16 +1,13 @@
 <footer role="contentinfo" id="footer-main">
-  <stack-l>
-    <hr />
-    <cluster-l justify="space-between" align="center">
-      <cluster-l justify="flex-start">
-        <p>Copyright &copy; 2012{{ helpers.currentYear() | safe }} Chris J. Zähller. All rights reserved.</p>
-      </cluster-l>
-      <div id="mpb-logo-wrapper">
-        {% svgIcon "./_site/assets/images/icons/mpb-logo.svg" %}
-      </div>
-      {% include "_nav-footer.njk" %}
+  <cluster-l justify="space-between" align="center">
+    <cluster-l justify="flex-start">
+      <p>Copyright &copy; 2012{{ helpers.currentYear() | safe }} Chris J. Zähller. All rights reserved.</p>
     </cluster-l>
-  </stack-l>
+    <div id="mpb-logo-wrapper">
+      {% svgIcon "./_site/assets/images/icons/mpb-logo.svg" %}
+    </div>
+    {% include "_nav-footer.njk" %}
+  </cluster-l>
 
   <!-- Web components, including Every Layout -->
   <!-- Load only if needed -->
