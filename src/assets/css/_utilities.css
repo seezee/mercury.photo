@@ -23,10 +23,19 @@
   text-wrap: balance;
 }
 
-/* .no-break */
+/* Breaks */
 .no-break {
   break-inside: avoid;
 }
+
+.allow-break {
+  break-inside: auto;
+
+  dt, dd, ul {
+    break-inside: auto;
+  }
+}
+
 /* .sr-only, .keywords, .govuk-visually-hidden */
 .sr-only,
 .keywords,

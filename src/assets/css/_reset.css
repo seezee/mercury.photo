@@ -17,7 +17,7 @@
   }
 
   body {
-    line-height: calc(1em + 0.5rem);
+    line-height: calc(1.15em + 0.5rem);
     -webkit-font-smoothing: antialiased;
   }
 
