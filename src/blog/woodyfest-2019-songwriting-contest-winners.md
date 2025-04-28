@@ -51,9 +51,9 @@ The Austin-based pianist and singer appeared on <abbr>NPR</abbr>&rsquo;s <cite><
 
 Following Larson, first</sup>-place winner <span class="h-card p-name">Dan Weber</span> performed his winning song <cite class="short-work">Ever Since Columbine.</cite> Weber wrote the song after watching the news of another in a seemingly endless string of mass shootings, this one taking place in Kalamazoo, Michigan, which happened to be where his 1968 Gibson guitar was manufactured.
 
-No stranger to Woodyfest, Weber placed third in the <time datetime="2013-07">2013 </time>songwriting contest for his song <cite class="short-work"><a href="/dan-weber-at-the-crystal-theatre-woody-guthrie-folk-festival/">What I'm Lookin' For</a>,</cite> as well as garnering honorable mention for audience-favorite <cite class="short-work">Oh Woody.</cite> <time datetime="2014-07">The following year</time>, he placed second for <cite class="short-work">Hank and Jesus.</cite>
+No stranger to Woodyfest, Weber placed third in the <time datetime="2013-07">2013 </time>songwriting contest for his song <cite class="short-work"><a href="/blog/dan-weber-at-the-crystal-theatre-woody-guthrie-folk-festival/">What I'm Lookin' For</a>,</cite> as well as garnering honorable mention for audience-favorite <cite class="short-work">Oh Woody.</cite> <time datetime="2014-07">The following year</time>, he placed second for <cite class="short-work">Hank and Jesus.</cite>
 
-Weber can be counted on to show up at the festival most years, whether he is performing or not. He recently moved from Oregon to Richardson, Texas, just in time to experience the <a href="/valentines-day-blizzard-norman-oklahoma/">Great <time datetime="2020-02-14">2020</time> Blizzard</a> and the subsequent failure of the Texas power grid. Here's hoping he can stand the heat, now that summer's here.
+Weber can be counted on to show up at the festival most years, whether he is performing or not. He recently moved from Oregon to Richardson, Texas, just in time to experience the <a href="/blog/valentines-day-blizzard-norman-oklahoma/">Great <time datetime="2020-02-14">2020</time> Blizzard</a> and the subsequent failure of the Texas power grid. Here's hoping he can stand the heat, now that summer's here.
   </div></details>
   <details name="tabs">
     <summary>Gallery</summary><div>

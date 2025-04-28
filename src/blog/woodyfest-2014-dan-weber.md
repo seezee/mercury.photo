@@ -38,7 +38,7 @@ excerpt: Dan Weber is the only songwriter in the history of the Woody Guthrie Fo
 
 [^1]: At least, that's what our rigorous research department told us.
 
-In addition to this gallery from Weber's <time datetime="2014-07-11T10:00-5:00">2014</time> showcase, we've written about <a href="/dan-weber-at-the-crystal-theatre-woody-guthrie-folk-festival/">his <time date_time="2013-07-13T10:30:00-5:00">2013</time> set</a> and <a href="/woodyfest-2019-songwriting-contest-winners/">his <time date_time="2019-07-12T19:25:00-5:00">2019</time> appearance</a>.
+In addition to this gallery from Weber's <time datetime="2014-07-11T10:00-5:00">2014</time> showcase, we've written about <a href="/blog/dan-weber-at-the-crystal-theatre-woody-guthrie-folk-festival/">his <time date_time="2013-07-13T10:30:00-5:00">2013</time> set</a> and <a href="/blog/woodyfest-2019-songwriting-contest-winners/">his <time date_time="2019-07-12T19:25:00-5:00">2019</time> appearance</a>.
 
   </div></details>
   <details name="tabs">

@@ -21,7 +21,7 @@ excerpt: "In <time datetime='2013-02'>2013</time>, <span class='h-card p-name'>L
 
 <!-- markdownlint-enable MD025 --><mpb-dialog-img>
 
-{% image "./src/assets/images/blog/2020-10-09-lance-canales/czahller-20140710-11-43-47.jpg", "img-constrained", "Lance & Carlos — 17th Annual Woody Guthrie Folk Festival, 2014", "Lance & Carlos — 17th Annual Woody Guthrie Folk Festival, 2014" %}</mpb-dialog-img>
+{% image "./src/assets/images/blog/2020-10-09-woodyfest-lance-canales/czahller-20140710-11-43-47.jpg", "img-constrained", "Lance & Carlos — 17th Annual Woody Guthrie Folk Festival, 2014", "Lance & Carlos — 17th Annual Woody Guthrie Folk Festival, 2014" %}</mpb-dialog-img>
 
 <div class="widget__wrapper">
   <details name="tabs">
@@ -93,27 +93,27 @@ In <time datetime="2014-07-10T11:24:00-5:00">2014</time>, Hernandez joined Lance
 <mpb-dialog-gallery hint rel cols="8">
   <div class="drop-cap">
 
-My favorite new Woodyfest performer in <time datetime="2014-07">2014</time> was also my first to see at that year's festival: Lance Canales and the Flood. Canales sings of working life and hardship, subjects he knows all too well: he grew up working-class and <q>for years was forced to take his lumps in order to help his family make ends meet.</q>[^5]
+My favorite new Woodyfest performer in <time datetime="2014-07">2014</time> was also the festival opener: Lance Canales and the Flood. Canales sings of working life and hardship, subjects he knows all too well: he grew up working-class and <q>for years was forced to take his lumps in order to help his family make ends meet.</q>[^5]
 
 [^5]: <cite>Artist bio, <a href="://www.reverbnation.com/lancecanalestheflood" target="_blank" rel="noopener nofollow">ReverbNation</a>.</cite>
 
 Impossible to take one's eyes off of, Canales commanded the stage. His gravelly vocals and pounding accompaniment chased away all early-morning fatigue. He's been back twice, in <time datetime="2016">2016</time> and <time datetime="2017">2017</time>. If we are all lucky, he will continue to play Woodyfest for years to come.
   </div>
   
-  ![Lance Canales soundcheck — 17th Annual Woody Guthrie Folk Festival, 2014](/assets/images/blog/2020-10-09-lance-canales/czahller-20140710-10-25-30.jpg)
-  ![Lance Canales & the Flood (I) — 17th Annual Woody Guthrie Folk Festival, 2014](/assets/images/blog/2020-10-09-lance-canales/czahller-20140710-11-01-19.jpg)
-  ![Lance Canales & the Flood (II) — 17th Annual Woody Guthrie Folk Festival, 2014](/assets/images/blog/2020-10-09-lance-canales/czahller-20140710-11-01-37.jpg)
-  ![Bassist David Quinday — 17th Annual Woody Guthrie Folk Festival, 2014](/assets/images/blog/2020-10-09-lance-canales/czahller-20140710-11-02-22.jpg)
-  ![Percussionist Carlos Rodriguez — 17th Annual Woody Guthrie Folk Festival, 2014](/assets/images/blog/2020-10-09-lance-canales/czahller-20140710-11-04-17.jpg)
-  ![Lance Canales Gettin' Down — 17th Annual Woody Guthrie Folk Festival, 2014](/assets/images/blog/2020-10-09-lance-canales/czahller-20140710-11-04-39.jpg)
-  ![Lance Canales & the Flood (III) — 17th Annual Woody Guthrie Folk Festival, 2014](/assets/images/blog/2020-10-09-lance-canales/czahller-20140710-11-11-27.jpg)
-  ![Lance Canales & the Flood (IV) — 17th Annual Woody Guthrie Folk Festival, 2014](/assets/images/blog/2020-10-09-lance-canales/czahller-20140710-11-13-23.jpg)
-  ![Hat in Hand — 17th Annual Woody Guthrie Folk Festival, 2014](/assets/images/blog/2020-10-09-lance-canales/czahller-20140710-11-21-44.jpg)
-  ![David & Lance — 17th Annual Woody Guthrie Folk Festival, 2014](/assets/images/blog/2020-10-09-lance-canales/czahller-20140710-11-23-11.jpg)
-  ![Tim Z. Hernandez reads the names of those killed in the Plane Wreck at Los Gatos — 17th Annual Woody Guthrie Folk Festival, 2014](/assets/images/blog/2020-10-09-lance-canales/czahller-20140710-11-24-59.jpg)
-  ![Lance Canales with Cigar Box Guitar — 17th Annual Woody Guthrie Folk Festival, 2014](/assets/images/blog/2020-10-09-lance-canales/czahller-20140710-11-41-48.jpg)
-  ![Lance & Carlos — 17th Annual Woody Guthrie Folk Festival, 2014](/assets/images/blog/2020-10-09-lance-canales/czahller-20140710-11-43-47.jpg)
-  ![Lance with Slide — 17th Annual Woody Guthrie Folk Festival, 2014](/assets/images/blog/2020-10-09-lance-canales/czahller-20140710-11-43-51.jpg)
-  ![Lance Canales (I) — 17th Annual Woody Guthrie Folk Festival, 2014](/assets/images/blog/2020-10-09-lance-canales/czahller-20140710-11-45-37.jpg)
-  ![Lance Canales (II) — 17th Annual Woody Guthrie Folk Festival, 2014](/assets/images/blog/2020-10-09-lance-canales/czahller-20140710-11-46-34.jpg)
+  ![Lance Canales soundcheck — 17th Annual Woody Guthrie Folk Festival, 2014](/assets/images/blog/2020-10-09-woodyfest-lance-canales/czahller-20140710-10-25-30.jpg)
+  ![Lance Canales & the Flood (I) — 17th Annual Woody Guthrie Folk Festival, 2014](/assets/images/blog/2020-10-09-woodyfest-lance-canales/czahller-20140710-11-01-19.jpg)
+  ![Lance Canales & the Flood (II) — 17th Annual Woody Guthrie Folk Festival, 2014](/assets/images/blog/2020-10-09-woodyfest-lance-canales/czahller-20140710-11-01-37.jpg)
+  ![Bassist David Quinday — 17th Annual Woody Guthrie Folk Festival, 2014](/assets/images/blog/2020-10-09-woodyfest-lance-canales/czahller-20140710-11-02-22.jpg)
+  ![Percussionist Carlos Rodriguez — 17th Annual Woody Guthrie Folk Festival, 2014](/assets/images/blog/2020-10-09-woodyfest-lance-canales/czahller-20140710-11-04-17.jpg)
+  ![Lance Canales Gettin' Down — 17th Annual Woody Guthrie Folk Festival, 2014](/assets/images/blog/2020-10-09-woodyfest-lance-canales/czahller-20140710-11-04-39.jpg)
+  ![Lance Canales & the Flood (III) — 17th Annual Woody Guthrie Folk Festival, 2014](/assets/images/blog/2020-10-09-woodyfest-lance-canales/czahller-20140710-11-11-27.jpg)
+  ![Lance Canales & the Flood (IV) — 17th Annual Woody Guthrie Folk Festival, 2014](/assets/images/blog/2020-10-09-woodyfest-lance-canales/czahller-20140710-11-13-23.jpg)
+  ![Hat in Hand — 17th Annual Woody Guthrie Folk Festival, 2014](/assets/images/blog/2020-10-09-woodyfest-lance-canales/czahller-20140710-11-21-44.jpg)
+  ![David & Lance — 17th Annual Woody Guthrie Folk Festival, 2014](/assets/images/blog/2020-10-09-woodyfest-lance-canales/czahller-20140710-11-23-11.jpg)
+  ![Tim Z. Hernandez reads the names of those killed in the Plane Wreck at Los Gatos — 17th Annual Woody Guthrie Folk Festival, 2014](/assets/images/blog/2020-10-09-woodyfest-lance-canales/czahller-20140710-11-24-59.jpg)
+  ![Lance Canales with Cigar Box Guitar — 17th Annual Woody Guthrie Folk Festival, 2014](/assets/images/blog/2020-10-09-woodyfest-lance-canales/czahller-20140710-11-41-48.jpg)
+  ![Lance & Carlos — 17th Annual Woody Guthrie Folk Festival, 2014](/assets/images/blog/2020-10-09-woodyfest-lance-canales/czahller-20140710-11-43-47.jpg)
+  ![Lance with Slide — 17th Annual Woody Guthrie Folk Festival, 2014](/assets/images/blog/2020-10-09-woodyfest-lance-canales/czahller-20140710-11-43-51.jpg)
+  ![Lance Canales (I) — 17th Annual Woody Guthrie Folk Festival, 2014](/assets/images/blog/2020-10-09-woodyfest-lance-canales/czahller-20140710-11-45-37.jpg)
+  ![Lance Canales (II) — 17th Annual Woody Guthrie Folk Festival, 2014](/assets/images/blog/2020-10-09-woodyfest-lance-canales/czahller-20140710-11-46-34.jpg)
 </mpb-dialog-gallery></div></details></div>

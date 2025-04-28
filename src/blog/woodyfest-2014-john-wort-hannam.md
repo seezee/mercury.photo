@@ -21,7 +21,7 @@ excerpt: "In <time datetime='2001'>2001</time>, <span class='h-card p-name'>John
 
 <!-- markdownlint-enable MD025 --><mpb-dialog-img>
 
-{% image "./src/assets/images/blog/2020-10-12-john-wort-hannam/czahller-20140710-15-39-14.jpg", "img-constrained", "Rad & John Wort Hannam — 17th Annual Woody Guthrie Folk Festival, 2014", "Rad & John Wort Hannam — 17th Annual Woody Guthrie Folk Festival, 2014" %}</mpb-dialog-img>
+{% image "./src/assets/images/blog/2020-10-12-woodyfest-john-wort-hannam/czahller-20140710-15-39-14.jpg", "img-constrained", "Rad & John Wort Hannam — 17th Annual Woody Guthrie Folk Festival, 2014", "Rad & John Wort Hannam — 17th Annual Woody Guthrie Folk Festival, 2014" %}</mpb-dialog-img>
 
 <div class="widget__wrapper">
   <details name="tabs">
@@ -51,16 +51,16 @@ Hannam's latest release is <time datetime="2018-09-19">2018</time>&rsquo;s <cite
 
 <mpb-dialog-gallery hint rel cols="8">
   
-  ![John Wort Hannam Soundcheck (I) — 17th Annual Woody Guthrie Folk Festival, 2014](/assets/images/blog/2020-10-12-john-wort-hannam/czahller-20140710-14-55-56.jpg)
-  ![John Wort Hannam Soundcheck (II) — 17th Annual Woody Guthrie Folk Festival, 2014](/assets/images/blog/2020-10-12-john-wort-hannam/czahller-20140710-14-56-46.jpg)
-  ![John Wort Hannam (I) — 17th Annual Woody Guthrie Folk Festival, 2014](/assets/images/blog/2020-10-12-john-wort-hannam/czahller-20140710-14-59-16.jpg)
-  ![John Wort Hannam (II) — 17th Annual Woody Guthrie Folk Festival, 2014](/assets/images/blog/2020-10-12-john-wort-hannam/czahller-20140710-14-59-41.jpg)
-  ![John Wort Hannam (III) — 17th Annual Woody Guthrie Folk Festival, 2014](/assets/images/blog/2020-10-12-john-wort-hannam/czahller-20140710-15-01-25.jpg)
-  ![John Wort Hannam (IV) — 17th Annual Woody Guthrie Folk Festival, 2014](/assets/images/blog/2020-10-12-john-wort-hannam/czahller-20140710-15-05-40.jpg)
-  ![John Wort Hannam (V) — 17th Annual Woody Guthrie Folk Festival, 2014](/assets/images/blog/2020-10-12-john-wort-hannam/czahller-20140710-15-07-40.jpg)
-  ![John Wort Hannam (VI) — 17th Annual Woody Guthrie Folk Festival, 2014](/assets/images/blog/2020-10-12-john-wort-hannam/czahller-20140710-15-08-54.jpg)
-  ![Radoslav “Rad” Lorković — 17th Annual Woody Guthrie Folk Festival, 201](/assets/images/blog/2020-10-12-john-wort-hannam/czahller-20140710-15-15-03.jpg)
-  ![John Wort Hannam (VII) — 17th Annual Woody Guthrie Folk Festival, 2014](/assets/images/blog/2020-10-12-john-wort-hannam/czahller-20140710-15-15-13.jpg)
-  ![John Wort Hannam (VIII) — 17th Annual Woody Guthrie Folk Festival, 2014](/assets/images/blog/2020-10-12-john-wort-hannam/czahller-20140710-15-20-38.jpg)
-  ![Rad & John Wort Hannam — 17th Annual Woody Guthrie Folk Festival, 2014](/assets/images/blog/2020-10-12-john-wort-hannam/czahller-20140710-15-39-14.jpg)
+  ![John Wort Hannam Soundcheck (I) — 17th Annual Woody Guthrie Folk Festival, 2014](/assets/images/blog/2020-10-12-woodyfest-john-wort-hannam/czahller-20140710-14-55-56.jpg)
+  ![John Wort Hannam Soundcheck (II) — 17th Annual Woody Guthrie Folk Festival, 2014](/assets/images/blog/2020-10-12-woodyfest-john-wort-hannam/czahller-20140710-14-56-46.jpg)
+  ![John Wort Hannam (I) — 17th Annual Woody Guthrie Folk Festival, 2014](/assets/images/blog/2020-10-12-woodyfest-john-wort-hannam/czahller-20140710-14-59-16.jpg)
+  ![John Wort Hannam (II) — 17th Annual Woody Guthrie Folk Festival, 2014](/assets/images/blog/2020-10-12-woodyfest-john-wort-hannam/czahller-20140710-14-59-41.jpg)
+  ![John Wort Hannam (III) — 17th Annual Woody Guthrie Folk Festival, 2014](/assets/images/blog/2020-10-12-woodyfest-john-wort-hannam/czahller-20140710-15-01-25.jpg)
+  ![John Wort Hannam (IV) — 17th Annual Woody Guthrie Folk Festival, 2014](/assets/images/blog/2020-10-12-woodyfest-john-wort-hannam/czahller-20140710-15-05-40.jpg)
+  ![John Wort Hannam (V) — 17th Annual Woody Guthrie Folk Festival, 2014](/assets/images/blog/2020-10-12-woodyfest-john-wort-hannam/czahller-20140710-15-07-40.jpg)
+  ![John Wort Hannam (VI) — 17th Annual Woody Guthrie Folk Festival, 2014](/assets/images/blog/2020-10-12-woodyfest-john-wort-hannam/czahller-20140710-15-08-54.jpg)
+  ![Radoslav “Rad” Lorković — 17th Annual Woody Guthrie Folk Festival, 201](/assets/images/blog/2020-10-12-woodyfest-john-wort-hannam/czahller-20140710-15-15-03.jpg)
+  ![John Wort Hannam (VII) — 17th Annual Woody Guthrie Folk Festival, 2014](/assets/images/blog/2020-10-12-woodyfest-john-wort-hannam/czahller-20140710-15-15-13.jpg)
+  ![John Wort Hannam (VIII) — 17th Annual Woody Guthrie Folk Festival, 2014](/assets/images/blog/2020-10-12-woodyfest-john-wort-hannam/czahller-20140710-15-20-38.jpg)
+  ![Rad & John Wort Hannam — 17th Annual Woody Guthrie Folk Festival, 2014](/assets/images/blog/2020-10-12-woodyfest-john-wort-hannam/czahller-20140710-15-39-14.jpg)
 </mpb-dialog-gallery></div></details></div>

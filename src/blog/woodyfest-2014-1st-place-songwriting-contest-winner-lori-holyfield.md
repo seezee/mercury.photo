@@ -21,7 +21,7 @@ excerpt: As in years past, Woodyfest 14 showcased three songwriting contest winn
 
 <!-- markdownlint-enable MD025 --><mpb-dialog-img>
 
-{% image "./src/assets/images/blog/2020-10-19-lori-holyfield/czahller-20140710-19-07-01.jpg", "img-constrained", "Steve Fisher, Terry “Buffalo” Ware, & Lori Holyfield (II) — 17th Annual Woody Guthrie Folk Festival, 2014", "Steve Fisher, Terry “Buffalo” Ware, & Lori Holyfield (II) — 17th Annual Woody Guthrie Folk Festival, 2014" %}</mpb-dialog-img>
+{% image "./src/assets/images/blog/2020-10-19-woodyfest-lori-holyfield/czahller-20140710-19-07-01.jpg", "img-constrained", "Steve Fisher, Terry “Buffalo” Ware, & Lori Holyfield (II) — 17th Annual Woody Guthrie Folk Festival, 2014", "Steve Fisher, Terry “Buffalo” Ware, & Lori Holyfield (II) — 17th Annual Woody Guthrie Folk Festival, 2014" %}</mpb-dialog-img>
 
 <div class="widget__wrapper">
   <details name="tabs">
@@ -48,19 +48,19 @@ Holyfield is the author of <cite><a href="//amzn.to/3lZlGLh" target="_blank" rel
 
 <mpb-dialog-gallery hint rel cols="8">
   
-  ![Steve Fisher — 17th Annual Woody Guthrie Folk Festival, 2014](/assets/images/blog/2020-10-19-lori-holyfield/czahller-20140710-18-13-57.jpg)
-  ![Lori Holyfield soundcheck — 17th Annual Woody Guthrie Folk Festival, 2014](/assets/images/blog/2020-10-19-lori-holyfield/czahller-20140710-18-15-10.jpg)
-  ![Lori Holyfield & Steve Fisher — 17th Annual Woody Guthrie Folk Festival, 2014](/assets/images/blog/2020-10-19-lori-holyfield/czahller-20140710-18-15-32.jpg)
-  ![1st place songwriting contest winner Dr. Lori Holyfield & emcee Bill McCloud — 17th Annual Woody Guthrie Folk Festival, 2014](/assets/images/blog/2020-10-19-lori-holyfield/czahller-20140710-18-18-59.jpg)
-  ![Steve Fisher, T. Z. Wright, Lori Holyfield, & John Williams — 17th Annual Woody Guthrie Folk Festival, 2014](/assets/images/blog/2020-10-19-lori-holyfield/czahller-20140710-18-57-41.jpg)
-  ![Terry “Buffalo” Ware, Steve Fisher, Michael McCarty, Lori Holyfield, Don Morris, John Williams, & T. Z. Wright — 17th Annual Woody Guthrie Folk Festival, 2014](/assets/images/blog/2020-10-19-lori-holyfield/czahller-20140710-19-03-03.jpg)
-  ![Steve Fisher, Lori Holyfield, John Williams, Don Morris, & T. Z. Wright — 17th Annual Woody Guthrie Folk Festival, 2014](/assets/images/blog/2020-10-19-lori-holyfield/czahller-20140710-19-03-22.jpg)
-  ![T. Z. Wright — 17th Annual Woody Guthrie Folk Festival, 2014](/assets/images/blog/2020-10-19-lori-holyfield/czahller-20140710-19-04-03.jpg)
-  ![Terry “Buffalo” Ware — 17th Annual Woody Guthrie Folk Festival, 2014](/assets/images/blog/2020-10-19-lori-holyfield/czahller-20140710-19-04-20.jpg)
-  ![Michael McCarty — 17th Annual Woody Guthrie Folk Festival, 2014](/assets/images/blog/2020-10-19-lori-holyfield/czahller-20140710-19-04-37.jpg)
-  ![Steve Fisher, Terry “Buffalo” Ware, & Lori Holyfield — 17th Annual Woody Guthrie Folk Festival, 2014](/assets/images/blog/2020-10-19-lori-holyfield/czahller-20140710-19-06-55.jpg)
-  ![Steve Fisher, Terry “Buffalo” Ware, & Lori Holyfield (II) — 17th Annual Woody Guthrie Folk Festival, 2014](/assets/images/blog/2020-10-19-lori-holyfield/czahller-20140710-19-07-01.jpg)
-  ![1st-place songwriting contest winner Lori Holyfield — 17th Annual Woody Guthrie Folk Festival, 2014](/assets/images/blog/2020-10-19-lori-holyfield/czahller-20140710-19-07-19.jpg)
-  ![Lori Holyfield & Oklahoma Geniuses upstage view — 17th Annual Woody Guthrie Folk Festival, 2014](/assets/images/blog/2020-10-19-lori-holyfield/czahller-20140710-19-09-19.jpg)
-  ![Lori Holyfield & Oklahoma Geniuses — 17th Annual Woody Guthrie Folk Festival, 2014](/assets/images/blog/2020-10-19-lori-holyfield/czahller-20140710-19-12-27.jpg)
+  ![Steve Fisher — 17th Annual Woody Guthrie Folk Festival, 2014](/assets/images/blog/2020-10-19-woodyfest-lori-holyfield/czahller-20140710-18-13-57.jpg)
+  ![Lori Holyfield soundcheck — 17th Annual Woody Guthrie Folk Festival, 2014](/assets/images/blog/2020-10-19-woodyfest-lori-holyfield/czahller-20140710-18-15-10.jpg)
+  ![Lori Holyfield & Steve Fisher — 17th Annual Woody Guthrie Folk Festival, 2014](/assets/images/blog/2020-10-19-woodyfest-lori-holyfield/czahller-20140710-18-15-32.jpg)
+  ![1st place songwriting contest winner Dr. Lori Holyfield & emcee Bill McCloud — 17th Annual Woody Guthrie Folk Festival, 2014](/assets/images/blog/2020-10-19-woodyfest-lori-holyfield/czahller-20140710-18-18-59.jpg)
+  ![Steve Fisher, T. Z. Wright, Lori Holyfield, & John Williams — 17th Annual Woody Guthrie Folk Festival, 2014](/assets/images/blog/2020-10-19-woodyfest-lori-holyfield/czahller-20140710-18-57-41.jpg)
+  ![Terry “Buffalo” Ware, Steve Fisher, Michael McCarty, Lori Holyfield, Don Morris, John Williams, & T. Z. Wright — 17th Annual Woody Guthrie Folk Festival, 2014](/assets/images/blog/2020-10-19-woodyfest-lori-holyfield/czahller-20140710-19-03-03.jpg)
+  ![Steve Fisher, Lori Holyfield, John Williams, Don Morris, & T. Z. Wright — 17th Annual Woody Guthrie Folk Festival, 2014](/assets/images/blog/2020-10-19-woodyfest-lori-holyfield/czahller-20140710-19-03-22.jpg)
+  ![T. Z. Wright — 17th Annual Woody Guthrie Folk Festival, 2014](/assets/images/blog/2020-10-19-woodyfest-lori-holyfield/czahller-20140710-19-04-03.jpg)
+  ![Terry “Buffalo” Ware — 17th Annual Woody Guthrie Folk Festival, 2014](/assets/images/blog/2020-10-19-woodyfest-lori-holyfield/czahller-20140710-19-04-20.jpg)
+  ![Michael McCarty — 17th Annual Woody Guthrie Folk Festival, 2014](/assets/images/blog/2020-10-19-woodyfest-lori-holyfield/czahller-20140710-19-04-37.jpg)
+  ![Steve Fisher, Terry “Buffalo” Ware, & Lori Holyfield — 17th Annual Woody Guthrie Folk Festival, 2014](/assets/images/blog/2020-10-19-woodyfest-lori-holyfield/czahller-20140710-19-06-55.jpg)
+  ![Steve Fisher, Terry “Buffalo” Ware, & Lori Holyfield (II) — 17th Annual Woody Guthrie Folk Festival, 2014](/assets/images/blog/2020-10-19-woodyfest-lori-holyfield/czahller-20140710-19-07-01.jpg)
+  ![1st-place songwriting contest winner Lori Holyfield — 17th Annual Woody Guthrie Folk Festival, 2014](/assets/images/blog/2020-10-19-woodyfest-lori-holyfield/czahller-20140710-19-07-19.jpg)
+  ![Lori Holyfield & Oklahoma Geniuses upstage view — 17th Annual Woody Guthrie Folk Festival, 2014](/assets/images/blog/2020-10-19-woodyfest-lori-holyfield/czahller-20140710-19-09-19.jpg)
+  ![Lori Holyfield & Oklahoma Geniuses — 17th Annual Woody Guthrie Folk Festival, 2014](/assets/images/blog/2020-10-19-woodyfest-lori-holyfield/czahller-20140710-19-12-27.jpg)
 </mpb-dialog-gallery></div></details></div>
