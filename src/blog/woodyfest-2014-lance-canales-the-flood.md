@@ -14,7 +14,7 @@ tags:
   - Woody Guthrie Folk Festival
   - Woodyfest 2014
 date: 2020-10-09T22:30:37+00:00
-excerpt: "In <time datetime='2013-02'>2013</time>, <span class='h-card p-name'>Lance Canales</span> and his band the <span class='h-card p-organization'>Flood</span> covered <span class='h-card p-name'><span class='p-nickname'>Woody</span> Guthrie</span>’s song <cite class='short-work'>Refugee.</cite> Guthrie wrote the song shortly after the <time datetime='1948-01-28'>1948</time> plane wreck at Los Gatos, California, which killed the cabin crew and twenty-eight Mexican nationals."
+excerpt: "In <time datetime='2013-02'>2013</time>, <span class='h-card p-name'>Lance Canales</span> and his band the <span class='h-card p-organization'>Flood</span> covered <span class='h-card p-name'><span class='p-nickname'>Woody</span> Guthrie</span>’s song <cite class='short-work'>Deportee.</cite> Guthrie wrote the song shortly after the <time datetime='1948-01-28'>1948</time> plane wreck at Los Gatos, California, which killed the cabin crew and twenty-eight Mexican nationals."
 ---
 <!-- markdownlint-disable MD025 -->
 # {{ title }}
@@ -25,19 +25,19 @@ excerpt: "In <time datetime='2013-02'>2013</time>, <span class='h-card p-name'>L
 
 <div class="widget__wrapper">
   <details name="tabs">
-    <summary>Refugee</summary>
+    <summary>Deportee</summary>
     <div>
 
-## Refugee
+## Deportee
 
 <div class="drop-cap">
 
-In <time datetime="2013-02">2013</time>, <span class="h-card p-name">Lance Canales</span> and his band the <span class="h-card p-organization">Flood</span> covered <span class="h-card p-name"><span class="p-nickname">Woody</span> Guthrie</span>’s song <cite class="short-work">Refugee.</cite> Guthrie wrote the song shortly after the <time datetime="1948-01-28">1948</time> plane wreck at Los Gatos, California, which killed the cabin crew and twenty-eight Mexican nationals. Some of the Hispanic victims were returning home following the termination of bracero contracts.[^1] Others were being deported for being undocumented. While the now famous song brought international attention to the incident, the names of the dead remained largely unknown to the American public. The modest marker at the gravesite said only, <q>28 MEXICAN CITIZENS WHO DIED IN AN AIRPLANE ACCIDENT NEAR COALINGA, CALIFORNIA ON <time datetime="1948-01-28">JANUARY 28, 1948</time> <abbr>R.I.P.</abbr></q>
+In <time datetime="2013-02">2013</time>, <span class="h-card p-name">Lance Canales</span> and his band the <span class="h-card p-organization">Flood</span> covered <span class="h-card p-name"><span class="p-nickname">Woody</span> Guthrie</span>’s song <cite class="short-work">Deportee.</cite> Guthrie wrote the song shortly after the <time datetime="1948-01-28">1948</time> plane wreck at Los Gatos, California, which killed the cabin crew and twenty-eight Mexican nationals. Some of the Hispanic victims were returning home following the termination of bracero contracts.[^1] Others were being deported for being undocumented. While the now famous song brought international attention to the incident, the names of the dead remained largely unknown to the American public. The modest marker at the gravesite said only, <q>28 MEXICAN CITIZENS WHO DIED IN AN AIRPLANE ACCIDENT NEAR COALINGA, CALIFORNIA ON <time datetime="1948-01-28">JANUARY 28, 1948</time> <abbr>R.I.P.</abbr></q>
 
 [^1]: The Bracero program (from the Spanish term bracero, meaning "manual laborer" or "one who works using his arms") was a series of labor laws and diplomatic agreements between the United States and Mexico.
 </div>
 
-Canales first performed <cite class="short-work">Refugee</cite> at the <time datetime="2012">2012</time> <span class="h-card p-organization">Steinbeck Festival</span>.[^2] Woody's original laments the anonymity of the Hispanic victims. In his cover, Canales names each of the victims. This contrasts with contemporary newspaper articles, which simply labeled them <q>deportees.</q>[^3] Soon after he began performing the song, he learned that the grave containing these lost souls was in Fresno, California, not far from his current home.
+Canales first performed <cite class="short-work">Deportee</cite> at the <time datetime="2012">2012</time> <span class="h-card p-organization">Steinbeck Festival</span>.[^2] Woody's original laments the anonymity of the Hispanic victims. In his cover, Canales names each of the victims. This contrasts with contemporary newspaper articles, which simply labeled them <q>deportees.</q>[^3] Soon after he began performing the song, he learned that the grave containing these lost souls was in Fresno, California, not far from his current home.
 
 [^2]: <cite class="full-citation">Artist bio, <a href="://www.reverbnation.com/lancecanalestheflood" target="_blank" rel="noopener nofollow">ReverbNation</a>.</cite>
 
@@ -49,7 +49,7 @@ By <time datetime="2013-08">August</time> Canales was organizing a fundraising c
 
 [^4]: <cite class="full-citation">Diana Marcum, <cite class="short-work"><a href="//www.latimes.com/local/la-me-deportees-guthrie-20130710-dto-htmlstory.html" target="_blank" rel="noopener noreferrer">Passengers on Doomed 1948 Flight, Their Names Now Emerge from Shadows</a>,</cite>, <cite>Los Angeles Times</cite> (<time datetime="2013-07-10">10 July 2013</time>).</cite>
 
-In <time datetime="2014-07-10T11:24:00-5:00">2014</time>, Hernandez joined Lance Canales and the Flood to open the annual Woody Guthrie Folk Festival. While the band riffed on an instrumental break from <cite class="quoted">“Refugee,”</cite> Hernandez recited the names of the twenty-eight:
+In <time datetime="2014-07-10T11:24:00-5:00">2014</time>, Hernandez joined Lance Canales and the Flood to open the annual Woody Guthrie Folk Festival. While the band riffed on an instrumental break from <cite class="quoted">“Deportee,”</cite> Hernandez recited the names of the twenty-eight:
 
 <div class="col-2 allow-break">
 
