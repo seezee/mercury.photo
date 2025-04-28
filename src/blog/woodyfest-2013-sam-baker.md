@@ -43,6 +43,11 @@ Baker played an afternoon set at the Crystal Theatre on festival Saturday. <span
 
 ## Gallery
 
+<div class="drop-cap">
+
+I took these photos during Baker's ninth appearance at the festival in <time datetime="2013-07-13T17:00:00-5:00">2013</time>. I was still getting the hang of exposing for stage lighting when I took them. I&rsquo;m not proud of these pictures&zwj;&hairsp;&zwj;&mdash;&zwj;&hairsp;&zwj;the blown highlights and out-of-focus main subjects are egregious&zwj;&hairsp;&zwj;&mdash;&zwj;&hairsp;&zwj;but they are a record of something ephemeral. In that spirit I offer them to you.
+</div>
+
 <mpb-dialog-gallery hint rel cols="8">
   
   ![Megan Palmer & Sam Baker — Sam Baker at the Crystal Theatre, Woody Guthrie Folk Festival 16](/assets/images/blog/2020-10-02-woodyfest-sam-baker/czahller-20130713-17-19-20.jpg)
