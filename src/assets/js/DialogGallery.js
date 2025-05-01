@@ -83,8 +83,8 @@ export default class DialogGallery extends HTMLElement {
           </stack-l>
             `
 
-    // Add the dialog inside of the web component, after the gallery thumbs.
-    this.insertBefore(modal, this.parentNode.nextSibling);
+    // Add the dialog.
+    this.append(modal);
 
     // <dialog> variables.
     const current       = modal.querySelector(`#current`);

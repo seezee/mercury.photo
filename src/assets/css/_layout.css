@@ -860,9 +860,13 @@ div.col-5 {
       margin-inline-end: .5em;
     }
   }
+  li {
+    text-indent: -2.4ch;
+    margin-inline-start: 2.4ch;
 
-  li:not(:last-of-type) {
-    margin-block-end: var(--s-4);
+    &:not(:last-of-type) {
+      margin-block-end: var(--s-4);
+    }
   }
 }
 
@@ -923,3 +927,10 @@ div.col-5 {
     margin-inline-end: .25ch;
   }
 }
+
+/* Comments
+
+#cusdis_thread {
+  padding: var(--s1);
+  background-color: #fff;
+} */

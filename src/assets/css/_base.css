@@ -18,7 +18,8 @@
  * 12. kbd
  * 13. figure, picture, img, canvas, video, svg
  * 14. dialog
- * 15. Every Layout custom elements
+ * 15. iframe
+ * 16. Every Layout custom elements
  *
  * Inline elements
  * 1.  a
@@ -552,7 +553,7 @@ legend {
 }
 
 button,
-.button
+.button,
 label {
   font-family: MerriweatherSans, var(--mpb-font-sans);
   font-variant-numeric: tabular-nums lining-nums slashed-zero;
@@ -568,7 +569,7 @@ button,
   padding-inline: var(--s0);
   padding-block: var(--s-2);
 
-  font-size: var(--mpbe-font-size--1);
+  font-size: var(--mpb-font-size--1);
   line-height: 1.1;
   text-transform: uppercase;
   letter-spacing: .05ch;
@@ -737,6 +738,11 @@ icon-l {
       width: 1.3459cap;
     }
   }
+}
+
+/* iframe */
+iframe {
+  block-size: 100vh;
 }
 
 /**

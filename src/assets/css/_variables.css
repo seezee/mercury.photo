@@ -82,8 +82,8 @@ initial-value: 0.1;
   --mpb-color-textReverse: var(--mpb-color-primary-100);
 
   --mpb-color-accent: var(--mpb-color-secondary-500);
-  --mpb-color-accent-reverse: oklch(79.5% 0.1533 79.91);
-  --mpb-color-highlight: var(--mpb-color-accent-reverse);
+  --mpb-color-accentReverse: oklch(79.5% 0.1533 79.91);
+  --mpb-color-highlight: var(--mpb-color-accentReverse);
 
   --mpb-color-submenu-indicator: var(--mpb-c-p-900);
 
@@ -207,7 +207,7 @@ initial-value: 0.1;
     --mpb-color-submenu-indicator: var(--mpb-c-p-100);
 
     --mpb-color-accent: var(--mpb-color-secondary-700);
-    --mpb-color-accent-reverse: oklch(48.5% 0.2332 28.05);
+    --mpb-color-accentReverse: oklch(48.5% 0.2332 28.05);
     }
 
   --ratio: 1.4;
@@ -215,13 +215,13 @@ initial-value: 0.1;
   --s-4: clamp(0.41rem,0.47rem + -0.31vw,0.25rem);
   --s-3: clamp(0.51rem,0.57rem + -0.31vw,0.35rem);
   --s-2: clamp(0.64rem,0.69rem + -0.27vw,0.5rem);
-  --s-1: clamp(0.8rem,0.84rem + -0.18vw,0.71rem);
-  --s0: clamp(1rem,1rem + 0vw,1rem);
-  --s1: clamp(1.25rem,1.19rem + 0.32vw,1.41rem);
-  --s2: clamp(1.56rem,1.39rem + 0.85vw,2rem);
-  --s3: clamp(1.95rem,1.61rem + 1.7vw,2.83rem);
-  --s4: clamp(2.44rem,1.83rem + 3.04vw,4rem);
-  --s5: clamp(3.05rem,2.04rem + 5.07vw,5.65rem);
+  --s-1: clamp(0.80rem,0.84rem + -0.18vw,0.71rem);
+  --s0:  clamp(1.00rem,1.00rem +  0.00vw,1.00rem);
+  --s1:  clamp(1.25rem,1.19rem +  0.32vw,1.41rem);
+  --s2:  clamp(1.56rem,1.39rem +  0.85vw,2.00rem);
+  --s3:  clamp(1.95rem,1.61rem +  1.70vw,2.83rem);
+  --s4:  clamp(2.44rem,1.83rem +  3.04vw,4.00rem);
+  --s5:  clamp(3.05rem,2.04rem +  5.07vw,5.65rem);
   --measure: 65ch;
   --line-height: var(--ratio);
   --line-height-small: calc(0.8*var(--ratio));
