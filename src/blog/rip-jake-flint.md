@@ -9,6 +9,7 @@ tags:
   - music
   - news
 date: 2022-12-01T15:49:05-06:00
+image: /assets/images/blog/2022-01-12-rip-jake-flint/czahller-20220714-13-19-25.jpg
 excerpt: Oklahoma Red Dirt musician Jake Flint, age 37, died Sunday, mere hours after marrying his fiancée, Brenda.
 ---
 <!-- markdownlint-disable MD025 -->

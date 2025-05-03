@@ -2,7 +2,8 @@
 layout: layout-blog-index.njk
 title: Blog
 index: true
-excerpt: Index of tropical, tiki, and historic rum cocktail recipes, adapted to use the Smuggler's Cove rum taxonomy
+excerpt: Index of blog posts at Mercury Photo Bureau
+image: /assets/images/icons/mpb-logo.svg
 eleventyExcludeFromCollections: true
 ---
 

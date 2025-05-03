@@ -14,6 +14,7 @@ tags:
   - Woody Guthrie Folk Festival
   - Woodyfest 2014
 date: 2021-07-13T21:14:39+00:00
+image: /assets/images/blog/2022-01-03-woodyfest-nancy-apple/czahller-20140711-11-02-25.jpg
 excerpt: I met “Princess of Twang” Nancy Apple in 2013, my first year volunteering to document the Woody Guthrie Folk Festival.
 ---
 <!-- markdownlint-disable MD025 -->

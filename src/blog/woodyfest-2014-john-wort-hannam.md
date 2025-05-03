@@ -14,7 +14,8 @@ tags:
   - Woody Guthrie Folk Festival
   - Woodyfest 2014
 date: 2020-10-12T22:30:57+00:00
-excerpt: "In <time datetime='2001'>2001</time>, <span class='h-card p-name'>John Wort Hannam</span> quit his job to become a folk musician. He spent the next ten months draining his bank account while he sat at his kitchen table writing."
+image: /assets/images/blog/2020-10-12-woodyfest-john-wort-hannam/czahller-20140710-15-39-14.jpg
+excerpt: "In 2001, John Wort Hannam quit his job to become a folk musician. He spent the next ten months draining his bank account while he sat at his kitchen table writing."
 ---
 <!-- markdownlint-disable MD025 -->
 # {{ title }}

@@ -734,8 +734,12 @@ icon-l {
 
     & .icon,
     & .icon-sprite svg {
-      /* height: 1.3459cap; /* 1em/20px for default font; YMMV */
       width: 1.3459cap;
+      height: auto;
+    }
+
+    &.social .icon {
+      width: 3cap;
     }
   }
 }
@@ -757,8 +761,8 @@ a:visited {
   color: var(--mpb-color-textPrimary);
 }
 
-a[href^='http://']:not([href*='mercury.photo.vercel.app']):not([href*='localhost']):after,
-a[href^='https://']:not([href*='mercury.photo.vercel.app']):not([href*='localhost']):after {
+a[href^='http://']:not([href*='mercury.photo']):not([href*='localhost']):not(.social-link):after,
+a[href^='https://']:not([href*='mercury.photo']):not([href*='localhost']):not(.social-link):after {
   display: inline-block;
   margin-inline-start: .5ch;
   inline-size: 1ch;

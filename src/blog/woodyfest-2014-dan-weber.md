@@ -15,6 +15,7 @@ tags:
   - Woody Guthrie Folk Festival
   - Woodyfest 2014
 date: 2021-07-11T21:55:41+00:00
+image: /assets/images/blog/2021-07-11-woodyfest-dan-weber/czahller-20140711-10-52-23.jpg
 excerpt: Dan Weber is the only songwriter in the history of the Woody Guthrie Folk Festival to have pulled off a hat trick.
 ---
 <!-- markdownlint-disable MD025 -->

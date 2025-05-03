@@ -928,9 +928,9 @@ div.col-5 {
   }
 }
 
-/* Comments
+/* Social */
 
-#cusdis_thread {
-  padding: var(--s1);
-  background-color: #fff;
-} */
+#social-wrapper {
+  display: flex;
+  justify-content: space-evenly;
+}

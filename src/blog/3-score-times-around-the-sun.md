@@ -7,7 +7,8 @@ tags:
   - friendship
   - Rolleiflex
 date: 2021-04-06T22:22:08+00:00
-excerpt: <time datetime="2021-04-03">This weekend</time> I celebrated my sixtieth birthday surrounded by friends and family.
+image: /assets/images/blog/2021-04-06-three-score-times/czahller-20210403-13-49-37.jpg
+excerpt: This weekend I celebrated my sixtieth birthday surrounded by friends and family.
 ---
 <!-- markdownlint-disable MD025 -->
 # {{ title }}

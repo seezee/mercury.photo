@@ -187,10 +187,18 @@ hgroup:has(h1) h1 ~ p:not(:empty):first-of-type:first-letter {
   margin-inline-end: .5em;
 }
 
+.icon-after svg {
+  margin-inline-start: .5em;
+}
+
+.icon-after.social svg {
+  margin-inline-start: var(--s1);
+}
+
 /* Aspect ratios */
 
 .aspect {
-  inline-size: 100%,
+  inline-size: 100%;
   block-size: auto;
 }
 

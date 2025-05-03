@@ -15,7 +15,8 @@ tags:
   - Woody Guthrie Folk Festival
   - Woodyfest 2019
 date: 2020-10-05T20:46:21+00:00
-excerpt: "Two-time chart-topper <span class='h-card p-name'>Stoll Vaughan</span> made his Woodyfest debut in <time datetime='20'>2019</time>. Vaughan took the Crystal Theatre stage <time datetime='2019-07-12T-15:30:005:00'>mid-afternoon on festival Friday</time>."
+image: /assets/images/blog/2020-10-05-woodyfest-stoll-vaughan/czahller-20190712-16-03-31.jpg
+excerpt: "Two-time chart-topper Stoll Vaughan made his Woodyfest debut in 2019. Vaughan took the Crystal Theatre stage mid-afternoon on festival Friday."
 ---
 <!-- markdownlint-disable MD025 -->
 # {{ title }}

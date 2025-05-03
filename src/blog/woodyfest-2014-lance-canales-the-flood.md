@@ -14,7 +14,8 @@ tags:
   - Woody Guthrie Folk Festival
   - Woodyfest 2014
 date: 2020-10-09T22:30:37+00:00
-excerpt: "In <time datetime='2013-02'>2013</time>, <span class='h-card p-name'>Lance Canales</span> and his band the <span class='h-card p-organization'>Flood</span> covered <span class='h-card p-name'><span class='p-nickname'>Woody</span> Guthrie</span>’s song <cite class='short-work'>Deportee.</cite> Guthrie wrote the song shortly after the <time datetime='1948-01-28'>1948</time> plane wreck at Los Gatos, California, which killed the cabin crew and twenty-eight Mexican nationals."
+image: /assets/images/blog/2020-10-09-woodyfest-lance-canales/czahller-20140710-11-43-47.jpg
+excerpt: "In 2013, Lance Canales and his band the Flood covered Woody Guthrie’s song “Deportee.” Guthrie wrote the song shortly after the 1948 plane wreck at Los Gatos, California, which killed the cabin crew and twenty-eight Mexican nationals."
 ---
 <!-- markdownlint-disable MD025 -->
 # {{ title }}

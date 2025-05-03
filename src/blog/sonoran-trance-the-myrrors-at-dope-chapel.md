@@ -11,7 +11,8 @@ tags:
   - rock, psychedelic
   - trance
 date: 2020-04-17T22:00:14+00:00
-excerpt: Forming in <time datetime="2007">2007</time> while its members were in high school, <span class="h-card p-organization">The Myrrors</span> play <q>a sun-baked, mystical form of psychedelia informed by desert blues, Krautrock, free jazz, and <span class="h-card p-name">Terry Riley</span>-style minimalism.</q>
+image: /assets/images/blog/2020-09-04-myrrors/czahller-20150511-22-26-33.jpg
+excerpt: Forming in 2007 while its members were in high school, The Myrrors play “a sun-baked, mystical form of psychedelia informed by desert blues, Krautrock, free jazz, and Terry Riley-style minimalism.”
 ---
 <!-- markdownlint-disable MD025 -->
 # {{ title }}

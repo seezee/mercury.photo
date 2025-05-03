@@ -11,7 +11,8 @@ tags:
   - James Garner
   - snow
 date: 2021-02-18T22:48:39+00:00
-excerpt: On <time datetime="2021-02-14">Valentine's Day</time> a massive winter storm pushed across the central and southern U.S. plains.
+image: /assets/images/blog/2021-02-18-valentines-blizzard/czahller-20210214-13-35-33.jpg
+excerpt: On Valentine's Day a massive winter storm pushed across the central and southern U.S. plains.
 ---
 <!-- markdownlint-disable MD025 -->
 # {{ title }}

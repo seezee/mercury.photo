@@ -14,7 +14,8 @@ tags:
   - Woody Guthrie Folk Festival
   - Woodyfest 2014
 date: 2020-10-19T22:30:32+00:00
-excerpt: As in years past, Woodyfest 14 showcased three songwriting contest winners. <time datetime="2014-07-10T18:15:00-5:00">Thursday evening</time> at the Pastures of Plenty Stage kicked off with <span class="h-card p-name"><abbr class="noscaps">Dr.</abbr> Lori Holyfield</span> performing <cite class="short-work">Ode to Guy Clark.</cite>
+image: /assets/images/blog/2020-10-19-woodyfest-lori-holyfield/czahller-20140710-19-07-01.jpg
+excerpt: As in years past, Woodyfest 14 showcased three songwriting contest winners. Thursday evening at the Pastures of Plenty Stage kicked off with Dr. Lori Holyfield performing “Ode to Guy Clark.”
 ---
 <!-- markdownlint-disable MD025 -->
 # {{ title }}

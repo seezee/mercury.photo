@@ -173,7 +173,6 @@ module.exports = async function(eleventyConfig) {
     url: `https://mercury.photo`,
     author: `Chris J. Zähller`,
     twitter: `czahller`,
-    image: `/assets/images/site/mpb-logo.webp/`,
     options: {
       titleDivider: `|`,
       imageWithBaseUrl: true,
