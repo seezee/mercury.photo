@@ -18,10 +18,11 @@ const makeIframeContent = (target) => {
       iframe {
         block-size: 100vh;
       }
+      iframe body {
+        padding: 0
+      }
       :root {
         color-scheme: light;
-        block-size: fit-content;
-        padding: var(--s1);
         color: var(--mpb-color-textReverse);
         background-color: var(--mpb-color-textPrimary);
       }
@@ -30,6 +31,9 @@ const makeIframeContent = (target) => {
       }
       input, textarea {
         color: var(--mpb-color-textReverse);
+      }
+      .grid {
+        display: unset!important;
       }
       .bg-gray-200 {
         color: var(--mpb-color-textPrimary);
@@ -47,12 +51,29 @@ const makeIframeContent = (target) => {
         padding-inline: var(--s0);
         padding-block: var(--s-2);
       }
+      .px-1 {
+        margin-block-end: var(--s1);
+        padding: 0;
+      }
+      .w-full {
+        inline-size: fit-content;
+      }
       @supports (text-box: trim-both cap alphabetic) {
         .px-4,
         .p-2 {
           padding-block: var(--s0);
           text-box: trim-both cap alphabetic;
         }
+      }
+      .underline {
+        display: none;
+      }
+      .my-8:empty,
+      .mt-4:empty {
+        margin: 0;
+        padding: 0;
+        inline-size: 0;
+        block-size: 0;
       }
     </style>
   </head>

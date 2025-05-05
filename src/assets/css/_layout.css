@@ -766,7 +766,9 @@ div.col-5 {
   max-width: 58ch;
 }
 
-#footer-main {
+#footer-main,
+#comment-wrapper,
+#support-site-wrapper {
   max-width: 60ch;
 }
 

@@ -10,19 +10,22 @@ function moveFootnote() {
   if (CSS.supports("position-anchor", "--foobar")) {
 
     const small   = document.createElement(`small`);
+    if ((list.length) || (list2.length)) {
+      sidebar.append(small);
+      small.setAttribute(`id`, `footnote-wrapper`);
+    }
+
     if (list.length) {
       const footer  = list[0].closest(`footer`);
       const rules   = footer.getElementsByTagName(`hr`);
       const rule    = rules[0];
 
-      sidebar.append(small);
       small.append(footer);
       rule.remove();
     };
 
     if (list2.length) {
       const footer2 = list2[0].closest(`footer`);
-      sidebar.append(small);
       small.append(footer2);
     };
 

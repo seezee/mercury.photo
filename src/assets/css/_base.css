@@ -488,7 +488,7 @@ select {
     inline-size: fit-content;
     max-inline-size: 100%;
     field-sizing: content;
-    min-inline-size: 30ch;
+    min-inline-size: 24ch;
 
     &[type="checkbox"],
     &[type="radio"] {
@@ -535,6 +535,7 @@ select{
 textarea {
   padding: var(--s0);
   min-block-size: 5rlh;
+  resize: both;
 }
 
 label {

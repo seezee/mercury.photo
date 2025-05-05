@@ -14,13 +14,16 @@ export default class ThemeSwitcher extends HTMLElement {
    */
   connectedCallback() {
     let themeAttr = document.documentElement.getAttribute(`data-theme`);
+    let themeMessage;
     let themeValue;
     let themeStatus;
 
     if (themeAttr === `light`) {
+      themeMessage = `Burn me!`;
       themeValue  = `dark`;
       themeStatus = `light`;
     } else {
+      themeMessage = `Dodge me!`;
       themeValue  = `light`;
       themeStatus = `dark`;
     }
@@ -29,8 +32,8 @@ export default class ThemeSwitcher extends HTMLElement {
     this.button.className = `theme-toggle`;
     this.button.setAttribute(`data-theme`, `${themeStatus}`);
     this.button.setAttribute(`aria-live`, `polite`);
-    this.button.setAttribute(`title`, `Switch to ${themeValue} theme`);
-    this.button.innerHTML = `<svg xmlns="http://www.w3.org/2000/svg" class="sun-and-moon" aria-hidden="true" width="24" height="24" viewBox="0 0 24 24"><circle class="sun" cx="12" cy="12" r="6" mask="url(#moon-mask)" fill="currentColor" /><g class="sun-beams" stroke="currentColor"><line x1="12" y1="1" x2="12" y2="3" /><line x1="12" y1="21" x2="12" y2="23" /><line x1="4.22" y1="4.22" x2="5.64" y2="5.64" /><line x1="18.36" y1="18.36" x2="19.78" y2="19.78" /><line x1="1" y1="12" x2="3" y2="12" /><line x1="21" y1="12" x2="23" y2="12" /><line x1="4.22" y1="19.78" x2="5.64" y2="18.36" /><line x1="18.36" y1="5.64" x2="19.78" y2="4.22" /></g><mask class="moon" id="moon-mask"><rect x="0" y="0" width="100%" height="100%" fill="#fff" /><circle cx="24" cy="10" r="6" fill="#000" /></mask></svg><span class="sr-only" id="theme-toggle-label">Toggle to <span id="theme-value">${themeValue}</span> theme. <span role="status">Current them is <span id="theme-status">${themeStatus}</span></span></span>`;
+    this.button.setAttribute(`title`, `${themeMessage} (Switch to ${themeValue} theme)`);
+    this.button.innerHTML = `<svg xmlns="http://www.w3.org/2000/svg" class="sun-and-moon" aria-hidden="true" width="24" height="24" viewBox="0 0 24 24"><circle class="sun" cx="12" cy="12" r="6" mask="url(#moon-mask)" fill="currentColor" /><g class="sun-beams" stroke="currentColor"><line x1="12" y1="1" x2="12" y2="3" /><line x1="12" y1="21" x2="12" y2="23" /><line x1="4.22" y1="4.22" x2="5.64" y2="5.64" /><line x1="18.36" y1="18.36" x2="19.78" y2="19.78" /><line x1="1" y1="12" x2="3" y2="12" /><line x1="21" y1="12" x2="23" y2="12" /><line x1="4.22" y1="19.78" x2="5.64" y2="18.36" /><line x1="18.36" y1="5.64" x2="19.78" y2="4.22" /></g><mask class="moon" id="moon-mask"><rect x="0" y="0" width="100%" height="100%" fill="#fff" /><circle cx="24" cy="10" r="6" fill="#000" /></mask></svg><span class="sr-only" id="theme-toggle-label">Toggle to <span id="theme-value">${themeValue}</span> theme. <span role="status">Current theme is <span id="theme-status">${themeStatus}</span></span></span>`;
     // Create the button
     this.render();
     this.addEventListener(`click`, this);
@@ -52,14 +55,14 @@ export default class ThemeSwitcher extends HTMLElement {
       localStorage.setItem(`theme-preference`, `dark`);
       themeVal.innerHTML    = `light`;
       themeStatus.innerHTML =`dark`;
-      buttonTitle           = this.button.setAttribute(`title`, `Switch to light theme`);
+      buttonTitle           = this.button.setAttribute(`title`, `Dodge me! (Switch to light theme)`);
     } else {
       dataTheme             = this.button.setAttribute(`data-theme`, `light`);
       document.documentElement.setAttribute(`data-theme`, `light`);
       localStorage.setItem(`theme-preference`, `light`); // reset theme selection
       themeVal.innerHTML    = `dark`;
       themeStatus.innerHTML = `light`;
-      buttonTitle           = this.button.setAttribute(`title`, `Switch to dark theme`);
+      buttonTitle           = this.button.setAttribute(`title`, `Burn me! (Switch to dark theme)`);
     }
 	}
 
