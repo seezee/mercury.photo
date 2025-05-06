@@ -60,8 +60,13 @@
   animation: fadein 0ms;
 }
 
+[tabindex='-1']:focus {
+  outline: none;
+}
+
 /* Focus outline */
-:focus-visible {
+:focus-visible,
+[tabindex='-1']:focus-visible {
   outline: var(--mpb-alert-border-width) auto var(--mpb-color-accent);
   outline-offset: var(--s-5);
   border-radius: var(--mpb-radius-1x);
