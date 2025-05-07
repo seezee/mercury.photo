@@ -612,32 +612,16 @@ div.col-5 {
 }
 
 /* Fixes notes being too wide on small mobile devices. */
- #sidenotes {
-  max-inline-size: 21ch;
-}
-
-/* Fixes notes being too wide on small mobile devices. */
 [id^="fn\:"],
 [id^="mn\:"] {
   max-inline-size: none;
 }
 
-/* Reset for larger screens. */
-@media screen and (min-width: 20rem) {
-
-  #sidenotes {
-    max-inline-size: none;
-  }
-
-  [id^="fn\:"],
-  [id^="mn\:"] { /* Span body width when wrapped */
-    max-inline-size: none;
-  }
-}
-
 @media screen and (min-width: 64rem) {
+  #share-wrapper,
+  #tags-wrapper,
   [id^="fn\:"],
-  [id^="mn\:"] { /* Fit sidebar width when not wrapped */
+  [id^="mn\:"] { /* Fit sidebar width when wrapped */
     max-inline-size: 30ch;
   }
 }
@@ -874,6 +858,12 @@ div.col-5 {
 
 .taglist li:not(:last-of-type) {
   margin-block-end: var(--s1);
+}
+
+.taglist li:last-of-type {
+  hr {
+    display: none;
+  }
 }
 
 /* Wedding Pricelist */

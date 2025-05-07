@@ -8,7 +8,7 @@ tags:
   - photo gallery
   - reportage
   - singer-songwriter
-  - American
+  - Americana
   - festival
   - folk
   - Woody Guthrie

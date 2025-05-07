@@ -19,10 +19,10 @@ Find Articles by Tag
 
 {% set sortedTags = collections.blog | taglist %}
 
-<div class="col-3">
+<div class="col-3 allow-break">
   <ul>
     {% for tag in sortedTags %}
-      <li><a href="/blog/tags/{{ tag }}">{{ tag }}</a></li>
+      <li><a href="/blog/tags/{{ tag | slugify }}">{{ tag }}</a></li>
     {% endfor %}
   </ul>
 </div>

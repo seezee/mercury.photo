@@ -21,7 +21,7 @@
         {% include "_skipLink.njk" %}
         {% include "_header.njk" %}
         {% include "_breadcrumbs.njk" %}
-        <sidebar-l side="right" class="flex_box_wrappable">
+        <sidebar-l side="right" class="flex_box_wrappable" sideWidth="21ch">
           <center-l max="70ch" id="main-wrapper">
             <!-- Grab the content from the page data, dump it here, and mark it as safe -->
             <!-- Safe docs: https://mozilla.github.io/nunjucks/templating.html#safe -->
@@ -29,6 +29,7 @@
           </center-l>
           <stack-l id="sidenotes">
             {% include "_share.njk" %}
+            {% include "_tags.njk" %}
           </stack-l>
         </sidebar-l>
         {% include "_comments.njk" %}

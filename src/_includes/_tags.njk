@@ -1,0 +1,5 @@
+<h3>Tags</h3>
+<div id="tags-wrapper">
+<p>{% for tag in tags -%}{% if tag !== 'blog' %}<a href="/blog/tags/{{ tag | slugify }}" class="tag-link">{{ tag | safe }}</a>{% if not loop.last %} | {% endif %}{% endif %}{%- endfor %}</p>
+</div>
+<hr />
