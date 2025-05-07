@@ -16,7 +16,7 @@ tags:
   - Woodyfest 2013
 date: 2020-10-02T10:30:21+00:00
 image: /assets/images/blog/2020-10-02-woodyfest-sam-baker/czahller-20130713-17-52-12.jpg
-excerpt: We wrote about Woodyfest regular Sam Baker just over a year ago so we won&rsquo;t repeat ourselves here. Baker has played Woodyfest a total of a dozen times as of 2019.
+excerpt: We wrote about Woodyfest regular Sam Baker just over a year ago so we won’t repeat ourselves here. Baker has played Woodyfest a total of a dozen times as of 2019.
 ---
 <!-- markdownlint-disable MD025 -->
 # {{ title }}
@@ -34,7 +34,7 @@ excerpt: We wrote about Woodyfest regular Sam Baker just over a year ago so we w
 
 <div class="drop-cap">
 
-We wrote about Woodyfest regular <span class="h-card p-name">Sam Baker</span> <a href="/blog/woodyfest-2018-sam-baker/">just over a year ago</a> so we won&rsquo;t repeat ourselves here. Baker has played Woodyfest a total of a dozen times as of <time datetime="2019-07-13T19:45:00-5:00">2019</time>.
+We wrote about Woodyfest regular <span class="h-card p-name">Sam Baker</span> <a href="/blog/woodyfest-2018-sam-baker/">just over a year ago</a> so we won’t repeat ourselves here. Baker has played Woodyfest a total of a dozen times as of <time datetime="2019-07-13T19:45:00-5:00">2019</time>.
 </div>
 
 Baker played an afternoon set at the Crystal Theatre on festival Saturday. <span class="h-card p-name">Megan Palmer</span> accompanied Baker on violin. Also accompanying Baker are <span class="h-card p-name">Don Conoscenti</span> (electric guitar, lap steel) and <span class="h-card p-name">Erik Alvar</span> (contrabass). The late <span class="h-card p-name"><a href="/blog/audrey-auld-at-the-crystal-theatre-woody-guthrie-folk-festival/">Audrey Auld-Mezera</a></span> and the <span class="h-card p-organization">Burns Sisters</span> (<span class="h-card p-name p-given-name">Jeannie</span> and <span class="h-card p-name p-given-name">Marie</span>) joined Baker later in his set.

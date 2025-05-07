@@ -1,6 +1,6 @@
 ---
 layout: _main-blog.njk
-title: "Woodyfest 2014: Lance Canales & the Flood"
+title: "Woodyfest 2014: Lance Canales &amp; the Flood"
 tags: 
   - blog
   - photography, digital

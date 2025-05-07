@@ -11,7 +11,7 @@
         {% if tags == "home" %}<!-- Do nothing -->
         {% else %}
         <span role="listitem">
-          <a href="{{ post.url }}" id="breadcrumb-current" aria-current="page">{{ post.data.title }}</a>
+          <a href="{{ post.url | safe }}" id="breadcrumb-current" aria-current="page">{{ post.data.title | safe }}</a>
         </span>
         {% endif %}
       {% endif %}

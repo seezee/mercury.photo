@@ -1,6 +1,6 @@
 ---
 layout: _main-blog.njk
-title: "Woodyfest 2019: Annie Guthrie (Featuring Arlo & Cathy)"
+title: "Woodyfest 2019: Annie Guthrie (Featuring Arlo &amp; Cathy)"
 tags: 
   - blog
   - photography, digital

@@ -185,8 +185,17 @@ module.exports = async function(eleventyConfig) {
 		collection: {
 			name: `posts`, // iterate over `collections.posts`
 			limit: 0,     // 0 means no limit
-		}
-	});
+		},
+    metadata: {
+			language: "en",
+			title: "Mercury Photo Bureau",
+			subtitle: "Rangefinder + Mirrorless Digital + Large Format Film Photography + Music, Arts, &amp; News",
+			base: "https://mercury.photo/",
+			author: {
+				name: "Chris J. Zähller"
+				// email: "", // Optional
+			}
+		}});
   // Tags index
   eleventyConfig.addFilter(`taglist`, function(collection) {
     const ignoredTags = [`blog`, `all`];
