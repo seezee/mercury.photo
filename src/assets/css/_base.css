@@ -736,7 +736,6 @@ icon-l {
     & .icon,
     & .icon-sprite svg {
       width: 1.3459cap;
-      height: auto;
     }
 
     &.social .icon {

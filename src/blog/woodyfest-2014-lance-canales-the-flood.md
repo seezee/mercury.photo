@@ -40,7 +40,7 @@ In <time datetime="2013-02">2013</time>, <span class="h-card p-name">Lance Canal
 
 Canales first performed <cite class="short-work">Deportee</cite> at the <time datetime="2012">2012</time> <span class="h-card p-organization">Steinbeck Festival</span>.[^2] Woody's original laments the anonymity of the Hispanic victims. In his cover, Canales names each of the victims. This contrasts with contemporary newspaper articles, which simply labeled them <q>deportees.</q>[^3] Soon after he began performing the song, he learned that the grave containing these lost souls was in Fresno, California, not far from his current home.
 
-[^2]: <cite class="full-citation">Artist bio, <a href="://www.reverbnation.com/lancecanalestheflood" target="_blank" rel="noopener nofollow">ReverbNation</a>.</cite>
+[^2]: <cite class="full-citation">Artist bio, <a href="https://www.reverbnation.com/lancecanalestheflood" target="_blank" rel="noopener nofollow">ReverbNation</a>.</cite>
 
 [^3]: The only named victims in most contemporary reporting were the cabin crew and an immigration official.
 

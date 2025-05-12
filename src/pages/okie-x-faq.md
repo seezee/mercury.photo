@@ -769,7 +769,7 @@ I live with a cat, so if you’re allergic, you may want to take appropriate mea
 
 <details name="essential-faq"><summary>When will the portraits be shown? Where will they be shown?</summary>
 
-<del>The gallery show should occur in the 1<sup>st</sup> or 2<sup>nd</sup> quarter of <time datetime="2017">2017</time>, with the location to be announced as the date approaches.</del> <ins>At this time I don't know when or where the show will hang. I will announce it on social media and also here when I know.</ins> The best way to stay updated on OKIE-X is to <a href="/contact/newsletter/">sign up for the newsletter</a>. <em>If you've sat for the project, please ensure that I have your current contact information.</em>
+<del>The gallery show should occur in the 1<sup>st</sup> or 2<sup>nd</sup> quarter of <time datetime="2017">2017</time>, with the location to be announced as the date approaches.</del> <ins>At this time I don't know when or where the show will hang. I will announce it on social media and also here when I know.</ins> The best way to stay updated on OKIE-X is to [sign up for the newsletter](/contact/newsletter/). <em>If you've sat for the project, please ensure that I have your current contact information.</em>
 </details>
 
 <details name="essential-faq"><summary>What’s the deal with x-ray film? I thought x-rays were dangerous!</summary><stack-l>
@@ -806,7 +806,7 @@ I'm using all the usual social media channels, along with directly contacting th
 
 <details name="essential-faq"><summary>I’m not a musician, but I’d like to help.</summary>
 
-You can help spread the word by telling your friends about OKIE-X and by linking to this FAQ on social media. If you are a business owner and would like to discuss corporate sponsorship, <a href="/contact">please contact me</a>.
+You can help spread the word by telling your friends about OKIE-X and by linking to this FAQ on social media. If you are a business owner and would like to discuss corporate sponsorship, [please contact me](/contact/).
 </details>
 
 ## Contact Form
