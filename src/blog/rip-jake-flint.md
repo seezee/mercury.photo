@@ -1,6 +1,6 @@
 ---
 layout: _main-blog.njk
-title: R.I.P Jake Flint, 1985&#8205;&#8202;&#8205;&#8211;&#8205;&#8202;&#8205;2022
+title: R.I.P Jake Flint, 1985‍ ‍–‍ ‍2022
 tags: 
   - blog
   - red dirt

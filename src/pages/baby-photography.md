@@ -27,7 +27,7 @@ Pictured: newborn portrait session of Alicia and David Goad’s first daughter, 
   ![A cis straight couple holding their baby and facing the camera](/assets/images/site/baby-photography/czahller-20161118-21-31-26.jpg)
 </mpb-dialog-gallery>
 
-<footer>
+<footer aria-label="notes">
   <ul class="app-marginnotes-list" role="list">
     <li id="mn:1" role="listitem">
 

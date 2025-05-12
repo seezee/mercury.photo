@@ -13,9 +13,9 @@ eleventyExcludeFromCollections: true
 
 <mpb-callout type="note">
 
-We are in the middle of migrating platforms. Over the next few months we hope to restore all previously published posts, starting with the most recent. Until we finish reinstating the missing posts, some internal links will not work.
+We recently migrated platforms. While we work to restore all previously published posts (from most recent to least) some internal links will not work.
 
-If you don't see the post you are looking for or a link directs you to nowhere, please be patient and check back later.
+If you don't see the post you are looking for or a link directs you to nowhere, please be patient (or [contact us](/contact/)).
 
 </mpb-callout>
 <ul class="blog-index" role="list">

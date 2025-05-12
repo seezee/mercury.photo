@@ -191,10 +191,6 @@ hgroup:has(h1) h1 ~ p:not(:empty):first-of-type:first-letter {
   margin-inline-start: .5em;
 }
 
-.icon-after.social svg {
-  margin-inline-start: var(--s1);
-}
-
 /* Aspect ratios */
 
 .aspect {

@@ -20,7 +20,7 @@ All rights to the photographic image are reserved. You may not copy, <a href="#m
 Mercury Photo Bureau vigorously protects its intellectual property rights. Violators can expect to bear the full legal and financial consequences of any such breach.
 
 Remember: it’s not nice to steal!
-<footer>
+<footer aria-label="notes">
   <ul class="app-marginnotes-list" role="list">
     <li id="mn:1" role="listitem">
 

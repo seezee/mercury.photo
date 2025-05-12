@@ -3,10 +3,8 @@
 <p>
   {% for tag in tags -%}
     {% if tag !== 'blog' %}
-      <a href="/blog/tags/{{ tag | slugify | safe }}" class="tag-link">
-        {{ tag | safe }}
-      </a>
-      {% if not loop.last %} |
+      <a href="/blog/tags/{{ tag | slugify | safe }}" class="tag-link">{{ tag | safe }}</a>
+      {% if not loop.last %}&#32;|&#32;
       {% endif %}
     {% endif %}
   {%- endfor %}</p>

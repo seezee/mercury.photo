@@ -17,7 +17,7 @@ My Brief Life As a Photographer
 
 After that, I inherited a couple of <a title="Music Santa Cruz" href="https://www.facebook.com/musicsantacruz" target="_blank">my brother's</a> cast-off digital point &amp; shoots. They were okay, but nothing about them made me want to spend my vacation with a camera in front of my face when I could just be enjoying the sights unencumbered. Then something happened … to find out what, <a href="/blog/how-i-learned-to-stop-worrying-and-love-the-circle-of-confusion-pt-1/">read my 1<sup>st</sup> essay</a>.
 
-<footer>
+<footer aria-label="notes">
   <ul class="app-marginnotes-list" role="list">
     <li id="mn:1" role="listitem">
 
@@ -25,7 +25,7 @@ After that, I inherited a couple of <a title="Music Santa Cruz" href="https://ww
     </li>
   </ul>
 
-</footer><footer>
+</footer><footer aria-label="About this site">
   <stack-l>
 
 ___

@@ -46,7 +46,7 @@ Get my complete contact details, including phone number, mailing address, and em
 
 </stack-l>
 
-<footer>
+<footer aria-label="notes">
   <ul class="app-marginnotes-list" role="list">
     <li id="mn:1" role="listitem">
 

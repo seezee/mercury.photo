@@ -24,7 +24,7 @@ Thank you for completing the OKIE-X Artists’ Survey.<a href="#mn:1" id="mnref:
 
 {% include "_okie-x-artist-survey.njk" %}
 
-<footer>
+<footer aria-label="notes">
   <ul class="app-marginnotes-list" role="list">
     <li id="mn:1" role="listitem">
 
