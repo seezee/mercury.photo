@@ -228,5 +228,5 @@ Last updated 11 April 2025.
 
 ### Photo credit
 
-The featured image is a crop of an original photograph by <span class="h-card p-name u-url"><a href="https://www.flickr.com/photos/thomasleuthard/5894027860/" target="_blank" rel="external nofollow noreferrer">Thomas Leuthard</a></span>. It is released under the Creative Commons License <a href="https://creativecommons.org/licenses/by/2.0/" target="_blank" rel="external nofollow noreferrer">Attribution 2.0 Generic (CC BY 2.0)</a>. The image was originally featured in Leuthard’s Flickr portfolio but has since disappeared.
+The featured image is a crop of an original photograph by <span class="h-card p-name u-url"><a href="https://www.flickr.com/photos/thomasleuthard/" target="_blank" rel="external nofollow noreferrer">Thomas Leuthard</a></span>. It is released under the Creative Commons License <a href="https://creativecommons.org/licenses/by/2.0/" target="_blank" rel="external nofollow noreferrer">Attribution 2.0 Generic (CC BY 2.0)</a>. The image was originally featured in Leuthard’s Flickr portfolio but has since disappeared.
 </stack-l></aside></stack-l></small>
