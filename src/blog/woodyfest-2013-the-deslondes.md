@@ -65,9 +65,9 @@ The Deslondes sophomore album, <cite><a href="//geo.music.apple.com/us/album/hur
 
 [^5]: Downing's band, <span class="h-card p-organization"><a href="https://youtu.be/h4eF4QF9DaE" target="_blank" rel="external noopener noreferrer">Nothing Else</a></span>, was based in Kansas City.
 
-[^6]: <cite class="h-card p-name full-citation">Powers, Ann</cite>, <cite><abbr>NPR</abbr> Music</cite>, <cite class="short-work"><a href="//www.npr.org/2015/01/16/377747322/the-deslondes-fought-the-blues-and-won" target="_blank" rel="external noopener noreferrer">Songs We Love: The Deslondes <cite class="short-work">Fought the Blues and Won</cite></a>&zwj;&hairsp;&zwj;</cite> (<time datetime="2015-01-16T14:00-5:00">16 January 2015</time>)
+[^6]: <cite class="h-card p-name full-citation">Powers, Ann</cite>, <cite><abbr>NPR</abbr> Music</cite>, <cite class="short-work"><a href="https://www.npr.org/2015/01/16/377747322/the-deslondes-fought-the-blues-and-won" target="_blank" rel="external noopener noreferrer">Songs We Love: The Deslondes <cite class="short-work">Fought the Blues and Won</cite></a>&zwj;&hairsp;&zwj;</cite> (<time datetime="2015-01-16T14:00-5:00">16 January 2015</time>)
 
-[^7]: <cite class="h-card p-name full-citation">Shelburne, Craig</cite>, <cite>Rolling Stone</cite>, <cite class="short-work"><a href="//www.rollingstone.com/music/music-country/watch-the-deslondes-dodge-tvs-and-groupies-in-real-deal-video-161564/" target="_blank" rel="external noopener noreferrer">Watch the Deslondes Dodge <abbr class="noscaps">TV</abbr>s and Groupies in <cite class="short-work">The Real Deal</cite></a>&zwj;&hairsp;&zwj;</cite> (<time datetime="2015-07-14T13:53-4:00">14 July 2015</time>)
+[^7]: <cite class="h-card p-name full-citation">Shelburne, Craig</cite>, <cite>Rolling Stone</cite>, <cite class="short-work"><a href="https://www.rollingstone.com/music/music-country/watch-the-deslondes-dodge-tvs-and-groupies-in-real-deal-video-161564/" target="_blank" rel="external noopener noreferrer">Watch the Deslondes Dodge <abbr>TV</abbr>s and Groupies in <cite class="short-work">The Real Deal</cite></a>&zwj;&hairsp;&zwj;</cite> (<time datetime="2015-07-14T13:53-4:00">14 July 2015</time>)
   </div></details>
   <details name="tabs">
     <summary>Gallery</summary><div>

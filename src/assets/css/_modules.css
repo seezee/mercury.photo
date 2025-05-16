@@ -31,7 +31,7 @@
 /* Icons */
 .icon {
   width: 1cap;
-  height: 1cap;
+  height: auto;
 }
 
 .with-icon {
