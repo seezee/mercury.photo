@@ -197,7 +197,10 @@ module.exports = async function(eleventyConfig) {
 			}
 		}});
 
-  /** Converts the given date string to ISO8601 format. */
+  /**
+   * Converts the given date string to ISO8601 format.
+   * Example usage: <time datetime="{{ post.date | toISOString | safe}}">
+  */
   const toISOString = (dateString) => new Date(dateString).toISOString();
   eleventyConfig.addFilter(`toISOString`, toISOString);
   // Tags index

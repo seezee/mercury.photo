@@ -24,7 +24,7 @@ If you don't see the post you are looking for or a link directs you to nowhere, 
     <stack-l>
       <h2><a href="{{ post.url }}">{{ post.data.title | safe }}</a></h2>
       <a href="{{ post.url }}">{% first_image post %}</a>
-      <small><time datetime="{{ post.date | safe}}">{{ post.date.toUTCString() | safe}}</small>
+      <small><time datetime="{{ post.date | toISOString | safe}}">{{ post.date.toUTCString() | safe}}</small>
       <p>{{ post.data.excerpt | safe }}</p>
       <hr />
     </stack-l>
