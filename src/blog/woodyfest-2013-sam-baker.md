@@ -46,7 +46,7 @@ Baker played an afternoon set at the Crystal Theatre on festival Saturday. <span
 
 <div class="drop-cap">
 
-I took these photos during Baker's ninth appearance at the festival in <time datetime="2013-07-13T17:00:00-5:00">2013</time>. I was still getting the hang of exposing for stage lighting when I took them. I&rsquo;m not proud of these pictures&zwj;&hairsp;&zwj;&mdash;&zwj;&hairsp;&zwj;the blown highlights and out-of-focus main subjects are egregious&zwj;&hairsp;&zwj;&mdash;&zwj;&hairsp;&zwj;but they are a record of something ephemeral. In that spirit I offer them to you.
+I took these photos during Baker's ninth appearance at the festival in <time datetime="2013-07-13T17:00:00-5:00">2013</time>. I was still getting the hang of exposing for stage lighting when I took them. I&rsquo;m not proud of these pictures&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;the blown highlights and out-of-focus main subjects are egregious&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;but they are a record of something ephemeral. In that spirit I offer them to you.
 </div>
 
 <mpb-dialog-gallery hint rel cols="8">

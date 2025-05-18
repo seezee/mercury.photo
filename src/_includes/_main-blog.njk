@@ -6,7 +6,7 @@ layout: layout-blog.njk
     <article class="post" data-pagefind-body>
       <stack-l>
         {{ content | safe }}
-        <small id="pubdate">Published {{ page.date.toUTCString() | safe }}</small>
+        <small id="pubdate">Published <time datetime="{{ page.date | toISOString | safe }}">{{ page.date.toUTCString() | safe }}</time></small>
         {% include "_pagination.njk" %}
       </stack-l>
     </article>

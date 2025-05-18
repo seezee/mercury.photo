@@ -45,7 +45,7 @@ The Kentucky native has toured with <span class="h-card p-name">John Mellencamp<
 
 [<span class="h-card p-name"><span class="p-nickname">Woody</span> Guthrie</span> and <span class="h-card p-name">Dylan</span>] embraced wielding big truths as calls to action. Vaughan worries the white noise and tv news/social media cycle-created Tower of Babel makes it harder for these truths to cut through. But he’s undeterred.
 
-<footer aria-label="Citation">&mdash;&zwj;&hairsp;&zwj;<cite class="full-citation"><a href="//americansongwriter.com/stoll-vaughan-songwriting-shines-on-so-righteous/" target="_blank" rel="external noopener noreferrer">Holly Gleason</a>, <cite class="short-work">Stoll Vaughan Is Not Afraid of Writing Big Truths, Proves It on <cite>So Righteous</cite></cite</cite></footer></blockquote>
+<footer aria-label="Citation">&mdash;&NoBreak;&hairsp;&NoBreak;<cite class="full-citation"><a href="//americansongwriter.com/stoll-vaughan-songwriting-shines-on-so-righteous/" target="_blank" rel="external noopener noreferrer">Holly Gleason</a>, <cite class="short-work">Stoll Vaughan Is Not Afraid of Writing Big Truths, Proves It on <cite>So Righteous</cite></cite</cite></footer></blockquote>
 
 Vaughan's latest release, <cite><a href="//geo.music.apple.com/us/album/desires-shape/1501505851?itsct=music_box&itscg=30200&at=10ldhk&ls=1&app=music" target="_blank" rel="external noopener noreferrer">Desire&rsquo;s Shape</a></cite>, debuted in <time datetime="2020-04">April</time>. According to Vaughan&rsquo;s website, all 2020 tour dates are cancelled, presumably due to the coronavirus pandemic.
   </div></details>

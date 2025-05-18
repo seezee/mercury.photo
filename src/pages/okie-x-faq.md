@@ -127,7 +127,7 @@ I live with a cat, so if you’re allergic, you may want to take appropriate mea
     <li><span class="h-card p-name">Jerrod Beck</span></li>
     <li><span class="h-card p-name">Dale Bennett</span></li>
     <li><span class="h-card p-name">Laine Bergeron</span></li>
-    <li><span class="h-card p-name">Byron Berline</span> (<time datetime="1944-07-06">1944</time>&thinsp;&ndash;&thinsp;<time datetime="2021-07-10">2021</time>)</li>
+    <li><span class="h-card p-name">Byron Berline</span> (<time datetime="1944-07-06">1944</time>&NoBreak;&hairsp;&NoBreak;&ndash;&NoBreak;&hairsp;&NoBreak;<time datetime="2021-07-10">2021</time>)</li>
     <li><span class="h-card p-name">Peyton Bighorse</span></li>
     <li><span class="h-card p-name">Tim Blake</span></li>
     <li><span class="h-card p-name">Steve Boaz</span></li>
@@ -363,7 +363,7 @@ I live with a cat, so if you’re allergic, you may want to take appropriate mea
     </li>
     <li><span class="h-card p-name">Brent Krueger</span>
     </li>
-    <li><span class="h-card p-name">Jimmy LaFave</span> (<time datetime="1955-07-12">1955</time> &ndash; <time datetime="2017-05-21">2017</time>)
+    <li><span class="h-card p-name">Jimmy LaFave</span> (<time datetime="1955-07-12">1955</time>&NoBreak;&hairsp;&NoBreak;&ndash;&NoBreak;&hairsp;&NoBreak;<time datetime="2017-05-21">2017</time>)
     </li>
     <li><span class="h-card p-name">Ike Lamb</span>
     </li>
@@ -403,7 +403,7 @@ I live with a cat, so if you’re allergic, you may want to take appropriate mea
     </li>
     <li><span class="h-card p-name">Felix Linden</span>
     </li>
-    <li><span class="h-card p-name">Boyd Littell</span> (<time datetime="1977-07-24">1977</time> &ndash; <time datetime="2017-10-31">2017</time>)
+    <li><span class="h-card p-name">Boyd Littell</span> (<time datetime="1977-07-24">1977</time>&NoBreak;&hairsp;&NoBreak;&ndash;&NoBreak;&hairsp;&NoBreak;<time datetime="2017-10-31">2017</time>)
     </li>
     <li><span class="h-card p-name">Spencer Livingston-Gainey</span>
     </li>
