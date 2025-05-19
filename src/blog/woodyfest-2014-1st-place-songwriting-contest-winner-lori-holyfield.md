@@ -24,26 +24,13 @@ excerpt: As in years past, Woodyfest 14 showcased three songwriting contest winn
 
 {% image "./src/assets/images/blog/2020-10-19-woodyfest-lori-holyfield/czahller-20140710-19-07-01.jpg", "img-constrained", "Steve Fisher, Terry “Buffalo” Ware, & Lori Holyfield (II) — 17th Annual Woody Guthrie Folk Festival, 2014", "Steve Fisher, Terry “Buffalo” Ware, & Lori Holyfield (II) — 17th Annual Woody Guthrie Folk Festival, 2014" %}</mpb-dialog-img>
 
-<div class="widget__wrapper">
-  <details name="tabs">
-    <summary>Lori Holyfield</summary>
-    <div>
-
-## Lori Holyfield at the Pastures of Plenty
-
-<div class="drop-cap">
-
 As in years past, Woodyfest 14 showcased three songwriting contest winners. <time datetime="2014-07-10T18:15:00-5:00">Thursday evening</time> at the Pastures of Plenty Stage kicked off with <span class="h-card p-name"><abbr>Dr.</abbr> Lori Holyfield</span> performing <cite class="short-work">Ode to Guy Clark,</cite> which took 1<sup>st</sup> place, and <cite class="short-work">Best Friend,</cite> which garnered honorable mention.
-</div>
 
 Holyfield was accompanied by <span class="h-card p-name">Steve Fisher</span> (mandolin), <span class="h-card p-name">John Williams</span>, (harmonica), and the festival house band, the <span class="h-card p-organization">Oklahoma Geniuses</span>. The band comprised <span class="h-card p-name">Terry <span class="p-nickname">&ldquo;Buffalo&rdquo;</span> Ware</span> (guitar), <span class="h-card p-name">Don Morris</span> (bass), <span class="h-card p-name"><abbr>T. Z.</abbr> Wright</span> (accordion), and <span class="h-card p-name">Michael McCarty</span> (drums).
 
 Holyfield is the author of <cite><a href="//amzn.to/3lZlGLh" target="_blank" rel="external noreferrer">Moving Up and Out: Poverty, Education &amp; the Single Parent Family</a></cite> and the founder of the Arkansas Single Parent Scholarship Fund (<abbr>ASPSF</abbr>). As a high school dropout and single parent who went on to earn her <abbr>Ph. D.</abbr> in Sociology,[^1] Holyfield wrote the book to share the stories of <abbr>ASPSF</abbr> scholarship recipients working their way from poverty while guiding communities setting up similar scholarship funds.
 
 [^1]: Holyfield earned her doctorate from the <span class="h-card p-organization">University of Georgia</span>. She has served as a professor in the <span class="h-card p-organization">Department of Sociology and Criminal Justice</span> at the <span class="h-card p-organization">University of Arkansas</span> since <time datetime="1995">1995</time>.
-  </div></details>
-  <details name="tabs">
-    <summary>Gallery</summary><div>
 
 ## Gallery
 
@@ -64,4 +51,4 @@ Holyfield is the author of <cite><a href="//amzn.to/3lZlGLh" target="_blank" rel
   ![1st-place songwriting contest winner Lori Holyfield — 17th Annual Woody Guthrie Folk Festival, 2014](/assets/images/blog/2020-10-19-woodyfest-lori-holyfield/czahller-20140710-19-07-19.jpg)
   ![Lori Holyfield & Oklahoma Geniuses upstage view — 17th Annual Woody Guthrie Folk Festival, 2014](/assets/images/blog/2020-10-19-woodyfest-lori-holyfield/czahller-20140710-19-09-19.jpg)
   ![Lori Holyfield & Oklahoma Geniuses — 17th Annual Woody Guthrie Folk Festival, 2014](/assets/images/blog/2020-10-19-woodyfest-lori-holyfield/czahller-20140710-19-12-27.jpg)
-</mpb-dialog-gallery></div></details></div>
+</mpb-dialog-gallery>

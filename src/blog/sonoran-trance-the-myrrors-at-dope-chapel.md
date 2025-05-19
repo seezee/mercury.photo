@@ -21,14 +21,7 @@ excerpt: Forming in 2007 while its members were in high school, The Myrrors play
 
 {% image "./src/assets/images/blog/2020-09-04-myrrors/czahller-20150511-22-26-33.jpg", "img-constrained", "The Myrrors (II) — The Myrrors at Dope Chapel", "The Myrrors (II) — The Myrrors at Dope Chapel" %}</mpb-dialog-img>
 
-<div class="widget__wrapper">
-  <details name="tabs">
-    <summary>Sonoran Trance</summary>
-    <div>
-
 ## Sonoran Trance
-
-<div class="drop-cap">
 
 Forming in <time datetime="2007">2007</time> while its members were in high school, <span class="h-card p-organization">The Myrrors</span> play <q>a sun-baked, mystical form of psychedelia informed by desert blues, Krautrock, free jazz, and <span class="h-card p-name">Terry Riley</span>-style minimalism.</q>[^1] The band's lineup has changed several times throughout the years, but always retained a nucleus consisting of co-founders <span class="h-card p-name">Nik Rayne</span>[^2] (guitar and other many other instruments) and <span class="h-card p-name">Grant Beyschau</span> (drums, woodwinds, and brass).
 
@@ -36,16 +29,11 @@ Forming in <time datetime="2007">2007</time> while its members were in high scho
 
 [^2]: Nik Rayne is the stage name of Nik Rayne Safi, also known as <span class="h-card p-name"><abbr>N. R.</abbr> Safi</span>. Safi also records and produces as <a href="//radiokhiyaban.bandcamp.com/album/volume-1" target="_blank" rel="external noopener noreferrer"><span class="h-card p-name p-nickname">Naujawanan Baidar</span></a>.
 
-</div>
-
 When The Myrrors stopped at Norman's <span lass="h-card p-organization">Dope Chapel</span> on their way back from Austin's <span lass="h-card p-organization">Psych Fest</span> in <time datetime="2015-05-11">2015</time>, they comprised Rayne and Beyschau along with <span class="h-card p-name">Connor Gallagher</span> (guitar, 12-string guitar), <span class="h-card p-name">Cody Schwartz</span> (bass), and <span class="h-card p-name">Miguel Urbina</span> (violin).
 
 Experimental composer and guitarist <span class="h-card p-name">Sam Regan</span>, performing as <span class="h-card p-organization">Similarity</span>, opened for The Myrrors.
 
-</div></details><details name="tabs">
-    <summary>Gallery: Sam Regan</summary><div>
-
-## Sam Regan
+## Gallery: Sam Regan
 
 <mpb-dialog-gallery hint rel cols="8">
   
@@ -59,13 +47,11 @@ Experimental composer and guitarist <span class="h-card p-name">Sam Regan</span>
   ![Sam Regan (VII) — At Dope Chapel](/assets/images/blog/2020-09-04-myrrors/czahller-20150511-21-44-27.jpg)
   ![Sam Regan (VIII) — At Dope Chapel](/assets/images/blog/2020-09-04-myrrors/czahller-20150511-21-46-33.jpg)
 </mpb-dialog-gallery>
-</div></details><details name="tabs">
-    <summary>Gallery: Myrrors</summary><div>
 
-## Myrrors
+## Gallery: The Myrrors
 
 <mpb-dialog-gallery hint rel cols="8">
-  
+
   ![The Myrrors (I) — The Myrrors at Dope Chapel](/assets/images/blog/2020-09-04-myrrors/czahller-20150511-22-26-17.jpg)
   ![The Myrrors (II) — The Myrrors at Dope Chapel](/assets/images/blog/2020-09-04-myrrors/czahller-20150511-22-26-33.jpg)
   ![The Myrrors (III) — The Myrrors at Dope Chapel](/assets/images/blog/2020-09-04-myrrors/czahller-20150511-22-26-46.jpg)
@@ -94,4 +80,3 @@ Experimental composer and guitarist <span class="h-card p-name">Sam Regan</span>
   ![Grant Beyschau (II) — The Myrrors at Dope Chapel](/assets/images/blog/2020-09-04-myrrors/czahller-20150511-22-40-58.jpg)
   ![Audience (II) — The Myrrors at Dope Chapel](/assets/images/blog/2020-09-04-myrrors/czahller-20150511-22-45-05.jpg)
 </mpb-dialog-gallery>
-</div></details></div>

@@ -25,19 +25,9 @@ excerpt: "Two-time chart-topper Stoll Vaughan made his Woodyfest debut in 2019. 
 
 {% image "./src/assets/images/blog/2020-10-05-woodyfest-stoll-vaughan/czahller-20190712-16-03-31.jpg", "img-constrained", "Stoll Vaughan (Upstage View) — 22nd Annual Woody Guthrie Festival, 2019", "Stoll Vaughan (Upstage View) — 22nd Annual Woody Guthrie Festival, 2019" %}</mpb-dialog-img>
 
-<div class="widget__wrapper">
-  <details name="tabs">
-    <summary>Stoll Vaughan</summary>
-    <div>
-
-## Stoll Vaughan
-
-<div class="drop-cap">
-
 Two-time chart-topper <span class="h-card p-name">Stoll Vaughan</span>[^1] made his Woodyfest debut in <time datetime="20">2019</time>. Vaughan took the Crystal Theatre stage <time datetime="2019-07-12T-15:30:005:00">mid-afternoon on festival Friday</time>.
 
 [^1]: Vaughan's two of albums (<cite>Hold On thru Sleep &amp; Dreams</cite> and <cite>Love Like a Mule</cite>) each spent time in the Americana charts Top 10.
-</div>
 
 The Kentucky native has toured with <span class="h-card p-name">John Mellencamp</span>, <span class="h-card p-name">John Fogerty</span>, <span class="h-card p-name">James McMurtry</span>, and <span class="h-card p-name">Marty Stuart</span>. His music has been featured on numerous television shows, including <cite>True Blood</cite>, <cite>Friday Night Lights</cite>, <cite>Shameless</cite>, and <cite>The Office</cite>.
 
@@ -48,10 +38,6 @@ The Kentucky native has toured with <span class="h-card p-name">John Mellencamp<
 <footer aria-label="Citation">&mdash;&NoBreak;&hairsp;&NoBreak;<cite class="full-citation"><a href="//americansongwriter.com/stoll-vaughan-songwriting-shines-on-so-righteous/" target="_blank" rel="external noopener noreferrer">Holly Gleason</a>, <cite class="short-work">Stoll Vaughan Is Not Afraid of Writing Big Truths, Proves It on <cite>So Righteous</cite></cite</cite></footer></blockquote>
 
 Vaughan's latest release, <cite><a href="//geo.music.apple.com/us/album/desires-shape/1501505851?itsct=music_box&itscg=30200&at=10ldhk&ls=1&app=music" target="_blank" rel="external noopener noreferrer">Desire&rsquo;s Shape</a></cite>, debuted in <time datetime="2020-04">April</time>. According to Vaughan&rsquo;s website, all 2020 tour dates are cancelled, presumably due to the coronavirus pandemic.
-  </div></details>
-
-  <details name="tabs">
-    <summary>Gallery</summary><div>
 
 ## Gallery
 
@@ -64,4 +50,4 @@ Vaughan's latest release, <cite><a href="//geo.music.apple.com/us/album/desires-
   ![Stoll Vaughan (III) — 22nd Annual Woody Guthrie Festival, 2019](/assets/images/blog/2020-10-05-woodyfest-stoll-vaughan/czahller-20190712-15-48-30.jpg)
   ![Stoll Vaughan (IV) — 22nd Annual Woody Guthrie Festival, 2019](/assets/images/blog/2020-10-05-woodyfest-stoll-vaughan/czahller-20190712-16-01-33.jpg)
   ![Stoll's hat hanging from the microphone stand — 22nd Annual Woody Guthrie Festival, 2019](/assets/images/blog/2020-10-05-woodyfest-stoll-vaughan/czahller-20190712-16-03-31.jpg)
-</mpb-dialog-gallery></div></details></div>
+</mpb-dialog-gallery>

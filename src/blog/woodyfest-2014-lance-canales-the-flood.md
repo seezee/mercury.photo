@@ -24,19 +24,11 @@ excerpt: "In 2013, Lance Canales and his band the Flood covered Woody Guthrie’
 
 {% image "./src/assets/images/blog/2020-10-09-woodyfest-lance-canales/czahller-20140710-11-43-47.jpg", "img-constrained", "Lance & Carlos — 17th Annual Woody Guthrie Folk Festival, 2014", "Lance & Carlos — 17th Annual Woody Guthrie Folk Festival, 2014" %}</mpb-dialog-img>
 
-<div class="widget__wrapper">
-  <details name="tabs">
-    <summary>Deportee</summary>
-    <div>
-
 ## Deportee
-
-<div class="drop-cap">
 
 In <time datetime="2013-02">2013</time>, <span class="h-card p-name">Lance Canales</span> and his band the <span class="h-card p-organization">Flood</span> covered <span class="h-card p-name"><span class="p-nickname">Woody</span> Guthrie</span>’s song <cite class="short-work">Deportee.</cite> Guthrie wrote the song shortly after the <time datetime="1948-01-28">1948</time> plane wreck at Los Gatos, California, which killed the cabin crew and twenty-eight Mexican nationals. Some of the Hispanic victims were returning home following the termination of bracero contracts.[^1] Others were being deported for being undocumented. While the now famous song brought international attention to the incident, the names of the dead remained largely unknown to the American public. The modest marker at the gravesite said only, <q>28 MEXICAN CITIZENS WHO DIED IN AN AIRPLANE ACCIDENT NEAR COALINGA, CALIFORNIA ON <time datetime="1948-01-28">JANUARY 28, 1948</time> <abbr>R.I.P.</abbr></q>
 
 [^1]: The Bracero program (from the Spanish term bracero, meaning "manual laborer" or "one who works using his arms") was a series of labor laws and diplomatic agreements between the United States and Mexico.
-</div>
 
 Canales first performed <cite class="short-work">Deportee</cite> at the <time datetime="2012">2012</time> <span class="h-card p-organization">Steinbeck Festival</span>.[^2] Woody's original laments the anonymity of the Hispanic victims. In his cover, Canales names each of the victims. This contrasts with contemporary newspaper articles, which simply labeled them <q>deportees.</q>[^3] Soon after he began performing the song, he learned that the grave containing these lost souls was in Fresno, California, not far from his current home.
 
@@ -84,23 +76,17 @@ In <time datetime="2014-07-10T11:24:00-5:00">2014</time>, Hernandez joined Lance
 * Baldomero Marcas Torres
 
 </div>
-  </div></details>
-
-  <details name="tabs">
-    <summary>Gallery</summary><div>
 
 ## Gallery
-
-<mpb-dialog-gallery hint rel cols="8">
-  <div class="drop-cap">
 
 My favorite new Woodyfest performer in <time datetime="2014-07">2014</time> was also the festival opener: Lance Canales and the Flood. Canales sings of working life and hardship, subjects he knows all too well: he grew up working-class and <q>for years was forced to take his lumps in order to help his family make ends meet.</q>[^5]
 
 [^5]: <cite>Artist bio, <a href="://www.reverbnation.com/lancecanalestheflood" target="_blank" rel="noopener nofollow">ReverbNation</a>.</cite>
 
 Impossible to take one's eyes off of, Canales commanded the stage. His gravelly vocals and pounding accompaniment chased away all early-morning fatigue. He's been back twice, in <time datetime="2016">2016</time> and <time datetime="2017">2017</time>. If we are all lucky, he will continue to play Woodyfest for years to come.
-  </div>
-  
+
+<mpb-dialog-gallery hint rel cols="8">
+
   ![Lance Canales soundcheck — 17th Annual Woody Guthrie Folk Festival, 2014](/assets/images/blog/2020-10-09-woodyfest-lance-canales/czahller-20140710-10-25-30.jpg)
   ![Lance Canales & the Flood (I) — 17th Annual Woody Guthrie Folk Festival, 2014](/assets/images/blog/2020-10-09-woodyfest-lance-canales/czahller-20140710-11-01-19.jpg)
   ![Lance Canales & the Flood (II) — 17th Annual Woody Guthrie Folk Festival, 2014](/assets/images/blog/2020-10-09-woodyfest-lance-canales/czahller-20140710-11-01-37.jpg)
@@ -117,4 +103,4 @@ Impossible to take one's eyes off of, Canales commanded the stage. His gravelly 
   ![Lance with Slide — 17th Annual Woody Guthrie Folk Festival, 2014](/assets/images/blog/2020-10-09-woodyfest-lance-canales/czahller-20140710-11-43-51.jpg)
   ![Lance Canales (I) — 17th Annual Woody Guthrie Folk Festival, 2014](/assets/images/blog/2020-10-09-woodyfest-lance-canales/czahller-20140710-11-45-37.jpg)
   ![Lance Canales (II) — 17th Annual Woody Guthrie Folk Festival, 2014](/assets/images/blog/2020-10-09-woodyfest-lance-canales/czahller-20140710-11-46-34.jpg)
-</mpb-dialog-gallery></div></details></div>
+</mpb-dialog-gallery>

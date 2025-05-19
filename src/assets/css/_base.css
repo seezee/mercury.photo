@@ -681,6 +681,15 @@ figure {
 caption, figcaption {
   font-style: italic;
   font-size: smaller;
+
+  & > cite {
+    font-size: normal;
+
+    &.short-work,
+    &.full-citation {
+      font-style: italic;
+    }
+  }
 }
 
 dialog figure img {

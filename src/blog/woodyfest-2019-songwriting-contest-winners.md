@@ -25,17 +25,9 @@ excerpt: Saturday night at Woodyfest 2019 kicked off, as in past years, with a s
 
 {% image "./src/assets/images/blog/2021-06-21-woodyfest-songwriting-contest/czahller-20190712-19-18-22.jpg", "img-constrained", "Anna Larson (Accompanied by Jon-Michael Rogers) — 22nd Annual Woody Guthrie Festival, 2019", "Anna Larson (Accompanied by Jon-Michael Rogers) — 22nd Annual Woody Guthrie Festival, 2019" %}</mpb-dialog-img>
 
-<div class="widget__wrapper">
-  <details name="tabs">
-    <summary>Contest Winners</summary>
-    <div>
-
 ## Anna Larson, Dan Weber Take 2<sup>nd</sup> &amp; 1<sup>st</sup> Place
 
-<div class="drop-cap">
-
 <time datetime="2019-07-12T19:15:00-5:00">Saturday night at Woodyfest 2019</time> kicked off, as in past years, with a showcase for the Woody Guthrie Songwriting Contest winners.
-</div>
 
 The showcase led with second</sup>-place winner[^1] <span class="h-card p-name">Anna Larson</span> performing her winning song <cite class="short-work">Acting Alone</cite> accompanied by guitarist <span class="h-card p-name">Jon-Michael Rogers</span>.
 
@@ -55,9 +47,6 @@ Following Larson, first</sup>-place winner <span class="h-card p-name">Dan Weber
 No stranger to Woodyfest, Weber placed third in the <time datetime="2013-07">2013 </time>songwriting contest for his song <cite class="short-work"><a href="/blog/dan-weber-at-the-crystal-theatre-woody-guthrie-folk-festival/">What I'm Lookin' For</a>,</cite> as well as garnering honorable mention for audience-favorite <cite class="short-work">Oh Woody.</cite> <time datetime="2014-07">The following year</time>, he placed second for <cite class="short-work">Hank and Jesus.</cite>
 
 Weber can be counted on to show up at the festival most years, whether he is performing or not. He recently moved from Oregon to Richardson, Texas, just in time to experience the [Great <time datetime="2020-02-14">2020</time> Blizzard](/blog/valentines-day-blizzard-norman-oklahoma/) and the subsequent failure of the Texas power grid. Here's hoping he can stand the heat, now that summer's here.
-  </div></details>
-  <details name="tabs">
-    <summary>Gallery</summary><div>
 
 ## Gallery
 
@@ -71,4 +60,4 @@ Weber can be counted on to show up at the festival most years, whether he is per
   ![Dan’s Signature Move — 22nd Annual Woody Guthrie Festival, 2019](/assets/images/blog/2021-06-21-woodyfest-songwriting-contest/czahller-20190712-19-25-23.jpg)
   ![Dan Weber — 22nd Annual Woody Guthrie Festival, 2019](/assets/images/blog/2021-06-21-woodyfest-songwriting-contest/czahller-20190712-19-25-31.jpg)
   ![Dan Weber performs “Oh Woody” — 22nd Annual Woody Guthrie Festival, 2019](/assets/images/blog/2021-06-21-woodyfest-songwriting-contest/czahller-20190712-19-27-12.jpg)
-</mpb-dialog-gallery></div></details></div>
+</mpb-dialog-gallery>

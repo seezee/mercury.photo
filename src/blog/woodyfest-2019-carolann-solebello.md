@@ -25,23 +25,11 @@ excerpt: Red Molly co-founder Carolann Solebello performed an intimate solo set 
 
 {% image "./src/assets/images/blog/2020-04-08-woodyfest-carolann-solebello/czahller-20190712-11-29-30.jpg", "img-constrained", "Carolann Solebello & Audience (View from Upstage Right) — 22nd Annual Woody Guthrie Festival, 2019", "Carolann Solebello & Audience (View from Upstage Right) — 22nd Annual Woody Guthrie Festival, 2019" %}</mpb-dialog-img>
 
-<div class="widget__wrapper">
-  <details name="tabs">
-    <summary>Carolann Solebello</summary>
-    <div>
-
-## Carolann Solebello
-
-<div class="drop-cap">
-
 Red Molly co-founder <span class="h-card p-name">Carolann Solebello</span> performed an intimate solo set on the <span class="h-card p-organization">Crystal Theatre Stage</span> during Woodyfest <time datetime="2019-07-12T11:00:00-5:00">2019</time>. The small audience attending the <time datetime="2019-07-12T11:00:00-5:00">mid-morning</time> performance were treated to songs that blended rural folk traditions with Solebello’s distinctly urban rhythmic sensibility, peppered in between with pithy, humorous anecdotes.
-</div>
 
 Since the dissolution of Red Molly, Solebello has alternated between solo performance and touring with modern folk quartet <span class="h-card p-organization">No Fuss and Feathers</span>. She is a member of New York City’s <span class="h-card p-organization"><span class="h-card p-name">Jack Hardy</span> Songwriters’ Exchange</span> and the winner of numerous musical awards, including first-place at the <time datetime="2011">2011</time> <span class="h-card p-organization">Susquehanna Music and Arts Festival</span> (Maryland) and the <time datetime="2015">2015</time> <span class="h-card p-organization">Musicians on a Mission Songwriting Contest</span> (New Jersey).
 
 Solebello's most recent album, <cite>Shiver</cite>, <a href="https://geo.music.apple.com/it/album/shiver/1354766373?mt=1&app=music&at=10ldhk" target="_blank" rel="external noopener noreferrer">is out now</a>.
-</div></details><details name="tabs">
-    <summary>Gallery</summary><div>
 
 ## Gallery
 
@@ -60,4 +48,3 @@ Solebello's most recent album, <cite>Shiver</cite>, <a href="https://geo.music.a
   ![Carolann Solebello (Hands Again) — 22nd Annual Woody Guthrie Festival, 2019](/assets/images/blog/2020-04-08-woodyfest-carolann-solebello/czahller-20190712-11-23-48.jpg)
   ![Carolann Solebello & Audience (View from Upstage Right) — 22nd Annual Woody Guthrie Festival, 2019](/assets/images/blog/2020-04-08-woodyfest-carolann-solebello/czahller-20190712-11-29-30.jpg)
 </mpb-dialog-gallery>
-</div></details></div>

@@ -182,18 +182,20 @@ module.exports = async function(eleventyConfig) {
   });
   // RSS Feed
 	eleventyConfig.addPlugin(feedPlugin, {
+    type: `atom`,
+		outputPath: `/feed.xml`,
 		collection: {
 			name: `posts`, // iterate over `collections.posts`
 			limit: 0,     // 0 means no limit
 		},
     metadata: {
-			language: "en",
-			title: "Mercury Photo Bureau",
-			subtitle: "Rangefinder + Mirrorless Digital + Large Format Film Photography + Music, Arts, &amp; News",
-			base: "https://mercury.photo/",
+			language: `en`,
+			title: `Mercury Photo Bureau`,
+			subtitle: `Rangefinder + Mirrorless Digital + Large Format Film Photography + Music, Arts, &amp; News`,
+			base: `https://mercury.photo/`,
 			author: {
-				name: "Chris J. Zähller"
-				// email: "", // Optional
+				name: `Chris J. Zähller`
+				// email: ``, // Optional
 			}
 		}});
 

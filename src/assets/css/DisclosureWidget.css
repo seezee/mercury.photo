@@ -139,31 +139,9 @@ h3:has( > .widget__btn[role='tab']) {
 
 [hidden] {
   display: none;
-
-  &.widget__panel,
-  &.widget__panel * {
-    display: flex;
-    width: 0;
-    height: 0;
-    padding: 0;
-    border-width: 0;
-  }
-
-  &.widget__panel {
-
-    h2,
-    .gallery-modal {
-    display: none;
-    }
-  }
 }
 
 [data-expanded='false'] + .widget__panel {
-  display: flex;
-  width: 0;
-  height: 0;
-  padding: 0;
-  border-width: 0;
 
   @media (prefers-reduced-motion: no-preference) {
     transition: content-visibility 0.25s allow-discrete, block-size 0.25s ease-in-out, display 0.25s ease-in-out, opacity 0.25s ease-in-out;

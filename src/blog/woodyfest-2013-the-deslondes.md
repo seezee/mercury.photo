@@ -24,19 +24,9 @@ excerpt: When they appeared on the Brick Café stage during Woodyfest 2013, the 
 
 {% image "./src/assets/images/blog/2020-04-11-woodyfest-deslondes/czahller-20130713-16-24-44.jpg", "img-constrained", "Sam, Riley, & Special Guest Douglas Francisco", "Sam, Riley, & Special Guest Douglas Francisco (II) — Sam Doores + Riley Downing & the Tumbleweeds at the Brick Café, Woody Guthrie Folk Festival 16" %}</mpb-dialog-img>
 
-<div class="widget__wrapper">
-  <details name="tabs">
-    <summary>The Deslondes</summary>
-    <div>
-
-## The Deslondes
-
-<div class="drop-cap">
-
 When they appeared on the <span class="h-card p-organization">Brick Caf&eacute;</span> stage during Woodyfest <time datetime="2013-07-13T16:00-5:00">2013</time>, the <span class="h-card p-organization">Deslondes</span> were still billing themselves as <span class="h-card p-organization">Sam Doores + Riley Downing &amp; the Tumbleweeds.</span> The moniker was not only long and awkward; it also conflicted with the dozens of other musical acts also calling themselves “The Tumbleweeds.”
-</div>
 
-When I saw the New Orleans-based quintet again <time datetime="2013-09-28T18:00-5:00">three months later</time>, the band had updated the name. As they told me when I interviewed them that night,[^1] the name comes from the Holy Cross[^2] street where the band first wrote, practiced, and recorded.
+<time datetime="2013-09-28T18:00-5:00">Three months</time> later I’m in Fort Worth to see the New Orleans-based quintet again; the band has changed their name. As they told me when I interviewed them that night,[^1] the name comes from the Holy Cross[^2] street where the band first wrote, practiced, and recorded.
 
 <blockquote cite="//pitchfork.com/reviews/albums/20565-the-deslondes/">
 
@@ -68,9 +58,6 @@ The Deslondes sophomore album, <cite><a href="//geo.music.apple.com/us/album/hur
 [^6]: <cite class="h-card p-name full-citation">Powers, Ann</cite>, <cite><abbr>NPR</abbr> Music</cite>, <cite class="short-work"><a href="https://www.npr.org/2015/01/16/377747322/the-deslondes-fought-the-blues-and-won" target="_blank" rel="external noopener noreferrer">Songs We Love: The Deslondes <cite class="short-work">Fought the Blues and Won</cite></a>&NoBreak;&hairsp;&NoBreak;</cite> (<time datetime="2015-01-16T14:00-5:00">16 January 2015</time>)
 
 [^7]: <cite class="h-card p-name full-citation">Shelburne, Craig</cite>, <cite>Rolling Stone</cite>, <cite class="short-work"><a href="https://www.rollingstone.com/music/music-country/watch-the-deslondes-dodge-tvs-and-groupies-in-real-deal-video-161564/" target="_blank" rel="external noopener noreferrer">Watch the Deslondes Dodge <abbr>TV</abbr>s and Groupies in <cite class="short-work">The Real Deal</cite></a>&NoBreak;&hairsp;&NoBreak;</cite> (<time datetime="2015-07-14T13:53-4:00">14 July 2015</time>)
-  </div></details>
-  <details name="tabs">
-    <summary>Gallery</summary><div>
 
 ## Gallery
 
@@ -103,4 +90,4 @@ The Deslondes sophomore album, <cite><a href="//geo.music.apple.com/us/album/hur
   ![Riley (III) (Hat in Hand) — Sam Doores + Riley Downing & the Tumbleweeds at the Brick Café, Woody Guthrie Folk Festival 16](/assets/images/blog/2020-04-11-woodyfest-deslondes/czahller-20130713-16-52-15.jpg)
   ![Dan & Sam — Sam Doores + Riley Downing & the Tumbleweeds at the Brick Café, Woody Guthrie Folk Festival 16](/assets/images/blog/2020-04-11-woodyfest-deslondes/czahller-20130713-16-52-48.jpg)
   ![Riley (IV) (Harmonica Solo) — Sam Doores + Riley Downing & the Tumbleweeds at the Brick Café, Woody Guthrie Folk Festival 16](/assets/images/blog/2020-04-11-woodyfest-deslondes/czahller-20130713-16-55-47.jpg)
-</mpb-dialog-gallery></div></details></div>
+</mpb-dialog-gallery>
