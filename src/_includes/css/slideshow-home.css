@@ -107,7 +107,8 @@
           transition: 0.3s;
 }
 
-.slider-wrapper .bullets > a+a {
+.slider-wrapper .bullets > a+a,
+.slider-wrapper .bullets > a:first-child {
   background: rgba(255, 255, 255, 0.5); /* Dim all but first */
 }
 
@@ -406,9 +407,17 @@
 .slider-wrapper #overlay,
 .slider-wrapper [id^="watermark"] {
   position: absolute;
-  inset: 0;
   background-repeat: repeat;
   opacity: .5;
+}
+
+.slider-wrapper #overlay {
+  inset-inline: 0;
+  inset-block-end: 0;
+}
+
+.slider-wrapper [id^="watermark"] {
+  inset: 0;
 }
 
 .slider-wrapper #overlay {

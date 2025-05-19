@@ -16,6 +16,10 @@
 * 12. #mpb-logo (footer icon)
 */
 
+#home {
+  overflow-x: hidden;
+}
+
 /* No script */
 noscript div {
   inline-size: fit-content;
