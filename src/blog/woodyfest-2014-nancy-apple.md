@@ -47,11 +47,11 @@ Apple owns the independent record label <a href="https://www.facebook.com/profil
 <mpb-dialog-gallery hint rel cols="8">
   
   ![Nancy Apple, from Upstage — 17th Annual Woody Guthrie Folk Festival, 2014](/assets/images/blog/2022-01-03-woodyfest-nancy-apple/czahller-20140711-11-02-25.jpg)
-  ![Terry “Buffalo” Ware, Nancy Apple, Don Morris, Lauren Lee, & T. Z. Wright — 17th Annual Woody Guthrie Folk Festival, 2014](/assets/images/blog/2022-01-03-woodyfest-nancy-apple/czahller-20140711-11-05-06.jpg)
+  ![Terry “Buffalo” Ware, Nancy Apple, Don Morris, Lauren Lee, & T.Z. Wright — 17th Annual Woody Guthrie Folk Festival, 2014](/assets/images/blog/2022-01-03-woodyfest-nancy-apple/czahller-20140711-11-05-06.jpg)
   ![Nancy Apple — 17th Annual Woody Guthrie Folk Festival, 2014](/assets/images/blog/2022-01-03-woodyfest-nancy-apple/czahller-20140711-11-09-36.jpg)
   ![Nancy with Harmonica — 17th Annual Woody Guthrie Folk Festival, 2014](/assets/images/blog/2022-01-03-woodyfest-nancy-apple/czahller-20140711-11-29-55.jpg)
-  ![Terry “Buffalo” Ware, Nancy Apple, Don Morris, Butch Morgan, Lauren Lee, & T. Z. Wright — 17th Annual Woody Guthrie Folk Festival, 2014](/assets/images/blog/2022-01-03-woodyfest-nancy-apple/czahller-20140711-11-41-32.jpg)
-  ![Terry “Buffalo” Ware, Michael McCarty, Nancy Apple, Don Morris, Lauren Lee, & T. Z. Wright — 17th Annual Woody Guthrie Folk Festival, 2014](/assets/images/blog/2022-01-03-woodyfest-nancy-apple/czahller-20140711-11-42-35.jpg)
+  ![Terry “Buffalo” Ware, Nancy Apple, Don Morris, Butch Morgan, Lauren Lee, & T.Z. Wright — 17th Annual Woody Guthrie Folk Festival, 2014](/assets/images/blog/2022-01-03-woodyfest-nancy-apple/czahller-20140711-11-41-32.jpg)
+  ![Terry “Buffalo” Ware, Michael McCarty, Nancy Apple, Don Morris, Lauren Lee, & T.Z. Wright — 17th Annual Woody Guthrie Folk Festival, 2014](/assets/images/blog/2022-01-03-woodyfest-nancy-apple/czahller-20140711-11-42-35.jpg)
   ![Nancy Apple with Nursing Home Residents — 17th Annual Woody Guthrie Folk Festival, 2014](/assets/images/blog/2022-01-03-woodyfest-nancy-apple/czahller-20140712-14-09-19.jpg)
   ![Nancy Apple, Community Outreach at Colonial Park Nursing Home (I) — 17th Annual Woody Guthrie Folk Festival, 2014](/assets/images/blog/2022-01-03-woodyfest-nancy-apple/czahller-20140712-14-19-39.jpg)
   ![Nancy Apple, Community Outreach at Colonial Park Nursing Home (II) — 17th Annual Woody Guthrie Folk Festival, 2014](/assets/images/blog/2022-01-03-woodyfest-nancy-apple/czahller-20140712-14-22-45.jpg)

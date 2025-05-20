@@ -3,7 +3,9 @@ layout: _main-blog.njk
 title: The Valentine’s Day Blizzard, Norman, Oklahoma
 tags: 
   - blog
-  - photography, medium-format
+  - photography, medium format
+  - photography, film
+  - Rolleiflex
   - news
   - photo gallery
   - architecture
@@ -47,13 +49,13 @@ We scanned the negatives on <time datetime="2021-02-15">Monday</time>. We import
 
   <dl class="glossary">
     <dt>Camera</dt>
-    <dd>Rolleiflex <abbr>2.8c</abbr></dd>
+    <dd>Rolleiflex 2.8c</dd>
     <dd><a
         href="https://www.amazon.com/gp/product/B0010CM1HC/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B0010CM1HC&linkCode=as2&tag=mercphotamzn-20&linkId=1d14d843a729d74009410f72c1d3bf41"
         target="_blank" rel="external noopener noreferrer">Gepe Pro Release
         20&Prime; cable</a> with Zeiss Disc-Lock</dd>
     <dt>Lens</dt>
-    <dd>Schneider-Kreuznach Xenotar 80<abbr>mm</abbr> &fnof;/2,8</dd>
+    <dd>Schneider-Kreuznach Xenotar 80mm &fnof;/2,8</dd>
     <dt>Aperture</dt>
     <dd>&fnof;/8</dd>
     <dt>Filter</dt>

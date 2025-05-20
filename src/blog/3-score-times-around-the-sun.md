@@ -3,7 +3,8 @@ layout: _main-blog.njk
 title: Three Score Times Around the Sun
 tags: 
   - blog
-  - photography, medium-format
+  - photography, film
+  - photography, medium format
   - friendship
   - Rolleiflex
 date: 2021-04-06T22:22:08+00:00
@@ -43,9 +44,9 @@ I took most of the pictures shown here, except for the group photo, made by my d
 
   <dl class="glossary">
     <dt>Camera</dt>
-    <dd>Rolleiflex <abbr>2.8c</abbr></dd>
+    <dd>Rolleiflex 2.8c</dd>
     <dt>Lens</dt>
-    <dd>Schneider-Kreuznach Xenotar 80<abbr>mm</abbr> &fnof;/2,8</dd>
+    <dd>Schneider-Kreuznach Xenotar 80mm &fnof;/2,8</dd>
     <dt>Aperture</dt>
     <dd>&fnof;/8</dd>
     <dt>Filter</dt>
