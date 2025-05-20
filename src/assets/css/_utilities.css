@@ -160,14 +160,16 @@ hgroup:has(h1) h1 ~ p:not(:empty):first-of-type:first-letter {
   font-variant: normal;
 }
 
-/* Citations */
+/* Citations & Publications */
 
-/* .full-citation */
+.publication {
+  font-style: italic;
+}
+
 .full-citation {
   font-style: normal;
 }
 
-/* .short-work */
 .short-work {
   font-style: normal;
 
@@ -180,7 +182,6 @@ hgroup:has(h1) h1 ~ p:not(:empty):first-of-type:first-letter {
   &::after {
     content: close-quote;
   }
-
 }
 
 .icon-before svg {
