@@ -24,7 +24,7 @@ excerpt: I wasn’t assigned to photograph John Fullbright at last year’s fest
 
 {% image "./src/assets/images/blog/2020-04-07-woodyfest-john-fullbright/czahller-20190711-23-08-01.jpg", "img-constrained", "John Fullbright jamming with Terry “Buffalo” Ware and Stephen Lee", "John Fullbright — 22nd Annual Woody Guthrie Festival, 2019" %}</mpb-dialog-img>
 
-I wasn’t assigned to photograph <span class="h-card p-name">John Fullbright</span> at <time datetime="2019-07-11">last year</time>’s festival, but I did catch this shot of him jamming with guitarist <span class="h-card p-name">Terry <span class="p-nickname">“Buffalo”</span> Ware</span> and bassist <span class="h-card p-name">Stephen Lee</span>.
+I wasn’t assigned to photograph <span class="h-card p-name">John Fullbright</span> at <time datetime="2019-07-11">last year</time>’s festival, but I did catch this shot of him jamming with guitarists <span class="h-card p-name">Terry <span class="p-nickname">“Buffalo”</span> Ware</span> and <span class="h-card p-name">Stephen Lee</span>.
 
 <mpb-dialog-img>
 
