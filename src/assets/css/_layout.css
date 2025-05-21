@@ -364,7 +364,7 @@ ul ul .navigation__item {
 .blog-index {
   font-family: var(--mpb-font-sans);
   display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(min(350px, 100%), 1fr));
+  grid-template-columns: repeat(auto-fill, minmax(min(300px, 100%), 1fr));
   grid-gap: var(--s2);
   list-style-type: none;
 

@@ -119,6 +119,11 @@ mpb-dialog-gallery {
       width: 100%;
     }
 
+    .gallery--img_main img:hover {
+      cursor: default;
+      opacity: unset;
+    }
+
     .gallery--thumbs {
       display: grid;
       grid-template-columns: repeat(6, 1fr);

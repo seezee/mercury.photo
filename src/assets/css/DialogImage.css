@@ -21,6 +21,16 @@ mpb-dialog-img {
     --duration: 150ms;
     --start-opacity: 0.5;
 
+    figure,
+    picture,
+    figcaption {
+
+      img:hover {
+        cursor: default;
+        opacity: unset;
+      }
+    }
+
     @media screen and (prefers-reduced-motion: no-preference) {
       --start-scale: scale(0.8);
     }
