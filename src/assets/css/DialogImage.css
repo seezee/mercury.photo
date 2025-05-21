@@ -8,6 +8,10 @@ mpb-dialog-img {
 
     img {
       cursor: pointer;
+
+      &:hover {
+        opacity: .5;
+      }
     }
   }
 

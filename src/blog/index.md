@@ -23,7 +23,7 @@ If you don't see the post you are looking for or a link directs you to nowhere, 
   <li role="listitem">
     <stack-l>
       <h2><a href="{{ post.url }}">{{ post.data.title | safe }}</a></h2>
-      <a href="{{ post.url }}">{% first_image post %}</a>
+      <a href="{{ post.url }}"><img src="{{ post.data.image | safe }}" alt="Read ‘{{ post.data.title | safe }}’" /></a>
       <small><time datetime="{{ post.date | toISOString | safe}}">{{ post.date.toUTCString() | safe}}</small>
       <p>{{ post.data.excerpt | safe }}</p>
       <hr />

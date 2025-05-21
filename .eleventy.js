@@ -164,8 +164,6 @@ module.exports = async function(eleventyConfig) {
 
     return outdent`${picture}`;
   };
-  // Featured Image shortcode
-  eleventyConfig.addNunjucksShortcode(`first_image`, post => extractFirstImage(post));
   // SEO
   eleventyConfig.addPlugin(pluginSEO, {
     title: `Mercury Photo Bureau`,

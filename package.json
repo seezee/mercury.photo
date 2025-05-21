@@ -1,6 +1,6 @@
 {
   "name": "mercury.photo",
-  "version": "1.0.41",
+  "version": "1.0.42",
   "description": "Rangefinder + Mirrorless Digital + Large Format Film Photography + Music, Arts, & News",
   "main": "index.js",
   "scripts": {
@@ -24,7 +24,7 @@
   },
   "devDependencies": {
     "@sherby/eleventy-plugin-files-minifier": "^1.1.1",
-    "@x-govuk/govuk-eleventy-plugin": "^6.7.0",
+    "@x-govuk/govuk-eleventy-plugin": "^6.7.2",
     "browserslist": "^4.22.2",
     "date-fns": "^3.6.0",
     "eleventy-auto-cache-buster": "^0.3.0",

@@ -77,16 +77,16 @@ Between <time datetime="2018">2018</time> and <time datetime="2019">2019</time> 
 
 <mpb-dialog-gallery hint rel cols="8">
   
-  ![](/assets/images/blog/2020-04-01-woodyfest-backstage/czahller-20190711-19-45-20.jpg)
-  ![](/assets/images/blog/2020-04-01-woodyfest-backstage/czahller-20190711-19-45-55.jpg)
-  ![](/assets/images/blog/2020-04-01-woodyfest-backstage/czahller-20190711-19-47-16.jpg)
-  ![](/assets/images/blog/2020-04-01-woodyfest-backstage/czahller-20190711-19-50-47.jpg)
-  ![](/assets/images/blog/2020-04-01-woodyfest-backstage/czahller-20190711-19-53-43.jpg)
-  ![](/assets/images/blog/2020-04-01-woodyfest-backstage/czahller-20190711-19-56-33.jpg)
-  ![](/assets/images/blog/2020-04-01-woodyfest-backstage/czahller-20190711-19-58-51.jpg)
-  ![](/assets/images/blog/2020-04-01-woodyfest-backstage/czahller-20190711-20-48-22.jpg)
-  ![](/assets/images/blog/2020-04-01-woodyfest-backstage/czahller-20190711-20-57-04.jpg)
-  ![](/assets/images/blog/2020-04-01-woodyfest-backstage/czahller-20190711-20-59-39.jpg)
-  ![](/assets/images/blog/2020-04-01-woodyfest-backstage/czahller-20190711-21-01-27.jpg)
-  ![](/assets/images/blog/2020-04-01-woodyfest-backstage/czahller-20190711-21-03-41.jpg)
+  ![Daniel Wolff, Chris Buhalis, Mez Mezera, & Joel Rafael (Backstage) — 22nd Annual Woody Guthrie Festival, 2019](/assets/images/blog/2020-04-01-woodyfest-backstage/czahller-20190711-19-45-20.jpg)
+  ![Jamie Tovar & Kids (Backstage Picnic) — 22nd Annual Woody Guthrie Festival, 2019](/assets/images/blog/2020-04-01-woodyfest-backstage/czahller-20190711-19-45-55.jpg)
+  ![Unidentified VIPs and Monica Taylor (Backstage) — 22nd Annual Woody Guthrie Festival, 2019](/assets/images/blog/2020-04-01-woodyfest-backstage/czahller-20190711-19-47-16.jpg)
+  ![Roger Osburne & Mez Mezera on the Stage Steps — 22nd Annual Woody Guthrie Festival, 2019](/assets/images/blog/2020-04-01-woodyfest-backstage/czahller-20190711-19-50-47.jpg)
+  ![Unidentified VIP (Backstage) (Backstage) — 22nd Annual Woody Guthrie Festival, 2019](/assets/images/blog/2020-04-01-woodyfest-backstage/czahller-20190711-19-53-43.jpg)
+  ![Stephen Lee & Paul Wilkes (Backstage) — 22nd Annual Woody Guthrie Festival, 2019](/assets/images/blog/2020-04-01-woodyfest-backstage/czahller-20190711-19-56-33.jpg)
+  ![Melissa E. Noble, Butch Hancock, Roger Osburn, & Hank Woji (Backstage) — 22nd Annual Woody Guthrie Festival, 2019](/assets/images/blog/2020-04-01-woodyfest-backstage/czahller-20190711-19-58-51.jpg)
+  ![Tom Breiding, Dan Navarro, & Bob Williams (Backstage) — 22nd Annual Woody Guthrie Festival, 2019](/assets/images/blog/2020-04-01-woodyfest-backstage/czahller-20190711-20-48-22.jpg)
+  ![Rory & Adrienne Hancock (Backstage) — 22nd Annual Woody Guthrie Festival, 2019](/assets/images/blog/2020-04-01-woodyfest-backstage/czahller-20190711-20-57-04.jpg)
+  ![Jacob Tovar & Dustin Welch (Backstage) — 22nd Annual Woody Guthrie Festival, 2019](/assets/images/blog/2020-04-01-woodyfest-backstage/czahller-20190711-20-59-39.jpg)
+  ![Mez Mezera, Daniel Wolff, Brad Piccolo, & Cathy “T-Shirt” Woolsey (Backstage) — 22nd Annual Woody Guthrie Festival, 2019](/assets/images/blog/2020-04-01-woodyfest-backstage/czahller-20190711-21-01-27.jpg)
+  ![Mez Mezera & Joel Rafael (Backstage) — 22nd Annual Woody Guthrie Festival, 2019](/assets/images/blog/2020-04-01-woodyfest-backstage/czahller-20190711-21-03-41.jpg)
 </mpb-dialog-gallery>

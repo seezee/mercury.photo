@@ -27,6 +27,10 @@ mpb-dialog-gallery {
     cursor: pointer;
     box-shadow: var(--mpb-shadow-elevation-med);
     border-radius: var(--mpb-radius-2x);
+
+    &:hover {
+      opacity: .5;
+    }
    }
 
   dialog {
