@@ -37,7 +37,7 @@ The album features several Adams originals as well as songs he co-wrote with pro
 <figure>
   <stack-l>
     <iframe class="aspect aspect-16x9" src="https://www.youtube.com/embed/8pbP3CyhsSM?si=Icg7F72u-tO7aLBn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-    <ficaption>Andy Adams featuring Carter Sampson — <cite class="short-work">Dancing Alone</cite></ficaption>
+    <figcaption>Andy Adams featuring Carter Sampson — <cite class="short-work">Dancing Alone</cite></figcaption>
   </stack-l>
 </figure>
 

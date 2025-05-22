@@ -36,7 +36,7 @@ The showcase led with second</sup>-place winner[^1] <span class="h-card p-name">
 <figure>
   <stack-l>
     <iframe class="aspect aspect-16x9" src="https://www.youtube.com/embed/iy2XMJ4xKLA?si=RD-mSye94GaygOSV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-    <ficaption>Anna Larson — <cite class="short-work">Acting Alone</cite></ficaption>
+    <figcaption>Anna Larson — <cite class="short-work">Acting Alone</cite></figcaption>
   </stack-l>
 </figure>
 
