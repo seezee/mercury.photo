@@ -683,7 +683,7 @@ caption, figcaption {
   font-size: smaller;
 
   & > cite {
-    font-size: normal;
+    font-style: normal;
 
     &.short-work,
     &.full-citation {
