@@ -34,7 +34,7 @@ A songwriter known for her broad range and eclectic style,[^2] Crain is also a m
 
 A veteran touring musician, Crain has opened for <span class="h-card p-organization">First Aid Kit</span>, <span class="h-card p-organization">Neutral Milk Hotel</span>, <span class="h-card p-name">Lucy Rose</span>, <span class="h-card p-organization">The Avett Brothers</span>, <span class="h-card p-organization">The Mountain Goats</span>, <span class="h-card p-name">Brandi Carlile</span>, <span class="h-card p-name">Langhorne Slim</span>, and others.
 
-Crain’s most recent Woodyfest appearance was on the main stage in <time datetime="2016-07-15T20:00-5:00">2016</time>. Her forthcoming album, <cite>A Small Death</cite>, <a href="https://samantha-crain.lnk.to/ASmallDeath" target="_blank" rel="external noreferrer noopener">is available for pre-order</a>.
+Crain’s most recent Woodyfest appearance was on the main stage in <time datetime="2016-07-15T20:00-5:00">2016</time>. Her forthcoming album, <cite>A Small Death</cite>, <a href="https://samantha-crain.lnk.to/ASmallDeath" target="_blank" rel="external noopener">is available for pre-order</a>.
 
 ## Gallery
 

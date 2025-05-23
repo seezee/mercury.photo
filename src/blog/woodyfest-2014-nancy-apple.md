@@ -40,7 +40,7 @@ Today's gallery comprises images from Apple's <time datetime="2014-07-11T11:00-5
 
 Appearing alongside Apple at the Crystal Theatre are <span class="h-card p-name">Terry &ldquo;<span class="p-nickname">Buffalo</span>&rdquo; Ware</span>, <span class="h-card p-name">Michael McCarty</span>, <span class="h-card p-name">Don Morris</span>, <span class="h-card p-name">Butch Morgan</span>, and <span class="h-card p-name"><abbr>T. Z.</abbr> Wright</span>. Apart from Morgan, all are members of the festival house band, <span class="h-card p-organization">The Oklahoma Geniuses</span>.</p>
 
-Apple owns the independent record label <a href="https://www.facebook.com/profile.php?id=100066792157994#" target="_blank" rel="external noopener noreferrer">Ringo Records</a>.
+Apple owns the independent record label <a href="https://www.facebook.com/profile.php?id=100066792157994#" target="_blank" rel="external noopener">Ringo Records</a>.
 
 ## Gallery
 

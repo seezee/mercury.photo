@@ -28,7 +28,7 @@ Although <span class="h-card p-name">Andy Adams</span> is no stranger to music,[
 
 [^1]: Adams was a frequent musical performer in the Oklahoma City metro before the spread of COVID-19 shut down most music venues. He also formerly hosted a weekly songwriter night at the Blue Door. He released the full-length <cite>Done Crossed That Line</cite> in <time datetime="2013">2013</time> and the followup EP <cite>I’ll Try Harder Next Time</cite> in <time datetime="2015">2015</time>.
 
-[^2]: <cite class="h-card p-name full-citation">Carman, Becky</cite>, <cite class="short-work"><a href="https://oklahoman.com/article/5571155/okc-songwriter-andy-adams-moves-forward-by-going-back-to-square-one" target="_blank" rel="external noopener noreferrer">OKC songwriter Andy Adams moves forward by going Back to Square One</a>,</cite> <cite>oklahoman.com</cite> (<time datetime="2017-05-10T05:00-5:00">10 May 2017</time>).
+[^2]: <cite class="h-card p-name full-citation">Carman, Becky</cite>, <cite class="short-work"><a href="https://oklahoman.com/article/5571155/okc-songwriter-andy-adams-moves-forward-by-going-back-to-square-one" target="_blank" rel="external noopener">OKC songwriter Andy Adams moves forward by going Back to Square One</a>,</cite> <cite>oklahoman.com</cite> (<time datetime="2017-05-10T05:00-5:00">10 May 2017</time>).
 
 [^3]: Adams, quoted in <cite>Ibid.</cite>
 

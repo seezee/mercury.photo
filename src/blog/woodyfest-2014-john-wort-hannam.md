@@ -34,7 +34,7 @@ Seventeen years and multiple awards later, he's released seven records. Among th
 
 Hannam made his Woodyfest debut in <time datetime="2010-07">2010</time>. He returned in <time datetime="2011-07">2011</time> and <time datetime="2014-07-10T15:00:00-5:00">2014</time>. The latter performance on the Crystal Theatre stage closed with some help from festival regular <span class="h-card p-name">Radoslav “Rad” Lorković</span>.
 
-Hannam's latest release is <time datetime="2018-09-19">2018</time>&rsquo;s <cite><a href="//amzn.to/33KRzkn" target="_blank" rel="external noreferrer">Acres of Elbow Room</a></cite>.
+Hannam's latest release is <time datetime="2018-09-19">2018</time>&rsquo;s <cite><a href="//amzn.to/33KRzkn" target="_blank" rel="external">Acres of Elbow Room</a></cite>.
 
 ## Gallery
 

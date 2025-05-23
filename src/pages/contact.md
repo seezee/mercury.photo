@@ -50,7 +50,7 @@ Get my complete contact details, including phone number, mailing address, and em
   <ul class="app-marginnotes-list" role="list">
     <li id="mn:1" role="listitem">
 
-A vCard, a.k.a Virtual Contact File (VCF), is a file format standard for electronic business cards providing a compact, automated method for sharing contact information. <a href="https://www.google.com/search?q=how+to+import+a+vCard" target="_blank" rel="external noopener noreferrer">Learn how to import vCards</a> into your address book or other contact manager.
+A vCard, a.k.a Virtual Contact File (VCF), is a file format standard for electronic business cards providing a compact, automated method for sharing contact information. <a href="https://www.google.com/search?q=how+to+import+a+vCard" target="_blank" rel="external noopener">Learn how to import vCards</a> into your address book or other contact manager.
     </li>
   </ul>
 </footer>

@@ -52,7 +52,7 @@ We scanned the negatives on <time datetime="2021-02-15">Monday</time>. We import
     <dd>Rolleiflex 2.8c</dd>
     <dd><a
         href="https://www.amazon.com/gp/product/B0010CM1HC/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B0010CM1HC&linkCode=as2&tag=mercphotamzn-20&linkId=1d14d843a729d74009410f72c1d3bf41"
-        target="_blank" rel="external noopener noreferrer">Gepe Pro Release
+        target="_blank" rel="external noopener">Gepe Pro Release
         20&Prime; cable</a> with Zeiss Disc-Lock</dd>
     <dt>Lens</dt>
     <dd>Schneider-Kreuznach Xenotar 80mm &fnof;/2,8</dd>
@@ -72,30 +72,30 @@ We scanned the negatives on <time datetime="2021-02-15">Monday</time>. We import
     <dt>Tripod</dt>
     <dd><a
         href="https://www.amazon.com/gp/product/B071F31XLR/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B071F31XLR&linkCode=as2&tag=mercphotamzn-20&linkId=7ede4765fbce8e292c200fa397641035?ie=UTF8&camp=1789&creative=9325&creativeASIN=B0010CM1HC&linkCode=as2&tag=mercphotamzn-20&linkId=1d14d843a729d74009410f72c1d3bf41"
-        target="_blank" rel="external noopener noreferrer">Gitzo
+        target="_blank" rel="external noopener">Gitzo
         <abbr>GT1542T</abbr></a> Series 1 Traveler (carbon fibre)</dd>
     <dt>Tripod Head</dt>
     <dd><a
         href="https://www.bhphotovideo.com/c/product/1013734-REG/arca_swiss_801_214_monoball_po_ballhead_with.html/BI/19462/KBID/11656/DFF/d10-v21-t1-x526390/SID/EZ"
-        target="_blank" rel="external noopener noreferrer">Monoball <abbr
+        target="_blank" rel="external noopener">Monoball <abbr
           class="noscaps lining">P0</abbr> Ballhead with Classic Quick
         Release</a></dd>
     <dt>Developer</dt>
     <dd><a id="CZ12054"
         href="https://adorama.rfvk.net/c/63213/29622/1036?prodsku=CZ12054&u=https%3A%2F%2Fwww.adorama.com%2FCZ12054.html&intsrc=PUI1_230"
-        target="_blank" rel="noopener noreferrer">Adox Adonal</a>
+        target="_blank" rel="noopener">Adox Adonal</a>
       (Rodinal) 1:100</dd>
     <dd><time datetime="P1H">~60 minutes</time> semi-stand in <a
         href="https://www.amazon.com/gp/product/B0000BZMIH/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B0000BZMIH&linkCode=as2&tag=mercphotamzn-20&linkId=c84b3b46d9a0594ec0ee78b93b96f78c"
-        target="_blank" rel="external noopener noreferrer">Paterson Super System
+        target="_blank" rel="external noopener">Paterson Super System
         4</a> daylight tank</dd>
     <dt>Scanner</dt>
     <dd><a
         href="https://www.amazon.com/gp/product/B00OCEJMG8/ref=as_li_tl?ie=UTF8&tag=mercphotamzn-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B00OCEJMG8&linkId=62b44b123defe5a0a3092689c7e61739"
-        target="_blank" rel="external noopener noreferrer">Epson Perfection
+        target="_blank" rel="external noopener">Epson Perfection
         <abbr>v</abbr>850</a></dd>
     <dt>Software</dt>
     <dd>VueScan</dd>
     <dd><a href="https://amzn.to/2PVnqGm" target="_blank"
-        rel="external noopener noreferrer">Adobe Lightroom 6</a></dd>
+        rel="external noopener">Adobe Lightroom 6</a></dd>
   </dl>

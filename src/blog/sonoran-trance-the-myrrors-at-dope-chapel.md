@@ -25,9 +25,9 @@ excerpt: Forming in 2007 while its members were in high school, The Myrrors play
 
 Forming in <time datetime="2007">2007</time> while its members were in high school, <span class="h-card p-organization">The Myrrors</span> play <q>a sun-baked, mystical form of psychedelia informed by desert blues, Krautrock, free jazz, and <span class="h-card p-name">Terry Riley</span>-style minimalism.</q>[^1] The band's lineup has changed several times throughout the years, but always retained a nucleus consisting of co-founders <span class="h-card p-name">Nik Rayne</span>[^2] (guitar and other many other instruments) and <span class="h-card p-name">Grant Beyschau</span> (drums, woodwinds, and brass).
 
-[^1]: <cite class="h-card p-name full-citation">Simpson, Paul</cite>, <cite>allmusic.com</cite>, <cite class="short-work"><a href="//www.allmusic.com/artist/the-myrrors-mn0003360492/biography" target="_blank" rel="external noopener noreferrer">Myrrors Artist Biography</a></cite>
+[^1]: <cite class="h-card p-name full-citation">Simpson, Paul</cite>, <cite>allmusic.com</cite>, <cite class="short-work"><a href="//www.allmusic.com/artist/the-myrrors-mn0003360492/biography" target="_blank" rel="external noopener">Myrrors Artist Biography</a></cite>
 
-[^2]: Nik Rayne is the stage name of Nik Rayne Safi, also known as <span class="h-card p-name">N.R. Safi</span>. Safi also records and produces as <a href="//radiokhiyaban.bandcamp.com/album/volume-1" target="_blank" rel="external noopener noreferrer"><span class="h-card p-name p-nickname">Naujawanan Baidar</span></a>.
+[^2]: Nik Rayne is the stage name of Nik Rayne Safi, also known as <span class="h-card p-name">N.R. Safi</span>. Safi also records and produces as <a href="//radiokhiyaban.bandcamp.com/album/volume-1" target="_blank" rel="external noopener"><span class="h-card p-name p-nickname">Naujawanan Baidar</span></a>.
 
 When The Myrrors stopped at Norman's <span lass="h-card p-organization">Dope Chapel</span> on their way back from Austin's <span lass="h-card p-organization">Psych Fest</span> in <time datetime="2015-05-11">2015</time>, they comprised Rayne and Beyschau along with <span class="h-card p-name">Connor Gallagher</span> (guitar, 12-string guitar), <span class="h-card p-name">Cody Schwartz</span> (bass), and <span class="h-card p-name">Miguel Urbina</span> (violin).
 

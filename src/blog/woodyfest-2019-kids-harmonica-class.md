@@ -24,7 +24,7 @@ excerpt: For the second straight year, Woodyfest hosted a children’s harmonica
 
 {% image "./src/assets/images/blog/2020-04-09-woodyfest-kids-harmonica/czahller-20190712-13-39-38.jpg", "img-constrained", "Two children, brother & sister, in the audience", "Siblings — 22nd Annual Woody Guthrie Festival, 2019" %}</mpb-dialog-img>
 
-For the <a href="/woodyfest-2018-kids-harmonica-class/" target="_blank" rel="external noopener noreferrer">second straight year</a>, Woodyfest hosted an expanded children’s outreach, featuring several youth concerts and workshops. These included a children’s harmonica class taught by festival regulars <span class="h-card p-name">Joe Baxter</span> and <span class="h-card p-name">John Williams</span>.[^1]
+For the <a href="/woodyfest-2018-kids-harmonica-class/" target="_blank" rel="external noopener">second straight year</a>, Woodyfest hosted an expanded children’s outreach, featuring several youth concerts and workshops. These included a children’s harmonica class taught by festival regulars <span class="h-card p-name">Joe Baxter</span> and <span class="h-card p-name">John Williams</span>.[^1]
 
 [^1]: In addition to harmonica, Williams <a href="/woodyfest-2018-gypsy-twang/">sings and plays guitar</a> with <a href="/woodyfest-2019-community-outreach-gypsy-twang-friends/"><span class="h-card p-org">Gypsy Twang</span></a>. Baxter, a beloved Oklahoma songwriter, has been honored by fellow musicians with the recording of <cite>Tribute to the Songs of Joe Baxter,</cite> a (now out-of-print) compilation featuring covers of songs that Baxter wrote from <time datetime="1992">1992</time>&NoBreak;&hairsp;&NoBreak;&ndash;&NoBreak;&hairsp;&NoBreak;<time datetime="2016">2016</time>.
 </div>

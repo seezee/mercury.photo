@@ -29,7 +29,7 @@ Red Molly co-founder <span class="h-card p-name">Carolann Solebello</span> perfo
 
 Since the dissolution of Red Molly, Solebello has alternated between solo performance and touring with modern folk quartet <span class="h-card p-organization">No Fuss and Feathers</span>. She is a member of New York City’s <span class="h-card p-organization"><span class="h-card p-name">Jack Hardy</span> Songwriters’ Exchange</span> and the winner of numerous musical awards, including first-place at the <time datetime="2011">2011</time> <span class="h-card p-organization">Susquehanna Music and Arts Festival</span> (Maryland) and the <time datetime="2015">2015</time> <span class="h-card p-organization">Musicians on a Mission Songwriting Contest</span> (New Jersey).
 
-Solebello's most recent album, <cite>Shiver</cite>, <a href="https://geo.music.apple.com/it/album/shiver/1354766373?mt=1&app=music&at=10ldhk" target="_blank" rel="external noopener noreferrer">is out now</a>.
+Solebello's most recent album, <cite>Shiver</cite>, <a href="https://geo.music.apple.com/it/album/shiver/1354766373?mt=1&app=music&at=10ldhk" target="_blank" rel="external noopener">is out now</a>.
 
 ## Gallery
 

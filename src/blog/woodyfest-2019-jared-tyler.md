@@ -29,11 +29,11 @@ excerpt: By his own recollection, Woodyfest regular Jared Tyler Frederick began 
 
 By his own recollection, Woodyfest regular <span class="h-card p-name">Jared Tyler Frederick</span> began his professional music career around the time he turned fourteen or fifteen (circa <time datetime="1992">1992</time> or <time datetime="1993">1993</time>).[^1] A couple of years later, the Owasso high-school student began traveling to Nashville with his then-musical mentor, <span>Michael Garrett</span>.[^2] Around this time he shortened his name to Jared Tyler, which he continues to use professionally.[^3]
 
-[^1]: <cite class="h-card p-name full-citation">Joan, Tara</cite>, <cite>The Daily Country</cite>, <cite class="short-work"><a href="//thedailycountry.com/interviewsessential-8/jared-tyler-releases-his-most-personal-album-to-date-with-dirt-on-your-hands" target="_blank" rel="external noopener noreferrer">Jared Tyler Releases His Most Personal Album to Date with <cite>Dirt on Your Hands</cite></a></cite> (<time datetime="2017-05-01">1 May 2017</time>)
+[^1]: <cite class="h-card p-name full-citation">Joan, Tara</cite>, <cite>The Daily Country</cite>, <cite class="short-work"><a href="//thedailycountry.com/interviewsessential-8/jared-tyler-releases-his-most-personal-album-to-date-with-dirt-on-your-hands" target="_blank" rel="external noopener">Jared Tyler Releases His Most Personal Album to Date with <cite>Dirt on Your Hands</cite></a></cite> (<time datetime="2017-05-01">1 May 2017</time>)
 
 [^2]: <cite class="full-citation">Joan</cite>, <cite><span class="foreign" lang="la">Ibid</span>.</cite>
 
-[^3]: <cite class="h-card p-name full-citation">Copp, Jarrod</cite>, <cite>Tulsa World</cite>, <cite class="short-work"><a href="//tulsaworld.com/archive/on-a-good-note-ohs-senior-cuts-album/article_4d6788be-c366-5541-807a-7561cd3cae13.html" target="_blank" rel="external noopener noreferrer">On a Good Note // <abbr>OHS</abbr> Senior Cuts Album</a></cite> (<time datetime="1996-05-27">27 May 1996</time>)
+[^3]: <cite class="h-card p-name full-citation">Copp, Jarrod</cite>, <cite>Tulsa World</cite>, <cite class="short-work"><a href="//tulsaworld.com/archive/on-a-good-note-ohs-senior-cuts-album/article_4d6788be-c366-5541-807a-7561cd3cae13.html" target="_blank" rel="external noopener">On a Good Note // <abbr>OHS</abbr> Senior Cuts Album</a></cite> (<time datetime="1996-05-27">27 May 1996</time>)
 
 Tyler's first album, which he mostly wrote or co-wrote with Garrett, was a tribute to the Future Farmers of America (<abbr>FAA</abbr>), the organization that had given him some of his earliest gigging opportunities. Tyler credits the club's emphasis on public speaking with giving him the confidence to perform his music.[^4] He produced and recorded the album, <cite>Vision of Blue, Heart of Gold</cite>, in the summer before his senior year, recruiting three fellow <abbr>FAA</abbr> members as additional singers.[^5]
 
@@ -45,7 +45,7 @@ Tyler's first album, which he mostly wrote or co-wrote with Garrett, was a tribu
 
 After high school, Tyler continued working in music, releasing two albums and producing, recording, and performing with the likes of <span class="h-card p-name">Emmylou Harris</span>, <span class="h-card p-name">Merle Haggard</span>, and <span class="h-card p-name">Stoney Larue</span>.
 
-In fact, Tyler kept so busy and supporting other musical acts that the gap between his third album, <cite>Here with You</cite>, and his latest, <cite><a href="//amzn.to/310qAPN" target="_blank" rel="external noopener noreferrer">Dirt on Your Hands</a></cite>, was a full seven years. During that time he also appeared at Woodyfest on six separate occasions, as well as accompanying many of the other festival artists.[^6]
+In fact, Tyler kept so busy and supporting other musical acts that the gap between his third album, <cite>Here with You</cite>, and his latest, <cite><a href="//amzn.to/310qAPN" target="_blank" rel="external noopener">Dirt on Your Hands</a></cite>, was a full seven years. During that time he also appeared at Woodyfest on six separate occasions, as well as accompanying many of the other festival artists.[^6]
 
 [^6]: Tyler performed at every Woodyfest from <time datetime="2015">2015</time> to <time datetime="2020">2020</time>. The last performance was remote due to the COVID-19 pandemic.
 

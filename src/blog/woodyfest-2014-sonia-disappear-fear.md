@@ -26,7 +26,7 @@ excerpt: Emerging from Baltimore's folk scene in the late 1980s, Sonia Rutstein 
 
 Emerging from Baltimore's folk scene in the <time datetime="1987">late 1980</time>s, <span class="h-card p-name">Sonia Rutstein</span> formed the folk-duo <span class="h-card p-organization">Disappear Fear</span> (stylized &ldquo;disappear fear&rdquo;) with her sister <span class="h-card p-name">Cindy Frank</span>.[^1]
 
-[^1]: <cite class="full-citation">Monger, Timothy, <cite class="short-work"><a href="//www.allmusic.com/artist/sonia-mn0000754943/biography" target="_blank" rel="noopener noreferrer">SONiA Artist Biography</a>,</cite> Allmusic.com (retrieved <time datetime="2020-10-16">16 October 2010</time>).</cite>
+[^1]: <cite class="full-citation">Monger, Timothy, <cite class="short-work"><a href="//www.allmusic.com/artist/sonia-mn0000754943/biography" target="_blank" rel="noopener">SONiA Artist Biography</a>,</cite> Allmusic.com (retrieved <time datetime="2020-10-16">16 October 2010</time>).</cite>
 
 Following her sister's departure, Rutstein released a spate of solo albums, often working with other musicians, sometimes under the name <span class="h-card p-organization">disappear fear</span>, sometimes under the moniker <span class="h-card p-organization">SONiA</span>, sometimes as <span class="h-card p-organization">SONiA and disappear fear</span>. Since the beginning, her music has treated themes of social justice, feminism, and <abbr>LGBTQIA</abbr> issues. She is the recipient of dozens of awards and prestigious nominations, including a Grammy nomination for Folk Album of the Year.
 

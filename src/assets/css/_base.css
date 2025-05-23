@@ -766,6 +766,7 @@ iframe {
 a,
 a:visited {
   text-decoration-thickness: from-font;
+  text-decoration-color: var(--mpb-color-accent);
   text-underline-offset: 0.2ex;
   color: var(--mpb-color-textPrimary);
 }
