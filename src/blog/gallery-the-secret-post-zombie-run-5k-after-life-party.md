@@ -1,6 +1,6 @@
 ---
 layout: _main-blog.njk
-title: "Gallery: The Secret Post (Zombie Run 5K After Life Party)"
+title: "Gallery: The Secret Post (Zombie Bolt 5K Run After Life Party)"
 tags: 
   - blog
   - photography, digital
@@ -10,7 +10,7 @@ tags:
   - zombie
 date: 2019-05-20T12:00:56+00:00
 image: /assets/images/blog/2019-05-20-zombie-run-secret-post/czahller-20121006-19-32-39.jpg
-excerpt: The zombie run was followed by an after-party (the “after life party”). Tulsa’s The Secret Post and Oklahoma City’s Kill the Reflection provided the musical entertainment.
+excerpt: Tulsa’s The Secret Post and Oklahoma City’s Kill the Reflection provided the musical entertainment for the Zombie Run after-party.
 ---
 <!-- markdownlint-disable MD025 -->
 # {{ title }}
@@ -19,7 +19,7 @@ excerpt: The zombie run was followed by an after-party (the “after life party�
 
 {% image "./src/assets/images/blog/2019-05-20-zombie-run-secret-post/czahller-20121006-19-32-39.jpg", "img-constrained", "Zachariah’s Guitar — Zombie Bolt After Life Party, Guthrie, Oklahoma", "Zachariah’s Guitar — Zombie Bolt After Life Party, Guthrie, Oklahoma" %}</mpb-dialog-img>
 
-<time datime="2010-10-24">Five years ago</time> I [published a story about the 5K zombie race](/zombie-bolt-5k-oklahomas-premier-zombie-run/) in Guthrie, Oklahoma. At the time I shared only a portion of the photos I shot during the race, relegating the remainder to <span class="h-card p-org">Flickr</span>. Since then Flickr have <a href="//blog.flickr.net/en/2018/11/01/changing-flickr-free-accounts-1000-photos/" target="_blank" rel="external noopener">changed their terms of service</a>. I’m currently moving many of my photos from the platform to this blog.
+<time datime="2010-10-24">Five years ago</time> I [published a story about the 5K zombie race](/blog/zombie-bolt-5k-oklahomas-premier-zombie-run/) in Guthrie, Oklahoma. At the time I shared only a portion of the photos I shot during the race, relegating the remainder to <span class="h-card p-org">Flickr</span>. Since then Flickr have <a href="//blog.flickr.net/en/2018/11/01/changing-flickr-free-accounts-1000-photos/" target="_blank" rel="external noopener">changed their terms of service</a>. I’m currently moving many of my photos from the platform to this blog.
 
 The zombie run was followed by an after-party (the “after life party”). Tulsa’s <span class="h-card p-org">The Secret Post</span> and Oklahoma City’s [<span class="h-card p-org">Kill the Reflection</span>](/kill-the-reflection-at-the-hilo-club-okc/) provided the musical entertainment.
 
