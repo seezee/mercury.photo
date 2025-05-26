@@ -54,7 +54,7 @@ These are the photos from the after-party. [The rest of the "new" pictures start
   ![Cruel Shoes (boots with spike heels) — Zombie Bolt After Life Party, Guthrie, Oklahoma](/assets/images/blog/2019-05-17-zombie-run-afterparty/czahller-20121006-18-49-33.jpg)
   ![Enjoy Grapette Soda (sign painted on venue exterior) — Zombie Bolt After Life Party, Guthrie, Oklahoma](/assets/images/blog/2019-05-17-zombie-run-afterparty/czahller-20121006-18-50-52.jpg)
   ![Nicoli (The Secret Post) and Friend — Zombie Bolt After Life Party, Guthrie, Oklahoma](/assets/images/blog/2019-05-17-zombie-run-afterparty/czahller-20121006-18-57-37.jpg)
-  ![Chad's 2nd Office (The Head) — Zombie Bolt After Life Party, Guthrie, Oklahoma](/assets/images/blog/2019-05-17-zombie-run-afterparty/czahller-20121006-19-20-07.jpg)
+  ![Chad’s 2nd Office (The Head) — Zombie Bolt After Life Party, Guthrie, Oklahoma](/assets/images/blog/2019-05-17-zombie-run-afterparty/czahller-20121006-19-20-07.jpg)
   ![Audience (II) — Zombie Bolt After Life Party, Guthrie, Oklahoma](/assets/images/blog/2019-05-17-zombie-run-afterparty/czahller-20121006-19-28-44.jpg)
   ![Family — Zombie Bolt After Life Party, Guthrie, Oklahoma](/assets/images/blog/2019-05-17-zombie-run-afterparty/czahller-20121006-19-34-38.jpg)
   ![Cheerleaders (Andria and Friend) — Zombie Bolt After Life Party, Guthrie, Oklahoma](/assets/images/blog/2019-05-17-zombie-run-afterparty/czahller-20121006-19-37-16.jpg)
