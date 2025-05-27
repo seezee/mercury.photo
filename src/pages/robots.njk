@@ -4,11 +4,12 @@ permalink: /robots.txt
 ---
 User-agent: *
 Allow: /
-Sitemap: {{ site.url }}/sitemap.xml
+Sitemap: {{ site.url }}/rss.xml
 
 User-agent: Googlebot
-Disallow: /
+Allow: /
 
+## Bingbot harvests sites for AI training; many other AI scrapers also use their index.
 User-agent: Bingbot
 Disallow: /
 
