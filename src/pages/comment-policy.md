@@ -29,7 +29,7 @@ Although we can’t be everywhere at once, here are some of the kinds of comment
 * Comments that make it clear you didn’t read the article. Enraged that we didn’t mention X in a story about Y? Slow down, Speedy McFingerson. If you’d made it past paragraph two, you’d see a very well thought-out discussion of that X you hold so dear.
 * Comments that are completely out of left field. Sometimes discussions veer off a bit, but are still related to the original subject. That is fine. Hijacking the conversation to promote off-topic commentary is not.
 * Threats — no matter how vague — against the author or other commenters. Things can get heated. Before you casually mention your foe’s home address, think of your Mother Earth. (Bonus points if you never use the phrase “Mother Earth.”)
-* Racism, sexism, homophobia, you get the drift. Call us the PC Police, fine, but don’t say we didn’t warn you when you get tased.[^2]
+* Racism, sexism, homophobia, you get the drift. Call us the PC Police, fine, but don’t say we didn’t warn you when you get tased.&NoBreak;[^2]
 * Trolling. If you’re an Henri Cartier Bresson–hater just out for a good trolling and are not contributing meaningfully to the conversation, we’ll be pushing you back under the bridge.
 
 Acknowledgement and thanks to <a href="https://grist.org/" rel="external noopener" target="_blank">the Grist</a>, from whom we stole nearly all of this comment policy.

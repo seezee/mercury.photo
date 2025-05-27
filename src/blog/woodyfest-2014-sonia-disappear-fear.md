@@ -24,7 +24,7 @@ excerpt: Emerging from Baltimore's folk scene in the late 1980s, Sonia Rutstein 
 
 {% image "./src/assets/images/blog/2020-10-23-woodyfest-sonia-dissapear-fear/czahller-20140710-20-53-42.jpg", "img-constrained", "SONiA disappear fear (II) — 17th Annual Woody Guthrie Folk Festival, 2014", "SONiA disappear fear (II) — 17th Annual Woody Guthrie Folk Festival, 2014" %}</mpb-dialog-img>
 
-Emerging from Baltimore's folk scene in the <time datetime="1987">late 1980</time>s, <span class="h-card p-name">Sonia Rutstein</span> formed the folk-duo <span class="h-card p-organization">Disappear Fear</span> (stylized &ldquo;disappear fear&rdquo;) with her sister <span class="h-card p-name">Cindy Frank</span>.[^1]
+Emerging from Baltimore's folk scene in the <time datetime="1987">late 1980</time>s, <span class="h-card p-name">Sonia Rutstein</span> formed the folk-duo <span class="h-card p-organization">Disappear Fear</span> (stylized &ldquo;disappear fear&rdquo;) with her sister <span class="h-card p-name">Cindy Frank</span>.&NoBreak;[^1]
 
 [^1]: <cite class="full-citation">Monger, Timothy, <cite class="short-work"><a href="//www.allmusic.com/artist/sonia-mn0000754943/biography" target="_blank" rel="noopener">SONiA Artist Biography</a>,</cite> Allmusic.com (retrieved <time datetime="2020-10-16">16 October 2010</time>).</cite>
 

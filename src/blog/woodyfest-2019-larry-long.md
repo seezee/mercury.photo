@@ -38,7 +38,7 @@ This article was expanded on <time datetime="2020-01-27">27 January 2020</time> 
 <footer aria-label="citation">&mdash;&NoBreak;&hairsp;&NoBreak;<cite class="full-citation"><span class="h-card p-name">Studs Terkel</span></cite>, frontispiece inscription to Larry Long’s copy of Terkel’s <cite>Hard Times: An Oral History of the Great Depression</cite>.
 </footer></blockquote>
 
-In <time datetime="1977">1977</time>, twenty-six-year-old vagabond singer <span class="h-card p-name">Larry Long</span> wrote <cite class="short-work">Pope County Blues</cite> in support of farmers fighting a high voltage power line in Minnesota. <time datetime="1978">A year later</time> he organized Tennessee farmers to form what we would now call a farmers market. Following that, Long accompanied[^1] the first “Tractorcade,” a procession of family farmers traveling to Washington,  D.C. to demonstrate for fair crop prices.[^2]
+In <time datetime="1977">1977</time>, twenty-six-year-old vagabond singer <span class="h-card p-name">Larry Long</span> wrote <cite class="short-work">Pope County Blues</cite> in support of farmers fighting a high voltage power line in Minnesota. <time datetime="1978">A year later</time> he organized Tennessee farmers to form what we would now call a farmers market. Following that, Long accompanied[^1] the first “Tractorcade,” a procession of family farmers traveling to Washington,  D.C. to demonstrate for fair crop prices.&NoBreak;[^2]
 
 [^1]: Both musically and perambulatorily.
 

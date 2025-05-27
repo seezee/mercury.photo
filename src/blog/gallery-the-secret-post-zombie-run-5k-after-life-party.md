@@ -23,7 +23,7 @@ excerpt: Tulsa’s The Secret Post and Oklahoma City’s Kill the Reflection pro
 
 The zombie run was followed by an after-party (the “after life party”). Tulsa’s <span class="h-card p-org">The Secret Post</span> and Oklahoma City’s [<span class="h-card p-org">Kill the Reflection</span>](/kill-the-reflection-at-the-hilo-club-okc/) provided the musical entertainment.
 
-The Secret Post is the brainchild of <span class="h-card p-name">Zachariah Wiser</span>. Wiser started his first band in California before forming The Secret Post. The band draw their sound from post-punk and new wave, with lyrics addressing <q>sex, death, despair, and love.</q>[^1]
+The Secret Post is the brainchild of <span class="h-card p-name">Zachariah Wiser</span>. Wiser started his first band in California before forming The Secret Post. The band draw their sound from post-punk and new wave, with lyrics addressing <q>sex, death, despair, and love.</q>&NoBreak;[^1]
 
 [^1]: <cite class="short-work"><a href="https://web.archive.org/web/20150703035738/http://www.thesecretpost.net/about/" target="_blank" rel="external noopener">The Secret Post is about sex, death, despair, and love&NoBreak;&hairsp;&NoBreak;&hellip;</a>,</cite> <cite>thesecretpost.net</cite> (retrieved from the Internet Wayback Machine <time datetime="2015-07-03">3 July 2015</time>).
 
