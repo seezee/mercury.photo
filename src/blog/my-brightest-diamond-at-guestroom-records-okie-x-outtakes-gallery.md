@@ -9,6 +9,7 @@ tags:
   - photography, film
   - portraiture
   - photo gallery
+  - music
   - Leica
   - rangefinder
   - chamber pop
