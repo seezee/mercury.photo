@@ -160,18 +160,42 @@ hgroup:has(h1) h1 ~ p:not(:empty):first-of-type:first-letter {
   font-variant: normal;
 }
 
+/* Foreign language */
+.foreign {
+  font-style: italic;
+}
+
+caption,
+figcaption {
+   .foreign {
+    font-style: normal;
+  }
+}
+
 /* Citations & Publications */
 
 .publication {
   font-style: italic;
+
+  .foreign {
+    font-style: normal;
+  }
 }
 
 .full-citation {
   font-style: normal;
+
+  .foreign {
+    font-style: italic;
+  }
 }
 
 .short-work {
   font-style: normal;
+
+  .foreign {
+    font-style: italic;
+  }
 
   quotes: "\201C" "\201D" "\2018" "\2019";
 
