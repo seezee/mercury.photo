@@ -12,7 +12,8 @@ tags:
   - Woody Guthrie
   - Woody Guthrie Folk Festival
   - Woodyfest 2013
-date: 2020-03-26T22:30:24+00:00
+date: Last Modified
+pubdate: 2020-03-26T22:30:24+00:00
 image: /assets/images/blog/2020-03-26-woodyfest-bandcamp-backstage/czahller-20130712-20-43-53.jpg
 excerpt: Today we present candid images from my first year as a volunteer photographer for the Woody Guthrie Folk Festival.
 ---

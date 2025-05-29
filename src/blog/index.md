@@ -19,12 +19,18 @@ If you don't see the post you are looking for or a link directs you to nowhere, 
 
 </mpb-callout>
 <ul class="blog-index" role="list">
-{%- for post in collections.blog | reverse -%}
+{%- for post in collections.blog | sortByPubDate | reverse -%}
   <li role="listitem">
     <stack-l>
       <h2><a href="{{ post.url }}">{{ post.data.title | safe }}</a></h2>
       <a href="{{ post.url }}"><img src="{{ post.data.image | safe }}" alt="Read “{{ post.data.title | safe }}”" /></a>
-      <small><time datetime="{{ post.date | toISOString | safe}}">{{ post.date.toUTCString() | safe}}</small>
+      <small>
+        {% if post.data.pubdate %}
+          <time datetime="{{ post.data.pubdate | toISOString | safe}}">{{ post.data.pubdate.toUTCString() | safe}}</time>
+        {% else %}
+          No publication date found.
+        {% endif %}
+      </small>
       <p>{{ post.data.excerpt | safe }}</p>
       <hr />
     </stack-l>

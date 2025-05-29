@@ -13,7 +13,8 @@ tags:
   - Woody Guthrie
   - Woody Guthrie Folk Festival
   - Woodyfest 2013
-date: 2020-03-29T22:00:00+00:00
+date: Last Modified
+pubdate: 2020-03-29T22:00:00+00:00
 image: /assets/images/blog/2020-03-29-woodyfest-tim-easton/czahller-20130712-14-26-27.jpg
 excerpt: We’ve featured folk-troubadour Tim Easton at the bureau previously. But we first met him in 2013 when he made his Woody Guthrie Folk Festival debut.
 ---

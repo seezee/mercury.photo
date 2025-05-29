@@ -13,7 +13,8 @@ tags:
   - Woody Guthrie
   - Woody Guthrie Folk Festival
   - Woodyfest 2014
-date: 2020-10-23T22:30:56+00:00
+date: Last Modified
+pubdate: 2020-10-23T22:30:56+00:00
 image: /assets/images/blog/2020-10-23-woodyfest-sonia-dissapear-fear/czahller-20140710-20-53-42.jpg
 excerpt: Emerging from Baltimore's folk scene in the late 1980s, Sonia Rutstein formed the folk-duo Disappear Fear (stylized “disappear fear”) with her sister Cindy Frank.
 ---

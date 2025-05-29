@@ -13,7 +13,8 @@ tags:
   - Woody Guthrie
   - Woody Guthrie Folk Festival
   - Woodyfest 2019
-date: 2020-03-27T10:00:59+00:00
+date: Last Modified
+pubdate: 2020-03-27T10:00:59+00:00
 image: /assets/images/blog/2020-03-27-woodyfest-gypsy-twang/czahller-20190711-14-42-07.jpg
 excerpt: We’ve written about Gypsy Twang before, so we’ll keep this short. The Tulsa band appeared at Woodyfest for the second time in 2019.
 ---

@@ -13,7 +13,8 @@ tags:
   - Woody Guthrie
   - Woody Guthrie Folk Festival
   - Woodyfest 2013
-date: 2020-04-03T22:00:53+00:00
+date: Last Modified
+pubdate: 2020-04-03T22:00:53+00:00
 image: /assets/images/blog/2020-04-03-woodyfest-samantha-crain/czahller-20130712-17-34-24.jpg
 excerpt: Critically praised Choctaw singer Samantha Crain appeared on the Crystal Stage at Woodyfest in 2013. It was her fourth time performing at the festival.
 ---

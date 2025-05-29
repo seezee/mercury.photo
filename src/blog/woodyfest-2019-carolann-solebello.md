@@ -14,7 +14,8 @@ tags:
   - Woody Guthrie
   - Woody Guthrie Folk Festival
   - Woodyfest 2019
-date: 2020-04-08T22:00:44+00:00
+date: Last Modified
+pubdate: 2020-04-08T22:00:44+00:00
 image: /assets/images/blog/2020-04-08-woodyfest-carolann-solebello/czahller-20190712-11-29-30.jpg
 excerpt: Red Molly co-founder Carolann Solebello performed an intimate solo set on the Crystal Theatre Stage during Woodyfest 2019.
 ---

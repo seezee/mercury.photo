@@ -9,7 +9,8 @@ tags:
   - photo gallery
   - architecture
   - Miyama
-date: 2019-04-24T12:00:18+00:00
+date: Last Modified
+pubdate: 2019-04-24T12:00:18+00:00
 image: /assets/images/blog/2019-04-24-prairie-house/czahller-20170521-16-26-25.jpg
 excerpt: In 1957 a young architect named Herb Greene returned to his alma mater, the University of Oklahoma, to teach.
 ---

@@ -13,7 +13,8 @@ tags:
   - Woody Guthrie
   - Woody Guthrie Folk Festival
   - Woodyfest 2019
-date: 2020-01-18T00:00:57+00:00
+date: Last Modified
+pubdate: 2020-01-18T00:00:57+00:00
 image: /assets/images/blog/2020-01-17-woodyfest-larry-long/czahller-20190711-11-12-16.jpg
 excerpt: In 1977, twenty-six-year-old vagabond singer Larry Long wrote <cite class="short-work">Pope County Blues</cite> in support of farmers fighting a high voltage power line in Minnesota.
 ---

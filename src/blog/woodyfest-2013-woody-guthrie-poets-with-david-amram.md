@@ -13,7 +13,8 @@ tags:
   - Woody Guthrie
   - Woody Guthrie Folk Festival
   - Woodyfest 2013
-date: 2020-04-06T22:00:37+00:00
+date: Last Modified
+pubdate: 2020-04-06T22:00:37+00:00
 image: /assets/images/blog/2020-04-06-woodyfest-poets/czahller-20130713-13-04-58.jpg
 excerpt: As of this writing the Woody Guthrie Poets have presented readings at fifteen consecutive Woody Guthrie Folk Festivals. They gave their first festival reading in 2005.
 ---

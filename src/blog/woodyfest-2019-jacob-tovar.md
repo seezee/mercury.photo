@@ -15,7 +15,8 @@ tags:
   - Woody Guthrie
   - Woody Guthrie Folk Festival
   - Woodyfest 2019
-date: 2020-04-04T22:00:58+00:00
+date: Last Modified
+pubdate: 2020-04-04T22:00:58+00:00
 image: /assets/images/blog/2020-04-05-woodyfest-jacob-tovar/czahller-20190711-21-36-34.jpg
 excerpt: Jacob Tovar didn’t set out to be a musician. The Tulsa-based musician grew up with a deep, abiding love of classic country music, particularly from the ’50s and ’60s.
 ---

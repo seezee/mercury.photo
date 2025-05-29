@@ -14,7 +14,8 @@ tags:
   - Woody Guthrie
   - Woody Guthrie Folk Festival
   - Woodyfest 2019
-date: 2020-10-16T22:30:51+00:00
+date: Last Modified
+pubdate: 2020-10-16T22:30:51+00:00
 image: /assets/images/blog/2020-10-16-woodyfest-jared-tyler/czahller-20190712-16-40-07.jpg
 excerpt: By his own recollection, Woodyfest regular Jared Tyler Frederick began his professional music career around the time he turned fourteen or fifteen.
 ---

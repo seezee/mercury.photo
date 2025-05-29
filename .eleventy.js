@@ -187,7 +187,7 @@ module.exports = async function(eleventyConfig) {
 			limit: 0,     // 0 means no limit
 		},
     metadata: {
-			language: `en`,
+			language: `en-US`,
 			title: `Mercury Photo Bureau`,
 			subtitle: `Rangefinder + Mirrorless Digital + Large Format Film Photography + Music, Arts, &amp; News`,
 			base: `https://mercury.photo/`,
@@ -203,6 +203,12 @@ module.exports = async function(eleventyConfig) {
   */
   const toISOString = (dateString) => new Date(dateString).toISOString();
   eleventyConfig.addFilter(`toISOString`, toISOString);
+  // Sort blog entries
+  function sortByPubDate(values) {
+    let vals = [...values];     // this *seems* to prevent collection mutation...
+    return vals.sort((a, b) => Math.sign(a.data.pubdate - b.data.pubdate));
+  }
+  eleventyConfig.addFilter("sortByPubDate", sortByPubDate);
   // Tags index
   eleventyConfig.addFilter(`taglist`, function(collection) {
     const ignoredTags = [`blog`, `all`];

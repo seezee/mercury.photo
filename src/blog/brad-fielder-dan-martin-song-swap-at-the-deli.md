@@ -13,7 +13,8 @@ tags:
   - music
   - reportage
   - photo gallery
-date: 2019-05-03T12:00:47+00:00
+date: Last Modified
+pubdate: 2019-05-03T12:00:47+00:00
 image: /assets/images/blog/2019-05-03-brad-fielder-dan-martin-deli/czahller-20190429-22-07-59.jpg
 excerpt: A pair of Oklahoma’s premier songwriters sharing a stage should draw a crowd. But if it’s Monday night the week before finals in a university town, maybe not.
 ---

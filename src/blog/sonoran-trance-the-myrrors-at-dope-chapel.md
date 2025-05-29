@@ -10,7 +10,8 @@ tags:
   - rock, experimental
   - rock, psychedelic
   - trance
-date: 2020-04-17T22:00:14+00:00
+date: Last Modified
+pubdate: 2020-04-17T22:00:14+00:00
 image: /assets/images/blog/2020-09-04-myrrors/czahller-20150511-22-26-33.jpg
 excerpt: Forming in 2007 while its members were in high school, The Myrrors play “a sun-baked, mystical form of psychedelia informed by desert blues, Krautrock, free jazz, and Terry Riley-style minimalism.”
 ---

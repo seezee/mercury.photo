@@ -16,7 +16,8 @@ tags:
   - singer-songwriter
   - x-ray film
   - OKIE-X
-date: 2019-04-17T12:00:51+00:00
+date: Last Modified
+pubdate: 2019-04-17T12:00:51+00:00
 image: /assets/images/blog/2019-04-17-my-brightest-diamond/czahller-20190406-14-48-35.jpg
 excerpt: My first encounter with the music of My Brightest Diamond was a track on a RED + HOT compilation.
 ---

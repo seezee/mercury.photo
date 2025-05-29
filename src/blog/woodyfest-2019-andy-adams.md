@@ -13,7 +13,8 @@ tags:
   - Woody Guthrie
   - Woody Guthrie Folk Festival
   - Woodyfest 2019
-date: 2020-03-28T10:00:34+00:00
+date: Last Modified
+pubdate: 2020-03-28T10:00:34+00:00
 image: /assets/images/blog/2020-03-28-woodyfest-andy-adams/czahller-20190711-15-32-54.jpg
 excerpt: Although Andy Adams is no stranger to music, the Tahlequah native admits the title of his latest release, <cite>Back to Square One</cite>, could be taken literally.
 ---

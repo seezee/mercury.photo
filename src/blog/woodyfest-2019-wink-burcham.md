@@ -14,7 +14,8 @@ tags:
   - Woody Guthrie
   - Woody Guthrie Folk Festival
   - Woodyfest 2019
-date: 2020-03-30T22:00:46+00:00
+date: Last Modified
+pubdate: 2020-03-30T22:00:46+00:00
 image: /assets/images/blog/2020-03-30-woodyfest-wink-burcham/czahller-20190711-16-37-24.jpg
 excerpt: In 2019 Tulsa-based singer/songwriter Wink Burcham made his sixth straight Woodyfest appearance, performing a late-afternoon set on the Bound for Glory stage.
 ---

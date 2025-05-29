@@ -5,7 +5,7 @@
   "metadata": {
     "title": "Mercury Photo Bureau",
     "description": "Rangefinder + Mirrorless + Digital + Large Format Film Photography, Music, Arts, &amp; News",
-    "language": "en",
+    "language": "en-US",
     "base": "https://mercury.photo/",
     "author": {
       "name": "Chris J. Zähller"
@@ -21,13 +21,24 @@
     <atom:link href="{{ permalink | htmlBaseUrl(metadata.base) }}" rel="self" type="application/rss+xml" />
     <description><![CDATA[{{ metadata.description }}]]></description>
     <language>{{ metadata.language or page.lang }}</language>
-    {%- for post in collections.blog | reverse %}
+    <category>Photography, Blog</category>
+    <copyright>Copyright © 2012{{ helpers.currentYearRSS() | safe }} Chris J. Zähller. All rights reserved.</copyright>
+    <image>
+      <url>https://mercury.photo/assets/images/site/mpb-logo.png</url>
+      <title><![CDATA[{{ metadata.title }}]]></title>
+      <link>{{ metadata.base | addPathPrefixToFullUrl }}</link>
+      <description><![CDATA[{{ metadata.description }}]]></description>
+      <width>144</width>
+      <height>144</height>
+    </image>
+    {%- for post in collections.blog | sortByPubDate | reverse %}
     {%- set absolutePostUrl = post.url | htmlBaseUrl(metadata.base) %}
     <item>
       <title><![CDATA[{{ post.data.title }}]]></title>
       <link>{{ absolutePostUrl }}</link>
       <description><![CDATA[{{ post.data.excerpt }}]]></description>
-      <pubDate>{{ post.date | dateToRfc822 }}</pubDate>
+      <pubDate>{{ post.data.pubdate | dateToRfc822 }}</pubDate>
+      <lastBuildDate>{{ post.date | dateToRfc822 }}</lastBuildDate>
       <dc:creator>{{ metadata.author.name }}</dc:creator>
       <guid>{{ absolutePostUrl }}</guid>
     </item>

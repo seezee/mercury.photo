@@ -12,7 +12,8 @@ tags:
   - Woody Guthrie
   - Woody Guthrie Folk Festival
   - Woodyfest 2014
-date: 2021-06-28T20:47:47+00:00
+date: Last Modified
+pubdate: 2021-06-28T20:47:47+00:00
 image: /assets/images/blog/2021-06-21-woodyfest-backstage/czahller-20140713-03-02-14.jpg
 excerpt: Today’s post presents a photo gallery comprising images from various backstage areas at the 2014 Woody Guthrie Folk Festival, along with pictures from the “Band Camp” encampment at the Okemah Rodeo Grounds.
 ---

@@ -13,7 +13,8 @@ tags:
   - Woody Guthrie
   - Woody Guthrie Folk Festival
   - Woodyfest 2019
-date: 2020-04-02T22:30:11+00:00
+date: Last Modified
+pubdate: 2020-04-02T22:30:11+00:00
 image: /assets/images/blog/2020-04-02-woodyfest-red-dirt-rangers/czahller-20190711-20-45-04.jpg
 excerpt: Marking their twenty-first appearance at Woodyfest 2019, the Red Dirt Rangers took the stage following fiddler Randy Crouch.
 ---

@@ -13,7 +13,8 @@ tags:
   - Woody Guthrie
   - Woody Guthrie Folk Festival
   - Woodyfest 2019
-date: 2020-04-07T22:00:09+00:00
+date: Last Modified
+pubdate: 2020-04-07T22:00:09+00:00
 image: /assets/images/blog/2020-04-07-woodyfest-john-fullbright/czahller-20190711-23-08-01.jpgczahller-20190712-11-29-30.jpg
 excerpt: I wasn’t assigned to photograph John Fullbright at last year’s festival, but I did catch this shot of him jamming with guitarist Terry “Buffalo” Ware and bassist Stephen Lee.
 ---

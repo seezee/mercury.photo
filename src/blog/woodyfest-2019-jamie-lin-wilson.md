@@ -14,7 +14,8 @@ tags:
   - Woody Guthrie
   - Woody Guthrie Folk Festival
   - Woodyfest 2019
-date: 2020-04-05T22:00:46+00:00
+date: Last Modified
+pubdate: 2020-04-05T22:00:46+00:00
 image: /assets/images/blog/2020-04-05-woodyfest-jamie-lin-wilson/czahller-20190711-22-16-03.jpg
 excerpt: By some standards, Jamie Lin Wilson is a late bloomer. She was nineteen when she heard Natlie Maines performing a solo during a Dixie Chicks concert.
 ---

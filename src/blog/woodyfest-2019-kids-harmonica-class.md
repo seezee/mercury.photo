@@ -13,7 +13,8 @@ tags:
   - Woody Guthrie
   - Woody Guthrie Folk Festival
   - Woodyfest 2019
-date: 2020-04-09T22:00:36+00:00
+date: Last Modified
+pubdate: 2020-04-09T22:00:36+00:00
 image: /assets/images/blog/2020-04-09-woodyfest-kids-harmonica/czahller-20190712-13-39-38.jpg
 excerpt: For the second straight year, Woodyfest hosted a children’s harmonica class taught by festival regulars Joe Baxter and John Williams.
 ---

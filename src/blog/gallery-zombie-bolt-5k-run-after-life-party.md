@@ -6,7 +6,8 @@ tags:
   - photography, digital
   - photo gallery
   - zombie
-date: 2019-05-17T12:00:48+00:00
+date: Last Modified
+pubdate: 2019-05-17T12:00:48+00:00
 image: /assets/images/blog/2019-05-17-zombie-run-afterparty/czahller-20121006-18-01-20.jpg
 excerpt: The zombie run was followed by an after-party (the “after life party”). The following photos of the party were formerly hosted only on my Flickr account.
 ---

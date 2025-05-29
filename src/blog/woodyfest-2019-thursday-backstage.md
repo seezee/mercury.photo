@@ -15,7 +15,8 @@ tags:
   - Woody Guthrie
   - Woody Guthrie Folk Festival
   - Woodyfest 2019
-date: 2020-04-01T22:00:48+00:00
+date: Last Modified
+pubdate: 2020-04-01T22:00:48+00:00
 image: /assets/images/blog/2020-04-01-woodyfest-backstage/czahller-20190711-20-57-04.jpg
 excerpt: Between 2018 and 2019 I did some horsetrading and upgraded my Hasselblad 500C/M to a 503cx.
 ---

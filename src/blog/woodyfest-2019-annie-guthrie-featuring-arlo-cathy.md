@@ -11,7 +11,8 @@ tags:
   - folk
   - Woodyfest
   - Woodyfest 2019
-date: 2020-04-16T22:00:37+00:00
+date: Last Modified
+pubdate: 2020-04-16T22:00:37+00:00
 image: /assets/images/blog/2020-04-16-woodyfest-2019-annie-guthrie/czahller-20190712-15-29-37.jpg
 excerpt: Self-described “folk-punk” singer-songwriter Annie Guthrie performed a set on the Crystal Theatre stage on festival Friday.
 ---

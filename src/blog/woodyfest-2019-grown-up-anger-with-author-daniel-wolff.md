@@ -14,7 +14,8 @@ tags:
   - Woody Guthrie
   - Woody Guthrie Folk Festival
   - Woodyfest 2019
-date: 2020-04-14T22:00:00+00:00
+date: Last Modified
+pubdate: 2020-04-14T22:00:00+00:00
 image: /assets/images/blog/2020-04-14-woodyfest-2019-daniel-wolff/czahller-20190712-15-21-00.jpg
 excerpt: "As part of Woodyfest’s continuing educational outreach, author Daniel Wolff gave a short talk about his book <cite>Grown Up Anger: The Connected Mysteries of Bob Dylan, Woody Guthrie, and the Calumet Massacre of 1913</cite> during last year’s festival."
 ---

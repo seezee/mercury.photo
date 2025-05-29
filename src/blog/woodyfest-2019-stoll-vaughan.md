@@ -14,7 +14,8 @@ tags:
   - Woody Guthrie
   - Woody Guthrie Folk Festival
   - Woodyfest 2019
-date: 2020-10-05T20:46:21+00:00
+date: Last Modified
+pubdate: 2020-10-05T20:46:21+00:00
 image: /assets/images/blog/2020-10-05-woodyfest-stoll-vaughan/czahller-20190712-16-03-31.jpg
 excerpt: "Two-time chart-topper Stoll Vaughan made his Woodyfest debut in 2019. Vaughan took the Crystal Theatre stage mid-afternoon on festival Friday."
 ---

@@ -14,7 +14,8 @@ tags:
   - Woody Guthrie
   - Woody Guthrie Folk Festival
   - Woodyfest 2019
-date: 2021-06-21T22:45:03+00:00
+date: Last Modified
+pubdate: 2021-06-21T22:45:03+00:00
 image: /assets/images/blog/2021-06-21-woodyfest-songwriting-contest/czahller-20190712-19-18-22.jpg
 excerpt: Saturday night at Woodyfest 2019 kicked off, as in past years, with a showcase for the Woody Guthrie Songwriting Contest winners.
 ---

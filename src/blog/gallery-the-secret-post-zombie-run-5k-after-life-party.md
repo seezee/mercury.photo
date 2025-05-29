@@ -8,7 +8,8 @@ tags:
   - photo gallery
   - post-punk
   - zombie
-date: 2019-05-20T12:00:56+00:00
+date: Last Modified
+pubdate: 2019-05-20T12:00:56+00:00
 image: /assets/images/blog/2019-05-20-zombie-run-secret-post/czahller-20121006-19-32-39.jpg
 excerpt: Tulsa’s The Secret Post and Oklahoma City’s Kill the Reflection provided the musical entertainment for the Zombie Run after-party.
 ---

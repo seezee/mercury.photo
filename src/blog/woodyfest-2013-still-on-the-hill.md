@@ -12,7 +12,8 @@ tags:
   - Woody Guthrie
   - Woody Guthrie Folk Festival
   - Woodyfest 2013
-date: 2020-03-31T22:00:47+00:00
+date: Last Modified
+pubdate: 2020-03-31T22:00:47+00:00
 image: /assets/images/blog/2020-03-31-woodyfest-still-hill/czahller-20130712-15-07-26.jpg
 excerpt: Bringing their “low-tech” PowerPoint to the Brick Street Café in 2013, musical duo Still on the Hill had the audience in stitches.
 ---

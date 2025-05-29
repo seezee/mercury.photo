@@ -14,7 +14,8 @@ tags:
   - Woody Guthrie
   - Woody Guthrie Folk Festival
   - Woodyfest 2013
-date: 2020-10-02T10:30:21+00:00
+date: Last Modified
+pubdate: 2020-10-02T10:30:21+00:00
 image: /assets/images/blog/2020-10-02-woodyfest-sam-baker/czahller-20130713-17-52-12.jpg
 excerpt: We wrote about Woodyfest regular Sam Baker just over a year ago so we won’t repeat ourselves here. Baker has played Woodyfest a total of a dozen times as of 2019.
 ---

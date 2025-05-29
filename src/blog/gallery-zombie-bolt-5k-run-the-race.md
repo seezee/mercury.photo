@@ -7,7 +7,8 @@ tags:
   - photo gallery
   - zombie
   - race (sporting competition)
-date: 2019-05-13T12:00:05+00:00
+date: Last Modified
+pubdate: 2019-05-13T12:00:05+00:00
 image: /assets/images/blog/2019-05-13-zombie-run-race-redux/czahller-20121006-16-52-55.jpg
 excerpt: "Recap: Five years ago I published a story about the 5K zombie race in Guthrie, Oklahoma. This post features previously unpublished pictures taken during the race."
 ---

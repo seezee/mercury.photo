@@ -13,7 +13,8 @@ tags:
   - Woody Guthrie
   - Woody Guthrie Folk Festival
   - Woodyfest 2019
-date: 2020-04-10T22:00:15+00:00
+date: Last Modified
+pubdate: 2020-04-10T22:00:15+00:00
 image: /assets/images/blog/2020-04-10-woodyfest-pushing-chain/czahller-20190712-14-39-24.jpg
 excerpt: Self-described “folky-tonk” duo Pushing Chain made their Woodyfest debut on the Bound for Glory stage on festival Friday.
 ---
