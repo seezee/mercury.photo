@@ -43,7 +43,7 @@ I took most of the pictures shown here, except for the group photo, made by my d
 
 ## Technical
 
-  <dl class="glossary">
+  <dl>
     <dt>Camera</dt>
     <dd>Rolleiflex 2.8c</dd>
     <dt>Lens</dt>

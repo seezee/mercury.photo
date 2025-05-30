@@ -160,8 +160,9 @@ hgroup:has(h1) h1 ~ p:not(:empty):first-of-type:first-letter {
   font-variant: normal;
 }
 
-/* Foreign language */
-.foreign {
+/* Foreign language, editorial insertions */
+.foreign,
+.editorial {
   font-style: italic;
 }
 
@@ -205,6 +206,26 @@ figcaption {
 
   &::after {
     content: close-quote;
+  }
+}
+
+/* Interviews */
+.spkr {
+  font-family: var(--mpb-font-display-sc);
+  font-variant: normal;
+  font-weight: 900;
+  letter-spacing: .06667rem;
+  text-transform: lowercase;
+
+  &::after {
+    content: "{";
+    padding-inline-start: .06667rem;
+  }
+}
+
+[data-theme='dark'] {
+  .spkr {
+    font-weight: 800;
   }
 }
 

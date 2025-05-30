@@ -84,9 +84,10 @@ module.exports = async function(eleventyConfig) {
   eleventyConfig.setLayoutResolution(false);
 
   // Copy assets to build directory
-  eleventyConfig.addPassthroughCopy(`src/assets/images`);
-  eleventyConfig.addPassthroughCopy(`src/assets/fonts`);
   eleventyConfig.addPassthroughCopy(`src/assets/files`);
+  eleventyConfig.addPassthroughCopy(`src/assets/fonts`);
+  eleventyConfig.addPassthroughCopy(`src/assets/images`);
+  eleventyConfig.addPassthroughCopy(`src/assets/media`);
   // Image shortcode
   const imageShortcode = async (
     src,

@@ -38,7 +38,7 @@ The Kentucky native has toured with <span class="h-card p-name">John Mellencamp<
 
 <footer aria-label="Citation">&mdash;&NoBreak;&hairsp;&NoBreak;<cite class="full-citation"><a href="//americansongwriter.com/stoll-vaughan-songwriting-shines-on-so-righteous/" target="_blank" rel="external noopener">Holly Gleason</a>, <cite class="short-work">Stoll Vaughan Is Not Afraid of Writing Big Truths, Proves It on <cite>So Righteous</cite></cite</cite></footer></blockquote>
 
-Vaughan's latest release, <cite><a href="//geo.music.apple.com/us/album/desires-shape/1501505851?itsct=music_box&itscg=30200&at=10ldhk&ls=1&app=music" target="_blank" rel="external noopener">Desire&rsquo;s Shape</a></cite>, debuted in <time datetime="2020-04">April</time>. According to Vaughan&rsquo;s website, all 2020 tour dates are cancelled, presumably due to the coronavirus pandemic.
+Vaughan's latest release, <cite><a href="//geo.music.apple.com/us/album/desires-shape/1501505851?itsct=music_box&itscg=30200&at=10ldhk&ls=1&app=music" target="_blank" rel="external noopener">Desire&rsquo;s Shape</a></cite>, debuted in <time datetime="2020-04">April</time>. According to Vaughan&rsquo;s website, all 2020 tour dates are canceled, presumably due to the coronavirus pandemic.
 
 ## Gallery
 

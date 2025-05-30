@@ -16,7 +16,7 @@
  *     optgroup, fieldset, label, output)
  * 11.  pre
  * 12. kbd
- * 13. figure, picture, img, canvas, video, svg
+ * 13. figure, picture, img, canvas, audio, video, svg
  * 14. dialog
  * 15. iframe
  * 16. Every Layout custom elements
@@ -667,6 +667,11 @@ kbd {
 }
 
 /* figure, picture, img, canvas, video, svg */
+
+audio {
+  inline-size: 100%;
+}
+
 figure {
   padding-block-start: var(--s-1);
   padding-block-end: var(--s1);

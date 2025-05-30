@@ -930,3 +930,9 @@ div.col-5 {
   display: flex;
   justify-content: space-evenly;
 }
+
+/* Comment form */
+
+#cusdis_thread iframe {
+  max-block-size: 600px;
+}

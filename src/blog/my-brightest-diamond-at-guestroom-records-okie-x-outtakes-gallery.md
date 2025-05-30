@@ -74,7 +74,7 @@ Nova is a classically trained singer, composer, producer, and multi-instrumental
 <figure>
   <stack-l>
     <iframe class="aspect aspect-16x9" src="https://www.youtube.com/embed/hIdpmBFvYJY?si=EVNJz7V3sX6OealT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-    <figcaption>My Brightest Diamond — <cite class="short-work">Dorian</cite> Official Audio (Outtake from <cite>A Million and One</cite> sessions)</figcaption>
+    <figcaption>My Brightest Diamond&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;<cite class="short-work">Dorian</cite> Official Audio (Outtake from <cite>A Million and One</cite> sessions)</figcaption>
   </stack-l>
 </figure>
 
