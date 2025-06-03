@@ -22,9 +22,9 @@ excerpt: We previously posted some pictures of electronic world fusion group Bea
 <!-- markdownlint-enable MD025 -->
 <mpb-dialog-img>
 
-{% image "./src/assets/images/blog/2019-03-20-beats-antique-color/czahller-20120912-23-21-46.jpg", "img-constrained", "Feather Dance (III), Beats Antique “Animal Mechanique” Tour", "" %}</mpb-dialog-img>
+{% image "./src/assets/images/blog/2019-03-20-beats-antique-color/czahller-20120912-23-21-46.jpg", "img-constrained", "Feather Dance (III), Beats Antique “Animal Mechanique” Tour", "Feather Dance (III), Beats Antique “Animal Mechanique” Tour" %}</mpb-dialog-img>
 
-We’re moving the bulk of our Flickr photos to their new permanent home.[^1] Back in <time datetime="2012-09-12">2012</time> we [previously posted](/blog/beats-antique-releases-new-music-video-skeleton-key/) some pictures of electronic world fusion group <span class="h-card p-org">Beats Antique</span> at the <span class="h-card p-org">Diamond Ballroom</span>. Here are the remaining color photos from the show. We’ve posted <a href="/blog/black-and-white-gallery-beats-antique-at-the-diamond-ballroom">the remaining black and white images</a> as well.
+We’re moving the bulk of our Flickr photos to their new permanent home.[^1] Back in <time datetime="2012-09-12">2012</time> we [previously posted](/blog/beats-antique-releases-new-music-video-skeleton-key/) some pictures of electronic world fusion group <span class="h-card p-org">Beats Antique</span> at the <span class="h-card p-org">Diamond Ballroom</span>. Here are the remaining color photos from the show. We’ve posted [the remaining black and white images](/blog/black-and-white-gallery-beats-antique-at-the-diamond-ballroom) as well.
 
 [^1]: In response to <a href="//blog.flickr.net/en/2018/11/01/changing-flickr-free-accounts-1000-photos/" target="_blank" rel="external noopener noreferrer">their new terms of service</a>.
 
