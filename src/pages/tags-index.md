@@ -20,7 +20,7 @@ Find Articles by Tag
 {% set sortedTags = collections.blog | taglist %}
 
 <div class="col-3 allow-break">
-  <ul>
+  <ul data-pagefind-weight="0.5">
     {% for tag in sortedTags %}
       <li><a href="/blog/tags/{{ tag | slugify }}">{{ tag }}</a></li>
     {% endfor %}

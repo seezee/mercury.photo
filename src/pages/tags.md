@@ -15,7 +15,7 @@ eleventyExcludeFromCollections: true
 # {{ title }}
 <!-- markdownlint-enable MD025 -->
 
-<ol class="taglist">
+<ol class="taglist" data-pagefind-weight="0.5">
 {% set taglist = collections[ tag ] %}
 {% for post in taglist | reverse %}
   <li>

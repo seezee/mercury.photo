@@ -3,7 +3,7 @@
 <p>
   {% for tag in tags -%}
     {% if tag !== 'blog' %}
-      <a href="/blog/tags/{{ tag | slugify | safe }}" class="tag-link">{{ tag | safe }}</a>
+      <a href="/blog/tags/{{ tag | slugify | safe }}" class="tag-link" data-pagefind-weight="0.5">{{ tag | safe }} </a>
       {% if not loop.last %}&#32;|&#32;
       {% endif %}
     {% endif %}

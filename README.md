@@ -2,7 +2,7 @@
 
 * Contributors: Chris J. Zähller (seezee)
 * Author URI: <https://github.com/seezee>
-* Version: 1.0.61
+* Version: 1.0.62
 * License: [GNUv3](https://www.gnu.org/licenses/gpl-3.0.en.html) or later
 * License URI: <https://www.gnu.org/licenses/gpl-3.0.html>
 * tags: photography, music, journalism
@@ -20,12 +20,17 @@ A site dedicated to photography, music, and news. Home of the OKIE-X portrait pr
 - [Mercury Photo Bureau](#mercury-photo-bureau)
   - [:notebook\_with\_decorative\_cover: Table of Contents](#notebook_with_decorative_cover-table-of-contents)
     - [:bulb: About the Project](#bulb-about-the-project)
+      - [Brand Mark](#brand-mark)
     - [:pencil: License](#pencil-license)
     - [:mailbox\_with\_mail: Contact](#mailbox_with_mail-contact)
 
 ### :bulb: About the Project
 
 A site dedicated to photography, music, and news. Home of the OKIE-X portrait project.
+
+#### Brand Mark
+
+The brand mark is set in Funkydori Bold by Laura Worthington Type.
 
 ### :pencil: License
 
