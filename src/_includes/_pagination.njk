@@ -1,6 +1,6 @@
 <!-- Blog -->
-{% set previousPost = collections.blog | getPreviousCollectionItem %}
-{% set nextPost = collections.blog | getNextCollectionItem %}
+{% set previousPost = collections.blog | sortByPubDate | getPreviousCollectionItem %}
+{% set nextPost = collections.blog | sortByPubDate | getNextCollectionItem %}
 
 {% if previousPost or nextPost %}
   <nav id="pagination" aria-label="pagination">

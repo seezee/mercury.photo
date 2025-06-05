@@ -31,7 +31,10 @@ excerpt: My first encounter with the music of My Brightest Diamond was a track o
 
 {% image "./src/assets/images/blog/2019-04-17-my-brightest-diamond/czahller-20190406-14-48-35.jpg", "img-constrained", "Shara Nova (Outtake 2) — OKIE-X (Oklahoma Musicians on X-ray Film)", "Shara Nova (Outtake 2) — OKIE-X (Oklahoma Musicians on X-ray Film)" %}</mpb-dialog-img>
 
+<div class="drop-cap">
+
 My first encounter with the music of <span class="h-card p-org"><a href="https://geo.itunes.apple.com/us/artist/my-brightest-diamond/174818899?mt=1&app=music&at=10ldhk" target="_ blank" rel="external noopener">My Brightest Diamond</a></span> was a track on a <span class="h-card p-org">RED + HOT</span> compilation.[^1] During the summer break, my neighbor’s teenage daughter and her friend used to hang out in my living room and spin CDs on my hi-fi. One day she brought over <cite><a href="https://geo.itunes.apple.com/us/album/dark-was-the-night/303463575?mt=1&app=music&at=10ldhk" target="_blank" rel="external noopener">Dark Was the Night</a></cite>, the fifteenth entry in the RED + HOT series.
+</div>
 
 [^1]: Founded in <time datetime="1990">1990</time>, <a href="https://redhot.org/" target="_blank" rel="external noopener">RED HOT</a> is dedicated to fighting HIV/AIDS through popular culture. In the past quarter-century over 500 artists, producers, and directors have contributed to twenty-four compilation albums, three films, and other media to raise money for HIV/AIDS research and promote HIV/AIDS awareness. Readers may remember the <q>Safe sex is hot sex</q> campaign or the ubiquitous public service announcements shown on MTV, VH-1, and other media outlets.
 
