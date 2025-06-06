@@ -533,6 +533,10 @@ div.col-5 {
   list-style: none;
 }
 
+[id^="fnref\:"] a {
+  color: var(--mpb-color-accent);
+}
+
 #fnref\:1 {
   anchor-name: --fn-1;
 }
@@ -723,6 +727,10 @@ div.col-5 {
 
     @supports (anchor-name: --sidenote) {
       position: absolute;
+    }
+
+    &::marker {
+      color: var(--mpb-color-accent);
     }
   }
 
