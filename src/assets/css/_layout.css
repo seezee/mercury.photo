@@ -574,6 +574,46 @@ div.col-5 {
   anchor-name: --fn-10;
 }
 
+#fnref\:11 {
+  anchor-name: --fn-11;
+}
+
+#fnref\:12 {
+  anchor-name: --fn-12;
+}
+
+#fnref\:13 {
+  anchor-name: --fn-13;
+}
+
+#fnref\:14 {
+  anchor-name: --fn-14;
+}
+
+#fnref\:15 {
+  anchor-name: --fn-15;
+}
+
+#fnref\:16 {
+  anchor-name: --fn-16;
+}
+
+#fnref\:17 {
+  anchor-name: --fn-17;
+}
+
+#fnref\:18 {
+  anchor-name: --fn-18;
+}
+
+#fnref\:19 {
+  anchor-name: --fn-19;
+}
+
+#fnref\:20 {
+  anchor-name: --fn-20;
+}
+
 #mnref\:1 {
   anchor-name: --mn-1;
 }
@@ -602,7 +642,6 @@ div.col-5 {
   anchor-name: --mn-7;
 }
 
-
 #mnref\:8 {
   anchor-name: --mn-8;
 }
@@ -613,6 +652,46 @@ div.col-5 {
 
 #mnref\:10 {
   anchor-name: --mn-10;
+}
+
+#mnref\:11 {
+  anchor-name: --mn-11;
+}
+
+#mnref\:12 {
+  anchor-name: --mn-12;
+}
+
+#mnref\:13 {
+  anchor-name: --mn-13;
+}
+
+#mnref\:14 {
+  anchor-name: --mn-14;
+}
+
+#mnref\:15 {
+  anchor-name: --mn-15;
+}
+
+#mnref\:16 {
+  anchor-name: --mn-16;
+}
+
+#mnref\:17 {
+  anchor-name: --mn-17;
+}
+
+#mnref\:18 {
+  anchor-name: --mn-18;
+}
+
+#mnref\:19 {
+  anchor-name: --mn-19;
+}
+
+#mnref\:20 {
+  anchor-name: --mn-20;
 }
 
 /* Fixes notes being too wide on small mobile devices. */
@@ -692,6 +771,46 @@ div.col-5 {
     position-anchor: --fn-10;
   }
 
+  #fn\:11 {
+    position-anchor: --fn-11;
+  }
+
+  #fn\:12 {
+    position-anchor: --fn-12;
+  }
+
+  #fn\:13 {
+    position-anchor: --fn-13;
+  }
+
+  #fn\:14 {
+    position-anchor: --fn-14;
+  }
+
+  #fn\:15 {
+    position-anchor: --fn-15;
+  }
+
+  #fn\:16 {
+    position-anchor: --fn-16;
+  }
+
+  #fn\:17 {
+    position-anchor: --fn-17;
+  }
+
+  #fn\:18 {
+    position-anchor: --fn-18;
+  }
+
+  #fn\:19 {
+    position-anchor: --fn-19;
+  }
+
+  #fn\:20 {
+    position-anchor: --fn-20;
+  }
+
   #mn\:1 {
     position-anchor: --mn-1;
     inset-block-start: calc(anchor(start) - var(--s1));
@@ -735,6 +854,46 @@ div.col-5 {
 
   #mn\:10 {
     position-anchor: --mn-10;
+  }
+
+  #mn\:11 {
+    position-anchor: --mn-11;
+  }
+
+  #mn\:12 {
+    position-anchor: --mn-12;
+  }
+
+  #mn\:13 {
+    position-anchor: --mn-13;
+  }
+
+  #mn\:14 {
+    position-anchor: --mn-14;
+  }
+
+  #mn\:15 {
+    position-anchor: --mn-15;
+  }
+
+  #mn\:16 {
+    position-anchor: --mn-16;
+  }
+
+  #mn\:17 {
+    position-anchor: --mn-17;
+  }
+
+  #mn\:18 {
+    position-anchor: --mn-18;
+  }
+
+  #mn\:19 {
+    position-anchor: --mn-19;
+  }
+
+  #mn\:20 {
+    position-anchor: --mn-20;
   }
 }
 
