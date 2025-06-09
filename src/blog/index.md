@@ -23,7 +23,7 @@ If you don't see the post you are looking for or a link directs you to nowhere, 
   <li role="listitem">
     <stack-l>
       <h2 data-pagefind-weight="0.5"><a href="{{ post.url }}">{{ post.data.title | safe }}</a></h2>
-      <a href="{{ post.url }}"><img src="{{ post.data.image | safe }}" alt="Read “{{ post.data.title | safe }}”" /></a>
+      <a href="{{ post.url }}"><img src="{{ post.data.image | safe }}" alt="Read “{{ post.data.title | safe }}”" loading="lazy" /></a>
       <small>
         {% if post.data.pubdate %}
           <time datetime="{{ post.data.pubdate | toISOString | safe}}">{{ post.data.pubdate.toUTCString() | safe}}</time>

@@ -30,6 +30,9 @@ export default class DialogGallery extends HTMLElement {
     // Add attribute for kbd accessibility.
     imgNodeList.forEach(imgNodeList => imgNodeList.setAttribute(`tabindex`, `0`));
 
+    // Lazy load.
+    imgNodeList.forEach(imgNodeList => imgNodeList.setAttribute(`loading`, `lazy`));
+
     // Convert the nodelist to HTML so we can append it to the modal.
     imgListHtml = Array.prototype.reduce.call(imgNodeList, function(html, node) {
       return html + ( node.outerHTML || node.nodeValue );
@@ -54,7 +57,7 @@ export default class DialogGallery extends HTMLElement {
             <div class="gallery--img_main">
               <figure>
                 <stack-l>
-                  <img src="${defaultSrc}" alt="${defaultAlt}" id="current">
+                  <img src="${defaultSrc}" alt="${defaultAlt}" id="current" loading="lazy">
                   <figcaption></figcaption>
                 </stack-l>
               </figure>
