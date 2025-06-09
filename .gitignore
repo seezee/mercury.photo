@@ -178,5 +178,4 @@ cython_debug/
 _site
 
 # Dev
-rum-equivalents.ods
-.~lock.rum-equivalents.ods#
+.nvmrc
