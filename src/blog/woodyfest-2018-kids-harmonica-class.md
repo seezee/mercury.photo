@@ -37,6 +37,11 @@ By the time we ready to move to our next assignment the class had played their f
 
 ## Gallery
 
+<mpb-callout type="note">
+
+While restoring this post in <time datetime="2025-06-10">2025</time>, we noticed the color-grading on these photos had a blue-green cast from the fluorescent lights. We’ve taken the opportunity to regrade them to a more natural color.
+</mpb-callout>
+
 <mpb-dialog-gallery hint rel cols="8">
   
   ![Students & Teachers — Kid’s Harmonica Class, 21st Annual Woody Guthrie Festival, 2018](/assets/images/blog/2019-01-11-woodyfest-kids-harmonica-class/czahller-20180714-12-45-08.jpg)

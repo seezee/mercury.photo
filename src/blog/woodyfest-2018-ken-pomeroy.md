@@ -9,7 +9,7 @@ tags:
   - photo gallery
   - reportage
   - Americana
-  - contemporary folk
+  - folk, contemporary
   - singer-songwriter
   - festival
   - folk

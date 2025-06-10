@@ -7,7 +7,7 @@ const esbuild                     = require('esbuild');
 const { execSync }                = require('child_process')
 const { feedPlugin }              = require('@11ty/eleventy-plugin-rss');
 const format                      = require('date-fns/format');
-const { govukEleventyPlugin }     = require("@x-govuk/govuk-eleventy-plugin");
+const { govukEleventyPlugin }     = require('@x-govuk/govuk-eleventy-plugin');
 const Image                       = require('@11ty/eleventy-img');
 const markdownIt                  = require('markdown-it');
 const markdownItAnchor            = require('markdown-it-anchor');
@@ -209,7 +209,7 @@ module.exports = async function(eleventyConfig) {
     let vals = [...values];     // this *seems* to prevent collection mutation...
     return vals.sort((a, b) => Math.sign(a.data.pubdate - b.data.pubdate));
   }
-  eleventyConfig.addFilter("sortByPubDate", sortByPubDate);
+  eleventyConfig.addFilter(`sortByPubDate`, sortByPubDate);
   // Tags index
   eleventyConfig.addFilter(`taglist`, function(collection) {
     const ignoredTags = [`blog`, `all`];
