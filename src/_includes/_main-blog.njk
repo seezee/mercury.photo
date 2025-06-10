@@ -6,7 +6,11 @@ layout: layout-blog.njk
     <article class="post" data-pagefind-body>
       <stack-l>
         {{ content | safe }}
-        <small id="pubdate">Published <time datetime="{{ page.date | toISOString | safe }}">{{ page.date.toUTCString() | safe }}</time></small>
+        {% if pubdate %}
+          <small id="pubdate">Published <time datetime="{{ pubdate | toISOString | safe }}">{{ pubdate.toUTCString() | safe }}</time></small>
+        {% else %}
+          No publication date found
+        {% endif %}
         {% include "_pagination.njk" %}
       </stack-l>
     </article>

@@ -52,7 +52,7 @@ I finally got to see Nova at <time datetime="2018-04-28T07:00:00-5:00">the 2018<
 
 {% image "./src/assets/images/blog/2019-04-17-my-brightest-diamond/czahller-20180428-20-01-12.jpg", "img-constrained", "Looking over Aaron’s Drumkit — 11th Annual Norman Music Festival", "Looking over Aaron’s Drumkit — 11th Annual Norman Music Festival" %}</mpb-dialog-img>
 
-As readers of this blog know, I’ve been photographing Oklahoma musicians for <a href="/okie-x/">OKIE-X</a> since <time datetime="2016">2016</time>. The project definition for an “Oklahoma musician” is pretty liberal&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;to qualify, each subject must be a current or former Oklahoma resident who is a current or former singer, rapper, instrumentalist, songwriter, arranger, composer, or producer who performs or performed in public or makes or made their music available to the public via physical media or online. <em>Phew!</em> Try saying that three times really fast!
+As readers of this blog know, I’ve been photographing Oklahoma musicians for <a href="/okie-x/">OKIE-X</a> since <time datetime="2016">2016</time>. The project definition for an “Oklahoma musician” is pretty liberal&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;to qualify, each subject must be a current or former Oklahoma resident who is a current or former singer, rapper, instrumentalist, songwriter, arranger, composer, or producer who performs or performed in public or makes or made their music available to the public via physical media or online. *Phew!* Try saying that three times really fast!
 
 Naturally, I vowed to get Nova into the studio <span class="foreign" lang="fr">tout suite</span>.
 

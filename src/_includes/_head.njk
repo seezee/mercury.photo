@@ -161,4 +161,10 @@
   {% seo "" %}
   <!-- Facebook -->
   <meta property="og:image" content="https://mercury.photo{{ image }}" />
+  <!-- Structured data -->
+  {% if recipe %}
+    {{ recipe | safe }}
+  {% else %}
+  <meta property="error-message" content="Property not found" />
+  {% endif %}
 </head>

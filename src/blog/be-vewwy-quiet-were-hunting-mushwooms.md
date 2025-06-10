@@ -16,6 +16,73 @@ date: Last Modified
 pubdate: 2019-04-19T12:00:39+00:00
 image: /assets/images/blog/2019-04-19-mushroom-hunt/czahller-20190408-16-45-43.jpg
 excerpt: My friend RT Valine and his wife Jackie were visiting the Bureau one evening and we got to discussing food and cooking. When the conditions are right, the Valines have access to wild morel mushrooms.
+recipe: '<script type="application/ld+json">
+{
+ "@context": "http://schema.org/",
+ "@type": "Recipe",
+ "name": "Scrambled Eggs",
+ "image": [
+  ""
+ ],
+ "recipeCategory": "Breakfast, Entrée",
+ "prepTime": "PT5M",
+ "cookTime": "PT5M",
+ "totalTime": "PT10M",
+ "recipeYield": "1",
+ "datePublished": "2019-04-19",
+ "description": "Delicate scrambled eggs with soft curds, perfect to pair with buttered toast and sautéed morels.",
+ "keywords": "eggs",
+ "author": {
+  "@type": "Person",
+  "name": "Chris J. Zähller"
+ },
+ "nutrition": {
+  "@type": "NutritionInformation",
+  "calories": "615 calories",
+  "carbohydrateContent": "4.8",
+  "fatContent": "53",
+  "proteinContent": "30",
+  "sodiumContent": "0.8",
+  "sugarContent": "0"
+ },
+ "recipeIngredient": [
+  "3 farm fresh eggs",
+  "2 teaspoons chives, minced",
+  "2 ounces cheese, sharp, grated",
+  "1 ounce cream, heavy whipping",
+  "(to taste) salt, kosher",
+  "(to taste) black pepper, fresh ground",
+  "1½ tablespoons butter, unsalted"
+ ],
+ "recipeInstructions": [
+  {
+   "@type": "HowToStep",
+   "name": "Melt",
+   "text": "Melt butter in a well-seasoned cast-iron or non-stick pan over low heat."
+  },
+  {
+   "@type": "HowToStep",
+   "name": "Mix",
+   "text": "Combine all ingredients except butter in a bowl. Using a heat-proof silicone spatula, gently break the yolks and fold them in. Do not overmix."
+  },
+  {
+   "@type": "HowToStep",
+   "name": "Cook",
+   "text": "Pour the eggs into the middle of the pan. As the eggs begin to set, use the spatula to move the eggs from the pan edge to the center, occasionally turning the mixture over. Do not allow eggs to stick or dry out; keep them moving. The mixture should form large, soft curds. Remove the pan from the heat as needed to regulate the temperature."
+  },
+  {
+   "@type": "HowToStep",
+   "name": "Plate",
+   "text": "When the eggs are barely set⁠ ⁠—⁠ ⁠they should be shiny and slightly runny⁠ ⁠—⁠ ⁠transfer them to a warm plate. Taste for seasoning, adjusting if needed, and keep in a warm oven until ready to serve."
+  },
+  {
+   "@type": "HowToStep",
+   "name": "Serve",
+   "text": "Serve with morels (sliced cross-wise and sautéed in butter) and toast points."
+  }
+ ]
+}
+</script>'
 ---
 <!-- markdownlint-disable MD025 -->
 <hgroup><stack-l>
