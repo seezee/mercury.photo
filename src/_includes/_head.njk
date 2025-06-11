@@ -184,13 +184,17 @@
             }
           },
           {% if title %}
-          "headline": "{{ title }}",
+            "headline": "{{ title }}",
           {% endif %}
           {% if image %}
-          "image": "https://mercury.photo{{ image }}",
+            "image": "https://mercury.photo{{ image }}",
+          {% else %}
+            "image": "https://mercury.photo/assets/images/site/mpb-logo.webp"
           {% endif %}
           {% if pubdate %}
-          "datePublished": "{{ pubdate | toISOString | safe }}",
+            "datePublished": "{{ pubdate | toISOString | safe }}",
+          {% else %}
+            "datePublished": "{{ page.date | toISOString | safe }}"
           {% endif %}
           "dateModified": "{{ page.date | toISOString | safe }}"
         }
