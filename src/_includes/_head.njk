@@ -164,7 +164,37 @@
   <!-- Structured data -->
   {% if recipe %}
     {{ recipe | safe }}
-  {% else %}
-  <meta property="error-message" content="Property not found" />
   {% endif %}
+  {%- if '/blog' in page.url -%}
+    {% if not index %}
+      <script type="application/ld+json">
+        {
+          "@context": "http://schema.org/",
+          "@type": "Article",
+          "author": {
+            "@type": "Person",
+            "name": "Chris J. Zähller"
+          },
+          "publisher": {
+            "@type": "Organization",
+            "name": "Mercury Photo Bureau",
+            "logo": {
+              "@type": "ImageObject",
+              "url": "https://mercury.photo/assets/images/site/mpb-logo.webp"
+            }
+          },
+          {% if title %}
+          "headline": "{{ title }}",
+          {% endif %}
+          {% if image %}
+          "image": "https://mercury.photo{{ image }}",
+          {% endif %}
+          {% if pubdate %}
+          "datePublished": "{{ pubdate | toISOString | safe }}",
+          {% endif %}
+          "dateModified": "{{ page.date | toISOString | safe }}"
+        }
+      </script>
+    {% endif %}
+  {%- endif -%}
 </head>

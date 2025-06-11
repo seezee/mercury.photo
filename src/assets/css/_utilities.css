@@ -36,9 +36,8 @@
   }
 }
 
-/* .sr-only, .keywords, .govuk-visually-hidden */
+/* .sr-only, .govuk-visually-hidden */
 .sr-only,
-.keywords,
 .govuk-visually-hidden {
 
   &:not(:focus-visible) {
@@ -228,6 +227,14 @@ figcaption {
     font-weight: 800;
   }
 }
+
+/* People & Orgs */
+
+.h-card {
+  font-weight: var(--bold, 700);
+}
+
+/* Icons */
 
 .icon-before svg {
   margin-inline-end: .5em;

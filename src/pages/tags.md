@@ -21,7 +21,11 @@ eleventyExcludeFromCollections: true
   <li>
     <stack-l>
       <h2><a href="{{ post.url }}">{{ post.data.title | safe }}</a></h2>
-      <small><time datetime="{{ post.date | safe}}">{{ post.date | safe}}</small>
+      <small>
+        {% if post.data.pubdate %}
+          <time datetime="{{ post.data.pubdate | toISOString | safe}}">{{ post.data.pubdate.toUTCString() | safe}}</time>
+        {% endif %}
+      </small>
       <p>{{ post.data.excerpt | safe }}</p>
       <hr />
     </stack-l>

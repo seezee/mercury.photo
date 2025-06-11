@@ -2,6 +2,7 @@
 layout: layout-blog-index.njk
 title: Blog
 index: true
+tags: index
 excerpt: Index of blog posts at Mercury Photo Bureau
 image: /assets/images/icons/mpb-logo.svg
 eleventyExcludeFromCollections: true

@@ -11,7 +11,7 @@ tags:
 date: Last Modified
 pubdate: 2022-12-01T15:49:05-06:00
 image: /assets/images/blog/2022-01-12-rip-jake-flint/czahller-20220714-13-19-25.jpg
-excerpt: Oklahoma Red Dirt musician Jake Flint, age 37, died Sunday, mere hours after marrying his fiancée, Brenda.
+excerpt: Oklahoma Red Dirt musician Jake Flint, age 37, died Sunday mere hours after marrying his fiancée Brenda.
 ---
 <!-- markdownlint-disable MD025 -->
 <hgroup><stack-l>
@@ -29,7 +29,7 @@ According to an article in <a href="https://www.oklahoman.com/story/lifestyle/20
 </mpb-callout>
 <div class="drop-cap">
 
-Oklahoma Red Dirt musician <span class="h-card p-name">Jake Flint</span>, age 37, died <time datetime="2022-27-11">Sunday</time>, mere hours after marrying his fiancée, Brenda.[^1] His longtime publicist Clif Doyal confirmed to The Oklahoman that the Red Dirt musician died in his sleep hours after saying his vows.
+Oklahoma Red Dirt musician <span class="h-card p-name">Jake Flint</span>, age 37, died <time datetime="2022-27-11">Sunday</time> mere hours after marrying his fiancée Brenda.[^1] His longtime publicist Clif Doyal confirmed to The Oklahoman that the Red Dirt musician died in his sleep hours after saying his vows.
 </div>
 
 [^1]: <span class="h-card p-name">McDonnell, Brandy</span>, <cite class="short-work"><a href="https://www.usatoday.com/story/entertainment/2022/11/29/jake-flint-death-obit-oklaoma-red-dirt-singer-songwriter-dies-hours-after-wedding/69683252007/" target="_blank" rel="external noopener">Oklahoma, Red Dirt singer-songwriter Jake Flint, 37, dies just hours after his wedding</a></cite>, <cite>The Oklahoman</cite>, <time datetime="2022-27-11">27 November 2022</time>
