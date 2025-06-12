@@ -41,6 +41,8 @@
       <lastBuildDate>{{ post.date | dateToRfc822 }}</lastBuildDate>
       <dc:creator>{{ metadata.author.name }}</dc:creator>
       <guid>{{ absolutePostUrl }}</guid>
+      <enclosure url="https://mercury.photo/{{ post.data.image }}"
+    length="{{ post.data.image | getImgSizeInBytes }}" type="image/jpeg" />
     </item>
     {%- endfor %}
   </channel>

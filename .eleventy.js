@@ -56,6 +56,8 @@ function extractFirstImage(doc) {
   return ``;
 }
 
+const siteURL = `https://mercury.photo`
+
 module.exports = async function(eleventyConfig) {
 
   const {EleventyRenderPlugin} = await import(`@11ty/eleventy`);
@@ -169,7 +171,7 @@ module.exports = async function(eleventyConfig) {
   eleventyConfig.addPlugin(pluginSEO, {
     title: `Mercury Photo Bureau`,
     description: `Rangefinder + Mirrorless Digital + Large Format Film Photography + Music, Arts, & News`,
-    url: `https://mercury.photo`,
+    url: siteURL,
     author: `Chris J. Zähller`,
     twitter: `czahller`,
     options: {
@@ -191,7 +193,7 @@ module.exports = async function(eleventyConfig) {
 			language: `en-US`,
 			title: `Mercury Photo Bureau`,
 			subtitle: `Rangefinder + Mirrorless Digital + Large Format Film Photography + Music, Arts, &amp; News`,
-			base: `https://mercury.photo/`,
+			base: siteURL + `/`,
 			author: {
 				name: `Chris J. Zähller`
 				// email: ``, // Optional
@@ -204,6 +206,12 @@ module.exports = async function(eleventyConfig) {
   */
   const toISOString = (dateString) => new Date(dateString).toISOString();
   eleventyConfig.addFilter(`toISOString`, toISOString);
+  // Convert length to bytes
+  eleventyConfig.addAsyncFilter(`getImgSizeInBytes`, async function (value) {
+    const fileImg = await fetch(siteURL + value).then(r => r.blob());
+
+    return fileImg.size;
+  });
   // Sort blog entries
   function sortByPubDate(values) {
     let vals = [...values];     // this *seems* to prevent collection mutation...
@@ -306,7 +314,7 @@ module.exports = async function(eleventyConfig) {
   // Set custom directory for input; otherwise use defaults
   return {
     // Site URL
-    url: `https://mercury.photo`,
+    url: siteURL,
     // When a passthrough file is modified, rebuild the pages:
     passthroughFileCopy: true,
     // Copy any file in these formats:
