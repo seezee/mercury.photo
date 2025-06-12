@@ -388,7 +388,7 @@ details {
 
 summary {
   display: inline-flex;
-  align-items: safe center;
+  align-items: center safe;
   padding-block: var(--s-4);
   padding-inline: var(--s1);
 
@@ -745,7 +745,7 @@ icon-l {
   }
 
   &.bigger {
-    align-items: safe center;
+    align-items: center safe;
 
     & .icon,
     & .icon-sprite svg {
@@ -783,6 +783,12 @@ a[href^='https://']:not([href*='mercury.photo']):not([href*='localhost']):not(.s
   block-size: 1lh;
 
   content: '\2060' var(--mpb-external-icon) '\2060' / 'Opens in new window';
+}
+
+blockquote footer a[href^='http://']:not([href*='mercury.photo']):not([href*='localhost']):not(.social-link):after,
+a[href^='https://']:not([href*='mercury.photo']):not([href*='localhost']):not(.social-link):after {
+  margin-inline-start: 1ch;
+  margin-inline-end: -.5ch;
 }
 
 /* code, math */

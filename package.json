@@ -1,13 +1,12 @@
 {
   "name": "mercury.photo",
-  "version": "1.0.73",
+  "version": "1.0.74",
   "description": "Rangefinder + Mirrorless Digital + Large Format Film Photography + Music, Arts, & News",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "npx @11ty/eleventy --serve --incremental",
-    "build": "npx @11ty/eleventy",
-    "knip": "knip"
+    "build": "npx @11ty/eleventy"
   },
   "keywords": [
     "photography",
@@ -18,7 +17,7 @@
   "author": "Chris J. Zähller",
   "license": "GPL-3.0-or-later",
   "dependencies": {
-    "@11ty/eleventy": "^3.0.0",
+    "@11ty/eleventy": "^3.1.1",
     "@11ty/eleventy-img": "^3.1.8",
     "@11ty/eleventy-plugin-rss": "^2.0.3",
     "eleventy-plugin-seo": "^0.5.2"
