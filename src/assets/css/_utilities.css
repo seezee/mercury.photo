@@ -219,6 +219,7 @@ figcaption {
   &::after {
     content: "{";
     padding-inline-start: .06667rem;
+    color: var(--mpb-color-accent);
   }
 }
 
