@@ -1,0 +1,25 @@
+{
+  "$schema": "https://openapi.vercel.sh/vercel.json",
+  "redirects": [
+    {
+      "source": "/3-score-times-around-the-sun",
+      "destination": "/blog/3-score-times-around-the-sun",
+      "permanent": true
+    },
+    {
+      "source": "/be-vewwy-quiet-were-hunting-mushwooms",
+      "destination": "/blog/be-vewwy-quiet-were-hunting-mushwooms",
+      "permanent": true
+    },
+    {
+      "source": "/black-and-white-gallery-beats-antique-at-the-diamond-ballroom",
+      "destination": "/blog/black-and-white-gallery-beats-antique-at-the-diamond-ballroom",
+      "permanent": true
+    },
+    {
+      "source": "/brad-fielder-dan-martin-song-swap-at-the-deli",
+      "destination": "/blog/brad-fielder-dan-martin-song-swap-at-the-deli",
+      "permanent": true
+    }
+  ]
+}
