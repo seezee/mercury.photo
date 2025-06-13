@@ -139,12 +139,11 @@
     {
       "source": "/woodyfest-2014-dan-weber",
       "destination": "/blog/woodyfest-2014-dan-weber",
-      "destination": "",
       "permanent": true
     },
     {
-      "source": "/Users/chriszahller/Documents/projects/mercury.photo//blog/woodyfest-2014-john-wort-hannam",
-      "destination": "/Users/chriszahller/Documents/projects/mercury.photo//blog/woodyfest-2014-john-wort-hannam",
+      "source": "/woodyfest-2014-john-wort-hannam",
+      "destination": "/blog/woodyfest-2014-john-wort-hannam",
       "permanent": true
     },
     {
