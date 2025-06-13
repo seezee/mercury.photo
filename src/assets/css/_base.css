@@ -786,7 +786,7 @@ a[href^='https://']:not([href*='mercury.photo']):not([href*='localhost']):not(.s
 }
 
 blockquote footer a[href^='http://']:not([href*='mercury.photo']):not([href*='localhost']):not(.social-link):after,
-a[href^='https://']:not([href*='mercury.photo']):not([href*='localhost']):not(.social-link):after {
+blockquote footer a[href^='https://']:not([href*='mercury.photo']):not([href*='localhost']):not(.social-link):after {
   margin-inline-start: 1ch;
   margin-inline-end: -.5ch;
 }
