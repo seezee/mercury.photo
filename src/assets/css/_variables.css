@@ -224,7 +224,8 @@ initial-value: 0.1;
   --s5:  clamp(3.05rem,2.04rem +  5.07vw,5.65rem);
   --measure: 65ch;
   --line-height: var(--ratio);
-  --line-height-small: calc(0.8*var(--ratio));
+  --line-height-sm: calc(0.8*var(--ratio));
+  --line-height-lg: calc(1.2*var(--ratio));
   --border-thin: var(--s-5);
   --border-thick: var(--s-2);
 

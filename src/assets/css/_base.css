@@ -100,6 +100,11 @@ html {
     overflow: hidden;
   }
 
+  /* For browsers that support `scrollbar-*` properties */
+  @supports (scrollbar-color: auto) {
+    scrollbar-color: var(--mpb-color-accent) transparent;
+  }
+
   font-family: var(--mpb-font-default);
   font-weight: var(--normal, 500);
   font-style: normal;
@@ -121,6 +126,13 @@ html {
 
   @starting-style {
     transition: background-color 0s ease, color 0s ease;
+  }
+}
+
+/* `::-webkit-scrollbar-*` pseudo-elements for Safari */
+@supports selector(::-webkit-scrollbar) {
+  *::-webkit-scrollbar-thumb {
+    background-color: var(--mpb-color-accent);
   }
 }
 
@@ -232,7 +244,8 @@ i, em {
 }
 
 /* blockquote */
-blockquote {
+blockquote,
+.pullquote {
   text-indent: -0.45em;
   margin-inline: 2.5rem;
   quotes: "\201C" "\201D" "\2018""\2019";
@@ -240,8 +253,8 @@ blockquote {
   &::before {
     position: relative;
     inset-inline-start: -.75ch;
-    inset-block-start: 2ex;
-    font-size: 2rem;
+    inset-block-start: 1.5ex;
+    font-size: calc(var(--mpb-font-size-5) * 2);
     content: open-quote;
   }
 
@@ -255,9 +268,21 @@ blockquote {
 }
 
 @supports (hanging-punctuation: first) {
-  blockquote {
+  blockquote,
+  .pullquote {
     text-indent: 0;
     hanging-punctuation: first allow-end last;
+  }
+}
+
+.pullquote {
+  margin-block-start: 0!important;
+  font-size: var(--mpb-font-size-3);
+  line-height: var(--line-height-lg);
+
+  &::before {
+    inset-block-start: 2ex;
+    line-height: 1;
   }
 }
 

@@ -15,6 +15,21 @@ const makeIframeContent = (target) => {
       window.__DATA__ = ${JSON.stringify(target.dataset)}
     <\/script>
     <style>
+
+      html {
+        /* For browsers that support scrollbar-* properties */
+        @supports (scrollbar-color: auto) {
+          scrollbar-color: var(--mpb-color-accentReverse) transparent;
+        }
+      }
+
+      /* Otherwise, use ::-webkit-scrollbar-* pseudo-elements */
+      @supports selector(::-webkit-scrollbar) {
+        *::-webkit-scrollbar-thumb {
+          background-color: var(--mpb-color-accentReverse);
+        }
+      }
+
       iframe {
         block-size: 100vh;
       }
@@ -79,9 +94,7 @@ const makeIframeContent = (target) => {
   </head>
   <body>
     <div id="root"></div>
-    <script src="${iframeJsPath}" type="module">
-
-    <\/script>
+    <script src="${iframeJsPath}" type="module"><\/script>
   </body>
 </html>`;
 };

@@ -330,6 +330,11 @@
       "source": "/woodyfest-2019-wink-burcham/",
       "destination": "/blog/woodyfest-2019-wink-burcham/",
       "permanent": true
+    },
+    {
+      "source": "/woodyfest-2018-kalyn-fay/",
+      "destination": "/blog/woodyfest-2018-kalyn-fay/",
+      "permanent": true
     }
   ]
 }

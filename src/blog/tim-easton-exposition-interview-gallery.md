@@ -171,7 +171,7 @@ Before I interviewed Easton<a href="#mn:1" id="mnref:1" class="sr-only">[See not
 
 {% image "./src/assets/images/blog/2018-12-19-tim-easton-exposition/tim-easton-exposition-lp-jacket-front.png", "img-constrained", "Tim Easton — Exposition Album Front Jacket", "Tim Easton&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;Exposition Album Front Jacket" %}</mpb-dialog-img>
 
-After this article published Easton licensed several of the images from the shoot for the <cite>Exposition</cite> LP and <abbr>CD, which he commissioned me to design. I also designed a promotional poster. <a href="https://messengerwebdesign.com/portfolio/tim-easton-exposition-album-design-package/" target="_blank" rel="external me">You can see the final designs here</a>.
+After the bureau published this article, Easton licensed several of the images from the shoot for the <cite>Exposition</cite> LP and <abbr>CD, which he commissioned me to design. I also designed a promotional poster. <a href="https://messengerwebdesign.com/portfolio/tim-easton-exposition-album-design-package/" target="_blank" rel="external me">You can see the final designs here</a>.
 
   </stack-l></li>
   </ul>
