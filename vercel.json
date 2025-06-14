@@ -330,11 +330,6 @@
       "source": "/woodyfest-2019-wink-burcham/",
       "destination": "/blog/woodyfest-2019-wink-burcham/",
       "permanent": true
-    },
-    {
-      "source": "/",
-      "destination": "/",
-      "permanent": true
     }
   ]
 }
