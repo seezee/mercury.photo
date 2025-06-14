@@ -2,338 +2,338 @@
   "$schema": "https://openapi.vercel.sh/vercel.json",
   "redirects": [
     {
-      "source": "/3-score-times-around-the-sun",
-      "destination": "/blog/3-score-times-around-the-sun",
+      "source": "/3-score-times-around-the-sun/",
+      "destination": "/blog/3-score-times-around-the-sun/",
       "permanent": true
     },
     {
-      "source": "/be-vewwy-quiet-were-hunting-mushwooms",
-      "destination": "/blog/be-vewwy-quiet-were-hunting-mushwooms",
+      "source": "/be-vewwy-quiet-were-hunting-mushwooms/",
+      "destination": "/blog/be-vewwy-quiet-were-hunting-mushwooms/",
       "permanent": true
     },
     {
-      "source": "/black-and-white-gallery-beats-antique-at-the-diamond-ballroom",
-      "destination": "/blog/black-and-white-gallery-beats-antique-at-the-diamond-ballroom",
+      "source": "/black-and-white-gallery-beats-antique-at-the-diamond-ballroom/",
+      "destination": "/blog/black-and-white-gallery-beats-antique-at-the-diamond-ballroom/",
       "permanent": true
     },
     {
-      "source": "/brad-fielder-dan-martin-song-swap-at-the-deli",
-      "destination": "/blog/brad-fielder-dan-martin-song-swap-at-the-deli",
+      "source": "/brad-fielder-dan-martin-song-swap-at-the-deli/",
+      "destination": "/blog/brad-fielder-dan-martin-song-swap-at-the-deli/",
       "permanent": true
     },
     {
-      "source": "/color-gallery-beats-antique-at-the-diamond-ballroom",
-      "destination": "/blog/color-gallery-beats-antique-at-the-diamond-ballroom",
+      "source": "/color-gallery-beats-antique-at-the-diamond-ballroom/",
+      "destination": "/blog/color-gallery-beats-antique-at-the-diamond-ballroom/",
       "permanent": true
     },
     {
-      "source": "/gallery-lynx-at-the-diamond-ballroom",
-      "destination": "/blog/gallery-lynx-at-the-diamond-ballroom",
+      "source": "/gallery-lynx-at-the-diamond-ballroom/",
+      "destination": "/blog/gallery-lynx-at-the-diamond-ballroom/",
       "permanent": true
     },
     {
-      "source": "/gallery-the-secret-post-zombie-run-5k-after-life-party",
-      "destination": "/blog/gallery-the-secret-post-zombie-run-5k-after-life-party",
+      "source": "/gallery-the-secret-post-zombie-run-5k-after-life-party/",
+      "destination": "/blog/gallery-the-secret-post-zombie-run-5k-after-life-party/",
       "permanent": true
     },
     {
-      "source": "/gallery-zombie-bolt-5k-run-after-life-party",
-      "destination": "/blog/gallery-zombie-bolt-5k-run-after-life-party",
+      "source": "/gallery-zombie-bolt-5k-run-after-life-party/",
+      "destination": "/blog/gallery-zombie-bolt-5k-run-after-life-party/",
       "permanent": true
     },
     {
-      "source": "/gallery-zombie-bolt-5k-run-post-race",
-      "destination": "/blog/gallery-zombie-bolt-5k-run-post-race",
+      "source": "/gallery-zombie-bolt-5k-run-post-race/",
+      "destination": "/blog/gallery-zombie-bolt-5k-run-post-race/",
       "permanent": true
     },
     {
-      "source": "/gallery-zombie-bolt-5k-run-pre-race",
-      "destination": "/blog/gallery-zombie-bolt-5k-run-pre-race",
+      "source": "/gallery-zombie-bolt-5k-run-pre-race/",
+      "destination": "/blog/gallery-zombie-bolt-5k-run-pre-race/",
       "permanent": true
     },
     {
-      "source": "/gallery-zombie-bolt-5k-run-the-race",
-      "destination": "/blog/gallery-zombie-bolt-5k-run-the-race",
+      "source": "/gallery-zombie-bolt-5k-run-the-race/",
+      "destination": "/blog/gallery-zombie-bolt-5k-run-the-race/",
       "permanent": true
     },
     {
-      "source": "/herb-greenes-prairie-house",
-      "destination": "/blog/herb-greenes-prairie-house",
+      "source": "/herb-greenes-prairie-house/",
+      "destination": "/blog/herb-greenes-prairie-house/",
       "permanent": true
     },
     {
-      "source": "/my-brightest-diamond-at-guestroom-records-okie-x-outtakes-gallery",
-      "destination": "/blog/my-brightest-diamond-at-guestroom-records-okie-x-outtakes-gallery",
+      "source": "/my-brightest-diamond-at-guestroom-records-okie-x-outtakes-gallery/",
+      "destination": "/blog/my-brightest-diamond-at-guestroom-records-okie-x-outtakes-gallery/",
       "permanent": true
     },
     {
-      "source": "/rip-jake-flint",
-      "destination": "/blog/rip-jake-flint",
+      "source": "/rip-jake-flint/",
+      "destination": "/blog/rip-jake-flint/",
       "permanent": true
     },
     {
-      "source": "/sonoran-trance-the-myrrors-at-dope-chapel",
-      "destination": "/blog/sonoran-trance-the-myrrors-at-dope-chapel",
+      "source": "/sonoran-trance-the-myrrors-at-dope-chapel/",
+      "destination": "/blog/sonoran-trance-the-myrrors-at-dope-chapel/",
       "permanent": true
     },
     {
-      "source": "/the-dollyrots-interview-gallery",
-      "destination": "/blog/the-dollyrots-interview-gallery",
+      "source": "/the-dollyrots-interview-gallery/",
+      "destination": "/blog/the-dollyrots-interview-gallery/",
       "permanent": true
     },
     {
-      "source": "/tim-easton-exposition-interview-gallery",
-      "destination": "/blog/tim-easton-exposition-interview-gallery",
+      "source": "/tim-easton-exposition-interview-gallery/",
+      "destination": "/blog/tim-easton-exposition-interview-gallery/",
       "permanent": true
     },
     {
-      "source": "/valentines-day-blizzard-norman-oklahoma",
-      "destination": "/blog/valentines-day-blizzard-norman-oklahoma",
+      "source": "/valentines-day-blizzard-norman-oklahoma/",
+      "destination": "/blog/valentines-day-blizzard-norman-oklahoma/",
       "permanent": true
     },
     {
-      "source": "/woodyfest-2013-band-camp-backstage",
-      "destination": "/blog/woodyfest-2013-band-camp-backstage",
+      "source": "/woodyfest-2013-band-camp-backstage/",
+      "destination": "/blog/woodyfest-2013-band-camp-backstage/",
       "permanent": true
     },
     {
-      "source": "/woodyfest-2013-sam-baker",
-      "destination": "/blog/woodyfest-2013-sam-baker",
+      "source": "/woodyfest-2013-sam-baker/",
+      "destination": "/blog/woodyfest-2013-sam-baker/",
       "permanent": true
     },
     {
-      "source": "/woodyfest-2013-samantha-crain",
-      "destination": "/blog/woodyfest-2013-samantha-crain",
+      "source": "/woodyfest-2013-samantha-crain/",
+      "destination": "/blog/woodyfest-2013-samantha-crain/",
       "permanent": true
     },
     {
-      "source": "/woodyfest-2013-still-on-the-hill",
-      "destination": "/blog/woodyfest-2013-still-on-the-hill",
+      "source": "/woodyfest-2013-still-on-the-hill/",
+      "destination": "/blog/woodyfest-2013-still-on-the-hill/",
       "permanent": true
     },
     {
-      "source": "/woodyfest-2013-the-deslondes",
-      "destination": "/blog/woodyfest-2013-the-deslondes",
+      "source": "/woodyfest-2013-the-deslondes/",
+      "destination": "/blog/woodyfest-2013-the-deslondes/",
       "permanent": true
     },
     {
-      "source": "/woodyfest-2013-tim-easton",
-      "destination": "/blog/woodyfest-2013-tim-easton",
+      "source": "/woodyfest-2013-tim-easton/",
+      "destination": "/blog/woodyfest-2013-tim-easton/",
       "permanent": true
     },
     {
-      "source": "/woodyfest-2013-woody-guthrie-poets-with-david-amram",
-      "destination": "/blog/woodyfest-2013-woody-guthrie-poets-with-david-amram",
+      "source": "/woodyfest-2013-woody-guthrie-poets-with-david-amram/",
+      "destination": "/blog/woodyfest-2013-woody-guthrie-poets-with-david-amram/",
       "permanent": true
     },
     {
-      "source": "/woodyfest-2014-1st-place-songwriting-contest-winner-lori-holyfield",
-      "destination": "/blog/woodyfest-2014-1st-place-songwriting-contest-winner-lori-holyfield",
+      "source": "/woodyfest-2014-1st-place-songwriting-contest-winner-lori-holyfield/",
+      "destination": "/blog/woodyfest-2014-1st-place-songwriting-contest-winner-lori-holyfield/",
       "permanent": true
     },
     {
-      "source": "/woodyfest-2014-backstage-band-camp-okemah",
-      "destination": "/blog/woodyfest-2014-backstage-band-camp-okemah",
+      "source": "/woodyfest-2014-backstage-band-camp-okemah/",
+      "destination": "/blog/woodyfest-2014-backstage-band-camp-okemah/",
       "permanent": true
     },
     {
-      "source": "/woodyfest-2014-dan-weber",
-      "destination": "/blog/woodyfest-2014-dan-weber",
+      "source": "/woodyfest-2014-dan-weber/",
+      "destination": "/blog/woodyfest-2014-dan-weber/",
       "permanent": true
     },
     {
-      "source": "/woodyfest-2014-john-wort-hannam",
-      "destination": "/blog/woodyfest-2014-john-wort-hannam",
+      "source": "/woodyfest-2014-john-wort-hannam/",
+      "destination": "/blog/woodyfest-2014-john-wort-hannam/",
       "permanent": true
     },
     {
-      "source": "/woodyfest-2014-lance-canales-the-flood",
-      "destination": "/blog/woodyfest-2014-lance-canales-the-flood",
+      "source": "/woodyfest-2014-lance-canales-the-flood/",
+      "destination": "/blog/woodyfest-2014-lance-canales-the-flood/",
       "permanent": true
     },
     {
-      "source": "/woodyfest-2014-nancy-apple",
-      "destination": "/blog/woodyfest-2014-nancy-apple",
+      "source": "/woodyfest-2014-nancy-apple/",
+      "destination": "/blog/woodyfest-2014-nancy-apple/",
       "permanent": true
     },
     {
-      "source": "/woodyfest-2014-sonia-disappear-fear",
-      "destination": "/blog/woodyfest-2014-sonia-disappear-fear",
+      "source": "/woodyfest-2014-sonia-disappear-fear/",
+      "destination": "/blog/woodyfest-2014-sonia-disappear-fear/",
       "permanent": true
     },
     {
-      "source": "/woodyfest-2014-wink-burcham",
-      "destination": "/blog/woodyfest-2014-wink-burcham",
+      "source": "/woodyfest-2014-wink-burcham/",
+      "destination": "/blog/woodyfest-2014-wink-burcham/",
       "permanent": true
     },
     {
-      "source": "/woodyfest-2018-3rd-place-songwriter-robert-thatcher",
-      "destination": "/blog/woodyfest-2018-3rd-place-songwriter-robert-thatcher",
+      "source": "/woodyfest-2018-3rd-place-songwriter-robert-thatcher/",
+      "destination": "/blog/woodyfest-2018-3rd-place-songwriter-robert-thatcher/",
       "permanent": true
     },
     {
-      "source": "/woodyfest-2018-and-then-there-were-two",
-      "destination": "/blog/woodyfest-2018-and-then-there-were-two",
+      "source": "/woodyfest-2018-and-then-there-were-two/",
+      "destination": "/blog/woodyfest-2018-and-then-there-were-two/",
       "permanent": true
     },
     {
-      "source": "/woodyfest-2018-ellis-paul-jason-mraz",
-      "destination": "/blog/woodyfest-2018-ellis-paul-jason-mraz",
+      "source": "/woodyfest-2018-ellis-paul-jason-mraz/",
+      "destination": "/blog/woodyfest-2018-ellis-paul-jason-mraz/",
       "permanent": true
     },
     {
-      "source": "/woodyfest-2018-friday-backstage",
-      "destination": "/blog/woodyfest-2018-friday-backstage",
+      "source": "/woodyfest-2018-friday-backstage/",
+      "destination": "/blog/woodyfest-2018-friday-backstage/",
       "permanent": true
     },
     {
-      "source": "/woodyfest-2018-guthrie-kids-family-band",
-      "destination": "/blog/woodyfest-2018-guthrie-kids-family-band",
+      "source": "/woodyfest-2018-guthrie-kids-family-band/",
+      "destination": "/blog/woodyfest-2018-guthrie-kids-family-band/",
       "permanent": true
     },
     {
-      "source": "/woodyfest-2018-josh-okeefe",
-      "destination": "/blog/woodyfest-2018-josh-okeefe",
+      "source": "/woodyfest-2018-josh-okeefe/",
+      "destination": "/blog/woodyfest-2018-josh-okeefe/",
       "permanent": true
     },
     {
-      "source": "/woodyfest-2018-ken-pomeroy",
-      "destination": "/blog/woodyfest-2018-ken-pomeroy",
+      "source": "/woodyfest-2018-ken-pomeroy/",
+      "destination": "/blog/woodyfest-2018-ken-pomeroy/",
       "permanent": true
     },
     {
-      "source": "/woodyfest-2018-kids-harmonica-class",
-      "destination": "/blog/woodyfest-2018-kids-harmonica-class",
+      "source": "/woodyfest-2018-kids-harmonica-class/",
+      "destination": "/blog/woodyfest-2018-kids-harmonica-class/",
       "permanent": true
     },
     {
-      "source": "/woodyfest-2018-opal-agafia-the-sweet-nothings",
-      "destination": "/blog/woodyfest-2018-opal-agafia-the-sweet-nothings",
+      "source": "/woodyfest-2018-opal-agafia-the-sweet-nothings/",
+      "destination": "/blog/woodyfest-2018-opal-agafia-the-sweet-nothings/",
       "permanent": true
     },
     {
-      "source": "/woodyfest-2018-randy-crouch-johnny-irion-john-fullbright",
-      "destination": "/blog/woodyfest-2018-randy-crouch-johnny-irion-john-fullbright",
+      "source": "/woodyfest-2018-randy-crouch-johnny-irion-john-fullbright/",
+      "destination": "/blog/woodyfest-2018-randy-crouch-johnny-irion-john-fullbright/",
       "permanent": true
     },
     {
-      "source": "/woodyfest-2018-sam-baker",
-      "destination": "/blog/woodyfest-2018-sam-baker",
+      "source": "/woodyfest-2018-sam-baker/",
+      "destination": "/blog/woodyfest-2018-sam-baker/",
       "permanent": true
     },
     {
-      "source": "/woodyfest-2018-saturday-backstage",
-      "destination": "/blog/woodyfest-2018-saturday-backstage",
+      "source": "/woodyfest-2018-saturday-backstage/",
+      "destination": "/blog/woodyfest-2018-saturday-backstage/",
       "permanent": true
     },
     {
-      "source": "/woodyfest-2018-the-damn-quails",
-      "destination": "/blog/woodyfest-2018-the-damn-quails",
+      "source": "/woodyfest-2018-the-damn-quails/",
+      "destination": "/blog/woodyfest-2018-the-damn-quails/",
       "permanent": true
     },
     {
-      "source": "/woodyfest-2018-this-frontier-needs-heroes",
-      "destination": "/blog/woodyfest-2018-this-frontier-needs-heroes",
+      "source": "/woodyfest-2018-this-frontier-needs-heroes/",
+      "destination": "/blog/woodyfest-2018-this-frontier-needs-heroes/",
       "permanent": true
     },
     {
-      "source": "/woodyfest-2018-willis-alan-ramsey",
-      "destination": "/blog/woodyfest-2018-willis-alan-ramsey",
+      "source": "/woodyfest-2018-willis-alan-ramsey/",
+      "destination": "/blog/woodyfest-2018-willis-alan-ramsey/",
       "permanent": true
     },
     {
-      "source": "/woodyfest-2018-youth-songwriting-showcase-competition",
-      "destination": "/blog/woodyfest-2018-youth-songwriting-showcase-competition",
+      "source": "/woodyfest-2018-youth-songwriting-showcase-competition/",
+      "destination": "/blog/woodyfest-2018-youth-songwriting-showcase-competition/",
       "permanent": true
     },
     {
-      "source": "/woodyfest-2019-andy-adams",
-      "destination": "/blog/woodyfest-2019-andy-adams",
+      "source": "/woodyfest-2019-andy-adams/",
+      "destination": "/blog/woodyfest-2019-andy-adams/",
       "permanent": true
     },
     {
-      "source": "/woodyfest-2019-annie-guthrie-featuring-arlo-cathy",
-      "destination": "/blog/woodyfest-2019-annie-guthrie-featuring-arlo-cathy",
+      "source": "/woodyfest-2019-annie-guthrie-featuring-arlo-cathy/",
+      "destination": "/blog/woodyfest-2019-annie-guthrie-featuring-arlo-cathy/",
       "permanent": true
     },
     {
-      "source": "/woodyfest-2019-carolann-solebello",
-      "destination": "/blog/woodyfest-2019-carolann-solebello",
+      "source": "/woodyfest-2019-carolann-solebello/",
+      "destination": "/blog/woodyfest-2019-carolann-solebello/",
       "permanent": true
     },
     {
-      "source": "/woodyfest-2019-community-outreach-gypsy-twang-friends",
-      "destination": "/blog/woodyfest-2019-community-outreach-gypsy-twang-friends",
+      "source": "/woodyfest-2019-community-outreach-gypsy-twang-friends/",
+      "destination": "/blog/woodyfest-2019-community-outreach-gypsy-twang-friends/",
       "permanent": true
     },
     {
-      "source": "/woodyfest-2019-grown-up-anger-with-author-daniel-wolff",
-      "destination": "/blog/woodyfest-2019-grown-up-anger-with-author-daniel-wolff",
+      "source": "/woodyfest-2019-grown-up-anger-with-author-daniel-wolff/",
+      "destination": "/blog/woodyfest-2019-grown-up-anger-with-author-daniel-wolff/",
       "permanent": true
     },
     {
-      "source": "/woodyfest-2019-jacob-tovar",
-      "destination": "/blog/woodyfest-2019-jacob-tovar",
+      "source": "/woodyfest-2019-jacob-tovar/",
+      "destination": "/blog/woodyfest-2019-jacob-tovar/",
       "permanent": true
     },
     {
-      "source": "/woodyfest-2019-jamie-lin-wilson",
-      "destination": "/blog/woodyfest-2019-jamie-lin-wilson",
+      "source": "/woodyfest-2019-jamie-lin-wilson/",
+      "destination": "/blog/woodyfest-2019-jamie-lin-wilson/",
       "permanent": true
     },
     {
-      "source": "/woodyfest-2019-jared-tyler",
-      "destination": "/blog/woodyfest-2019-jared-tyler",
+      "source": "/woodyfest-2019-jared-tyler/",
+      "destination": "/blog/woodyfest-2019-jared-tyler/",
       "permanent": true
     },
     {
-      "source": "/woodyfest-2019-john-fullbright",
-      "destination": "/blog/woodyfest-2019-john-fullbright",
+      "source": "/woodyfest-2019-john-fullbright/",
+      "destination": "/blog/woodyfest-2019-john-fullbright/",
       "permanent": true
     },
     {
-      "source": "/woodyfest-2019-kids-harmonica-class",
-      "destination": "/blog/woodyfest-2019-kids-harmonica-class",
+      "source": "/woodyfest-2019-kids-harmonica-class/",
+      "destination": "/blog/woodyfest-2019-kids-harmonica-class/",
       "permanent": true
     },
     {
-      "source": "/woodyfest-2019-larry-long",
-      "destination": "/blog/woodyfest-2019-larry-long",
+      "source": "/woodyfest-2019-larry-long/",
+      "destination": "/blog/woodyfest-2019-larry-long/",
       "permanent": true
     },
     {
-      "source": "/woodyfest-2019-pushing-chain",
-      "destination": "/blog/woodyfest-2019-pushing-chain",
+      "source": "/woodyfest-2019-pushing-chain/",
+      "destination": "/blog/woodyfest-2019-pushing-chain/",
       "permanent": true
     },
     {
-      "source": "/woodyfest-2019-red-dirt-rangers",
-      "destination": "/blog/woodyfest-2019-red-dirt-rangers",
+      "source": "/woodyfest-2019-red-dirt-rangers/",
+      "destination": "/blog/woodyfest-2019-red-dirt-rangers/",
       "permanent": true
     },
     {
-      "source": "/woodyfest-2019-songwriting-contest-winners",
-      "destination": "/blog/woodyfest-2019-songwriting-contest-winners",
+      "source": "/woodyfest-2019-songwriting-contest-winners/",
+      "destination": "/blog/woodyfest-2019-songwriting-contest-winners/",
       "permanent": true
     },
     {
-      "source": "/woodyfest-2019-stoll-vaughan",
-      "destination": "/blog/woodyfest-2019-stoll-vaughan",
+      "source": "/woodyfest-2019-stoll-vaughan/",
+      "destination": "/blog/woodyfest-2019-stoll-vaughan/",
       "permanent": true
     },
     {
-      "source": "/woodyfest-2019-thursday-backstage",
-      "destination": "/blog/woodyfest-2019-thursday-backstage",
+      "source": "/woodyfest-2019-thursday-backstage/",
+      "destination": "/blog/woodyfest-2019-thursday-backstage/",
       "permanent": true
     },
     {
-      "source": "/woodyfest-2019-wink-burcham",
-      "destination": "/blog/woodyfest-2019-wink-burcham",
+      "source": "/woodyfest-2019-wink-burcham/",
+      "destination": "/blog/woodyfest-2019-wink-burcham/",
       "permanent": true
     },
     {
-      "source": "",
-      "destination": "",
+      "source": "/",
+      "destination": "/",
       "permanent": true
     }
   ]
