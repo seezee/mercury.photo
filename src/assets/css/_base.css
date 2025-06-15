@@ -246,7 +246,7 @@ i, em {
 /* blockquote */
 blockquote,
 .pullquote {
-  text-indent: -0.45em;
+  text-indent: -0.1em;
   margin-inline: 2.5rem;
   quotes: "\201C" "\201D" "\2018""\2019";
 
