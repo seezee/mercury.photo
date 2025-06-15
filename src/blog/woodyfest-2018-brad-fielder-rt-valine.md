@@ -20,7 +20,7 @@ tags:
 date: Last Modified
 pubdate: 2018-12-14T13:00:11+00:00
 image: /assets/images/blog/2018-12-14-woodyfest-fielder-valine/czahller-20180713-16-08-29.jpg
-excerpt: The first time this writer heard Brad Fielder play was in 2013. I was at the Bluebonnet Bar to see Alex Culbreth.
+excerpt: Oklahoma musicians Brad Fielder and R.T. Valine traded songs on the Hen House stage at the 2018 Woody Guthrie Folk Festival.
 ---
 <!-- markdownlint-disable MD025 -->
 # {{ title }}
@@ -28,6 +28,8 @@ excerpt: The first time this writer heard Brad Fielder play was in 2013. I was a
 <!-- markdownlint-enable MD025 --><mpb-dialog-img>
 
 {% image "./src/assets/images/blog/2018-12-14-woodyfest-fielder-valine/czahller-20180713-16-08-29.jpg", "img-constrained", "Brad & R.T. (Upstage View) — 21st Annual Woody Guthrie Festival, 2018", "Brad & R.T. (Upstage View)&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;21st Annual Woody Guthrie Festival, 2018" %}</mpb-dialog-img>
+
+Oklahoma musicians Brad Fielder and R.T. Valine traded songs on the Hen House stage at the <time datetime="2018-07">2018</time> <span class="h-card p-organisation"><span class="p-name"><span class="p-nickname">Woody</span>Guthrie</span> Folk Festival</span>.
 
 ## Bradley Allan “B.A.” Fielder
 
