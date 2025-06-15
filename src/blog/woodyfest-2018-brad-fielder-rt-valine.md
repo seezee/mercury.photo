@@ -45,7 +45,7 @@ As is usual for Fielder’s Sunday night residency, he performed solo, with just
 
 [^3]: $69GUITAR! is on indefinite hiatus.
 
-[^4]: Fielder, quoted in <cite class="h-card p-name full-citation">Carman, Becky</cite>, <cite class="short-work"><a href="https://newsok.com/article/4987546/oklahoma-band-qa-brad-fielder" target="_blank" rel="external noopener">Oklahoma Band Q&A: Brad Fielder</a>,</cite> <cite>The Oklahoman</cite>( <time datetime="2014-07-11T12:00:00-5:00">11 July 2014</time>).
+[^4]: Fielder, quoted in <cite class="h-card p-name cite-person">Carman, Becky</cite>, <cite class="short-work"><a href="https://newsok.com/article/4987546/oklahoma-band-qa-brad-fielder" target="_blank" rel="external noopener">Oklahoma Band Q&A: Brad Fielder</a>,</cite> <cite>The Oklahoman</cite>( <time datetime="2014-07-11T12:00:00-5:00">11 July 2014</time>).
 
 One particular song caught my ear&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;a biographical number called <cite class="short-work">Black Mottled Back Porch Cat.</cite> The song tells the story of how its author came into the world <time datetime="1979">just before</time> one of Oklahoma’s many oil booms.[^5] Set in Enid, a town reliant on oil, agriculture, and nearby Vance Air Force Base, the lyrics relate how Fielder’s mother undergoes a long and difficult labor. Eventually, Fielder’s grandfather goes in search of Fielder’s father. Bursting into the local watering hole, <q>He said, <q>Fielder!/Where you at, boy!/You’re havin’ a baby!/Better get your ass to the hos-pi-tal!</q></q> When the song ended I blurted out, <q>Spooky!</q> Fielder replied, <q>That’s because it’s true.</q>
 
@@ -66,7 +66,7 @@ Fielder has gone into the studio thrice to record the song: the first time multi
 
 Fielder’s best material is either drawn from his own life or his observations of others’. A prolific writer, he puts pen to paper for three or four songs a week but doesn’t perform them until they are burnished to perfection. There was a time, well documented in his early catalogue, when he would record anything and everything he wrote. These days he’s far more circumspect about releasing just any old ditty. Of his old, profligate ways, he says, <q>That makes for bad songs.</q>[^7]
 
-[^7]: <cite class="full-citation">Carman.</cite>
+[^7]: <cite class="cite-person">Carman.</cite>
 
 I don’t agree that they are bad&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;they sound like someone still finding his voice and learning his craft. Fielder’s early work shows a magpie curiosity&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;solo and in collaboration, he has recorded a concept album (<cite>Chinese Food,</cite> a collection of pseudo-reggae songs inspired by the titular cuisine), a hardcore punk album (<cite>Slamdance/Oi!</cite>), an album that asks the question, <q>What if you gave two train-hopping hoboes an endless supply of whiskey and marijuana, handed them guitars, and recorded the results?</q> (<cite>You Gotta Wait</cite>, released under the <span class="foreign" lang="fr">noms de guerre</span> “Clemins &amp; Fitsimmons”), and a hip-hop album (<cite>Interpretation of the Situation: Beats and Streets of Enid</cite>). There’s also loads of psychedelic rock&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;one standout is <cite class="short-work">Eyeballs on the Ceiling,</cite> about a first-hand experience dropping LSD in an acquaintance’s apartment before wandering the streets <q>tripping balls.</q>[^8] Fielder later reworked it into a Woody Guthrie-style talking blues.
 
@@ -84,7 +84,7 @@ R.T. Valine</span> was born with a soldering iron in one hand and a hot-glue gun
 
 [^9]: Styled RT N’ THE 44s
 
-[^10]: Valine and Willard quoted in <cite class="h-card p-name full-citation">Feuer, Daiana</cite>, <cite class="short-work"><a href="https://larecord.com/interviews/2011/04/01/rt-and-the-44s-the-drunk-clown-at-the-moonbounce" target="_blank" rel="external noopener">RT and the 44s: The Drunk Clown at the Moonbounce</a>,</cite> <cite>L.A. Record,</cite> <time datetime="2011-04-01">1 April 2011</time>.
+[^10]: Valine and Willard quoted in <cite class="h-card p-name cite-person">Feuer, Daiana</cite>, <cite class="short-work"><a href="https://larecord.com/interviews/2011/04/01/rt-and-the-44s-the-drunk-clown-at-the-moonbounce" target="_blank" rel="external noopener">RT and the 44s: The Drunk Clown at the Moonbounce</a>,</cite> <cite>L.A. Record,</cite> <time datetime="2011-04-01">1 April 2011</time>.
 
 Originally based in the largely Mexican-American[^11] <span class="h-card p-locality">El Sereno</span> neighborhood of Los Angeles, Valine and his wife <span h-card p-name p-given-name>Jaqueline</span> moved to <span class="h-card p-locality">Allen, Oklahoma</span> in <time datetime="2015-12-12">December 2015</time>. While in California he lived in a farmhouse raising goats and chickens; his animal husbandry continues in his new digs. This should be no surprise since he grew up on an Ohio farm, helping his family raise steer, before moving to Bowling Green to get his BFA and eventually settling in California.
 
@@ -112,11 +112,11 @@ With and without his band Valine has released five singles, two EPs, and eleven 
 
 Valine credits artists such as <span class="h-card p-name">Johnny Cash</span>, <span class="h-card p-name">Woody Guthrie</span>, and the <span class="h-card p-name p-family-name">Carter family</span> as influences on his songcraft. Despite the band’s reputation for rowdy (but family-friendly) sing-alongs, much of his material addresses mortality. <q>It’s not something to be afraid of&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;maybe to embrace that a little. A lot of these songs about death are catchy. You sing along, stomp your foot.</q>[^13] <q>Death isn’t that scary because in the meantime we’re all together and we all have to take that trip so might as well enjoy it. We should only take care of the people we care about&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;the people we love.</q>[^14]
 
-[^13]: Willard, quoted in <cite class="full-citation">Feuer</cite>.
+[^13]: Willard, quoted in <cite class="cite-person">Feuer</cite>.
 
-[^14]: Valine, quoted in <cite class="full-citation">Feuer</cite>.
+[^14]: Valine, quoted in <cite class="cite-person">Feuer</cite>.
 
-## Gallery
+## Gallery: Brad Fielder & R.T. Valine at the Hen House
 
 <mpb-dialog-gallery hint rel cols="8">
   

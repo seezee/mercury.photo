@@ -33,11 +33,11 @@ excerpt: The biggest musical influence in Opal Agafia’s life is her mom. Agafi
 
 The biggest musical influence in <span class="h-card p-name">Opal Agafia</span>’s life is her mom. Agafia characterizes herself as a <q>lifelong serious shower singer,</q>[^1] saying that she grew up singing with her mother, <span class="h-card p-name">DeAnna Smith</span>.[^2] Smith sang with Agafia and her younger brother every day, throughout the day&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;<q>in the car, around the house, and especially at bedtime.</q>[^3]
 
-[^1]: Agafia, quoted in <cite class="h-card p-name full-citation">Kuykendall, Kristal</cite>, <cite class="short-work"><a href="http://www.arkansounds.com/highberry-2017-standouts/" target="_blank" rel="external noopener">Highberry 2017 Standouts: Opal Agafia, Floozies,DSO, Marcus King Band &hellip; and BUBBLES!</a>,</cite> <cite>ArkanSounds.com</cite> (<time datetime="2017-07-08">8 July 2017</time>).
+[^1]: Agafia, quoted in <cite class="h-card p-name cite-person">Kuykendall, Kristal</cite>, <cite class="short-work"><a href="http://www.arkansounds.com/highberry-2017-standouts/" target="_blank" rel="external noopener">Highberry 2017 Standouts: Opal Agafia, Floozies,DSO, Marcus King Band &hellip; and BUBBLES!</a>,</cite> <cite>ArkanSounds.com</cite> (<time datetime="2017-07-08">8 July 2017</time>).
 
-[^2]: <cite class="full-citation">Krystal<cite>, Ibid.</cite>
+[^2]: <cite class="cite-person">Krystal<cite>, Ibid.</cite>
 
-[^3]: <cite class="full-citation">Krystal<cite>, Ibid.</cite>
+[^3]: <cite class="cite-person">Krystal<cite>, Ibid.</cite>
 
 Agafia first tried her hand at songwriting when she was eighteen, eventually beginning a songwriting collaboration with Smith while at university. While most of the material on Agafia’s début album, <cite><a href="https://geo.itunes.apple.com/us/album/one-down-forever-to-go/1102972952?mt=1&app=music&at=10ldhk" target="_blank" rel="external noopener">One Down, Forever to Go</a>,</cite> are Agafia originals, a few were co-written with Smith.
 
@@ -52,7 +52,7 @@ Agafia first tried her hand at songwriting when she was eighteen, eventually beg
 
 Agafia’s stage presence is vivacious, gutsy, and soulful. The twenty-five-year-old exhibits no nervousness or stage fright&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;she’s pure moxie, addressing the audience between songs, making eye-contact, demonstrating confidence and maybe even a little swagger.[^4] She possesses a *powerful* voice and stellar technique. Her intonation is accurate and consistent, but not so perfect as to sap the life out of the music. When she hits a particularly significant note she’s apt to growl like an old Delta blueswoman.
 
-[^4]: Agafia’s confidence is earned. She’s practiced karate and other traditional martial arts since she was six, going so far as to become a martial arts instructor for youth.&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;<cite class="full-citation">Krystal<cite>, Ibid.</cite>
+[^4]: Agafia’s confidence is earned. She’s practiced karate and other traditional martial arts since she was six, going so far as to become a martial arts instructor for youth.&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;<cite class="cite-person">Krystal<cite>, Ibid.</cite>
 
 Agafia’s backwoods childhood is evident in her slight country twang, but there’s more than a little gospel and soul in her delivery as well. A comfortable looseness in her back and forth with the band reminds this writer of an experienced jazz combo’s ensemble spirit.
 

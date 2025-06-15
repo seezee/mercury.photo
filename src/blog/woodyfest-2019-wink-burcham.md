@@ -9,6 +9,7 @@ tags:
   - reportage
   - Americana
   - singer-songwriter
+  - Tulsa
   - festival
   - folk
   - Woody Guthrie
@@ -37,7 +38,7 @@ It’s been four years since Burcham’s last release, <time datetime="2016">201
   
   I think most people that I know or most of my songwriting heroes have probably written from some sort of experience. And that’s all any of us try to do, from Woody Guthrie to Metallica.
 
-  <footer role="citation"><cite class="full-citation">&ndash;&NoBreak;&hairsp;&NoBreak;Wink Burcham, quoted in <cite class="h-card p-name">Poppe, Nathan</cite>, <cite class="short-work">Wink and a Nod to Home: Okie Singer-Songwriter Channels His Childhood Summers and a Sense of Place on New Album,</cite> <a href="https://oklahoman.com/article/5507198/wink-and-a-nod-to-home-okie-singer-songwriter-channels-his-childhood-summers-and-a-sense-of-place-on-new-album" target="_blank" rel="external noopener ">oklahoman.com</a>
+  <footer role="citation"><cite class="cite-person">&ndash;&NoBreak;&hairsp;&NoBreak;Wink Burcham, quoted in <cite class="h-card p-name">Poppe, Nathan</cite>, <cite class="short-work">Wink and a Nod to Home: Okie Singer-Songwriter Channels His Childhood Summers and a Sense of Place on New Album,</cite> <a href="https://oklahoman.com/article/5507198/wink-and-a-nod-to-home-okie-singer-songwriter-channels-his-childhood-summers-and-a-sense-of-place-on-new-album" target="_blank" rel="external noopener ">oklahoman.com</a>
     </cite>
   </footer>
 </blockquote>

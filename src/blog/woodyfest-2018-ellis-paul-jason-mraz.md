@@ -33,7 +33,7 @@ excerpt: Ellis Paul loves Woody. Of the Woody Guthrie tattoo on his right should
 
 <span class="h-card p-name">Ellis Paul</span> loves <span class="h-card p-name p-nickname">Woody</span>. Of the <span class="h-card p-name"><span class="p-nickname">Woody</span> Guthrie</span> tattoo on his right shoulder, he says it’s the only thing he could put on his body that would be <q>like a badge of who he was.</q>[^1] It was that tattoo, along with a chance <time datetime="1996">1996</time> meeting with <span class="h-card p-name">Nora Guthrie</span>,[^2] that brought Paul to Woody’s birthplace of Okemah. Both were attending a <span class="h-card p-org">Folk Alliance Conference</span> when Nora asked to see the tattoo. This led to his performing at the <span class="h-card p-org">Rock and Roll Hall of Fame</span> conference, <cite>Hard Travelin’: The Life and Legacy of Woody Guthrie</cite>.[^3] Less than <time datetime="1998-07">two years later</time> Paul would headline the inaugural <span class="h-card p-org">Woody Guthrie Folk Festival</span>.
 
-[^1]: <cite class="h-card p-name full-citation">Alarik, Scott</cite>, <cite class="short-work">Boston’s ’Soul’ Man Ellis Paul Crafts a Trademark Singer-Songwriter Sound,</cite> <cite>Boston Globe,</cite> <time datetime="1998-12-04">4 December 1998</time>
+[^1]: <cite class="h-card p-name cite-person">Alarik, Scott</cite>, <cite class="short-work">Boston’s ’Soul’ Man Ellis Paul Crafts a Trademark Singer-Songwriter Sound,</cite> <cite>Boston Globe,</cite> <time datetime="1998-12-04">4 December 1998</time>
 
 [^2]: Woody’s daughter, president of the <span class="h-card p-org">Woody Guthrie Foundation</span>, and founder of the <span class="h-card p-org">Woody Guthrie Archive</span>.
 

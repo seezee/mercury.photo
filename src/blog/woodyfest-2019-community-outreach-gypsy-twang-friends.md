@@ -8,6 +8,7 @@ tags:
   - photo gallery
   - reportage
   - jazz
+  - Tulsa
   - festival
   - folk
   - Woody Guthrie

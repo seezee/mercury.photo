@@ -10,6 +10,7 @@ tags:
   - country music
   - honky-tonk
   - western swing
+  - Tulsa
   - festival
   - folk
   - Woody Guthrie
@@ -29,7 +30,7 @@ excerpt: Jacob Tovar didn’t set out to be a musician. The Tulsa-based musician
 
 <span class="h-card p-name">Jacob</span> Tovar didn’t set out to be a musician. The Tulsa-based musician grew up with a deep, abiding love of classic country music, particularly from the <time datetime="1950">’50s</time> and <time datetime="1960">’60s</time>. In an interview in the <cite>Tulsa World</cite> he name-checked <span class="h-card p-name">Marty Robbins</span>, <span class="h-card p-name">Hank Thompson</span>, <span class="h-card p-name">Hank Williams</span>, and <span class="h-card p-name">Merle Haggard</span> as examples of "roots" country musicians he admires.&NoBreak;[^1]
 
-[^1]: <cite class="full-citation"><span class="h-card p-name quoted">Tramel, Jimmie</span>, <span class="short-work">Jacob Tovar Bringing Country Flavor to Hop Jam Audience,</span> <a href="https://www.tulsaworld.com/entertainment/music/jacob-tovar-bringing-country-flavor-to-hop-jam-audience/article_703362c7-aef1-521e-9878-a8ebcee60ea3.html" target="_blank" rel="external noopener">tulsaworld.com</a>, <time datetime="2019-05-15">15 May 2019</time>.</cite>
+[^1]: <cite class="cite-person"><span class="h-card p-name quoted">Tramel, Jimmie</span>, <span class="short-work">Jacob Tovar Bringing Country Flavor to Hop Jam Audience,</span> <a href="https://www.tulsaworld.com/entertainment/music/jacob-tovar-bringing-country-flavor-to-hop-jam-audience/article_703362c7-aef1-521e-9878-a8ebcee60ea3.html" target="_blank" rel="external noopener">tulsaworld.com</a>, <time datetime="2019-05-15">15 May 2019</time>.</cite>
 
 But when he moved from his parent’s Perry, Oklahoma[^2] farm to Tulsa in <time datetime="2009">2009</time> he found himself surrounded by like-minded musicians, including <span class="h-card p-name">Paul Benjaman</span> and Woodyfest regular <span class="h-card p-name">Jared Tyler</span>, who encouraged him to <q>get […] up on stage and […] just start doing it. I had always loved that old, classic country style, and I knew I could sing it really well and I thought, man, I’m going to start doing that.</q>[^3] <time datetime="2020">Eleven years later</time>, he has a regular Thursday night spot at famed nightspot The Colony, or at least he did until <abbr>COVID-19</abbr> shut down all the bars and restaurants.
 

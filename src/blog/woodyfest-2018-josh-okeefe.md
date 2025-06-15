@@ -48,16 +48,16 @@ One could be forgiven, but one would still be wrong. The trouble with such a sup
 She was booked for first-degree manslaughter<wbr>/<wbr>But when do the chains finally break?<wbr>/<wbr>It’s been ninety-five years since <time datetime="1921">1921</time><wbr>/<wbr>How many more is it gonna take?
 
 The world saw the lynching postcard<wbr>/<wbr>It’s a different kind of noose<wbr>/<wbr>Was he sentenced to death for bein’ big and bad<wbr>/<wbr>Or for bein’ a big, black dude?
-  <footer><cite class="full-citation">&mdash;&NoBreak;&hairsp;&NoBreak;Josh Okeefe, <span class="short-work">Terence Crutcher</span></cite></footer>
+  <footer><cite class="cite-person">&mdash;&NoBreak;&hairsp;&NoBreak;Josh Okeefe, <span class="short-work">Terence Crutcher</span></cite></footer>
 </blockquote>
 
 His scant catalogue (he’s released one EP and one long-player, but says he’s recorded over 300 songs)[^3] ranges from love songs to celebrations of his old Derbyshire football[^4] mates to protest songs. An accidental cover of <span class="h-card p-name p-given-name">Johnny</span> and <span class="h-card p-name p-given-name">June</span>’s <cite class="short-work">Jackson</cite> has become one of his most popular tunes in live performance, sung as a duet with his partner <span class="h-card p-name">Cora Carpenter</span>. Carpenter, <q>an angelic hillbilly, kick-you-in-your-shins type,</q>[^5] also sang with Okeefe on the recording.
 
-[^3]: <cite class="h-card p-name full-citation">Dingwall, Ed</cite>, <cite class="short-work"><a href="https://www.belpernews.co.uk/news/milford-musician-launches-debut-album-from-nashville-1-8589671" target="_blank" rel="external noopener">Milford Musician Launches Debut Album from Nashville</a>,</cite> <cite>Belper News</cite> (<time datetime="2017-06-11T17:17:00+1:00:00">11 June 2017</time>).
+[^3]: <cite class="h-card p-name cite-person">Dingwall, Ed</cite>, <cite class="short-work"><a href="https://www.belpernews.co.uk/news/milford-musician-launches-debut-album-from-nashville-1-8589671" target="_blank" rel="external noopener">Milford Musician Launches Debut Album from Nashville</a>,</cite> <cite>Belper News</cite> (<time datetime="2017-06-11T17:17:00+1:00:00">11 June 2017</time>).
 
 [^4]: “Soccer” to us Yanks.
 
-[^5]: Okeefe, quoted in <cite class="h-card p-name full-citation">Graham, Carol</cite>, <cite class="short-work"><a href="https://www.nodepression.com/album-reviews/josh-okeefe-dont-let-this-gem-pass-you-by/" target="_blank" rel="external noopener">Josh Okeefe&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;Don’t Let This Gem Pass You By</a>,</cite> <cite>No Depression</cite> (<time datetime="2017-08-05">5 August 2017</time>).
+[^5]: Okeefe, quoted in <cite class="h-card p-name cite-person">Graham, Carol</cite>, <cite class="short-work"><a href="https://www.nodepression.com/album-reviews/josh-okeefe-dont-let-this-gem-pass-you-by/" target="_blank" rel="external noopener">Josh Okeefe&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;Don’t Let This Gem Pass You By</a>,</cite> <cite>No Depression</cite> (<time datetime="2017-08-05">5 August 2017</time>).
 
 <q>We [had] sung that song a million times together on stage but we were not supposed to record that song. Cora had joined me for a recording session and we had planned to do a few takes of another song of mine together as a duet. But when the tape started rollin’ I just started playing <cite class="short-work">Jackson.</cite> Nearly burst out laughing halfway through the song but we managed to hold it in and finish the take!</q>[^6]
 
@@ -67,7 +67,7 @@ Originally hailing from Derby, England,[^7] Okeefe attended the <span class="h-c
 
 [^7]: Derby (pronounced <span class="ipa">/ˈd&#593;ːrbi/</span>; rhymes with "car bee") is located near England’s geographic center. By the <time datetime="1700">eighteenth century</time> this market town was one of the Industrial Revolution’s birthplaces. By the <time datetime="1800">nineteenth century</time>, it was the center of the British rail industry. A working-class place of cobblestone streets and grey buildings, Derby might understandably be mistaken for one of its northern industrial neighbors.
 
-[^8]: <cite class="h-card p-name full-citation">Cobley, Mike</cite>, <cite class="short-work"><a href="https://magazine.brighton.co.uk/Home/Editorial/England-Native-and-Folk-Singer-Josh-Okeefe-Found-His-Muse-In-Nashville-and-Delivers-Results-at-Komedia-Brighton-/20_105_5018" target="_blank" rel="external noopener">England Native & Folk-Singer Josh Okeefe Found His Muse in Nashville & Delivers Results @ Komedia Brighton</a>,</cite> <cite>The Brighton Magazine</cite> (<time datetime="2018-06-03">3 June 2018</time>).
+[^8]: <cite class="h-card p-name cite-person">Cobley, Mike</cite>, <cite class="short-work"><a href="https://magazine.brighton.co.uk/Home/Editorial/England-Native-and-Folk-Singer-Josh-Okeefe-Found-His-Muse-In-Nashville-and-Delivers-Results-at-Komedia-Brighton-/20_105_5018" target="_blank" rel="external noopener">England Native & Folk-Singer Josh Okeefe Found His Muse in Nashville & Delivers Results @ Komedia Brighton</a>,</cite> <cite>The Brighton Magazine</cite> (<time datetime="2018-06-03">3 June 2018</time>).
 
 Okeefe hasn’t gone unnoticed. He’s opened for <span class="h-card p-name">Rufus Wainwright</span>, <span class="h-card p-name">Kris Kristofferson</span>, and <span class="h-card p-name">Alison Krauss</span>.[^9][^10] He’s penned a song for Danish DJ duo <span class="h-card p-org">TooManyLeftHands</span>, <cite class="short-work">Too Young to Die.</cite> The song won a Danish Music Award and went on become an International Federation of the Phonographic Industry Gold Record.[^11][^12] <q>It’s nuts, going from hearing the song in a small room&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;when I was writing it&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;to hearing 70,000 people sing the song back at a huge festival.</q>[^13]
 
@@ -77,7 +77,7 @@ Okeefe hasn’t gone unnoticed. He’s opened for <span class="h-card p-name">Ru
 
 [^11]: <cite>Ibid.</cite>
 
-[^12]: <cite class="h-card p-name p-family-name full-citation">Dingwall.</cite>
+[^12]: <cite class="h-card p-name p-family-name cite-person">Dingwall.</cite>
 
 [^13]: Okeefe, quoted in <cite class="short-work">From Brighton to Nashville.</cite>
 

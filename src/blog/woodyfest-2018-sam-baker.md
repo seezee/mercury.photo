@@ -37,7 +37,7 @@ excerpt: Sam Baker has told the story of barely surviving a train bombing many t
 
 <blockquote>
   <p>Baker’s music is simultaneously beautiful and broken, like cracked crockery.</p>
-  <footer>&mdash;&NoBreak;&hairsp;&NoBreak;<cite class="full-citation">Robert Christgau,</cite> <cite>NPR All Things Considered<cite>, <cite class="short-work"><a href="https://www.npr.org/2013/08/27/216176074/sam-bakers-say-grace-is-at-once-beautiful-and-broken" target="_blank" rel="external noopener">Sam Baker’s <cite>Say Grace</cite> Is at Once Beautiful and Broken</a></cite>
+  <footer>&mdash;&NoBreak;&hairsp;&NoBreak;<cite class="cite-person">Robert Christgau,</cite> <cite>NPR All Things Considered<cite>, <cite class="short-work"><a href="https://www.npr.org/2013/08/27/216176074/sam-bakers-say-grace-is-at-once-beautiful-and-broken" target="_blank" rel="external noopener">Sam Baker’s <cite>Say Grace</cite> Is at Once Beautiful and Broken</a></cite>
   </footer>
 </blockquote>
 
@@ -45,7 +45,7 @@ There’s a lot more to the story, and if you don’t know it, stop reading righ
 
 Okay, are you back? Good. This writer knew none of what you now know when he was assigned to photograph Baker at the Crystal Theatre in <time datetime="2013-07-13T17:00:00-5:00">2013</time>. All I knew was that I was in the presence of something special. I’m not the only one. He’s been called <q>[&hellip;] the most captivating songwriter in America.</q>[^1]
 
-[^1]: <cite class="h-card p-name full-citation">Skanse, Richard</cite>, <cite>Lone Star Music</cite>, <cite class="short-work"><a href="http://lonestarmusicmagazine.com/sam-baker-say-grace/" target="_blank" rel="external noopener">Sam Baker: <cite>Say Grace</cite></a></cite> (<time datetime="2013-07-01">1 July 2013</time>)
+[^1]: <cite class="h-card p-name cite-person">Skanse, Richard</cite>, <cite>Lone Star Music</cite>, <cite class="short-work"><a href="http://lonestarmusicmagazine.com/sam-baker-say-grace/" target="_blank" rel="external noopener">Sam Baker: <cite>Say Grace</cite></a></cite> (<time datetime="2013-07-01">1 July 2013</time>)
 
 It was Baker’s ninth time to play Woodyfest; with the exception of <time datetime="2014">2014</time>, he’s played every festival since <time datetime="2005">2005</time>. Baker was accompanied by violinist <span class="h-card p-name">Megan Palmer</span>&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;herself no stranger to Woodyfest&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;and bassist <span class="h-card p-name">Erik Alvar</span>. <span class="h-card p-name">Don Conoscenti</span> later joined them.
 

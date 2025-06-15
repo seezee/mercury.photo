@@ -42,7 +42,7 @@ The more animated of the two, Donna held the audience’s attention with her kin
 
 If we ever lose power in Northwest Arkansas, we could tap into the energy of Still on the Hill and have enough left to air condition Texas!
 
-<footer aria-label="citation">&mdash;&NoBreak;&hairsp;&NoBreak;<cite class="full-citation"><span class="h-card p-name">Keith Grimwood</span> and <span class="h-card p-name">Ezra Idlet</span>, <span class="short-work">In the Press: Quotes and Articles,</span> <a href="http://www.stillonthehill.com/in-the-press" target="_blank" rel="external noopener">stillonthehill.com</a></cite>
+<footer aria-label="citation">&mdash;&NoBreak;&hairsp;&NoBreak;<cite class="cite-person"><span class="h-card p-name">Keith Grimwood</span> and <span class="h-card p-name">Ezra Idlet</span>, <span class="short-work">In the Press: Quotes and Articles,</span> <a href="http://www.stillonthehill.com/in-the-press" target="_blank" rel="external noopener">stillonthehill.com</a></cite>
 </footer></blockquote>
 
 The duo have created numerous Ozark-centric documentary projects, including <time datetime="2010">2010</time>’s <cite>Ozark Project</cite> and <time datetime="2015">2015</time>’s <cite>Once a River</cite>. In <time datetime="2016">2016</time> Still on the Hill completed their documentary project <cite>Still a River</cite>, a history of the Beaver Lake watershed and the White River in Northwest Arkansas. Upon its completion the <span class="h-card p-organization">National Park Service</span> granted them ten additional programs to be performed throughout Arkansas.

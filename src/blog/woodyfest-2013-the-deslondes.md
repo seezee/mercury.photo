@@ -33,7 +33,7 @@ When they appeared on the <span class="h-card p-organization">Brick Caf&eacute;<
 
     [The Deslondes play] a rhythm that sounds distinctive [&hellip;] but also [conveys] an entire pop history that spans New Orleans rhythm and blues, early Memphis rock, Louisiana Hayride country, and every pick-up jazz band ever to busk on Royal Street
 
-    <footer aria-label="Citation">&mdash;&NoBreak;&hairsp;&NoBreak;<cite class="full-citation"><a href="//pitchfork.com/reviews/albums/20565-the-deslondes/" target="_blank" rel="external noopener"><span class="h-card, p-name">Stephen M. Deusner</span>, <cite class="short-work">The Deslondes: <cite>The Deslondes</cite></cite></a></cite></footer>
+    <footer aria-label="Citation">&mdash;&NoBreak;&hairsp;&NoBreak;<cite class="cite-person"><a href="//pitchfork.com/reviews/albums/20565-the-deslondes/" target="_blank" rel="external noopener"><span class="h-card, p-name">Stephen M. Deusner</span>, <cite class="short-work">The Deslondes: <cite>The Deslondes</cite></cite></a></cite></footer>
 </blockquote>
 
 Comprising <span class="h-card p-name">Sam Doores</span>, <span class="h-card p-name">Riley Downing</span>, <span class="h-card p-name">Dan Cutler</span>, <span class="h-card p-name">Cameron Snyder</span>, and <span class="h-card p-name">John James Tourville</span>, The Deslondes play country music informed by a deep knowledge of all strains of American popular music. <q>It's country that seems like it never parted ways with [Woody] Guthrie's populist strains of folk, or felt threatened by rock &rsquo;n&rsquo; roll's youthful ruckus. [&hellip;] Downing even specifies in the band's bio that the traffic jam-themed rockabilly number <cite class="short-work">Less Honkin', More Tonkin&rsquo;&NoBreak;&hairsp;</cite> was inspired not just by George Jones recordings in general, but Jones' early Starday sides, specifically.</q>&NoBreak;[^3]
@@ -50,15 +50,15 @@ The Deslondes sophomore album, <cite><a href="//geo.music.apple.com/us/album/hur
 
 [^2]: A neighborhood located in the Lower Ninth Ward District of New Orleans, Louisiana.
 
-[^3]: <cite class="h-card p-name full-citation">Hight, Jewly</cite>, <cite>NPR Music</cite>, <cite class="short-work"><a href="https://www.npr.org/2015/05/31/410046950/first-listen-the-deslondes-the-deslondes" target="_blank" rel="external noopener">Review: The Deslondes, <cite>The Deslondes</cite></a></cite> (<time datetime="2015-05-31T11:03-4:00">21 March 2015</time>)
+[^3]: <cite class="h-card p-name cite-person">Hight, Jewly</cite>, <cite>NPR Music</cite>, <cite class="short-work"><a href="https://www.npr.org/2015/05/31/410046950/first-listen-the-deslondes-the-deslondes" target="_blank" rel="external noopener">Review: The Deslondes, <cite>The Deslondes</cite></a></cite> (<time datetime="2015-05-31T11:03-4:00">21 March 2015</time>)
 
 [^4]: Facebook Messenger conversation with Riley Downing, <time datetime="2020-04-10">10 April 2020.</time>
 
 [^5]: Downing's band, <span class="h-card p-organization"><a href="https://youtu.be/h4eF4QF9DaE" target="_blank" rel="external noopener">Nothing Else</a></span>, was based in Kansas City.
 
-[^6]: <cite class="h-card p-name full-citation">Powers, Ann</cite>, <cite>NPR Music</cite>, <cite class="short-work"><a href="https://www.npr.org/2015/01/16/377747322/the-deslondes-fought-the-blues-and-won" target="_blank" rel="external noopener">Songs We Love: The Deslondes <cite class="short-work">Fought the Blues and Won</cite></a>&NoBreak;&hairsp;&NoBreak;</cite> (<time datetime="2015-01-16T14:00-5:00">16 January 2015</time>)
+[^6]: <cite class="h-card p-name cite-person">Powers, Ann</cite>, <cite>NPR Music</cite>, <cite class="short-work"><a href="https://www.npr.org/2015/01/16/377747322/the-deslondes-fought-the-blues-and-won" target="_blank" rel="external noopener">Songs We Love: The Deslondes <cite class="short-work">Fought the Blues and Won</cite></a>&NoBreak;&hairsp;&NoBreak;</cite> (<time datetime="2015-01-16T14:00-5:00">16 January 2015</time>)
 
-[^7]: <cite class="h-card p-name full-citation">Shelburne, Craig</cite>, <cite>Rolling Stone</cite>, <cite class="short-work"><a href="https://www.rollingstone.com/music/music-country/watch-the-deslondes-dodge-tvs-and-groupies-in-real-deal-video-161564/" target="_blank" rel="external noopener">Watch the Deslondes Dodge <abbr>TV</abbr>s and Groupies in <cite class="short-work">The Real Deal</cite></a>&NoBreak;&hairsp;&NoBreak;</cite> (<time datetime="2015-07-14T13:53-4:00">14 July 2015</time>)
+[^7]: <cite class="h-card p-name cite-person">Shelburne, Craig</cite>, <cite>Rolling Stone</cite>, <cite class="short-work"><a href="https://www.rollingstone.com/music/music-country/watch-the-deslondes-dodge-tvs-and-groupies-in-real-deal-video-161564/" target="_blank" rel="external noopener">Watch the Deslondes Dodge <abbr>TV</abbr>s and Groupies in <cite class="short-work">The Real Deal</cite></a>&NoBreak;&hairsp;&NoBreak;</cite> (<time datetime="2015-07-14T13:53-4:00">14 July 2015</time>)
 
 ## Gallery
 

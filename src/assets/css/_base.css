@@ -716,7 +716,7 @@ caption, figcaption {
     font-style: normal;
 
     &.short-work,
-    &.full-citation {
+    &.cite-person {
       font-style: italic;
     }
   }

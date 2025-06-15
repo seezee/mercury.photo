@@ -36,14 +36,14 @@ This article was expanded on <time datetime="2020-01-27">27 January 2020</time> 
 
 [Larry Long is] a true American troubado[u]r.
 
-<footer aria-label="citation">&mdash;&NoBreak;&hairsp;&NoBreak;<cite class="full-citation"><span class="h-card p-name">Studs Terkel</span></cite>, frontispiece inscription to Larry Long’s copy of Terkel’s <cite>Hard Times: An Oral History of the Great Depression</cite>.
+<footer aria-label="citation">&mdash;&NoBreak;&hairsp;&NoBreak;<cite class="cite-person"><span class="h-card p-name">Studs Terkel</span></cite>, frontispiece inscription to Larry Long’s copy of Terkel’s <cite>Hard Times: An Oral History of the Great Depression</cite>.
 </footer></blockquote>
 
 In <time datetime="1977">1977</time>, twenty-six-year-old vagabond singer <span class="h-card p-name">Larry Long</span> wrote <cite class="short-work">Pope County Blues</cite> in support of farmers fighting a high voltage power line in Minnesota. <time datetime="1978">A year later</time> he organized Tennessee farmers to form what we would now call a farmers market. Following that, Long accompanied[^1] the first “Tractorcade,” a procession of family farmers traveling to Washington,  D.C. to demonstrate for fair crop prices.&NoBreak;[^2]
 
 [^1]: Both musically and perambulatorily.
 
-[^2]: <cite class="h-card p-name full-citation">Ode, Kim</cite>, <cite class="short-work"><a href="http://www.startribune.com/larry-long-a-troubadour-for-social-justice/256621471/" target="_blank" rel="external noopener">Larry Long: a Troubadour for Social Justice</a>,</cite> (<time datetime="2014-04025">25 April 2014</time>).
+[^2]: <cite class="h-card p-name cite-person">Ode, Kim</cite>, <cite class="short-work"><a href="http://www.startribune.com/larry-long-a-troubadour-for-social-justice/256621471/" target="_blank" rel="external noopener">Larry Long: a Troubadour for Social Justice</a>,</cite> (<time datetime="2014-04025">25 April 2014</time>).
 
 While traveling with the tractorcade, Long conducted taped audio interviews of the farmers and their families. He also documented the procession photographically. Eventually Long edited the material into a slide show, <cite>Tractorcade U.S.A.,</cite> featuring traditional and original music. <cite>Tractorcade U.S.A.</cite> proceeded to travel across the United States, and the <span class="h-card p-organization">Library of Congress</span> later added excerpts from the slide show to its collection.
 

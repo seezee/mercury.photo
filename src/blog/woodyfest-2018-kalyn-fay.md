@@ -9,6 +9,7 @@ tags:
   - reportage
   - singer-songwriter
   - Americana
+  - Tulsa
   - festival
   - folk
   - Woody Guthrie

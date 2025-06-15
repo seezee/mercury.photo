@@ -340,7 +340,11 @@
       "source": "/woodyfest-2018-brad-fielder-rt-valine/",
       "destination": "/blog/woodyfest-2018-brad-fielder-rt-valine/",
       "permanent": true
+    },
+    {
+      "source": "/woodyfest-2018-desi-cody/",
+      "destination": "/blog/woodyfest-2018-desi-cody/",
+      "permanent": true
     }
-
   ]
 }

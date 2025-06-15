@@ -33,7 +33,7 @@ In <time datetime="2013-02">2013</time>, <span class="h-card p-name">Lance Canal
 
 Canales first performed <cite class="short-work">Deportee</cite> at the <time datetime="2012">2012</time> <span class="h-card p-organization">Steinbeck Festival</span>.[^2] Woody's original laments the anonymity of the Hispanic victims. In his cover, Canales names each of the victims. This contrasts with contemporary newspaper articles, which simply labeled them <q>deportees.</q>[^3] Soon after he began performing the song, he learned that the grave containing these lost souls was in Fresno, California, not far from his current home.
 
-[^2]: <cite class="full-citation">Artist bio, <a href="https://www.reverbnation.com/lancecanalestheflood" target="_blank" rel="noopener nofollow">ReverbNation</a>.</cite>
+[^2]: <cite class="cite-person">Artist bio, <a href="https://www.reverbnation.com/lancecanalestheflood" target="_blank" rel="noopener nofollow">ReverbNation</a>.</cite>
 
 [^3]: The only named victims in most contemporary reporting were the cabin crew and an immigration official.
 
@@ -41,7 +41,7 @@ Canales first performed <cite class="short-work">Deportee</cite> at the <time da
 
 By <time datetime="2013-08">August</time> Canales was organizing a fundraising concert with poet <span class="h-card p-name">Tim Z. Hernandez</span>, <span class="h-card p-name">Nora Guthrie</span> (Woody's daughter), and the <span class="h-card p-organization">Guthrie Foundation</span>. The concert raised $10,000 for a monument featuring the Los Gatos victims' names. The marker was later placed at the gravesite. The names themselves were discovered through Hernandez's curiosity and dedication.&NoBreak;[^4]
 
-[^4]: <cite class="full-citation">Diana Marcum, <cite class="short-work"><a href="//www.latimes.com/local/la-me-deportees-guthrie-20130710-dto-htmlstory.html" target="_blank" rel="noopener">Passengers on Doomed 1948 Flight, Their Names Now Emerge from Shadows</a>,</cite>, <cite>Los Angeles Times</cite> (<time datetime="2013-07-10">10 July 2013</time>).</cite>
+[^4]: <cite class="cite-person">Diana Marcum, <cite class="short-work"><a href="//www.latimes.com/local/la-me-deportees-guthrie-20130710-dto-htmlstory.html" target="_blank" rel="noopener">Passengers on Doomed 1948 Flight, Their Names Now Emerge from Shadows</a>,</cite>, <cite>Los Angeles Times</cite> (<time datetime="2013-07-10">10 July 2013</time>).</cite>
 
 In <time datetime="2014-07-10T11:24:00-5:00">2014</time>, Hernandez joined Lance Canales and the Flood to open the annual Woody Guthrie Folk Festival. While the band riffed on an instrumental break from <cite class="quoted">“Deportee,”</cite> Hernandez recited the names of the twenty-eight:
 
