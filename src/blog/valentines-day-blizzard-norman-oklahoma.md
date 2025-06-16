@@ -62,7 +62,7 @@ We scanned the negatives on <time datetime="2021-02-15">Monday</time>. We import
     <dt>Aperture</dt>
     <dd>&fnof;/8</dd>
     <dt>Filter</dt>
-    <dd>Leitz (Leica) K2 (Wratten N<sup>o.</sup> 8)</dd>
+    <dd>Leitz (Leica) K2 (Wratten <span class="ord">No.</span> 8)</dd>
     <dt>Exposure</dt>
     <dd><sup>1</sup>&frasl;<sub>30</sub><sup>th</sup> second (<abbr>OU</abbr>
       campus images)</dd>

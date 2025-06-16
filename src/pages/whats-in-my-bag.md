@@ -22,7 +22,7 @@ This information is from 2012 and is out-of-date. I’ll eventually update it an
 
 * Billingham Hadley Small camera bag in khaki Fibrenyte waterproof nylon fabric
 * Billingham <a href="//amzn.to/2TkhHKu" target="_blank" rel="external nofollow noopener">luggage tally</a> &amp; Billingham <a href="//amzn.to/2Y9zgAi" target="_blank" rel="external nofollow noopener">SP-40 shoulder pad</a>
-* Leica M3 (double-stroke) camera body, N<sup>o.</sup>&nbsp;873xxx, mfr. ca. 1957
+* Leica M3 (double-stroke) camera body, <span class="ord">No.</span>&nbsp;873xxx, mfr. ca. 1957
 * <a href="//amzn.to/2Js8GPM" target="_blank" rel="external nofollow noopener">Charger</a>, cable, &amp; <a href="//amzn.to/2OdMjw0" target="_blank" rel="external nofollow noopener">spare battery</a> for Leica M9-P (automobile adapter is in my MINI’s glovebox)
 * Leica Tele-Elmarit-M 90mm f/2.8 telephoto lens (version II “thin” mfr. 1974 – 1990)
 * Zeiss <a href="//amzn.to/2UHwJeC" target="_blank" rel="external nofollow noopener">Biogon T* 35mm&nbsp;f/2 ZM</a> lens
