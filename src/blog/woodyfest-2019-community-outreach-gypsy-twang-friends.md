@@ -32,7 +32,7 @@ Five of Woodyfest’s musical regulars joined Gypsy Twang for the performance: <
 
 Gypsy Twang comprises <span class="h-card p-name">Sarah Barker-Huhn</span> (guitar, vocals), <span class="h-card p-name">Steve Huhn</span> (bass), and <span class="h-card p-name">John Williams</span> (guitar, harmonica, voice).
 
-## Gallery
+## Gallery: Gypsy Twang & Friends
 
 <mpb-dialog-gallery hint rel cols="8">
   

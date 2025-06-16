@@ -30,7 +30,7 @@ As part of our cleanup of our Flickr account,[^1] we present these photos of <sp
 
 <a href="https://www.lynxdemuth.com/" target="_blank" rel="external noopener\">According to their bio</a>, LYNX hails from Colorado but currently calls Portland, Oregon, their home. At the time of the Beats Antique show, they lived in the San Francisco Bay area. They are a singer, songwriter, producer, multi-instrumentalist, and beat-boxer. Their performance highlights include performing at Coachella and at the Austin City Limits Festival and opening for <span class="h-card p-name">Alanis Morissette</span>.
 
-## Gallery
+## Gallery: LYNX
 
 <mpb-dialog-gallery hint rel cols="8">
 

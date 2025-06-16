@@ -53,7 +53,7 @@ In fact, Tyler kept so busy and supporting other musical acts that the gap betwe
 
 Tyler's <time datetime="2019-07-12T16:30:00-5:00">2019</time> band lineup comprised <span class="h-card p-name">Isai Mireles</span> (keyboard), <span class="h-card p-name">Seth Lee Jones</span> (guitar), <span class="h-card p-name">Paddy Ryan</span> (drums), and <span class="h-card p-name">Casey Van Beek</span> (bass).
 
-## Gallery
+## Gallery: Jared Tyler
 
 <mpb-dialog-gallery hint rel cols="8">
   

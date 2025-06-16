@@ -51,7 +51,7 @@ The gallery from their <time datetime="2013-07">2013</time> reading accompanying
 
 Woodyfest regular <span class="h-card p-name">David Amram</span> has accompanied the poets for all fifteen readings, providing nuanced and sensitive support for the poets’ words.
 
-## Gallery
+## Gallery: The Poets
 
 <mpb-dialog-gallery hint rel cols="8">
   

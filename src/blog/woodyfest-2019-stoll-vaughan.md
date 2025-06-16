@@ -40,7 +40,7 @@ The Kentucky native has toured with <span class="h-card p-name">John Mellencamp<
 
 Vaughan's latest release, <cite><a href="//geo.music.apple.com/us/album/desires-shape/1501505851?itsct=music_box&itscg=30200&at=10ldhk&ls=1&app=music" target="_blank" rel="external noopener">Desire&rsquo;s Shape</a></cite>, debuted in <time datetime="2020-04">April</time>. According to Vaughan&rsquo;s website, all 2020 tour dates are canceled, presumably due to the coronavirus pandemic.
 
-## Gallery
+## Gallery: Stoll Vaughan
 
 <mpb-dialog-gallery hint rel cols="8">
   

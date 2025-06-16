@@ -62,7 +62,7 @@ Oklahoma is a treasure-trove of mid-century modern architecture, but in recent y
 
 [^8]: Since the publication of this article the church has been demolished.
 
-## Gallery
+## Gallery: The Prairie House
 
 When my friend <span class="h-card p-name">Joe Crumley</span> and I photographed the Prairie House I brought along a Hasselblad <abbr>500C</abbr> that I intended to use. I changed my mind and instead borrowed Joe’s Mamiya 645. While not as well-made as the Swedish Hasselblad, the Mamiya 645 is much more ergonomic and produces beautiful images. Unlike the 1:1 square format of the Hasselblad, the Mamiya takes 2:3 (6<abbr>cm</abbr> &times; 4.5<abbr>cm</abbr>) images.
 

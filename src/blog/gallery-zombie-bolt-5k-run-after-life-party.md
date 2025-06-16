@@ -22,7 +22,7 @@ excerpt: The zombie run was followed by an after-party (the â€œafter life partyâ
 
 These are the photos from the after-party. [The rest of the "new" pictures start here](/blog/gallery-zombie-bolt-5k-run-pre-race/).
 
-## Gallery
+## Gallery: The After Life Party
 
 <mpb-dialog-gallery hint rel cols="8">
   

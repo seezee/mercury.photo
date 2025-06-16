@@ -78,7 +78,7 @@ In <time datetime="2014-07-10T11:24:00-5:00">2014</time>, Hernandez joined Lance
 
 </div>
 
-## Gallery
+## Gallery: Lance Canales & the Flood
 
 My favorite new Woodyfest performer in <time datetime="2014-07">2014</time> was also the festival opener: Lance Canales and the Flood. Canales sings of working life and hardship, subjects he knows all too well: he grew up working-class and <q>for years was forced to take his lumps in order to help his family make ends meet.</q>&NoBreak;[^5]
 

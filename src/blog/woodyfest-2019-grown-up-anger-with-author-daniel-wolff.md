@@ -38,7 +38,7 @@ In truth, the man’s identity is unknown and no proof has ever been found to su
 
 Festival regular <span class="h-card p-name">Chris Buhalis</span> provided musical examples for Wolff’s lecture. <cite>Grown Up Anger</cite> was published by <span class="h-card p-organization">Harper</span> in <time datetime="2017">2017</time> and is available from <a href="https://amzn.to/34I2TMT" target="_blank" rel="external noopener">all of the usual sources</a>.
 
-## Gallery
+## Gallery: Daniel Wolff
 
 <mpb-dialog-gallery hint rel cols="8">
 

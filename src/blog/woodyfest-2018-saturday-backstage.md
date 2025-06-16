@@ -36,7 +36,7 @@ A Crasher with a Camera
 
 We took the same medium format gear to the Pastures of Plenty backstage on Woodyfest 2019 <time datetime="20180714">Saturday</time> as we had on <time datetime="2018-07-12T18:16:50-5:00">[Thursday](/blog/woodyfest-2018-thursday-backstage/)</time> and <time datetime="2018-07-13T18:46:57-5:00">[Friday](/blog/woodyfest-2018-friday-backstage/)</time>. We’ve [already written](/blog/woodyfest-2018-thursday-backstage/) about the facilities improvements to the outdoor venue. Unless you care to read about them, we suggest you [skip to <time datetime="2018-07-14T17:31:21-5:00">Saturday</time>’s pictures](#gallery)!
 
-## Gallery
+## Gallery: Backstage
 
 As we did on  <time datetime="2018-07-12T18:16:50-5:00">[Thursday](/blog/woodyfest-2018-thursday-backstage/)</time> and <time datetime="2018-07-13T18:46:57-5:00">[Friday](/blog/woodyfest-2018-friday-backstage/)</time>, we brought the Hasselblad 500C/M to the Pastures of Plenty and shot a roll of Tri-X. We were still using the wrong lens hood,[^1] therefore the images are heavily vignetted.
 

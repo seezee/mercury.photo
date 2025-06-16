@@ -45,7 +45,7 @@ It’s been four years since Burcham’s last release, <time datetime="2016">201
 
 Burcham’s music blends rockabilly, Piedmont blues, country, and western swing. In the tradition of the best country and folk music, the songs all tell stories, mostly tales from the wrong side of the tracks. But they occasionally turn toward the hopeful or at least contented&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;<cite class="short-work">The Good Ones</cite> and <cite class="short-work">Cleveland Summer Nights</cite> being examples of the latter. If you need a laugh, look no further than <cite class="short-work">Women Do Funny Things to Me,</cite> the final track on Burcham’s latest. If you don’t need a laugh, go listen to the album anyway. You’ll be glad that you did.
 
-## Gallery
+## Gallery: Wink Burcham
 
 <mpb-dialog-gallery hint rel cols="8">
 

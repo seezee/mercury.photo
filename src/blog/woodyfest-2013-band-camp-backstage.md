@@ -30,7 +30,7 @@ Today we present candid images from my first year as a volunteer photographer fo
 
 As a volunteer I have access to various backstage areas that are off-limits to the general public. As you can imagine this presents many opportunities to capture people in unguarded moments. I hope you like the results.
 
-## Gallery
+## Gallery: Band Camp & Backstage
 
 <mpb-dialog-gallery hint rel cols="8">
   

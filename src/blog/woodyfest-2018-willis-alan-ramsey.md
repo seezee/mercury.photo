@@ -74,7 +74,7 @@ If anyone minded the delays, they kept it to themselves. When things finally got
 
 Festival regular <span class="h-card p-name">Jared Tyler</span> accompanied Ramsey on resonator guitar for a few numbers. <time datetime="2018-07-14T23:00:00-5:00">That evening</time> Ramsey joined hometown favorite <span class="h-card p-name">[John Fullbright](/blog/woodyfest-2018-randy-crouch-johnny-irion-john-fullbright/)</span> during the closing performance at the Pastures of Plenty.
 
-## Gallery
+## Gallery: Willis Alan Ramsey
 
 <mpb-dialog-gallery hint rel cols="8">
 

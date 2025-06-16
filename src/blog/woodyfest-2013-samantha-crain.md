@@ -37,7 +37,7 @@ A veteran touring musician, Crain has opened for <span class="h-card p-organizat
 
 Crain’s most recent Woodyfest appearance was on the main stage in <time datetime="2016-07-15T20:00-5:00">2016</time>. Her forthcoming album, <cite>A Small Death</cite>, <a href="https://samantha-crain.lnk.to/ASmallDeath" target="_blank" rel="external noopener">is available for pre-order</a>.
 
-## Gallery
+## Gallery: Samantha Crain
 
 <mpb-dialog-gallery hint rel cols="8">
   

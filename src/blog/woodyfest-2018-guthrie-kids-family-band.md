@@ -32,7 +32,7 @@ Members of the Guthrie family performed a musical showcase at Okemah’s <span c
 
 Rounding out the great-grandchildren, <span class="h-card p-name">Shivadas <span class="p-nickname">“Moe”</span> Guthrie</span> and <span class="h-card p-name">Jacklyn Guthrie</span> (<span class="h-card p-name">Annie Guthrie</span>&rsquo;s children), and <span class="h-card p-name">Marjorie Midwood</span> (<span class="h-card p-name">Cathy Guthrie</span>&rsquo;s daughter) all performed. Granddaughter and one-half of <span class="h-card p-org"><a href="https://amzn.to/2LYf9PO" target="_blank" rel="external noopener">Folk Uke</a></span> Cathy Guthrie brought her ukulele. Grandson <span class="h-card p-name">Cole Quest</span> provided resonator guitar and grandson-in-law Johnny Irion and granddaughter Annie Guthrie both played guitar as family members sang either solo or together.
 
-## Gallery
+## Gallery: Guthrie Kids Family Band
 
 <mpb-dialog-gallery hint rel cols="8">
   

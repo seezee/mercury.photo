@@ -59,7 +59,7 @@ Pomeroy has been appearing on the unofficial stage at <span class="h-card p-org"
 
 [^4]: Lou’s Rocky Road Tavern has served as an unofficial venue for Woodyfest since its inception, featuring festival performers and hosting open-mic sessions throughout. <time datetime="2018">Last year</time> festival organizers bestowed them official status.
 
-## Gallery
+## Gallery: Ken Pomeroy
 
 <mpb-dialog-gallery hint rel cols="8">
 

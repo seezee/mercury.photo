@@ -27,7 +27,7 @@ excerpt: We’ve featured folk-troubadour Tim Easton at the bureau previously. B
 
 We’ve [featured folk-troubadour <span class="h-card p-name">Tim Easton</span>](/tim-easton-exposition-interview-gallery/) at the bureau previously. But we first met him in <time datetime="2013-07">2013</time> when he made his Woody Guthrie Folk Festival debut. He was joined on the <span class="h-card p-organization">Crystal Theatre</span> stage by veteran folk-fiddler <span class="h-card p-organization">Megan Palmer</span>. Easton has made four appearances at Woodyfest since then, most recently in <time datetime="2019-07-12">2019</time>.
 
-## Gallery
+## Gallery: Tim Easton
 
 <mpb-dialog-gallery hint rel cols="8">
   

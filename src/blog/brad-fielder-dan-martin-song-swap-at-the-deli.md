@@ -34,7 +34,7 @@ A pair of Oklahoma’s premier songwriters sharing a stage should draw a crowd. 
 
 I’ve written elsewhere about [Fielder’s](/blog/woodyfest-2018-brad-fielder-rt-valine/) and [Martins’](/blog/woodyfest-2018-dan-martin/) songwriting, but additionally they are both excellent performers and players. In Fielder’s case especially, every performance is marked by masterful instrumental technique, even after six beers and two shots of whiskey. The singers’ mutual respect and easy-going camaraderie lent a loose and pleasurable air to this writer’s late Monday evening.
 
-## Gallery
+## Gallery: Dan Martin & Brad Fielder
 
 <mpb-dialog-gallery hint rel cols="8">
 

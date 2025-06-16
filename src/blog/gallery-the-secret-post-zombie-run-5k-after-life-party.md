@@ -29,7 +29,7 @@ The Secret Post is the brainchild of <span class="h-card p-name">Zachariah Wiser
 
 [^1]: <cite class="short-work"><a href="https://web.archive.org/web/20150703035738/http://www.thesecretpost.net/about/" target="_blank" rel="external noopener">The Secret Post is about sex, death, despair, and love&NoBreak;&hairsp;&NoBreak;&hellip;</a>,</cite> <cite>thesecretpost.net</cite> (retrieved from the Internet Wayback Machine <time datetime="2015-07-03">3 July 2015</time>).
 
-## Gallery
+## Gallery: The Secret Post
 
 <mpb-dialog-gallery hint rel cols="8">
   

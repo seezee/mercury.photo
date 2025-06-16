@@ -26,7 +26,7 @@ excerpt: Today’s post presents a photo gallery comprising images from various 
 
 <time datetime="2021-06-28">Today</time>&rsquo;s post presents a photo gallery comprising images I captured in various backstage areas at the <time datetime="2014-07">2014</time> Woody Guthrie Folk Festival, along with pictures from the "Band Camp" encampment at the Okemah Rodeo Grounds, plus anything else one wouldn't categorize as performance photography. The pictures are self-explanatory, so that's all I have to say!
 
-## Gallery
+## Gallery: Band Camp, Backstage, & Okemah
 
 <mpb-dialog-gallery hint rel cols="8">
 

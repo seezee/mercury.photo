@@ -23,7 +23,7 @@ excerpt: The Woody Guthrie Folk Festival has provided a variety of children’s 
 
 <!-- markdownlint-enable MD025 --><mpb-dialog-img>
 
-{% image "./src/assets/images/blog/2019-01-11-woodyfest-kids-harmonica-class/czahller-20180714-12-45-08.jpg", "img-constrained", "Students & Teachers — Kid’s Harmonica Class, 21st Annual Woody Guthrie Festival, 2018", "Students & Teachers&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;Kid’s Harmonica Class, 21st Annual Woody Guthrie Festival, 2018" %}</mpb-dialog-img>
+{% image "./src/assets/images/blog/2019-01-11-woodyfest-kids-harmonica-class/czahller-20180714-12-45-08.jpg", "img-constrained", "Students & Teachers — Kids’ Harmonica Class, 21st Annual Woody Guthrie Festival, 2018", "Students & Teachers&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;Kids’ Harmonica Class, 21st Annual Woody Guthrie Festival, 2018" %}</mpb-dialog-img>
 
 The <span class="h-card p-org"><span class="p-name"><span class="p-nickname">Woody</span> Guthrie</span> Folk Festival</span> has provided a variety of children’s programming over the years. <time datetime="2018-07">Last year</time> the festival expanded from just organizing kids’ concerts to also hosting youth workshops.
 
@@ -35,7 +35,7 @@ On festival Friday, Woodyfest artists <span class="h-card p-name">Joe Baxter</sp
 
 By the time we ready to move to our next assignment the class had played their first melody. All they needed was a campfire and a pot of beans to complete the scene.
 
-## Gallery
+## Gallery: Kids’ Harmonica Class
 
 <mpb-callout type="note">
 
@@ -44,19 +44,19 @@ While restoring this post in <time datetime="2025-06-10">2025</time>, we noticed
 
 <mpb-dialog-gallery hint rel cols="8">
   
-  ![Students & Teachers — Kid’s Harmonica Class, 21st Annual Woody Guthrie Festival, 2018](/assets/images/blog/2019-01-11-woodyfest-kids-harmonica-class/czahller-20180714-12-45-08.jpg)
-  ![John Williams Show the Proper Grip (I) — Kid’s Harmonica Class, 21st Annual Woody Guthrie Festival, 2018](/assets/images/blog/2019-01-11-woodyfest-kids-harmonica-class/czahller-20180714-12-50-31.jpg)
-  ![John Williams Show the Proper Grip (II) — Kid’s Harmonica Class, 21st Annual Woody Guthrie Festival, 2018](/assets/images/blog/2019-01-11-woodyfest-kids-harmonica-class/czahller-20180714-12-50-51.jpg)
-  ![Joe Baxter Shows “The Grip” — Kid’s Harmonica Class, 21st Annual Woody Guthrie Festival, 2018](/assets/images/blog/2019-01-11-woodyfest-kids-harmonica-class/czahller-20180714-12-51-26-2.jpg)
-  ![Explaining “The Train” — Kid’s Harmonica Class, 21st Annual Woody Guthrie Festival, 2018](/assets/images/blog/2019-01-11-woodyfest-kids-harmonica-class/czahller-20180714-12-51-26.jpg)
-  ![John Williams Show the Proper Grip (III) — Kid’s Harmonica Class, 21st Annual Woody Guthrie Festival, 2018](/assets/images/blog/2019-01-11-woodyfest-kids-harmonica-class/czahller-20180714-12-51-32.jpg)
-  ![Joe Baxter — Kid’s Harmonica Class, 21st Annual Woody Guthrie Festival, 2018](/assets/images/blog/2019-01-11-woodyfest-kids-harmonica-class/czahller-20180714-12-52-21.jpg)
-  ![Joe (I) — Kid’s Harmonica Class, 21st Annual Woody Guthrie Festival, 2018](/assets/images/blog/2019-01-11-woodyfest-kids-harmonica-class/czahller-20180714-12-52-43.jpg)
-  ![Joe (II) — Kid’s Harmonica Class, 21st Annual Woody Guthrie Festival, 2018](/assets/images/blog/2019-01-11-woodyfest-kids-harmonica-class/czahller-20180714-12-52-47.jpg)
-  ![This Kid Asked a Lot of Questions — Kid’s Harmonica Class, 21st Annual Woody Guthrie Festival, 2018](/assets/images/blog/2019-01-11-woodyfest-kids-harmonica-class/czahller-20180714-12-53-17.jpg)
-  ![Joe (III) — Kid’s Harmonica Class, 21st Annual Woody Guthrie Festival, 2018](/assets/images/blog/2019-01-11-woodyfest-kids-harmonica-class/czahller-20180714-12-53-22.jpg)
-  ![John — Kid’s Harmonica Class, 21st Annual Woody Guthrie Festival, 2018](/assets/images/blog/2019-01-11-woodyfest-kids-harmonica-class/czahller-20180714-12-53-31.jpg)
-  ![Students (I) — Kid’s Harmonica Class, 21st Annual Woody Guthrie Festival, 2018](/assets/images/blog/2019-01-11-woodyfest-kids-harmonica-class/czahller-20180714-12-53-59.jpg)
-  ![Students (II) — Kid’s Harmonica Class, 21st Annual Woody Guthrie Festival, 2018](/assets/images/blog/2019-01-11-woodyfest-kids-harmonica-class/czahller-20180714-12-54-29.jpg)
-  ![Students (III) — Kid’s Harmonica Class, 21st Annual Woody Guthrie Festival, 2018](/assets/images/blog/2019-01-11-woodyfest-kids-harmonica-class/czahller-20180714-12-56-26.jpg)
+  ![Students & Teachers — Kids’ Harmonica Class, 21st Annual Woody Guthrie Festival, 2018](/assets/images/blog/2019-01-11-woodyfest-kids-harmonica-class/czahller-20180714-12-45-08.jpg)
+  ![John Williams Show the Proper Grip (I) — Kids’ Harmonica Class, 21st Annual Woody Guthrie Festival, 2018](/assets/images/blog/2019-01-11-woodyfest-kids-harmonica-class/czahller-20180714-12-50-31.jpg)
+  ![John Williams Show the Proper Grip (II) — Kids’ Harmonica Class, 21st Annual Woody Guthrie Festival, 2018](/assets/images/blog/2019-01-11-woodyfest-kids-harmonica-class/czahller-20180714-12-50-51.jpg)
+  ![Joe Baxter Shows “The Grip” — Kids’ Harmonica Class, 21st Annual Woody Guthrie Festival, 2018](/assets/images/blog/2019-01-11-woodyfest-kids-harmonica-class/czahller-20180714-12-51-26-2.jpg)
+  ![Explaining “The Train” — Kids’ Harmonica Class, 21st Annual Woody Guthrie Festival, 2018](/assets/images/blog/2019-01-11-woodyfest-kids-harmonica-class/czahller-20180714-12-51-26.jpg)
+  ![John Williams Show the Proper Grip (III) — Kids’ Harmonica Class, 21st Annual Woody Guthrie Festival, 2018](/assets/images/blog/2019-01-11-woodyfest-kids-harmonica-class/czahller-20180714-12-51-32.jpg)
+  ![Joe Baxter — Kids’ Harmonica Class, 21st Annual Woody Guthrie Festival, 2018](/assets/images/blog/2019-01-11-woodyfest-kids-harmonica-class/czahller-20180714-12-52-21.jpg)
+  ![Joe (I) — Kids’ Harmonica Class, 21st Annual Woody Guthrie Festival, 2018](/assets/images/blog/2019-01-11-woodyfest-kids-harmonica-class/czahller-20180714-12-52-43.jpg)
+  ![Joe (II) — Kids’ Harmonica Class, 21st Annual Woody Guthrie Festival, 2018](/assets/images/blog/2019-01-11-woodyfest-kids-harmonica-class/czahller-20180714-12-52-47.jpg)
+  ![This Kid Asked a Lot of Questions — Kids’ Harmonica Class, 21st Annual Woody Guthrie Festival, 2018](/assets/images/blog/2019-01-11-woodyfest-kids-harmonica-class/czahller-20180714-12-53-17.jpg)
+  ![Joe (III) — Kids’ Harmonica Class, 21st Annual Woody Guthrie Festival, 2018](/assets/images/blog/2019-01-11-woodyfest-kids-harmonica-class/czahller-20180714-12-53-22.jpg)
+  ![John — Kids’ Harmonica Class, 21st Annual Woody Guthrie Festival, 2018](/assets/images/blog/2019-01-11-woodyfest-kids-harmonica-class/czahller-20180714-12-53-31.jpg)
+  ![Students (I) — Kids’ Harmonica Class, 21st Annual Woody Guthrie Festival, 2018](/assets/images/blog/2019-01-11-woodyfest-kids-harmonica-class/czahller-20180714-12-53-59.jpg)
+  ![Students (II) — Kids’ Harmonica Class, 21st Annual Woody Guthrie Festival, 2018](/assets/images/blog/2019-01-11-woodyfest-kids-harmonica-class/czahller-20180714-12-54-29.jpg)
+  ![Students (III) — Kids’ Harmonica Class, 21st Annual Woody Guthrie Festival, 2018](/assets/images/blog/2019-01-11-woodyfest-kids-harmonica-class/czahller-20180714-12-56-26.jpg)
 </mpb-dialog-gallery>

@@ -38,7 +38,7 @@ The latter album yielded <cite class="short-work">Oklahoma Stars,</cite> co-writ
 
 Of the new artists this writer saw at the 2019 festival, Wilson stood out as a favorite. Hopefully this won’t be her final appearance on the Pastures of Plenty stage.
 
-## Gallery
+## Gallery: Jamie Lin Wilson
 
 <mpb-dialog-gallery hint rel cols="8">
   

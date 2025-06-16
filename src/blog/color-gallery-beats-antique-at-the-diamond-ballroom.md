@@ -28,7 +28,7 @@ We’re moving the bulk of our Flickr photos to their new permanent home.[^1] Ba
 
 [^1]: In response to <a href="//blog.flickr.net/en/2018/11/01/changing-flickr-free-accounts-1000-photos/" target="_blank" rel="external noopener noreferrer">their new terms of service</a>.
 
-## Gallery
+## Gallery: Beats Antique
 
 <mpb-dialog-gallery hint rel cols="8">
 

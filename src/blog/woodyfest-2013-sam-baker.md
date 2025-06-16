@@ -30,7 +30,7 @@ I wrote about Woodyfest regular <span class="h-card p-name">Sam Baker</span> <a 
 
 Baker played an afternoon set at the Crystal Theatre on festival Saturday. <span class="h-card p-name">Megan Palmer</span> accompanied Baker on violin. Also accompanying Baker are <span class="h-card p-name">Don Conoscenti</span> (electric guitar, lap steel) and <span class="h-card p-name">Erik Alvar</span> (contrabass). The late <span class="h-card p-name"><a href="/blog/audrey-auld-at-the-crystal-theatre-woody-guthrie-folk-festival/">Audrey Auld-Mezera</a></span> and the <span class="h-card p-organization">Burns Sisters</span> (<span class="h-card p-name p-given-name">Jeannie</span> and <span class="h-card p-name p-given-name">Marie</span>) joined Baker later in his set.
 
-## Gallery
+## Gallery: Sam Baker
 
 I took these photos during Baker's ninth appearance at the festival in <time datetime="2013-07-13T17:00:00-5:00">2013</time>. I was still getting the hang of exposing for stage lighting when I took them. I&rsquo;m not proud of these pictures&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;the blown highlights and out-of-focus main subjects are egregious&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;but they are a record of something ephemeral. In that spirit I offer them to you.
 

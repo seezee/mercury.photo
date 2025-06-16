@@ -75,7 +75,7 @@ The songs aren’t strictly folk, although the underlying positive messages fit 
 
 In this writer’s judgment, the organizer’s goal of widening the festival audience was a smashing success. I hope they will not only book Mraz for future festivals, but will remain open to attracting other folk-adjacent performers.
 
-## Gallery
+## Gallery: Ellis Paul & Jazon Mraz
 
 I didn't get many photograph's of Ellis Paul's set as I was taking a break from my duties, but here are a couple of images I shot from upstage, for what it's worth. Images from Jason Mraz's set follow.
 

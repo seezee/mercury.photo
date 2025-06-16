@@ -51,7 +51,7 @@ Like Lee, Varnell’s mother was musical (she was an accomplished pianist). And 
 
 Lee, Haworth, and Varnell were accompanied during their Woodyfest showcase by <span class="h-card p-name">Nellie Clay</span>&rsquo;s bassist, <span class="h-card p-name">Luke Mullinex</span>.
 
-## Gallery
+## Gallery: And Then There Were Two
 
 <mpb-dialog-gallery hint rel cols="8">
   

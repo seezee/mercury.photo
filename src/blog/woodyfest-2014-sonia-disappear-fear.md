@@ -33,7 +33,7 @@ Following her sister's departure, Rutstein released a spate of solo albums, ofte
 
 For her <time datetime="2014-07-10T20:30:00-5:00">2014</time> appearance she performed as <span class="h-card p-name p-nickname p-organization">SONiA disappear fear</span>. This was her third of five appearances at the festival. Woodyfest regular <span class="h-card p-name">Don Conoscenti</span> joined her near the end of her set.
 
-## Gallery
+## Gallery: SONiA disappear fear
 
 <mpb-dialog-gallery hint rel cols="8">
   

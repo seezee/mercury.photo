@@ -141,7 +141,7 @@ So, they were like, <q>Go more <cite>Love Boat</cite>,</q> and I was like <q>No 
 
 <span class="spkr">MPB</span> Thank you so much for taking the time for this interview.
 
-## Gallery
+## Gallery: The Dollyrots
 
 I reached out to The Dollyrots weeks before the show to let them know I’d be using a flash so I could shoot on film.[^9] They were totally cool about about it. Enjoy!
 

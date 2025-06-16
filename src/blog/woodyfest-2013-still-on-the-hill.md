@@ -49,7 +49,7 @@ The duo have created numerous Ozark-centric documentary projects, including <tim
 
 <time datetime="2013-0712T15:00-5:00">2013</time> was Still on the Hill’s fourth and most recent Woodyfest performance.
 
-## Gallery
+## Gallery: Still on the Hill
 
 <mpb-dialog-gallery hint rel cols="8">
 

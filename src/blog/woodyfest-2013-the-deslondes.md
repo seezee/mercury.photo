@@ -60,7 +60,7 @@ The Deslondes sophomore album, <cite><a href="//geo.music.apple.com/us/album/hur
 
 [^7]: <cite class="h-card p-name cite-person">Shelburne, Craig</cite>, <cite>Rolling Stone</cite>, <cite class="short-work"><a href="https://www.rollingstone.com/music/music-country/watch-the-deslondes-dodge-tvs-and-groupies-in-real-deal-video-161564/" target="_blank" rel="external noopener">Watch the Deslondes Dodge <abbr>TV</abbr>s and Groupies in <cite class="short-work">The Real Deal</cite></a>&NoBreak;&hairsp;&NoBreak;</cite> (<time datetime="2015-07-14T13:53-4:00">14 July 2015</time>)
 
-## Gallery
+## Gallery: The Deslondes
 
 <mpb-dialog-gallery hint rel cols="8">
   

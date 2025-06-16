@@ -58,7 +58,7 @@ Agafia’s backwoods childhood is evident in her slight country twang, but there
 
 For her Woodyfest début, Agafia was accompanied by her band, <span class="h-card p-org">The Sweet Nothings</span>. The band comprises <span class="h-card p-name">Michael Schembre</span> (fiddle &amp; vox), <span class="h-card p-name">Justin Thomas Easter</span> (acoustic guitar &amp; vox), <span class="h-card p-name">David Lucas Gesualdo</span> (upright bass &amp; vox), and <span class="h-card p-name">Ron Landis</span> (resonator slide guitar &amp; vox). Their second album, <cite><a href="https://geo.itunes.apple.com/us/album/share-what-you-own/1441860769?mt=1&app=music&at=10ldhk" target="_blank" rel="external noopener">Share What You Own</a></cite>, was released just prior to their Woodyfest appearance.
 
-## Gallery
+## Gallery: Opal Agafia & the Sweet Nothings
 
 <mpb-dialog-gallery hint rel cols="8">
 

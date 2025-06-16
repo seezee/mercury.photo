@@ -31,7 +31,7 @@ Marking their twenty-first appearance at Woodyfest <time datetime="2019-07-11T20
 
 If you’re not familiar with the Rangers, you can read about them in <a href="/woodyfest-2018-red-dirt-rangers/"><cite>Woodyfest 2018: Red Dirt Rangers</cite></a>.
 
-## Gallery
+## Gallery: Red Dirt Rangers
 
 <mpb-dialog-gallery hint rel cols="8">
   

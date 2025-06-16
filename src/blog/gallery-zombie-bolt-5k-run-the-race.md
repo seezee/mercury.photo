@@ -25,7 +25,7 @@ For this move, I’ve taken advantage of <a href="https://amzn.to/2Ya5I4O" targe
 
 This is the second batch from the zombie run, featuring pictures taken during the race. You can  [see the previous batch here](/blog/gallery-zombie-bolt-5k-run-pre-race) and [the final batch here](/blog/gallery-zombie-bolt-5k-run-post-race/).
 
-## Gallery
+## Gallery: The Race
 
 <mpb-dialog-gallery hint rel cols="8">
   

@@ -44,7 +44,7 @@ Speaking of recordings, This Frontier Needs Heroes has released four full-length
 
 Lauretti opened <time datetime="2018-07-14T11:00:00-5:00">festival Saturday</time> with a solo set at <span class="h-card p-org">Lou’s Rocky Road Tavern</span>.
 
-## Gallery
+## Gallery: This Frontier Needs Heroes
 
 <mpb-dialog-gallery hint rel cols="8">
   

@@ -37,7 +37,7 @@ Hannam made his Woodyfest debut in <time datetime="2010-07">2010</time>. He retu
 
 Hannam's latest release is <time datetime="2018-09-19">2018</time>&rsquo;s <cite><a href="//amzn.to/33KRzkn" target="_blank" rel="external">Acres of Elbow Room</a></cite>.
 
-## Gallery
+## Gallery: John Wort Hannam
 
 <mpb-dialog-gallery hint rel cols="8">
   

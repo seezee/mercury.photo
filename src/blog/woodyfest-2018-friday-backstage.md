@@ -36,7 +36,7 @@ Playing Paparazzo at the Pastures
 
 We took the same medium format gear to the Pastures of Plenty backstage on Woodyfest 2019 <time datetime="20180714">Saturday</time> as we had on <time datetime="2018-07-12T18:16:50-5:00">[Thursday](/blog/woodyfest-2018-thursday-backstage/)</time> and <time datetime="2018-07-14T19:08:35-5:00">[Saturday](/blog/woodyfest-2018-saturday-backstage/)</time>. We’ve [already written](/blog/woodyfest-2018-thursday-backstage/) about the facilities improvements to the outdoor venue, so [let’s get straight to the pictures](#gallery)!
 
-## Gallery
+## Gallery: Backstage
 
 As we did on  <time datetime="2018-07-12T18:16:50-5:00">[Thursday](/blog/woodyfest-2018-thursday-backstage/)</time> and <time datetime="2018-07-14T19:08:35-5:00">[Saturday](/blog/woodyfest-2018-saturday-backstage/)</time>, we brought the Hasselblad500C/M to the Pastures of Plenty and shot a roll ofTri-X. We were still using the wrong lens hood,[^1] hence the vignetting.
 

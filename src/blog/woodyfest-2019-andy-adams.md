@@ -44,7 +44,7 @@ The album features several Adams originals as well as songs he co-wrote with pro
 
 Adams has performed at every Woodyfest since <time datetime="2015-07">2015</time>. He performed a set on the new Bound for Glory stage on festival <time datetime="2019-07-11T15:30-5:00">Thursday</time>. Adams also served as the emcee for that stage throughout Woodyfest <time datetime="2019-07">2019</time>.
 
-## Gallery
+## Gallery: Andy Adams
 
 <mpb-dialog-gallery hint rel cols="8">
   

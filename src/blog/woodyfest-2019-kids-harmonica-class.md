@@ -32,7 +32,7 @@ For the <a href="/woodyfest-2018-kids-harmonica-class/" target="_blank" rel="ext
 
 The pair were assisted by East Texas singer-songwriter and multi-instrumentalist <span class="h-card p-name">Steve Fisher</span>. The <time datetime="2019-07-12T13:30-5:00">Friday</time> class was held at <span class="h-card p-organization">Saint Paul’s United Methodist Church</span>.
 
-## Gallery
+## Gallery: Kids’ Harmonica Class
 
 <mpb-dialog-gallery hint rel cols="8">
   

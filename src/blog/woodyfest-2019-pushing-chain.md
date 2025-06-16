@@ -29,7 +29,7 @@ Self-described “folky-tonk” duo <span class="h-card p-organization">Pushing 
 
 The two have been playing together since <time datetime="2012">2012</time>. Pushing Chain recorded their most recent long-player <cite><a href="https://geo.music.apple.com/us/album/sorrows-always-swim/1426172321?mt=1&app=music&at=10ldhk" target="_blank" rel="external noopener">Sorrows Always Swim</a></cite> in Austin in <time datetime="2018">2018</time>. The recording session featured some legendary players, including <span class="h-card p-name">Bill Kirchen</span> of <span class="h-card p-organization">Commander Cody and His Lost Planet Airmen</span> fame.
 
-## Gallery
+## Gallery: Pushing Chain
 
 <mpb-dialog-gallery hint rel cols="8">
   

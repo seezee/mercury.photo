@@ -43,7 +43,7 @@ Appearing alongside Apple at the Crystal Theatre are <span class="h-card p-name"
 
 Apple owns the independent record label <a href="https://www.facebook.com/profile.php?id=100066792157994#" target="_blank" rel="external noopener">Ringo Records</a>.
 
-## Gallery
+## Gallery: Nancy Apple
 
 <mpb-dialog-gallery hint rel cols="8">
   

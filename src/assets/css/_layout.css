@@ -705,13 +705,15 @@ div.col-5 {
 }
 
 @media screen and (min-width: 64rem) {
-  #share-wrapper,
-  #tags-wrapper,
-  [id^="fn\:"],
-  [id^="mn\:"] { /* Fit sidebar width when wrapped */
-    max-inline-size: 30ch;
+  .flex_box-flexed {
+      #share-wrapper,
+      #tags-wrapper,
+      [id^="fn\:"],
+      [id^="mn\:"] { /* Fit sidebar width when wrapped */
+        max-inline-size: 30ch;
+      }
+    }
   }
-}
 
 .flex_box-flexed {
 

@@ -49,7 +49,7 @@ No stranger to Woodyfest, Weber placed third in the <time datetime="2013-07">201
 
 Weber can be counted on to show up at the festival most years, whether he is performing or not. He recently moved from Oregon to Richardson, Texas, just in time to experience the [Great <time datetime="2020-02-14">2020</time> Blizzard](/blog/valentines-day-blizzard-norman-oklahoma/) and the subsequent failure of the Texas power grid. Here's hoping he can stand the heat, now that summer's here.
 
-## Gallery
+## Gallery Anna Larson & Dan Weber
 
 <mpb-dialog-gallery hint rel cols="8">
   

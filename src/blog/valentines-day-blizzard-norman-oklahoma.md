@@ -34,7 +34,9 @@ The temperature at the Bureau reached 5ºF (-15ºC) with a wind chill of -19ºF 
 
 [^2]: Thanks, compact edition of the OED.
 
-We scanned the negatives on <time datetime="2021-02-15">Monday</time>. We imported them into Adobe&reg; Lightroom on <time datetime="2021-02-16">Tuesday</time> and updated the metadata and made tonal adjustments. We also did some initial retouching (dust and scratch removal). Retouching continued into <time datetime="2021-02-17">Wednesday</time>, when we exported the final files. We present them <time datetime="2021-02-18">today</time> for your enjoyment:
+We scanned the negatives on <time datetime="2021-02-15">Monday</time>. We imported them into Adobe&reg; Lightroom on <time datetime="2021-02-16">Tuesday</time> and updated the metadata and made tonal adjustments. We also did some initial retouching (dust and scratch removal). Retouching continued into <time datetime="2021-02-17">Wednesday</time>, when we exported the final files. We present them <time datetime="2021-02-18">today</time> for your enjoyment.
+
+## Gallery: Norman, Oklahoma Blizzard
 
 <mpb-dialog-gallery hint rel cols="8">
   

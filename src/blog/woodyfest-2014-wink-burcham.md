@@ -31,7 +31,7 @@ excerpt: Wink Burcham will return to Woodyfest for the seventh time in 2021. His
 Wink Burcham will return to Woodyfest for the seventh time in 2021. His previous appearance was in 2019, which we’ve [previously written about](/blog/woodyfest-2019-wink-burcham/).
 </mpb-callout>
 
-## Gallery
+## Gallery: Wink Burcham
 
 <p class="drop-cap">Today we present an image gallery of Burcham’s debut Woodyfest showcase in 2014, when he performed at the Crystal Theatre.</p>
 

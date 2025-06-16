@@ -65,7 +65,7 @@ If you were lucky enough to hear the Okemah high-schooler try out his songs arou
 
 We imagine greater things to come.
 
-## Gallery
+## Gallery: Randy Crouch, Johnny Irion, & John Fullbright
 
 <mpb-dialog-gallery hint rel cols="8">
 

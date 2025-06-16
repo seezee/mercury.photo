@@ -35,7 +35,7 @@ Each of the winners received cash and other prizes provided by local sponsors. A
 
 The showcase was originally conceived as a songwriting competition. Organizers decided to allow cover songs to give more kids an opportunity to play in front of an audience. The competition is part of “Woody’s Kids,” a youth-focused program entering its third year. The program also features songwriting workshops; <time datetime="2019">this year</time> the number of workshops will double from two to four.
 
-## Gallery
+## Gallery: Youth Songwriting Showcase
 
 <mpb-dialog-gallery hint rel cols="8">
   

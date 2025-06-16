@@ -33,7 +33,7 @@ Holyfield is the author of <cite><a href="//amzn.to/3lZlGLh" target="_blank" rel
 
 [^1]: Holyfield earned her doctorate from the <span class="h-card p-organization">University of Georgia</span>. She has served as a professor in the <span class="h-card p-organization">Department of Sociology and Criminal Justice</span> at the <span class="h-card p-organization">University of Arkansas</span> since <time datetime="1995">1995</time>.
 
-## Gallery
+## Gallery: Lori Holyfield
 
 <mpb-dialog-gallery hint rel cols="8">
   

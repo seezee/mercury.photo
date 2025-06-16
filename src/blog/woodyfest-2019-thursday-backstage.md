@@ -74,7 +74,7 @@ Between <time datetime="2018">2018</time> and <time datetime="2019">2019</time> 
         rel="external noopener">Adobe Lightroom 6</a></dd>
   </dl>
 
-## Gallery
+## Gallery: Backstage
 
 <mpb-dialog-gallery hint rel cols="8">
   

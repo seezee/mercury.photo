@@ -44,7 +44,7 @@ Tovar’s mother imparted his melodic sense when she taught young Jacob to whist
 
 Tovar is currently working on an album with producer <span class="h-card p-name">Isaac Hanson</span> and a music video with filmmaker <span class="h-card p-name">Sterlin Harjo</span>, both to be released soon.
 
-## Gallery
+## Gallery: Jacob Tovar
 
 <mpb-dialog-gallery hint rel cols="8">
   

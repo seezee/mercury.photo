@@ -32,7 +32,7 @@ Since the dissolution of Red Molly, Solebello has alternated between solo perfor
 
 Solebello's most recent album, <cite>Shiver</cite>, <a href="https://geo.music.apple.com/it/album/shiver/1354766373?mt=1&app=music&at=10ldhk" target="_blank" rel="external noopener">is out now</a>.
 
-## Gallery
+## Gallery: Carolann Solebello
 
 <mpb-dialog-gallery hint rel cols="8">
   

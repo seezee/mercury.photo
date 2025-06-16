@@ -28,7 +28,7 @@ Today we present the previously unpublished[^1] black and white photos from elec
 
 [^1]: I had previously published these images on <span class="h-card p-organisation">Flickr</span>, but am permanently moving them here due to <a href="https://blog.flickr.net/en/2018/11/01/changing-flickr-free-accounts-1000-photos/" target="_blank" rel="external noopener">changes to the Flickr terms of service</a>.
 
-## Gallery
+## Gallery: Beats Antique
 
 <mpb-dialog-gallery hint rel cols="8">
 

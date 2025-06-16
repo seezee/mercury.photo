@@ -51,7 +51,7 @@ It was Baker’s ninth time to play Woodyfest; with the exception of <time datet
 
 <time datetime="2018-07-13T19:45:00-5:00">This year’s festival Friday</time>, Baker played the main stage at the Pastures of Plenty. Don Conoscenti once again provided guitar and vocals. Joining them on keyboard, accordion, and vocals was festival regular <span class="h-card p-name">Radoslav “Rad” Lorković</span>. Despite the early evening heat, the sizable crowd enthusiastically welcomed Baker&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;many in the audience knew what to expect, and were eager to witness it.
 
-## Gallery
+## Gallery: Sam Baker
 
 <mpb-dialog-gallery hint rel cols="8">
 

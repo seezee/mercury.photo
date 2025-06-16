@@ -72,7 +72,7 @@ There’s much more to Long’s life and career, too much for this article. We e
 
 Long returned to Okemah for Woodyfest 2019, his tenth time to grace her stages. He was accompanied in his late-morning performance by violinist “Fiddlin’&NoBreak;&hairsp;&NoBreak;” Pete Watercott.
 
-## Gallery
+## Gallery: Larry Long
 
 <mpb-dialog-gallery hint rel cols="8">
   

@@ -49,7 +49,7 @@ Flint released four albums and was named Breakout Artist of the Year at the We A
 
 The cause of death has not yet been released.
 
-## Gallery
+## Gallery: Jake Flint
 
 The gallery features images of Jake from the <time datetime="2019">2019</time>, <time datetime="2021">2021</time>, and <time datetime="2022">2022</time> Woody Guthrie Folk Festivals.
 
