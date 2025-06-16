@@ -144,7 +144,7 @@ That’s just what holds people back, you know, <q>I’m worried about what the 
 
 ## Gallery: <cite>Exposition</cite> Recording Sessions
 
-Before I interviewed Easton<a href="#mn:1" id="mnref:1" class="sr-only">[See note]</a> I took some pictures of him tracking songs for the album. Afterward he art-directed an impromptu photo shoot taking advantage of the unusual surroundings. Who know the Okfuskee Historical Society had a basketball court upstairs?
+Before I interviewed Easton I took some pictures of him tracking songs for the album.<a href="#mn:1" id="mnref:1"><span class="sr-only"> [See note]</span></a> Afterward he art-directed an impromptu photo shoot taking advantage of the unusual surroundings. Who know the Okfuskee Historical Society had a basketball court upstairs?
 
 <mpb-dialog-gallery hint rel cols="8">
   
@@ -171,7 +171,7 @@ Before I interviewed Easton<a href="#mn:1" id="mnref:1" class="sr-only">[See not
 
 {% image "./src/assets/images/blog/2018-12-19-tim-easton-exposition/tim-easton-exposition-lp-jacket-front.png", "img-constrained", "Tim Easton — Exposition Album Front Jacket", "Tim Easton&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;Exposition Album Front Jacket" %}</mpb-dialog-img>
 
-After the bureau published this article, Easton licensed several of the images from the shoot for the <cite>Exposition</cite> LP and <abbr>CD, which he commissioned me to design. I also designed a promotional poster. <a href="https://messengerwebdesign.com/portfolio/tim-easton-exposition-album-design-package/" target="_blank" rel="external me">You can see the final designs here</a>.
+After the bureau published this article, Easton licensed several of the images from the shoot for the <cite>Exposition</cite> LP and <abbr>CD, which he commissioned me to design. I also designed a promotional poster. <a href="https://messengerwebdesign.com/portfolio/tim-easton-exposition-album-design-package/" target="_blank" rel="external me">You can see the final designs here</a><a href="#mnref:1" class="govuk-link" aria-label="Back to content">↩︎</a>.
 
   </stack-l></li>
   </ul>

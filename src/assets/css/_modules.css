@@ -17,7 +17,8 @@
   }
 }
 
-[href^='#fnref:'] {
+[href^='#fnref:'],
+[href^='#mnref:'] {
   text-decoration: none;
 }
 

@@ -807,7 +807,7 @@ a[href^='https://']:not([href*='mercury.photo']):not([href*='localhost']):not(.s
   inline-size: 1ch;
   block-size: 1lh;
 
-  content: '\2060' var(--mpb-external-icon) '\2060' / 'Opens in new window';
+  content: '\2060' var(--mpb-icon-external) '\2060' / 'Opens in new window';
 }
 
 blockquote footer a[href^='http://']:not([href*='mercury.photo']):not([href*='localhost']):not(.social-link):after,

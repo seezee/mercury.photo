@@ -15,7 +15,7 @@ permalink: "/legal/photo-copyright/"
 </mpb-dialog-img>
 <p>You are viewing this page because you peeked at the exif/iptc metadata in one of my pictures. The image bearing this page’s URL is copyright ©2012{{ helpers.currentYear() | safe }} Mercury Photo Bureau dba Messenger Web Design LLC.</p>
 
-All rights to the photographic image are reserved. You may not copy, <a href="#mn:1" id="mnref:1" class="sr-only">[See note]</a> share, or distribute the image without written permission from the copyright holder, nor may you alter it, nor create derivative works from it, nor remove nor alter the embedded metadata.
+All rights to the photographic image are reserved. You may not copy, <a href="#mn:1" id="mnref:1"><span class="sr-only"> [See note]</span></a> share, or distribute the image without written permission from the copyright holder, nor may you alter it, nor create derivative works from it, nor remove nor alter the embedded metadata.
 
 Mercury Photo Bureau vigorously protects its intellectual property rights. Violators can expect to bear the full legal and financial consequences of any such breach.
 
@@ -24,7 +24,7 @@ Remember: it’s not nice to steal!
   <ul class="app-marginnotes-list" role="list">
     <li id="mn:1" role="listitem">
 
-Your computer or other connected devices automatically cache a copy of any image you view on the internet; of course, we make an exception for that.
+Your computer or other connected devices automatically cache a copy of any image you view on the internet; of course, we make an exception for that.&NoBreak;<a href="#mnref:1" class="govuk-link" aria-label="Back to content">↩︎</a>
     </li>
   </ul>
 </footer>

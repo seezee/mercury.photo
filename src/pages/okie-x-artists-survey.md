@@ -20,7 +20,7 @@ excerpt: An excerpt
 
 {% image "./src/assets/images/okie-x/OKIE-X-Contact-Sheet-C.jpg", "img-constrained", "Contact sheet featuring the third dozen OKIE-X subjects." %}</mpb-dialog-img>
 
-Thank you for completing the OKIE-X Artists’ Survey.<a href="#mn:1" id="mnref:1" class="sr-only">[See note]</a> Your answers will help me create the descriptive cards that will be displayed alongside your portrait in the OKIE-X project. Fields marked with <span class="required">*</span> are required.
+Thank you for completing the OKIE-X Artists’ Survey.<a href="#mn:1" id="mnref:1"><span class="sr-only"> [See note]</span></a> Your answers will help me create the descriptive cards that will be displayed alongside your portrait in the OKIE-X project. Fields marked with <span class="required">*</span> are required.
 
 {% include "_okie-x-artist-survey.njk" %}
 
@@ -28,7 +28,7 @@ Thank you for completing the OKIE-X Artists’ Survey.<a href="#mn:1" id="mnref:
   <ul class="app-marginnotes-list" role="list">
     <li id="mn:1" role="listitem">
 
-We’ll contact our artists to coördinate their sittings and to follow up with them when the show is ready to hang, as well as to arrange furnishing each artist with a complimentary digital file of their portrait after the show has hung. We won’t spam you and we won’t share your contact information without your explicit consent. <a href="#mnref:1" class="govuk-link" aria-label="Back to content">↩︎</a>
+We’ll contact our artists to coördinate their sittings and to follow up with them when the show is ready to hang, as well as to arrange furnishing each artist with a complimentary digital file of their portrait after the show has hung. We won’t spam you and we won’t share your contact information without your explicit consent.&NoBreak;<a href="#mnref:1" class="govuk-link" aria-label="Back to content">↩︎</a>
     </li>
   </ul>
 

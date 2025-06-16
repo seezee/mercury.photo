@@ -96,7 +96,7 @@ recipe: '<script type="application/ld+json">
 
 My friend <span class="h-card p-name">[RT Valine](/blog/woodyfest-2018-brad-fielder-rt-valine/)</span> and his wife <span class="h-card p-name p-given-name">Jackie</span> were visiting the Bureau one evening and we got to discussing food and cooking. The Valines live in rural Allen, Oklahoma. When the conditions are right, they have access to wild morel mushrooms.
 
-Morels are delicious,<a href="#mn:1" id="mnref:1" class="sr-only">[See note]</a> but hard to come by unless you know someone who knows someone. I sometimes see them at the farmers market, but the prices are dear and they disappear quickly&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;you’ve got to be first in line if you expect to buy any.
+Morels are delicious,<a href="#mn:1" id="mnref:1"><span class="sr-only"> [See note]</span></a> but hard to come by unless you know someone who knows someone. I sometimes see them at the farmers market, but the prices are dear and they disappear quickly&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;you’ve got to be first in line if you expect to buy any.
 
 <mpb-dialog-img>
 
@@ -105,18 +105,18 @@ Morels are delicious,<a href="#mn:1" id="mnref:1" class="sr-only">[See note]</a>
 
 Being the generous people they are, the Valines invited me to stay in their comfortably appointed guest cabin to forage for the tasty fungi during morel season. I gladly accepted the offer.
 
-<time datetime="2019-04-07">The day before I was to travel to Allen</time> I picked up three small rib eye steaks to accompany the mushrooms we’d be eating for dinner.<a href="#mn:2" id="mnref:2" class="sr-only">[See note]</a> I also harvested some of the volunteer chives that have been growing in my yard since they escaped my neglected herb garden many seasons ago; these were to go on some scrambled eggs.
+<time datetime="2019-04-07">The day before I was to travel to Allen</time> I picked up three small rib eye steaks to accompany the mushrooms we’d be eating for dinner.<a href="#mn:2" id="mnref:2"><span class="sr-only"> [See note]</span></a> I also harvested some of the volunteer chives that have been growing in my yard since they escaped my neglected herb garden many seasons ago; these were to go on some scrambled eggs.
 
 ## Into the Woods
 
-I met RT at the Allen <span class="h-card p-org">Dollar General Store</span>, where we left my MINI Cooper in the parking lot. We took his truck straight to the first honey hole:<a href="#mn:3" id="mnref:3" class="sr-only">[See note]</a> an active oil lease that RT had permission to forage on. Driving slowly on the dirt road into the lease, we watched out the windows to see if we could spot any morels. RT saw a couple from the driver’s side, but they were either immature or had begun to dry out. Eventually I saw a good one from the passenger side, so we parked and harvested it, then set out into the woods to see if we could find more.
+I met RT at the Allen <span class="h-card p-org">Dollar General Store</span>, where we left my MINI Cooper in the parking lot. We took his truck straight to the first honey hole:<a href="#mn:3" id="mnref:3"><span class="sr-only"> [See note]</span></a> an active oil lease that RT had permission to forage on. Driving slowly on the dirt road into the lease, we watched out the windows to see if we could spot any morels. RT saw a couple from the driver’s side, but they were either immature or had begun to dry out. Eventually I saw a good one from the passenger side, so we parked and harvested it, then set out into the woods to see if we could find more.
 
 <mpb-dialog-img>
 
 {% image "./src/assets/images/blog/2019-04-19-mushroom-hunt/czahller-20190408-17-59-23.jpg", "img-constrained", "Bracket Fungi on Burnt Branch — Oklahoma Morel Foraging, 2019", "Bracket Fungi on Burnt Branch&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;Oklahoma Morel Foraging, 2019" %}
 </mpb-dialog-img>
 
-Over the next ninety minutes or so we harvested a bounty of morels,<a href="#mn:4" id="mnref:4" class="sr-only">[See note]</a> with RT spotting three for every one I found. We placed our haul in net onion bags on the theory it would help spread the spores. At a certain point we concluded we had enough and headed to his homestead, after a quick stop to get my MINI. Arriving at the guest cabin, I dropped off my Gladstone and went up to the main house. There, I took a load off and enjoyed a refreshing beer in the Valines’ living room.
+Over the next ninety minutes or so we harvested a bounty of morels,<a href="#mn:4" id="mnref:4"><span class="sr-only"> [See note]</span></a> with RT spotting three for every one I found. We placed our haul in net onion bags on the theory it would help spread the spores. At a certain point we concluded we had enough and headed to his homestead, after a quick stop to get my MINI. Arriving at the guest cabin, I dropped off my Gladstone and went up to the main house. There, I took a load off and enjoyed a refreshing beer in the Valines’ living room.
 
 <mpb-dialog-img>
 
@@ -134,7 +134,7 @@ After sundown, RT pan-fried the steaks over the outdoor fire pit while I prepped
 {% image "./src/assets/images/blog/2019-04-19-mushroom-hunt/czahller-20190408-18-18-31.jpg", "img-constrained", "The Last Morel — Oklahoma Morel Foraging, 2019", "The Last Morel&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;Oklahoma Morel Foraging, 2019" %}
 </mpb-dialog-img>
 
-We sat around the firepit eating and drinking the cold beers. I’d brought along a bottle of moonshine<a href="#mn:5" id="mnref:5" class="sr-only">[See note]</a> RT had given me a few weeks earlier but which I hadn’t finished; we drank it empty while the embers died down and the crickets sang.
+We sat around the firepit eating and drinking the cold beers. I’d brought along a bottle of moonshine<a href="#mn:5" id="mnref:5"><span class="sr-only"> [See note]</span></a> RT had given me a few weeks earlier but which I hadn’t finished; we drank it empty while the embers died down and the crickets sang.
 
 ### Scrambled Eggs (Recipe)
 
@@ -192,22 +192,22 @@ The photographs in this story were taken with a Hasselblad medium-format film ca
 <footer aria-label="notes">
   <ul class="app-marginnotes-list" role="list">
     <li id="mn:1" role="listitem">
-      <span class="foreign" lang="la">Morchella esculenta</span>, or yellow morels, are widely distributed, but especially common in eastern North America and the Midwest. They are the most common morel species found in Oklahoma. Despite the popular name, they can be pale brownish cream, yellow to tan or pale brown to grayish brown.
+      <span class="foreign" lang="la">Morchella esculenta</span>, or yellow morels, are widely distributed, but especially common in eastern North America and the Midwest. They are the most common morel species found in Oklahoma. Despite the popular name, they can be pale brownish cream, yellow to tan or pale brown to grayish brown.&NoBreak;<a href="#mnref:1" class="govuk-link" aria-label="Back to content">↩︎</a>
     </li>
     <li id="mn:2" role="listitem">
 
-When choosing food to accompany morels, avoid strongly flavored ingredients. The delicate taste and aroma of the mushrooms is easily overwhelmed. Strong cheeses, raw or undercooked garlic, and highly aromatic spices are all no-nos. The simpler the better.
+When choosing food to accompany morels, avoid strongly flavored ingredients. The delicate taste and aroma of the mushrooms is easily overwhelmed. Strong cheeses, raw or undercooked garlic, and highly aromatic spices are all no-nos. The simpler the better.&NoBreak;<a href="#mnref:2" class="govuk-link" aria-label="Back to content">↩︎</a>
     </li>
     <li id="mn:3" role="listitem">
 
-The same conditions that produce bountiful morels also favor ticks. When foraging in the Oklahoma woods wear high boots, long pants, and a long-sleeved top. Apply insect repellent generously. The most effective tick-preventatives are DEET applied direct-to-skin and permethrin applied to clothing.
+The same conditions that produce bountiful morels also favor ticks. When foraging in the Oklahoma woods wear high boots, long pants, and a long-sleeved top. Apply insect repellent generously. The most effective tick-preventatives are DEET applied direct-to-skin and permethrin applied to clothing.&NoBreak;<a href="#mnref:3" class="govuk-link" aria-label="Back to content">↩︎</a>
     </li>
     <li id="mn:4" role="listitem">
 
-For foraging mushrooms, I recommend a sharp carbon-steel knife and a <a href="https://amzn.to/2V9R1RE" target="_blank" rel="external noopener">mushroom brush</a>. Some purpose-made mushroom knives have an integrated brush. The <a href="https://amzn.to/2Iu6JRp" target="_blank" rel="external noopener">Opinel <abbr class="noscaps"><span class="ord">No.</span></abbr> 8</a> and the <a href="https://amzn.to/2GuEa4e" target="_blank" rel="external noopener">Opinel mushroom</a> knives are classics.
+For foraging mushrooms, I recommend a sharp carbon-steel knife and a <a href="https://amzn.to/2V9R1RE" target="_blank" rel="external noopener">mushroom brush</a>. Some purpose-made mushroom knives have an integrated brush. The <a href="https://amzn.to/2Iu6JRp" target="_blank" rel="external noopener">Opinel <abbr class="noscaps"><span class="ord">No.</span></abbr> 8</a> and the <a href="https://amzn.to/2GuEa4e" target="_blank" rel="external noopener">Opinel mushroom</a> knives are classics.&NoBreak;<a href="#mnref:4" class="govuk-link" aria-label="Back to content">↩︎</a>
     </li>
     <li id="mn:5" role="listitem">
 
-{% image "./src/assets/images/blog/2019-04-19-mushroom-hunt/czahller-20190419-14-09-05.jpg", "img-constrained", "Empty pint bottle with custom RT n’ the 44s label. The bottle formerly contained home-distilled hooch.", "Moonshine — RT n’ the 44s" %}
+{% image "./src/assets/images/blog/2019-04-19-mushroom-hunt/czahller-20190419-14-09-05.jpg", "img-constrained", "Empty pint bottle with custom RT n’ the 44s label. The bottle formerly contained home-distilled hooch.", "Moonshine — RT n’ the 44s<a href=\"#mnref:5\" class=\"govuk-link\" aria-label=\"Back to content\">↩︎</a>" %}
     </li>  </ul>
 </footer>

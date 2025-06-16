@@ -32,7 +32,7 @@ I check my emails and messages and answer the phones Monday through Friday from 
 
 Get my complete contact details, including phone number, mailing address, and email:
 
-<a class="button button-primary" href="/assets/files/Mr Chris J. Zähller.vcf" download><icon-l class="bigger icon-before"><span class="with-icon"><svg id="icon-download" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-fa-i2svg=""><path fill="var(--mpb-color-accentReverse)" d="M216 0h80c13.3 0 24 10.7 24 24v168h87.7c17.8 0 26.7 21.5 14.1 34.1L269.7 378.3c-7.5 7.5-19.8 7.5-27.3 0L90.1 226.1c-12.6-12.6-3.7-34.1 14.1-34.1H192V24c0-13.3 10.7-24 24-24zm296 376v112c0 13.3-10.7 24-24 24H24c-13.3 0-24-10.7-24-24V376c0-13.3 10.7-24 24-24h146.7l49 49c20.1 20.1 52.5 20.1 72.6 0l49-49H488c13.3 0 24 10.7 24 24zm-124 88c0-11-9-20-20-20s-20 9-20 20 9 20 20 20 20-9 20-20zm64 0c0-11-9-20-20-20s-20 9-20 20 9 20 20 20 20-9 20-20z"></path></svg> Get yer red-hot vCard here!<a href="#mn:1" id="mnref:1" class="sr-only">[See note]</a></icon-l>
+<a class="button button-primary" href="/assets/files/Mr Chris J. Zähller.vcf" download><icon-l class="bigger icon-before"><span class="with-icon"><svg id="icon-download" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-fa-i2svg=""><path fill="var(--mpb-color-accentReverse)" d="M216 0h80c13.3 0 24 10.7 24 24v168h87.7c17.8 0 26.7 21.5 14.1 34.1L269.7 378.3c-7.5 7.5-19.8 7.5-27.3 0L90.1 226.1c-12.6-12.6-3.7-34.1 14.1-34.1H192V24c0-13.3 10.7-24 24-24zm296 376v112c0 13.3-10.7 24-24 24H24c-13.3 0-24-10.7-24-24V376c0-13.3 10.7-24 24-24h146.7l49 49c20.1 20.1 52.5 20.1 72.6 0l49-49H488c13.3 0 24 10.7 24 24zm-124 88c0-11-9-20-20-20s-20 9-20 20 9 20 20 20 20-9 20-20zm64 0c0-11-9-20-20-20s-20 9-20 20 9 20 20 20 20-9 20-20z"></path></svg> Get yer red-hot vCard here!<a href="#mn:1" id="mnref:1"><span class="sr-only"> [See note]</span></a></icon-l>
 
 … or …
 
@@ -50,7 +50,7 @@ Get my complete contact details, including phone number, mailing address, and em
   <ul class="app-marginnotes-list" role="list">
     <li id="mn:1" role="listitem">
 
-A vCard, a.k.a Virtual Contact File (VCF), is a file format standard for electronic business cards providing a compact, automated method for sharing contact information. <a href="https://www.google.com/search?q=how+to+import+a+vCard" target="_blank" rel="external noopener">Learn how to import vCards</a> into your address book or other contact manager.
+A vCard, a.k.a Virtual Contact File (VCF), is a file format standard for electronic business cards providing a compact, automated method for sharing contact information. <a href="https://www.google.com/search?q=how+to+import+a+vCard" target="_blank" rel="external noopener">Learn how to import vCards</a> into your address book or other contact manager.&NoBreak;<a href="#mnref:1" class="govuk-link" aria-label="Back to content">↩︎</a>
     </li>
   </ul>
 </footer>

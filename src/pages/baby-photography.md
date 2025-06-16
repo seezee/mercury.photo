@@ -11,7 +11,7 @@ permalink: "/services/baby-photography/"
 
 {% image "./src/assets/images/site/baby-photography/czahller-20161118-18-52-07.jpg", "img-constrained", "A baby asleep on her belly, her little butt in the air and her mouth ajar. She is dressed in a white smock with a bow on the back. She sleeps on a star-dusted blue cushion. A cloudy blue sky print forms the background" %}</mpb-dialog-img>
 
-Pictured: newborn portrait session of Alicia and David Goad’s first daughter, Jazz Marie, photographed on film and digital.<a href="#mn:1" id="mnref:1" class="sr-only">[See note]</a>
+Pictured: newborn portrait session of Alicia and David Goad’s first daughter, Jazz Marie, photographed on film and digital.<a href="#mn:1" id="mnref:1"><span class="sr-only"> [See note]</span></a>
 
 <mpb-dialog-gallery hint rel cols="8">
   
