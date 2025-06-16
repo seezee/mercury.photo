@@ -345,6 +345,11 @@
       "source": "/woodyfest-2018-desi-cody/",
       "destination": "/blog/woodyfest-2018-desi-cody/",
       "permanent": true
+    },
+    {
+      "source": "/woodyfest-2018-erik-the-viking-blake-lankford/",
+      "destination": "/blog/woodyfest-2018-erik-the-viking-blake-lankford/",
+      "permanent": true
     }
   ]
 }
