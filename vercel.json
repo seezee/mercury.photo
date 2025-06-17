@@ -350,6 +350,11 @@
       "source": "/woodyfest-2018-erik-the-viking-blake-lankford/",
       "destination": "/blog/woodyfest-2018-erik-the-viking-blake-lankford/",
       "permanent": true
+    },
+    {
+      "source": "/woodyfest-2018-scott-taylor-community-outreach/",
+      "destination": "/blog/woodyfest-2018-scott-taylor-community-outreach/",
+      "permanent": true
     }
   ]
 }
