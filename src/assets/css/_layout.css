@@ -93,7 +93,7 @@ noscript div {
 }
 
 #search-hint__wrapper {
-  align-items: center safe;
+  align-items: safe center;
   display: flex;
   gap: 4px;
   justify-content: right;
@@ -262,7 +262,7 @@ https://web.dev/articles/building/a-theme-switch-component */
   flex-wrap: wrap;
   gap: var(--s1);
   justify-content: flex-start;
-  align-items: center safe;
+  align-items: safe center;
 	margin: 0;
 	padding: 0;
 }
@@ -272,7 +272,7 @@ https://web.dev/articles/building/a-theme-switch-component */
 	padding-inline-end: var(--s2);
 	list-style-type: none;
 	display: flex;
-	align-items: center safe;
+	align-items: safe center;
 	position: relative;
   text-align: left;
 }
@@ -291,7 +291,7 @@ ul ul .navigation__item {
 
 .navigation__link {
 	display: flex;
-	align-items: center safe;
+	align-items: safe center;
 	gap: var(--s-1);
 	text-decoration: none;
 	color: currentColor;
@@ -309,7 +309,7 @@ ul ul .navigation__item {
 	border: none;
 	background-color: transparent;
 	display: flex;
-	align-items: center safe;
+	align-items: safe center;
 	padding: 0;
 }
 
@@ -704,7 +704,6 @@ div.col-5 {
   max-inline-size: none;
 }
 
-[id^="fnref\:"]::after,
 [id^="mnref\:"]::after {
   position: static;
   display: inline-block;
@@ -732,7 +731,6 @@ div.col-5 {
     }
   }
 
-  [id^="fnref\:"]::after,
   [id^="mnref\:"]::after {
     &:not(:focus-visible) {
       position: absolute;

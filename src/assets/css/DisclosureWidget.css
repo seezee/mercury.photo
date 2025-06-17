@@ -28,7 +28,7 @@ h3:has( > .widget__btn[role='tab']) {
 
 .widget__btn[aria-expanded] {
   display: flex;
-  align-items: center safe;
+  align-items: safe center;
   margin-block-end: var(--s-5);
 
   inline-size: 100%;

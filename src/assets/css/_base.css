@@ -413,7 +413,7 @@ details {
 
 summary {
   display: inline-flex;
-  align-items: center safe;
+  align-items: safe center;
   padding-block: var(--s-4);
   padding-inline: var(--s1);
 
@@ -770,7 +770,7 @@ icon-l {
   }
 
   &.bigger {
-    align-items: center safe;
+    align-items: safe center;
 
     & .icon,
     & .icon-sprite svg {

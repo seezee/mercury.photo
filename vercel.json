@@ -365,6 +365,11 @@
       "source": "/woodyfest-2018-gypsy-twang/",
       "destination": "/blog/woodyfest-2018-gypsy-twang/",
       "permanent": true
+    },
+    {
+      "source": "/woodyfest-2018-dan-martin/",
+      "destination": "/blog/woodyfest-2018-dan-martin/",
+      "permanent": true
     }
   ]
 }
