@@ -44,13 +44,13 @@ You can check out her upcoming shows on her <a href="https://www.chloebethmusic.
 
 <mpb-dialog-gallery hint rel cols="8">
   
-  ![](/assets/images/blog/2018-11-30-woodyfest-chloe-beth/czahller-20180713-13-04-04.jpg)
-  ![](/assets/images/blog/2018-11-30-woodyfest-chloe-beth/czahller-20180713-13-06-39.jpg)
-  ![](/assets/images/blog/2018-11-30-woodyfest-chloe-beth/czahller-20180713-13-07-45.jpg)
-  ![](/assets/images/blog/2018-11-30-woodyfest-chloe-beth/czahller-20180713-13-07-53.jpg)
-  ![](/assets/images/blog/2018-11-30-woodyfest-chloe-beth/czahller-20180713-13-08-14.jpg)
-  ![](/assets/images/blog/2018-11-30-woodyfest-chloe-beth/czahller-20180713-13-08-20.jpg)
-  ![](/assets/images/blog/2018-11-30-woodyfest-chloe-beth/czahller-20180713-13-08-49.jpg)
-  ![](/assets/images/blog/2018-11-30-woodyfest-chloe-beth/czahller-20180713-13-09-46.jpg)
-  ![](/assets/images/blog/2018-11-30-woodyfest-chloe-beth/czahller-20180713-13-18-55.jpg)
+  ![Chloe-Beth Campbell — 21st Annual Woody Guthrie Festival, 2018](/assets/images/blog/2018-11-30-woodyfest-chloe-beth/czahller-20180713-13-04-04.jpg)
+  ![Chloe-Beth (I) — 21st Annual Woody Guthrie Festival, 2018](/assets/images/blog/2018-11-30-woodyfest-chloe-beth/czahller-20180713-13-06-39.jpg)
+  ![Chloe-Beth (II) — 21st Annual Woody Guthrie Festival, 2018](/assets/images/blog/2018-11-30-woodyfest-chloe-beth/czahller-20180713-13-07-45.jpg)
+  ![Chloe-Beth (III) — 21st Annual Woody Guthrie Festival, 2018](/assets/images/blog/2018-11-30-woodyfest-chloe-beth/czahller-20180713-13-07-53.jpg)
+  ![Chloe-Beth (IV) — 21st Annual Woody Guthrie Festival, 2018](/assets/images/blog/2018-11-30-woodyfest-chloe-beth/czahller-20180713-13-08-14.jpg)
+  ![Chloe-Beth (V) — 21st Annual Woody Guthrie Festival, 2018](/assets/images/blog/2018-11-30-woodyfest-chloe-beth/czahller-20180713-13-08-20.jpg)
+  ![Chloe-Beth with Audience — 21st Annual Woody Guthrie Festival, 2018](/assets/images/blog/2018-11-30-woodyfest-chloe-beth/czahller-20180713-13-08-49.jpg)
+  ![Chloe-Beth (VI) — 21st Annual Woody Guthrie Festival, 2018](/assets/images/blog/2018-11-30-woodyfest-chloe-beth/czahller-20180713-13-09-46.jpg)
+  ![Chloe-Beth (VII) — 21st Annual Woody Guthrie Festival, 2018](/assets/images/blog/2018-11-30-woodyfest-chloe-beth/czahller-20180713-13-18-55.jpg)
 </mpb-dialog-gallery>

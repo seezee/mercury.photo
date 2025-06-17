@@ -360,6 +360,11 @@
       "source": "/woodyfest-2018-chloe-beth/",
       "destination": "/blog/woodyfest-2018-chloe-beth/",
       "permanent": true
+    },
+    {
+      "source": "/woodyfest-2018-gypsy-twang/",
+      "destination": "/blog/woodyfest-2018-gypsy-twang/",
+      "permanent": true
     }
   ]
 }
