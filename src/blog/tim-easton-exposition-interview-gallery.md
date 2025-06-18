@@ -29,7 +29,10 @@ excerpt: I drove to Okemah in early December to see folk singer and songwriter T
 
 {% image "./src/assets/images/blog/2018-12-19-tim-easton-exposition/czahller-20181207-14-50-37.jpg", "img-constrained", "Tim Easton — Exposition Sessions", "Tim Easton&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;Exposition Sessions" %}</mpb-dialog-img>
 
+<div class="drop-cap">
+
 I drove to Okemah in <time datetime="2018-12-07">early December</time> to see folk singer and songwriter <span class="h-card p-name">Tim Easton</span>. Easton was on the first leg of a multi-city recording tour for his new album <cite>Exposition</cite>. After we had lunch at the Hen House Café I took some pictures of him working in his makeshift studio at the <span class="h-card p-org">Okfuskee County History Center,</span> and then Easton very competently art-directed an impromptu photo shoot using the remaining frames on my roll of Tri-X.
+</div>
 
 We then sat down for a short interview, following which Easton sat for a formal portrait in the style of my [OKIE-X project](/okie-x/). The weather was threatening to turn bad, so I dismantled my photo studio while he continued tracking songs. Easton helped me schlep the gear to the car and we said our goodbyes, each wishing the other safe travels.
 

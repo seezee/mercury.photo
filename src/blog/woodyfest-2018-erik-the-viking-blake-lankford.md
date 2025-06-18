@@ -30,7 +30,10 @@ excerpt: Festival Friday proved to be uncomfortably hot in the beer garden attac
 
 {% image "./src/assets/images/blog/2018-12-07-woodyfest-erik-viking-blake-lankford/czahller-20180713-14-07-26.jpg", "img-constrained", "Erik “The Viking” Oftedahl & Blake Lankford — 21st Annual Woody Guthrie Festival, 2018", "Erik “The Viking” Oftedahl & Blake Lankford&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;21st Annual Woody Guthrie Festival, 2018" %}</mpb-dialog-img>
 
+<div class="drop-cap">
+
 Festival <time datetime="2018-07-13">Friday</time> proved to be uncomfortably hot in the beer garden attached to Lou’s Rocky Road Tavern. The <time datetime="2018-07-12">previous day</time>’s patio performances had been favored by a light breeze that made it feel even cooler than the air-conditioned Hen House, where the HVAC struggled with the radiant body heat of the packed-in audiences.
+</div>
 
 Still, a decent-sized crowd gathered to see <span class="h-card p-name">Erik “<span class="p-nickname">The Viking</span>” Oftedahl</span> and <span class="h-card p-name">Blake Lankford</span>, two talented songwriters plumbing the depths of Americana. Oftedahl, a Minnesota transplant with an Okie heart, <time datetime="2018-08">has since</time> released his first full-length album on Tulsa’s Horton Records. It’s called <cite>Places</cite>, and recording took place at studios across Oklahoma. Woodyfest regular <span class="h-card p-name">Jason Scott</span> co-produced the album with <span class="h-card p-name">Chris Bell</span>; both appear on it along with festival regulars [<span class="h-card p-name">John Calvin Abney</span>](/blog/musical-tributes-power-house-bar-smiths/) and [<span class="h-card p-name">Carter Sampson</span>](/blog/woodyfest-2018-carter-sampson)</a>, among others.
 

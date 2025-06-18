@@ -108,7 +108,7 @@ table .frac {
   float: left;
   line-height: .8;
   margin-inline-end: 0.05em;
-  text-shadow: -3px 3px var(--mpb-color-textSecondary), -5px 5px var(--mpb-color-accent);
+  text-shadow: -3px 3px var(--mpb-color-textSecondary), -5px 5px var(--mpb-color-textPrimary);
 }
 
 .drop-cap.descender::first-letter {

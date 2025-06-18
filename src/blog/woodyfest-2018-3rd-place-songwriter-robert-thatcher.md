@@ -29,9 +29,12 @@ excerpt: Third place in the 2018 Woody Guthrie Folk Festival Songwriting Contest
 
 {% image "./src/assets/images/blog/2018-12-24-woodyfest-robt-thatcher/czahller-20180713-19-02-46.jpg", "img-constrained", "Alice & Robert Thatcher — 21st Annual Woody Guthrie Festival, 2018", "Alice & Robert Thatcher&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;21st Annual Woody Guthrie Festival, 2018" %}</mpb-dialog-img>
 
+<div class="drop-cap">
+
 Third place in the  <time datetime="2018">2018</time> <span class="h-card p-org"><span class="p-name"><span class="p-nickname">Woody</span> Guthrie</span> Folk Festival</span> Songwriting Contest went to <span class="h-card p-name">Robert Thatcher</span> and <span class="h-card p-name">Tom Brown</span>. Thatcher and his wife and musical partner <span class="h-card p-name">Alice Thatcher</span> performed the winning song, <cite class="short-work">On the Wings of a Song,</cite> as part of a short showcase on the Pastures of Plenty Stage on festival <time datetime="2018-07-13T19:02:46-5:00">Friday</time>. Thatcher and Brown had previously received honorable mention in the contest for their <time datetime="2017">2017</time> entry, <cite class="short-work">Would I Be Welcome,</cite> and Thatcher’s song <cite class="short-work">Woody</cite> received the same honor in <time datetime="2007">2007</time>.[^1]
 
 [^1]: It might have been <time datetime="2008">2008</time>; Thatcher’s memory of the date is unclear.
+</div>
 
 The songwriting duo garnered honorable mention in the <time datetime="2017">2017</time> <span class="h-card p-org">Musicians United Against the Pebble Mine</span> Songwriting Contest. <time datetime="2018-04">This year</time> they placed third in the <span class="h-card p-org">American Songwriter</span> lyric contest for their song <cite class="short-work">The Glitter of Gold (Song to Save Bristol Bay).</cite>[^2] The Thatchers live in Signal Mountain, Tennessee; Brown hangs his hat in Varnell, Georgia.
 
