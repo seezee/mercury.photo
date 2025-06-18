@@ -192,22 +192,22 @@ The photographs in this story were taken with a Hasselblad medium-format film ca
 <footer aria-label="notes">
   <ul class="app-marginnotes-list" role="list">
     <li id="mn:1" role="listitem">
-      <span class="foreign" lang="la">Morchella esculenta</span>, or yellow morels, are widely distributed, but especially common in eastern North America and the Midwest. They are the most common morel species found in Oklahoma. Despite the popular name, they can be pale brownish cream, yellow to tan or pale brown to grayish brown.&NoBreak;<a href="#mnref:1" class="govuk-link" aria-label="Back to content">↩︎</a>
+      <span class="foreign" lang="la">Morchella esculenta</span>, or yellow morels, are widely distributed, but especially common in eastern North America and the Midwest. They are the most common morel species found in Oklahoma. Despite the popular name, they can be pale brownish cream, yellow to tan or pale brown to grayish brown.&nbsp;<a href="#mnref:1" class="govuk-link" aria-label="Back to content">↩︎</a>
     </li>
     <li id="mn:2" role="listitem">
 
-When choosing food to accompany morels, avoid strongly flavored ingredients. The delicate taste and aroma of the mushrooms is easily overwhelmed. Strong cheeses, raw or undercooked garlic, and highly aromatic spices are all no-nos. The simpler the better.&NoBreak;<a href="#mnref:2" class="govuk-link" aria-label="Back to content">↩︎</a>
+When choosing food to accompany morels, avoid strongly flavored ingredients. The delicate taste and aroma of the mushrooms is easily overwhelmed. Strong cheeses, raw or undercooked garlic, and highly aromatic spices are all no-nos. The simpler the better.&nbsp;<a href="#mnref:2" class="govuk-link" aria-label="Back to content">↩︎</a>
     </li>
     <li id="mn:3" role="listitem">
 
-The same conditions that produce bountiful morels also favor ticks. When foraging in the Oklahoma woods wear high boots, long pants, and a long-sleeved top. Apply insect repellent generously. The most effective tick-preventatives are DEET applied direct-to-skin and permethrin applied to clothing.&NoBreak;<a href="#mnref:3" class="govuk-link" aria-label="Back to content">↩︎</a>
+The same conditions that produce bountiful morels also favor ticks. When foraging in the Oklahoma woods wear high boots, long pants, and a long-sleeved top. Apply insect repellent generously. The most effective tick-preventatives are DEET applied direct-to-skin and permethrin applied to clothing.&nbsp;<a href="#mnref:3" class="govuk-link" aria-label="Back to content">↩︎</a>
     </li>
     <li id="mn:4" role="listitem">
 
-For foraging mushrooms, I recommend a sharp carbon-steel knife and a <a href="https://amzn.to/2V9R1RE" target="_blank" rel="external noopener">mushroom brush</a>. Some purpose-made mushroom knives have an integrated brush. The <a href="https://amzn.to/2Iu6JRp" target="_blank" rel="external noopener">Opinel <abbr class="noscaps"><span class="ord">No.</span></abbr> 8</a> and the <a href="https://amzn.to/2GuEa4e" target="_blank" rel="external noopener">Opinel mushroom</a> knives are classics.&NoBreak;<a href="#mnref:4" class="govuk-link" aria-label="Back to content">↩︎</a>
+For foraging mushrooms, I recommend a sharp carbon-steel knife and a <a href="https://amzn.to/2V9R1RE" target="_blank" rel="external noopener">mushroom brush</a>. Some purpose-made mushroom knives have an integrated brush. The <a href="https://amzn.to/2Iu6JRp" target="_blank" rel="external noopener">Opinel <abbr class="noscaps"><span class="ord">No.</span></abbr> 8</a> and the <a href="https://amzn.to/2GuEa4e" target="_blank" rel="external noopener">Opinel mushroom</a> knives are classics.&nbsp;<a href="#mnref:4" class="govuk-link" aria-label="Back to content">↩︎</a>
     </li>
     <li id="mn:5" role="listitem">
 
-{% image "./src/assets/images/blog/2019-04-19-mushroom-hunt/czahller-20190419-14-09-05.jpg", "img-constrained", "Empty pint bottle with custom RT n’ the 44s label. The bottle formerly contained home-distilled hooch.", "Moonshine — RT n’ the 44s<a href=\"#mnref:5\" class=\"govuk-link\" aria-label=\"Back to content\">↩︎</a>" %}
+{% image "./src/assets/images/blog/2019-04-19-mushroom-hunt/czahller-20190419-14-09-05.jpg", "img-constrained", "Empty pint bottle with custom RT n’ the 44s label. The bottle formerly contained home-distilled hooch.", "Moonshine — RT n’ the 44s&nbsp;<a href=\"#mnref:5\" class=\"govuk-link\" aria-label=\"Back to content\">↩︎</a>" %}
     </li>  </ul>
 </footer>

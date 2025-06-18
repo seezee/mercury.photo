@@ -240,7 +240,7 @@ I reached out to The Dollyrots weeks before the show to let them know I’d be u
 
 <mpb-dialog-img>
 
-{% image "./src/assets/images/blog/2019-04-03-dollyrots/czahller-20190322-23-39-19.jpg", "img-constrained", "Dollyrots Set List — Dollyrots at the 89th St Collective", "Dollyrots Set List&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;Dollyrots at the 89th St Collective<a href=\"#mnref:1\" class=\"govuk-link\" aria-label=\"Back to content\">↩︎</a>" %}</mpb-dialog-img>
+{% image "./src/assets/images/blog/2019-04-03-dollyrots/czahller-20190322-23-39-19.jpg", "img-constrained", "Dollyrots Set List — Dollyrots at the 89th St Collective", "Dollyrots Set List&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;Dollyrots at the 89th St Collective&nbsp;<a href=\"#mnref:1\" class=\"govuk-link\" aria-label=\"Back to content\">↩︎</a>" %}</mpb-dialog-img>
     </li>
   </ul>
 </footer>
