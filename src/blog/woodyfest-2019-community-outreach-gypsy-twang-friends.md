@@ -26,7 +26,7 @@ excerpt: We’ve written about Gypsy Twang before, so we’ll keep this short. T
 
 {% image "./src/assets/images/blog/2020-03-27-woodyfest-gypsy-twang/czahller-20190711-14-42-07.jpg", "img-constrained", "Gypsy Twang & Friends (II) — 22nd Annual Woody Guthrie Festival, 2019", "Gypsy Twang & Friends (II) — 22nd Annual Woody Guthrie Festival, 2019" %}</mpb-dialog-img>
 
-We’ve <a href="/woodyfest-2018-gypsy-twang/">written about <span class="h-card p-organization">Gypsy Twang</span> before</a>, so we’ll keep this short. The Tulsa band appeared at Woodyfest for the second time in <time datetime="2019-07-11">2019</time>. In addition to their <time datetime="2019-07-11T13:30-5:00">Thursday</time> performance on the new Bound for Glory stage, the combo donated their talents to one of the festival’s community outreach shows.
+We’ve <a href="/woodyfest-2018-gypsy-twang/">written about <span class="h-card p-org">Gypsy Twang</span> before</a>, so we’ll keep this short. The Tulsa band appeared at Woodyfest for the second time in <time datetime="2019-07-11">2019</time>. In addition to their <time datetime="2019-07-11T13:30-5:00">Thursday</time> performance on the new Bound for Glory stage, the combo donated their talents to one of the festival’s community outreach shows.
 
 Five of Woodyfest’s musical regulars joined Gypsy Twang for the performance: <span class="h-card p-name">Joe Baxter</span>, <span class="h-card p-name">Kurt <span class="p-nickname">“Frenchie”</span> Nielson</span>, <span class="h-card p-name"><abbr class="noscaps">T.Z.</abbr> Wright</span>, <span class="h-card p-name">Andrea MacMullin</span>, and <span class="h-card p-name">Joe Hill</span>.
 

@@ -31,7 +31,7 @@ Stop me if you've heard this one before: in <time datetime="2001">2001</time>, a
 
 Seventeen years and multiple awards later, he's released seven records. Among the accolades are a JUNO,[^1] a Canadian Folk Music Award ("Best Album of the Year"), a Canadian Broadcasting Corporation Galaxie Rising Star Award, a Kerrville Texas New Folk win, and multiple Western Canadian Music Award and Canadian Folk Music Award nominations.
 
-[^1]: The <span class="h-card p-organization">Canadian Academy of Recording Arts and Sciences</span> presents the Juno awards ("the JUNOs") annually to Canadian musicians to recognize their artistic and technical achievements.
+[^1]: The <span class="h-card p-org">Canadian Academy of Recording Arts and Sciences</span> presents the Juno awards ("the JUNOs") annually to Canadian musicians to recognize their artistic and technical achievements.
 
 Hannam made his Woodyfest debut in <time datetime="2010-07">2010</time>. He returned in <time datetime="2011-07">2011</time> and <time datetime="2014-07-10T15:00:00-5:00">2014</time>. The latter performance on the Crystal Theatre stage closed with some help from festival regular <span class="h-card p-name">Radoslav “Rad” Lorković</span>.
 

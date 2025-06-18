@@ -40,7 +40,7 @@ But when he moved from his parent’s Perry, Oklahoma[^2] farm to Tulsa in <time
 
 Tovar’s mother imparted his melodic sense when she taught young Jacob to whistle, and his late brother inspired him to begin playing the guitar. His music borrows reverently from western swing and honky-tonk. <span class="h-card p-name">Bob Wills</span>’ spirit suffuses songs such as <cite class="short-work">Three Good Reasons</cite> and <cite class="short-work">One Track Minded Baby.</cite>[^4] Both songs may be found on Tovar’s sole release to-date, <time datetime="2014">2014</time>’s <a href="https://geo.music.apple.com/us/artist/jacob-tovar-the-saddle-tramps/1020380921?mt=1&app=music&at=10ldhk" target="_blank" rel="external noopener"><cite>Jacob Tovar and the Saddle Tramps</cite></a>.
 
-[^4]: The latter musician was based in Tulsa, too, having uprooted his band, <span class="h-card p-organization">The Playboys</span>, from Waco, Texas, and resettled them in T-Town. That was when Wills changed the band name to <span class="h-card p-organization">The Texas Playboys</span>.
+[^4]: The latter musician was based in Tulsa, too, having uprooted his band, <span class="h-card p-org">The Playboys</span>, from Waco, Texas, and resettled them in T-Town. That was when Wills changed the band name to <span class="h-card p-org">The Texas Playboys</span>.
 
 Tovar is currently working on an album with producer <span class="h-card p-name">Isaac Hanson</span> and a music video with filmmaker <span class="h-card p-name">Sterlin Harjo</span>, both to be released soon.
 

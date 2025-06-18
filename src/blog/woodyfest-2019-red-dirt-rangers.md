@@ -25,9 +25,9 @@ excerpt: Marking their twenty-first appearance at Woodyfest 2019, the Red Dirt R
 
 {% image "./src/assets/images/blog/2020-04-02-woodyfest-red-dirt-rangers/czahller-20190711-20-45-04.jpg", "img-constrained", "John M. Cooper waves to the audience", "Wave — 22nd Annual Woody Guthrie Festival, 2019" %}</mpb-dialog-img>
 
-Marking their twenty-first appearance at Woodyfest <time datetime="2019-07-11T20:00-5:00">2019</time>, the <span class="h-card p-organization">Red Dirt Rangers</span> took the stage following fiddler <span class="h-card p-name">Randy Crouch</span>. Crouch remained on stage to accompany the Rangers. Also joining them were <span class="h-card p-name">T.Z. Wright</span>, <span class="h-card p-name">Terry “Buffalo” Ware</span>, <span class="h-card p-name">Michael McCarty</span>, <span class="h-card p-name">Don Morris</span>,[^1] <span class="h-card p-name">Steve Flaherty</span>, <span class="h-card p-name">David Amram</span>, and <span class="h-card p-name">Radoslav “Rad” Lorković</span>.
+Marking their twenty-first appearance at Woodyfest <time datetime="2019-07-11T20:00-5:00">2019</time>, the <span class="h-card p-org">Red Dirt Rangers</span> took the stage following fiddler <span class="h-card p-name">Randy Crouch</span>. Crouch remained on stage to accompany the Rangers. Also joining them were <span class="h-card p-name">T.Z. Wright</span>, <span class="h-card p-name">Terry “Buffalo” Ware</span>, <span class="h-card p-name">Michael McCarty</span>, <span class="h-card p-name">Don Morris</span>,[^1] <span class="h-card p-name">Steve Flaherty</span>, <span class="h-card p-name">David Amram</span>, and <span class="h-card p-name">Radoslav “Rad” Lorković</span>.
 
-[^1]: All four musicians are members of the Woodyfest house band, <span class="h-card p-organization">The Oklahoma Geniuses</span>.
+[^1]: All four musicians are members of the Woodyfest house band, <span class="h-card p-org">The Oklahoma Geniuses</span>.
 
 If you’re not familiar with the Rangers, you can read about them in <a href="/woodyfest-2018-red-dirt-rangers/"><cite>Woodyfest 2018: Red Dirt Rangers</cite></a>.
 

@@ -25,7 +25,7 @@ excerpt: As of this writing the Woody Guthrie Poets have presented readings at f
 
 {% image "./src/assets/images/blog/2020-04-06-woodyfest-poets/czahller-20130713-13-04-58.jpg", "img-constrained", "Closeup of David Amram's hands on keyboard. His right pinkie and ring fingers are adorned with heavy silver rings.", "Accompanist David Amram (II) — Woody Guthrie Poets, Woody Guthrie Folk Festival 16" %}</mpb-dialog-img>
 
-<time datetime="2020-04-06">As of this writing</time> the Woody Guthrie Poets have presented readings at fifteen consecutive Woody Guthrie Folk Festivals. They gave their first festival reading in <time datetime="2005-07">2005</time> at the <span class="h-card p-organization">Okfuskee County Historical Society and Museum</span>, but as their audience grew, they moved to the <span class="h-card p-organization">Okemah Methodist Church</span>. In <time datetime="2019-07-13">2019</time> they read selections from their latest anthology <cite>Speak Your Mind</cite>[^1] on the Bound for Glory Stage.
+<time datetime="2020-04-06">As of this writing</time> the Woody Guthrie Poets have presented readings at fifteen consecutive Woody Guthrie Folk Festivals. They gave their first festival reading in <time datetime="2005-07">2005</time> at the <span class="h-card p-org">Okfuskee County Historical Society and Museum</span>, but as their audience grew, they moved to the <span class="h-card p-org">Okemah Methodist Church</span>. In <time datetime="2019-07-13">2019</time> they read selections from their latest anthology <cite>Speak Your Mind</cite>[^1] on the Bound for Glory Stage.
 
 [^1]: Order copies of <cite>Speak Your Mind</cite> for $14.50 <abbr>USD</abbr>, shipping inclusive, from:<br />
 

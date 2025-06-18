@@ -800,6 +800,27 @@ a:visited {
   color: var(--mpb-color-textPrimary);
 }
 
+a[href^='http://']:not([href*='mercury.photo']):not([href*='localhost']):not(.social-link):not(:focus-visible)::before,
+a[href^='https://']:not([href*='mercury.photo']):not([href*='localhost']):not(.social-link):not(:focus-visible)::before {
+  position: absolute;
+  display: inline-block;
+  inline-size: 1px;
+  block-size: 1px;
+  padding: 0;
+  margin: -1px;
+  overflow: hidden;
+  clip: rect(0, 0, 0, 0);
+
+  white-space: nowrap;
+
+  border-width: 0;
+}
+
+a[href^='http://']:not([href*='mercury.photo']):not([href*='localhost']):not(.social-link)::before,
+a[href^='https://']:not([href*='mercury.photo']):not([href*='localhost']):not(.social-link)::before {
+  content: '[Opens in new window] ';
+}
+
 a[href^='http://']:not([href*='mercury.photo']):not([href*='localhost']):not(.social-link):after,
 a[href^='https://']:not([href*='mercury.photo']):not([href*='localhost']):not(.social-link):after {
   display: inline-block;
@@ -807,7 +828,10 @@ a[href^='https://']:not([href*='mercury.photo']):not([href*='localhost']):not(.s
   inline-size: 1ch;
   block-size: 1lh;
 
-  content: '\2060' var(--mpb-icon-external) '\2060' / 'Opens in new window';
+  content: '';
+  background: var(--mpb-icon-external) no-repeat;
+  vertical-align: middle;
+  line-height: 1;
 }
 
 blockquote footer a[href^='http://']:not([href*='mercury.photo']):not([href*='localhost']):not(.social-link):after,

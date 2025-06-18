@@ -370,6 +370,11 @@
       "source": "/woodyfest-2018-dan-martin/",
       "destination": "/blog/woodyfest-2018-dan-martin/",
       "permanent": true
+    },
+    {
+      "source": "/woodyfest-2018-turnpike-troubabdours/",
+      "destination": "/blog/woodyfest-2018-turnpike-troubadours/",
+      "permanent": true
     }
   ]
 }

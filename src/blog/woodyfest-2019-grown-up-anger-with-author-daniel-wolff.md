@@ -36,7 +36,7 @@ Guthrie’s song reflects the com­mon belief that the stranger was an agent or 
 
 In truth, the man’s identity is unknown and no proof has ever been found to support the idea that the panic was engineered by company sympathizers, or indeed, if any such were even present. No one knows why someone entered the space and shouted <q>Fire!</q> For this reason Wolff characterizes the incident as a mystery.
 
-Festival regular <span class="h-card p-name">Chris Buhalis</span> provided musical examples for Wolff’s lecture. <cite>Grown Up Anger</cite> was published by <span class="h-card p-organization">Harper</span> in <time datetime="2017">2017</time> and is available from <a href="https://amzn.to/34I2TMT" target="_blank" rel="external noopener">all of the usual sources</a>.
+Festival regular <span class="h-card p-name">Chris Buhalis</span> provided musical examples for Wolff’s lecture. <cite>Grown Up Anger</cite> was published by <span class="h-card p-org">Harper</span> in <time datetime="2017">2017</time> and is available from <a href="https://amzn.to/34I2TMT" target="_blank" rel="external noopener">all of the usual sources</a>.
 
 ## Gallery: Daniel Wolff
 

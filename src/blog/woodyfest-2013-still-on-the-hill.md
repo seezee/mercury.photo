@@ -30,7 +30,7 @@ Arkansas Duo Brings Ozarks Energy to Okemah
 
 {% image "./src/assets/images/blog/2020-03-31-woodyfest-still-hill/czahller-20130712-15-07-26.jpg", "img-constrained", "Donna — Still on the Hill at the Brick Café, Woody Guthrie Folk Festival 16", "Donna — Still on the Hill at the Brick Café, Woody Guthrie Folk Festival 16" %}</mpb-dialog-img>
 
-Bringing their “low-tech” PowerPoint to the Brick Street Café in <time datetime="2013-0712T15:00-5:00">2013</time>, musical duo <span class="h-card p-organization">Still on the Hill</span> had the audience in stitches. Quilting stitches, that is; the PowerPoint slides consisted of text and images on handmade quilts, displayed as storytelling aids.
+Bringing their “low-tech” PowerPoint to the Brick Street Café in <time datetime="2013-0712T15:00-5:00">2013</time>, musical duo <span class="h-card p-org">Still on the Hill</span> had the audience in stitches. Quilting stitches, that is; the PowerPoint slides consisted of text and images on handmade quilts, displayed as storytelling aids.
 
 Husband and wife <span class="h-card p-name p-given-name">Kelly</span> and <span class="h-card p-name">Donna Mulhollan</span> sang and told stories of their native Arkansas Ozarks, played a variety of unique and strange homemade instruments,[^1] and held up the aforementioned quilts to illustrate their tales.
 
@@ -45,7 +45,7 @@ If we ever lose power in Northwest Arkansas, we could tap into the energy of Sti
 <footer aria-label="citation">&mdash;&NoBreak;&hairsp;&NoBreak;<cite class="cite-person"><span class="h-card p-name">Keith Grimwood</span> and <span class="h-card p-name">Ezra Idlet</span>, <span class="short-work">In the Press: Quotes and Articles,</span> <a href="http://www.stillonthehill.com/in-the-press" target="_blank" rel="external noopener">stillonthehill.com</a></cite>
 </footer></blockquote>
 
-The duo have created numerous Ozark-centric documentary projects, including <time datetime="2010">2010</time>’s <cite>Ozark Project</cite> and <time datetime="2015">2015</time>’s <cite>Once a River</cite>. In <time datetime="2016">2016</time> Still on the Hill completed their documentary project <cite>Still a River</cite>, a history of the Beaver Lake watershed and the White River in Northwest Arkansas. Upon its completion the <span class="h-card p-organization">National Park Service</span> granted them ten additional programs to be performed throughout Arkansas.
+The duo have created numerous Ozark-centric documentary projects, including <time datetime="2010">2010</time>’s <cite>Ozark Project</cite> and <time datetime="2015">2015</time>’s <cite>Once a River</cite>. In <time datetime="2016">2016</time> Still on the Hill completed their documentary project <cite>Still a River</cite>, a history of the Beaver Lake watershed and the White River in Northwest Arkansas. Upon its completion the <span class="h-card p-org">National Park Service</span> granted them ten additional programs to be performed throughout Arkansas.
 
 <time datetime="2013-0712T15:00-5:00">2013</time> was Still on the Hill’s fourth and most recent Woodyfest performance.
 

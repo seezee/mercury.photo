@@ -709,15 +709,13 @@ div.col-5 {
   display: inline-block;
   margin: unset;
   margin-inline-start: .5ch;
-  inline-size: 1ch;
-  block-size: 1lh;
+  inline-size: 1rem;
+  block-size: 1rem;
   clip: unset;
 
-  content: '\2060' var(--mpb-stickynote-icon) '\2060' / 'See note';
-
-  [data-theme="dark"] {
-    content: '\2060' var(--mpb-stickynote-icon) '\2060' / 'See note';
-  }
+  content: '';
+  background: var(--mpb-icon-stickynote) no-repeat;
+  line-height: 1;
 }
 
 @media screen and (min-width: 64rem) {
