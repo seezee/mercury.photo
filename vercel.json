@@ -375,6 +375,11 @@
       "source": "/woodyfest-2018-turnpike-troubabdours/",
       "destination": "/blog/woodyfest-2018-turnpike-troubadours/",
       "permanent": true
+    },
+    {
+      "source": "/woodyfest-2018-carter-sampson/",
+      "destination": "/blog/woodyfest-2018-carter-sampson/",
+      "permanent": true
     }
   ]
 }

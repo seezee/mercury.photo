@@ -37,7 +37,9 @@
       "imposter-l",
       "ins",
       "kbd",
+      "li",
       "mpb-callout",
+      "ol",
       "p",
       "pre",
       "q",
@@ -64,6 +66,7 @@
       "mpb-dialog-img",
       "strong",
       "time",
+      "ul",
       "use"
     ]
   }

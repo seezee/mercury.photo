@@ -207,6 +207,7 @@ figcaption {
 
   &::before {
     content: open-quote;
+
   }
 
   &::after {
