@@ -27,7 +27,7 @@ excerpt: This writer first saw Carter Sampson three-and-a-quarter years ago, whe
 <p>Queen of Oklahoma’s Pastures of Plenty Debut</p></stack-l></hgroup>
 <!-- markdownlint-enable MD025 --><mpb-dialog-img>
 
-{% image "./src/assets/images/blog/2018-11-16-woodyfest-carter-sampson/czahller-20180712-20-46-16.jpg", "img-constrained", "Carter Sampson (Seen from Upstage)&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;21st Annual Woody Guthrie Festival, 2018", "Carter Sampson (Seen from Upstage)&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;21st Annual Woody Guthrie Festival, 2018" %}</mpb-dialog-img>
+{% image "./src/assets/images/blog/2018-11-16-woodyfest-carter-sampson/czahller-20180712-20-46-16.jpg", "img-constrained", "Carter Sampson (Seen from Upstage) — 21st Annual Woody Guthrie Festival, 2018", "Carter Sampson (Seen from Upstage)&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;21st Annual Woody Guthrie Festival, 2018" %}</mpb-dialog-img>
 
 <div class="drop-cap">
 
