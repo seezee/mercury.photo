@@ -125,7 +125,7 @@ hgroup:has(stack-l h1) {
     float: left;
     line-height: .8;
     margin-inline-end: 0.05em;
-    text-shadow: -3px 3px var(--mpb-color-textSecondary), -5px 5px var(--mpb-color-accent)
+    text-shadow: -3px 3px var(--mpb-color-textSecondary), -5px 5px var(--mpb-color-textPrimary)
    }
 
   ~ p:not(:empty).descender:first-of-type::first-letter {
@@ -265,4 +265,9 @@ figcaption {
 
 .aspect-16x9 {
   aspect-ratio:16 / 9
+}
+
+.tag-thumbnail {
+  display: inline-block;
+  max-inline-size: 300px;
 }

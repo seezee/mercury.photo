@@ -21,12 +21,17 @@ eleventyExcludeFromCollections: true
   <li>
     <stack-l>
       <h2><a href="{{ post.url }}">{{ post.data.title | safe }}</a></h2>
-      <small>
-        {% if post.data.pubdate %}
-          <time datetime="{{ post.data.pubdate | toISOString | safe}}">{{ post.data.pubdate.toUTCString() | safe}}</time>
-        {% endif %}
-      </small>
-      <p>{{ post.data.excerpt | safe }}</p>
+      <switcher-l limit="2">
+        <a href="{{ post.url }}"><img class="tag-thumbnail" src="{{ post.data.image | safe }}" alt="Read “{{ post.data.title | safe }}”" loading="lazy" /></a>
+        <div>
+          <small>
+            {% if post.data.pubdate %}
+              <time datetime="{{ post.data.pubdate | toISOString | safe}}">{{ post.data.pubdate.toUTCString() | safe}}</time>
+            {% endif %}
+          </small>
+          <p>{{ post.data.excerpt | safe }}</p>
+        </div>
+      </switcher-l>
       <hr />
     </stack-l>
   </li>

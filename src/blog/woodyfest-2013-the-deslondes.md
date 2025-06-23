@@ -15,7 +15,7 @@ tags:
   - Woodyfest 2013
 date: Last Modified
 pubdate: 2020-04-11T22:00:57+00:00
-image: /assets/images/blog/2020-04-11-woodyfest-deslondes/czahller-20130713-16-24-44.jpgczahller-20130713-17-52-12.jpg
+image: /assets/images/blog/2020-04-11-woodyfest-deslondes/czahller-20130713-16-24-44.jpg
 excerpt: When they appeared on the Brick Café stage during Woodyfest 2013, the Deslondes were still billing themselves as Sam Doores + Riley Downing &amp; the Tumbleweeds.
 ---
 <!-- markdownlint-disable MD025 -->

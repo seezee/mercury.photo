@@ -380,6 +380,16 @@
       "source": "/woodyfest-2018-carter-sampson/",
       "destination": "/blog/woodyfest-2018-carter-sampson/",
       "permanent": true
+    },
+    {
+      "source": "/woodyfest-2018-red-dirt-rangers/",
+      "destination": "/blog/woodyfest-2018-red-dirt-rangers/",
+      "permanent": true
+    },
+    {
+      "source": "/woodyfest-2018-2nd-place-songwriter-charlie-mosbrook/",
+      "destination": "/blog/woodyfest-2018-2nd-place-songwriter-charlie-mosbrook/",
+      "permanent": true
     }
   ]
 }

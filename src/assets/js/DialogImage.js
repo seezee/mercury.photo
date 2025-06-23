@@ -44,7 +44,7 @@ export default class DialogImage extends HTMLElement {
           <stack-l>
             <source srcset="${imageUrlTrimmed}.webp" type="image/webp"/>
             <source srcset="${imageUrlTrimmed}.jpeg" type="image/jpeg"/>
-            <img src="${imageUrl}" alt="${altAttr}" loading="lazy" />
+            <img src="${imageUrl}" alt="${altAttr}" loading="lazy" decoding="async" />
             <figcaption>${captionText}</figcaption>
           </stack-l>
         </picture>

@@ -9,21 +9,21 @@ permalink: "/services/baby-photography/"
 <!-- markdownlint-enable MD025 -->
 <mpb-dialog-img>
 
-{% image "./src/assets/images/site/baby-photography/czahller-20161118-18-52-07.jpg", "img-constrained", "A baby asleep on her belly, her little butt in the air and her mouth ajar. She is dressed in a white smock with a bow on the back. She sleeps on a star-dusted blue cushion. A cloudy blue sky print forms the background" %}</mpb-dialog-img>
+{% image "./src/assets/images/site/baby-photography/czahller-20161118-18-52-07.jpg", "img-constrained", "A baby asleep on her belly, her little butt in the air and her mouth ajar. She is dressed in a white smock with a bow on the back. She sleeps on a star-dusted blue cushion. A cloudy blue sky print forms the background", "Baby Butt!" %}</mpb-dialog-img>
 
 Pictured: newborn portrait session of Alicia and David Goad’s first daughter, Jazz Marie, photographed on film and digital.<a href="#mn:1" id="mnref:1"><span class="sr-only"> [See note]</span></a>
 
 <mpb-dialog-gallery hint rel cols="8">
-  
+
   ![Black & white photo of a baby sleeping in a basket](/assets/images/site/baby-photography/czahller-20161104-20-33-52.jpg)
-  ![PlacBlack & white photo of a baby sleeping in a basketeholder](/assets/images/site/baby-photography/czahller-20161104-20-42-40.jpg)
+  ![Black & white photo of a baby sleeping in a basketeholder](/assets/images/site/baby-photography/czahller-20161104-20-42-40.jpg)
   ![A baby on a furry yellow cushion while swaddled in blue wrap. Silk butterflies are pinned to the cushion.](/assets/images/site/baby-photography/czahller-20161104-22-19-59.jpg)
   ![A smiling baby on a furry yellow cushion while swaddled in blue wrap. Silk butterflies are pinned to the cushion.](/assets/images/site/baby-photography/czahller-20161104-22-20-18.jpg)
   ![A smilling baby with closed eyes on a furry yellow cushion while swaddled in blue wrap. Silk butterflies are pinned to the cushion.](/assets/images/site/baby-photography/czahller-20161104-22-46-25.jpg)
   ![A closeup of a baby's feet against a gauzy red background](/assets/images/site/baby-photography/czahller-20161104-23-46-24.jpg)
   ![A baby asleep on her belly, her little butt in the air and her mouth ajar. She is dressed in a white smock with a bow on the back. She sleeps on a star-dusted blue cushion. A cloudy blue sky print forms the background](/assets/images/site/baby-photography/czahller-20161118-18-52-07.jpg)
   ![A baby asleep in a basket with her butt pointed at the sky](/assets/images/site/baby-photography/czahller-20161118-19-13-15.jpg)
-  ![A cis straignt couple posing with their baby. The woman is laughing and the man is kissing her on the cheek.](/assets/images/site/baby-photography/czahller-20161118-21-27-42.jpg)
+  ![A cis straight couple posing with their baby. The woman is laughing and the man is kissing her on the cheek.](/assets/images/site/baby-photography/czahller-20161118-21-27-42.jpg)
   ![A cis straight couple holding their baby and facing the camera](/assets/images/site/baby-photography/czahller-20161118-21-31-26.jpg)
 </mpb-dialog-gallery>
 

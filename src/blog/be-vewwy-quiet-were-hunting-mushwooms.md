@@ -156,7 +156,7 @@ For each person:
 </dl>
 
 1. Melt butter in a well-seasoned cast-iron or non-stick pan over low heat.
-2. Combine all ingredients except butter in a bowl. Using a heat-proof silicone spatula, gently break the yolks and fold them in. <em>Do not overmix.</em>
+2. Combine all ingredients except butter in a bowl. Using a heat-proof silicone spatula, gently break the yolks and fold them in. *Do not overmix.*
 3. Pour the eggs into the middle of the pan. As the eggs begin to set, use the spatula to move the eggs from the pan edge to the center, occasionally turning the mixture over. Do not allow eggs to stick or dry out; keep them moving. The mixture should form large, soft curds. Remove the pan from the heat as needed to regulate the temperature.
 4. When the eggs are barely set&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;they should be shiny and slightly runny&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;transfer them to a warm plate. Taste for seasoning, adjusting if needed, and keep in a warm oven until ready to serve.
 5. Serve with morels (sliced cross-wise and saut&eacute;ed in butter) and toast points.

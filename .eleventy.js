@@ -1,24 +1,25 @@
 `use strict`;
 
-const browserslist                = require('browserslist');
-const eleventyAutoCacheBuster     = require('eleventy-auto-cache-buster');
-const eleventyPluginFilesMinifier = require('@sherby/eleventy-plugin-files-minifier');
-const esbuild                     = require('esbuild');
-const { execSync }                = require('child_process')
-const { feedPlugin }              = require('@11ty/eleventy-plugin-rss');
-const format                      = require('date-fns/format');
-const { govukEleventyPlugin }     = require('@x-govuk/govuk-eleventy-plugin');
-const Image                       = require('@11ty/eleventy-img');
-const markdownIt                  = require('markdown-it');
-const markdownItAnchor            = require('markdown-it-anchor');
-const markdownItAttrs             = require('markdown-it-attrs');
-const { minify }                  = require('terser');
-const outdent                     = require('outdent');
-const path                        = require('path');
-const pluginSEO                   = require('eleventy-plugin-seo');
+const browserslist                     = require('browserslist');
+const eleventyAutoCacheBuster          = require('eleventy-auto-cache-buster');
+const eleventyPluginFilesMinifier      = require('@sherby/eleventy-plugin-files-minifier');
+const esbuild                          = require('esbuild');
+const { execSync }                     = require('child_process')
+const { feedPlugin }                   = require('@11ty/eleventy-plugin-rss');
+const format                           = require('date-fns/format');
+const { govukEleventyPlugin }          = require('@x-govuk/govuk-eleventy-plugin');
+const Image                            = require('@11ty/eleventy-img');
+// const { eleventyImageTransformPlugin } = require('@11ty/eleventy-img');
+const markdownIt                       = require('markdown-it');
+const markdownItAnchor                 = require('markdown-it-anchor');
+const markdownItAttrs                  = require('markdown-it-attrs');
+const { minify }                       = require('terser');
+const outdent                          = require('outdent');
+const path                             = require('path');
+const pluginSEO                        = require('eleventy-plugin-seo');
 // Next 2 constants for JS bundling browser targets
-const {resolveToEsbuildTarget}    = require('esbuild-plugin-browserslist');
-const target                      = resolveToEsbuildTarget(browserslist(
+const {resolveToEsbuildTarget}         = require('esbuild-plugin-browserslist');
+const target                           = resolveToEsbuildTarget(browserslist(
     'production' [
       '>0.2%',
       'Firefox ESR',
@@ -33,28 +34,6 @@ const target                      = resolveToEsbuildTarget(browserslist(
   ), {
   printUnknownTargets: false,
 });
-
-/**
- * @param {*} doc A real big object full of all sorts of information about a document.
- * @returns {String} the markup of the first image.
- */
-function extractFirstImage(doc) {
-  if (!doc.hasOwnProperty(`templateContent`)) {
-    console.warn(`❌ Failed to extract image: Document has no property 'templateContent'.`);
-    return;
-  }
-
-  const content = doc.templateContent;
-
-  if (content.includes(`<img`)) {
-    const imgTagBegin = content.indexOf(`<img`);
-    const imgTagEnd = content.indexOf(`>`, imgTagBegin);
-
-    return content.substring(imgTagBegin, imgTagEnd + 1);
-  }
-
-  return ``;
-}
 
 const siteURL = `https://mercury.photo`
 
@@ -90,15 +69,41 @@ module.exports = async function(eleventyConfig) {
   eleventyConfig.addPassthroughCopy(`src/assets/fonts`);
   eleventyConfig.addPassthroughCopy(`src/assets/images`);
   eleventyConfig.addPassthroughCopy(`src/assets/media`);
+
+  // Transform images
+/*   eleventyConfig.addPlugin(eleventyImageTransformPlugin), {
+    failOnError: false,
+		// output image formats
+		formats: [`webp`, `jpeg`],
+		// output image widths
+		widths: [400, 800, 1200, `auto`],
+
+		// optional, attributes assigned on <img> nodes override these values
+		htmlOptions: {
+			imgAttributes: {
+        alt: ``,
+        sizes: `(min-width: 24rem) 90vw, 100vw`,
+				loading: `lazy`,
+				decoding: `async`,
+			}
+		},
+    pictureAttributes: {},
+    outputDir: '_site/assets/images',
+    urlPath: '/assets/images',
+    transform: (sharp) => {
+      sharp.keepExif();
+    }
+	}; */
+
   // Image shortcode
   const imageShortcode = async (
     src,
     className = undefined,
     alt,
     caption,
-    widths = [400, 800, 1280, 1600],
+    widths = [400, 800, 1200, `auto`],
     formats = [`webp`, `jpeg`],
-    sizes = [`25vw`, `50vw`, `75vw`, `100vw`]
+    sizes = `(min-width: 24rem) 90vw, 100vw`
   ) => {
 
     const imageMetadata = await Image(src, {
@@ -159,14 +164,22 @@ module.exports = async function(eleventyConfig) {
     const pictureAttributes = stringifyAttributes({
       class: className,
     });
-    if (caption === undefined) caption = ``;
-    const picture = `<figure><picture ${pictureAttributes}>
-      ${sourceHtmlString}
-      ${imgHtmlString}
-    </picture><figcaption>${caption}</figcaption></figure>`;
+    let picture;
+    if (caption === undefined) {
+      picture = `<picture ${pictureAttributes}>
+        ${sourceHtmlString}
+        ${imgHtmlString}
+      </picture>`;
+    } else {
+      picture = `<figure><picture ${pictureAttributes}>
+        ${sourceHtmlString}
+        ${imgHtmlString}
+      </picture><figcaption>${caption}</figcaption></figure>`;
+    };
 
     return outdent`${picture}`;
   };
+
   // SEO
   eleventyConfig.addPlugin(pluginSEO, {
     title: `Mercury Photo Bureau`,
@@ -220,7 +233,7 @@ module.exports = async function(eleventyConfig) {
   eleventyConfig.addFilter(`sortByPubDate`, sortByPubDate);
   // Tags index
   eleventyConfig.addFilter(`taglist`, function(collection) {
-    const ignoredTags = [`blog`, `all`];
+    const ignoredTags = [`blog`, `all`, `ignore`];
     const tags = [];
     collection.forEach(post => {
         tags.push(...post.data.tags);
@@ -265,10 +278,7 @@ module.exports = async function(eleventyConfig) {
     linkify: true
   };
 
-  const markdownLib = markdownIt(markdownItOptions).use(
-    markdownItAttrs,
-    markdownItAnchor
-  )
+  const markdownLib = markdownIt(markdownItOptions).use(markdownItAttrs).use(markdownItAnchor)
 
   eleventyConfig.setLibrary(`md`, markdownLib);
 
