@@ -19,7 +19,6 @@ pubdate: 2018-11-05T13:00:20+00:00
 image: /assets/images/blog/2018-11-05-woodyfest-backstage-thursday/czahller-20180712-18-53-40.jpg
 excerpt: As most Woodyfest supporters know, festival favorite Audrey Auld-Mezera died of complications from cancer three years ago.
 ---
--
 <!-- markdownlint-disable MD025 -->
 <hgroup><stack-l>
 
