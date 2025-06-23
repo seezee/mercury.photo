@@ -395,6 +395,16 @@
       "source": "/woodyfest-2018-thursday-backstage/",
       "destination": "/blog/woodyfest-2018-thursday-backstage/",
       "permanent": true
+    },
+    {
+      "source": "/woodyfest-2018-mary-battiata/",
+      "destination": "/blog/woodyfest-2018-mary-battiata/",
+      "permanent": true
+    },
+    {
+      "source": "/early-in-person-absentee-voting-2018-mid-terms-cleveland-co-oklahoma/",
+      "destination": "/blog/early-in-person-absentee-voting-2018-mid-terms-cleveland-co-oklahoma/",
+      "permanent": true
     }
   ]
 }

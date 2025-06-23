@@ -31,7 +31,10 @@ excerpt: From the moment she began to sing her song “Trance” from the Brick 
 
 {% image "./src/assets/images/blog/2018-11-02-woodyfest-mary-battiata/czahller-20180712-17-39-49.jpg", "img-constrained", "Mary — 21st Annual Woody Guthrie Festival, 2018", "Mary&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;21st Annual Woody Guthrie Festival, 2018" %}</mpb-dialog-img>
 
+<div class="drop-cap">
+
 From the moment she began to sing her song <cite class="short-work">Trance</cite> from the Brick Café stage, <span class="h-card p-name">Mary Battiata</span> had this writer’s short hairs standing at attention. The song, from her second full-length release <cite><a href="https://amzn.to/2pU3A2a" target="_blank" rel="external noopener">Gladly Would We Anchor</a></cite>, is a swampy, off-kilter affair that sent shock waves through the audience.
+</div>
 
 Wearing one of the sharpest western snap-front shirts this side of <span class="h-card p-name">[Rob M<sup>c</sup>Nurlin](/blog/nancy-apple-rob-mcnurlin-okemah-nutrition-center-woody-guthrie-folk-festival/)</span>, the petite D.C. native made her first Woodyfest appearance on the Brick Street Stage <time datetime="2018-07-12T17:00:00-5:00">this year</time>. She was accompanied by <span class="h-card p-name">Geoff Queen</span> on lap steel guitar and <span class="h-card p-name">David Carroll</span> on electric bass.
 
