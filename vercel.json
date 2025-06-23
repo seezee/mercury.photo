@@ -390,6 +390,11 @@
       "source": "/woodyfest-2018-2nd-place-songwriter-charlie-mosbrook/",
       "destination": "/blog/woodyfest-2018-2nd-place-songwriter-charlie-mosbrook/",
       "permanent": true
+    },
+    {
+      "source": "/woodyfest-2018-thursday-backstage/",
+      "destination": "/blog/woodyfest-2018-thursday-backstage/",
+      "permanent": true
     }
   ]
 }

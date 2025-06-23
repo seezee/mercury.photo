@@ -821,8 +821,11 @@ a[href^='https://']:not([href*='mercury.photo']):not([href*='localhost']):not(.s
   content: '[Opens in new window] ';
 }
 
-a[href^='http://']:not([href*='mercury.photo']):not([href*='localhost']):not(.social-link):after,
-a[href^='https://']:not([href*='mercury.photo']):not([href*='localhost']):not(.social-link):after {
+a[href^='http://']:not([href*='mercury.photo']):not([href*='localhost']):not(.social-link),
+a[href^='https://']:not([href*='mercury.photo']):not([href*='localhost']):not(.social-link) {
+  display: inline-block;
+
+  &::after {
   display: inline-block;
   margin-inline-start: .5ch;
   inline-size: 1ch;
@@ -832,6 +835,7 @@ a[href^='https://']:not([href*='mercury.photo']):not([href*='localhost']):not(.s
   background: var(--mpb-icon-external) no-repeat;
   vertical-align: middle;
   line-height: 1;
+  }
 }
 
 blockquote footer a[href^='http://']:not([href*='mercury.photo']):not([href*='localhost']):not(.social-link):after,
