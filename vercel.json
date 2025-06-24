@@ -415,6 +415,16 @@
       "source": "/woodyfest-2018-johnsmith/",
       "destination": "/blog/woodyfest-2018-johnsmith/",
       "permanent": true
+    },
+    {
+      "source": "/woodyfest-21-rick-reiley/",
+      "destination": "/blog/woodyfest-2018-rick-reiley/",
+      "permanent": true
+    },
+    {
+      "source": "/woodyfest-21-jaane-doe/",
+      "destination": "/blog/woodyfest-2018-jaane-doe/",
+      "permanent": true
     }
   ]
 }
