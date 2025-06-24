@@ -405,6 +405,11 @@
       "source": "/early-in-person-absentee-voting-2018-mid-terms-cleveland-co-oklahoma/",
       "destination": "/blog/early-in-person-absentee-voting-2018-mid-terms-cleveland-co-oklahoma/",
       "permanent": true
+    },
+    {
+      "source": "/woodyfest-2018-milagro-saints/",
+      "destination": "/blog/woodyfest-2018-milagro-saints/",
+      "permanent": true
     }
   ]
 }

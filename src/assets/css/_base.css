@@ -823,7 +823,6 @@ a[href^='https://']:not([href*='mercury.photo']):not([href*='localhost']):not(.s
 
 a[href^='http://']:not([href*='mercury.photo']):not([href*='localhost']):not(.social-link),
 a[href^='https://']:not([href*='mercury.photo']):not([href*='localhost']):not(.social-link) {
-  display: inline-block;
 
   &::after {
   display: inline-block;
