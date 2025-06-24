@@ -410,6 +410,11 @@
       "source": "/woodyfest-2018-milagro-saints/",
       "destination": "/blog/woodyfest-2018-milagro-saints/",
       "permanent": true
+    },
+    {
+      "source": "/woodyfest-2018-johnsmith/",
+      "destination": "/blog/woodyfest-2018-johnsmith/",
+      "permanent": true
     }
   ]
 }

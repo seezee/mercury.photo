@@ -26,7 +26,7 @@ excerpt: Making their Woodyfest debut, Gypsy Twang played the Hen House stage Fr
 
 <!-- markdownlint-enable MD025 --><mpb-dialog-img>
 
-{% image "./src/assets/images/blog/2018-11-26-woodyfest-gypsy-twang/czahller-20180713-12-10-38.jpg", "img-constrained", "Gypsy Twang (I)&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;21st Annual Woody Guthrie Festival, 2018", "Gypsy Twang (I)&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;21st Annual Woody Guthrie Festival, 2018" %}</mpb-dialog-img>
+{% image "./src/assets/images/blog/2018-11-26-woodyfest-gypsy-twang/czahller-20180713-12-10-38.jpg", "img-constrained", "Gypsy Twang (I) — 21st Annual Woody Guthrie Festival, 2018", "Gypsy Twang (I)&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;21st Annual Woody Guthrie Festival, 2018" %}</mpb-dialog-img>
 
 Making their Woodyfest debut, <span class="h-card p-org">Gypsy Twang</span> played the Hen House stage <time datetime="2018-07-13T12:00:00-5:00">Friday afternoon</time>. Husband and wife <span class="h-card p-name">Steve Huhn</span> (bass) and <span class="h-card p-name">Sarah Barker-Huhn</span> (guitar, vocals), along with <span class="h-card p-name">John Williams</span> (guitar, harmonica, voice) shared the stage with guests <span class="h-card p-name">George Barton</span> (mandolin) and <span class="h-card p-name">Kurt <span class="p-nickname">“Frenchie”</span> Nielson</span>. They played a mix of originals, penned mostly by Barker-Huhn and Williams, traditional folk and country tunes, Red Dirt, country-swing, alt-country, and Americana numbers.
 
