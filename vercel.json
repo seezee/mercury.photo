@@ -425,6 +425,16 @@
       "source": "/woodyfest-21-jaane-doe/",
       "destination": "/blog/woodyfest-2018-jaane-doe/",
       "permanent": true
+    },
+    {
+      "source": "/woodyfest-21-bill-lewis/",
+      "destination": "/blog/woodyfest-2018-bill-lewis/",
+      "permanent": true
+    },
+    {
+      "source": "/national-night-out-faculty-heights/",
+      "destination": "/blog/national-night-out-faculty-heights/",
+      "permanent": true
     }
   ]
 }
