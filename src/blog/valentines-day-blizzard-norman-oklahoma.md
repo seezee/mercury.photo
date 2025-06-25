@@ -9,7 +9,6 @@ tags:
   - news
   - photo gallery
   - architecture
-  - Rolleiflex
   - James Garner
   - snow
 date: Last Modified
