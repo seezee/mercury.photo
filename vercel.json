@@ -435,6 +435,21 @@
       "source": "/national-night-out-faculty-heights/",
       "destination": "/blog/national-night-out-faculty-heights/",
       "permanent": true
+    },
+    {
+      "source": "/trekking-thru-the-wichita-mountains-wildlife-refuge-with-a-4x5-field-camera/",
+      "destination": "/blog/wichita-mountains-wildlife-refuge/",
+      "permanent": true
+    },
+    {
+      "source": "/skating-polly-the-make-it-all-show-tour-kickoff/",
+      "destination": "/blog/skating-polly-make-it-all-show-tour-kickoff/",
+      "permanent": true
+    },
+    {
+      "source": "/tea-with-tyson-meade-interview-gallery/",
+      "destination": "/blog/tea-with-tyson-meade-interview-gallery/",
+      "permanent": true
     }
   ]
 }
