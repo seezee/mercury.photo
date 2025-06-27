@@ -24,7 +24,7 @@ excerpt: Wink Burcham will return to Woodyfest for the seventh time in 2021. His
 
 <!-- markdownlint-enable MD025 --><mpb-dialog-img>
 
-{% image "./src/assets/images/blog/2021-07-12-woodyfest-wink-burcham/czahller-20140711-12-40-43.jpg", "img-constrained", "Kyle Dismukes, Kurt “Frenchy” Nielsen, Wink Burcham, Kevin Smith, & Chris “Poppa” Foster — 17th Annual Woody Guthrie Folk Festival, 2014", "Kyle Dismukes, Kurt “Frenchy” Nielsen, Wink Burcham, Kevin Smith, & Chris “Poppa” Foster — 17th Annual Woody Guthrie Folk Festival, 2014" %}</mpb-dialog-img>
+{% image "./src/assets/images/blog/2021-07-12-woodyfest-wink-burcham/czahller-20140711-12-40-43.jpg", "img-constrained", "Kyle Dismukes, Kurt “Frenchy” Nielsen, Wink Burcham, Kevin Smith, & Chris “Poppa” Foster — 17th Annual Woody Guthrie Folk Festival, 2014", "Kyle Dismukes, Kurt “Frenchy” Nielsen, Wink Burcham, Kevin Smith, & Chris “Poppa” Foster&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;17th Annual Woody Guthrie Folk Festival, 2014" %}</mpb-dialog-img>
 
 <mpb-callout type="notice">
 

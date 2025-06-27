@@ -24,9 +24,8 @@
   label.textContent = `Search`;
 
   clearButton.classList.add(`button`);
-  clearButton.setAttribute(`aria-label`, `Clear search results`);
   clearButton.setAttribute(`value`, `×`);
-  clearButton.textContent = `×`;
+  clearButton.innerHTML = `<span class="sr-only">Clear search results</span><span aria-hidden="true">×</span>`;
 
   hint.setAttribute(`id`, `search-hint__wrapper`);
   hint.innerHTML = `<kbd>⌘</kbd><kbd>K</kbd>`;

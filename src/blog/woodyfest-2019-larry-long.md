@@ -23,7 +23,7 @@ excerpt: In 1977, twenty-six-year-old vagabond singer Larry Long wrote <cite cla
 
 <!-- markdownlint-enable MD025 --><mpb-dialog-img>
 
-{% image "./src/assets/images/blog/2020-01-17-woodyfest-larry-long/czahller-20190711-11-12-16.jpg", "img-constrained", "Larry (I) — 22nd Annual Woody Guthrie Festival, 2019", "Larry (I) — 22nd Annual Woody Guthrie Festival, 2019" %}</mpb-dialog-img>
+{% image "./src/assets/images/blog/2020-01-17-woodyfest-larry-long/czahller-20190711-11-12-16.jpg", "img-constrained", "Larry (I) — 22nd Annual Woody Guthrie Festival, 2019", "Larry (I)&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;22nd Annual Woody Guthrie Festival, 2019" %}</mpb-dialog-img>
 
 <mpb-callout type="note">
 

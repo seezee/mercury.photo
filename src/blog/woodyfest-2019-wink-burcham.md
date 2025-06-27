@@ -26,7 +26,7 @@ excerpt: In 2019 Tulsa-based singer/songwriter Wink Burcham made his sixth strai
 
 <mpb-dialog-img>
 
-{% image "./src/assets/images/blog/2020-03-30-woodyfest-wink-burcham/czahller-20190711-16-37-24.jpg", "img-constrained", "Wink Burcham (I) — 22nd Annual Woody Guthrie Festival, 2019", "Wink Burcham (I) — 22nd Annual Woody Guthrie Festival, 2019" %}</mpb-dialog-img>
+{% image "./src/assets/images/blog/2020-03-30-woodyfest-wink-burcham/czahller-20190711-16-37-24.jpg", "img-constrained", "Wink Burcham (I) — 22nd Annual Woody Guthrie Festival, 2019", "Wink Burcham (I)&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;22nd Annual Woody Guthrie Festival, 2019" %}</mpb-dialog-img>
 
 In <time datetime="2019-07-11T16:30-5:00">2019</time> Tulsa-based singer/songwriter <span class="h-card p-name">Wink Burcham</span> made his sixth straight Woodyfest appearance, performing a late-afternoon set on the Bound for Glory stage.
 

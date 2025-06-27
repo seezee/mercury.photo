@@ -23,7 +23,7 @@ excerpt: "In 2001, John Wort Hannam quit his job to become a folk musician. He s
 
 <!-- markdownlint-enable MD025 --><mpb-dialog-img>
 
-{% image "./src/assets/images/blog/2020-10-12-woodyfest-john-wort-hannam/czahller-20140710-15-39-14.jpg", "img-constrained", "Rad & John Wort Hannam — 17th Annual Woody Guthrie Folk Festival, 2014", "Rad & John Wort Hannam — 17th Annual Woody Guthrie Folk Festival, 2014" %}</mpb-dialog-img>
+{% image "./src/assets/images/blog/2020-10-12-woodyfest-john-wort-hannam/czahller-20140710-15-39-14.jpg", "img-constrained", "Rad & John Wort Hannam — 17th Annual Woody Guthrie Folk Festival, 2014", "Rad & John Wort Hannam&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;17th Annual Woody Guthrie Folk Festival, 2014" %}</mpb-dialog-img>
 
 ## Lucky Hat
 

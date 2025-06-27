@@ -23,7 +23,7 @@ excerpt: Self-described “folky-tonk” duo Pushing Chain made their Woodyfest 
 
 <!-- markdownlint-enable MD025 --><mpb-dialog-img>
 
-{% image "./src/assets/images/blog/2020-04-10-woodyfest-pushing-chain/czahller-20190712-14-39-24.jpg", "img-constrained", "Pushing Chain (Upstage View)", "Pushing Chain (Upstage View) — 22nd Annual Woody Guthrie Festival, 2019" %}</mpb-dialog-img>
+{% image "./src/assets/images/blog/2020-04-10-woodyfest-pushing-chain/czahller-20190712-14-39-24.jpg", "img-constrained", "Pushing Chain (Upstage View)", "Pushing Chain (Upstage View)&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;22nd Annual Woody Guthrie Festival, 2019" %}</mpb-dialog-img>
 
 Self-described “folky-tonk” duo <span class="h-card p-org">Pushing Chain</span> made their Woodyfest debut on the Bound for Glory stage on <time datetime="2019-07-12T14:30:00-5:00">festival Friday</time>. The pair, consisting of <span class="h-card p-name">Boyd <span class="p-nickname">“Bump”</span> Blomberg</span> and <span class="h-card p-name">Adam Moe</span>, hail from northern Minnesota. Boyd plays guitar while Moe fiddles. Both write the songs and sing them.
 

@@ -22,7 +22,7 @@ excerpt: Today we present candid images from my first year as a volunteer photog
 
 <!-- markdownlint-enable MD025 --><mpb-dialog-img>
 
-{% image "./src/assets/images/blog/2020-03-26-woodyfest-bandcamp-backstage/czahller-20130712-20-43-53.jpg", "img-constrained", "Giovanni “Nooch” Carnuccio & Friend — Backstage Area, Pastures of Plenty, Woody Guthrie Folk Festival 16", "Giovanni “Nooch” Carnuccio & Friend — Backstage Area, Pastures of Plenty, Woody Guthrie Folk Festival 16" %}</mpb-dialog-img>
+{% image "./src/assets/images/blog/2020-03-26-woodyfest-bandcamp-backstage/czahller-20130712-20-43-53.jpg", "img-constrained", "Giovanni “Nooch” Carnuccio & Friend — Backstage Area, Pastures of Plenty, Woody Guthrie Folk Festival 16", "Giovanni “Nooch” Carnuccio & Friend&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;Backstage Area, Pastures of Plenty, Woody Guthrie Folk Festival 16" %}</mpb-dialog-img>
 
 Today we present candid images from my first year as a volunteer photographer for the <span class="h-card p-org"><span class="p-name"><span class="p-nickname">Woody</span> Guthrie</span> Folk Festival</span>.<a href="#mn:1" id="mnref:1"><span class="sr-only"> [See note]</span></a> I was still learning to use my newly-acquired <a href="https://amzn.to/39nqnre" target="_blank" rel="external noopener">Leica digital rangefinder camera</a> when I shot the <time datetime="2012-07">2012</time> festival from the audience.  A <time datetime="2013-07">year later</time> I had shot numerous musical performances and festivals, so I was feeling much more confident as I documented the <time datetime="2013-07">2013</time> Woodyfest.
 
