@@ -450,6 +450,11 @@
       "source": "/tea-with-tyson-meade-interview-gallery/",
       "destination": "/blog/tea-with-tyson-meade-interview-gallery/",
       "permanent": true
+    },
+    {
+      "source": "/walter/",
+      "destination": "/blog/walter/",
+      "permanent": true
     }
   ]
 }

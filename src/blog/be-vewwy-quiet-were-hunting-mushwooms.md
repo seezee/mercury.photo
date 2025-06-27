@@ -94,7 +94,10 @@ recipe: '<script type="application/ld+json">
 
 {% image "./src/assets/images/blog/2019-04-19-mushroom-hunt/czahller-20190408-16-45-43.jpg", "img-constrained", "RT Valine displaying his morel haul and brandishing his mushroom knife", "The Mighty Hunter’s Bounty&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;Oklahoma Morel Foraging, 2019" %}</mpb-dialog-img>
 
+<div class="drop-cap">
+
 My friend <span class="h-card p-name">[RT Valine](/blog/woodyfest-2018-brad-fielder-rt-valine/)</span> and his wife <span class="h-card p-name p-given-name">Jackie</span> were visiting the Bureau one evening and we got to discussing food and cooking. The Valines live in rural Allen, Oklahoma. When the conditions are right, they have access to wild morel mushrooms.
+</div>
 
 Morels are delicious,<a href="#mn:1" id="mnref:1"><span class="sr-only"> [See note]</span></a> but hard to come by unless you know someone who knows someone. I sometimes see them at the farmers market, but the prices are dear and they disappear quickly&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;you’ve got to be first in line if you expect to buy any.
 
