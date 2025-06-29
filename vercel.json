@@ -455,6 +455,16 @@
       "source": "/walter/",
       "destination": "/blog/walter/",
       "permanent": true
+    },
+    {
+      "source": "/hoot-at-the-root/",
+      "destination": "/blog/hoot-root/",
+      "permanent": true
+    },
+    {
+      "source": "/wanette-oklahoma/",
+      "destination": "/blog/wanette-oklahoma/",
+      "permanent": true
     }
   ]
 }

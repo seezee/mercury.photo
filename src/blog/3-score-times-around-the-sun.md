@@ -54,18 +54,15 @@ I took most of the pictures shown here, except for the group photo, made by my d
     <dd>Leitz (Leica) K2 (Wratten <span class="ord">No.</span> 8)</dd>
     <dt>Exposure</dt>
     <dd><sup>1</sup>&frasl;<sub>250</sub><sup>th</sup> second</dd>
-    <dt><abbr>ISO</abbr></dt>
+    <dt><abbr>ISO</dt>
     <dd>400</dd>
     <dt>Film</dt>
-    <dd>Kodak Tri-X Pan (<abbr>PXP</abbr>) 120</dd>
+    <dd>Kodak Tri-X Pan (<abbr>PXP) 120</dd>
     <dt>Developer</dt>
-    <dd><a id="CZ12054" href="https://adorama.rfvk.net/c/63213/29622/1036?prodsku=CZ12054&u=https%3A%2F%2Fwww.adorama.com%2FCZ12054.html&intsrc=PUI1_230" target="_blank" rel="noopener">Adox Adonal</a>
-      (Rodinal) 1:100</dd>
-    <dd><time datetime="P1H">~60 minutes</time> semi-stand in <a href="https://www.amazon.com/gp/product/B0000BZMIH/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B0000BZMIH&linkCode=as2&tag=mercphotamzn-20&linkId=c84b3b46d9a0594ec0ee78b93b96f78c" target="_blank" rel="external noopener">Paterson Super System
-        4</a> daylight tank</dd>
+    <dd><a id="CZ12054" href="https://adorama.rfvk.net/c/63213/29622/1036?prodsku=CZ12054&u=https%3A%2F%2Fwww.adorama.com%2FCZ12054.html&intsrc=PUI1_230" target="_blank" rel="noopener">Adox Adonal</a> (Rodinal) 1:100</dd>
+    <dd><time datetime="P1H">~60 minutes</time> semi-stand in <a href="https://www.amazon.com/gp/product/B0000BZMIH/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B0000BZMIH&linkCode=as2&tag=mercphotamzn-20&linkId=c84b3b46d9a0594ec0ee78b93b96f78c" target="_blank" rel="external noopener">Paterson Super System 4</a> daylight tank</dd>
     <dt>Scanner</dt>
-    <dd><a href="https://www.amazon.com/gp/product/B00OCEJMG8/ref=as_li_tl?ie=UTF8&tag=mercphotamzn-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B00OCEJMG8&linkId=62b44b123defe5a0a3092689c7e61739" target="_blank" rel="external noopener">Epson Perfection
-        <abbr>v</abbr>850</a></dd>
+    <dd><a href="https://www.amazon.com/gp/product/B00OCEJMG8/ref=as_li_tl?ie=UTF8&tag=mercphotamzn-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B00OCEJMG8&linkId=62b44b123defe5a0a3092689c7e61739" target="_blank" rel="external noopener">Epson Perfection v850</a></dd>
     <dt>Software</dt>
     <dd>VueScan</dd>
     <dd><a href="https://amzn.to/2PVnqGm" target="_blank" rel="external noopener">Adobe Lightroom 6</a></dd>
