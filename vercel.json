@@ -470,6 +470,16 @@
       "source": "/tuttle-cordell-mountain-view-anadarko/",
       "destination": "/blog/tuttle-cordell-mountain-view-anadarko/",
       "permanent": true
+    },
+    {
+      "source": "/downtown-roosevelt-oklahoma/",
+      "destination": "/blog/downtown-roosevelt-oklahoma/",
+      "permanent": true
+    },
+    {
+      "source": "/paige-s-wilson-photographer/",
+      "destination": "/blog/paige-s-wilson-photographer",
+      "permanent": true
     }
   ]
 }
