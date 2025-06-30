@@ -72,7 +72,7 @@ Opening for the band were local favorites Poolboy and L.A.-based punk rockers Po
 ## Gallery: Skating Polly at OPOLIS
 
 <mpb-dialog-gallery hint rel cols="8">
-  
+
   ![Set Lists: Poolboy, Potty Mouth, Skatiing Polly](/assets/images/blog/2018-06-08-skating-polly/czahller-20180608-12-08-31.jpg)
   ![Potty Mouth (I)](/assets/images/blog/2018-06-08-skating-polly/czahller-20180601-22-02-00.jpg)
   ![Potty Mouth (II)](/assets/images/blog/2018-06-08-skating-polly/czahller-20180601-22-02-34.jpg)

@@ -465,6 +465,11 @@
       "source": "/wanette-oklahoma/",
       "destination": "/blog/wanette-oklahoma/",
       "permanent": true
+    },
+    {
+      "source": "/tuttle-cordell-mountain-view-anadarko/",
+      "destination": "/blog/tuttle-cordell-mountain-view-anadarko/",
+      "permanent": true
     }
   ]
 }
