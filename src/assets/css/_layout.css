@@ -958,8 +958,22 @@ div.col-5 {
 
 #footer-main,
 #comment-wrapper,
+#author-info-wrapper,
 #support-site-wrapper {
   max-width: 60ch;
+}
+
+#author-info-content {
+  display: flex;
+  gap: var(--s1);
+
+  figure {
+    flex: 1;
+  }
+
+  p {
+    flex: 3;
+  }
 }
 
 #pagination,

@@ -139,7 +139,8 @@ hgroup:has(stack-l h1) {
   }
 }
 
-hgroup:has(h1) h1 ~ p:not(:empty):first-of-type:first-letter {
+hgroup:has(h1) h1 ~ p:not(:empty):first-of-type:first-letter,
+.no-drop-cap p:not(:empty):first-of-type:first-letter {
   font: inherit;
   color: inherit;
   float: none;
