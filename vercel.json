@@ -480,6 +480,16 @@
       "source": "/paige-s-wilson-photographer/",
       "destination": "/blog/paige-s-wilson-photographer",
       "permanent": true
+    },
+    {
+      "source": "/x-ray-film-portraiture-with-modified-rembrandt-lighting/",
+      "destination": "/blog/x-ray-film-portrait-modified-rembrandt-lighting",
+      "permanent": true
+    },
+    {
+      "source": "/in-person-early-absentee-voting-2016-general-election-edition/",
+      "destination": "/blog/early-voting-2016-general-election",
+      "permanent": true
     }
   ]
 }
