@@ -4,6 +4,7 @@ title: "Sonoran Trance: The Myrrors at Dope Chapel"
 tags: 
   - blog
   - photography, digital
+  - photography, black & white
   - music
   - photo
   - photo gallery

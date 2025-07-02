@@ -7,6 +7,7 @@ tags:
   - photography, 35mm
   - photography, large format
   - photography, film
+  - photography, black & white
   - portraiture
   - photo gallery
   - music

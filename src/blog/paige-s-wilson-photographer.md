@@ -5,6 +5,7 @@ tags:
   - blog
   - photography, large format
   - photography, film
+  - photography, black & white
   - portraiture
   - lighting & studio
 date: Last Modified

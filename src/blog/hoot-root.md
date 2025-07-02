@@ -5,6 +5,7 @@ tags:
   - blog
   - reportage
   - photography, digital
+  - photography, black & white
   - photo gallery
   - music
   - Woody Guthrie

@@ -7,6 +7,7 @@ tags:
   - photography, film
   - photography, landscape
   - photography, nature
+  - photography, black & white
   - Wista
   - photo gallery
 date: Last Modified

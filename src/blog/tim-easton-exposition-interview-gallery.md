@@ -3,7 +3,10 @@ layout: _main-blog.njk
 title: "Tim Easton: Exposition Interview & Gallery"
 tags: 
   - blog
-  - photography, digital
+  - photography, film
+  - photography, 35mm
+  - photography, large format
+  - photography, black & white
   - music
   - photo gallery
   - reportage

@@ -6,6 +6,7 @@ tags:
   - essay
   - photography, medium format
   - photography, film
+  - photography, black & white
   - photo gallery
   - architecture
   - Miyama

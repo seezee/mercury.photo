@@ -6,6 +6,7 @@ tags:
   - photography, medium format
   - photography, film
   - photography, architecture
+  - photography, black & white
   - photo gallery
   - Rolleiflex
   - Hasselblad

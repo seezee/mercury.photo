@@ -4,6 +4,7 @@ title: "Woodyfest 2019: Wink Burcham"
 tags: 
   - blog
   - photography, digital
+  - photography, black & white
   - music
   - photo gallery
   - reportage

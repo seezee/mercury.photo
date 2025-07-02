@@ -6,6 +6,7 @@ tags:
   - photography, digital
   - photography, film
   - photography, medium format
+  - photography, black & white
   - photo gallery
   - music
   - photo gallery

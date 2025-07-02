@@ -4,6 +4,7 @@ title: Claude “The Master” Butler
 tags: 
   - blog
   - photography, digital
+  - photography, black & white
   - music
   - photo gallery
   - interview

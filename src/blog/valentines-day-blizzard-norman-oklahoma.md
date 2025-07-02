@@ -5,6 +5,7 @@ tags:
   - blog
   - photography, medium format
   - photography, film
+  - photography, black & white
   - Rolleiflex
   - news
   - photo gallery

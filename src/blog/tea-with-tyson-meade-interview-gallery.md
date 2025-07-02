@@ -5,6 +5,7 @@ tags:
   - blog
   - photography, film
   - photography, 35mm
+  - photography, black & white
   - music
   - photo gallery
   - interview

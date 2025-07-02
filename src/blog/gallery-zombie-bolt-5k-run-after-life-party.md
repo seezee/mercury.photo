@@ -4,6 +4,7 @@ title: "Gallery: Zombie Bolt 5K Run After Life Party"
 tags: 
   - blog
   - photography, digital
+  - photography, black & white
   - photo gallery
   - zombie
 date: Last Modified

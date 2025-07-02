@@ -5,6 +5,7 @@ tags:
   - blog
   - news
   - photography, digital
+  - photography, black & white
   - photo gallery
   - election
   - politics

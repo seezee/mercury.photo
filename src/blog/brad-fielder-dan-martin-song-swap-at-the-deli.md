@@ -10,6 +10,7 @@ tags:
   - Hasselblad
   - photography, film
   - photography, medium format
+  - photography, black & white
   - music
   - reportage
   - photo gallery

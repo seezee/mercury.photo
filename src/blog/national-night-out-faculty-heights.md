@@ -5,6 +5,7 @@ tags:
   - blog
   - photography, film
   - photography, medium format
+  - photography, black & white
   - Hasselblad
   - photo gallery
   - reportage
