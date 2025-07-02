@@ -500,6 +500,16 @@
       "source": "/claude-the-master-butler/",
       "destination": "/blog/claude-master-butler",
       "permanent": true
+    },
+    {
+      "source": "/benefit-concert-for-sprint4sarcoma-5k-1m-fun-run-2/",
+      "destination": "/blog/benefit-concert-sprint4sarcoma-fun-run",
+      "permanent": true
+    },
+    {
+      "source": "/city-of-norman-special-election/",
+      "destination": "/blog/city-norman-special-election",
+      "permanent": true
     }
   ]
 }
