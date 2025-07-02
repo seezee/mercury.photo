@@ -490,6 +490,16 @@
       "source": "/in-person-early-absentee-voting-2016-general-election-edition/",
       "destination": "/blog/early-voting-2016-general-election",
       "permanent": true
+    },
+    {
+      "source": "/who-is-evan-jarvicks-an-interview-gallery/",
+      "destination": "/blog/who-is-evan-jarvicks",
+      "permanent": true
+    },
+    {
+      "source": "/claude-the-master-butler/",
+      "destination": "/blog/claude-master-butler",
+      "permanent": true
     }
   ]
 }

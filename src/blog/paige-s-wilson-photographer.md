@@ -50,7 +50,7 @@ After graduation, Wilson completed an internship with Los Angeles fashion photog
   <dd>TF-4 archival fix <time datetime="P2M">2 minutes</time></dd>
   <dd></dd>
   <dt>Key Light</dt>
-  <dd>PCB Einstein E640</dd>
+  <dd>PCB Einstein E640 -5.2ƒ</dd>
   <dd>PCB 22&Prime; silver beauty dish</dd>
   <dd>PCB 30&deg; grid</dd>
   <dd><a href="https://www.bhphotovideo.com/c/product/112099-REG/Matthews_756140_Century_C_Turtle_Base.html/BI/19462/KBID/11656/kw/MALSCP40K/DFF/d10-v2-t1-xMALSCP40K" target="_blank" rel="external noopener">Matthews C-stand with turtle base &amp; grip arm</a></dd>
@@ -59,7 +59,7 @@ After graduation, Wilson completed an internship with Los Angeles fashion photog
   <dd><a href="https://www.bhphotovideo.com/c/product/332034-REG/Avenger_RH353_Reflector_Holder_with_Mini.html/BI/19462/KBID/11656/kw/AVRH353/DFF/d10-v2-t1-xAVRH353" target="_blank" rel="external noopener">Avenger reflector holder with mini grip head</a></dd>
   <dd><a href="https://www.bhphotovideo.com/c/product/609058-REG/Manfrotto_1052BAC_1052BAC_Alu_Air_Cushioned.html/BI/19462/KBID/11656/kw/MA1052BAC/DFF/d10-v2-t1-xMA1052BAC" target="_blank" rel="external noopener">Manfrotto stackable air-cushioned light stand</a></dd>
   <dt>Background light</dt>
-  <dd>PCB Einstein E640</dd>
+  <dd>PCB Einstein E640 -4.2ƒ</dd>
   <dd>PCB 7&Prime; reflector</dd>
   <dd>PCB LiteMod&trade; Unit Mainframe</dd>
   <dd>PCB 15&deg; grid</dd>
