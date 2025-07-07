@@ -510,6 +510,21 @@
       "source": "/city-of-norman-special-election/",
       "destination": "/blog/city-norman-special-election",
       "permanent": true
+    },
+    {
+      "source": "/the-wurly-birds-present-a-david-bowie-tribute/",
+      "destination": "/blog/wurly-birds-david-bowie-tribute",
+      "permanent": true
+    },
+    {
+      "source": "/x-ray-film-exposure-test-cranberries/",
+      "destination": "/blog/x-ray-film-test-cranberries",
+      "permanent": true
+    },
+    {
+      "source": "/the-king-of-queen/",
+      "destination": "/blog/king-of-queen",
+      "permanent": true
     }
   ]
 }
