@@ -478,52 +478,62 @@
     },
     {
       "source": "/paige-s-wilson-photographer/",
-      "destination": "/blog/paige-s-wilson-photographer",
+      "destination": "/blog/paige-s-wilson-photographer/",
       "permanent": true
     },
     {
       "source": "/x-ray-film-portraiture-with-modified-rembrandt-lighting/",
-      "destination": "/blog/x-ray-film-portrait-modified-rembrandt-lighting",
+      "destination": "/blog/x-ray-film-portrait-modified-rembrandt-lighting/",
       "permanent": true
     },
     {
       "source": "/in-person-early-absentee-voting-2016-general-election-edition/",
-      "destination": "/blog/early-voting-2016-general-election",
+      "destination": "/blog/early-voting-2016-general-election/",
       "permanent": true
     },
     {
       "source": "/who-is-evan-jarvicks-an-interview-gallery/",
-      "destination": "/blog/who-is-evan-jarvicks",
+      "destination": "/blog/who-is-evan-jarvicks/",
       "permanent": true
     },
     {
       "source": "/claude-the-master-butler/",
-      "destination": "/blog/claude-master-butler",
+      "destination": "/blog/claude-master-butler/",
       "permanent": true
     },
     {
       "source": "/benefit-concert-for-sprint4sarcoma-5k-1m-fun-run-2/",
-      "destination": "/blog/benefit-concert-sprint4sarcoma-fun-run",
+      "destination": "/blog/benefit-concert-sprint4sarcoma-fun-run/",
       "permanent": true
     },
     {
       "source": "/city-of-norman-special-election/",
-      "destination": "/blog/city-norman-special-election",
+      "destination": "/blog/city-norman-special-election/",
       "permanent": true
     },
     {
       "source": "/the-wurly-birds-present-a-david-bowie-tribute/",
-      "destination": "/blog/wurly-birds-david-bowie-tribute",
+      "destination": "/blog/wurly-birds-david-bowie-tribute/",
       "permanent": true
     },
     {
       "source": "/x-ray-film-exposure-test-cranberries/",
-      "destination": "/blog/x-ray-film-test-cranberries",
+      "destination": "/blog/x-ray-film-test-cranberries/",
       "permanent": true
     },
     {
       "source": "/the-king-of-queen/",
-      "destination": "/blog/king-of-queen",
+      "destination": "/blog/king-of-queen/",
+      "permanent": true
+    },
+    {
+      "source": "/j-j-cale-tribute-at-the-power-house-bar/",
+      "destination": "/blog/jj-cale-tribute/",
+      "permanent": true
+    },
+    {
+      "source": "/musical-tributes-power-house-bar-smiths/",
+      "destination": "/blog/smiths-tribute/",
       "permanent": true
     }
   ]

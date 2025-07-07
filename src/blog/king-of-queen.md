@@ -58,7 +58,9 @@ Hensley, known by her stage name <span class="h-card p-nickname">Balthazar</span
   This project&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;challenged me. Even though I knew the story. Every day I cried rehearsing.
 </div>
 
-When asked what Queen and Freddie Mercury mean to her, Hensley said, <q>Queen means rainbows and unicorns, dragon-sunsets and cupcake-filled hopes. Freddie is The King of Queen. Queen is the monarch of my heart.</q> We were flattered as she continued, <q>I love your pictures because I can see myself hold&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;holding back [my] tears. This project&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;challenged me. Even though I knew the story. Every day I cried rehearsing.</q>
+When we asked what Queen and Freddie Mercury mean to her, Hensley said, <q>Queen means rainbows and unicorns, dragon-sunsets and cupcake-filled hopes. Freddie is The King of Queen. Queen is the monarch of my heart.</q>[^1]
+
+[^1]: We were flattered as she continued, <q>I love your pictures because I can see myself hold&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;holding back [my] tears. This project&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;challenged me. Even though I knew the story. Every day I cried rehearsing.</q>
 
 Other cast members include:
 
@@ -80,7 +82,7 @@ The Royal Court band consists of <span class="h-card p-name"><span class="p-nick
 
 <mpb-dialog-gallery hint rel cols="8">
   
-  ![[Présentation]](/assets/images/blog/2015-11-16-king-of-queen/czahller-20151114-21-03-32.jpg)
+  ![Présentation](/assets/images/blog/2015-11-16-king-of-queen/czahller-20151114-21-03-32.jpg)
   ![Confession](/assets/images/blog/2015-11-16-king-of-queen/czahller-20151114-21-03-55.jpg)
   ![I Want to Break Free (I)](/assets/images/blog/2015-11-16-king-of-queen/czahller-20151114-21-05-12.jpg)
   ![I Want to Break Free (II)](/assets/images/blog/2015-11-16-king-of-queen/czahller-20151114-21-05-20.jpg)
