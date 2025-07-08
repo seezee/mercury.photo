@@ -25,6 +25,7 @@ excerpt: Continuing on the heels of his successful Roger Miller, John Prine, and
 {% image "./src/assets/images/blog/2015-11-04-jj-cale-tribute/czahller-20151025-22-07-56.jpg", "img-constrained", "Kyle Reid, Aaron Pierce, Michael Lynn Byars, & John Calvin Abney", "Kyle Reid, Aaron Pierce, Michael Lynn Byars, & John Calvin Abney" %}</mpb-dialog-img>
 
 <div class="drop-cap">
+
 Continuing on the heels of his successful <span class="h-card p-name"><a href="https://www.amazon.com/gp/search?ie=UTF8&tag=mercphotamzn-20&linkCode=ur2&linkId=99791f85f7b6b13bc917436089cc93ed&camp=1789&creative=9325&index=music&keywords=roger miller" target="_blank" rel="external noopener">Roger Miller</a></span>, <span class="h-card p-name"><a href="https://www.amazon.com/gp/search?ie=UTF8&tag=mercphotamzn-20&linkCode=ur2&linkId=99791f85f7b6b13bc917436089cc93ed&camp=1789&creative=9325&index=music&keywords=john prine" target="_blank" rel="external noopener">John Prine</a></span>, and <span class="h-card p-org"><a href="https://www.amazon.com/gp/search?ie=UTF8&tag=mercphotamzn-20&linkCode=ur2&linkId=99791f85f7b6b13bc917436089cc93ed&camp=1789&creative=9325&index=music&keywords=the smiths" target="_blank" rel="external noopener">Smiths</a></span> tributes, musician <span class="h-card p-name">Jerrod Beck</span> presented another great show <time datetime="2015-10-25">last month</time> with the help of many talented local musicians. On a cool, calm Sunday evening, the artists gathered on the Power House Bar’s patio stage to perform covers of songs by the late, great Oklahoma songwriter <a href="https://www.amazon.com/gp/search?ie=UTF8&tag=mercphotamzn-20&linkCode=ur2&linkId=99791f85f7b6b13bc917436089cc93ed&camp=1789&creative=9325&index=music&keywords=jj cale" target="_blank" rel="external noopener"><span class="h-card p-name">J.J. Cale</span></a>. As with the previous tribute shows, each performer also showcased a one or two original songs.
 </div>
 
@@ -45,7 +46,7 @@ Continuing on the heels of his successful <span class="h-card p-name"><a href="h
 
 The writer of many hit songs, including <cite class="short-work">Cocaine,</cite> <cite class="short-work">Call Me the Breeze,</cite> <cite class="short-work">Crazy Mama,</cite> <cite class="short-work">Cajun Moon,</cite> and <cite class="short-work">Magnolia,</cite> Grammy Award&NoBreak;&hairsp;&NoBreak;&ndash;&NoBreak;&hairsp;&NoBreak;winning J.J. Cale was born in Oklahoma City in <time datetime="1938-12-05">1938</time> and raised in Tulsa. He died of a heart attack in <time datetime="2013-12-26">2013</time>.
 
-We’ve [previously covered](/blog/smiths-tribute) the tribute series, where you can view a [gallery](/blog/smiths-tribute#smiths-tribute) from the Smiths tribute.
+We’ve [previously covered](/blog/smiths-tribute) the tribute series, where you can view a [gallery](/blog/smiths-tribute/#gallery-smiths-tribute) from the Smiths tribute.
 
 ## Gallery: J.J. Cale Tribute
 
