@@ -535,6 +535,11 @@
       "source": "/musical-tributes-power-house-bar-smiths/",
       "destination": "/blog/smiths-tribute/",
       "permanent": true
+    },
+    {
+      "source": "/another-lighting-test-and-a-cool-bowtie/",
+      "destination": "/blog/lighting-test-bowtie/",
+      "permanent": true
     }
   ]
 }
