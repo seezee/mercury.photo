@@ -560,6 +560,11 @@
       "source": "/violets/",
       "destination": "/blog/violets/",
       "permanent": true
+    },
+    {
+      "source": "/okra/",
+      "destination": "/blog/okra/",
+      "permanent": true
     }
   ]
 }
