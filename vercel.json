@@ -552,8 +552,13 @@
       "permanent": true
     },
     {
-      "source": "/camera-bag-essentials-gaffers-tape//",
-      "destination": "/blog/camera-bag-essentials-gaffer-tape//",
+      "source": "/camera-bag-essentials-gaffers-tape/",
+      "destination": "/blog/camera-bag-essentials-gaffer-tape/",
+      "permanent": true
+    },
+    {
+      "source": "/violets/",
+      "destination": "/blog/violets/",
       "permanent": true
     }
   ]
