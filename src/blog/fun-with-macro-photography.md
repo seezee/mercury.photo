@@ -7,6 +7,7 @@ tags:
   - photography, macro
   - Fujifilm
   - Leica
+  - equipment
 date: Last Modified
 pubdate: 2015-08-28T23:42:53+00:00
 image: /assets/images/blog/2015-08-28-fun-macro/czahller-20150828-17-09-29.jpg

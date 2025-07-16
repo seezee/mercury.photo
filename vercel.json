@@ -540,6 +540,21 @@
       "source": "/another-lighting-test-and-a-cool-bowtie/",
       "destination": "/blog/lighting-test-bow-tie/",
       "permanent": true
+    },
+    {
+      "source": "/fun-with-macro-photography/",
+      "destination": "/blog/fun-with-macro-photography/",
+      "permanent": true
+    },
+    {
+      "source": "/for-display-only/",
+      "destination": "/blog/display-only/",
+      "permanent": true
+    },
+    {
+      "source": "/camera-bag-essentials-gaffers-tape//",
+      "destination": "/blog/camera-bag-essentials-gaffer-tape//",
+      "permanent": true
     }
   ]
 }
