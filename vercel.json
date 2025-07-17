@@ -570,6 +570,16 @@
       "source": "/modeling-shoot-lighting-test-with-jaime/",
       "destination": "/blog/jaime-lighting-test/",
       "permanent": true
+    },
+    {
+      "source": "/using-the-paul-c-buff-einstein-with-a-light-meter/",
+      "destination": "/blog/paul-c-buff-einstein-lighting-test-redux/",
+      "permanent": true
+    },
+    {
+      "source": "/paul-c-buff-einstein-lighting-test/",
+      "destination": "/blog/paul-c-buff-einstein-lighting-test/",
+      "permanent": true
     }
   ]
 }
