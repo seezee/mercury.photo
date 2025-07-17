@@ -9,7 +9,7 @@ tags:
 date: Last Modified
 pubdate: 2015-01-07T20:41:25+00:00
 image: /assets/images/blog/2015-01-07-lighting-test-pcb-meter/czahller-20150106-16-59-36.jpg
-excerpt: In continuing to learn the ins and outs of our recently acquired Paul C. Buff “Einstein” (model E640) studio strobe, We’re teaching ourselves to meter flash.
+excerpt: In continuing to learn the ins and outs of our recently acquired Paul C. Buff “Einstein” (model E640) studio strobe, we’re teaching ourselves to meter flash.
 ---
 <!-- markdownlint-disable MD025 -->
 
