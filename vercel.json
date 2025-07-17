@@ -565,6 +565,11 @@
       "source": "/okra/",
       "destination": "/blog/okra/",
       "permanent": true
+    },
+    {
+      "source": "/modeling-shoot-lighting-test-with-jaime/",
+      "destination": "/blog/jaime-lighting-test/",
+      "permanent": true
     }
   ]
 }
