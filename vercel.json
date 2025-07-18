@@ -580,6 +580,11 @@
       "source": "/paul-c-buff-einstein-lighting-test/",
       "destination": "/blog/paul-c-buff-einstein-lighting-test/",
       "permanent": true
+    },
+    {
+      "source": "/yesalldaughters-student-walkout-protest/",
+      "destination": "/blog/yes-all-daughters-student-walkout/",
+      "permanent": true
     }
   ]
 }
