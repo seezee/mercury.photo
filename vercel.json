@@ -585,6 +585,11 @@
       "source": "/yesalldaughters-student-walkout-protest/",
       "destination": "/blog/yes-all-daughters-student-walkout/",
       "permanent": true
+    },
+    {
+      "source": "/midterm-elections-early-voting/",
+      "destination": "/blog/midterm-elections-early-voting-2014/",
+      "permanent": true
     }
   ]
 }
