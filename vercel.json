@@ -605,6 +605,11 @@
       "source": "/runoff-election-cleveland-county-oklahoma/",
       "destination": "/blog/runoff-election-cleveland-county-oklahoma/",
       "permanent": true
+    },
+    {
+      "source": "/teaser-jabees-birthday-party/",
+      "destination": "/blog/teaser-jabee-birthday/",
+      "permanent": true
     }
   ]
 }

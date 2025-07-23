@@ -36,6 +36,6 @@ Cox garnered 41% of the vote in the primary, While Deskin accrued 38.2%.
 
 Also being decided is the Democratic race to fill the seat being vacated by U.S. Senator <span class="h-card p-name">Tom Coburn</span>, who is retiring from his seat at the end of the present term. The Democratic candidates are Oklahoma Senator <a href="https://ballotpedia.org/Constance_Johnson" target="_blank" rel="external noopener"><span class="h-card p-name">Connie Johnson</span></a> and retiree <a href="https://ballotpedia.org/Jim_Rogers" target="_blank" rel="external noopener"><span class="h-card p-name">Jim Rogers</span></a>.
 
-To find your polling place and view a sample ballot, <a href="https://www.clevelandcountyelectionboard.com/" target="_blank" rel="external noopener">visit the Cleveland County Election Board website</a>.
+To find your polling place and view a sample ballot, visit the Cleveland County <a href="https://www.clevelandcountyelectionboard.com/" target="_blank" rel="external noopener">Election Board</a> website.
 
-Polls close at <time datetime="2014-08-26T19:00-5:00">7 p.m.</time>.
+Polls close at <time datetime="2014-08-26T19:00-5:00">7 p.m.</time>
