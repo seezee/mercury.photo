@@ -2,6 +2,16 @@
   "$schema": "https://openapi.vercel.sh/vercel.json",
   "redirects": [
     {
+      "source": "/legal-folderol/terms-of-use/",
+      "destination": "/legal/terms-of-use/",
+      "permanent": true
+    },
+    {
+      "source": "/legal-folderol/privacy/",
+      "destination": "/legal/privacy/",
+      "permanent": true
+    },
+    {
       "source": "/3-score-times-around-the-sun/",
       "destination": "/blog/3-score-times-around-the-sun/",
       "permanent": true
@@ -589,6 +599,11 @@
     {
       "source": "/midterm-elections-early-voting/",
       "destination": "/blog/midterm-elections-early-voting-2014/",
+      "permanent": true
+    },
+    {
+      "source": "/runoff-election-cleveland-county-oklahoma/",
+      "destination": "/blog/runoff-election-cleveland-county-oklahoma/",
       "permanent": true
     }
   ]

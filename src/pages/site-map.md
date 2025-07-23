@@ -123,7 +123,7 @@ excerpt: Site map of mercury.photo
 * <icon-l class="bigger"><span class="with-icon icon-sprite"><svg><use xlink:href="#icon-sitemap"/></svg></span> [Site Map](/site-map/)</icon-l>
 </stack-l></div>
 
-<small>Map illustration courtesy <cite class="cite-person"><a href="https://www.loc.gov/resource/g4021e.ct000224/" target="_blank" rel="external nofollow noopener">Library of Congress</a>.</cite></small>
+<small>Map illustration courtesy <cite class="cite-person"><a href="https://www.loc.gov/resource/g4021e.ct000224/" target="_blank" rel="external noopener">Library of Congress</a>.</cite></small>
 
 <script>
   'use strict'

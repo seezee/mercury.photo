@@ -4,7 +4,6 @@ title: Privacy Policy
 excerpt: This privacy notice for Messenger Web Design LLC dba Mercury Photo Bureau describes how and why we might collect, store, use, and/or share your information
 permalink: "/legal/privacy/"
 ---
-<!-- TODO:  redirect https://mercury.photo/legal-folderol/privacy/ to https://mercury.photo/legal/privacy/ -->
 
 <!-- markdownlint-disable MD025 -->
 # <icon-l class="bigger icon-before"><span class="with-icon"><svg id="icon-user-secret-duo" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><path fill="var(--mpb-color-accentReverse)" d="M255.38 421.22L224 480l-31.38-58.78L208 352l-17.79-35.58a161.25 161.25 0 0 0 67.58 0L240 352zM224 288a128 128 0 0 0 128-127.21c-7.49 1.54-15.51 3-24 4.2v6.59c-.11.11-6.07 3.47-6.93 6.28-4.23 12.9-7.59 26.65-17.88 36.19-10.94 10.07-52 24.26-69.33-27.09-3-9.1-16.69-9.1-19.83 0-18.41 54.39-60.66 35.1-69.33 27.09-10.29-9.54-13.76-23.29-17.88-36.19-.86-2.7-6.82-6.17-6.82-6.28V165c-8.48-1.25-16.5-2.66-24-4.2A128 128 0 0 0 224 288z"></path><path fill="var(--mpb-color-accent)" d="M120 165v6.59c0 .11 6 3.58 6.82 6.28 4.12 12.9 7.59 26.65 17.88 36.19 8.67 8 50.92 27.3 69.33-27.09 3.14-9.1 16.79-9.1 19.83 0 17.33 51.35 58.39 37.16 69.33 27.09 10.29-9.54 13.65-23.29 17.88-36.19.86-2.81 6.82-6.17 6.93-6.28V165c52.95-7.83 88-21.47 88-37 0-13.75-27.51-26-70.6-34.09-9.35-32.11-26.69-64.08-40-80.72a32.1 32.1 0 0 0-39.5-8.8l-27.6 13.8a32 32 0 0 1-28.6 0l-27.6-13.8a32.1 32.1 0 0 0-39.5 8.8c-13.22 16.64-30.6 48.61-40 80.72C59.51 102 32 114.25 32 128c0 15.52 35.05 29.16 88 37zm263.9 143.27l23.9-62.58a16 16 0 0 0-15-21.7h-32.12L224 480 87.32 224h-31a16 16 0 0 0-14.7 22.3l25.74 60.06A133.56 133.56 0 0 0 0 422.4V464a48 48 0 0 0 48 48h352a48 48 0 0 0 48-48v-41.6a133.5 133.5 0 0 0-64.1-114.13z"></path></svg> {{ title }}</icon-l>
@@ -222,11 +221,11 @@ If you have questions or comments about this notice, you may [contact us via our
 
 Based on the applicable laws of your country or state of residence in the US, you may have the right to request access to the personal information we collect from you, details about how we have processed it, correct inaccuracies, or delete your personal information. You may also have the right to withdraw your consent to our processing of your personal information. These rights may be limited in some circumstances by applicable law. To request to review, update, or delete your personal information, please [contact us](/contact).
 
-Last updated 11 April 2025.
+Last updated <time datetime="2025-07-23">23 July 2025</time>.
 
 <aside><stack-l>
 
 ### Photo credit
 
-The featured image is a crop of an original photograph by <span class="h-card p-name u-url"><a href="https://www.flickr.com/photos/thomasleuthard/" target="_blank" rel="external nofollow">Thomas Leuthard</a></span>. It is released under the Creative Commons License <a href="https://creativecommons.org/licenses/by/2.0/" target="_blank" rel="external nofollow">Attribution 2.0 Generic (CC BY 2.0)</a>. The image was originally featured in Leuthard’s Flickr portfolio but has since disappeared.
+The featured image is a crop of an original photograph by <span class="h-card p-name u-url"><a href="https://www.flickr.com/photos/thomasleuthard/" target="_blank" rel="external noopener">Thomas Leuthard</a></span>. It is released under the Creative Commons License <a href="https://creativecommons.org/licenses/by/2.0/" target="_blank" rel="external noopener">Attribution 2.0 Generic (CC BY 2.0)</a>. The image was originally featured in Leuthard’s Flickr portfolio but has since disappeared.
 </stack-l></aside></stack-l></small>
