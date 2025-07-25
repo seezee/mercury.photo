@@ -10,7 +10,7 @@ tags:
   - David Bowie
   - glam
   - rock
-  - hard rock
+  - rock, hard
   - pop
 date: Last Modified
 pubdate: 2016-01-25T23:06:15+00:00

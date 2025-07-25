@@ -610,6 +610,11 @@
       "source": "/teaser-jabees-birthday-party/",
       "destination": "/blog/teaser-jabee-birthday/",
       "permanent": true
+    },
+    {
+      "source": "/the-surrogate-band-at-opolis-gallery/",
+      "destination": "/blog/surrogate-band-opolis/",
+      "permanent": true
     }
   ]
 }

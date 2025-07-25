@@ -10,7 +10,7 @@ tags:
   - David Bowie
   - gender identity
   - glam
-  - hard rock
+  - rock, hard
   - musical theatre
   - sexuality
   - transgender
