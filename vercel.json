@@ -615,6 +615,11 @@
       "source": "/the-surrogate-band-at-opolis-gallery/",
       "destination": "/blog/surrogate-band-opolis/",
       "permanent": true
+    },
+    {
+      "source": "/the-surrogate-band-presents-a-david-bowie-tribute/",
+      "destination": "/blog/surrogate-band-presents-david-bowie-tribute/",
+      "permanent": true
     }
   ]
 }

@@ -7,7 +7,7 @@ pagination:
   size: 1
   alias: tag
   filter: ["blog", "all"]
-permalink: /blog/tags/{{ tag | slug}}/
+permalink: /blog/tags/{{ tag | slugify}}/
 override:tags: []
 eleventyExcludeFromCollections: true
 ---
