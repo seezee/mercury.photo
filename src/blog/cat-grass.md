@@ -8,8 +8,8 @@ tags:
   - Fujifilm
   - equipment
 date: Last Modified
-pubdate: 2025-07-30T17:03:53+00:00
-image: /assets/images/blog/2025-07-30-dew-grass-macro/czahller-20250729-17-46-25.jpg
+pubdate: 2025-07-30T17:49:53+00:00
+image: /assets/images/blog/2025-07-30-dew-grass-macro/czahller-20250729-17-07-25.jpg
 excerpt: Shortly after this cat grass germinated, we noticed a dewdrop perched precariously on each blade top.
 ---
 <!-- markdownlint-disable MD025 -->
