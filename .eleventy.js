@@ -42,6 +42,11 @@ module.exports = async function(eleventyConfig) {
 
   const {EleventyRenderPlugin} = await import(`@11ty/eleventy`);
 
+  // Global data
+  eleventyConfig.addGlobalData(`site`, {
+    url: `https://mercury.photo`
+  });
+
   // Pagefind config; runs AFTER build
   eleventyConfig.on(`eleventy.after`, async function ({ dir }) {
     const inputPath = dir.output;

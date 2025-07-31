@@ -620,6 +620,16 @@
       "source": "/the-surrogate-band-presents-a-david-bowie-tribute/",
       "destination": "/blog/surrogate-band-presents-david-bowie-tribute/",
       "permanent": true
+    },
+    {
+      "source": "/cooking-with-kali-ra-episode-one/",
+      "destination": "/blog/cooking-kali-ra/",
+      "permanent": true
+    },
+    {
+      "source": "/cleveland-county-farmers-market-opens-features-new-hours/",
+      "destination": "/blog/cleveland-county-farmers-market-new-hours/",
+      "permanent": true
     }
   ]
 }
