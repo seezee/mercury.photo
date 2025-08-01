@@ -217,7 +217,8 @@ module.exports = async function(eleventyConfig) {
 				name: `Chris J. Zähller`
 				// email: ``, // Optional
 			}
-		}});
+		}
+  });
 
   /**
    * Converts the given date string to ISO8601 format.
