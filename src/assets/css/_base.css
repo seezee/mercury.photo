@@ -785,11 +785,6 @@ icon-l {
   }
 }
 
-/* iframe */
-iframe {
-  block-size: 100vh;
-}
-
 /**
  * Inline elements
  */

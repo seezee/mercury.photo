@@ -1150,5 +1150,6 @@ div.col-5 {
 /* Comment form */
 
 #cusdis_thread iframe {
+  block-size: 100vh;
   max-block-size: 600px;
 }

@@ -5,6 +5,9 @@ index: true
 tags: index
 excerpt: Index of blog posts at Mercury Photo Bureau
 image: /assets/images/icons/mpb-logo.svg
+eleventyImport:
+  collections: ["blog"] # Rebuild the blog collection and update this page
+  # See https://11ty.rocks/posts/smart-incremental-rebuilds-with-eleventy-import/
 eleventyExcludeFromCollections: true
 ---
 

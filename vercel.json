@@ -630,6 +630,16 @@
       "source": "/cleveland-county-farmers-market-opens-features-new-hours/",
       "destination": "/blog/cleveland-county-farmers-market-new-hours/",
       "permanent": true
+    },
+    {
+      "source": "/skating-polly-show-at-guestroom-records/",
+      "destination": "/blog/skating-polly-guestroom-records/",
+      "permanent": true
+    },
+    {
+      "source": "/tumbling-nebulae-interview-gallery/",
+      "destination": "/blog/tumbling-nebulae-interview-gallery/",
+      "permanent": true
     }
   ]
 }
