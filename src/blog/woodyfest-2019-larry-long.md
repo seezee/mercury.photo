@@ -66,7 +66,7 @@ So of course Long would eventually meet Guthrie contemporary <span class="h-card
 
 Long organized the first tribute to Woody Guthrie in Okemah in <time datetime="1988">1988</time>, eleven years before Woodyfest’s birth. Long’s song, <cite class="short-work">Okemah Waltz,</cite> is the town’s official song. Long wrote it, collectively with Okemah schoolchildren, in <time datetime="1986">1986</time>. You can hear it, along with other songs from Long’s time in Okemah, on the Flying Fish <abbr>LP</abbr> <cite><a href="https://amzn.to/2Gp3Xdk" target="_blank" rel="external noopener">It Takes a Lot of People (Tribute to Woody Guthrie)</a></cite>.
 
-There’s much more to Long’s life and career, too much for this article. We encourage you to read his <a href="//www.larrylong.org/about/press/">resum&eacute; and career highlights</a> on his website.
+There’s much more to Long’s life and career, too much for this article. We encourage you to read his <a href="https://larrylong.org/about/larry-long-epk/">resum&eacute; and career highlights</a> on his website.
 
 ## Long May He Sing
 

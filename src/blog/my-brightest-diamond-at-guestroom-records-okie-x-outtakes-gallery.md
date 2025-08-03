@@ -73,7 +73,7 @@ Amongst the storeroom clutter I happened to notice an old set of <span class="h-
 
 [^4]: "Realistic" was a trademark of the defunct RadioShack&reg; Corporation.
 
-Nova is a classically trained singer, composer, producer, and multi-instrumentalist. Her sound blends rock, art pop, and chamber music into a unique, description-defying mélange. She has appeared as a guest vocalist for David Byrne, <span class="h-card p-name">Laurie Anderson</span>, <span class="h-card p-org">The Decemberists</span>, Sufjan Stevens, and <span class="h-card p-org">The Blind Boys of Alabama</span>, among others. <a href="https://www.mybrightestdiamond.com/tour-dates" target="_blank" rel="external noopener">She is currently on tour</a>.
+Nova is a classically trained singer, composer, producer, and multi-instrumentalist. Her sound blends rock, art pop, and chamber music into a unique, description-defying mélange. She has appeared as a guest vocalist for David Byrne, <span class="h-card p-name">Laurie Anderson</span>, <span class="h-card p-org">The Decemberists</span>, Sufjan Stevens, and <span class="h-card p-org">The Blind Boys of Alabama</span>, among others. <a href="https://www.mybrightestdiamond.com/live" target="_blank" rel="external noopener">She is currently on tour</a>.
 
 <figure>
   <stack-l>

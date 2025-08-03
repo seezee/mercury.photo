@@ -44,8 +44,8 @@ As a volunteer I have access to various backstage areas that are off-limits to t
   ![](/assets/images/blog/2020-03-26-woodyfest-bandcamp-backstage/czahller-20130712-17-04-43.jpg)
   ![](/assets/images/blog/2020-03-26-woodyfest-bandcamp-backstage/czahller-20130712-19-21-08.jpg)
   ![](/assets/images/blog/2020-03-26-woodyfest-bandcamp-backstage/czahller-20130712-20-43-53.jpg)
-  ![](/Users/chriszahller/Documents/projects/mercury.photo/src/assets/images/blog/2020-03-26-woodyfest-bandcamp-backstage/czahller-20130712-20-46-18.jpg)
-  ![](/Users/chriszahller/Documents/projects/mercury.photo/src/assets/images/blog/2020-03-26-woodyfest-bandcamp-backstage/czahller-20130712-20-46-31.jpg)
+  ![](/assets/images/blog/2020-03-26-woodyfest-bandcamp-backstage/czahller-20130712-20-46-18.jpg)
+  ![](/assets/images/blog/2020-03-26-woodyfest-bandcamp-backstage/czahller-20130712-20-46-31.jpg)
   ![](/assets/images/blog/2020-03-26-woodyfest-bandcamp-backstage/czahller-20130712-20-47-30.jpg)
 </mpb-dialog-gallery>
 
