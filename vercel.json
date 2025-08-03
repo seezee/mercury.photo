@@ -640,6 +640,11 @@
       "source": "/tumbling-nebulae-interview-gallery/",
       "destination": "/blog/tumbling-nebulae-interview-gallery/",
       "permanent": true
+    },
+    {
+      "source": "/rebekah-pulley-at-the-brick-cafe-woody-guthrie-folk-festival/",
+      "destination": "/blog/woodyfest-2013-rebekah-pulley/",
+      "permanent": true
     }
   ]
 }

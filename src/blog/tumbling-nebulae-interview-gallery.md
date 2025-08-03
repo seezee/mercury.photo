@@ -163,7 +163,7 @@ I got my first digital camera in <time datetime="2003">2003</time> and moved to 
 
 Through crimson stars and silent stars and tumbling nebulas like oceans set on fire. Through empires of glass and civilizations of pure thought. And a whole terrible wonderful universe of impossibilities.
 
-  <footer>&mdash;&NoBreak;&hairsp;&NoBreak;The Doctor</footer>
+  <footer>&mdash;&NoBreak;&hairsp;&NoBreak;<cite class="cite-person">The Doctor</cite></footer>
 </blockquote>
 
 <span class="spkr">MPB</span> In your band bio, you describe the band as <q>post-rock,</q> but that’s just about as vague as can be. What do you mean?
