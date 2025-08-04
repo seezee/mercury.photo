@@ -11,9 +11,10 @@ const format                           = require('date-fns/format');
 const { govukEleventyPlugin }          = require('@x-govuk/govuk-eleventy-plugin');
 const Image                            = require('@11ty/eleventy-img');
 // const { eleventyImageTransformPlugin } = require('@11ty/eleventy-img');
-const markdownIt                       = require('markdown-it');
+const markdownIt                          = require('markdown-it');
 const markdownItAnchor                 = require('markdown-it-anchor');
 const markdownItAttrs                  = require('markdown-it-attrs');
+const markdownItDl                     = require('@mdit/plugin-dl');
 const { minify }                       = require('terser');
 const outdent                          = require('outdent');
 const path                             = require('path');
@@ -38,9 +39,25 @@ const target                           = resolveToEsbuildTarget(browserslist(
 
 const siteURL = `https://mercury.photo`
 
+// For Markdown attributes
+const markdownItOptions = {
+  html: true,
+  breaks: true,
+  linkify: true
+};
+
+// Markdown library with options
+const markdownLib = (mdLib) => mdLib.use(markdownItAttrs).use(markdownItAnchor).use(markdownItDl);
+
 module.exports = async function(eleventyConfig) {
 
   const {EleventyRenderPlugin} = await import(`@11ty/eleventy`);
+
+  // Enable the markdown-it plugin with options from above
+  eleventyConfig.setLibrary(`md`, markdownItOptions);
+  // Extend markdown-it via plugins; see https://www.11ty.dev/docs/languages/markdown/#optional-set-your-own-library-instance
+  // Most tutorials are written for Eleventy 1.0.0 and use the wrong syntax for v2.0.0 and later
+  eleventyConfig.amendLibrary(`md`, markdownLib);
 
   // Global data
   eleventyConfig.addGlobalData(`site`, {
@@ -200,6 +217,7 @@ module.exports = async function(eleventyConfig) {
       showPageNumbers: false
     }
   });
+
   // RSS Feed
 	eleventyConfig.addPlugin(feedPlugin, {
     type: `atom`,
@@ -232,13 +250,16 @@ module.exports = async function(eleventyConfig) {
 
     return fileImg.size;
   });
+
   // Sort blog entries
   function sortByPubDate(values) {
     let vals = [...values];     // this *seems* to prevent collection mutation...
     return vals.sort((a, b) => Math.sign(a.data.pubdate - b.data.pubdate));
   }
+
   eleventyConfig.addFilter(`sortByPubDate`, sortByPubDate);
   // Tags index
+
   eleventyConfig.addFilter(`taglist`, function(collection) {
     const ignoredTags = [`blog`, `all`, `ignore`];
     const tags = [];
@@ -250,8 +271,10 @@ module.exports = async function(eleventyConfig) {
       .sort((a, b) => a.localeCompare(b));
     return sorted;
   });
+
   // Needed for paired shortcodes
   eleventyConfig.addPlugin(EleventyRenderPlugin);
+
   // For inline SVG; see https://medium.com/@brettdewoody/inlining-svgs-in-eleventy-cffb1114e7b
   eleventyConfig.addNunjucksAsyncShortcode(`svgIcon`, async (src) => {
     let metadata = await Image(src, {
@@ -260,6 +283,7 @@ module.exports = async function(eleventyConfig) {
     })
     return metadata.svg[0].buffer.toString()
   });
+
   // JS inline minfication
   eleventyConfig.addNunjucksAsyncFilter(`jsmin`, async function (
     code,
@@ -274,20 +298,9 @@ module.exports = async function(eleventyConfig) {
       callback(null, code);
     }
   });
+
   // Register image shortcode
   eleventyConfig.addNunjucksAsyncShortcode(`image`, imageShortcode);
-  // Extended Markdown
-
-  // For Markdown attributes
-  const markdownItOptions = {
-    html: true,
-    breaks: true,
-    linkify: true
-  };
-
-  const markdownLib = markdownIt(markdownItOptions).use(markdownItAttrs).use(markdownItAnchor)
-
-  eleventyConfig.setLibrary(`md`, markdownLib);
 
   // Cache busting
   eleventyConfig.addPlugin(eleventyAutoCacheBuster, {

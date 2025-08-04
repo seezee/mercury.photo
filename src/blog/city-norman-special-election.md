@@ -31,4 +31,4 @@ Norman residents had the opportunity to cast their ballots <time datetime="2016-
 
 Voters will elect a new mayor and also vote for city council members in even-numbered wards. They will also decide whether to pass bonds to fund street resurfacing, rehabilitation, and reconstruction. Finally, they will vote on 6 proposed amendments to the city charter.
 
-Polls close at <time datetime="2016-04-01T18:00-5:00">6 p.m. tonight</time> and reopen on <time datetime="2016-04-05T7:00-5:00">Tuesday, 5 April at 7:00 a.m.</time>. To find your polling place and view a sample ballot, visit the <a href="https://www.clevelandcountyelectionboard.com/" target="_blank" rel="external noopener">Cleveland County Election Board</a> website.
+Polls close at <time datetime="2016-04-01T18:00-5:00">6 p.m. tonight</time> and reopen on <time datetime="2016-04-05T7:00-5:00">Tuesday, 5 April at 7:00 a.m.</time>. To find your polling place and view a sample ballot, visit the [Cleveland County Election Board](https://www.clevelandcountyelectionboard.com/){target="_blank" rel="external noopener"} website.

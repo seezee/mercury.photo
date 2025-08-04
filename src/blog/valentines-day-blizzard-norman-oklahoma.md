@@ -54,7 +54,7 @@ We scanned the negatives on <time datetime="2021-02-15">Monday</time>. We import
     <dt>Camera</dt>
     <dd>Rolleiflex 2.8c</dd>
     <dd><a
-        href="https://www.amazon.com/gp/product/B0010CM1HC/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B0010CM1HC&linkCode=as2&tag=mercphotamzn-20&linkId=1d14d843a729d74009410f72c1d3bf41"
+        href="https://www.amazon.com/gp/product/B0010CM1HC/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B0010CM1HC&linkCode=as2&tag=mercphotamz08-20&linkId=1d14d843a729d74009410f72c1d3bf41"
         target="_blank" rel="external noopener">Gepe Pro Release
         20&Prime; cable</a> with Zeiss Disc-Lock</dd>
     <dt>Lens</dt>
@@ -74,7 +74,7 @@ We scanned the negatives on <time datetime="2021-02-15">Monday</time>. We import
     <dd>Kodak Plux-X Pan (<abbr>PXP</abbr>) Professional 120</dd>
     <dt>Tripod</dt>
     <dd><a
-        href="https://www.amazon.com/gp/product/B071F31XLR/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B071F31XLR&linkCode=as2&tag=mercphotamzn-20&linkId=7ede4765fbce8e292c200fa397641035?ie=UTF8&camp=1789&creative=9325&creativeASIN=B0010CM1HC&linkCode=as2&tag=mercphotamzn-20&linkId=1d14d843a729d74009410f72c1d3bf41"
+        href="https://www.amazon.com/gp/product/B071F31XLR/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B071F31XLR&linkCode=as2&tag=mercphotamz08-20&linkId=7ede4765fbce8e292c200fa397641035?ie=UTF8&camp=1789&creative=9325&creativeASIN=B0010CM1HC&linkCode=as2&tag=mercphotamz08-20&linkId=1d14d843a729d74009410f72c1d3bf41"
         target="_blank" rel="external noopener">Gitzo
         <abbr>GT1542T</abbr></a> Series 1 Traveler (carbon fibre)</dd>
     <dt>Tripod Head</dt>
@@ -89,12 +89,12 @@ We scanned the negatives on <time datetime="2021-02-15">Monday</time>. We import
         target="_blank" rel="noopener">Adox Adonal</a>
       (Rodinal) 1:100</dd>
     <dd><time datetime="P1H">~60 minutes</time> semi-stand in <a
-        href="https://www.amazon.com/gp/product/B0000BZMIH/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B0000BZMIH&linkCode=as2&tag=mercphotamzn-20&linkId=c84b3b46d9a0594ec0ee78b93b96f78c"
+        href="https://www.amazon.com/gp/product/B0000BZMIH/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B0000BZMIH&linkCode=as2&tag=mercphotamz08-20&linkId=c84b3b46d9a0594ec0ee78b93b96f78c"
         target="_blank" rel="external noopener">Paterson Super System
         4</a> daylight tank</dd>
     <dt>Scanner</dt>
     <dd><a
-        href="https://www.amazon.com/gp/product/B00OCEJMG8/ref=as_li_tl?ie=UTF8&tag=mercphotamzn-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B00OCEJMG8&linkId=62b44b123defe5a0a3092689c7e61739"
+        href="https://www.amazon.com/gp/product/B00OCEJMG8/ref=as_li_tl?ie=UTF8&tag=mercphotamz08-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B00OCEJMG8&linkId=62b44b123defe5a0a3092689c7e61739"
         target="_blank" rel="external noopener">Epson Perfection
         <abbr>v</abbr>850</a></dd>
     <dt>Software</dt>

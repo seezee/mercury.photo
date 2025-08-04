@@ -27,7 +27,7 @@ excerpt: Today we present the previously unpublished black and white photos from
 
 Today we present the previously unpublished[^1] black and white photos from electronic world fusion group <span class="h-card p-org">Beats Antique</span> playing the <span class="h-card p-org">Diamond Ballroom</span> in <time datetime="2012-09-12">2012</time>. You can [view the color images here](/blog/color-gallery-beats-antique-at-the-diamond-ballroom).
 
-[^1]: I had previously published these images on <span class="h-card p-organisation">Flickr</span>, but am permanently moving them here due to <a href="https://blog.flickr.net/en/2018/11/01/changing-flickr-free-accounts-1000-photos/" target="_blank" rel="external noopener">changes to the Flickr terms of service</a>.
+[^1]: I had previously published these images on <span class="h-card p-organisation">Flickr</span>, but am permanently moving them here due to changes to the [Flickr terms of service](https://blog.flickr.net/en/2018/11/01/changing-flickr-free-accounts-1000-photos/){target="_blank" rel="external noopener"}.
 
 ## Gallery: Beats Antique
 

@@ -44,7 +44,7 @@ Featuring the music of the late <a href="https://geo.itunes.apple.com/us/album/n
 This year I wanted to do a show that was not only entertaining but also had a message. Freddie is the ultimate hero. When I was a kid I just wanted to jump around and be in that band. Every inner dialogue can be narrated by a Queen song.
   <footer aria-label="citation">
   
-  &mdash;&NoBreak;&hairsp;&NoBreak;<cite class="cite-person"><span class="h-card p-name">Leslie Hensley, <span class="short-work"><cite>King of Queen</cite>, Freddie Mercury tribute show at Boom,</span> <a href="https://www.gayly.com/%E2%80%9Cking-queen%E2%80%9D-freddie-mercury-tribute-show-boom" target="_blank" rel="external noopener">The Gayley</a></cite>
+  &mdash;&NoBreak;&hairsp;&NoBreak;<cite class="cite-person"><span class="h-card p-name">Leslie Hensley, <span class="short-work"><cite>King of Queen</cite>, Freddie Mercury tribute show at Boom,</span> [The Gayley](https://www.gayly.com/%E2%80%9Cking-queen%E2%80%9D-freddie-mercury-tribute-show-boom){target=_blank rel="external noopener"}</cite>
   </footer>
 </blockquote>
 <mpb-dialog-img>

@@ -22,13 +22,13 @@ excerpt: Tulsa’s The Secret Post and Oklahoma City’s Kill the Reflection pro
 
 {% image "./src/assets/images/blog/2019-05-20-zombie-run-secret-post/czahller-20121006-19-32-39.jpg", "img-constrained", "Zachariah’s Guitar — Zombie Bolt After Life Party, Guthrie, Oklahoma", "Zachariah’s Guitar — Zombie Bolt After Life Party, Guthrie, Oklahoma" %}</mpb-dialog-img>
 
-<time datime="2010-10-24">Five years ago</time> I [published a story about the 5K zombie race](/blog/zombie-bolt-5k-oklahomas-premier-zombie-run/) in Guthrie, Oklahoma. At the time I shared only a portion of the photos I shot during the race, relegating the remainder to <span class="h-card p-org">Flickr</span>. Since then Flickr have <a href="//blog.flickr.net/en/2018/11/01/changing-flickr-free-accounts-1000-photos/" target="_blank" rel="external noopener">changed their terms of service</a>. I’m currently moving many of my photos from the platform to this blog.
+<time datime="2010-10-24">Five years ago</time> I [published a story about the 5K zombie race](/blog/zombie-bolt-5k-oklahomas-premier-zombie-run/) in Guthrie, Oklahoma. At the time I shared only a portion of the photos I shot during the race, relegating the remainder to <span class="h-card p-org">Flickr</span>. Since then Flickr have changed their [terms of service](https://blog.flickr.net/en/2018/11/01/changing-flickr-free-accounts-1000-photos/){target="_blank" rel="external noopener"}. I’m currently moving many of my photos from the platform to this blog.
 
 The zombie run was followed by an after-party (the “after life party”). Tulsa’s <span class="h-card p-org">The Secret Post</span> and Oklahoma City’s [<span class="h-card p-org">Kill the Reflection</span>](/kill-the-reflection-at-the-hilo-club-okc/) provided the musical entertainment.
 
 The Secret Post is the brainchild of <span class="h-card p-name">Zachariah Wiser</span>. Wiser started his first band in California before forming The Secret Post. The band draw their sound from post-punk and new wave, with lyrics addressing <q>sex, death, despair, and love.</q>&NoBreak;[^1]
 
-[^1]: <cite class="short-work"><a href="https://web.archive.org/web/20150703035738/http://www.thesecretpost.net/about/" target="_blank" rel="external noopener">The Secret Post is about sex, death, despair, and love&NoBreak;&hairsp;&NoBreak;&hellip;</a>,</cite> <cite>thesecretpost.net</cite> (retrieved from the Internet Wayback Machine <time datetime="2015-07-03">3 July 2015</time>).
+[^1]: <cite class="short-work">[The Secret Post is about sex, death, despair, and love&NoBreak;&hairsp;&NoBreak;&hellip;](https://web.archive.org/web/20150703035738/http://www.thesecretpost.net/about/){target="_blank" rel="external noopener"},</cite> <cite>thesecretpost.net</cite> (retrieved from the Internet Wayback Machine <time datetime="2015-07-03">3 July 2015</time>).
 
 ## Gallery: The Secret Post
 

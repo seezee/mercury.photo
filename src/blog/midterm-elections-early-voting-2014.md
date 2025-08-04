@@ -32,7 +32,7 @@ Cleveland County voters may cast their ballots before Tuesday at the Cleveland C
 
 {% image "./src/assets/images/blog/2014-10-30-midterm-early-voting/czahller-20141030-10-35-26.jpg", "img-constrained", "Election official (Colleen), an mature brunette, standing & smiling, wearing a plaid blouse", "Colleen" %}</mpb-dialog-img>
 
-In addition to the state offices up for grabs, three proposed <a href="https://www.clevelandcountyelectionboard.com/news/sample-ballots-available-2014-general-election" target="_blank">constitutional changes</a> appear on the ballot</a>&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;be sure to fill out *both* sides!
+In addition to the state offices up for grabs, three proposed [constitutional changes](https://www.clevelandcountyelectionboard.com/news/sample-ballots-available-2014-general-election){target=_blank rel="external noopener"} appear on the ballot</a>&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;be sure to fill out *both* sides!
 
 <mpb-dialog-img>
 

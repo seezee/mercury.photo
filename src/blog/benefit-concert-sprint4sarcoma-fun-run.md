@@ -30,7 +30,7 @@ The run will raise money to fund the <span class="h-card p-org">DaynaStrong foun
 
 The Tequila Songbirds are a Red Dirt collection of musical Oklahoma women, including, but not limited to, <span class="h-card p-name">Kierston White</span>, <span class="h-card p-name"><span class="p-given-name">Elizabeth</span> "<span class="p-nickname">Eliza Bee</span>" <span class="p-family-name">Forsythe</span></span>, <span class="h-card p-name">Ali Harter</span>, <span class="h-card p-name">Camille Harp</span>, <span class="h-card p-name">Kaitlin Butts</span>, <span class="h-card p-name">Samantha Crain</span>, <span class="h-card p-name">Sherree Chamberlain</span>, <span class="h-card p-name">Carly Gwin</span>, <span class="h-card p-name">Carter Sampson</span>, <span class="h-card p-name">Melissa Hembree</span>, <span class="h-card p-name">Chelsea Cope</span>, <span class="h-card p-name">Susan Herndon</span>, <span class="h-card p-name">Lauren Deger</span>, and <span class="h-card p-name">Tracy Reed</span>. Last night’s lineup comprised Forsythe, White, and Harter.
 
-For more information on the Fun Run, please visit the event’s <a href="https://www.facebook.com/events/424259981078270/" rel="external noopener" target="_blank">Facebook page</a>
+For more information on the Fun Run, please visit the event’s [Facebook page](https://www.facebook.com/events/424259981078270/){target="_blank" rel="external noopener"}.
 
 ## Gallery: DaynaStrong Fundraising Concert
 

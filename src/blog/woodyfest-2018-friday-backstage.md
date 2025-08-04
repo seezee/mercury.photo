@@ -65,7 +65,7 @@ Here are <time datetime="2018-07-13T18:46:57-5:00">the second night</time>’s p
   <dt>Camera</dt>
   <dd>Hasselblad500C/M withA12 back</dd>
   <dd><a
-      href="https://www.amazon.com/gp/product/B0010CM1HC/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B0010CM1HC&linkCode=as2&tag=mercphotamzn-20&linkId=1d14d843a729d74009410f72c1d3bf41"
+      href="https://www.amazon.com/gp/product/B0010CM1HC/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B0010CM1HC&linkCode=as2&tag=mercphotamz08-20&linkId=1d14d843a729d74009410f72c1d3bf41"
       target="_blank" rel="external noopener">Gepe Pro Release
       20&Prime; cable</a> with Zeiss Disc-Lock</dd>
   <dt>Lens</dt>
@@ -88,12 +88,12 @@ Here are <time datetime="2018-07-13T18:46:57-5:00">the second night</time>’s p
       target="_blank" rel="noopener">Adox Adonal</a> (Rodinal)
     1:100</dd>
   <dd><time datetime="P1H">~60 minutes</time> semi-stand in <a
-      href="https://www.amazon.com/gp/product/B0000BZMIH/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B0000BZMIH&linkCode=as2&tag=mercphotamzn-20&linkId=c84b3b46d9a0594ec0ee78b93b96f78c"
+      href="https://www.amazon.com/gp/product/B0000BZMIH/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B0000BZMIH&linkCode=as2&tag=mercphotamz08-20&linkId=c84b3b46d9a0594ec0ee78b93b96f78c"
       target="_blank" rel="external noopener">Paterson Super System
       4</a> daylight tank</dd>
   <dt>Scanner</dt>
   <dd><a
-      href="https://www.amazon.com/gp/product/B00OCEJMG8/ref=as_li_tl?ie=UTF8&tag=mercphotamzn-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B00OCEJMG8&linkId=62b44b123defe5a0a3092689c7e61739"
+      href="https://www.amazon.com/gp/product/B00OCEJMG8/ref=as_li_tl?ie=UTF8&tag=mercphotamz08-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B00OCEJMG8&linkId=62b44b123defe5a0a3092689c7e61739"
       target="_blank" rel="external noopener">Epson Perfection
      v850</a></dd>
   <dt>Software</dt>

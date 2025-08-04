@@ -61,7 +61,7 @@ We brought along a medium format camera loaded with Kodak Tri&NoBreak;-&NoBreak;
 
 <dl>
   <dt>Tripod</dt>
-  <dd><a href="https://www.amazon.com/gp/product/B072KSW57W/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B072KSW57W&linkCode=as2&tag=mercphotamzn-20&linkId=5ed0b5f53b703c98ea9dd8b99b782e55" target="_blank" rel="external noopener">Gitzo GT1542T</a> Series 1 Traveler</dd>
+  <dd><a href="https://www.amazon.com/gp/product/B072KSW57W/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B072KSW57W&linkCode=as2&tag=mercphotamz08-20&linkId=5ed0b5f53b703c98ea9dd8b99b782e55" target="_blank" rel="external noopener">Gitzo GT1542T</a> Series 1 Traveler</dd>
   <dt>Tripod Head</dt>
   <dd>
 
@@ -69,7 +69,7 @@ We brought along a medium format camera loaded with Kodak Tri&NoBreak;-&NoBreak;
   </dd>
   <dt>Camera</dt>
   <dd>Hasselblad 500C/M with A12 back</dd>
-  <dd><a href="https://www.amazon.com/gp/product/B0010CM1HC/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B0010CM1HC&linkCode=as2&tag=mercphotamzn-20&linkId=1d14d843a729d74009410f72c1d3bf41" target="_blank" rel="external noopener">Gepe Pro Release 20&Prime; cable</a> with Zeiss Disc-Lock</dd>
+  <dd><a href="https://www.amazon.com/gp/product/B0010CM1HC/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B0010CM1HC&linkCode=as2&tag=mercphotamz08-20&linkId=1d14d843a729d74009410f72c1d3bf41" target="_blank" rel="external noopener">Gepe Pro Release 20&Prime; cable</a> with Zeiss Disc-Lock</dd>
   <dt>Lens</dt>
   <dd>Carl Zeiss Distagon CF T* 50mm
     &fnof;/4,0</dd>
@@ -83,13 +83,13 @@ We brought along a medium format camera loaded with Kodak Tri&NoBreak;-&NoBreak;
   <dd>Kodak <a href="https://amzn.to/2VrobNA" target="_blank" rel="external noopener">Tri-X 400</a> Professional 120</dd>
   <dt>Lighting</dt>
   <dd><a href="https://amzn.to/2DBjDZl" target="_blank" rel="external noopener">Yongnuo YN&#8209;560 II</a> speedlight</dd>
-  <dd><a href="https://www.amazon.com/gp/product/B00BK6JOIM/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00BK6JOIM&linkCode=as2&tag=mercphotamzn-20&linkId=2dfb57c9a24bc472b97358d745d31168" target="_blank" rel="external noopener">Lumiquest ProMax 80&#8209;20</a> bouncer with silver insert</dd>
+  <dd><a href="https://www.amazon.com/gp/product/B00BK6JOIM/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00BK6JOIM&linkCode=as2&tag=mercphotamz08-20&linkId=2dfb57c9a24bc472b97358d745d31168" target="_blank" rel="external noopener">Lumiquest ProMax 80&#8209;20</a> bouncer with silver insert</dd>
   <dt>Developer</dt>
   <dd><a id="CZ12054" href="https://adorama.rfvk.net/c/63213/29622/1036?prodsku=CZ12054&u=https%3A%2F%2Fwww.adorama.com%2FCZ12054.html&intsrc=PUI1_230" target="_blank" rel="noopener">Adox Adonal</a>
     (Rodinal) 1:100</dd>
-  <dd><time datetime="P1H">~60 minutes</time> semi-stand in <a href="https://www.amazon.com/gp/product/B0000BZMIH/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B0000BZMIH&linkCode=as2&tag=mercphotamzn-20&linkId=c84b3b46d9a0594ec0ee78b93b96f78c" target="_blank" rel="external noopener">Paterson Super System 4</a> daylight tank</dd>
+  <dd><time datetime="P1H">~60 minutes</time> semi-stand in <a href="https://www.amazon.com/gp/product/B0000BZMIH/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B0000BZMIH&linkCode=as2&tag=mercphotamz08-20&linkId=c84b3b46d9a0594ec0ee78b93b96f78c" target="_blank" rel="external noopener">Paterson Super System 4</a> daylight tank</dd>
   <dt>Scanner</dt>
-  <dd><a href="https://www.amazon.com/gp/product/B00OCEJMG8/ref=as_li_tl?ie=UTF8&tag=mercphotamzn-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B00OCEJMG8&linkId=62b44b123defe5a0a3092689c7e61739" target="_blank" rel="external noopener">Epson Perfection v850</a></dd>
+  <dd><a href="https://www.amazon.com/gp/product/B00OCEJMG8/ref=as_li_tl?ie=UTF8&tag=mercphotamz08-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B00OCEJMG8&linkId=62b44b123defe5a0a3092689c7e61739" target="_blank" rel="external noopener">Epson Perfection v850</a></dd>
   <dt>Software</dt>
   <dd>Vuescan</dd>
   <dd><a href="https://amzn.to/2PVnqGm" target="_blank" rel="external noopener">Adobe Lightroom 6</a></dd>

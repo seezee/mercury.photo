@@ -144,20 +144,23 @@ We sat around the firepit eating and drinking the cold beers. I’d brought alon
 
 For each person:
 
-<dl>
-  <dt>3</dt>
-  <dd>Farm fresh eggs</dd>
-  <dt>2 <abbr class="noscaps">tsp</abbr></dt>
-  <dd>Minced chives</dd>
-  <dt>2 <abbr>oz</abbr></dt>
-  <dd>Grated sharp cheese (<abbr>e.g.</abbr>, cheddar)</dd>
-  <dt>1 <abbr>oz</abbr></dt>
-  <dd>Heavy (whipping) cream</dd>
-  <dt>(To taste)</dt>
-  <dd>Kosher salt &amp; freshly ground black pepper</dd>
-  <dt>1&frac12; <abbr>TBSP</abbr></dt>
-  <dd>Unsalted butter</dd>
-</dl>
+3
+: Farm fresh eggs
+
+2 teaspoon
+: Minced chives
+
+2 ounce
+: Grated sharp cheese (e.g., cheddar)
+
+1 ounce
+: Heavy (whipping) cream
+
+(To taste)
+: Kosher salt &amp; freshly ground black pepper
+
+1&frac12; tablespoon
+: Unsalted butter
 
 1. Melt butter in a well-seasoned cast-iron or non-stick pan over low heat.
 2. Combine all ingredients except butter in a bowl. Using a heat-proof silicone spatula, gently break the yolks and fold them in. *Do not overmix.*
@@ -167,31 +170,40 @@ For each person:
 
 ## Technical
 
-The photographs in this story were taken with a Hasselblad medium-format film camera on Kodak <abbr>Tri-X</abbr>. For the image <cite>The Last Morel — Oklahoma Morel Foraging, 2019</cite> I employed a Proxar f=1<abbr>M</abbr> close-focus lens attached to the Planar 50<abbr>mm</abbr>. The picture of the empty moonshine bottle was taken with a Leica <abbr>M9-P</abbr> with Zeiss Sonnar 50<abbr>MM</abbr> lens.
+The photographs in this story were taken with a Hasselblad medium-format film camera on Kodak Tri-X. For the image <cite>The Last Morel — Oklahoma Morel Foraging, 2019</cite> I employed a Proxar f=1M close-focus lens attached to the Planar 50mm. The picture of the empty moonshine bottle was taken with a Leica M9-P with Zeiss Sonnar 50MM lens.
 
-<dl>
-  <dt>Camera</dt>
-  <dd>Hasselblad <abbr>503CX</abbr> with <abbr>A12</abbr> back</dd>
-  <dt>Lens</dt>
-  <dd>Carl Zeiss Planar <abbr>C</abbr> <abbr>T*</abbr> 50<abbr>mm</abbr> &fnof;/2,8</dd>
-  <dd>+ Carl Zeiss Proxar f=1<abbr>M</abbr> (<cite>The Last Morel</cite> only)</dd>
-  <dt>Aperture</dt>
-  <dd>&fnof;/11</dd>
-  <dt>Exposure</dt>
-  <dd><sup>1</sup>&frasl;<sub>125</sub><sup>th</sup> second</dd>
-  <dt><abbr>ISO</abbr></dt>
-  <dd>400</dd>
-  <dt>Film</dt>
-  <dd>Kodak <a href="https://amzn.to/2VrobNA" target="_blank" rel="external noopener">Tri-X 400</a> Professional 120</dd>
-  <dt>Developer</dt>
-  <dd>Adox Adonal (Rodinal) 1:100</dd>
-  <dd><time datetime="P1H">~60 minutes</time> semi-stand in <a href="https://www.amazon.com/gp/product/B0000BZMIH/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B0000BZMIH&linkCode=as2&tag=mercphotamzn-20&linkId=c84b3b46d9a0594ec0ee78b93b96f78c" target="_blank" rel="external noopener">Paterson Super System 4</a> daylight tank</dd>
-  <dt>Scanner</dt>
-  <dd><a href="https://www.amazon.com/gp/product/B00OCEJMG8/ref=as_li_tl?ie=UTF8&tag=mercphotamzn-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B00OCEJMG8&linkId=62b44b123defe5a0a3092689c7e61739" target="_blank" rel="external noopener">Epson Perfection <abbr>v</abbr>850</a></dd>
-  <dt>Software</dt>
-  <dd>Vuescan</dd>
-  <dd><a href="https://amzn.to/2PVnqGm" target="_blank" rel="external noopener">Adobe Lightroom 6</a></dd>
-</dl>
+Camera
+: Hasselblad 503CX with A12 back
+
+Lens
+: Carl Zeiss Planar C T* 50mm &fnof;/2,8
+
+: + Carl Zeiss Proxar f=1M (<cite>The Last Morel</cite> only)
+
+Aperture
+: &fnof;/11
+
+Exposure
+: <sup>1</sup>&frasl;<sub>125</sub><sup>th</sup> second
+
+ISO
+: 400
+
+Film
+: Kodak Tri-X 400 Professional 120
+
+Developer
+: Adox Adonal (Rodinal) 1:100
+
+: <time datetime="P1H">~60 minutes</time> semi-stand in a Paterson Super System 4 daylight tank
+
+Scanner
+: Epson Perfection v850</a>
+
+Software
+: Vuescan
+
+: Adobe Lightroom 6
 
 <footer aria-label="notes">
   <ul class="app-marginnotes-list" role="list">
@@ -208,7 +220,7 @@ The same conditions that produce bountiful morels also favor ticks. When foragin
     </li>
     <li id="mn:4" role="listitem">
 
-For foraging mushrooms, I recommend a sharp carbon-steel knife and a <a href="https://amzn.to/2V9R1RE" target="_blank" rel="external noopener">mushroom brush</a>. Some purpose-made mushroom knives have an integrated brush. The <a href="https://amzn.to/2Iu6JRp" target="_blank" rel="external noopener">Opinel <abbr class="noscaps"><span class="ord">No.</span></abbr> 8</a> and the <a href="https://amzn.to/2GuEa4e" target="_blank" rel="external noopener">Opinel mushroom</a> knives are classics.&nbsp;<a href="#mnref:4" class="govuk-link" aria-label="Back to content">↩︎</a>
+For foraging mushrooms, I recommend a sharp carbon-steel knife and a mushroom brush. Some purpose-made mushroom knives have an integrated brush. The [Opinel <span class="ord">No.</span> 8](https://www.opinel-usa.com/collections/opinel-carbon-blades/products/opinel-no-8-carbon-steel-folding-knife){target=_blank rel="external noopener"} and the [Opinel mushroom](https://www.opinel-usa.com/products/opinel-mushroom-knife-no8){target=_blank rel="external noopener"} knives are classics.&nbsp;<a href="#mnref:4" class="govuk-link" aria-label="Back to content">↩︎</a>
     </li>
     <li id="mn:5" role="listitem">
 

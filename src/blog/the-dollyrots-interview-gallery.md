@@ -222,12 +222,12 @@ I reached out to The Dollyrots weeks before the show to let them know I’d be u
       1:100</dd>
     <dd><time datetime="P1H">~60 minutes</time> semi-stand in a <time
         datetime="P1H">~60 minutes</time> semi-stand in <a
-        href="https://www.amazon.com/gp/product/B0000BZMIH/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B0000BZMIH&linkCode=as2&tag=mercphotamzn-20&linkId=c84b3b46d9a0594ec0ee78b93b96f78c"
+        href="https://www.amazon.com/gp/product/B0000BZMIH/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B0000BZMIH&linkCode=as2&tag=mercphotamz08-20&linkId=c84b3b46d9a0594ec0ee78b93b96f78c"
         target="_blank" rel="external">Paterson Super System
         4</a> daylight tank</dd>
     <dt>Scanner</dt>
     <dd><a
-        href="https://www.amazon.com/gp/product/B00OCEJMG8/ref=as_li_tl?ie=UTF8&tag=mercphotamzn-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B00OCEJMG8&linkId=62b44b123defe5a0a3092689c7e61739"
+        href="https://www.amazon.com/gp/product/B00OCEJMG8/ref=as_li_tl?ie=UTF8&tag=mercphotamz08-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B00OCEJMG8&linkId=62b44b123defe5a0a3092689c7e61739"
         target="_blank" rel="external">Epson Perfection
         v850</a></dd>
     <dt>Software</dt>

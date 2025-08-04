@@ -35,7 +35,7 @@ This information is from 2012 and is out-of-date. I’ll eventually update it an
 * Hoya <a href="//amzn.to/2UKQLot" target="_blank" rel="external noopener">filter kit</a> N<sup>o</sup><sup>.</sup>HKDG46 w/ pouch, circular polarizer, ND8, &amp; UV filter
 * Hoya ND2 &amp; ND4 <a href="//amzn.to/2Tj2RE0" target="_blank" rel="external noopener">neutral density filters</a>
 * Hoya K2&nbsp;<a href="//amzn.to/2FfwWz5" target="_blank" rel="external noopener">yellow filter</a> for B+W film
-* 39mm&nbsp;– 46mm &amp; 43mm– 46mm&nbsp;<a href="https://www.amazon.com/gp/search?ie=UTF8&amp;tag=mercphotamzn-20&amp;linkCode=ur2&amp;linkId=d205805ff2cb6b4e09888d05471b92e2&amp;camp=1789&amp;creative=9325&amp;index=photo&amp;keywords=Step Up Down Ring" target="_blank" rel="external noopener">step-up rings</a>
+* 39mm&nbsp;– 46mm &amp; 43mm– 46mm&nbsp;<a href="https://www.amazon.com/gp/search?ie=UTF8&amp;tag=mercphotamz08-20&amp;linkCode=ur2&amp;linkId=d205805ff2cb6b4e09888d05471b92e2&amp;camp=1789&amp;creative=9325&amp;index=photo&amp;keywords=Step Up Down Ring" target="_blank" rel="external noopener">step-up rings</a>
 * Cowboy Studios <a href="//amzn.to/2Ct6bH2" target="_blank" rel="external noopener">3-way hot shoe mountable spirit level</a>
 * Lowepro <a href="//amzn.to/2JqudIp" target="_blank" rel="external noopener">memory card carrier</a> w/ <a href="//amzn.to/2U3Bm5z" target="_blank" rel="external noopener">spare SD card(s)</a>
 * Photographic Solutions <a href="//amzn.to/2uiXSJe" target="_blank" rel="external noopener">cleaning kit</a>

@@ -25,10 +25,10 @@ excerpt: Astute readers may have noticed that I’ve been transitioning to using
 
 <div class="drop-cap">
 
-Astute readers may have noticed that we’ve transitioned to the <a href="https://amzn.to/2OhRmvq" target="_blank" rel="external noopener">Fujifilm X-T1 camera</a>, with the <a href="https://amzn.to/2Jz0gpX" target="_blank" rel="external noopener">Leica M9-P</a> relegated to backup duties. It’s compact and light like the Leica, has plenty of manual controls, and has better ISO performance. Fuji makes a <a href="https://amzn.to/2UQJDqE" target="_blank" rel="external noopener">special adapter</a> that lets us use M-mount lenses with it, and their own lenses are tack sharp, with beautiful color rendering and auto-focus.
+Astute readers may have noticed that we’ve transitioned to the Fujifilm X-T1 camera, with the Leica M9-P relegated to backup duties. It’s compact and light like the Leica, has plenty of manual controls, and has better ISO performance. Fuji makes a special adapter that lets us use M-mount lenses with it, and their own lenses are tack sharp, with beautiful color rendering and auto-focus.
 </div>
 
-Today we were goofing off with the <a href="https://amzn.to/2Oskfp7" target="_blank" rel="external noopener">Fujifilm Macro Extension Tube MCEX-16</a>, which can be used on any interchangeable lens Fuji X-mount camera, even with Leica and Zeiss M-mount lenses (but only with the M-mount adapter). All of the images were shot with the Fuji + the M-mount adapter and the macro tube supporting a <a href="https://amzn.to/2ULHooC" target="_blank" rel="external noopener">Zeiss Ikon 50mm ƒ/1.5 C Sonnar T* ZM lens.</a>
+Today we were goofing off with the Fujifilm Macro Extension Tube MCEX-16, which can be used on any interchangeable lens Fuji X-mount camera, even with Leica and Zeiss M-mount lenses (but only with the M-mount adapter). All of the images were shot with the Fuji + the M-mount adapter and the macro tube supporting a Zeiss Ikon 50mm ƒ/1.5 C Sonnar T* ZM lens.
 
 ## Gallery: Fun with Macro Photography
 

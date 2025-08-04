@@ -34,14 +34,14 @@ excerpt: My first encounter with the music of My Brightest Diamond was a track o
 
 <div class="drop-cap">
 
-My first encounter with the music of <span class="h-card p-org"><a href="https://geo.itunes.apple.com/us/artist/my-brightest-diamond/174818899?mt=1&app=music&at=10ldhk" target="_ blank" rel="external noopener">My Brightest Diamond</a></span> was a track on a <span class="h-card p-org">RED + HOT</span> compilation.[^1] During the summer break, my neighbor’s teenage daughter and her friend used to hang out in my living room and spin CDs on my hi-fi. One day she brought over <cite><a href="https://geo.itunes.apple.com/us/album/dark-was-the-night/303463575?mt=1&app=music&at=10ldhk" target="_blank" rel="external noopener">Dark Was the Night</a></cite>, the fifteenth entry in the RED + HOT series.
+My first encounter with the music of <span class="h-card p-org"><a href="https://geo.itunes.apple.com/us/artist/my-brightest-diamond/174818899?mt=1&app=music&at=10ldhk" target="_ blank" rel="external noopener">My Brightest Diamond</a></span> was a track on a <span class="h-card p-org">RED + HOT</span> compilation.[^1] During the summer break, my neighbor’s teenage daughter and her friend used to hang out in my living room and spin CDs on my hi-fi. One day she brought over <cite>[Dark Was the Night](https://geo.itunes.apple.com/us/album/dark-was-the-night/303463575?mt=1&app=music&at=10ldhk){target=_blank rel="external noopener"}</cite>, the fifteenth entry in the RED + HOT series.
 </div>
 
-[^1]: Founded in <time datetime="1990">1990</time>, <a href="https://redhot.org/" target="_blank" rel="external noopener">RED HOT</a> is dedicated to fighting HIV/AIDS through popular culture. In the past quarter-century over 500 artists, producers, and directors have contributed to twenty-four compilation albums, three films, and other media to raise money for HIV/AIDS research and promote HIV/AIDS awareness. Readers may remember the <q>Safe sex is hot sex</q> campaign or the ubiquitous public service announcements shown on MTV, VH-1, and other media outlets.
+[^1]: Founded in <time datetime="1990">1990</time>, [RED HOT](https://redhot.org/){target=_blank rel="external noopener"} is dedicated to fighting HIV/AIDS through popular culture. In the past quarter-century over 500 artists, producers, and directors have contributed to twenty-four compilation albums, three films, and other media to raise money for HIV/AIDS research and promote HIV/AIDS awareness. Readers may remember the <q>Safe sex is hot sex</q> campaign or the ubiquitous public service announcements shown on MTV, VH-1, and other media outlets.
 
-Over the years I had acquired some of the earlier releases, starting with the best-selling <span class="h-card p-name">Cole Porter</span> tribute <cite><a href="https://amzn.to/2XlEDeL" target="_blank" rel="external noopener">RED HOT + BLUE</a></cite>, so I was happy to hear another entry in the series. Hidden alongside such musical heavyweights as <span class="h-card p-name">David Byrne</span>, <span class="h-card p-name">Sufjan Stevens</span>, <span class="h-card p-name">Arcade Fire</span>, <span class="h-card p-name">Gillian Welch</span>, and <span class="h-card p-name">Bon Iver</span>, there glimmered My Brightest Diamond, the current musical project of <span class="h-card p-name">Shara Nova</span>.
+Over the years I had acquired some of the earlier releases, starting with the best-selling <span class="h-card p-name">Cole Porter</span> tribute <cite>RED HOT + BLUE</cite>, so I was happy to hear another entry in the series. Hidden alongside such musical heavyweights as <span class="h-card p-name">David Byrne</span>, <span class="h-card p-name">Sufjan Stevens</span>, <span class="h-card p-name">Arcade Fire</span>, <span class="h-card p-name">Gillian Welch</span>, and <span class="h-card p-name">Bon Iver</span>, there glimmered My Brightest Diamond, the current musical project of <span class="h-card p-name">Shara Nova</span>.
 
-Over the years I kept encountering Nova’s music&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;she was always appearing on various best-of lists, including NPR’s <cite>Turning the Tables: The 200 Greatest Songs by 21st Century Women+</cite>. Her current longplayer <cite><a href="https://geo.itunes.apple.com/us/album/a-million-and-one/1436538263?mt=1&app=music&at=10ldhk" target="_blank" rel="external noopener">A Million and One</a></cite> <time datetime="2018-11-23">was recently cited</time> by NPR Music as an <a href="https://www.npr.org/sections/allsongs/2018/11/23/670004354/new-music-friday-for-nov-23-6-albums-you-should-hear-now" target="_blank" rel="external noopener">Album You Need to Hear Now</a>.
+Over the years I kept encountering Nova’s music&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;she was always appearing on various best-of lists, including NPR’s <cite>Turning the Tables: The 200 Greatest Songs by 21st Century Women+</cite>. Her current longplayer <cite>[A Million and One](https://geo.itunes.apple.com/us/album/a-million-and-one/1436538263?mt=1&app=music&at=10ldhk){target=_blank rel="external noopener"}</cite> <time datetime="2018-11-23">was recently cited</time> by NPR Music as an [Album You Need to Hear Now](https://www.npr.org/sections/allsongs/2018/11/23/670004354/new-music-friday-for-nov-23-6-albums-you-should-hear-now){target=_blank rel="external noopener"}.
 
 ## Okie Roots
 
@@ -59,9 +59,9 @@ Naturally, I vowed to get Nova into the studio <span class="foreign" lang="fr">t
 
 ## In Which We Upset a Cat
 
-When I learned that Nova would be back in Oklahoma to open for <span class="h-card p-org">Death Cab for Cutie</span>, I reached out to her management team to see if there was time in the band schedule for her to sit. Luckily, My Brightest Diamond had agreed to play a short, free show at the Oklahoma City <span class="h-card p-org"><a href="https://www.guestroomrecords.com/" target="_blank" rel="external noopener">Guestroom Records</a></span> the afternoon of their main show, so I schlepped the studio to the store and set it up in their storeroom.[^3] Thanks to the efforts of <span class="h-card p-name">Jason Toth</span> at <span class="h-card p-org"><a href="https://www.ekonmgmt.com/" target="_blank" rel="external noopener">EKONOMISK MGMT</a></span>, tour manager <span class="h-card p-name">Mitchell Graham</span>&NoBreak;, Guestroom owner <span class="h-card p-name">Justin Sowers</span>, and Nova herself, we made it happen.
+When I learned that Nova would be back in Oklahoma to open for <span class="h-card p-org">Death Cab for Cutie</span>, I reached out to her management team to see if there was time in the band schedule for her to sit. Luckily, My Brightest Diamond had agreed to play a short, free show at the Oklahoma City <span class="h-card p-org">[Guestroom Records](https://www.guestroomrecords.com/){target=_blank rel="external noopener"}</span> the afternoon of their main show, so I schlepped the studio to the store and set it up in their storeroom.[^3] Thanks to the efforts of <span class="h-card p-name">Jason Toth</span> at <span class="h-card p-org">[EKONOMISK MGMT](https://www.ekonmgmt.com/){target=_blank rel="external noopener"}</span>, tour manager <span class="h-card p-name">Mitchell Graham</span>&NoBreak;, Guestroom owner <span class="h-card p-name">Justin Sowers</span>, and Nova herself, we made it happen.
 
-[^3]: It was the week before Record Store Day, so the space was crowded with inventory, not to mention <a href="https://www.facebook.com/GuestroomRecords/photos/a.479897364366/10157810249594367/" target="_blank" rel="external noopener">the store cat</a>, <span class="h-card p-name">L’il Kim</span>, and her litterbox.
+[^3]: It was the week before Record Store Day, so the space was crowded with inventory, not to mention [the store cat](https://www.facebook.com/GuestroomRecords/photos/a.479897364366/10157810249594367/){target=_blank rel="external noopener"}, <span class="h-card p-name">L’il Kim</span>, and her litterbox.
 
 <mpb-dialog-img>
 
@@ -73,7 +73,7 @@ Amongst the storeroom clutter I happened to notice an old set of <span class="h-
 
 [^4]: "Realistic" was a trademark of the defunct RadioShack&reg; Corporation.
 
-Nova is a classically trained singer, composer, producer, and multi-instrumentalist. Her sound blends rock, art pop, and chamber music into a unique, description-defying mélange. She has appeared as a guest vocalist for David Byrne, <span class="h-card p-name">Laurie Anderson</span>, <span class="h-card p-org">The Decemberists</span>, Sufjan Stevens, and <span class="h-card p-org">The Blind Boys of Alabama</span>, among others. <a href="https://www.mybrightestdiamond.com/live" target="_blank" rel="external noopener">She is currently on tour</a>.
+Nova is a classically trained singer, composer, producer, and multi-instrumentalist. Her sound blends rock, art pop, and chamber music into a unique, description-defying mélange. She has appeared as a guest vocalist for David Byrne, <span class="h-card p-name">Laurie Anderson</span>, <span class="h-card p-org">The Decemberists</span>, Sufjan Stevens, and <span class="h-card p-org">The Blind Boys of Alabama</span>, among others. She is currently [on tour](https://www.mybrightestdiamond.com/live){target=_blank rel="external noopener"}.
 
 <figure>
   <stack-l>
@@ -132,62 +132,79 @@ The minute My Brightest Diamond arrived in Oklahoma City they headed to Guestroo
 
 ## Portraits Technical
 
-<dl>
-  <dt>Camera</dt>
-  <dd>Wista 45DX 4&times;5 field camera</dd>
-  <dt>Lens</dt>
-  <dd>Unknown maker 250mm Petzval</dd>
-  <dt>Aperture</dt>
-  <dd>ƒ/4,0</dd>
-  <dt>Exposure</dt>
-  <dd>1/25<sup>th</sup> second</dd>
-  <dt>Exposure Index</dt>
-  <dd>25</dd>
-  <dt>Lights</dt>
-  <dd><strong>Key:</strong> <span class="h-card p-name">Paul C. Buff</span> Einstein -5.7ƒ with silver beauty dish &amp; 30&deg; grid</dd>
-  <dd><strong>Background:</strong> Paul C. Buff Einstein -4.7ƒ with 7&Prime; reflector &amp; 10&deg; grid</dd>
-  <dd><strong>Fill:</strong> 42&Prime; collapsible reflector, silver</dd>
-  <dt>Film</dt>
-  <dd>Carestream CSHB</dd>
-  <dt>Developer</dt>
-  <dd>Pyrocat-HD 1:1:200</dd>
-  <dd><time datetime="P1H">~60 minutes</time> semi-stand in an HP-Combiplan daylight tank</dd>
-  <dt>Scanner</dt>
-  <dd>Epson Perfection v850</dd>
-  <dt>Software</dt>
-  <dd><a href="https://amzn.to/2PVnqGm" target="_blank" rel="external noopener">Adobe Lightroom 6</a><dd>
-  <dd>Adobe Photoshop</dd>
-  <dd>NIK Silver Efex Pro</dd>
-</dl>
+Camera
+: Wista 45DX 4&times;5 field camera
+
+Lens
+: Unknown maker 250mm Petzval
+
+Aperture
+: ƒ/4,0
+
+Exposure
+: 1/25<sup>th</sup> second
+
+Exposure Index
+: 25
+
+Lights
+: <strong>Key:</strong> <span class="h-card p-name">Paul C. Buff</span> Einstein -5.7ƒ with silver beauty dish &amp; 30&deg; grid</dd>
+: <strong>Background:</strong> Paul C. Buff Einstein -4.7ƒ with 7&Prime; reflector &amp; 10&deg; grid</dd>
+: <strong>Fill:</strong> 42&Prime; collapsible reflector, silver
+
+Film
+: Carestream CSHB
+
+Developer
+: Pyrocat-HD 1:1:200</dd>
+: <time datetime="P1H">~60 minutes</time> semi-stand in an HP-Combiplan daylight tank
+
+Scanner
+: Epson Perfection v850
+
+Software
+: Adobe Lightroom 6:
+: Adobe Photoshop</dd>
+: NIK Silver Efex Pro</dd>
+
     </div></details>
   <details name="tabs">
     <summary>Gallery Technical</summary><div>
 
 ## Gallery Technical
 
-<dl>
-  <dt>Camera</dt>
-  <dd>Leica MP Classic</dd>
-  <dt>Lenses</dt>
-  <dd>Zeiss Biogon T* 21mm ƒ/2.8 ZM</dd>
-  <dd>Leica Summicron-M 50mm ƒ/2.0 (&ldquo;50 Jahre&rdquo;)</dd>
-  <dd>Leica Tele-Elmarit-M 90mm ƒ/2.8</dd>
-  <dt>Aperture</dt>
-  <dd>ƒ/11,0 </dd>
-  <dt>Exposure</dt>
-  <dd><sup>1</sup>&frasl;<sub>125</sub><sup>th</sup> second</dd>
-  <dt>ISO</dt>
-  <dd>400</dd>
-  <dt>Exposure Index</dt>
-  <dd>400</dd>
-  <dt>Film</dt>
-  <dd>Kodak <a href="https://amzn.to/2VrobNA" target="_blank" rel="external noopener">Tri-X 400</a></dd>
-  <dt>Developer</dt>
-  <dd>Adox Adonal (Rodinal) 1:100</dd>
-  <dd><time datetime="P1H">~60 minutes</time> semi-stand in a <time datetime="P1H">~60 minutes</time> semi-stand in <a href="https://www.amazon.com/gp/product/B0000BZMIH/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B0000BZMIH&linkCode=as2&tag=mercphotamzn-20&linkId=c84b3b46d9a0594ec0ee78b93b96f78c" target="_blank" rel="external noopener">Paterson Super System 4</a> daylight tank</dd>
-  <dt>Scanner</dt>
-  <dd><a href="https://www.amazon.com/gp/product/B00OCEJMG8/ref=as_li_tl?ie=UTF8&tag=mercphotamzn-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B00OCEJMG8&linkId=62b44b123defe5a0a3092689c7e61739" target="_blank" rel="external noopener">Epson Perfection v850</a></dd>
-  <dt>Software</dt>
-  <dd><a href="https://amzn.to/2PVnqGm" target="_blank" rel="external noopener">Adobe Lightroom 6</a></dd>
-</dl></div></details>
+Camera
+: Leica MP Classic
+
+Lenses
+: Zeiss Biogon T* 21mm ƒ/2.8 ZM</dd>
+: Leica Summicron-M 50mm ƒ/2.0 (“50 Jahre”)</dd>
+: Leica Tele-Elmarit-M 90mm ƒ/2.8
+
+Aperture
+: ƒ/11,0
+
+Exposure
+: <sup>1</sup>&frasl;<sub>125</sub><sup>th</sup> second
+
+ISO
+: 400
+
+Exposure Index
+: 400
+
+Film
+: Kodak Tri-X 400
+
+Developer
+: Adox Adonal (Rodinal) 1:100</dd>
+: <time datetime="P1H">~60 minutes</time> semi-stand in a <time datetime="P1H">~60 minutes</time> semi-stand in a Paterson Super System 4 daylight tank
+
+Scanner
+: Epson Perfection v850
+
+Software
+: Adobe Lightroom 6</dd>
+  
+</div></details>
 </div>

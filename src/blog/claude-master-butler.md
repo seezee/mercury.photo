@@ -31,43 +31,53 @@ Claude may be found at his shoeshine stand on weekdays at the <span class="h-adr
 
 ## Technical
 
-<dl>
-  <dt>Lens</dt>
-  <dd>Unknown maker 250mm Petzval</dd>
-  <dt>Aperture</dt>
-  <dd>ƒ/4,0</dd>
-  <dt>Exposure</dt>
-  <dd><sup>1</sup>&frasl;<sub>25</sub><sup>th</sup> second</dd>
-  <dt>ISO</dt>
-  <dd>160</dd>
-  <dt>Exposure Index</dt>
-  <dd>160</dd>
-  <dt>Film</dt>
-  <dd>Carestream CSHB</dd>
-  <dt>Development</dt>
-  <dd>Pyrocat-HD 1:1:200</dd>
-  <dd><time datetime="P1H">~60 minutes</time> semi-stand in an HP-Combiplan daylight tank</dd>
-  <dd>TF-4 archival fix <time datetime="P2M">2 minutes</time></dd>
-  <dt>Key Light</dt>
-  <dd>Paul C. Buff (PCB) Einstein E640 -5.2ƒ</dd>
-  <dd>PCB 22&Prime; silver beauty dish</dd>
-  <dd>PCB 30&deg; grid</dd>
-  <dd><a href="https://www.bhphotovideo.com/c/product/112099-REG/Matthews_756140_Century_C_Turtle_Base.html/BI/19462/KBID/11656/kw/MALSCP40K/DFF/d10-v2-t1-xMALSCP40K" target="_blank" rel="external noopener">Matthews C-stand with turtle base &amp; grip arm</a></dd>
-  <dt>Fill</dt>
-  <dd><a href="https://www.bhphotovideo.com/c/product/358608-REG/Impact_R1142_5_in_1_Reflector_Disc.html/BI/19462/KBID/11656/kw/IMR5142/DFF/d10-v2-t1-xIMR5142" target="_blank" rel="external noopener">Impact 42&Prime; 5-in-1 collapsible circular reflector</a> (silver side)</dd>
-  <dd><a href="https://www.bhphotovideo.com/c/product/332034-REG/Avenger_RH353_Reflector_Holder_with_Mini.html/BI/19462/KBID/11656/kw/AVRH353/DFF/d10-v2-t1-xAVRH353" target="_blank" rel="external noopener">Avenger reflector holder with mini grip head</a></dd>
-  <dd><a href="https://www.bhphotovideo.com/c/product/609058-REG/Manfrotto_1052BAC_1052BAC_Alu_Air_Cushioned.html/BI/19462/KBID/11656/kw/MA1052BAC/DFF/d10-v2-t1-xMA1052BAC" target="_blank" rel="external noopener">Manfrotto stackable air-cushioned light stand</a></dd>
-  <dt>Background light</dt>
-  <dd>PCB Einstein E640 -4.2ƒ</dd>
-  <dd>PCB 7&Prime; reflector</dd>
-  <dd>PCB LiteMod&trade; Unit Mainframe</dd>
-  <dd>PCB 15&deg; grid</dd>
-  <dd><a href="https://www.bhphotovideo.com/c/product/484453-REG/Matthews_339763_Back_Light_Stand_Black.html/BI/19462/KBID/11656/kw/MABLS1952/DFF/d10-v2-t1-xMABLS1952" target="_blank" rel="external noopener">Matthews back light stand</a></dd>
-  <dt>Background</dt>
-  <dd><a href="https://www.bhphotovideo.com/c/product/648381-REG/Manfrotto_1314B_Background_Support_System.html/BI/19462/KBID/11656/kw/MA1314B/DFF/d10-v2-t1-xMA1314B" target="_blank" rel="external noopener">Manfrotto background support</a></dd>
-  <dd><a href="https://www.bhphotovideo.com/c/product/621542-REG/Interfit_INT585L_Italian_Series_Background.html/BI/19462/KBID/11656/kw/INIB1020MG/DFF/d10-v2-t1-xINIB1020MG" target="_blank" rel="external noopener">Interfit Italian Collection background (grey)</a></dd>
-  <dt>Safety equipment</dt>
-  <dd>All stands weighted with <a href="https://www.bhphotovideo.com/c/product/222302-REG/Matthews_299888_Senior_Boa_Weight_Bag.html/BI/19462/KBID/11656/kw/MAWB15B/DFF/d10-v2-t1-xMAWB15B" target="_blank" rel="external noopener">Matthews Senior Boa Bags</a></dd>
-  <dt>Scanner</dt>
-  <dd>Epson Perfection v850</dd>
-</dl>
+Lens
+: Unknown maker 250mm Petzval
+
+Aperture
+: ƒ/4,0
+
+Exposure
+: <sup>1</sup>&frasl;<sub>25</sub><sup>th</sup> second
+
+ISO
+: 160
+
+Exposure Index
+: 160
+
+Film
+: Carestream CSHB
+
+Development
+: Pyrocat-HD 1:1:200
+: <time datetime="P1H">~60 minutes</time> semi-stand in an HP-Combiplan daylight tank
+: TF-4 archival fix <time datetime="P2M">2 minutes</time>
+
+Key Light
+: Paul C. Buff (PCB) Einstein E640 -5.2ƒ
+: PCB 22&Prime; silver beauty dish
+: PCB 30&deg; grid
+: [Matthews C-stand](https://www.bhphotovideo.com/c/product/112099-REG/Matthews_756140_Century_C_Turtle_Base.html/BI/19462/KBID/11656/kw/MALSCP40K/DFF/d10-v2-t1-xMALSCP40K){target="_blank" rel="external noopener"} with turtle base & grip arm
+
+Fill
+: Impact 42&Prime; 5-in-1 collapsible circular [reflector](https://www.bhphotovideo.com/c/product/358608-REG/Impact_R1142_5_in_1_Reflector_Disc.html/BI/19462/KBID/11656/kw/IMR5142/DFF/d10-v2-t1-xIMR5142){target="_blank" rel="external noopener"} (silver side)
+: Avenger [reflector holder](https://www.bhphotovideo.com/c/product/332034-REG/Avenger_RH353_Reflector_Holder_with_Mini.html/BI/19462/KBID/11656/kw/AVRH353/DFF/d10-v2-t1-xAVRH353){target="_blank" rel="external noopener"} with mini grip head
+: Manfrotto stackable air-cushioned [light stand](https://www.bhphotovideo.com/c/product/609058-REG/Manfrotto_1052BAC_1052BAC_Alu_Air_Cushioned.html/BI/19462/KBID/11656/kw/MA1052BAC/DFF/d10-v2-t1-xMA1052BAC){target="_blank" rel="external noopener"}
+
+Background light
+: PCB Einstein E640 -4.2ƒ
+: PCB 7&Prime; reflector
+: PCB LiteMod&trade; Unit Mainframe
+: PCB 15&deg; grid
+: Matthews [back-light stand](https://www.bhphotovideo.com/c/product/484453-REG/Matthews_339763_Back_Light_Stand_Black.html/BI/19462/KBID/11656/kw/MABLS1952/DFF/d10-v2-t1-xMABLS1952){target="_blank" rel="external noopener"}
+
+Background
+: Manfrotto [background support](https://www.bhphotovideo.com/c/product/648381-REG/Manfrotto_1314B_Background_Support_System.html/BI/19462/KBID/11656/kw/MA1314B/DFF/d10-v2-t1-xMA1314B){target="_blank" rel="external noopener"}
+: Interfit Italian Collection [background](https://www.bhphotovideo.com/c/product/621542-REG/Interfit_INT585L_Italian_Series_Background.html/BI/19462/KBID/11656/kw/INIB1020MG/DFF/d10-v2-t1-xINIB1020MG){target="_blank" rel="external noopener"} (grey)
+
+Safety equipment
+: All stands weighted with Matthews Senior [Boa Bags](https://www.bhphotovideo.com/c/product/222302-REG/Matthews_299888_Senior_Boa_Weight_Bag.html/BI/19462/KBID/11656/kw/MAWB15B/DFF/d10-v2-t1-xMAWB15B){target="_blank" rel="external noopener"}
+
+Scanner
+: Epson Perfection v850

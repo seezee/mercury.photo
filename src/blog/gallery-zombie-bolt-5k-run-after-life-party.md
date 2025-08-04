@@ -19,7 +19,7 @@ excerpt: The zombie run was followed by an after-party (the “after life party�
 
 {% image "./src/assets/images/blog/2019-05-17-zombie-run-afterparty/czahller-20121006-18-01-20.jpg", "img-constrained", "The venue exterior. Windows boarded up with plywood; the words “Zombie bolt after life party” crudely spraypainted on them.", "The Venue — Zombie Bolt After Life Party, Guthrie, Oklahoma" %}</mpb-dialog-img>
 
-<time datime="2010-10-24">Five years ago</time> I [published a story about the 5K zombie race](/blog/zombie-bolt-5k-oklahomas-premier-zombie-run/) in Guthrie, Oklahoma. At the time I shared only a portion of the photos I shot during the race, relegating the remainder to <span class="h-card p-org">Flickr</span>. Since then Flickr have <a href="//blog.flickr.net/en/2018/11/01/changing-flickr-free-accounts-1000-photos/" target="_blank" rel="external noopener">changed their terms of service</a>. I’m currently moving many of my photos from the platform to this blog.
+<time datime="2010-10-24">Five years ago</time> I [published a story about the 5K zombie race](/blog/zombie-bolt-5k-oklahomas-premier-zombie-run/) in Guthrie, Oklahoma. At the time I shared only a portion of the photos I shot during the race, relegating the remainder to <span class="h-card p-org">Flickr</span>. Since then Flickr have changed their [terms of service](https://blog.flickr.net/en/2018/11/01/changing-flickr-free-accounts-1000-photos/){target="_blank" rel="external noopener"}. I’m currently moving many of my photos from the platform to this blog.
 
 These are the photos from the after-party. [The rest of the "new" pictures start here](/blog/gallery-zombie-bolt-5k-run-pre-race/).
 

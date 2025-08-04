@@ -24,7 +24,7 @@ excerpt: This weekend I celebrated my sixtieth birthday surrounded by friends an
 
 My wonderful sister <span class="h-card p-name">Kim V. Zähller</span> and her husband <span class="h-card p-name">Nate Borofsky</span> decorated their backyard and prepared all of the refreshments, including a chocolate-walnut cake and a boozy Planter's Punch.
 
-I took most of the pictures shown here, except for the group photo, made by my dear friend <a href="/blog/how-i-learned-to-stop-worrying-and-love-the-circle-of-confusion-pt-1/">Joe Crumley</a>. I hope you enjoy them.
+I took most of the pictures shown here, except for the group photo, made by my dear friend [Joe Crumley](/blog/how-i-learned-to-stop-worrying-and-love-the-circle-of-confusion-pt-1/). I hope you enjoy them.
 
 <mpb-dialog-gallery hint rel cols="8">
   
@@ -44,27 +44,34 @@ I took most of the pictures shown here, except for the group photo, made by my d
 
 ## Technical
 
-  <dl>
-    <dt>Camera</dt>
-    <dd>Rolleiflex 2.8c</dd>
-    <dt>Lens</dt>
-    <dd>Schneider-Kreuznach Xenotar 80mm &fnof;/2,8</dd>
-    <dt>Aperture</dt>
-    <dd>&fnof;/8</dd>
-    <dt>Filter</dt>
-    <dd>Leitz (Leica) K2 (Wratten <span class="ord">No.</span> 8)</dd>
-    <dt>Exposure</dt>
-    <dd><sup>1</sup>&frasl;<sub>250</sub><sup>th</sup> second</dd>
-    <dt><abbr>ISO</dt>
-    <dd>400</dd>
-    <dt>Film</dt>
-    <dd>Kodak Tri-X Pan (<abbr>PXP) 120</dd>
-    <dt>Developer</dt>
-    <dd><a id="CZ12054" href="https://adorama.rfvk.net/c/63213/29622/1036?prodsku=CZ12054&u=https%3A%2F%2Fwww.adorama.com%2FCZ12054.html&intsrc=PUI1_230" target="_blank" rel="noopener">Adox Adonal</a> (Rodinal) 1:100</dd>
-    <dd><time datetime="P1H">~60 minutes</time> semi-stand in <a href="https://www.amazon.com/gp/product/B0000BZMIH/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B0000BZMIH&linkCode=as2&tag=mercphotamzn-20&linkId=c84b3b46d9a0594ec0ee78b93b96f78c" target="_blank" rel="external noopener">Paterson Super System 4</a> daylight tank</dd>
-    <dt>Scanner</dt>
-    <dd><a href="https://www.amazon.com/gp/product/B00OCEJMG8/ref=as_li_tl?ie=UTF8&tag=mercphotamzn-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B00OCEJMG8&linkId=62b44b123defe5a0a3092689c7e61739" target="_blank" rel="external noopener">Epson Perfection v850</a></dd>
-    <dt>Software</dt>
-    <dd>VueScan</dd>
-    <dd><a href="https://amzn.to/2PVnqGm" target="_blank" rel="external noopener">Adobe Lightroom 6</a></dd>
-  </dl>
+Camera
+: Rolleiflex 2.8c
+
+Lens
+: Schneider-Kreuznach Xenotar 80mm &fnof;/2,8
+
+Aperture
+: &fnof;/8
+
+Filter
+: Leitz (Leica) K2 (Wratten <span class="ord">No.</span> 8)
+
+Exposure
+: <sup>1</sup>&frasl;<sub>250</sub><sup>th</sup> second
+
+ISO
+: 400
+
+Film
+: Kodak Tri-X Pan (PXP) 120
+
+Developer
+: [Adox Adonal](https://adorama.rfvk.net/c/63213/29622/1036?prodsku=CZ12054&u=https%3A%2F%2Fwww.adorama.com%2FCZ12054.html&intsrc=PUI1_230){target=_blank rel="external noopener"} (Rodinal) 1:100
+: <time datetime="P1H">~60 minutes</time> semi-stand in Paterson Super System 4
+
+Scanner
+: Epson Perfection v850
+
+Software
+: VueScan
+: Adobe Lightroom 6

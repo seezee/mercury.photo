@@ -62,11 +62,11 @@ Our final stop was just outside Anadarko at the Wichita Historical Center, <a hr
   <dt>Exposure Index</dt>
   <dd>EI 125</dd>
   <dt>Film</dt>
-  <dd><a href="https://www.amazon.com/gp/search?ie=UTF8&tag=mercphotamzn-20&linkCode=ur2&linkId=57a56e04ba63bb28b25ba1d4ae1c4de7&camp=1789&creative=9325&index=photo&keywords=kodak plus-x 125" target="_blank" rel="external noopener">Kodak Plus-X Pan 125</a></dd>
-  <dd><a href="https://www.amazon.com/gp/search?ie=UTF8&tag=mercphotamzn-20&linkCode=ur2&linkId=57a56e04ba63bb28b25ba1d4ae1c4de7&camp=1789&creative=9325&index=photo&keywords=kodak tri-x 400" target="_blank" rel="external noopener">Kodak Tri-X Pan 400</a></dd>
+  <dd><a href="https://www.amazon.com/gp/search?ie=UTF8&tag=mercphotamz08-20&linkCode=ur2&linkId=57a56e04ba63bb28b25ba1d4ae1c4de7&camp=1789&creative=9325&index=photo&keywords=kodak plus-x 125" target="_blank" rel="external noopener">Kodak Plus-X Pan 125</a></dd>
+  <dd><a href="https://www.amazon.com/gp/search?ie=UTF8&tag=mercphotamz08-20&linkCode=ur2&linkId=57a56e04ba63bb28b25ba1d4ae1c4de7&camp=1789&creative=9325&index=photo&keywords=kodak tri-x 400" target="_blank" rel="external noopener">Kodak Tri-X Pan 400</a></dd>
   <dt>Development</dt>
   <dd><a id="CZ12054" href="https://adorama.rfvk.net/c/63213/29622/1036?prodsku=CZ12054&u=https%3A%2F%2Fwww.adorama.com%2FCZ12054.html&intsrc=PUI1_230" target="_blank" rel="noopener">Adox Adonal</a> (Rodinal) 1:100</dd>
-  <dd><time datetime="P1H">~60 minutes</time> semi-stand in <a href="https://www.amazon.com/gp/product/B0000BZMIH/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B0000BZMIH&linkCode=as2&tag=mercphotamzn-20&linkId=c84b3b46d9a0594ec0ee78b93b96f78c" target="_blank" rel="external noopener">Paterson Super System 4</a> daylight tank</dd>
+  <dd><time datetime="P1H">~60 minutes</time> semi-stand in <a href="https://www.amazon.com/gp/product/B0000BZMIH/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B0000BZMIH&linkCode=as2&tag=mercphotamz08-20&linkId=c84b3b46d9a0594ec0ee78b93b96f78c" target="_blank" rel="external noopener">Paterson Super System 4</a> daylight tank</dd>
   <dt>Tripod</dt>
   <dd>Ries J-600 “Reporter” maple wood tripod with luster bronze knobs</span></dd>
   <dt>Scanner</dt>

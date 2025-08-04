@@ -63,7 +63,7 @@ We also drove to the former Volkswagen salvage yard in Purcell, Oklahoma and sto
   <dd><a href="https://bhpho.to/44EeZXQ">Ilford Delta 100</a> Professional</dd>
   <dt>Development</dt>
   <dd><a id="CZ12054" href="https://adorama.rfvk.net/c/63213/29622/1036?prodsku=CZ12054&u=https%3A%2F%2Fwww.adorama.com%2FCZ12054.html&intsrc=PUI1_230" target="_blank" rel="noopener">Adox Adonal</a> (Rodinal) 1:100</dd>
-  <dd><time datetime="P1H">~60 minutes</time> semi-stand in <a href="https://www.amazon.com/gp/product/B0000BZMIH/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B0000BZMIH&linkCode=as2&tag=mercphotamzn-20&linkId=c84b3b46d9a0594ec0ee78b93b96f78c" target="_blank" rel="external noopener">Paterson Super System 4</a> daylight tank</dd>
+  <dd><time datetime="P1H">~60 minutes</time> semi-stand in <a href="https://www.amazon.com/gp/product/B0000BZMIH/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B0000BZMIH&linkCode=as2&tag=mercphotamz08-20&linkId=c84b3b46d9a0594ec0ee78b93b96f78c" target="_blank" rel="external noopener">Paterson Super System 4</a> daylight tank</dd>
   <dt>Tripod</dt>
   <dd><span class="p-name"><a href="https://amzn.to/2JyEjHu" target="_blank" rel="external noopener">Gitzo Traveler Series 1 GT1542T carbon fibre tripod</a></dd>
   <dd>
