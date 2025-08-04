@@ -147,10 +147,10 @@ For each person:
 3
 : Farm fresh eggs
 
-2 teaspoon
+2 teaspoons
 : Minced chives
 
-2 ounce
+2 ounces
 : Grated sharp cheese (e.g., cheddar)
 
 1 ounce
@@ -159,7 +159,7 @@ For each person:
 (To taste)
 : Kosher salt &amp; freshly ground black pepper
 
-1&frac12; tablespoon
+1&frac12; tablespoons
 : Unsalted butter
 
 1. Melt butter in a well-seasoned cast-iron or non-stick pan over low heat.
@@ -176,9 +176,8 @@ Camera
 : Hasselblad 503CX with A12 back
 
 Lens
-: Carl Zeiss Planar C T* 50mm &fnof;/2,8
-
-: + Carl Zeiss Proxar f=1M (<cite>The Last Morel</cite> only)
+: Carl Zeiss Planar C T*50mm &fnof;/2,8
+: Carl Zeiss Planar C T* 50mm &fnof;/2,8 + Carl Zeiss Proxar f=1M (<cite>The Last Morel</cite> only)
 
 Aperture
 : &fnof;/11
@@ -194,7 +193,6 @@ Film
 
 Developer
 : Adox Adonal (Rodinal) 1:100
-
 : <time datetime="P1H">~60 minutes</time> semi-stand in a Paterson Super System 4 daylight tank
 
 Scanner
@@ -202,7 +200,6 @@ Scanner
 
 Software
 : Vuescan
-
 : Adobe Lightroom 6
 
 <footer aria-label="notes">
