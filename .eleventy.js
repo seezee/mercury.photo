@@ -14,7 +14,6 @@ const Image                            = require('@11ty/eleventy-img');
 const markdownIt                          = require('markdown-it');
 const markdownItAnchor                 = require('markdown-it-anchor');
 const markdownItAttrs                  = require('markdown-it-attrs');
-const markdownItDl                     = require('@mdit/plugin-dl');
 const { minify }                       = require('terser');
 const outdent                          = require('outdent');
 const path                             = require('path');
@@ -47,7 +46,7 @@ const markdownItOptions = {
 };
 
 // Markdown library with options
-const markdownLib = (mdLib) => mdLib.use(markdownItAttrs).use(markdownItAnchor).use(markdownItDl);
+const markdownLib = (markdownIt) => markdownIt.use(markdownItAttrs).use(markdownItAnchor);
 
 module.exports = async function(eleventyConfig) {
 
