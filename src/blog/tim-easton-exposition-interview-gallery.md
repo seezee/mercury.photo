@@ -55,7 +55,7 @@ The interview transcript follows.
 
 [^1]: The <time datetime="1909">1909</time> edifice was designed by St. Louis architect John Mauran. Robert Johnson recorded versions of twenty-two of his twenty-nine song catalogue in Room 414 from <time datetime="1936=11-23 ">23 November</time> to <time datetime="1936=11-27 ">27 November 1936</time>.
 
-[^2]: Legend has it that Robert Johnson met the Devil at the intersection of Highway 61 and Highway 49 in Clarksdale. The Devil re-tuned Johnson’s guitar in exchange for his soul. Other versions of the myth posit alternative locations for the legendary meeting place. Some blues fans interpret the lyrics of <cite class="quoted ">"<a href="https://geo.itunes.apple.com/us/album/the-complete-recordings/546817591?mt=1&app=music&at=10ldhk" target="_blank" rel="external noopener">Cross Road Blues</a>&rdquo;</cite> to be an account of that meeting.
+[^2]: Legend has it that Robert Johnson met the Devil at the intersection of Highway 61 and Highway 49 in Clarksdale. The Devil re-tuned Johnson’s guitar in exchange for his soul. Other versions of the myth posit alternative locations for the legendary meeting place. Some blues fans interpret the lyrics of <cite class="short-work">[Cross Road Blues](https://geo.itunes.apple.com/us/album/the-complete-recordings/546817591?mt=1&app=music&at=10ldhk){target=_blank rel="external noopener"}</cite> to be an account of that meeting.
 
     Additionally, <span class="h-card p-name">Bessie Smith</span> died almost <time datetime="1937-09-26">a year later</time> in the nearby Riverside Hotel following an automobile accident on Highway 61.
 
@@ -71,11 +71,11 @@ The interview transcript follows.
 
 {% image "./src/assets/images/blog/2018-12-19-tim-easton-exposition/czahller-20181207-14-25-15.jpg", "img-constrained", "Five Guitars, One Mandolin, and Tim  —  Exposition Field Recording Session, Okemah, Oklahoma", "Five Guitars, One Mandolin, and Tim&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak; Exposition Field Recording Session, Okemah, Oklahoma" %}</mpb-dialog-img>
 
-<span class="spkr">MPB</span> You keep anticipating my questions. I was gonna ask about the creative fundraising you’ve done for this; you showed me some [disposable] <a href="https://amzn.to/2LdXkMp" target="_blank">cameras</a>, earlier?
+<span class="spkr">MPB</span> You keep anticipating my questions. I was gonna ask about the creative fundraising you’ve done for this; you showed me some [disposable] cameras, earlier?
 
 <span class="spkr">Easton</span> Yeah, part of the thing I do at Pledgemusic.com is you give incentives away to get people to come with you on this journey […].[^4] This is the first time I’ve invited people to come along *while I do it.* The [disposable] cameras are just a thing I offer, you know&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;you donate a certain monetary thing, you know, and you get a camera that I took pictures on […]. So, who knows what you’re gonna get? I do know that they are analogue, so you as a photographer know that they’re the cheapest version of that, but, in fact, if you get the right light, and you get the right thing&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;an image, a moment&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;it’s nice to know that there are surprises, whatever they’re gonna be.
 
-[^4]: Since this article originally posted the crowdfunding platform <a href="https://www.hypebot.com/hypebot/2019/05/pledgemusic-fiasco-is-weirder-than-you-think-david-lowery.html" target="_blank" rel="external noopener">PledgeMusic has undergone a very public implosion</a>. Easton issued a statement in <time datetime="2019-05-23">late May</time>; in it he said <q>If anybody you know wants this album, all they have to do is go to <a href="https://www.timeaston.com" target="_blank" rel="external noopener">TIMEASTON.COM</a> and write me on the <a href="https://www.timeaston.com/Contact" target="_blank" rel="external noopener">CONTACT page</a> and I can get them vinyl or CD. The digital version is available <a href="https://timeaston1.bandcamp.com/album/exposition" target="_blank" rel="external noopener">at my Bandcamp Page</a>. You can listen, stream, or buy it here <a href="https://timeaston1.bandcamp.com/album/exposition" target="_blank" rel="external noopener">https://timeaston1.bandcamp.com/album/exposition</a>. Thanks for spreading the word.</q>
+[^4]: Since this article originally posted, the crowdfunding platform PledgeMusic has undergone a very [public implosion](https://www.hypebot.com/hypebot/2019/05/pledgemusic-fiasco-is-weirder-than-you-think-david-lowery.html){target=_blank rel="external noopener"}. Easton issued a statement in <time datetime="2019-05-23">late May</time>; in it he said <q>If anybody you know wants this album, all they have to do is go to [TIMEASTON.COM](https://www.timeaston.com){target=_blank rel="external noopener"} and write me on the [CONTACT page](https://www.timeaston.com/Contact){target=_blank rel="external noopener"} and I can get them vinyl or CD. The digital version is available at my [Bandcamp Page](https://timeaston1.bandcamp.com/album/exposition){target=_blank rel="external noopener"}. You can listen, stream, or buy it here [https://timeaston1.bandcamp.com/album/exposition](https://timeaston1.bandcamp.com/album/exposition){target=_blank rel="external noopener"}. Thanks for spreading the word.</q>
 
 <span class="spkr">MPB</span> Like opening a present.
 
@@ -101,15 +101,15 @@ I can’t stop writing songs. I keep working on tunes, and I gathered a bunch of
 
 <span class="spkr">Easton</span> I’m keeping it to a minimum; it’s mostly me and the guitar. But every once in a while I’ll throw in a mandolin or another guitar or another voice. But, very stripped down. There’s a reason for that. I want to keep it simple when it comes to mixing and manufacturing this album; I’m not gonna go down the big production hole that I’ve gone before. That’s fine; that’ll be for [a] future album, but for this one, we’re keepin’ it simple.
 
-So all those folks that are out there reading that have gone to <a href="https://timeaston.com" target="_blank" rel="external noopener">TimEaston.com</a>, or check out what I’m doin’, this one is gonna be another in a series of stripped-down folk albums.
+So all those folks that are out there reading that have gone to [TimEaston.com](https://timeaston.com){target=_blank rel="external noopener"}, or check out what I’m doin’, this one is gonna be another in a series of stripped-down folk albums.
 
 <span class="spkr">MPB</span> Excellent. Let’s redeem a song. Name a song that doesn’t get much respect, and convince me that I should really love that song.
 
 <span class="spkr">Easton</span> Well, you asked me this at lunch, and my mind immediately went to all these hits that are on the radio that people kinda like to make fun of or whatever, but it turns out that they’re all great songs. So just now, it occurred to me that there’s a tune that <span class="h-card p-name">Paul M<sup>c</sup>Cartney</span> wrote that nobody really knows, and people that do know it make fun of it[^5] because basically, it’s just this little country-blues stoner thing that he probably wrote while quite baked, walkin’ around in Scotland. And it’s called <cite class="short-work">Bip Bop,</cite> and it’s on his first album or something like that.[^6] It’s just one of those songs you can tell M<sup>c</sup>Cartney wrote kinda walkin’ around the house, and didn’t write to0 many lyrics to it and just kinda went with the vibe. It’s like:
 
-[^5]: M<sup>c</sup>Cartney <a href="https://www.paulmccartney.com/news-blogs/news/you-gave-me-the-answer-wild-life-special" target="_blank" rel="external noopener">is on record</a> as being one of those people.
+[^5]: M<sup>c</sup>Cartney is [on record](https://www.paulmccartney.com/news-blogs/news/you-gave-me-the-answer-wild-life-special){target=_blank rel="external noopener"} as being one of those people.
 
-[^6]: It’s actually on M<sup>c</sup>Cartney’s first album with <span class="h-card p-org">Wings</span>, <cite>Wild Life</cite>. In <time datetime="2018-10-19">October</time> M<sup>c</sup>Cartney announced the album would be reissued in a <a href="https://amzn.to/2PwSnip" target="_blank" rel="external noopener">deluxe edition</a>.
+[^6]: It’s actually on M<sup>c</sup>Cartney’s first album with <span class="h-card p-org">Wings</span>, <cite>Wild Life</cite>. In <time datetime="2018-10-19">October</time> M<sup>c</sup>Cartney announced the album would be reissued in a deluxe edition.
 
 <figure>
   <stack-l>
@@ -136,7 +136,10 @@ That’s just what holds people back, you know, <q>I’m worried about what the 
 <figure>
   <stack-l>
     <iframe class="aspect aspect-16x9" src="https://www.youtube.com/embed/ao9l5coA0xc?si=VxTFr44TT33vrSNp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-    <figcaption>Tim Easton&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;<cite><a href="https://timeaston1.bandcamp.com/album/exposition" rel="external noopener" target="_blank">Exposition</a></cite> Film</figcaption>
+    <figcaption>
+
+  Tim Easton&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;<cite>[Exposition](https://timeaston1.bandcamp.com/album/exposition){target=_blank rel="external noopener"}</cite> Film
+    </figcaption>
   </stack-l>
 </figure>
 
@@ -177,7 +180,7 @@ Before I interviewed Easton I took some pictures of him tracking songs for the a
 
 {% image "./src/assets/images/blog/2018-12-19-tim-easton-exposition/tim-easton-exposition-lp-jacket-front.png", "img-constrained", "Tim Easton — Exposition Album Front Jacket", "Tim Easton&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;Exposition Album Front Jacket" %}</mpb-dialog-img>
 
-After the bureau published this article, Easton licensed several of the images from the shoot for the <cite>Exposition</cite> LP and CD, which he commissioned me to design. I also designed a promotional poster. <a href="https://messengerwebdesign.com/portfolio/tim-easton-exposition-album-design-package/" target="_blank" rel="external me">You can see the final designs here</a>.&nbsp;<a href="#mnref:1" class="govuk-link" aria-label="Back to content">↩︎</a>
+After the bureau published this article, Easton licensed several of the images from the shoot for the <cite>Exposition</cite> LP and CD, which he commissioned me to design. I also designed a promotional poster. [You can see the final designs here](https://messengerwebdesign.com/portfolio/tim-easton-exposition-album-design-package/){target=_blank rel="external me noopener"}.&nbsp;<a href="#mnref:1" class="govuk-link" aria-label="Back to content">↩︎</a>
 
   </stack-l></li>
   </ul>

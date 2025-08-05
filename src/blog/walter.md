@@ -41,35 +41,43 @@ Through a series of unfortunate circumstances, my friend <span class="h-card p-n
 
 Walter sat for me <time datetime="2017-11-21">last year</time> after Mark asked me to take his portrait. I had previously shot [Okra’s portrait](/blog/okra/) with a digital Leica rangefinder. For Walter’s portrait I used the same rig I use for the [OKIE-X portfolio project](/okie-x/):
 
-<dl>
-  <dt>Lens</dt>
-  <dd>Unknown maker 250mm Petzval</dd>
-  <dt>Aperture</dt>
-  <dd>ƒ/4,0</dd>
-  <dt>Exposure</dt>
-  <dd>1/25<sup>th</sup> second</dd>
-  <dt>ISO</dt>
-  <dd>160</dd>
-  <dt>Exposure Index</dt>
-  <dd>160</dd>
-  <dt>Key light</dt>
-  <dd>Paul C. Buff (PCB) Einstein -5.2ƒ</dd>
-  <dd>PCB 30&deg; grid</dd>
-  <dd>PCB silver beauty dish</dd>
-  <dt>Background light</dt>
-  <dd>PCB Einstein -4.2ƒ</dd>
-  <dd>PCB 10&deg; grid</dd>
-  <dd>PCB 7&Prime; reflector</dd>
-  <dt>Fill light</dt>
-  <dd>42&Prime; collapsible reflector, silver</dd>
-  <dt>Film</dt>
-  <dd>Carestream CSHB</dd>
-  <dt>Developer</dt>
-  <dd>Pyrocat-HD 1:1:200</dd>
-  <dd><time datetime="P1H">~60 minutes</time> semi-stand in an HP-Combiplan daylight tank</dd>
-  <dt>Scanner</dt>
-  <dd>Epson Perfection v850</dd>
-</dl>
+Lens
+: Unknown maker 250mm Petzval
+
+Aperture
+: ƒ/4,0
+
+Exposure
+: 1/25<sup>th</sup> second
+
+ISO
+: 160
+
+Exposure Index
+: 160
+
+Key light
+: Paul C. Buff (PCB) Einstein -5.2ƒ
+: PCB 30&deg; grid
+: PCB silver beauty dish
+
+Background light
+: PCB Einstein -4.2ƒ
+: PCB 10&deg; grid
+: PCB 7&Prime; reflector
+
+Fill light
+: 42&Prime; collapsible reflector, silver
+
+Film
+: Carestream CSHB
+
+Developer
+: Pyrocat-HD 1:1:200
+: <time datetime="P1H">~60 minutes</time> semi-stand in an HP-Combiplan daylight tank
+
+Scanner
+: Epson Perfection v850
 
 <mpb-dialog-img>
 

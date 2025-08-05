@@ -62,6 +62,11 @@
   font-variant-numeric: ordinal;
 }
 
+/* Lining numerals */
+.lining {
+  font-variant-numeric: tabular-nums lining-nums slashed-zero;
+}
+
 /* .frac */
 .frac sup,
 .frac sub {

@@ -27,14 +27,14 @@ excerpt: One of the most anticipated Oklahoma music releases of 2014 dropped las
 
 <div class="drop-cap">
 
-One of the most anticipated Oklahoma music releases of <time datetime="2014">2014</time> dropped <time datetime="2014-02-23">last month</time>, with the release of <span class="h-card p-org">Skating Polly</span>’s third full-length album, <a href="https://itunes.apple.com/us/album/fuzz-steilacoom/id805979306?uo=4&at=10ldhk" target="itunes_store" rel="external noopener"><cite>Fuzz Steilacoom</cite></a>. The album is already getting <a href="https://www.okgazette.com/music/skating-polly-fuzz-steilacoom-2964483" target="_blank" rel="external noopener">many favorable reviews</a>, and has been in heavy rotation here at the Bureau’s offices since we received our preview copy.
+One of the most anticipated Oklahoma music releases of <time datetime="2014">2014</time> dropped <time datetime="2014-02-23">last month</time>, with the release of <span class="h-card p-org">Skating Polly</span>’s third full-length album, <cite>Fuzz Steilacoom</cite>. The album is already getting many [favorable reviews](https://www.okgazette.com/music/skating-polly-fuzz-steilacoom-2964483){target=_blank rel="external noopener"}, and has been in heavy rotation here at the Bureau’s offices since we received our preview copy.
 </div>
 
-<time datetime="2014-03-22">Last Saturday</time>, stepsisters <span class="h-card p-name">Peyton Bighorse</span> and <span class="h-card p-name">Kelli Mayo</span> took the band to Guestroom Records’ Oklahoma City location for a special pre-Record Day show. As usual, their performance was a high-energy, take-no-prisoners affair that ended with Mayo bouncing all over the tiny stage with her custom-made basitar[^1]. While she didn’t end up crowd-surfing (as she <time datetime="2014-01-25">recently</time> did at the second annual <a href="https://www.facebook.com/events/196365717226833/" target="_blank" rel="external noopener">Teenage Kicks</a> benefit show, organized by Bighorse and Mayo), she did climb onto the kick drum twice. Unfortunately, she hadn’t thought about where she was going to land the second time and fell backward behind the kit, bringing the show to a very exciting end. Although Mayo didn’t stick the landing, she was not hurt.
+<time datetime="2014-03-22">Last Saturday</time>, stepsisters <span class="h-card p-name">Peyton Bighorse</span> and <span class="h-card p-name">Kelli Mayo</span> took the band to Guestroom Records’ Oklahoma City location for a special pre-Record Day show. As usual, their performance was a high-energy, take-no-prisoners affair that ended with Mayo bouncing all over the tiny stage with her custom-made basitar[^1]. While she didn’t end up crowd-surfing (as she <time datetime="2014-01-25">recently</time> did at the second annual [Teenage Kicks](https://www.facebook.com/events/196365717226833/){target=_blank rel="external noopener"} benefit show, organized by Bighorse and Mayo), she did climb onto the kick drum twice. Unfortunately, she hadn’t thought about where she was going to land the second time and fell backward behind the kit, bringing the show to a very exciting end. Although Mayo didn’t stick the landing, she was not hurt.
 
 [^1]: /&#712;b&aelig;s-&#618;-t&#593;r/: A three-stringed guitar&NoBreak;&hairsp;&NoBreak;&ndash;&NoBreak;&hairsp;&NoBreak;bass hybrid.
 
-You can see more pictures of Skating Polly, read our exclusive interview, and see video excerpts from that interview [in our archive](/blog/skating-polly-interview-gallery-part-1/) Also, check out <a href="https://makeagif.com/i/Dn90LU" target="_blank" rel="external noopener">this cool <abbr>GIF</abbr></a> of Kelli&rsquo;s stunt made by the great <span class="h-card p-name"><a href="https://dougschwarzphoto.blogspot.com/" title="Doug’s Blog" target="_blank" rel="external noopener">Doug “Dougonious” Schwarz</a></span>.
+You can see more pictures of Skating Polly, read our exclusive interview, and see video excerpts from that interview [in our archive](/blog/skating-polly-interview-gallery-part-1/) Also, check out [this cool GIF](https://makeagif.com/i/Dn90LU){target=_blank rel="external noopener"} of Kelli&rsquo;s stunt made by the great <span class="h-card p-name">[Doug “Dougonious” Schwarz](https://dougschwarzphoto.blogspot.com/){target=_blank rel="external noopener"}</span>.
 
 <figure>
   <stack-l>
@@ -43,7 +43,7 @@ You can see more pictures of Skating Polly, read our exclusive interview, and se
   </stack-l>
 </figure>
 
-<cite>Fuzz Steilacoom</cite> is available at <a href="https://itunes.apple.com/us/album/fuzz-steilacoom/id805979306?uo=4&at=10ldhk" target="itunes_store" rel="external noopener">iTunes</a>. You can also buy the <abbr>CD</abbr> at <a href="https://amzn.to/2UXc4Di" target="_blank" rel="external noopener">Amazon</a>, or pick up a limited edition vinyl LP at any Guestroom Records location.
+<cite>Fuzz Steilacoom</cite> is available from [Apple Music](https://itunes.apple.com/us/album/fuzz-steilacoom/id805979306?uo=4&at=10ldhk){target=_blank rel="external noopener"}. You can also pick up a limited edition vinyl LP at any Guestroom Records location.
 
 ## Gallery: Skating Polly at Guestroom Records
 

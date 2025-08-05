@@ -59,31 +59,37 @@ I’ve written elsewhere about [Fielder’s](/blog/woodyfest-2018-brad-fielder-r
 
 The photographs in this story were taken with a Hasselblad medium-format film camera on Kodak Tri-X. This was my first time using the Zeiss 150MM lens and I missed focus on the last two images; I provide them for posterity only.
 
-<dl>
-  <dt>Camera</dt>
-  <dd>Hasselblad 503CX with A12 back</dd>
-  <dt>Lenses</dt>
-  <dd>Carl Zeiss Distagon CF T* 50mm &fnof;/4,0 (figures 1&NoBreak;&hairsp;&NoBreak;&ndash;&NoBreak;&hairsp;&NoBreak;4)</dd>
-  <dd>Carl Zeiss Planar C T* 80mm &fnof;/2,8 (figures 5&NoBreak;&hairsp;&NoBreak;&ndash;&NoBreak;&hairsp;&NoBreak;8)</dd>
-  <dd>Carl Zeiss Sonnar CF T* 150mm &fnof;/4,0 (figures 9&NoBreak;&hairsp;&NoBreak;&ndash;&NoBreak;&hairsp;&NoBreak;11)</dd>
-  <dt>Aperture</dt>
-  <dd>&fnof;/8</dd>
-  <dt>Exposure</dt>
-  <dd><sup>1</sup>&frasl;<sub>125</sub><sup>th</sup> second</dd>
-  <dt>ISO</dt>
-  <dd>400</dd>
-  <dt>Strobe</dt>
-  <dd><a href="https://adorama.evyy.net/c/63213/51926/1036?u=https%3A%2F%2Fwww.bhphotovideo.com%2Fc%2Fproduct%2F816237-REG%2FVivitar_VIV_385_HV_385HV_Flash.html" target="_blank" rel="external noopener">Vivitar 285HV</a> powered by <a href="https://amzn.to/2R7ID2X" target="_blank" rel="external noopener">Quantum Instruments Turbo SC</a> compact slim power pack</dd>
-  <dt>Film</dt>
-  <dd>Kodak <a href="https://amzn.to/2VrobNA" target="_blank" rel="external noopener">Tri-X 400</a> Professional 120</dd>
-  <dt>Developer</dt>
-  <dd>Adox Adonal (Rodinal) 1:100</dd>
-  <dd><time datetime="P1H">~60 minutes</time> semi-stand in <a href="https://www.amazon.com/gp/product/B0000BZMIH/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B0000BZMIH&linkCode=as2&tag=mercphotamz08-20&linkId=c84b3b46d9a0594ec0ee78b93b96f78c" target="_blank" rel="external noopener">Paterson Super System 4</a> daylight tank</dd>
-  <dt>Scanner</dt>
-  <dd><a href="https://www.amazon.com/gp/product/B00OCEJMG8/ref=as_li_tl?ie=UTF8&tag=mercphotamz08-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B00OCEJMG8&linkId=62b44b123defe5a0a3092689c7e61739" target="_blank" rel="external noopener">Epson Perfection v850</a></dd>
-  <dt>Software</dt>
-  <dd>Vuescan</dd>
-  <dd><a href="https://amzn.to/2PVnqGm" target="_blank" rel="external noopener">Adobe Lightroom 6</a></dd>
-  <dd>NIK Silver Efex Pro</dd>
-  <dd></dd>
-</dl>
+Camera
+: Hasselblad 503CX with A12 back
+
+Lenses
+: Carl Zeiss Distagon CF T*50mm &fnof;/4,0 (figures 1&NoBreak;&hairsp;&NoBreak;&ndash;&NoBreak;&hairsp;&NoBreak;4)
+: Carl Zeiss Planar C T* 80mm &fnof;/2,8 (figures 5&NoBreak;&hairsp;&NoBreak;&ndash;&NoBreak;&hairsp;&NoBreak;8)
+: Carl Zeiss Sonnar CF T* 150mm &fnof;/4,0 (figures 9&NoBreak;&hairsp;&NoBreak;&ndash;&NoBreak;&hairsp;&NoBreak;11)
+
+Aperture
+: &fnof;/8
+
+Exposure
+: <sup>1</sup>&frasl;<sub>125</sub><sup>th</sup> second
+
+ISO
+: 400
+
+Strobe
+: [Vivitar 285HV](https://adorama.evyy.net/c/63213/51926/1036?u=https%3A%2F%2Fwww.bhphotovideo.com%2Fc%2Fproduct%2F816237-REG%2FVivitar_VIV_385_HV_385HV_Flash.html){target=_blank rel="external noopener"} powered by <a href="https://amzn.to/2R7ID2X" target="_blank" rel="external noopener">Quantum Instruments Turbo SC</a> compact slim power pack
+
+Film
+: Kodak Tri-X 400 Professional 120
+
+Developer
+: Adox Adonal (Rodinal) 1:100
+: <time datetime="P1H">~60 minutes</time> semi-stand in a Paterson Super System 4 daylight tank
+
+Scanner
+: Epson Perfection v850
+
+Software
+: Vuescan
+: Adobe Lightroom 6
+: NIK Silver Efex Pro

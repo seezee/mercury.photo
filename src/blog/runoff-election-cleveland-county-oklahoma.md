@@ -27,15 +27,15 @@ excerpt: Democrats will decide between John Cox and Freda Deskin for the State S
 
 </div>
 
-Democrats will decide between <a href="https://ballotpedia.org/John_Cox_(Oklahoma)" target="_blank" rel="external noopener"><span class="h-card p-name">John Cox</span></a> and <a href="https://ballotpedia.org/Freda_Deskin" target="_blank" rel="external noopener"><span class="h-card p-name">Freda Deskin</span></a> for the State Superintendent of Public Instruction. <time datetime="2014-08-26">Today</time>’s primary winner will face off Republican <span class="h-card p-name">Joy Hofmeister</span> in the general election.
+Democrats will decide between [<span class="h-card p-name">John Cox</span>](https://ballotpedia.org/John_Cox_(Oklahoma)){target=_blank rel="external noopener"} and [<span class="h-card p-name">Freda Deskin</span>](https://ballotpedia.org/Freda_Deskin){target=_blank rel="external noopener"} for the State Superintendent of Public Instruction. <time datetime="2014-08-26">Today</time>’s primary winner will face off Republican <span class="h-card p-name">Joy Hofmeister</span> in the general election.
 <mpb-dialog-img>
 
 {% image "./src/assets/images/blog/2014-08-26-runoff/czahller-20140826-10-46-36.jpg", "img-constrained", "Norman resident Cleo Haines shortly after casting her vote in the Runoff Primary Election for the seat being vacated by U.S. Senator Tom Coburn & also for the next Oklahoma Superintendent of Public Instruction", "Voter Cleo Haines" %}</mpb-dialog-img>
 
 Cox garnered 41% of the vote in the primary, While Deskin accrued 38.2%.
 
-Also being decided is the Democratic race to fill the seat being vacated by U.S. Senator <span class="h-card p-name">Tom Coburn</span>, who is retiring from his seat at the end of the present term. The Democratic candidates are Oklahoma Senator <a href="https://ballotpedia.org/Constance_Johnson" target="_blank" rel="external noopener"><span class="h-card p-name">Connie Johnson</span></a> and retiree <a href="https://ballotpedia.org/Jim_Rogers" target="_blank" rel="external noopener"><span class="h-card p-name">Jim Rogers</span></a>.
+Also being decided is the Democratic race to fill the seat being vacated by U.S. Senator <span class="h-card p-name">Tom Coburn</span>, who is retiring from his seat at the end of the present term. The Democratic candidates are Oklahoma Senator [<span class="h-card p-name">Connie Johnson</span>](https://ballotpedia.org/Constance_Johnson){target=_blank rel="external noopener"} and retiree [<span class="h-card p-name">Jim Rogers</span>](https://ballotpedia.org/Jim_Rogers){target=_blank rel="external noopener"}.
 
-To find your polling place and view a sample ballot, visit the Cleveland County <a href="https://www.clevelandcountyelectionboard.com/" target="_blank" rel="external noopener">Election Board</a> website.
+To find your polling place and view a sample ballot, visit the Cleveland County [Election Board](https://www.clevelandcountyelectionboard.com/){target=_blank rel="external noopener"} website.
 
 Polls close at <time datetime="2014-08-26T19:00-5:00">7 p.m.</time>

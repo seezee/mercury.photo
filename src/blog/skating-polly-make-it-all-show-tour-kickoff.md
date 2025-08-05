@@ -30,7 +30,7 @@ excerpt: Returning to the scene of their very first public show, former Okies Sk
 
 <div class="drop-cap">
 
-Returning to the scene of their very first public show, former Okies <span class="h-card p-org">Skating Polly</span> played to a sold-out house at <span class="h-card p-org">OPOLIS</span> on <time datetime="2018-06-01">Saturday</time>. The show was the first stop in a 15-city tour promoting the release of their fifth full-length album <cite>The Make It All Show</cite>. <cite><a href="https://noisey.vice.com/en_au/article/a3ybe8/stream-skating-pollys-rip-roaring-new-lp-the-make-it-all-show" target="_blank" rel="external noopener">Vice Magazine</a></cite> calls it <q>rip-roaring,</q> saying the album will <q>knock your socks clean off, and into the nearest oncoming traffic.</q>
+Returning to the scene of their very first public show, former Okies <span class="h-card p-org">Skating Polly</span> played to a sold-out house at <span class="h-card p-org">OPOLIS</span> on <time datetime="2018-06-01">Saturday</time>. The show was the first stop in a 15-city tour promoting the release of their fifth full-length album <cite>The Make It All Show</cite>. <cite>[Vice Magazine](https://noisey.vice.com/en_au/article/a3ybe8/stream-skating-pollys-rip-roaring-new-lp-the-make-it-all-show){target=_blank rel="external noopener"}</cite> calls it <q>rip-roaring,</q> saying the album will <q>knock your socks clean off, and into the nearest oncoming traffic.</q>
 </div>
 
 Expanding to a trio after their brother <span class="h-card p-name">Kurtis Mayo</span> joined them <time datetime="2017">last year</time>, step-sisters <span class="h-card p-name">Kelli Mayo</span> and <span class="h-card p-name">Peyton Bighorse</span> have been performing since they were in middle school&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;they are in their eleventh year as a band&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;and show no signs of flagging. As Kelli told us [when I interviewed them](/blog/skating-polly-interview-gallery-part-1/) <time datetime="2018-05">five years ago</time>, <q>[We] don’t see us doing anything else with our lives; this is really the […] thing we’re dedicated to.</q>
@@ -59,9 +59,9 @@ The presence of a keyboard on the stage (something we haven’t seen the band br
 
 According to the set list, the band intended to play <cite class="short-work">Alabama Movies</cite> during the main set, but they elected to play it as an encore instead, leaving the planned encores (<cite class="short-work">Perfume for Now</cite> and <cite class="short-work">Oddie Moore</cite>) unplayed.
 
-Opening for the band were local favorites Poolboy and L.A.-based punk rockers Potty Mouth.[^2] The latter were featured in the <time datetime="2014">2014</time> NPR Austin 100 playlist with their song <cite class="short-work">Sleep Talk.</cite> <time datetime="2015-08-26">More recently</time> their song <cite class="short-work"><a href="https://www.npr.org/2015/08/26/432715340/heavy-rotation-10-songs-public-radio-cant-stop-playing" target="_blank" rel="external noopener">Cherry Picking</a></cite> was featured on NPR’s <cite>Heavy Rotation</cite>.
+Opening for the band were local favorites Poolboy and L.A.-based punk rockers Potty Mouth.[^2] The latter were featured in the <time datetime="2014">2014</time> NPR Austin 100 playlist with their song <cite class="short-work">Sleep Talk.</cite> <time datetime="2015-08-26">More recently</time> their song <cite class="short-work">[Cherry Picking](https://www.npr.org/2015/08/26/432715340/heavy-rotation-10-songs-public-radio-cant-stop-playing){target=_blank rel="external noopener"}</cite> was featured on NPR’s <cite>Heavy Rotation</cite>.
 
-[^2]: Potty Mouth were joined by guitarist <span class="h-card p-name p-given-name">Kate</span>; at her request I have not published her surname. She appears on stage right (house left) in the <a href="/skating-polly-the-make-it-all-show-tour-kickoff/?target=gallery-album-release-show">three gallery images</a> of Potty Mouth.
+[^2]: Potty Mouth were joined by guitarist <span class="h-card p-name p-given-name">Kate</span>; at her request I have not published her surname. She appears on stage right (house left) in the three gallery images of Potty Mouth.
 
 <figure>
   <stack-l>
@@ -105,30 +105,37 @@ Opening for the band were local favorites Poolboy and L.A.-based punk rockers Po
 
 ## Technical
 
-<dl>
-  <dt>Camera</dt>
-  <dd>Leica MP Classic</dd>
-  <dt>Lenses</dt>
-  <dd>Zeiss Biogon T* 21mm ƒ/2.8 ZM</dd>
-  <dd>Zeiss C Sonnar T* 50mm ƒ/1.5 ZM</dd>
-  <dd>Leica Tele-Elmarit-M 90mm ƒ/2.8</dd>
-  <dt>Aperture</dt>
-  <dd>ƒ/5,6</dd>
-  <dt>Exposure</dt>
-  <dd><sup>1</sup>&frasl;<sub>50</sub><sup>th</sup> second</dd>
-  <dt>Exposure Index</dt>
-  <dd>400</dd>
-  <dt>Strobe</dt>
-  <dd>Yongnuo YN560-III Speedlite (mounted on camera flash bracket) with LumiQuest 80–20 Pocket Bouncer </dd>
-  <dt>Film</dt>
-  <dd>Kodak Tri-X 400</dd>
-  <dt>Developer</dt>
-  <dd>Adox Adonal (Rodinal) 1:100</dd>
-  <dd><time datetime="P1H">~60 minutes</time> semi-stand in a Paterson Super System 4 daylight tank</dd>
-  <dt>Scanner</dt>
-  <dd>Epson Perfection v850</dd>
-  <dt>Software</dt>
-  <dd>Adobe Lightroom and NIK Silver Efex Pro</dd>
-</dl>
+Camera
+: Leica MP Classic
+
+Lenses
+: Zeiss Biogon T*21mm ƒ/2.8 ZM
+: Zeiss C Sonnar T* 50mm ƒ/1.5 ZM
+: Leica Tele-Elmarit-M 90mm ƒ/2.8
+
+Aperture
+: ƒ/5,6
+
+Exposure
+: <sup>1</sup>&frasl;<sub>50</sub><sup>th</sup> second
+
+Exposure Index
+: 400
+
+Strobe
+: Yongnuo YN560-III Speedlite (mounted on camera flash bracket) with LumiQuest 80–20 Pocket Bouncer
+
+Film
+: Kodak Tri-X 400
+
+Developer
+: Adox Adonal (Rodinal) 1:100
+: <time datetime="P1H">~60 minutes</time> semi-stand in a Paterson Super System 4 daylight tank
+
+Scanner
+: Epson Perfection v850
+
+Software
+: Adobe Lightroom and NIK Silver Efex Pro
 
 The set lists were photographed with a Leica M9-P and the “nifty fifty,” a Zeiss C Sonnar T* 50mm ƒ/1.5 ZM lens.

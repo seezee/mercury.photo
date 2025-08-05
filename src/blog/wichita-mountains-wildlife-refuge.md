@@ -24,7 +24,7 @@ excerpt: Last Sunday I drove out to the Wichita Mountains Wildlife Refuge near L
 
 ## Shaggy Beasts, Three-Legged Beasts
 
-Last <time datetime="2018-08-19">Sunday</time> I drove out to the Wichita Mountains Wildlife Refuge near Lawton with custom leatherworker and hiking enthusiast <a href="https://www.instagram.com/parhamcustomleather/?hl=en" target="_blank" rel="external noopener" class="h-card p-name">Michael Parham</a>. We intended to photograph the wilderness (especially the rock formation called <i>Crab Eyes</i>) with a large format camera. Michael acted as guide and sherpa, carrying my Wista 45DX, a lens and shutter, six film-holders, and other camera gear in a <a href="https://www.amazon.com/gp/product/B002BH3XX6/ref=as_li_tl?ie=UTF8&tag=mercphotamz08-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B002BH3XX6&linkId=3b338b113aae528a6c99e91e20e35239" target="_blank" rel="external noopener">Domke F-3X camera bag</a>. Additionally he carried a small pack for my dark cloth, water, and snacks. For most of the day, I carried the Ries tripod.[^1]
+Last <time datetime="2018-08-19">Sunday</time> I drove out to the Wichita Mountains Wildlife Refuge near Lawton with custom leatherworker and hiking enthusiast [<span class="h-card p-name">Michael Parham</span>](https://www.instagram.com/parhamcustomleather/?hl=en){target=_blank rel="external noopener"}. We intended to photograph the wilderness (especially the rock formation called <i>Crab Eyes</i>) with a large format camera. Michael acted as guide and sherpa, carrying my Wista 45DX, a lens and shutter, six film-holders, and other camera gear in a Domke F-3X camera bag. Additionally he carried a small pack for my dark cloth, water, and snacks. For most of the day, I carried the Ries tripod.[^1]
 
 [^1]: Weighing a little over twelve pounds (5.45 kg), including the leveling base, geared head, and quick-release plate, this maplewood tripod is a beast. I still have bruises on my scapulæ from carrying it on my shoulders. Michael and I each used one of the tripod legs as a trekking pole. For the Crab Eyes descent, we switched loads.
 
@@ -72,7 +72,7 @@ From there we drove to Meers, hoping to grab a bison burger, but the restaurant 
 
 ## Blood-Sucking, Skin-Dissolving Arachnids
 
-We plan to camp on the other side of Crab Eyes this fall and hike back to its east side to photograph the formation at dawn. On my to-do list: obtain permethrin to insect-proof clothing and percaridin to insect-proof myself (ticks and chiggers abound), and buy better hiking boots (already ordered). Optional: buy a “<a href="https://www.amazon.com/gp/product/B06XDGZWCH/ref=as_li_tl?ie=UTF8&tag=mercphotamz08-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B06XDGZWCH&linkId=22b6c46c736e0636d80ca5573e5ee34c" target="_blank" rel="external noopener">Tilley Endurables</a>” hat and leave the cowboy hat at home.
+We plan to camp on the other side of Crab Eyes this fall and hike back to its east side to photograph the formation at dawn. On my to-do list: obtain permethrin to insect-proof clothing and percaridin to insect-proof myself (ticks and chiggers abound), and buy better hiking boots (already ordered). Optional: buy a “Tilley Endurables” hat and leave the cowboy hat at home.
 
 Want to know when I post pictures from the next trip? [Sign up for the newsletter](/contact/newsletter/). In the meantime, here are the pictures from this trip.
 
@@ -94,42 +94,52 @@ Thanks for reading,
 
 ## Technical<a href="#mn:1" id="mnref:1"><span class="sr-only"> [See note]</span></a>
 
-<dl class="glossary">
-  <dt>Tripod</dt>
-  <dd>Ries J100, maplewood with optional bronze knobs</dd>
-  <dt>Tripod Head</dt>
-  <dd><a href="https://www.amazon.com/gp/product/B001A1VKPM/ref=as_li_tl?ie=UTF8&tag=mercphotamz08-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B001A1VKPM&linkId=427ca2f31a3595f328cd7831543177b3" target="_blank" rel="external noopener">Manfrotto 438 leveling base</a></dd>
-  <dd><a href="https://www.amazon.com/gp/product/B000JLI4Q2/ref=as_li_tl?ie=UTF8&tag=mercphotamz08-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B000JLI4Q2&linkId=b830de2184d0c3e529156ae82f44ab8c" target="_blank" rel="external noopener"> Manfrotto 410 geared head</a></dd>
-  <dd><a href="https://www.amazon.com/gp/product/B00STUEOWS/ref=as_li_tl?ie=UTF8&tag=mercphotamz08-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B00STUEOWS&linkId=2dc3bb8fd24c914364740ebe218dea27" target="_blank" rel="external noopener">Hejnar Photo extended plate with F63 Arca-type clamp</a></dd>
-  <dt>Camera</dt>
-  <dd>Wista 45DX cherrywood field camera</dd>
-  <dt>Lens</dt>
-  <dd>Schneider Kreuznach Symmar-M 150mm &fnof;/5,6 in Copal 0 shutter</dd>
-  <dt>Filter</dt>
-  <dd><a href="https://www.amazon.com/gp/product/B004IP9EW8/ref=as_li_tl?ie=UTF8&tag=mercphotamz08-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B004IP9EW8&linkId=e61ca55f321e2ebb369d91c31cecc423" target="_blank" rel="external noopener">Hoya 25A</a> (deep red)</dd>
-  <dt>Aperture</dt>
-  <dd>ƒ/16</dd>
-  <dt>Exposure</dt>
-  <dd><cite>Bison</cite>, <cite>Kite Trail</cite>: &frac14; second</dd>
-  <dd><cite>Forty Foot Hole</cite>, <cite>Lake Jed Johnson</cite>, <cite>Osage Lake</cite>: &#8539; second</dd>
-  <dd><cite>Crab Eyes</cite>: &frac12; second</dd>
-  <dt>ISO</dt>
-  <dd>100</dd>
-  <dt>Exposure Index (3-stop adjustment/filter factor = 8)</dt>
-  <dd>All images except <cite>Crab Eyes</cite>: 25</dd>
-  <dd><cite>Crab Eyes</cite>: 50</dd>
-  <dt>Film</dt>
-  <dd><a href="https://www.amazon.com/gp/product/B0000AE6AJ/ref=as_li_tl?ie=UTF8&tag=mercphotamz08-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B0000AE6AJ&linkId=50f27683f0aaadb651ba73eb646a45b8" target="_blank" rel="external noopener">Ilford Delta 100</a></dd>
-  <dt>Developer</dt>
-  <dd>Pyrocat-HD 1:1:200</dd>
-  <dd><time datetime="P1H">~60 minutes</time> semi-stand in an HP-Combiplan daylight tank</dd>
-  <dt>Scanner</dt>
-  <dd><a href="https://www.amazon.com/gp/product/B00OCEJMG8/ref=as_li_tl?ie=UTF8&tag=mercphotamz08-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B00OCEJMG8&linkId=62b44b123defe5a0a3092689c7e61739" target="_blank" rel="external noopener">Epson Perfection v850</a></dd>
-  <dt>Software</dt>
-  <dd>Vuescan</dd>
-  <dd><a href="https://amzn.to/2PVnqGm" target="_blank" rel="external noopener">Adobe Lightroom 6</a></dd>
-  <dd>NIK Silver Efex Pro (selected images only)</dd>
-</dl>
+Tripod:
+: Ries J100, maplewood with optional bronze knobs
+
+Tripod Head:
+: Manfrotto 438 leveling base
+: Manfrotto 410 geared head
+: Hejnar Photo extended plate with F63 Arca-type clamp
+
+Camera:
+: Wista 45DX cherrywood field camera
+
+Lens:
+: Schneider Kreuznach Symmar-M 150mm &fnof;/5,6 in Copal 0 shutter
+
+Filter:
+: Hoya 25A (deep red)
+
+Aperture:
+: ƒ/16
+
+Exposure:
+: <cite>Bison</cite>, <cite>Kite Trail</cite>: &frac14; second
+: <cite>Forty Foot Hole</cite>, <cite>Lake Jed Johnson</cite>, <cite>Osage Lake</cite>: &#8539; second
+: <cite>Crab Eyes</cite>: &frac12; second
+
+ISO:
+: 100
+
+Exposure Index (3-stop adjustment/filter factor = 8):
+: All images except <cite>Crab Eyes</cite>: 25
+: <cite>Crab Eyes</cite>: 50
+
+Film:
+: Ilford Delta 100
+
+Developer:
+: Pyrocat-HD 1:1:200
+: <time datetime="P1H">~60 minutes</time> semi-stand in an HP-Combiplan daylight tank
+
+Scanner:
+: Epson Perfection v850
+
+Software:
+: Vuescan
+: Adobe Lightroom 6
+: NIK Silver Efex Pro (selected images only)
 
 <footer aria-label="notes">
   <ul class="app-marginnotes-list" role="list">

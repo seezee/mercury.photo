@@ -25,9 +25,9 @@ excerpt: Rebekah Pulley grew up in rural Alaska listening to her dad playing gui
 
 {% image "./src/assets/images/blog/2013-12-06-rebekah-pulley/czahller-20130711-13-34-25.jpg", "img-constrained", "Rebekah Pulley playing a guitar solo. She is leaning back and has her eyes closed.", "Guitar Break (I)" %}</mpb-dialog-img>
 
-One of nine siblings, <a href="https://itunes.apple.com/us/artist/rebekah-pulley/id48879651?uo=4&at=10ldhk" target="itunes_store" rel="external noopener"><span class="h-card p-name">Rebekah Pulley</span></a> grew up in rural Alaska listening to her dad, <span class="h-card p-name p-given-name">Wallace</span>,[^1] playing guitar. At a young age, she taught herself to play the instrument by ear.
+One of nine siblings, [<span class="h-card p-name">Rebekah Pulley</span>](https://itunes.apple.com/us/artist/rebekah-pulley/id48879651?uo=4&at=10ldhk){target=_blank rel="external noopener"} grew up in rural Alaska listening to her dad, <span class="h-card p-name p-given-name">Wallace</span>,[^1] playing guitar. At a young age, she taught herself to play the instrument by ear.
 
-[^1]: Wallace Pulley played guitar on <span class="h-card p-name">Charlie Ryan</span>’s original recording of <a href="https://itunes.apple.com/us/album/hot-rod-lincoln/id514176505?i=514176508&uo=4&at=10ldhk" target="itunes_store" rel="external noopener"><cite>Hot Rod Lincoln</cite></a>
+[^1]: Wallace Pulley played guitar on <span class="h-card p-name">Charlie Ryan</span>’s original recording of <cite>[Hot Rod Lincoln](https://itunes.apple.com/us/album/hot-rod-lincoln/id514176505?i=514176508&uo=4&at=10ldhk){target=_blank rel="external noopener"}</cite>.
 
 <blockquote>
 
@@ -36,7 +36,7 @@ I am not certain [how many original songs I’ve written]&NoBreak;&hairsp;&NoBre
   <footer>&mdash;&NoBreak;&hairsp;&NoBreak;<cite class="cite-person">Rebekah Pulley</cite></footer>
 </blockquote>
 
-With five full-length CDs under her belt, Pulley has earned critical respect and fan adulation alike. Her latest release is <a href="https://itunes.apple.com/us/album/tralala/id582668354?uo=4&at=10ldhk" target="itunes_store" rel="external noopener"><cite>Tralala</cite></a>.
+With five full-length CDs under her belt, Pulley has earned critical respect and fan adulation alike. Her latest release is <cite>[Tralala](https://itunes.apple.com/us/album/tralala/id582668354?uo=4&at=10ldhk){target=_blank rel="external noopener"}</cite>.
 
 Although she has a backing band, <span class="h-card p-org">The Reluctant Prophets</span>, Pulley made her official Woody Guthrie Festival appearance accompanied by the house band, the <span class="h-card p-org">Oklahoma Geniuses</span>. She performed at the Brick Street Café. Festival regular <span class="h-card p-name">Ronnie Elliot</span> joined in on Pulley’s final pair of songs.
 

@@ -29,19 +29,19 @@ excerpt: Yesterday we told you about the Surrogate Band, formed in 2011 to perfo
 
 <mpb-callout type="info" title="The Hunky Dory Details">
 
-<dl>
-  <dt>Where</dt>
-  <dd>VZD’s Restaurant and Club, 4200 N. Western Ave., Oklahoma City</dd>
-  <dt>When</dt>
-  <dd><time datetime="2014-06-21T21:00-5:00">Saturday, 21 June 2014</time>. Doors at <time datetime="2014-06-21T21:00-5:00">9:00 p.m.</time>, show at ~<time datetime="2014-06-21T22:30-5:00">10:30 p.m.</time></dd>
-  <dt>Cover charge</dt>
-  <dd>$7.<sup>00</sup> USD</dd>
-</dl>
+Where
+: VZD’s Restaurant and Club, 4200 N. Western Ave., Oklahoma City
+
+When
+: <time datetime="2014-06-21T21:00-5:00">Saturday, 21 June 2014</time>. Doors at <time datetime="2014-06-21T21:00-5:00">9:00 p.m.</time>, show at ~<time datetime="2014-06-21T22:30-5:00">10:30 p.m.</time>
+
+Cover charge
+: $7.<sup>00</sup> USD
 </mpb-callout>
 
 <div class="drop-cap">
 
-<time datetime="2014-06-19">Yesterday</time> [we told you](/blog/surrogate-band-presents-david-bowie-tribute/) about the <span class="h-card p-org">Surrogate Band</span>, formed in <time datetime="2011">2011</time> at <abbr title="University of Central Oklahoma">UCO</abbr> to perform <span class="h-card p-org">Pink Floyd</span>’s <a href="https://itunes.apple.com/us/album/the-wall-remastered/id704273346?uo=4&at=10ldhk" target="itunes_store" rel="external noopener"><cite>The Wall</cite></a>. The Surrogate Band reformed late last year for a series of <a href="https://itunes.apple.com/us/artist/david-bowie/id551695?uo=4&at=10ldhk" target="itunes_store" rel="external noopener"><span class="h-card p-name">David Bowie</span></a> tribute shows. <time datetime="2014-06-21">Tomorrow</time> will be your final chance to catch them in Oklahoma City in a show featuring elaborate costumes, hair, and makeup reflecting the different periods in Bowie’s career.
+<time datetime="2014-06-19">Yesterday</time> [we told you](/blog/surrogate-band-presents-david-bowie-tribute/) about the <span class="h-card p-org">Surrogate Band</span>, formed in <time datetime="2011">2011</time> at <abbr title="University of Central Oklahoma">UCO</abbr> to perform <span class="h-card p-org">Pink Floyd</span>’s [The Wall](https://itunes.apple.com/us/album/the-wall-remastered/id704273346?uo=4&at=10ldhk){target=_blank rel="external noopener"}</cite>. The Surrogate Band reformed late last year for a series of <span class="h-card p-name">[David Bowie](https://itunes.apple.com/us/artist/david-bowie/id551695?uo=4&at=10ldhk){target=_blank rel="external noopener"}</span> tribute shows. <time datetime="2014-06-21">Tomorrow</time> will be your final chance to catch them in Oklahoma City in a show featuring elaborate costumes, hair, and makeup reflecting the different periods in Bowie’s career.
 </div>
 
 <span class="h-card p-name">[David Goad](/blog/david-goad-kali-ra-interview-gallery-pt-1/)</span> portrays Bowie accompanied by guitarists <span class="h-card p-name">[Justin Hogan](/blog/bowlsey-velvet-monkey-interview-gallery/)</span> and <span class="h-card p-name">Chris Wilson</span>, bassist <span class="h-card p-name">[Gabriel Barham](/blog/venditos-interview-gallery/)</span>, keyboardist <span class="h-card p-name">[Richie Zenner](/blog/venditos-interview-gallery/)</span>, drummer <span class="h-card p-name">[Chris Sanders](/blog/venditos-interview-gallery/)</span>, and saxophonist <span class="h-card p-name">Mike Mitchell</span>. <span class="h-card p-name">J.R. Reagor</span> and <span class="h-card p-name">Amy Downes</span> sing backup, with Reagor filling in some percussion.

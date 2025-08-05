@@ -31,7 +31,7 @@ Phonograph Needles and Silver Needle Tea</stack-l></hgroup>
 
 <div class="drop-cap">
 
-On <time datetime="2018-05-26">26 May</time>, central Oklahoma felt an earthquake. The vibrations were from the needle dropping on Godfather of Alt-Rock[^1] <span class="h-card p-name">Tyson Meade</span>’s new long player, <cite>Robbing the Nuclear Family</cite>. The 55-year-old rocker played piano and sang the entire album[^2] to an attentive audience at historic music venue VZD’s Restaurant and Bar. Before Meade took the stage, singer <span class="h-card p-name">Joe Hopkins</span> screened his new music video, a cover of Meade’s <a href="https://geo.itunes.apple.com/us/album/loneliest-china-place/34009922?i=34009930&mt=1&app=music&at=10ldhk" target="_blank" rel="external noopener">Chainsaw Kittens</a>&NoBreak;&hairsp;&NoBreak;&ndash;&NoBreak;&hairsp;&NoBreak;era <cite>The Loneliest China Place,</cite> featuring footage of Meade himself. Meade performed that same song, as well as other Kittens’ favorites, in between songs from the new album.
+On <time datetime="2018-05-26">26 May</time>, central Oklahoma felt an earthquake. The vibrations were from the needle dropping on Godfather of Alt-Rock[^1] <span class="h-card p-name">Tyson Meade</span>’s new long player, <cite>Robbing the Nuclear Family</cite>. The 55-year-old rocker played piano and sang the entire album[^2] to an attentive audience at historic music venue VZD’s Restaurant and Bar. Before Meade took the stage, singer <span class="h-card p-name">Joe Hopkins</span> screened his new music video, a cover of Meade’s [Chainsaw Kittens](https://geo.itunes.apple.com/us/album/loneliest-china-place/34009922?i=34009930&mt=1&app=music&at=10ldhk){target=_blank rel="external noopener"}&NoBreak;&hairsp;&NoBreak;&ndash;&NoBreak;&hairsp;&NoBreak;era <cite>The Loneliest China Place,</cite> featuring footage of Meade himself. Meade performed that same song, as well as other Kittens’ favorites, in between songs from the new album.
 
 [^1]: I’ve not been able to track down the first print reference to this coinage. <cite>Spin</cite> magazine, <cite>Out</cite> magazine, <cite>AV Club</cite>, <cite>Brooklyn Vegan</cite>, and the <cite>Converse Shoe Blog</cite> all seem to have started using the moniker sometime in <time datetime="2014">2014</time>.
 
@@ -40,7 +40,7 @@ On <time datetime="2018-05-26">26 May</time>, central Oklahoma felt an earthquak
 [^2]: This is not quite true, since he forgot the piano part to one of the songs and had to abandon it. Primarily a guitarist, Meade is relatively new to the piano, so cut him some slack, why don’t ya?
 </div>
 
-In the <time datetime="2014">4 years</time> since Meade’s previous album <cite>Tomorrow in Progress</cite> was released, he has produced and scored <a href="https://www.shortoftheweek.com/2016/10/03/park-grubbs-story/" target="_blank" rel="external noopener">a short documentary</a> and <a href="https://www.facebook.com/blueberryhallfilm/" target="_blank" rel="external noopener">a feature film</a>, and <time datetime="2018-04-05">in early April</time> he announced his candidacy for the Oklahoma 5<sup>th</sup> district U.S. congressional seat.
+In the <time datetime="2014">4 years</time> since Meade’s previous album <cite>Tomorrow in Progress</cite> was released, he has produced and scored a [short documentary](https://www.shortoftheweek.com/2016/10/03/park-grubbs-story/){target=_blank rel="external noopener"} and a [feature film](https://www.facebook.com/blueberryhallfilm/){target=_blank rel="external noopener"}, and <time datetime="2018-04-05">in early April</time> he announced his candidacy for the Oklahoma 5<sup>th</sup> district U.S. congressional seat.
 
 Meade hosted the Bureau at his <time datetime="1915">1915</time>-built Oklahoma City bungalow <time datetime="2018-06-01">on Friday</time>, where we sipped tea and talked about <cite>Robbing the Nuclear Family</cite>, our favorite teas, and running for political office in a state where the opposing party seems to have a lock on election.
 
@@ -55,7 +55,7 @@ Meade hosted the Bureau at his <time datetime="1915">1915</time>-built Oklahoma 
 
 <span class="spkr">Mercury Photo Bureau</span> You’ve got a new album.
 
-<span class="spkr">Tyson Meade</span> Yes I do! It’s called <cite><a href="https://www.jettplasticrecordings.com/collections/featured/products/tyson-meade-robbing-the-nuclear-family-lp" target="_blank" rel="external noopener">Robbing the Nuclear Family</a></cite>.
+<span class="spkr">Tyson Meade</span> Yes I do! It’s called <cite>[Robbing the Nuclear Family](https://www.jettplasticrecordings.com/collections/featured/products/tyson-meade-robbing-the-nuclear-family-lp){target=_blank rel="external noopener"}</cite>.
 
 <span class="spkr">MPB</span> I listened to it again on the drive up here. We both grew up in the shadow of the Cold War; the first three songs reference anxiety over the prospect of nuclear destruction in one way or another, but the album takes a sudden hopeful turn on the fourth track, <cite>Confused 22.</cite>
 
@@ -124,11 +124,11 @@ I started with a real loose soundscape on <cite class="short-work">Candycanes an
 
 I feel as if they want us uneducated so they can continue fracking, they can tear up the environment, they can dismantle the EPA, all of these important things. I also feel we need to end the marijuana prohibition. I never thought I’d be quoting [former Speaker of the House] <span class="h-card p-name">John Boehner</span>, but he said it’s a 70-billion dollar industry and we need to legalize it[^6], and that’s coming from a conservative.
 
-[^6]: <cite class="cite-person">John Boehner</citr>, <a href="https://twitter.com/speakerboehner/status/984022770752290818" target="_blank" rel="external noopener">Twitter status</a> (<time datetime="2018-04-11T05:58:00-5:00">11 April 2018, 5:58 a.m. CDT</time>)
+[^6]: <cite class="cite-person">John Boehner</citr>, [Twitter status](https://twitter.com/speakerboehner/status/984022770752290818){target=_blank rel="external noopener"} (<time datetime="2018-04-11T05:58:00-5:00">11 April 2018, 5:58 a.m. CDT</time>)
 
 And healthcare&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;single-payer healthcare for all. Medicare has worked for fifty years for 65-year-olds and older; we should make that available for everyone. Through the taxation of marijuana, we would solve a lot of fiscal problems immediately,[^7] one of them being healthcare, the other one being education funding. Yet we refused money that was *ours* for Medicaid; we shouldn’t have done that; that was ridiculous.
 
-[^7]: Experts and economists have <a href="https://www.npr.org/sections/money/2010/03/forget_taxing_marijuana_the_re.html" target="_blank" rel="external noopener">differing opinions</a> on exactly <a href="https://www.npr.org/sections/money/2013/11/22/246743018/whats-the-best-way-to-tax-marijuana-it-depends-on-what-you-want" target="_blank" rel="external noopener">how much</a> money marijuana taxation <a href="https://www.npr.org/sections/money/2010/03/marijuana_tax_could_be_coming.html" target="_blank" rel="external noopener">would raise.</a>
+[^7]: Experts and economists have [differing opinions](https://www.npr.org/sections/money/2010/03/forget_taxing_marijuana_the_re.html){target=_blank rel="external noopener"} on exactly [how much](https://www.npr.org/sections/money/2013/11/22/246743018/whats-the-best-way-to-tax-marijuana-it-depends-on-what-you-want){target=_blank rel="external noopener"} money marijuana taxation [would raise](https://www.npr.org/sections/money/2010/03/marijuana_tax_could_be_coming.html){target=_blank rel="external noopener"}.
 
 <span class="spkr">MPB</span> What makes you hopeful about Oklahoma?
 
@@ -144,7 +144,7 @@ In a political platform, I can be who I am, and I can speak about the issues, an
 
 So, I feel like Oklahoma is way more forward thinking than the rest of the country give us credit for.[^8] I’m putting a lot of hope in the millennials.
 
-[^8]: Short discussion of <a href="https://www.newyorker.com/magazine/2018/06/04/the-teachers-strike-and-the-democratic-revival-in-oklahoma" target="_blank" rel="external noopener">Rivka Galchen’s <cite>New Yorker</cite> essays</a> and Oklahoma’s socialist roots omitted for length&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;*Ed.*
+[^8]: Short discussion of Rivka Galchen’s <cite>New Yorker</cite> [essays](https://www.newyorker.com/magazine/2018/06/04/the-teachers-strike-and-the-democratic-revival-in-oklahoma){target=_blank rel="external noopener"} and Oklahoma’s socialist roots omitted for length&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;*Ed.*
 
 <span class="spkr">MPB</span> Thank you for the tea.
 
@@ -190,30 +190,37 @@ All of the pictures except for the color portrait were shot on Kodak Tri-X with 
 
 ## Technical
 
-<dl>
-  <dt>Camera</dt>
-  <dd>Leica MP Classic</dd>
-  <dt>Lenses</dt>
-  <dd>Zeiss Biogon T* 21mm ƒ/2.8 ZM</dd>
-  <dd>Zeiss C Sonnar T* 50mm ƒ/1.5 ZM</dd>
-  <dd>Leica Tele-Elmarit-M 90mm ƒ/2.8</dd>
-  <dt>Aperture</dt>
-  <dd>ƒ/5,6</dd>
-  <dt>Exposure</dt>
-  <dd><sup>1</sup>&frasl;<sub>50</sub><sup>th</sup> second</dd>
-  <dt>Exposure Index</dt>
-  <dd>400</dd>
-  <dt>Strobe</dt>
-  <dd>Yongnuo YN560-III Speedlite (mounted on camera flash bracket) with LumiQuest 80–20 Pocket Bouncer </dd>
-  <dt>Film</dt>
-  <dd>Kodak Tri-X 400</dd>
-  <dt>Developer</dt>
-  <dd>Adox Adonal (Rodinal) 1:100</dd>
-  <dd><time datetime="P1H">~60 minutes</time> semi-stand in a Paterson Super System 4 daylight tank</dd>
-  <dt>Scanner</dt>
-  <dd>Epson Perfection v850</dd>
-  <dt>Software</dt>
-  <dd>Adobe Lightroom and NIK Silver Efex Pro</dd>
-</dl>
+<dt>Camera
+: Leica MP Classic
+
+Lenses
+: Zeiss Biogon T*21mm ƒ/2.8 ZM
+: Zeiss C Sonnar T* 50mm ƒ/1.5 ZM
+: Leica Tele-Elmarit-M 90mm ƒ/2.8
+
+Aperture
+: ƒ/5,6
+
+Exposure
+: <sup>1</sup>&frasl;<sub>50</sub><sup>th</sup> second
+
+Exposure Index
+: 400
+
+Strobe
+: Yongnuo YN560-III Speedlite (mounted on camera flash bracket) with LumiQuest 80–20 Pocket Bouncer
+
+Film
+: Kodak Tri-X 400
+
+Developer
+: Adox Adonal (Rodinal) 1:100
+: <time datetime="P1H">~60 minutes</time> semi-stand in a Paterson Super System 4 daylight tank
+
+Scanner
+: Epson Perfection v850
+
+Software
+: Adobe Lightroom and NIK Silver Efex Pro
 
 The set lists were photographed with a Leica M9-P and the “nifty fifty,” a Zeiss C Sonnar T* 50mm ƒ/1.5 ZM lens.

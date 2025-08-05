@@ -23,7 +23,7 @@ excerpt: This past Independence Day my best friend and photographic conspirator 
 
 {% image "./src/assets/images/blog/2017-08-14-wanette/czahller-20170704-13-01-45.jpg", "img-constrained", "Former Bank Building, Wanette, Oklahoma (Rear, seen from North)", "Former Bank Building, Wanette, Oklahoma (Rear, seen from North)" %}</mpb-dialog-img>
 
-<time datetime="20170704">This past Independence Day</time> my best friend and photographic conspirator <span class="h-card p-name">Joe Crumley</span> and I drove to see the <a href="http://www.atlasobscura.com/places/gandinis-circus" target="_blank" rel="external noopener">abandoned Gandini Circus camp</a> in Edmond. It was a great disappointment&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;most of the structures are gone, and overgrown greenery  obscured the rest, making it unsuitable to photograph.
+<time datetime="20170704">This past Independence Day</time> my best friend and photographic conspirator <span class="h-card p-name">Joe Crumley</span> and I drove to see the abandoned [Gandini Circus camp](http://www.atlasobscura.com/places/gandinis-circus){target=_blank rel="external noopener"} in Edmond. It was a great disappointment&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;most of the structures are gone, and overgrown greenery  obscured the rest, making it unsuitable to photograph.
 
 <mpb-dialog-img>
 
@@ -50,32 +50,34 @@ We also drove to the former Volkswagen salvage yard in Purcell, Oklahoma and sto
 
 ## Technical
 
-<dl>
-  <dt>Camera</dt>
-  <dd>Rolleiflex 2.8c</dd>
-  <dt>Lens</dt>
-  <dd>Schneider Xenotar 50mm ƒ/2.8</dd>
-  <dt>Focal length</dt>
-  <dd>80mm</dd>
-  <dt>Exposure Index</dt>
-  <dd>EI 125</dd>
-  <dt>Film</dt>
-  <dd><a href="https://bhpho.to/44EeZXQ">Ilford Delta 100</a> Professional</dd>
-  <dt>Development</dt>
-  <dd><a id="CZ12054" href="https://adorama.rfvk.net/c/63213/29622/1036?prodsku=CZ12054&u=https%3A%2F%2Fwww.adorama.com%2FCZ12054.html&intsrc=PUI1_230" target="_blank" rel="noopener">Adox Adonal</a> (Rodinal) 1:100</dd>
-  <dd><time datetime="P1H">~60 minutes</time> semi-stand in <a href="https://www.amazon.com/gp/product/B0000BZMIH/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B0000BZMIH&linkCode=as2&tag=mercphotamz08-20&linkId=c84b3b46d9a0594ec0ee78b93b96f78c" target="_blank" rel="external noopener">Paterson Super System 4</a> daylight tank</dd>
-  <dt>Tripod</dt>
-  <dd><span class="p-name"><a href="https://amzn.to/2JyEjHu" target="_blank" rel="external noopener">Gitzo Traveler Series 1 GT1542T carbon fibre tripod</a></dd>
-  <dd>
+Camera
+: Rolleiflex 2.8c
 
-  [Arca-Swiss P0](/blog//hands-on-with-the-arca-swiss-p0-tripod-head-panning-system-slidefix-qs-quick-release/) panning ball head + Slidefix QS quick release clamp</span>
-  </dd>
-  <dt>Scanner</dt>
-  <dd><a href="https://www.bhphotovideo.com/c/product/1083201-REG/epson_b11b224201_perfection_v850_pro_scanner.html/BI/19462/KBID/11656/kw/EPV850/DFF/d10-v2-t1-xEPV850" target="_blank" rel="external noopener">Epson perfection V850 scanner</a>
-  </dd>
-  <dt>Software</dt>
-  <dd>VueScan</dd>
-  <dd><a href="https://bhpho.to/2HOcEzJ" target="_blank" rel="external noopener">Adobe Lightroom</a></dd>
-  <dd><a href="https://www.bhphotovideo.com/c/product/1124191-REG/adobe_65259312_creative_cloud_photography_plan.html/BI/19462/KBID/11656/kw/ADCCPP12MS/DFF/d10-v2-t1-xADCCPP12MS" target="_blank" rel="external noopener">Adobe Photoshop</a></dd>
-  <dd>NIK Silver Efex</dd>
-</dl>
+Lens
+: Schneider Xenotar 50mm ƒ/2.8
+
+Focal length
+: 80mm
+
+Exposure Index
+: EI 125
+
+Film
+: <a href="https://bhpho.to/44EeZXQ">Ilford Delta 100</a> Professional
+
+Development
+: Adox [Adonal](https://adorama.rfvk.net/c/63213/29622/1036?prodsku=CZ12054&u=https%3A%2F%2Fwww.adorama.com%2FCZ12054.html&intsrc=PUI1_230){target=_blank rel="external noopener"} (Rodinal) 1:100
+: <time datetime="P1H">~60 minutes</time> semi-stand in a Paterson Super System 4 daylight tank
+
+Tripod
+: <span class="p-name">Gitzo Traveler Series 1 GT1542T carbon fibre tripod
+: [Arca-Swiss P0](/blog//hands-on-with-the-arca-swiss-p0-tripod-head-panning-system-slidefix-qs-quick-release/) panning ball head + Slidefix QS quick release clamp</span>
+
+Scanner
+: Epson perfection V850 [scanner](https://www.bhphotovideo.com/c/product/1083201-REG/epson_b11b224201_perfection_v850_pro_scanner.html/BI/19462/KBID/11656/kw/EPV850/DFF/d10-v2-t1-xEPV850){target=_blank rel="external noopener"}
+
+Software
+: VueScan
+: Adobe [Lightroom](https://bhpho.to/2HOcEzJ){target=_blank rel="external noopener"}
+: Adobe [Photoshop](https://www.bhphotovideo.com/c/product/1124191-REG/adobe_65259312_creative_cloud_photography_plan.html/BI/19462/KBID/11656/kw/ADCCPP12MS/DFF/d10-v2-t1-xADCCPP12MS){target=_blank rel="external noopener"}
+: NIK Silver Efex

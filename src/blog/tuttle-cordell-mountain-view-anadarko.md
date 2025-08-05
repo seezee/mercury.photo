@@ -32,7 +32,7 @@ After Cordell and Roosevelt, we started back home. Along the way we saw an aband
 
 [^1]: Joe and I later made a second trip to the cobblestone building. After we had taken more pictures of it we knocked on the door of the nearest farmhouse to inquire about it. The old-timer who answered the door informed us that the building used to be a general store; he then gave us an extended oral history of the surrounding countryside. I reckon he spoke for a half hour or more before we thanked him and took our leave.
 
-Our final stop was just outside Anadarko at the Wichita Historical Center, <a href="https://nondoc.com/2016/06/17/wichita-historical-center-moving-forward-despite-land-battle/" target="_blank" rel="extrernal noopener">which is currently at the center of a four-tribe land dispute</a>.
+Our final stop was just outside Anadarko at the Wichita Historical Center, which is currently at the center of a four-tribe land [dispute](https://nondoc.com/2016/06/17/wichita-historical-center-moving-forward-despite-land-battle/){target=_blank rel="external noopener"}.
 
 ## Gallery: Tuttle, Cordell, Mountain View, & Anadarko
 
@@ -52,29 +52,33 @@ Our final stop was just outside Anadarko at the Wichita Historical Center, <a hr
 
 ## Technical
 
-<dl>
-  <dt>Cameras</dt>
-  <dd>Rolleiflex 2.8c</dd>
-  <dd>Hasselblad 500C</dd>
-  <dt>Lenses</dt>
-  <dd>Schneider Xenotar 50mm ƒ/2.8</dd>
-  <dd>Carl Zeiss Distagon 50mm ƒ/4.0</dd>
-  <dt>Exposure Index</dt>
-  <dd>EI 125</dd>
-  <dt>Film</dt>
-  <dd><a href="https://www.amazon.com/gp/search?ie=UTF8&tag=mercphotamz08-20&linkCode=ur2&linkId=57a56e04ba63bb28b25ba1d4ae1c4de7&camp=1789&creative=9325&index=photo&keywords=kodak plus-x 125" target="_blank" rel="external noopener">Kodak Plus-X Pan 125</a></dd>
-  <dd><a href="https://www.amazon.com/gp/search?ie=UTF8&tag=mercphotamz08-20&linkCode=ur2&linkId=57a56e04ba63bb28b25ba1d4ae1c4de7&camp=1789&creative=9325&index=photo&keywords=kodak tri-x 400" target="_blank" rel="external noopener">Kodak Tri-X Pan 400</a></dd>
-  <dt>Development</dt>
-  <dd><a id="CZ12054" href="https://adorama.rfvk.net/c/63213/29622/1036?prodsku=CZ12054&u=https%3A%2F%2Fwww.adorama.com%2FCZ12054.html&intsrc=PUI1_230" target="_blank" rel="noopener">Adox Adonal</a> (Rodinal) 1:100</dd>
-  <dd><time datetime="P1H">~60 minutes</time> semi-stand in <a href="https://www.amazon.com/gp/product/B0000BZMIH/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B0000BZMIH&linkCode=as2&tag=mercphotamz08-20&linkId=c84b3b46d9a0594ec0ee78b93b96f78c" target="_blank" rel="external noopener">Paterson Super System 4</a> daylight tank</dd>
-  <dt>Tripod</dt>
-  <dd>Ries J-600 “Reporter” maple wood tripod with luster bronze knobs</span></dd>
-  <dt>Scanner</dt>
-  <dd><a href="https://www.bhphotovideo.com/c/product/1083201-REG/epson_b11b224201_perfection_v850_pro_scanner.html/BI/19462/KBID/11656/kw/EPV850/DFF/d10-v2-t1-xEPV850" target="_blank" rel="external noopener">Epson perfection V850 scanner</a>
-  </dd>
-  <dt>Software</dt>
-  <dd>VueScan</dd>
-  <dd><a href="https://bhpho.to/2HOcEzJ" target="_blank" rel="external noopener">Adobe Lightroom</a></dd>
-  <dd><a href="https://www.bhphotovideo.com/c/product/1124191-REG/adobe_65259312_creative_cloud_photography_plan.html/BI/19462/KBID/11656/kw/ADCCPP12MS/DFF/d10-v2-t1-xADCCPP12MS" target="_blank" rel="external noopener">Adobe Photoshop</a></dd>
-  <dd>NIK Silver Efex</dd>
-</dl>
+Cameras
+: Rolleiflex 2.8c
+: Hasselblad 500C
+
+Lenses
+: Schneider Xenotar 50mm ƒ/2.8
+: Carl Zeiss Distagon 50mm ƒ/4.0
+
+Exposure Index
+: EI 125
+
+Film
+: Kodak Plus-X Pan 125
+: Kodak Tri-X Pan 400
+
+Development
+: Adox [Adonal](https://adorama.rfvk.net/c/63213/29622/1036?prodsku=CZ12054&u=https%3A%2F%2Fwww.adorama.com%2FCZ12054.html&intsrc=PUI1_230){target=_blank rel="external noopener"} (Rodinal) 1:100
+: <time datetime="P1H">~60 minutes</time> semi-stand in a Paterson Super System 4 daylight tank
+
+Tripod
+: Ries J-600 “Reporter” maple wood tripod with luster bronze knobs</span>
+
+Scanner
+: Epson perfection V850 [scanner](https://www.bhphotovideo.com/c/product/1083201-REG/epson_b11b224201_perfection_v850_pro_scanner.html/BI/19462/KBID/11656/kw/EPV850/DFF/d10-v2-t1-xEPV850){target=_blank rel="external noopener"}
+
+Software
+: VueScan
+: Adobe [Lightroom](){target=_blank rel="external noopener"}
+: Adobe [Photoshop](https://www.bhphttps://bhpho.to/2HOcEzJhotovideo.com/c/product/1124191-REG/adobe_65259312_creative_cloud_photography_plan.html/BI/19462/KBID/11656/kw/ADCCPP12MS/DFF/d10-v2-t1-xADCCPP12MS){target=_blank rel="external noopener"}
+: NIK Silver Efex

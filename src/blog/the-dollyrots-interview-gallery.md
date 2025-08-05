@@ -38,15 +38,13 @@ Formed in <time datetime="2000">2000</time>, the band comprises vocalist and gui
 
 [^1]: During an aborted first attempt at an interview, Luis told me that River will always tell his friends when he is <q>going on tour.</q>
 
-Three local bands preceded the Dollyrots: Shawnee-based “all-girl” indie rockers <span class="h-card p-org"><a href="https://web.archive.org/web/20180805041551/http://shouldabeenblonde.com/"
-target="_blank" rel="external noopener">Shoulda Been Blonde</a></span>, neo-soul stylists <span class="h-card p-org"><a href="https://www.facebook.com/pg/MeOhMyOkc/" target="_blank" rel="external noopener">Me Oh My</a></span>, and post-punk rockers <span class="h-card p-org"><a href="https://dresdenbombers.bandcamp.com/album/dance-music-for-sad-people?fbclid=IwAR2vBDOl71aE32jdYO2Gja75kWmbGvNRpCT-YfcA_VIS1AY9KCVMYe4pxbY"
-target="_blank" rel="external noopener">Dresden Bombers</a></span>.
+Three local bands preceded the Dollyrots: Shawnee-based “all-girl” indie rockers <span class="h-card p-org">[Shoulda Been Blonde](https://web.archive.org/web/20180805041551/http://shouldabeenblonde.com/){target=_blank rel="external noopener"}</span>, neo-soul stylists <span class="h-card p-org">[Me Oh My](https://www.facebook.com/pg/MeOhMyOkc/){target=_blank rel="external noopener"}</span>, and post-punk rockers <span class="h-card p-org">[Dresden Bombers](https://dresdenbombers.bandcamp.com/album/dance-music-for-sad-people?fbclid=IwAR2vBDOl71aE32jdYO2Gja75kWmbGvNRpCT-YfcA_VIS1AY9KCVMYe4pxbY){target=_blank rel="external noopener"}</span>.
 
 ## Interview
 
-<span class="h-card p-org">The Bureau</span> caught up with Ogden after the show to talk about <a href="https://the-dollyrots.myshopify.com/" target="_blank" rel="external noopener">their upcoming album</a>.[^2] The new long-player has a name, but Ogden and Cabezas are keeping the title “close to the vest” prior to its release.[^3]
+<span class="h-card p-org">The Bureau</span> caught up with Ogden after the show to talk about their [upcoming album](https://the-dollyrots.myshopify.com/){target=_blank rel="external noopener"}.[^2] The new long-player has a name, but Ogden and Cabezas are keeping the title “close to the vest” prior to its release.[^3]
 
-[^2]: Originally funding via crowdfunding platform PledgeMusic, the band canceled the campaign and self-funded the album <a href="https://variety.com/2019/biz/news/pledgemusic-down-to-skeleton-staff-potential-buyer-1203171745/" target="_blank" rel="external noopener">in the wake of the platform’s implosion</a>.
+[^2]: Originally funding via crowdfunding platform PledgeMusic, the band canceled the campaign and self-funded the album in the wake of the platform’s [implosion](https://variety.com/2019/biz/news/pledgemusic-down-to-skeleton-staff-potential-buyer-1203171745/){target=_blank rel="external noopener"}.
 
 [^3]: The Dollyrots announced the album title and previewed the artwork early on <time datetime="2019-05007T09:52:00-5:00">7 May</time> to their <span class="h-card p-org">Patreon</span> supporters. <time datetime="2019-05007T23:08:00-5:00">That evening</time> they announced publicly that the album would be called <cite>Daydream Explosion</cite>. The album hits the street <time datetime="2019-07-12">12 July 2019</time>.
 
@@ -64,7 +62,7 @@ target="_blank" rel="external noopener">Dresden Bombers</a></span>.
 
 {% image "./src/assets/images/blog/2019-04-03-dollyrots/czahller-20190322-22-57-57.jpg", "img-constrained", "The Dollyrots (I)  —  The Dollyrots at the 89th St Collective", "The Dollyrots (I)&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;The Dollyrots at the 89<sup>th</sup> St Collective" %}</mpb-dialog-img>
 
-We booked the time at <a href="http://www.pachyderm-studios.com/" target="_blank" rel="external noopener"><span class="h-card p-org">Pachyderm</span></a>, which is outside Minneapolis. We went to the project studio with John&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;it’s called <span class="h-card p-org">Criterion</span>; it’s the old <span class="h-card p-org">Hüsker Dü</span> studio&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;in the middle of Minneapolis for the first few days, and then we went to Pachyderm. But we booked Pachyderm, I think it was [for] <time datetime="2019-01-23">January 23<sup>rd</sup></time>, and we still hadn’t written as of <time datetime="2018-12">the beginning of December</time>.
+We booked the time at [<span class="h-card p-org">Pachyderm</span>](http://www.pachyderm-studios.com/){target=_blank rel="external noopener"}, which is outside Minneapolis. We went to the project studio with John&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;it’s called <span class="h-card p-org">Criterion</span>; it’s the old <span class="h-card p-org">Hüsker Dü</span> studio&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;in the middle of Minneapolis for the first few days, and then we went to Pachyderm. But we booked Pachyderm, I think it was [for] <time datetime="2019-01-23">January 23<sup>rd</sup></time>, and we still hadn’t written as of <time datetime="2018-12">the beginning of December</time>.
 
 So we’re kind of panicking; we had already paid for Pachyderm. And then my dad passed away on <time datetime="2018-12-21">December 21<sup>st</sup></time>. He’d had cardiac problems, and he had temporal frontal degeneration, which is a strange type of dementia, which he’d been dealing with probably four or five years. A few [years] before we realized what was going on.
 
@@ -100,7 +98,7 @@ The timing&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;going to Mi
 
 <span class="spkr">MPB</span> Luis mentioned a <span class="h-card p-org">Nirvana</span> connection to Pachyderm?
 
-<span class="spkr">Ogden</span> Yes. The two of us were kids when Nirvana was happening. They’re easily out favorite band ever. <cite><a href="https://geo.itunes.apple.com/us/album/in-utero-20th-anniversary-super-deluxe/686803869?mt=1&app=music&at=10ldhk" target="_blank" rel="external noopener">In Utero</a></cite> was recorded at Pachyderm. Then Pachyderm fell into disrepair, and there are stories about *cults* and *funny things*, and *hauntings*, and *snakes* in the *ceilings*. It became this kinda weird place, and it wasn’t a functioning studio for a while. But then <span class="h-card p-name">John Kuker</span>&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;he ran the studio where we recorded some of <cite>Because I’m Awesome</cite>, some of <cite>A Little Messed Up</cite>. They were recorded at his studio, <span class="h-card p-org">The Seedy Underbelly</span>, outside of Los Angeles. It was [an] incredible [studio]. Pachyderm’s kind of the Seedy Underbelly up north, at this point. Unfortunately John passed away. [Before that,] he purchased [Pachyderm]. And he wanted it to be *exactly* like the <time datetime="1970">’70s</time>. It’s like *magic*. It’s like walking into somewhere I’ve never been in my life, but so warm and comfortable, and a little bit spooky, and a little bit magical. And the house was designed by one of <span class="h-card p-name">Frank Lloyd Wright</span>&rsquo;s students.[^5]
+<span class="spkr">Ogden</span> Yes. The two of us were kids when Nirvana was happening. They’re easily out favorite band ever. <cite>[In Utero](https://geo.itunes.apple.com/us/album/in-utero-20th-anniversary-super-deluxe/686803869?mt=1&app=music&at=10ldhk){target=_blank rel="external noopener"}</cite> was recorded at Pachyderm. Then Pachyderm fell into disrepair, and there are stories about *cults* and *funny things*, and *hauntings*, and *snakes* in the *ceilings*. It became this kinda weird place, and it wasn’t a functioning studio for a while. But then <span class="h-card p-name">John Kuker</span>&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;he ran the studio where we recorded some of <cite>Because I’m Awesome</cite>, some of <cite>A Little Messed Up</cite>. They were recorded at his studio, <span class="h-card p-org">The Seedy Underbelly</span>, outside of Los Angeles. It was [an] incredible [studio]. Pachyderm’s kind of the Seedy Underbelly up north, at this point. Unfortunately John passed away. [Before that,] he purchased [Pachyderm]. And he wanted it to be *exactly* like the <time datetime="1970">’70s</time>. It’s like *magic*. It’s like walking into somewhere I’ve never been in my life, but so warm and comfortable, and a little bit spooky, and a little bit magical. And the house was designed by one of <span class="h-card p-name">Frank Lloyd Wright</span>’s students.[^5]
 
 [^5]: We scoured the interwebs to identify the architect, but were unsuccessful. If you know who designed the studio building, [please contact us](/contact/).
 
@@ -138,7 +136,7 @@ So, they were like, <q>Go more <cite>Love Boat</cite>,</q> and I was like <q>No 
 
 <span class="spkr">Ogden</span> Here’s the problem. I like a lot of music. I don’t think about what other people think about what I like; I’m just a dumb happy music listener; I’m actually the same about movies and TV.[^8] I’m not a guilty pleasure kind of person. I just get pleasure [from popular culture]. And I don’t care what people think.
 
-[^8]: At this point Ogden struggled to find an answer, so I gave her the example of <span class="h-card p-name">Richard Thompson</span> <a href="https://www.npr.org/templates/story/story.php?storyId=1152176" target="_blank" rel="external noopener">playing Redeem a Song&trade; on <abbr>NPR</abbr>’s Fresh Air</a>, where he <a href="https://youtu.be/V4WGsMplGxU" target="_blank" rel="external noopener">revealed the baroque chord structure</a> of the <span class="h-card p-name">Britney Spears</span> song <cite class="short-work">Oops, I Did It Again.</cite> This led us to a lengthy discussion of how critics don’t take young performers (especially young women) seriously, which is true and is a serious problem in the industry, but which we’ve omitted for the sake of remaining brief and on-topic.
+[^8]: At this point Ogden struggled to find an answer, so I gave her the example of <span class="h-card p-name">Richard Thompson</span> playing Redeem a Song&trade; on <abbr>NPR</abbr>’s [Fresh Air](https://www.npr.org/templates/story/story.php?storyId=1152176){target=_blank rel="external noopener"}, where he revealed the [baroque chord structure](https://youtu.be/V4WGsMplGxU){target=_blank rel="external noopener"} of the <span class="h-card p-name">Britney Spears</span> song <cite class="short-work">Oops, I Did It Again.</cite> This led us to a lengthy discussion of how critics don’t take young performers (especially young women) seriously, which is true and is a serious problem in the industry, but which we’ve omitted for the sake of remaining brief and on-topic.
 
 <span class="spkr">MPB</span> Thank you so much for taking the time for this interview.
 
@@ -146,7 +144,7 @@ So, they were like, <q>Go more <cite>Love Boat</cite>,</q> and I was like <q>No 
 
 I reached out to The Dollyrots weeks before the show to let them know I’d be using a flash so I could shoot on film.[^9] They were totally cool about about it. Enjoy!
 
-[^9]: As usual when shooting in dimly lit clubs, <a href="https://petapixel.com/2016/04/04/kodak-tri-x-best-black-white-film-ever-made/" target="_blank" rel="external noopener">I shot on <q>the rock &rsquo;n&rsquo; roll</q> film</a>, Kodak Tri-X.
+[^9]: As usual when shooting in dimly lit clubs, I shot on <q>the [rock ’n’ roll</q> film](https://petapixel.com/2016/04/04/kodak-tri-x-best-black-white-film-ever-made/){target=_blank rel="external noopener"}, Kodak Tri-X.
 
 <mpb-dialog-gallery hint rel cols="8">
   
@@ -190,50 +188,41 @@ I reached out to The Dollyrots weeks before the show to let them know I’d be u
 
 ## Technical
 
-  <dl>
-    <dt>Camera</dt>
-    <dd>Leica MP Classic</dd>
-    <dt>Lenses</dt>
-    <dd>Zeiss Biogon T* 21mm ƒ/2.8 ZM</dd>
-    <dd>Leica Summicron-M 50mm ƒ/2.0 (&ldquo;50 Jahre&rdquo;)</dd>
-    <dd>Leica Tele-Elmarit-M 90mm ƒ/2.8</dd>
-    <dt>Aperture</dt>
-    <dd>ƒ/8,0 </dd>
-    <dt>Exposure</dt>
-    <dd><sup>1</sup>&frasl;<sub>50</sub><sup>th</sup> second</dd>
-    <dt>ISO</dt>
-    <dd>400</dd>
-    <dt>Exposure Index</dt>
-    <dd>400</dd>
-    <dt>Strobe</dt>
-    <dd><a
-        href="https://adorama.evyy.net/c/63213/51926/1036?u=https%3A%2F%2Fwww.bhphotovideo.com%2Fc%2Fproduct%2F816237-REG%2FVivitar_VIV_385_HV_385HV_Flash.html"
-        target="_blank" rel="external">Vivitar
-        285HV</a> powered by <a href="https://amzn.to/2R7ID2X"
-        target="_blank" rel="external">Quantum Instruments
-        Turbo SC</a> compact slim power pack</dd>
-    <dt>Film</dt>
-    <dd>Kodak <a href="https://amzn.to/2VrobNA" target="_blank"
-        rel="external">Tri-X 400</a></dd>
-    <dt>Developer</dt>
-    <dd><a id="CZ12054"
-        href="https://adorama.rfvk.net/c/63213/29622/1036?prodsku=CZ12054&u=https%3A%2F%2Fwww.adorama.com%2FCZ12054.html&intsrc=PUI1_230"
-        target="_blank" rel="noopener">Adox Adonal</a> (Rodinal)
-      1:100</dd>
-    <dd><time datetime="P1H">~60 minutes</time> semi-stand in a <time
-        datetime="P1H">~60 minutes</time> semi-stand in <a
-        href="https://www.amazon.com/gp/product/B0000BZMIH/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B0000BZMIH&linkCode=as2&tag=mercphotamz08-20&linkId=c84b3b46d9a0594ec0ee78b93b96f78c"
-        target="_blank" rel="external">Paterson Super System
-        4</a> daylight tank</dd>
-    <dt>Scanner</dt>
-    <dd><a
-        href="https://www.amazon.com/gp/product/B00OCEJMG8/ref=as_li_tl?ie=UTF8&tag=mercphotamz08-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B00OCEJMG8&linkId=62b44b123defe5a0a3092689c7e61739"
-        target="_blank" rel="external">Epson Perfection
-        v850</a></dd>
-    <dt>Software</dt>
-    <dd><a href="https://amzn.to/2PVnqGm" target="_blank"
-        rel="external">Adobe Lightroom 6</a></dd>
-  </dl>
+<dt>Camera
+: Leica MP Classic
+
+Lenses
+: Zeiss Biogon T* 21mm ƒ/2.8 ZM
+: Leica Summicron-M 50mm ƒ/2.0 (“50 Jahre”)
+: Leica Tele-Elmarit-M 90mm ƒ/2.8
+
+Aperture
+: ƒ/8,0
+
+Exposure
+: <sup>1</sup>&frasl;<sub>50</sub><sup>th</sup> second
+
+ISO
+: 400
+
+Exposure Index
+: 400
+
+Strobe
+: [Vivitar 285HV](https://adorama.evyy.net/c/63213/51926/1036?u=https%3A%2F%2Fwww.bhphotovideo.com%2Fc%2Fproduct%2F816237-REG%2FVivitar_VIV_385_HV_385HV_Flash.html){target=_blank rel="external noopener"} powered by Quantum Instruments Turbo SC compact slim power pack
+
+Film
+: Kodak Tri-X 400
+
+Developer
+: Adox [Adonal](https://adorama.rfvk.net/c/63213/29622/1036?prodsku=CZ12054&u=https%3A%2F%2Fwww.adorama.com%2FCZ12054.html&intsrc=PUI1_230){target=_blank rel="external noopener"} (Rodinal) 1:100
+: <time datetime="P1H">~60 minutes</time> semi-stand in a <time datetime="P1H">~60 minutes</time> semi-stand in a Paterson Super System 4 daylight tank
+
+Scanner
+: Epson Perfection v850
+
+Software
+: Adobe Lightroom 6
 
 <footer aria-label="notes">
   <ul class="app-marginnotes-list" role="list">
