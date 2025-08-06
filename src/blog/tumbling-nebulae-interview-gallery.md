@@ -29,7 +29,7 @@ Steven, Cynthia, and Jason dropped by the Bureau in October (shortly after playi
 <figure>
   <stack-l>
     <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/97054196&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
-    <figcaption>Tumbling Nebulae&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;<cite>CollapsingCosmos</cite></figcaption>
+    <figcaption>Tumbling Nebulae&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;<cite class="short-work">CollapsingCosmos</cite></figcaption>
   </stack-l>
 </figure>
 
@@ -173,7 +173,7 @@ Through crimson stars and silent stars and tumbling nebulas like oceans set on f
 <figure>
   <stack-l>
     <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/91518584&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
-    <figcaption>Lightsmith&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;<cite>Gamma Ray Burst</cite></figcaption>
+    <figcaption>Lightsmith&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;<cite class="short-work">Gamma Ray Burst</cite></figcaption>
   </stack-l>
 </figure>
 
