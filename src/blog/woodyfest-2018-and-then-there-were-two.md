@@ -31,7 +31,7 @@ Contrary to their name, the band <span class="h-card p-org">And Then There Were 
 
 Their press kit describes their sound as <q>harmony based and lyrically driven</q> music that is <q>familiar [and] danceable</q> and emphasizes <q>catchy storytelling.</q> They call it <q>Oklahoma Feel Good Music.</q>[^1]
 
-[^1]: <cite><a href="https://docs.wixstatic.com/ugd/c4f403_86e687e9a8c84dd78ba1a747b701b38c.odt" target="_blank" rel="external noopener">And Then There Were Two Press Kit</a></cite>, retrieved from https&colon;//www<wbr>.<wbr>and<wbr>then<wbr>there<wbr>were<wbr>two<wbr>music<wbr>.<wbr>com/ <time datetime="2019-01-13">13 January 2019</time>. The website has since gone offline.
+[^1]: <cite>[And Then There Were Two Press Kit](https://docs.wixstatic.com/ugd/c4f403_86e687e9a8c84dd78ba1a747b701b38c.odt){target=_blank rel="external noopener"}</cite>, retrieved from https&colon;//www<wbr>.<wbr>and<wbr>then<wbr>there<wbr>were<wbr>two<wbr>music<wbr>.<wbr>com/ <time datetime="2019-01-13">13 January 2019</time>. The website has since gone offline.
 
 And Then There Were Two formed after Lee and Haworth were introduced by a mutual friend; Haworth’s long-time friend Varnell soon joined them.[^2]
 

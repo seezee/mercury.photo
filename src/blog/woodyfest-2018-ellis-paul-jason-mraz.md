@@ -41,7 +41,7 @@ excerpt: Ellis Paul loves Woody. Of the Woody Guthrie tattoo on his right should
 
 [^3]: The week-long gathering was the first major conference devoted to Woody Guthrie. Performers included <span class="h-card p-name">Dan Bern</span>, <span class="h-card p-name">Billy Bragg</span>, <span class="h-card p-name">Ani DiFranco</span>, <span class="h-card p-name">Ramblin’ Jack Elliott</span>, <span class="h-card p-name">Joe Ely</span>, <span class="h-card p-name">Jimmie Dale Gilmore</span>, <span class="h-card p-name">Arlo Guthrie</span>, <span class="h-card p-org">Indigo Girls</span>, <span class="h-card p-name">Jorma Kaukonen</span>, <span class="h-card p-name">Jimmy LaFave</span>, <span class="h-card p-name">Country Joe McDonald</span>, <span class="h-card p-name">Paul Metsa</span>, <span class="h-card p-name">[Charlie Mosbrook](/blog/woodyfest-2018-2nd-place-songwriter-charlie-mosbrook/)</span>, <span class="h-card p-name">David Pirner</span>, <span class="h-card p-name">Tim Robbins</span>, <span class="h-card p-name">Pete Seeger</span>, <span class="h-card p-name">Bruce Springsteen</span>, and <span class="h-card p-name">Syd Straw</span>.
 
-    Many of the same musicians, including Paul, reunited for the <time datetime="2000">2000</time> Guthrie tribute <cite><a href="https://amzn.to/2q1Xhtf" target="_blank" rel="external noopener">’til We Outnumber Them</a></cite>.
+    Many of the same musicians, including Paul, reunited for the <time datetime="2000">2000</time> Guthrie tribute <cite>’til We Outnumber Them</cite>.
 </div>
 
 <figure>

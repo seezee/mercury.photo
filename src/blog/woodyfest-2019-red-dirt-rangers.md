@@ -29,7 +29,7 @@ Marking their twenty-first appearance at Woodyfest <time datetime="2019-07-11T20
 
 [^1]: All four musicians are members of the Woodyfest house band, <span class="h-card p-org">The Oklahoma Geniuses</span>.
 
-If you’re not familiar with the Rangers, you can read about them in <a href="/woodyfest-2018-red-dirt-rangers/"><cite>Woodyfest 2018: Red Dirt Rangers</cite></a>.
+If you’re not familiar with the Rangers, you can read about them in <cite>[Woodyfest 2018: Red Dirt Rangers](/blog/woodyfest-2018-red-dirt-rangers/)</cite>.
 
 ## Gallery: Red Dirt Rangers
 

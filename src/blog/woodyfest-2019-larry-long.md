@@ -43,7 +43,7 @@ In <time datetime="1977">1977</time>, twenty-six-year-old vagabond singer <span 
 
 [^1]: Both musically and perambulatorily.
 
-[^2]: <cite class="h-card p-name cite-person">Ode, Kim</cite>, <cite class="short-work"><a href="http://www.startribune.com/larry-long-a-troubadour-for-social-justice/256621471/" target="_blank" rel="external noopener">Larry Long: a Troubadour for Social Justice</a>,</cite> (<time datetime="2014-04025">25 April 2014</time>).
+[^2]: <cite class="h-card p-name cite-person">Ode, Kim</cite>, <cite class="short-work">[Larry Long: a Troubadour for Social Justice](https://www.startribune.com/larry-long-a-troubadour-for-social-justice/256621471/){target=_blank rel="external noopener"},</cite> (<time datetime="2014-04025">25 April 2014</time>).
 
 While traveling with the tractorcade, Long conducted taped audio interviews of the farmers and their families. He also documented the procession photographically. Eventually Long edited the material into a slide show, <cite>Tractorcade U.S.A.,</cite> featuring traditional and original music. <cite>Tractorcade U.S.A.</cite> proceeded to travel across the United States, and the <span class="h-card p-org">Library of Congress</span> later added excerpts from the slide show to its collection.
 
@@ -64,9 +64,9 @@ So of course Long would eventually meet Guthrie contemporary <span class="h-card
 
 <a href="#mn:2" id="mnref:2"><span class="sr-only"> [See note]</span></a>Long’s <span class="foreign" lang="la">curriculum vit&aelig; </span> is lengthy and impressive. A self-titled “Road Scholar,” Long organized and performed for Seeger’s 90<sup>th</sup> and 95<sup>th</sup> birthday celebrations. In <time datetime="1993">1993</time> Larry performed in Brazil as a <span class="h-card p-org">United States Consulate</span> cultural ambassador. In <time datetime="2000">2000</time> he traveled to South Africa through a grant from the U.S. State Department to hold a collective writing workshop with students, migrant workers and union stewards. He was inducted into the <span class="h-card p-org">America’s Old Time Music Hall of Fame</span> in <time datetime="2014">2014</time>.
 
-Long organized the first tribute to Woody Guthrie in Okemah in <time datetime="1988">1988</time>, eleven years before Woodyfest’s birth. Long’s song, <cite class="short-work">Okemah Waltz,</cite> is the town’s official song. Long wrote it, collectively with Okemah schoolchildren, in <time datetime="1986">1986</time>. You can hear it, along with other songs from Long’s time in Okemah, on the Flying Fish <abbr>LP</abbr> <cite><a href="https://amzn.to/2Gp3Xdk" target="_blank" rel="external noopener">It Takes a Lot of People (Tribute to Woody Guthrie)</a></cite>.
+Long organized the first tribute to Woody Guthrie in Okemah in <time datetime="1988">1988</time>, eleven years before Woodyfest’s birth. Long’s song, <cite class="short-work">Okemah Waltz,</cite> is the town’s official song. Long wrote it, collectively with Okemah schoolchildren, in <time datetime="1986">1986</time>. You can hear it, along with other songs from Long’s time in Okemah, on the Flying Fish <abbr>LP</abbr> <cite>It Takes a Lot of People (Tribute to Woody Guthrie)</cite>.
 
-There’s much more to Long’s life and career, too much for this article. We encourage you to read his <a href="https://larrylong.org/about/larry-long-epk/">resum&eacute; and career highlights</a> on his website.
+There’s much more to Long’s life and career, too much for this article. We encourage you to read his [resumé and career highlights](https://larrylong.org/about/larry-long-epk/){target=_blank rel="external noopener"} on his website.
 
 ## Long May He Sing
 

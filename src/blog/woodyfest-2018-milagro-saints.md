@@ -39,7 +39,7 @@ Led by veteran English rocker <span class="h-card p-name">Stephen D. Ineson</spa
 
 Five members of the six-piece band played, with <span class="h-card p-name">Steve Bowen</span> on drums, <span class="h-card p-name">Steve Samosky</span> playing bass, <span class="h-card p-name">Roberto Morales</span> bending the strings on lead guitar, Ineson on vocals and guitar, and <span class="h-card p-name">Leon Kirby</span> on keys, harmonica, and melodica. Multi-instamentalist <span class="h-card p-name">Jick wins-Low</span> was absent.
 
-In <time datetime="2013">2013</time> the band honored our patron saint, <span class="h-card p-name"><span class="p-nickname">Woody</span> Guthrie</span>, with the release of their <cite><a href="https://geo.itunes.apple.com/us/album/mighty-road-songs-ep/688061869?mt=1&app=music&at=10ldhk" target="_blank" rel="external noopener">Mighty Road Songs</a></cite> EP, featuring roots-rock covers of six Guthrie songs. The EP climbed into the top 50 on the Americana Music Association charts.
+In <time datetime="2013">2013</time> the band honored our patron saint, <span class="h-card p-name"><span class="p-nickname">Woody</span> Guthrie</span>, with the release of their <cite>[Mighty Road Songs](https://geo.itunes.apple.com/us/album/mighty-road-songs-ep/688061869?mt=1&app=music&at=10ldhk){target=_blank rel="external noopener"}</cite> EP, featuring roots-rock covers of six Guthrie songs. The EP climbed into the top 50 on the Americana Music Association charts.
 
 ## Gallery: Milagro Saints
 

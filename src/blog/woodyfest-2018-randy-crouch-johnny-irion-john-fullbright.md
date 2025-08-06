@@ -35,7 +35,7 @@ After Agafia’s set I stayed to [document the goings-on backstage](/blog/woodyf
 
 [^1]: Although Fullbright attended Okemah High School, he hails from nearby Bearden.
 
-Fullbright was joined by renowned songwriter <span class="h-card p-name">[Willis Alan Ramsey](/blog/woodyfest-2018-willis-alan-ramsey/)</span> at the beginning of his set. Ramsey performed <cite class="short-work">Boy from Oklahoma</cite>[^2] from <a href="https://geo.itunes.apple.com/us/album/willis-alan-ramsey/1209213556?mt=1&app=music&at=10ldhk" target="_blank" rel="external noopener">his eponymous album</a>.
+Fullbright was joined by renowned songwriter <span class="h-card p-name">[Willis Alan Ramsey](/blog/woodyfest-2018-willis-alan-ramsey/)</span> at the beginning of his set. Ramsey performed <cite class="short-work">Boy from Oklahoma</cite>[^2] from [his eponymous album](https://geo.itunes.apple.com/us/album/willis-alan-ramsey/1209213556?mt=1&app=music&at=10ldhk){target=_blank rel="external noopener"}.
 
 [^2]: The song pays tribute to <span class="h-card p-name">Woodrow Wilson <span class="p-nickname">“Woody”</span> Guthrie</span>.
 
@@ -43,7 +43,7 @@ Fullbright was joined by renowned songwriter <span class="h-card p-name">[Willis
 
 <span class="h-card p-name">Randy Crouch</span>, known as the <q>World’s Best Rock &rsquo;n&rsquo; Roll Fiddler,</q>[^3] had an unbroken streak playing Woodyfest until <time datetime="2014-07">2014</time>, when illness prevented him from attending. The Oklahoma Music Awards Red Dirt Hall of Fame inductee lives in Tahlequah, where he holds court over regular jam sessions featuring some of Oklahoma’s best folk, country, and rock musicians and songwriters.
 
-[^3]: <cite class="h-card p-name cite-person">Wright, Leif M.</cite>, <cite class="short-work">Greatness wears a big beard: World’s best rock fiddle player also inspires, (OK Weekend.com <time datetime="2007-07-20">20 July 2007</time>)</cite>. <a href="https://web.archive.org/web/20080403000534/http://okweekend.com/index.cgi?week=07_20_07&cat=home&subCat=topStories&item=1" target="_blank" rel="external noopener">Archived at the Internet Wayback Machine</a>.
+[^3]: <cite class="h-card p-name cite-person">Wright, Leif M.</cite>, <cite class="short-work">Greatness wears a big beard: World’s best rock fiddle player also inspires, (OK Weekend.com <time datetime="2007-07-20">20 July 2007</time>)</cite>. [Archived at the Internet Wayback Machine](https://web.archive.org/web/20080403000534/http://okweekend.com/index.cgi?week=07_20_07&cat=home&subCat=topStories&item=1){target=_blank rel="external noopener"}.
 
 Crouch is a virtuoso multi-instrumentalists. <q>I once saw him play where he’s over a steel guitar and a piano while he’s playing fiddle. In the middle of the song, he wants to tune up the fiddle, so he hits the A note on the piano with his fiddle bow and tunes the string and keeps on playing.</q>[^4]
 
@@ -51,17 +51,17 @@ Crouch is a virtuoso multi-instrumentalists. <q>I once saw him play where he’s
 
 ## Johnny Irion
 
-Sometimes compared to <span class="h-card p-name">Harry Nilsson</span> because of his vocal timbre, folk-rocker <span class="h-card p-name">Johnny Irion</span> made his Woodyfest début in <time datetime="2003=07">2003</time>. He’s been back five time since, often joining forces with <span class="h-card p-name">[Sarah Lee Guthrie](/blog/woodyfest-2018-guthrie-kids-family-band/)</span>, to whom he is also married. His songs evoke both California rock and Guthrie-esqe folk, prompting <span class="h-card p-name">Bernie Sanders</span> to invite Irion to sing at a political rally in <time datetime="2016-05">2016</time>. Irion released his most recent album, <cite><a href="https://amzn.to/2MPEU5u" target="_blank" rel="external noopener">Driving Friend</a></cite>, <time datetime="2018-05">two months before Woodyfest 2018</time>.
+Sometimes compared to <span class="h-card p-name">Harry Nilsson</span> because of his vocal timbre, folk-rocker <span class="h-card p-name">Johnny Irion</span> made his Woodyfest début in <time datetime="2003=07">2003</time>. He’s been back five time since, often joining forces with <span class="h-card p-name">[Sarah Lee Guthrie](/blog/woodyfest-2018-guthrie-kids-family-band/)</span>, to whom he is also married. His songs evoke both California rock and Guthrie-esqe folk, prompting <span class="h-card p-name">Bernie Sanders</span> to invite Irion to sing at a political rally in <time datetime="2016-05">2016</time>. Irion released his most recent album, <cite>Driving Friend</cite>, <time datetime="2018-05">two months before Woodyfest 2018</time>.
 
 ## John Fullbright
 
-<span class="h-card p-name">John Fullbright</span> released his <time datetime="2012">2012</time> album, <cite><a href="https://amzn.to/2SuOxvE" target="_blank" rel="external noopener">From the Ground Up</a></cite>, to critical acclaim&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;garnering praise from <span class="h-card p-org">National Public Radio</span>, <cite class="h-card p-org">American Songwriter</cite>, <cite class="h-card p-org">Rolling Stone</cite>, and <cite class="h-card p-org">The Wall Street Journal</cite>. The album received a <span class="h-card p-org">Grammy</span> nomination for Best Americana Album. The award ultimately went to <span class="h-card p-name">Bonnie Raitt</span> for her album <cite>Slipstream</cite>.
+<span class="h-card p-name">John Fullbright</span> released his <time datetime="2012">2012</time> album, <cite>From the Ground Up</cite>, to critical acclaim&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;garnering praise from <span class="h-card p-org">National Public Radio</span>, <cite class="h-card p-org">American Songwriter</cite>, <cite class="h-card p-org">Rolling Stone</cite>, and <cite class="h-card p-org">The Wall Street Journal</cite>. The album received a <span class="h-card p-org">Grammy</span> nomination for Best Americana Album. The award ultimately went to <span class="h-card p-name">Bonnie Raitt</span> for her album <cite>Slipstream</cite>.
 
 His star keeps rising: in <time datetime="2014-08-28">2014</time> he appeared on the <span class="h-card p-name">Ed Sullivan</span> Stage as musical guest for <span class="h-card p-org">The Late Show with David Letterman</span>. <time datetime="2014">That same year</time> Fullbright released a third critically acclaimed album.
 
 If you were lucky enough to hear the Okemah high-schooler try out his songs around the Woodyfest camp song-circles a dozen-or-so years ago, you probably knew Fullbright was something special. But even he didn’t foresee his rapid ascent. <q>I never came into this with a whole lot of expectations. I just wanted to write really good songs, and with that outlook, everything else is a perk. The fact that we went to L.A. and played <cite class="short-work">Gawd Above</cite> in front of a star-studded audience [&hellip;], never in my life would I have imagined that.</q>[^5]
 
-[^5]: <cite class="short-work">Who Is John Fullbright?<cite> Press kit biography from <a href="https://www.johnfullbrightmusic.com/bio/" target="_blank" rel="external noopener">johnfullbright.com</a>. Author and date unknown.
+[^5]: <cite class="short-work">Who Is John Fullbright?<cite> Press kit biography from [johnfullbright.com](https://www.johnfullbrightmusic.com/bio/){target=_blank rel="external noopener"}. Author and date unknown.
 
 We imagine greater things to come.
 

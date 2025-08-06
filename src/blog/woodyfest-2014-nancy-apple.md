@@ -29,7 +29,7 @@ I met “Princess of Twang” <span class="h-card p-name">Nancy Apple</span> in 
 
 We got to chatting and she remarked, <q>Nice shirt,</q> referring to my <span class="h-card p-org">Ardent Records</span>[^1] logo t-shirt. She went on to tell me that she had designed the Ardent Records logo years earlier when she owned a small graphic design business in Memphis.
 
-[^1]: The Memphis pop label was founded by John Fry in <time datetime="1959">1959</time>. From <time datetime="1972">1972</time> to <time datetime="1975">1975</time> the label's music was distributed by Stax Records. Their most famous act was <a href="https://amzn.to/3xG8zVc" target="_blank" rel="external noopener">Big Star</a>, whose first two albums helped define the genre "power pop."
+[^1]: The Memphis pop label was founded by John Fry in <time datetime="1959">1959</time>. From <time datetime="1972">1972</time> to <time datetime="1975">1975</time> the label's music was distributed by Stax Records. Their most famous act was <span class="h-card p-org">Big Star</span>, whose first two albums helped define the genre "power pop."
 
 Apple played on every stage of the festival during the period from <time datetime="2006">2006</time> to <time datetime="2018">2018</time>. Festival-goers know her for staying up late jamming in the Days Inn motel parking lot and trading songs and stories at the campground song circles. Apple is also known for making friends wherever she goes.
 

@@ -31,17 +31,17 @@ In <time datetime="2013-02">2013</time>, <span class="h-card p-name">Lance Canal
 
 [^1]: The Bracero program (from the Spanish term bracero, meaning "manual laborer" or "one who works using his arms") was a series of labor laws and diplomatic agreements between the United States and Mexico.
 
-Canales first performed <cite class="short-work">Deportee</cite> at the <time datetime="2012">2012</time> <span class="h-card p-org">Steinbeck Festival</span>.[^2] Woody's original laments the anonymity of the Hispanic victims. In his cover, Canales names each of the victims. This contrasts with contemporary newspaper articles, which simply labeled them <q>deportees.</q>[^3] Soon after he began performing the song, he learned that the grave containing these lost souls was in Fresno, California, not far from his current home.
+Canales first performed <cite class="short-work">Deportee</cite> at the <time datetime="2012">2012</time> <span class="h-card p-org">Steinbeck Festival</span>.[^2] Woody’s original laments the anonymity of the Hispanic victims. In his cover, Canales names each of the victims. This contrasts with contemporary newspaper articles, which simply labeled them <q>deportees.</q>[^3] Soon after he began performing the song, he learned that the grave containing these lost souls was in Fresno, California, not far from his current home.
 
-[^2]: <cite class="cite-person">Artist bio, <a href="https://www.reverbnation.com/lancecanalestheflood" target="_blank" rel="external noopener">ReverbNation</a>.</cite>
+[^2]: <cite class="cite-person">Artist bio, [ReverbNation](https://www.reverbnation.com/lancecanalestheflood){target=_blank rel="external noopener"}</a>.</cite>
 
 [^3]: The only named victims in most contemporary reporting were the cabin crew and an immigration official.
 
 ## Say Their Names
 
-By <time datetime="2013-08">August</time> Canales was organizing a fundraising concert with poet <span class="h-card p-name">Tim Z. Hernandez</span>, <span class="h-card p-name">Nora Guthrie</span> (Woody's daughter), and the <span class="h-card p-org">Guthrie Foundation</span>. The concert raised $10,000 for a monument featuring the Los Gatos victims' names. The marker was later placed at the gravesite. The names themselves were discovered through Hernandez's curiosity and dedication.&NoBreak;[^4]
+By <time datetime="2013-08">August</time> Canales was organizing a fundraising concert with poet <span class="h-card p-name">Tim Z. Hernandez</span>, <span class="h-card p-name">Nora Guthrie</span> (Woody’s daughter), and the <span class="h-card p-org">Guthrie Foundation</span>. The concert raised $10,000 for a monument featuring the Los Gatos victims’ names. The marker was later placed at the gravesite. The names themselves were discovered through Hernandez’s curiosity and dedication.&NoBreak;[^4]
 
-[^4]: <cite class="cite-person">Diana Marcum, <cite class="short-work"><a href="//www.latimes.com/local/la-me-deportees-guthrie-20130710-dto-htmlstory.html" target="_blank" rel="noopener">Passengers on Doomed 1948 Flight, Their Names Now Emerge from Shadows</a>,</cite>, <cite>Los Angeles Times</cite> (<time datetime="2013-07-10">10 July 2013</time>).</cite>
+[^4]: <cite class="cite-person">Diana Marcum, <cite class="short-work">[Passengers on Doomed 1948 Flight, Their Names Now Emerge from Shadows](https://www.latimes.com/local/la-me-deportees-guthrie-20130710-dto-htmlstory.html){target=_blank rel="external noopener"}</cite>, <cite>Los Angeles Times</cite> (<time datetime="2013-07-10">10 July 2013</time>).</cite>
 
 In <time datetime="2014-07-10T11:24:00-5:00">2014</time>, Hernandez joined Lance Canales and the Flood to open the annual Woody Guthrie Folk Festival. While the band riffed on an instrumental break from <cite class="quoted">“Deportee,”</cite> Hernandez recited the names of the twenty-eight:
 
@@ -82,9 +82,9 @@ In <time datetime="2014-07-10T11:24:00-5:00">2014</time>, Hernandez joined Lance
 
 My favorite new Woodyfest performer in <time datetime="2014-07">2014</time> was also the festival opener: Lance Canales and the Flood. Canales sings of working life and hardship, subjects he knows all too well: he grew up working-class and <q>for years was forced to take his lumps in order to help his family make ends meet.</q>&NoBreak;[^5]
 
-[^5]: <cite>Artist bio, <a href="://www.reverbnation.com/lancecanalestheflood" target="_blank" rel="external noopener">ReverbNation</a>.</cite>
+[^5]: <cite>Artist bio, [ReverbNation](https://www.reverbnation.com/lancecanalestheflood){target=_blank rel="external noopener"}.</cite>
 
-Impossible to take one's eyes off of, Canales commanded the stage. His gravelly vocals and pounding accompaniment chased away all early-morning fatigue. He's been back twice, in <time datetime="2016">2016</time> and <time datetime="2017">2017</time>. If we are all lucky, he will continue to play Woodyfest for years to come.
+Impossible to take one’s eyes off of, Canales commanded the stage. His gravelly vocals and pounding accompaniment chased away all early-morning fatigue. He’s been back twice, in <time datetime="2016">2016</time> and <time datetime="2017">2017</time>. If we are all lucky, he will continue to play Woodyfest for years to come.
 
 <mpb-dialog-gallery hint rel cols="8">
 
@@ -93,7 +93,7 @@ Impossible to take one's eyes off of, Canales commanded the stage. His gravelly 
   ![Lance Canales & the Flood (II) — 17th Annual Woody Guthrie Folk Festival, 2014](/assets/images/blog/2020-10-09-woodyfest-lance-canales/czahller-20140710-11-01-37.jpg)
   ![Bassist David Quinday — 17th Annual Woody Guthrie Folk Festival, 2014](/assets/images/blog/2020-10-09-woodyfest-lance-canales/czahller-20140710-11-02-22.jpg)
   ![Percussionist Carlos Rodriguez — 17th Annual Woody Guthrie Folk Festival, 2014](/assets/images/blog/2020-10-09-woodyfest-lance-canales/czahller-20140710-11-04-17.jpg)
-  ![Lance Canales Gettin' Down — 17th Annual Woody Guthrie Folk Festival, 2014](/assets/images/blog/2020-10-09-woodyfest-lance-canales/czahller-20140710-11-04-39.jpg)
+  ![Lance Canales Gettin’ Down — 17th Annual Woody Guthrie Folk Festival, 2014](/assets/images/blog/2020-10-09-woodyfest-lance-canales/czahller-20140710-11-04-39.jpg)
   ![Lance Canales & the Flood (III) — 17th Annual Woody Guthrie Folk Festival, 2014](/assets/images/blog/2020-10-09-woodyfest-lance-canales/czahller-20140710-11-11-27.jpg)
   ![Lance Canales & the Flood (IV) — 17th Annual Woody Guthrie Folk Festival, 2014](/assets/images/blog/2020-10-09-woodyfest-lance-canales/czahller-20140710-11-13-23.jpg)
   ![Hat in Hand — 17th Annual Woody Guthrie Folk Festival, 2014](/assets/images/blog/2020-10-09-woodyfest-lance-canales/czahller-20140710-11-21-44.jpg)

@@ -37,11 +37,11 @@ Marking their third appearance at the Woody Guthrie Folk Festival, the <span cla
 
 This year the weather coöperated, and by the time the Troubadours were onstage the audience were enjoying a cooling breeze and a beautiful, starry sky.
 
-Formed by <span class="h-card p-name">Evan Felker</span> and <span class="h-card p-name"><abbr class="noscaps">R.C.</abbr> Edwards</span> in <time datetime="2005">2005</time>, the Troubadours went into the studio a month later and cut <cite><a href="https://amzn.to/2CZD7sG" target="_blank" rel="external noopener">Bossier City</a></cite> because the band <q>needed something to sell at the shows.</q>[^1]
+Formed by <span class="h-card p-name">Evan Felker</span> and <span class="h-card p-name"><abbr class="noscaps">R.C.</abbr> Edwards</span> in <time datetime="2005">2005</time>, the Troubadours went into the studio a month later and cut <cite>Bossier City</cite> because the band <q>needed something to sell at the shows.</q>[^1]
 
 [^1]: <cite><span class="cite-person">Wofford, Jerry</span>, <span class="short-work">Evan Felker of Turnpike Troubadours talks on the band’s success ahead of its Cain’s show,</span> Tulsa World</cite>, (<time datetime="2015-12-26">26 December 2015</time>).
 
-Born of singer and contributing songwriter Felker’s desire to emulate his musician uncle’s footsteps,[^2] the band has since seen their <a href="https://amzn.to/2SbxOKJ" target="_blank" rel="external noopener">eponymous fourth full-length album</a> climb to the number three spot in the Billboard <cite>Top Country Albums</cite> charts.[^3] Pretty good for a band started by a guy who didn’t even get <q>into country music a little [until] later on, into [his] 20s.</q>[^4]
+Born of singer and contributing songwriter Felker’s desire to emulate his musician uncle’s footsteps,[^2] the band has since seen their eponymous fourth full-length album climb to the number three spot in the Billboard <cite>Top Country Albums</cite> charts.[^3] Pretty good for a band started by a guy who didn’t even get <q>into country music a little [until] later on, into [his] 20s.</q>[^4]
 
 [^2]: While in high school, Felker used to watch his uncle play rock ’n’ roll at the legendary <span class="h-card p-org">Cain’s Ballroom</span>.
 

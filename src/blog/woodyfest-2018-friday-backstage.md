@@ -43,7 +43,7 @@ As we did on  <time datetime="2018-07-12T18:16:50-5:00">[Thursday](/blog/woodyfe
 
 [^1]: The lens shade was meant for a 60&NoBreak;&hairsp;&NoBreak;&ndash;&NoBreak;&hairsp;&NoBreak;80mm lens but we mounted it on a 50mm lens.
 
-Here are <time datetime="2018-07-13T18:46:57-5:00">the second night</time>’s pictures. The final image of <span class="h-card p-name">Joel Rafael</span>’s harmonica and set list is a digital image taken with one of my <a href="https://amzn.to/2TnMU0u" target="_blank" rel="external noopener">FujifulmX-T1</a> &ldquo;<abbr title="Electronic Viewfinder Interchangeable Lens">EVIL</abbr>&rdquo;[^2] cameras.
+Here are <time datetime="2018-07-13T18:46:57-5:00">the second night</time>’s pictures. The final image of <span class="h-card p-name">Joel Rafael</span>’s harmonica and set list is a digital image taken with one of my FujifulmX-T1 &ldquo;<abbr title="Electronic Viewfinder Interchangeable Lens">EVIL</abbr>&rdquo;[^2] cameras.
 
 [^2]: Electronic Viewfinder Interchangeable Lens.
 
@@ -61,43 +61,35 @@ Here are <time datetime="2018-07-13T18:46:57-5:00">the second night</time>’s p
 
 ## Technical
 
-<dl>
-  <dt>Camera</dt>
-  <dd>Hasselblad500C/M withA12 back</dd>
-  <dd><a
-      href="https://www.amazon.com/gp/product/B0010CM1HC/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B0010CM1HC&linkCode=as2&tag=mercphotamz08-20&linkId=1d14d843a729d74009410f72c1d3bf41"
-      target="_blank" rel="external noopener">Gepe Pro Release
-      20&Prime; cable</a> with Zeiss Disc-Lock</dd>
-  <dt>Lens</dt>
-  <dd>Carl Zeiss DistagonCFT* 50mm
-    &fnof;/4,0</dd>
-  <dt>Aperture</dt>
-  <dd>&fnof;/8</dd>
-  <dt>Exposure</dt>
-  <dd><sup>1</sup>&frasl;<sub>125</sub><sup>th</sup> second</dd>
-  <dt>ISO</dt>
-  <dd>400</dd>
-  <dt>Film</dt>
-  <dd>Kodak <a href="https://amzn.to/2VrobNA" target="_blank"
-      rel="external noopener">Tri-X 400</a> Professional 120</dd>
-  <dt>Lighting</dt>
-  <dd>Sunpak 622 Pro</dd>
-  <dt>Developer</dt>
-  <dd><a id="CZ12054"
-      href="https://adorama.rfvk.net/c/63213/29622/1036?prodsku=CZ12054&u=https%3A%2F%2Fwww.adorama.com%2FCZ12054.html&intsrc=PUI1_230"
-      target="_blank" rel="noopener">Adox Adonal</a> (Rodinal)
-    1:100</dd>
-  <dd><time datetime="P1H">~60 minutes</time> semi-stand in <a
-      href="https://www.amazon.com/gp/product/B0000BZMIH/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B0000BZMIH&linkCode=as2&tag=mercphotamz08-20&linkId=c84b3b46d9a0594ec0ee78b93b96f78c"
-      target="_blank" rel="external noopener">Paterson Super System
-      4</a> daylight tank</dd>
-  <dt>Scanner</dt>
-  <dd><a
-      href="https://www.amazon.com/gp/product/B00OCEJMG8/ref=as_li_tl?ie=UTF8&tag=mercphotamz08-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B00OCEJMG8&linkId=62b44b123defe5a0a3092689c7e61739"
-      target="_blank" rel="external noopener">Epson Perfection
-     v850</a></dd>
-  <dt>Software</dt>
-  <dd>Vuescan</dd>
-  <dd><a href="https://amzn.to/2PVnqGm" target="_blank"
-      rel="external noopener">Adobe Lightroom 6</a></dd>
-</dl>
+<dt>Camera
+: Hasselblad 500C/M withA12 back
+: Gepe Pro Release 20&Prime; cable</a> with Zeiss Disc-Lock
+
+Lens
+: Carl Zeiss Distagon CFT* 50mm &fnof;/4,0
+
+Aperture
+: &fnof;/8
+
+Exposure
+: <sup>1</sup>&frasl;<sub>125</sub><sup>th</sup> second
+
+ISO
+: 400
+
+Film
+: Kodak Tri-X 400 Professional 120
+
+Lighting
+: Sunpak 622 Pro
+
+Developer
+: Adox [Adonal](https://adorama.rfvk.net/c/63213/29622/1036?prodsku=CZ12054&u=https%3A%2F%2Fwww.adorama.com%2FCZ12054.html&intsrc=PUI1_230){target=_blank rel="external noopener"} (Rodinal) 1:100
+: <time datetime="P1H">~60 minutes</time> semi-stand in a Paterson Super System 4 daylight tank
+
+Scanner
+: Epson Perfection v850
+
+Software
+: Vuescan
+: Adobe Lightroom 6

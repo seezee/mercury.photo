@@ -55,7 +55,7 @@ She’s a daydream lost in the dollar bin/Ain’t seen her out since she had twi
   <footer>&mdash;&NoBreak;&hairsp;&NoBreak;<cite class="cite-person">Dan Martin,</cite> <cite class="short-work">You Don’t Know That Town Like Me</cite></footer>
 </blockquote>
 
-If you want to hear the song, you’ll have to <a href="https://www.reverbnation.com/danmartin4/shows" target="_blank" rel="external noopener">catch Martin at a show</a>&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;it’s not on his debut album, <cite><a href="https://amzn.to/2PQXKK2" target="_blank" rel="external noopener">Hoka Hey</a></cite>,[^2] and the recording I was streaming from <span class="h-card p-name">Nathan Poppe</span>’s <cite><a href="https://soundcloud.com/the-middle-of-nowhere" target="_blank" rel="external noopener">Middle of Nowhere</a></cite> playlist is gone. One YouTube video recorded at Tulsa music venue The Colony exists, but that seems to be it.[^3]
+If you want to hear the song, you’ll have to [catch Martin at a show](https://www.reverbnation.com/danmartin4/shows){target=_blank rel="external noopener"}&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;it’s not on his debut album, <cite>Hoka Hey</cite>,[^2] and the recording I was streaming from <span class="h-card p-name">Nathan Poppe</span>’s <cite>[Middle of Nowhere](https://soundcloud.com/the-middle-of-nowhere){target=_blank rel="external noopener"}</cite> playlist is gone. One YouTube video recorded at Tulsa music venue The Colony exists, but that seems to be it.[^3]
 
 [^2]: The title comes from the Lakota phrase usually translated, <q>It’s a good day to die.</q> Martin thought he was recording a demo, but things went so well during the sessions that he and fellow musicians <span class="h-card p-name">Cody Woody</span>, <span class="h-card p-name">Kevin Smith</span>, and <span class="h-card p-name">Jacob Flint</span> decided the tracks were polished enough to deserve release as they were. Even though <cite class="short-work">You Don’t Know That Town Like Me</cite> isn’t on the album, you should buy it.
 
@@ -65,7 +65,7 @@ Martin was joined on the Lou’s Rocky Road Tavern stage by <span class="h-card 
 
 <mpb-callout type="note" title="Update">
 
-  Since we published this article Martin has released his eponymous second album <cite><a href="https://hortonrecords.bandcamp.com/album/dan-martin" target="_blank" rel="external noopener">Dan Martin</a></cite> on Tulsa’s Horton Records.
+  Since we published this article Martin has released his eponymous second album <cite>[Dan Martin](https://hortonrecords.bandcamp.com/album/dan-martin){target=_blank rel="external noopener"}</cite> on Tulsa’s Horton Records.
 </mpb-callout>
 
 ## Gallery: Dan Martin

@@ -22,11 +22,11 @@ excerpt: This is a series of shots I made to work out the exposure characteristi
 
 {% image "./src/assets/images/blog/2015-12-03-x-ray-test-cranberries/czahller-20151203-14-08-35-crop.jpg", "img-constrained", "Black and white image of cranberries in a white enameled colander", "Detail from Exposure & Developer Test, Cranberries" %}</mpb-dialog-img>
 
-TThis is a series of shots I made to work out the exposure characteristics of Kodak Ektascan B/RA film. Ektascan is an orthochromatic[^1] x-ray film sold in 8&Prime;&times;10&Prime; sheets and larger. I cut it down to 4&Prime;&times;5&Prime; for use in my <a href="https://www.bhphotovideo.com/c/product/63358-REG/Wista_214604_45DX_Rosewood_4x5_Wooden.html/BI/19462/KBID/11656/kw/WI45DXRW/DFF/d10-v2-t1-xWI45DXRW" target="_blank" rel="external noopener">Wista 45DX</a> wooden field camera kitted with a Schneider Symmar-S 5,6/150 lens. I used a yellow-green (X0) filter but made no allowance for a filter factor, bellows draw, or reciprocity.
+TThis is a series of shots I made to work out the exposure characteristics of Kodak Ektascan B/RA film. Ektascan is an orthochromatic[^1] x-ray film sold in 8&Prime;&times;10&Prime; sheets and larger. I cut it down to 4&Prime;&times;5&Prime; for use in my [Wista 45DX](https://www.bhphotovideo.com/c/product/63358-REG/Wista_214604_45DX_Rosewood_4x5_Wooden.html/BI/19462/KBID/11656/kw/WI45DXRW/DFF/d10-v2-t1-xWI45DXRW){target=_blank rel="external noopener"} wooden field camera kitted with a Schneider Symmar-S 5,6/150 lens. I used a yellow-green (X0) filter but made no allowance for a filter factor, bellows draw, or reciprocity.
 
 [^1]: Photographic film sensitive to blue and violet, and, in some cases, green light. Because it is insensitive to red light, it may be developed under a safelight.
 
-The 1<sup>st</sup> image is an unaltered scan[^2] I made on a very old consumer-level flatbed scanner. The 2<sup>nd</sup> image was made by adjusting the curves in Adobe Lightroom 5 for higher contrast. Because the film has a blue polyester base, whites appear as light grey to the scanner, so one of the adjustments involved resetting the white point in the curves. In the U.S., x-ray film may be purchased from <a target="_blank" rel="external noopener" href="https://www.amazon.com/gp/product/B00B5VAJEA/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00B5VAJEA&linkCode=as2&tag=mercphotamz08-20&linkId=401a279112f0e0f36a9a377150e34de5">Amazon</a>, the <a href="https://filmphotographystore.com/collections/4x5-sheet-film/products/4x5-sheet-film-fpp-bw-negative-x-ray-film-25-sheets" target="_blank" rel="external noopener">Film Photography Project</a>, <a href="https://www.zzmedical.com/analog-x-ray-supplies/x-ray-film.html" target="_blank" rel="external noopener">ZZ Medical</a>, or <a href="https://www.cxsonline.com/text/subcatalog.tmpl?command=showpage&sn=378043&category=1001&cart=14492799702636705&location=1001" target="_blank" rel="external noopener">CXS Online</a>.
+The 1<sup>st</sup> image is an unaltered scan[^2] I made on a very old consumer-level flatbed scanner. The 2<sup>nd</sup> image was made by adjusting the curves in Adobe Lightroom 5 for higher contrast. Because the film has a blue polyester base, whites appear as light grey to the scanner, so one of the adjustments involved resetting the white point in the curves. In the U.S., x-ray film may be purchased from the [Film Photography Project](https://filmphotographystore.com/collections/4x5-sheet-film/products/4x5-sheet-film-fpp-bw-negative-x-ray-film-25-sheets){target=_blank rel="external noopener"}, [ZZ Medical](https://www.zzmedical.com/analog-x-ray-supplies/x-ray-film.html){target=_blank rel="external noopener"}, or [CXS Online](https://www.cxsonline.com/text/subcatalog.tmpl?command=showpage&sn=378043&category=1001&cart=14492799702636705&location=1001){target=_blank rel="external noopener"}.
 
 [^2]: Because the scan is of a negative transparency, I inverted the curves to yield a positive image.
 
@@ -63,7 +63,7 @@ I soaked each negative for 5 minutes in plain water, then employed semi-stand de
 
 [^5]: Japanese art brush with a long, flat handle and goat hair bristles.
 
-After 15 minutes total development, I transferred the negative to a plain water stop bath. I fixed for eight minutes with <a target="_blank" rel="external noopener" href="https://www.amazon.com/gp/product/B00009R7CD/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00009R7CD&linkCode=as2&tag=mercphotamz08-20&linkId=cfa10e4e6e504dce3009fa2595d1dacb">Kodak Kodafix</a>, turning on the room light halfway through, then washed in cold running water for five minutes. I used a drop of Form-a-Flo washing agent during the final rinse and then hung the negative to dry.
+After 15 minutes total development, I transferred the negative to a plain water stop bath. I fixed for eight minutes with Kodak Kodafix, turning on the room light halfway through, then washed in cold running water for five minutes. I used a drop of Form-a-Flo washing agent during the final rinse and then hung the negative to dry.
 
 I disposed of the developer after each negative and started with fresh “soup” for each new negative. Because negative #1 was badly underexposed, I repeated the five to top&NoBreak;&hairsp;&NoBreak;&ndash;&NoBreak;&hairsp;&NoBreak;five to bottom agitation at 15 minutes and again at 22&frac12; minutes. I left the negative in the Pyrocat for 37&frac12; minutes more, with no further agitation (total time 60 minutes). This eventually brought out the shadows and revealed the highlights, but at the expense of a very low contrast image. Negative #3 is, mysteriously, darker than negative #2, even though it was exposed for a shorter interval and processed exactly like #3 and #4. It also exhibits uneven development and mottling.
 
@@ -72,23 +72,23 @@ Scratches are visible on all of the negatives, but compared to my first attempt 
 ### Equipment & Chemicals
 
 * 5 – 5&Prime;&times;7&Prime; smooth-bottomed enamelware developer trays,[^6] purchased from eBay
-* <a target="_blank" rel="external noopener" href="https://www.amazon.com/gp/product/B001GD1A2M/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B001GD1A2M&linkCode=as2&tag=mercphotamz08-20&linkId=ESRLN5VDK2MTY27A">3&Prime; hake brush</a>
+* 3&Prime; hake brush
 * Delta 1 brand 7-watt Junior safelight
-* <a target="_blank" rel="external noopener" href="https://www.amazon.com/gp/product/B000HHQ94C/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B000HHQ94C&linkCode=as2&tag=mercphotamz08-20&linkId=32YYVDUEVXXLNOUV">Metal clamp work light</a> with reflector, for safelight
-* <a target="_blank" rel="external noopener" href="https://www.amazon.com/gp/product/B002VLZ2JK/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B002VLZ2JK&linkCode=as2&tag=mercphotamz08-20&linkId=VRA5EU6HQQQSSMWA">GraLab Model 300 darkroom timer</a>
-* <a target="_blank" rel="external noopener" href="https://www.amazon.com/gp/product/B00JG30UNY/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00JG30UNY&linkCode=as2&tag=mercphotamz08-20&linkId=DPO7QK575NRAZZYP">1000ml graduated cylinder</a>, for measuring developer
-* <a target="_blank" rel="external noopener" href="https://www.amazon.com/gp/product/B002RUI8WS/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B002RUI8WS&linkCode=as2&tag=mercphotamz08-20&linkId=U5HWVTBQUXUOWMXA">10cc syringe</a>, for measuring developer
-* <a target="_blank" rel="external noopener" href="https://www.amazon.com/gp/product/B00P2XSWQY/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00P2XSWQY&linkCode=as2&tag=mercphotamz08-20&linkId=XFO3MXGHWP5Q5R7L">1000ml glass lab beaker</a>, for mixing developer
-* <a href="https://www.bhphotovideo.com/c/product/999272-REG/dot_line_dl_6131_dlc_extra_long_stirring.html/BI/19462/KBID/11656/kw/DODLCLSP/DFF/d10-v2-t1-xDODLCLSP" target="_blank" rel="external noopener">Chemical stirring paddle</a>
-* <a target="_blank" rel="external noopener" href="https://www.amazon.com/gp/product/B00CR6JQ64/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00CR6JQ64&linkCode=as2&tag=mercphotamz08-20&linkId=SPO2NVLC7M5DZSRD">Exam gloves</a> (pyro developers are toxic and can be absorbed through the skin)
+* Metal clamp work light with reflector, for safelight
+* GraLab Model 300 darkroom timer
+* 1000ml graduated cylinder, for measuring developer
+* 10cc syringe, for measuring developer
+* 1000ml glass lab beaker, for mixing developer
+* Chemical stirring paddle
+* Exam gloves (pyro developers are toxic and can be absorbed through the skin)
 * Kodak Process Thermometer Type 3 (no longer manufactured, but available on eBay), for calibrating tray thermometer, see next item
-* <a href="https://www.bhphotovideo.com/c/product/63299-REG/Weston_WS4135_Stainless_Steel_Dual_Scale.html/BI/19462/KBID/11656/kw/WET3/DFF/d10-v2-t1-xWET3" target="_blank" rel="external noopener">Weston dual scale darkroom thermometer</a>
+* Weston dual scale darkroom thermometer
 * Photographers’ Formulary Pyrocat-HD in Glycol film developer
-* <a target="_blank" rel="external noopener" href="https://www.amazon.com/gp/product/B00009R7CD/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00009R7CD&linkCode=as2&tag=mercphotamz08-20&linkId=65HSBX7VKTNHW4SG">Kodak Kodafix</a>
-* <a target="_blank" rel="external noopener" href="https://www.amazon.com/gp/product/B00THMKSUY/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00THMKSUY&linkCode=as2&tag=mercphotamz08-20&linkId=IQ4FG6QCJLM5LWFU">16-ounce plastic funnel</a> with built-in fine-mesh strainer, for returning working solutions to storage containers
-* <a target="_blank" rel="external noopener" href="https://www.amazon.com/gp/product/B00THMKSUY/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00THMKSUY&linkCode=as2&tag=mercphotamz08-20&linkId=IQ4FG6QCJLM5LWFU">8-ounce bottle</a>, for storing photo fix working solution
+* Kodak Kodafix
+* 16-ounce plastic funnel with built-in fine-mesh strainer, for returning working solutions to storage containers
+* 8-ounce bottle, for storing photo fix working solution
 * Photographers Formulary Form-a-Flo wetting agent
-* <a href="https://www.bhphotovideo.com/c/product/123163-REG/Delta_58050_Stainless_Steel_Film_Clips.html/BI/19462/KBID/11656/kw/DEFC10/DFF/d10-v2-t1-xDEFC10" target="_blank" rel="external noopener">Stainless steel film clips</a>, for drying negatives (I attached them to <a target="_blank" rel="external noopener" href="https://www.amazon.com/gp/product/B00EDK54VS/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00EDK54VS&linkCode=as2&tag=mercphotamz08-20&linkId=YKUKIGZMSVNRPFUR">these hangers</a> and suspended them from the shower curtain rod&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;did I mention that my darkroom is also my home’s lavatory?)
+* Stainless steel [film clips](https://www.bhphotovideo.com/c/product/123163-REG/Delta_58050_Stainless_Steel_Film_Clips.html/BI/19462/KBID/11656/kw/DEFC10/DFF/d10-v2-t1-xDEFC10){target=_blank rel="external noopener"}, for drying negatives (I attached them to [these hangers](https://www.amazon.com/gp/product/B00EDK54VS){target=_blank rel="external noopener"} and suspended them from the shower curtain rod&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;did I mention that my darkroom is also my home’s lavatory?)
 
 [^6]: One tray each for pre-soak, developer, stop-bath, fix, and rinse.
 

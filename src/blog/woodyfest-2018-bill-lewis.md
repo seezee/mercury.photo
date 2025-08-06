@@ -36,7 +36,7 @@ Kicking off the 21<sup>st</sup> annual Woody Guthrie Folk Festival, <span class=
 
 Lewis learned classical piano in and around church in his hometown of Decatur. Finding the small town life too constraining, he moved away <q>seeking culture and art and other real things.</q>[^1] He’s currently based in San Antonio, Texas, touring the Texas Hill Country. On Sundays you can find him at Hondo’s in Fredericksburg playing piano with <span class="h-card p-org">The Any Given Sunday Band</span>.
 
-[^1]: <cite class="short-work"><a href="//www.luckenbachtexas.com/moon-archive" target="_blank" rel="external noopener">The Real Bill Lewis</a>,</cite> <cite>Luckenbach Moon</cite> (<time datetime="2008-11">November 2008</time>).
+[^1]: <cite class="short-work">[The Real Bill Lewis](https://www.luckenbachtexas.com/moon-archive){target=_blank rel="external noopener"},</cite> <cite>Luckenbach Moon</cite> (<time datetime="2008-11">November 2008</time>).
 
 Lewis is a regular at Oklahoma City’s Blue Door and is the co-writer of a folk opera about addictions ranging from fast food to opioids, <cite>Jack and Jill</cite>, with his collaborator, the late <span class="h-card p-name">Michael Hilton</span>. The pair also wrote a musical, <cite>Code of the West</cite>, depicting the rise, fall, and redemption of a cowboy. Featuring larger-than-life, semi-mythical characters with names like “The Sky Boss,” “The King of the Cowboys,” and “The Queen of the West,” the musical draws inspiration from the <cite>Legend of King Arthur</cite>. At one time, some Broadway producers expressed an interest in staging it. Lewis holds out hope that it may one day see the Great White Way.
 

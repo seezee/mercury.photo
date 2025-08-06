@@ -47,7 +47,7 @@ This train may be filled with sorrow, but it’s gonna be bound for glory some d
 
 Reiley is a member of Dustbowl Brothers.  He co-founded and hosts Tuesday Night Music Club in Cushing with <span class="h-card p-name">Gene Collier</span> at the home of <span class="h-card p-name">D’Jeanne Duncan</span>. The gathering is an opportunity for musicians and songwriters to audition new (or old) material before their peers. <q>We don’t talk politics. We don’t come to do anything other than enjoy each person’s contribution to the whole. It’s a potluck affair. From beginners to old pros anyone is welcome. As Gene and I said from the outset, <q>If it gets to the point where we have to make rules and enforce them, we’ll call it a day and all go home.</q></q> The gathering is in its ninth year.
 
-Reiley has released two albums to date, <cite>Unwashed, Unplugged, Unrehearsed</cite> and <cite><a href="https://amzn.to/2CljuKf" target="_blank" rel="external noopener">Mud and Bone</a></cite>. <time datetime="2018">This year</time> was Reiley’s fourth time to perform at Woodyfest.
+Reiley has released two albums to date, <cite>Unwashed, Unplugged, Unrehearsed</cite> and <cite>Mud and Bone</cite>. <time datetime="2018">This year</time> was Reiley’s fourth time to perform at Woodyfest.
 
 ## Gallery: Rick Reiley
 

@@ -38,7 +38,7 @@ Third place in the  <time datetime="2018">2018</time> <span class="h-card p-org"
 
 The songwriting duo garnered honorable mention in the <time datetime="2017">2017</time> <span class="h-card p-org">Musicians United Against the Pebble Mine</span> Songwriting Contest. <time datetime="2018-04">This year</time> they placed third in the <span class="h-card p-org">American Songwriter</span> lyric contest for their song <cite class="short-work">The Glitter of Gold (Song to Save Bristol Bay).</cite>[^2] The Thatchers live in Signal Mountain, Tennessee; Brown hangs his hat in Varnell, Georgia.
 
-[^2]: <cite>American Songwriter</cite>, <cite class="short-work"><a href="http://americansongwriter.com/2018/01/lyric-contest-winners-march-april-2018/" target="_blank" rel="external noreferrer">Lyric Contest Winners: March/April 2018</cite></a> (<time datetime="2018-01-30">1 January 2018</time>)
+[^2]: <cite>American Songwriter</cite>, <cite class="short-work">[Lyric Contest Winners: March/April 2018](http://americansongwriter.com/2018/01/lyric-contest-winners-march-april-2018/){target=_blank rel="external noopener"}</cite> (<time datetime="2018-01-30">1 January 2018</time>)
 
 The Thatchers are two-thirds of the trio <span class="h-card p-org">The Orchard Band</span>, based in the Chattanooga area, along with guitarist, banjo player, and singer <span class="h-card p-name">Paul M. Hendricks</span>. Alice sings and Robert plays guitar and mandolin and sings.
 

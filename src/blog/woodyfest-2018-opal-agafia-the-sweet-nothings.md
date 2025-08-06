@@ -33,13 +33,13 @@ excerpt: The biggest musical influence in Opal Agafia’s life is her mom. Agafi
 
 The biggest musical influence in <span class="h-card p-name">Opal Agafia</span>’s life is her mom. Agafia characterizes herself as a <q>lifelong serious shower singer,</q>[^1] saying that she grew up singing with her mother, <span class="h-card p-name">DeAnna Smith</span>.[^2] Smith sang with Agafia and her younger brother every day, throughout the day&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;<q>in the car, around the house, and especially at bedtime.</q>[^3]
 
-[^1]: Agafia, quoted in <cite class="h-card p-name cite-person">Kuykendall, Kristal</cite>, <cite class="short-work"><a href="http://www.arkansounds.com/highberry-2017-standouts/" target="_blank" rel="external noopener">Highberry 2017 Standouts: Opal Agafia, Floozies,DSO, Marcus King Band &hellip; and BUBBLES!</a>,</cite> <cite>ArkanSounds.com</cite> (<time datetime="2017-07-08">8 July 2017</time>).
+[^1]: Agafia, quoted in <cite class="h-card p-name cite-person">Kuykendall, Kristal</cite>, <cite class="short-work">[Highberry 2017 Standouts: Opal Agafia, Floozies,DSO, Marcus King Band &hellip; and BUBBLES!](https://www.arkansounds.com/highberry-2017-standouts/){target=_blank rel="external noopener"},</cite> <cite>ArkanSounds.com</cite> (<time datetime="2017-07-08">8 July 2017</time>).
 
 [^2]: <cite class="cite-person">Krystal<cite>, Ibid.</cite>
 
 [^3]: <cite class="cite-person">Krystal<cite>, Ibid.</cite>
 
-Agafia first tried her hand at songwriting when she was eighteen, eventually beginning a songwriting collaboration with Smith while at university. While most of the material on Agafia’s début album, <cite><a href="https://geo.itunes.apple.com/us/album/one-down-forever-to-go/1102972952?mt=1&app=music&at=10ldhk" target="_blank" rel="external noopener">One Down, Forever to Go</a>,</cite> are Agafia originals, a few were co-written with Smith.
+Agafia first tried her hand at songwriting when she was eighteen, eventually beginning a songwriting collaboration with Smith while at university. While most of the material on Agafia’s début album, <cite>[One Down, Forever to Go](https://geo.itunes.apple.com/us/album/one-down-forever-to-go/1102972952?mt=1&app=music&at=10ldhk){target=_blank rel="external noopener"},</cite> are Agafia originals, a few were co-written with Smith.
 
 <figure>
   <stack-l>
@@ -56,7 +56,7 @@ Agafia’s stage presence is vivacious, gutsy, and soulful. The twenty-five-year
 
 Agafia’s backwoods childhood is evident in her slight country twang, but there’s more than a little gospel and soul in her delivery as well. A comfortable looseness in her back and forth with the band reminds this writer of an experienced jazz combo’s ensemble spirit.
 
-For her Woodyfest début, Agafia was accompanied by her band, <span class="h-card p-org">The Sweet Nothings</span>. The band comprises <span class="h-card p-name">Michael Schembre</span> (fiddle &amp; vox), <span class="h-card p-name">Justin Thomas Easter</span> (acoustic guitar &amp; vox), <span class="h-card p-name">David Lucas Gesualdo</span> (upright bass &amp; vox), and <span class="h-card p-name">Ron Landis</span> (resonator slide guitar &amp; vox). Their second album, <cite><a href="https://geo.itunes.apple.com/us/album/share-what-you-own/1441860769?mt=1&app=music&at=10ldhk" target="_blank" rel="external noopener">Share What You Own</a></cite>, was released just prior to their Woodyfest appearance.
+For her Woodyfest début, Agafia was accompanied by her band, <span class="h-card p-org">The Sweet Nothings</span>. The band comprises <span class="h-card p-name">Michael Schembre</span> (fiddle &amp; vox), <span class="h-card p-name">Justin Thomas Easter</span> (acoustic guitar &amp; vox), <span class="h-card p-name">David Lucas Gesualdo</span> (upright bass &amp; vox), and <span class="h-card p-name">Ron Landis</span> (resonator slide guitar &amp; vox). Their second album, <cite>[Share What You Own](https://geo.itunes.apple.com/us/album/share-what-you-own/1441860769?mt=1&app=music&at=10ldhk){target=_blank rel="external noopener"}</cite>, was released just prior to their Woodyfest appearance.
 
 ## Gallery: Opal Agafia & the Sweet Nothings
 

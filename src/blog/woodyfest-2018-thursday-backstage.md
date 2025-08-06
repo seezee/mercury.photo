@@ -38,7 +38,7 @@ When the festival coalition decided to erect a permanent stage, they agreed it w
 
 {% image "./src/assets/images/blog/2018-11-05-woodyfest-backstage-thursday/czahller-20180712-20-56-55.jpg", "img-constrained", "Nellie Marie Clay, Jason Scott, &amp; Ken Pomeroy Rehearsing (II) — 21st Annual Woody Guthrie Festival, 2018", "Nellie Marie Clay, Jason Scott, &amp; Ken Pomeroy Rehearsing (II)&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;21st Annual Woody Guthrie Festival, 2018" %}</mpb-dialog-img>
 
-The move also meant losing the trees that shaded the original backstage area, but Mez and a posse of volunteers planted trees at the pasture <time datetime="2018-10-18">this autumn</time>, according to this <a href="https://www.facebook.com/WoodyFest/posts/2011085638948644" target="_blank" rel="external noopener">Facebook post</a>.
+The move also meant losing the trees that shaded the original backstage area, but Mez and a posse of volunteers planted trees at the pasture <time datetime="2018-10-18">this autumn</time>, according to this [Facebook post](https://www.facebook.com/WoodyFest/posts/2011085638948644){target=_blank rel="external noopener"}.
 
 In any case, the acoustics are much better. The buildings that used to reflect the music with a less-than-ideal backslap effect are now behind the stage. The new acoustics are the best I’ve ever heard at an outdoor festival; even at the pasture’s south end by the portable toilets, the sound is great.
 
@@ -67,28 +67,35 @@ Here are <time datetime="2018-07-12T18:16:50-5:00">the first night</time>’s pi
 
 ## Technical
 
-<dl class="glossary">
-  <dt>Camera</dt>
-  <dd>Hasselblad 500C/M with A12 back</dd>
-  <dd><a href="https://www.amazon.com/gp/product/B0010CM1HC/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B0010CM1HC&linkCode=as2&tag=mercphotamz08-20&linkId=1d14d843a729d74009410f72c1d3bf41" target="_blank" rel="external noopener">Gepe Pro Release 20&Prime; cable</a> with Zeiss Disc-Lock</dd>
-  <dt>Lens</dt>
-  <dd>Carl Zeiss Distagon CF T* 50mm &fnof;/4,0</dd>
-  <dt>Aperture</dt>
-  <dd>&fnof;/8</dd>
-  <dt>Exposure</dt>
-  <dd><sup>1</sup>&frasl;<sub>125</sub><sup>th</sup> second</dd>
-  <dt>ISO</dt>
-  <dd>400</dd>
-  <dt>Film</dt>
-  <dd>Kodak <a href="https://amzn.to/2VrobNA" target="_blank" rel="external noopener">Tri-X 400</a> Professional 120</dd>
-  <dt>Lighting</dt>
-  <dd>Sunpak 622 Pro</dd>
-  <dt>Developer</dt>
-  <dd><a href="https://adorama.rfvk.net/c/63213/29622/1036?prodsku=CZ12054&u=https%3A%2F%2Fwww.adorama.com%2FCZ12054.html&intsrc=PUI1_230" target="_blank" rel="external noopener">Adox Adonal</a> (Rodinal) 1:100</dd>
-  <dd><time datetime="P1H">~60 minutes</time> semi-stand in <a href="https://www.amazon.com/gp/product/B0000BZMIH/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B0000BZMIH&linkCode=as2&tag=mercphotamz08-20&linkId=c84b3b46d9a0594ec0ee78b93b96f78c" target="_blank" rel="external noopener">Paterson Super System 4</a> daylight tank</dd>
-  <dt>Scanner</dt>
-  <dd><a href="https://www.amazon.com/gp/product/B00OCEJMG8/ref=as_li_tl?ie=UTF8&tag=mercphotamz08-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B00OCEJMG8&linkId=62b44b123defe5a0a3092689c7e61739" target="_blank" rel="external noopener">Epson Perfection v850</a></dd>
-  <dt>Software</dt>
-  <dd>Vuescan</dd>
-  <dd><a href="https://amzn.to/2PVnqGm" target="_blank" rel="external noopener">Adobe Lightroom 6</a></dd>
-</dl>
+Camera
+: Hasselblad 500C/M with A12 back
+: Gepe Pro Release 20&Prime; cable with Zeiss Disc-Lock
+
+Lens
+: Carl Zeiss Distagon CF T* 50mm &fnof;/4,0
+
+Aperture
+: &fnof;/8
+
+Exposure
+: <sup>1</sup>&frasl;<sub>125</sub><sup>th</sup> second
+
+ISO
+: 400
+
+Film
+: Kodak Tri-X 400 Professional 120
+
+Lighting
+: Sunpak 622 Pro
+
+Developer
+: Adox [Adonal](https://adorama.rfvk.net/c/63213/29622/1036?prodsku=CZ12054&u=https%3A%2F%2Fwww.adorama.com%2FCZ12054.html&intsrc=PUI1_230){target=_blank rel="external noopener"} (Rodinal) 1:100
+: <time datetime="P1H">~60 minutes</time> semi-stand in a Paterson Super System 4 daylight tank
+
+Scanner
+: Epson Perfection v850
+
+Software
+: Vuescan
+: Adobe Lightroom 6

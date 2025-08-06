@@ -41,7 +41,7 @@ This is the point: Chloe-Beth writes songs that span the deeply personal and the
 
 Her artist bio says she grew up musical, with a love of song instilled in her by her mother at a young age. It shows.
 
-You can check out her upcoming shows on her <a href="https://www.chloebethmusic.com/gigs" target="_blank" rel="external noopener">tour page</a>.
+You can check out her upcoming shows on her [tour page](https://www.chloebethmusic.com/gigs){target=_blank rel="external noopener"}.
 
 ## Gallery: Chloe-Beth
 

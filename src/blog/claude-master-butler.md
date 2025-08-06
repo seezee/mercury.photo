@@ -58,7 +58,7 @@ Key Light
 : Paul C. Buff (PCB) Einstein E640 -5.2ƒ
 : PCB 22&Prime; silver beauty dish
 : PCB 30&deg; grid
-: [Matthews C-stand](https://www.bhphotovideo.com/c/product/112099-REG/Matthews_756140_Century_C_Turtle_Base.html/BI/19462/KBID/11656/kw/MALSCP40K/DFF/d10-v2-t1-xMALSCP40K){target="_blank" rel="external noopener"} with turtle base & grip arm
+: Matthews [C-stand](https://www.bhphotovideo.com/c/product/112099-REG/Matthews_756140_Century_C_Turtle_Base.html/BI/19462/KBID/11656/kw/MALSCP40K/DFF/d10-v2-t1-xMALSCP40K){target="_blank" rel="external noopener"} with turtle base & grip arm
 
 Fill
 : Impact 42&Prime; 5-in-1 collapsible circular [reflector](https://www.bhphotovideo.com/c/product/358608-REG/Impact_R1142_5_in_1_Reflector_Disc.html/BI/19462/KBID/11656/kw/IMR5142/DFF/d10-v2-t1-xIMR5142){target="_blank" rel="external noopener"} (silver side)

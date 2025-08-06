@@ -34,14 +34,14 @@ excerpt: Your humble author first met musician Kalyn Fay in early 2016 when jour
 
 <div class="drop-cap">
 
-Your humble author first met musician <span class="h-card p-name">Kalyn Fay</span> in <time datetime="2016-01-30T13:00:00-6:00">early 2016</time> when journalist <span class="h-card p-name"><a href="https://www.nathanpoppe.com/" target="_blank" rel="external noopener">Nathan Poppe</a></span> brought her to the Bureau’s studio. She had come to sit as one of the earliest subjects for <a href="/okie-x/">OKIE-X: Portraits of Oklahoma Musicians on X-Ray Film</a>, an ongoing Bureau project. I had not heard her music at the time; my recollection is that <span class="h-card p-name">John Calvin Abney</span> suggested I invite her to sit.
+Your humble author first met musician <span class="h-card p-name">Kalyn Fay</span> in <time datetime="2016-01-30T13:00:00-6:00">early 2016</time> when journalist <span class="h-card p-name">[Nathan Poppe](https://www.nathanpoppe.com/){target=_blank rel="external noopener"}</a></span> brought her to the Bureau’s studio. She had come to sit as one of the earliest subjects for [OKIE-X](/okie-x/): Portraits of Oklahoma Musicians on X-Ray Film, an ongoing Bureau project. I had not heard her music at the time; my recollection is that <span class="h-card p-name">John Calvin Abney</span> suggested I invite her to sit.
 </div>
 
 The next time I saw Fay was during one of Woodyfest’s infamously rained-out opening days. The <time datetime="2016-07-14">2016</time> “Muddyfest” saw a toad-strangler of a <time datetime="2016-07-14">Thursday</time>, forcing the closure of the outdoor Community Improvement Association (CIA) stage and the main stage at the Pastures of Plenty. Fay was scheduled to be the third performer at the CIA stage, but the rain started <time datetime="2016-07-14T12:00:00-5:00">about an hour before she her set</time>. So the powers-that-be moved her to the upstairs dining area of the Brick Street Café&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;the basement stage was already in use as a festival venue, as it has been most years.[^1]
 
 [^1]: The Brick was closed during the <time datetime="2015-07">2015</time> Woody Guthrie Folk Festival.
 
-Fay did her best despite being more than a little damp. Abney accompanied her on guitar and occasionally provided vocal harmonies. Despite everyone being out-of-sorts from the weather, festival-goers received her warmly, patiently waiting for the many re-tunings required by the humidity. I found myself battling with condensation in all of my camera lenses, <a href="https://youtu.be/P46npBggYqo?t=741" target="_blank" rel="external noopener">even though they and the camera bodies are weather-sealed</a>.
+Fay did her best despite being more than a little damp. Abney accompanied her on guitar and occasionally provided vocal harmonies. Despite everyone being out-of-sorts from the weather, festival-goers received her warmly, patiently waiting for the many re-tunings required by the humidity. I found myself battling with condensation in all of my camera lenses, even though they and the camera bodies are [weather-sealed](https://youtu.be/P46npBggYqo?t=741){target=_blank rel="external noopener"}.
 
 <figure>
   <stack-l>
@@ -67,7 +67,7 @@ In <cite class="short-work">Black and Blue,</cite> Fay turns the metaphor litera
 
 In the same vein, she contrasts staying or going, homesickness and insularity, nostalgia and suffocation in <cite class="short-work">Oklahoma</cite>: <q>Oh, my Oklahoma/I think I’ve known you too long/Now, even the wind blows/And it sings to me its songs</q>. In the chorus, Fay spells out the dilemma of an intellect at war with emotions and spirituality: <q>Oh-oh-oh-oh/The head, it knows/But the heart, it don’t/And it’s killin’ me.</q>
 
-Fay finally did make the move from Oklahoma&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;she is currently at the University of Arkansas working on her second MFA in printmaking. Her sophomore album, <cite>Good Company</cite>, drops on Tulsa’s <span class="h-card p-org"><a href="https://www.hortonrecords.org/" target="_blank" rel="external noopener">Horton Records</a></span> on <time datetime="2019-02-15">15 February 2019</time>.
+Fay finally did make the move from Oklahoma&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;she is currently at the University of Arkansas working on her second MFA in printmaking. Her sophomore album, <cite>Good Company</cite>, drops on Tulsa’s <span class="h-card p-org">[Horton Records](https://www.hortonrecords.org/){target=_blank rel="external noopener"}</span> on <time datetime="2019-02-15">15 February 2019</time>.
 
 ## Gallery: Kalyn Fay
 

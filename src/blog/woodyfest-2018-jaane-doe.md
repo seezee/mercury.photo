@@ -41,7 +41,7 @@ Born in the Bronx under the name <span class="h-card p-name">Elizabeth Gowan Ber
   </stack-l>
 </figure>
 
-The <time datetime="1970">1970s</time> saw her working professionally as a folk musician, eventually based in Los Angeles, where she played such legendary venues as the Whiskey-a-Go-Go and the Coach House. By <time datetime="1988">1988</time> she was signed to Rhino Records on their Rampage sub-label, this time as the leader of metal band <span class="h-card p-org">Crisis</span>. The band achieved recognition when L.A. heavy-metal radio station KNAC held a “pure rock”[^1] contest, open to local, unsigned bands. Crisis entered their song <cite class="short-work">Call of the Wild,</cite> which earned them a spot on the <cite><a href="https://amzn.to/2Coi2qD" target="_blank" rel="external no opener">Son of Pure Rock</a></cite> compilation and garnered them standing as one the of city’s top ten metal bands.
+The <time datetime="1970">1970s</time> saw her working professionally as a folk musician, eventually based in Los Angeles, where she played such legendary venues as the Whiskey-a-Go-Go and the Coach House. By <time datetime="1988">1988</time> she was signed to Rhino Records on their Rampage sub-label, this time as the leader of metal band <span class="h-card p-org">Crisis</span>. The band achieved recognition when L.A. heavy-metal radio station KNAC held a “pure rock”[^1] contest, open to local, unsigned bands. Crisis entered their song <cite class="short-work">Call of the Wild,</cite> which earned them a spot on the <cite>Son of Pure Rock</cite> compilation and garnered them standing as one the of city’s top ten metal bands.
 
 [^1]: Based in Long Beach, KNAC was on the air from <time datetime="1986-01-08">1986</time> to <time datetime="1995-02-15">1995</time>. Their slogan was “Pure Rock.”
 
@@ -54,7 +54,7 @@ Following her stint as a metal singer, Doe formed Old Dogs New Tricks Production
   </stack-l>
 </figure>
 
-Her career went on hiatus when she found herself a widow raising three children. As her children reached an age of sufficient independence, Doe returned to performing, releasing her solo debut <a href="https://amzn.to/2CkW5bU" target="_blank" rel="external noopener"><cite>Burns Like Fire</cite></a> in 2007. More recently she has performed a series of shows with <span class="h-card p-name">Annie Guthrie</span>. <time datetime="2018-07-12T12:30:00-5:00">This year</time> marked Doe’s first Woodyfest appearance.
+Her career went on hiatus when she found herself a widow raising three children. As her children reached an age of sufficient independence, Doe returned to performing, releasing her solo debut <cite>Burns Like Fire</cite> in 2007. More recently she has performed a series of shows with <span class="h-card p-name">Annie Guthrie</span>. <time datetime="2018-07-12T12:30:00-5:00">This year</time> marked Doe’s first Woodyfest appearance.
 
 ## Gallery: Jaane Doe
 

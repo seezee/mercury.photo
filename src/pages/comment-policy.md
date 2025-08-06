@@ -29,7 +29,7 @@ Give us useful, constructive criticism. Spot a typo or an error? Let us know and
 
 Although we can’t be everywhere at once, here are some of the kinds of comments we’re going to do our best to curtail:
 
-* Promoting your own brand, product, or blog. So you’re concerned that human-caused climate change may roast us like that turkey you've been drooling over since you sat down at the table. Great. Send it through our [contact form](/contact/), you <a href="https://en.wikipedia.org/wiki/Syukuro_Manabe" rel="external noopener" target="_blank">Syukuro Manabe</a>, you.
+* Promoting your own brand, product, or blog. So you’re concerned that human-caused climate change may roast us like that turkey you've been drooling over since you sat down at the table. Great. Send it through our [contact form](/contact/), you [Syukuro Manabe](https://en.wikipedia.org/wiki/Syukuro_Manabe){target=_blank rel="external noopener"}, you.
 * Impersonating authors or other commenters. We can’t believe we have to say this, but: Don’t do that. It’s weird.
 * Comments that make it clear you didn’t read the article. Enraged that we didn’t mention X in a story about Y? Slow down, Speedy McFingerson. If you’d made it past paragraph two, you’d see a very well thought-out discussion of that X you hold so dear.
 * Comments that are completely out of left field. Sometimes discussions veer off a bit, but are still related to the original subject. That is fine. Hijacking the conversation to promote off-topic commentary is not.
@@ -37,7 +37,7 @@ Although we can’t be everywhere at once, here are some of the kinds of comment
 * Racism, sexism, homophobia, you get the drift. Call us the PC Police, fine, but don’t say we didn’t warn you when you get tased.&NoBreak;[^2]
 * Trolling. If you’re an Henri Cartier Bresson–hater just out for a good trolling and are not contributing meaningfully to the conversation, we’ll be pushing you back under the bridge.
 
-Acknowledgement and thanks to <a href="https://grist.org/" rel="external noopener" target="_blank">the Grist</a>, from whom we stole nearly all of this comment policy.
+Acknowledgement and thanks to [the Grist](https://grist.org/){target=_blank rel="external noopener"}, from whom we stole nearly all of this comment policy.
 
 [^1]: Well, maybe you would. See our N0. 1 house rule.
 

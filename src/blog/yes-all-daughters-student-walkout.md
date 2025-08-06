@@ -24,7 +24,7 @@ excerpt: An online campaign to bring attention to the alleged rape of three fema
 
 This article has been updated to clarify the rôles of Danielle Brown, Kim Wright, and Stacey Wright within the campaign.
 
-Since this article’s publication, Norman School District superintendent <span class="h-card p-name"><span class="p-honorific-prefix">Dr.</span> Joe Siano</span> <a href="https://www.normantranscript.com/opinion/norman-seeks-to-be-national-model-in-sexual-assault-curriculum/article_851c3624-7580-11e4-95bd-2baab2d12f1c.html" target="_blank" rel="external noopener">has agreed</a> to many of the students’ demands.
+Since this article’s publication, Norman School District superintendent <span class="h-card p-name"><span class="p-honorific-prefix">Dr.</span> Joe Siano</span> [has agreed](https://www.normantranscript.com/opinion/norman-seeks-to-be-national-model-in-sexual-assault-curriculum/article_851c3624-7580-11e4-95bd-2baab2d12f1c.html){target=_blank rel="external noopener"} to many of the students’ demands.
 </mpb-callout>
 
 <div class="no-drop-cap">
@@ -32,10 +32,10 @@ Since this article’s publication, Norman School District superintendent <span 
 [NORMAN, Okla., 24 Nov. 2014]⁠&NoBreak;&hairsp;&NoBreak;—
 </div><div class="drop-cap">
 
-An <a href="https://web.archive.org/web/20151127000525/https://www.facebook.com/yesalldaughters" target="_blank" rel="external noopener">online campaign</a> to bring attention to Norman High School and local law enforcement’s response to the alleged rape of three female Norman High School students, all by the same male student, culminated in a mass student walkout and rally in front of the school <time datetime="2014-11-24">today</time>. The campaign and demonstration were originally organized by a coalition of students, their parents, and citizens.
+An [online campaign](https://web.archive.org/web/20151127000525/https://www.facebook.com/yesalldaughters){target=_blank rel="external noopener"} to bring attention to Norman High School and local law enforcement’s response to the alleged rape of three female Norman High School students, all by the same male student, culminated in a mass student walkout and rally in front of the school <time datetime="2014-11-24">today</time>. The campaign and demonstration were originally organized by a coalition of students, their parents, and citizens.
 </div>
 
-According to a story published <time datetime="2014-11-21">21 November</time> in the <a href="https://www.normantranscript.com/news/campaign-suggests-walk-out-at-norman-high-on-heels-of/article_f8405c1e-7118-11e4-8ead-8f08f0aa1d49.html" target="_blank" rel="external noopener">Norman Transcript</a>, the protest is in response to the perceived failure of the school administration to provide adequate protection from bullying of the alleged victims. The article goes on to identify student <span class="h-card p-name">Danielle Brown</span>; her mother, <span class="h-card p-name">Kim Wright</span>; and her aunt, <span class="h-card p-name">Stacey Wright</span> as spokespersons for the group.
+According to a story published <time datetime="2014-11-21">21 November</time> in the [Norman Transcript](https://www.normantranscript.com/news/campaign-suggests-walk-out-at-norman-high-on-heels-of/article_f8405c1e-7118-11e4-8ead-8f08f0aa1d49.html){target=_blank rel="external noopener"}, the protest is in response to the perceived failure of the school administration to provide adequate protection from bullying of the alleged victims. The article goes on to identify student <span class="h-card p-name">Danielle Brown</span>; her mother, <span class="h-card p-name">Kim Wright</span>; and her aunt, <span class="h-card p-name">Stacey Wright</span> as spokespersons for the group.
 
 School principal <span class="h-card p-name">Scott Beck</span> responded to the charges in a letter released to parents on <time datetime="2014-11-24-18">Tuesday</time>. In the letter, Beck said the school took <q>the strongest disciplinary action against against the alleged assailant permitted by Oklahoma law.</q> The school is coöperating with local law enforcement in investigating the alleged crimes.
 
