@@ -173,9 +173,9 @@ initial-value: 0.1;
     22px 44.1px 55.4px -2.1px hsl(var(--mpb-shadow-color) / 0.44),
     32.5px 65px 81.8px -2.5px hsl(var(--mpb-shadow-color) / 0.44);
 
-  --normal: 500;
-  --bold: 700;
-  --xbold: 900;
+  --normal: 400;
+  --bold: 600;
+  --xbold: 800;
 
   &[data-theme='dark'] {
     --mpb-c-p-50:  10% 0 0;
@@ -257,9 +257,9 @@ initial-value: 0.1;
   --mpb-masonry-width: min(13rem, 100%);
   --mpb-masonry-gap: var(--s-2);
 
-  --normal: 400;
-  --bold: 600;
-  --xbold: 800;
+  --normal: 300;
+  --bold: 500;
+  --xbold: 700;
 
   /* How far of a scroll travel within <main> prior to the link appearing */
   --scrollLength: 100vh;
