@@ -163,7 +163,7 @@ For each person:
 : Unsalted butter
 
 1. Melt butter in a well-seasoned cast-iron or non-stick pan over low heat.
-2. Combine all ingredients except butter in a bowl. Using a heat-proof silicone spatula, gently break the yolks and fold them in. *Do not overmix.*
+2. Combine all ingredients except butter in a bowl. Using a heat-proof silicone spatula, gently break the yolks and fold them in. *Do not over-mix.*
 3. Pour the eggs into the middle of the pan. As the eggs begin to set, use the spatula to move the eggs from the pan edge to the center, occasionally turning the mixture over. Do not allow eggs to stick or dry out; keep them moving. The mixture should form large, soft curds. Remove the pan from the heat as needed to regulate the temperature.
 4. When the eggs are barely set&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;they should be shiny and slightly runny&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;transfer them to a warm plate. Taste for seasoning, adjusting if needed, and keep in a warm oven until ready to serve.
 5. Serve with morels (sliced cross-wise and saut&eacute;ed in butter) and toast points.
@@ -202,25 +202,26 @@ Software
 : Vuescan
 : Adobe Lightroom 6
 
-<footer aria-label="notes">
+<footer aria-labelledby="#label-margin-notes">
+  <span class="sr-only" id="label-margin-notes">Notes</span>
   <ul class="app-marginnotes-list" role="list">
     <li id="mn:1" role="listitem">
-      <span class="foreign" lang="la">Morchella esculenta</span>, or yellow morels, are widely distributed, but especially common in eastern North America and the Midwest. They are the most common morel species found in Oklahoma. Despite the popular name, they can be pale brownish cream, yellow to tan or pale brown to grayish brown.&nbsp;<a href="#mnref:1" class="govuk-link" aria-label="Back to content">↩︎</a>
+      <span class="foreign" lang="la">Morchella esculenta</span>, or yellow morels, are widely distributed, but especially common in eastern North America and the Midwest. They are the most common morel species found in Oklahoma. Despite the popular name, they can be pale brownish cream, yellow to tan or pale brown to grayish brown.&nbsp;<a href="#mnref:1" class="govuk-link" a><span class="sr-only">Back to content&nbsp;</span>↩︎</a>
     </li>
     <li id="mn:2" role="listitem">
 
-When choosing food to accompany morels, avoid strongly flavored ingredients. The delicate taste and aroma of the mushrooms is easily overwhelmed. Strong cheeses, raw or undercooked garlic, and highly aromatic spices are all no-nos. The simpler the better.&nbsp;<a href="#mnref:2" class="govuk-link" aria-label="Back to content">↩︎</a>
+When choosing food to accompany morels, avoid strongly flavored ingredients. The delicate taste and aroma of the mushrooms is easily overwhelmed. Strong cheeses, raw or undercooked garlic, and highly aromatic spices are all no-nos. The simpler the better.&nbsp;<a href="#mnref:2" class="govuk-link" a><span class="sr-only">Back to content&nbsp;</span>↩︎</a>
     </li>
     <li id="mn:3" role="listitem">
 
-The same conditions that produce bountiful morels also favor ticks. When foraging in the Oklahoma woods wear high boots, long pants, and a long-sleeved top. Apply insect repellent generously. The most effective tick-preventatives are DEET applied direct-to-skin and permethrin applied to clothing.&nbsp;<a href="#mnref:3" class="govuk-link" aria-label="Back to content">↩︎</a>
+The same conditions that produce bountiful morels also favor ticks. When foraging in the Oklahoma woods wear high boots, long pants, and a long-sleeved top. Apply insect repellent generously. The most effective tick-preventatives are DEET applied direct-to-skin and permethrin applied to clothing.&nbsp;<a href="#mnref:3" class="govuk-link" a><span class="sr-only">Back to content&nbsp;</span>↩︎</a>
     </li>
     <li id="mn:4" role="listitem">
 
-For foraging mushrooms, I recommend a sharp carbon-steel knife and a mushroom brush. Some purpose-made mushroom knives have an integrated brush. The [Opinel <span class="ord">No.</span> 8](https://www.opinel-usa.com/collections/opinel-carbon-blades/products/opinel-no-8-carbon-steel-folding-knife){target=_blank rel="external noopener"} and the [Opinel mushroom](https://www.opinel-usa.com/products/opinel-mushroom-knife-no8){target=_blank rel="external noopener"} knives are classics.&nbsp;<a href="#mnref:4" class="govuk-link" aria-label="Back to content">↩︎</a>
+For foraging mushrooms, I recommend a sharp carbon-steel knife and a mushroom brush. Some purpose-made mushroom knives have an integrated brush. The [Opinel <span class="ord">No.</span> 8](https://www.opinel-usa.com/collections/opinel-carbon-blades/products/opinel-no-8-carbon-steel-folding-knife){target=_blank rel="external noopener"} and the [Opinel mushroom](https://www.opinel-usa.com/products/opinel-mushroom-knife-no8){target=_blank rel="external noopener"} knives are classics.&nbsp;<a href="#mnref:4" class="govuk-link" a><span class="sr-only">Back to content&nbsp;</span>↩︎</a>
     </li>
     <li id="mn:5" role="listitem">
 
-{% image "./src/assets/images/blog/2019-04-19-mushroom-hunt/czahller-20190419-14-09-05.jpg", "img-constrained", "Empty pint bottle with custom RT n’ the 44s label. The bottle formerly contained home-distilled hooch.", "Moonshine — RT n’ the 44s&nbsp;<a href=\"#mnref:5\" class=\"govuk-link\" aria-label=\"Back to content\">↩︎</a>" %}
+{% image "./src/assets/images/blog/2019-04-19-mushroom-hunt/czahller-20190419-14-09-05.jpg", "img-constrained", "Empty pint bottle with custom RT n’ the 44s label. The bottle formerly contained home-distilled hooch.", "Moonshine — RT n’ the 44s&nbsp;<a href=\"#mnref:5\" class=\"govuk-link\"><span class=\"sr-only\">Back to content&nbsp;</span>↩︎</a>" %}
     </li>  </ul>
 </footer>

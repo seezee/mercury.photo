@@ -3,7 +3,8 @@
 {% set nextPost = collections.blog | sortByPubDate | getNextCollectionItem %}
 
 {% if previousPost or nextPost %}
-  <nav id="pagination" aria-label="pagination">
+  <nav id="pagination" aria-labelledby="#pagination-label">
+  <span class="sr-only" id="pagination-label">Pagination</span>
     <cluster-l justify="space-between">
       {% if previousPost %}
         <a href="{{ previousPost.url | safe }}" id="page-previous" rel="prev">← Previous</a>

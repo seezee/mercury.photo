@@ -36,7 +36,8 @@ The Kentucky native has toured with <span class="h-card p-name">John Mellencamp<
 
 [<span class="h-card p-name"><span class="p-nickname">Woody</span> Guthrie</span> and <span class="h-card p-name">Dylan</span>] embraced wielding big truths as calls to action. Vaughan worries the white noise and tv news/social media cycle-created Tower of Babel makes it harder for these truths to cut through. But he’s undeterred.
 
-<footer aria-label="Citation">
+<footer aria-labelledby="#label-citation-1">
+<span class="sr-only" id="label-citation-1">Citation</span>
 
 &mdash;&NoBreak;&hairsp;&NoBreak;<cite class="cite-person">[Holly Gleason](https://americansongwriter.com/stoll-vaughan-songwriting-shines-on-so-righteous/){target=_blank rel="external noopener"}, <cite class="short-work">Stoll Vaughan Is Not Afraid of Writing Big Truths, Proves It on <cite>So Righteous</cite></cite></cite></footer></blockquote>
 

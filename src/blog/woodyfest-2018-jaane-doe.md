@@ -71,7 +71,8 @@ Her career went on hiatus when she found herself a widow raising three children.
   ![Jaane Doe (V) — 21st Annual Woody Guthrie Festival, 2018](/assets/images/blog/2018-10-19-woodyfest-jaane-doe/czahller-20180712-12-29-10.jpg)
 </mpb-dialog-gallery>
 
-<footer aria-label="notes">
+<footer aria-labelledby="#label-margin-notes">
+  <span class="sr-only" id="label-margin-notes">Notes</span>
   <ul class="app-marginnotes-list" role="list">
     <li id="mn:1" role="listitem">
 

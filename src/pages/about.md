@@ -22,14 +22,16 @@ My name is <span class="h-card"><span class="p-given-name">[Chris J. Zähller](h
 
 After that, I inherited a couple of [my brother’s](https://www.facebook.com/musicsantacruz){target=_blank rel="external noopener"} cast-off digital point &amp; shoots. They were okay, but nothing about them made me want to spend my vacation with a camera in front of my face when I could just be enjoying the sights unencumbered. Then something happened … to find out what, [read my 1<sup>st</sup> essay](/blog/how-i-learned-to-stop-worrying-and-love-the-circle-of-confusion-pt-1/).
 
-<footer aria-label="notes">
+<footer aria-labelledby="#label-margin-notes">
+  <span class="sr-only" id="label-margin-notes">Notes</span>
   <ul class="app-marginnotes-list" role="list">
     <li id="mn:1" role="listitem">
 
 {% image "./src/assets/images/site/about/avatar-2016-short-hair-pencil-moustache.png", "img-constrained", "Avatar depicting the author. He is wearing a stingy-brim hat set at a rakish angle. His pencil-thin moustache sets the ladies a-swooning.", "Your Humble Author: Publisher, correspondent, author, photographer, and <span class='tooltip' title='A junior officer of the British Royal Navy; someone who does drudge work.'>dogsbody</span>." %}</li></ul>
 </footer>
 
-<footer aria-label="About this site">
+<footer aria-labelledby="#label-about-site">
+  <span class="sr-only" id="label-about-site">About this site</span>
   <stack-l>
 
 ___

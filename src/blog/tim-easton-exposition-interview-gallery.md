@@ -174,13 +174,14 @@ Before I interviewed Easton I took some pictures of him tracking songs for the a
   ![Tim Easton on X-Ray Film — Exposition Sessions](/assets/images/blog/2018-12-19-tim-easton-exposition/czahller-20181207-14-50-37.jpg)
 </mpb-dialog-gallery>
 
-<footer aria-label="notes">
+<footer aria-labelledby="#label-margin-notes">
+  <span class="sr-only" id="label-margin-notes">Notes</span>
   <ul class="app-marginnotes-list" role="list">
     <li id="mn:1" role="listitem"><stack-l><mpb-dialog-img>
 
 {% image "./src/assets/images/blog/2018-12-19-tim-easton-exposition/tim-easton-exposition-lp-jacket-front.png", "img-constrained", "Tim Easton — Exposition Album Front Jacket", "Tim Easton&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;Exposition Album Front Jacket" %}</mpb-dialog-img>
 
-After the bureau published this article, Easton licensed several of the images from the shoot for the <cite>Exposition</cite> LP and CD, which he commissioned me to design. I also designed a promotional poster. [You can see the final designs here](https://messengerwebdesign.com/portfolio/tim-easton-exposition-album-design-package/){target=_blank rel="external me noopener"}.&nbsp;<a href="#mnref:1" class="govuk-link" aria-label="Back to content">↩︎</a>
+After the bureau published this article, Easton licensed several of the images from the shoot for the <cite>Exposition</cite> LP and CD, which he commissioned me to design. I also designed a promotional poster. [You can see the final designs here](https://messengerwebdesign.com/portfolio/tim-easton-exposition-album-design-package/){target=_blank rel="external me noopener"}.&nbsp;<a href="#mnref:1" class="govuk-link" a><span class="sr-only">Back to content </span>↩︎</a>
 
   </stack-l></li>
   </ul>

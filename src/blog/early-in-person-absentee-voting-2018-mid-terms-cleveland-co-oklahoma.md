@@ -67,7 +67,8 @@ Voters will also decide whether to retain sitting judges.<a href="#mn:1" id="mnr
   ![Cleveland County Election Board Sign & Seal](/assets/images/blog/2018-11-01-mid-term-voting/czahller-20181101-11-52-29.jpg)
 </mpb-dialog-gallery>
 
-<footer aria-label="notes">
+<footer aria-labelledby="#label-margin-notes">
+  <span class="sr-only" id="label-margin-notes">Notes</span>
   <ul class="app-marginnotes-list" role="list">
     <li id="mn:1" role="listitem">
 

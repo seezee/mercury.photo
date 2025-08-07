@@ -20,11 +20,12 @@ All rights to the photographic image are reserved. You may not copy, <a href="#m
 Mercury Photo Bureau vigorously protects its intellectual property rights. Violators can expect to bear the full legal and financial consequences of any such breach.
 
 Remember: it’s not nice to steal!
-<footer aria-label="notes">
+<footer aria-labelledby="#label-margin-notes">
+  <span class="sr-only" id="label-margin-notes">Notes</span>
   <ul class="app-marginnotes-list" role="list">
     <li id="mn:1" role="listitem">
 
-Your computer or other connected devices automatically cache a copy of any image you view on the internet; of course, we make an exception for that.&nbsp;<a href="#mnref:1" class="govuk-link" aria-label="Back to content">↩︎</a>
+Your computer or other connected devices automatically cache a copy of any image you view on the internet; of course, we make an exception for that.&nbsp;<a href="#mnref:1" class="govuk-link" a><span class="sr-only">Back to content&nbsp;</span>↩︎</a>
     </li>
   </ul>
 </footer>

@@ -224,13 +224,14 @@ Scanner
 Software
 : Adobe Lightroom 6
 
-<footer aria-label="notes">
+<footer aria-labelledby="#label-margin-notes">
+  <span class="sr-only" id="label-margin-notes">Notes</span>
   <ul class="app-marginnotes-list" role="list">
     <li id="mn:1" role="listitem">
 
 <mpb-dialog-img>
 
-{% image "./src/assets/images/blog/2019-04-03-dollyrots/czahller-20190322-23-39-19.jpg", "img-constrained", "Dollyrots Set List — Dollyrots at the 89th St Collective", "Dollyrots Set List&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;Dollyrots at the 89th St Collective&nbsp;<a href=\"#mnref:1\" class=\"govuk-link\" aria-label=\"Back to content\">↩︎</a>" %}</mpb-dialog-img>
+{% image "./src/assets/images/blog/2019-04-03-dollyrots/czahller-20190322-23-39-19.jpg", "img-constrained", "Dollyrots Set List — Dollyrots at the 89th St Collective", "Dollyrots Set List&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;Dollyrots at the 89th St Collective&nbsp;<a href=\"#mnref:1\" class=\"govuk-link\"><span class=\"sr-only\">Back to content </span>↩︎</a>" %}</mpb-dialog-img>
     </li>
   </ul>
 </footer>

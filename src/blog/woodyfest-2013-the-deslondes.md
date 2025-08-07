@@ -33,7 +33,8 @@ When they appeared on the <span class="h-card p-org">Brick Caf&eacute;</span> st
 
     [The Deslondes play] a rhythm that sounds distinctive [&hellip;] but also [conveys] an entire pop history that spans New Orleans rhythm and blues, early Memphis rock, Louisiana Hayride country, and every pick-up jazz band ever to busk on Royal Street
 
-  <footer aria-label="Citation">&mdash;&NoBreak;&hairsp;&NoBreak;<cite class="cite-person">[<span class="h-card, p-name">Stephen M. Deusner</span>](https://pitchfork.com/reviews/albums/20565-the-deslondes/){target=_blank rel="external noopener"}, <cite class="short-work">The Deslondes: <cite>The Deslondes</cite></cite></cite></footer>
+  <footer aria-labelledby="#label-citation-1">
+<span class="sr-only" id="label-citation-1">Citation</span>&mdash;&NoBreak;&hairsp;&NoBreak;<cite class="cite-person">[<span class="h-card, p-name">Stephen M. Deusner</span>](https://pitchfork.com/reviews/albums/20565-the-deslondes/){target=_blank rel="external noopener"}, <cite class="short-work">The Deslondes: <cite>The Deslondes</cite></cite></cite></footer>
 </blockquote>
 
 Comprising <span class="h-card p-name">Sam Doores</span>, <span class="h-card p-name">Riley Downing</span>, <span class="h-card p-name">Dan Cutler</span>, <span class="h-card p-name">Cameron Snyder</span>, and <span class="h-card p-name">John James Tourville</span>, The Deslondes play country music informed by a deep knowledge of all strains of American popular music. <q>It's country that seems like it never parted ways with [Woody] Guthrie's populist strains of folk, or felt threatened by rock &rsquo;n&rsquo; roll's youthful ruckus. [&hellip;] Downing even specifies in the band's bio that the traffic jam-themed rockabilly number <cite class="short-work">Less Honkin', More Tonkin&rsquo;&NoBreak;&hairsp;</cite> was inspired not just by George Jones recordings in general, but Jones' early Starday sides, specifically.</q>&NoBreak;[^3]

@@ -141,7 +141,8 @@ Software:
 : Adobe Lightroom 6
 : NIK Silver Efex Pro (selected images only)
 
-<footer aria-label="notes">
+<footer aria-labelledby="#label-margin-notes">
+  <span class="sr-only" id="label-margin-notes">Notes</span>
   <ul class="app-marginnotes-list" role="list">
     <li id="mn:1" role="listitem">
 

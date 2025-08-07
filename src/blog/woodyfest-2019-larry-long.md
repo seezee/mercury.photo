@@ -36,7 +36,8 @@ This article was expanded on <time datetime="2020-01-27">27 January 2020</time> 
 
 [Larry Long is] a true American troubado[u]r.
 
-<footer aria-label="citation">&mdash;&NoBreak;&hairsp;&NoBreak;<cite class="cite-person"><span class="h-card p-name">Studs Terkel</span></cite>, frontispiece inscription to Larry Long’s copy of Terkel’s <cite>Hard Times: An Oral History of the Great Depression</cite>.
+<footer aria-labelledby="#label-citation-1">
+<span class="sr-only" id="label-citation-1">Citation</span>&mdash;&NoBreak;&hairsp;&NoBreak;<cite class="cite-person"><span class="h-card p-name">Studs Terkel</span></cite>, frontispiece inscription to Larry Long’s copy of Terkel’s <cite>Hard Times: An Oral History of the Great Depression</cite>.
 </footer></blockquote>
 
 In <time datetime="1977">1977</time>, twenty-six-year-old vagabond singer <span class="h-card p-name">Larry Long</span> wrote <cite class="short-work">Pope County Blues</cite> in support of farmers fighting a high voltage power line in Minnesota. <time datetime="1978">A year later</time> he organized Tennessee farmers to form what we would now call a farmers market. Following that, Long accompanied[^1] the first “Tractorcade,” a procession of family farmers traveling to Washington,  D.C. to demonstrate for fair crop prices.&NoBreak;[^2]
@@ -92,13 +93,14 @@ Long returned to Okemah for Woodyfest 2019, his tenth time to grace her stages. 
   ![Pete & Larry (Larry Gets Down!) — 22nd Annual Woody Guthrie Festival, 2019](/assets/images/blog/2020-01-17-woodyfest-larry-long/czahller-20190711-11-43-49.jpg)
   ![Larry Long & “Fiddlin’⁠ ⁠” Pete Watercott Set List — 22nd Annual Woody Guthrie Festival, 2019](/assets/images/blog/2020-01-17-woodyfest-larry-long/czahller-20190711-10-56-56.jpg)</mpb-dialog-gallery>
 
-<footer aria-label="notes">
+<footer aria-labelledby="#label-margin-notes">
+  <span class="sr-only" id="label-margin-notes">Notes</span>
   <ul class="app-marginnotes-list" role="list">
     <li id="mn:1" role="listitem">
-      <iframe style="border: 0; width: 300px; height: 420px;" src="https://bandcamp.com/EmbeddedPlayer/album=94971717/size=large/bgcol=333333/linkcol=ffffff/tracklist=false/transparent=true/" seamless><a href="https://larrylong.bandcamp.com/album/slow-night">Slow Night by Larry Long | Produced by Cory Wong</a>&nbsp;<a href="#mnref:1" class="govuk-link" aria-label="Back to content">↩︎</a></iframe>
+      <iframe style="border: 0; width: 300px; height: 420px;" src="https://bandcamp.com/EmbeddedPlayer/album=94971717/size=large/bgcol=333333/linkcol=ffffff/tracklist=false/transparent=true/" seamless><a href="https://larrylong.bandcamp.com/album/slow-night">Slow Night by Larry Long | Produced by Cory Wong</a>&nbsp;<a href="#mnref:1" class="govuk-link" a><span class="sr-only">Back to content </span>↩︎</a></iframe>
     </li>
     <li id="mn:2" role="listitem">
-      {% image "./src/assets/images/blog/2020-01-17-woodyfest-larry-long/larry-long-studs-terkel-inscription.jpg", "img-constrained", "Frontispiece to Hard Times: An Oral History of the Great Depression, inscribed by author Studs Terkel to Larry Long.", "Frontispiece to <cite>Hard Times: An Oral History of the Great Depression</cite>, inscribed by author Studs Terkel to Larry Long. Terkel gave the book to Long after he interviewed him about his efforts to honor Woody Guthrie in Guthrie’s boyhood hometown, Okemah, circa <time datetime=\"1986\">1986</time>&NoBreak;&hairsp;&NoBreak;&ndash;&NoBreak;&hairsp;&NoBreak;<time datetime=\"1988\">1988</time>. The interview was recorded for <a href=\"https://web.archive.org/web/20220118230643/https://bringingwoodyhome.org/audio/\" target=\"_blank\" rel=\"external noopener\">Terkel’s radio show</a> in <time datetime=\"1986\">1989</time>. Photo by Larry Long. Copyright &copy; 1990 Larry Long. All Rights Reserved. Used by Permission.&nbsp;<a href=\"#mnref:2\" class=\"govuk-link\" aria-label=\"Back to content\">↩︎</a>" %}
+      {% image "./src/assets/images/blog/2020-01-17-woodyfest-larry-long/larry-long-studs-terkel-inscription.jpg", "img-constrained", "Frontispiece to Hard Times: An Oral History of the Great Depression, inscribed by author Studs Terkel to Larry Long.", "Frontispiece to <cite>Hard Times: An Oral History of the Great Depression</cite>, inscribed by author Studs Terkel to Larry Long. Terkel gave the book to Long after he interviewed him about his efforts to honor Woody Guthrie in Guthrie’s boyhood hometown, Okemah, circa <time datetime=\"1986\">1986</time>&NoBreak;&hairsp;&NoBreak;&ndash;&NoBreak;&hairsp;&NoBreak;<time datetime=\"1988\">1988</time>. The interview was recorded for <a href=\"https://web.archive.org/web/20220118230643/https://bringingwoodyhome.org/audio/\" target=\"_blank\" rel=\"external noopener\">Terkel’s radio show</a> in <time datetime=\"1986\">1989</time>. Photo by Larry Long. Copyright &copy; 1990 Larry Long. All Rights Reserved. Used by Permission.&nbsp;<a href=\"#mnref:2\" class=\"govuk-link\"><span class=\"sr-only\">Back to content </span>↩︎</a>" %}
     </li>
   </ul>
 </footer>

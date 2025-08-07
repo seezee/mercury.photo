@@ -1,12 +1,5 @@
-<!--nav id="nav-primary" class="header-footer" aria-label="primary">
-  <cluster-l role="list" justify="flex-start" space="var(--s-1)">
-    <div role="listitem"><a href="/">Home</a></div>
-    <div role="listitem"><a href="/about/">About</a></div>
-    <div role="listitem"><a href="/blog/">Blog</a></div>
-    <div role="listitem"><a href="/okie-x/">OKIE-X</a></div>
-  </cluster-l>
-</nav-->
-<nav id="nav-primary" class="navigation header-footer" aria-label="primary">
+<nav id="nav-primary" class="navigation header-footer" aria-labelledby="#nav-primary-label">
+			<span class="sr-only" id="nav-primary-label">Primary Navigation</span>
 			<ul class="navigation__list">
 				<li class="navigation__item">
 					<a href="/" class="navigation__link">Home</a>
@@ -15,7 +8,7 @@
 					<a href="/about/" class="navigation__link">About</a>
 					<button
 						class="navigation__button js-button"
-						aria-label="Submenu of About"
+						aria-labelledby="#submenu-about"
 						aria-expanded="false"
 					>
 						<svg
@@ -32,6 +25,7 @@
 							<path stroke="none" d="M0 0h24v24H0z" fill="none" />
 							<polyline fill="var(--mpb-color-textReverse)" points="6 9 12 15 18 9" />
 						</svg>
+						<span class="sr-only" id="submenu-about">Submenu of "About"</span>
 					</button>
 					<ul aria-hidden="true" class="navigation__submenu">
 						<li class="navigation__item">
@@ -50,9 +44,10 @@
 					<a href="/okie-x" class="navigation__link">OKIE-X</a>
 					<button
 						class="navigation__button js-button"
-						aria-label="Submenu of OKIE-X"
+						aria-labelledby="#submenu-okie-x"
 						aria-expanded="false"
 					>
+					<span class="sr-only" id="submenu-okie-x">Submenu of "OKIE-X"</span>
 						<svg
 							xmlns="http://www.w3.org/2000/svg"
 							viewBox="0 0 24 24"

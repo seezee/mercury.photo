@@ -73,11 +73,12 @@ Software
 : [Adobe Photoshop](https://www.bhphotovideo.com/c/product/1124191-REG/adobe_65259312_creative_cloud_photography_plan.html/BI/19462/KBID/11656/kw/ADCCPP12MS/DFF/d10-v2-t1-xADCCPP12MS){target="_blank" rel="external noopener"}
 : NIK Silver Efex
 
-<footer aria-label="notes">
+<footer aria-labelledby="#label-margin-notes">
+  <span class="sr-only" id="label-margin-notes">Notes</span>
   <ul class="app-marginnotes-list" role="list">
     <li id="mn:1" role="listitem">
 
-{% image "./src/assets/images/blog/2017-08-04-roosevelt/google-earth-roosevelt.jpg", "img-constrained", "Google Earth view of salvage yards, Roosevelt, Oklahoma", "Google Earth view of salvage yards, Roosevelt, Oklahoma&nbsp;<a href=\"#mnref:1\" class=\"govuk-link\" aria-label=\"Back to content\">↩︎" %}
+{% image "./src/assets/images/blog/2017-08-04-roosevelt/google-earth-roosevelt.jpg", "img-constrained", "Google Earth view of salvage yards, Roosevelt, Oklahoma", "Google Earth view of salvage yards, Roosevelt, Oklahoma&nbsp;<a href=\"#mnref:1\" class=\"govuk-link\"><span class=\"sr-only\">Back to content </span>↩︎" %}
     </li>
   </ul>
 </footer>

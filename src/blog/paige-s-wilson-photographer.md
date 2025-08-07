@@ -88,13 +88,14 @@ Digitization &amp; post-production
 : VueScan scanning software
 : Adobe [Lightroom](https://www.bhphotovideo.com/c/product/1140015-REG/adobe_65237402_photoshop_lightroom_6_download.html/BI/19462/KBID/11656/kw/ADPSLR6ESD/DFF/d10-v2-t1-xADPSLR6ESD){target=_blank rel="external noopener"}
 
-<footer aria-label="notes">
+<footer aria-labelledby="#label-margin-notes">
+  <span class="sr-only" id="label-margin-notes">Notes</span>
   <ul class="app-marginnotes-list" role="list">
     <li id="mn:1" role="listitem">
 
 <mpb-dialog-img>
 
-{% image "./src/assets/images/blog/2017-03-13-paige/pwilson-20170226-11-27-12.jpg", "img-constrained", "Chris J. Zähller monochrome portrait. The subject wears an embroidered western snap-front shirt, rayon scarf, and vintage western hat.", "Chris J. Zähller&nbsp;<a href=\"#mnref:1\" class=\"govuk-link\" aria-label=\"Back to content\">↩︎</a>" %}</mpb-dialog-img>
+{% image "./src/assets/images/blog/2017-03-13-paige/pwilson-20170226-11-27-12.jpg", "img-constrained", "Chris J. Zähller monochrome portrait. The subject wears an embroidered western snap-front shirt, rayon scarf, and vintage western hat.", "Chris J. Zähller&nbsp;<a href=\"#mnref:1\" class=\"govuk-link\"><span class=\"sr-only\">Back to content </span>↩︎</a>" %}</mpb-dialog-img>
     </li>
   </ul>
 </footer>
