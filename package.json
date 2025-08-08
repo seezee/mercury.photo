@@ -1,6 +1,6 @@
 {
   "name": "mercury.photo",
-  "version": "1.0.167",
+  "version": "1.0.168",
   "description": "Rangefinder + Mirrorless Digital + Large Format Film Photography + Music, Arts, & News",
   "main": "index.js",
   "scripts": {
@@ -15,7 +15,7 @@
   ],
   "homepage": "https://github.com/seezee/mercury.photo",
   "author": "Chris J. Zähller",
-  "license": "GPL-3.0-or-later",
+  "license": "Kelp Commons License",
   "dependencies": {
     "@11ty/eleventy": "^3.1.1",
     "@11ty/eleventy-img": "^6.0.4",

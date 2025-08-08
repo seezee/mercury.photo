@@ -665,6 +665,11 @@
       "source": "/otis-gibbs-at-the-crystal-theatre-woody-guthrie-folk-festival/",
       "destination": "/blog/woodyfest-2013-otis-gibbs/",
       "permanent": true
+    },
+    {
+      "source": "/riders-on-the-orphan-train-woody-guthrie-folk-festival/",
+      "destination": "/blog/woodyfest-2013-orphan-train/",
+      "permanent": true
     }
   ]
 }

@@ -38,7 +38,7 @@ For some artists, the more raw the recording, the more exposed their shortcoming
 
   <footer>
   
-  &mdash;&NoBreak;&hairsp;&NoBreak;<cite href="https://www.sonicbids.com/2/EPK/?epk_id=33722">Portland Press Herald</cite>
+  &mdash;&NoBreak;&hairsp;&NoBreak;<cite href="https://www.sonicbids.com/2/EPK/?epk_id=33722" class="cite-person">Portland Press Herald</cite>
   </footer>
 </blockquote>
 

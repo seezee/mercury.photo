@@ -39,7 +39,7 @@ I’m silly enough to believe that I’m the world’s foremost authority on wha
 
   <footer>
   
-  &mdash;&NoBreak;&hairsp;&NoBreak;<cite href="https://otisgibbs.com/press-kit/">Otis Gibbs</cite>
+  &mdash;&NoBreak;&hairsp;&NoBreak;<cite href="https://otisgibbs.com/press-kit/" class="cite-person">Otis Gibbs</cite>
   </footer>
 </blockquote>
 

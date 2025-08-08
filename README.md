@@ -2,8 +2,8 @@
 
 * Contributors: Chris J. Zähller (seezee)
 * Author URI: <https://github.com/seezee>
-* Version: 1.0.167
-* License: [Kelp Commons License](https://github.com/cferdinandi/kelp-commons) or later
+* Version: 1.0.168
+* License: [Kelp Commons License](https://github.com/cferdinandi/kelp-commons)
 * License URI: <https://github.com/cferdinandi/kelp-commons>
 * tags: photography, music, journalism
 
