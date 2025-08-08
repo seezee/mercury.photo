@@ -645,6 +645,26 @@
       "source": "/rebekah-pulley-at-the-brick-cafe-woody-guthrie-folk-festival/",
       "destination": "/blog/woodyfest-2013-rebekah-pulley/",
       "permanent": true
+    },
+    {
+      "source": "/alex-culbreth-black-blue-interview-gallery/",
+      "destination": "/blog/alex-culbreth-interview-gallery/",
+      "permanent": true
+    },
+    {
+      "source": "/rebecca-loebe-at-the-crystal-theatre-woody-guthrie-folk-festival/",
+      "destination": "/blog/woodyfest-2013-rebecca-loebe/",
+      "permanent": true
+    },
+    {
+      "source": "/paddy-mills-at-the-new-dominion-stage-woody-guthrie-folk-festival/",
+      "destination": "/blog/woodyfest-2013-paddy-mills/",
+      "permanent": true
+    },
+    {
+      "source": "/otis-gibbs-at-the-crystal-theatre-woody-guthrie-folk-festival/",
+      "destination": "/blog/woodyfest-2013-otis-gibbs/",
+      "permanent": true
     }
   ]
 }

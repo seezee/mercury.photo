@@ -32,13 +32,13 @@ New England Folk Singer Wins Contest
 
 {% image "./src/assets/images/blog/2013-10-21-woodyfest-paddy-mills/czahller-20130711-19-15-34.jpg", "img-constrained", "Paddy Mills, seen from upstage on the New Dominion Stage. His back is to the camera and he faces the audience. He holds an acoustic guitar. His weight is on his left foot.", "Paddy Mills (IX)" %}</mpb-dialog-img>
 
-<blockquote cite="https://www.reverbnation.com/rebeccaloebe">
+<blockquote cite="https://www.sonicbids.com/2/EPK/?epk_id=33722">
 
 For some artists, the more raw the recording, the more exposed their shortcomings. But to Mills’ credit, his congenial delivery makes for one smooth listen.
 
   <footer>
   
-  &mdash;&NoBreak;&hairsp;&NoBreak;<cite href="http://www.sonicbids.com/2/EPK/?epk_id=33722">Portland Press Herald</cite>
+  &mdash;&NoBreak;&hairsp;&NoBreak;<cite href="https://www.sonicbids.com/2/EPK/?epk_id=33722">Portland Press Herald</cite>
   </footer>
 </blockquote>
 
