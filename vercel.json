@@ -670,6 +670,11 @@
       "source": "/riders-on-the-orphan-train-woody-guthrie-folk-festival/",
       "destination": "/blog/woodyfest-2013-orphan-train/",
       "permanent": true
+    },
+    {
+      "source": "/nancy-apple-rob-mcnurlin-okemah-nutrition-center-woody-guthrie-folk-festival/",
+      "destination": "/blog/woodyfest-2013-nancy-apple-rob-mcnurlin/",
+      "permanent": true
     }
   ]
 }
