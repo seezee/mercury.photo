@@ -64,7 +64,7 @@ Key Light
 : Matthews [C-stand](https://www.bhphotovideo.com/c/product/112099-REG/Matthews_756140_Century_C_Turtle_Base.html/BI/19462/KBID/11656/kw/MALSCP40K/DFF/d10-v2-t1-xMALSCP40K){target=_blank rel="external noopener"} with turtle base & grip arm
 
 Fill
-: Impact 42&Prime; 5-in-1 collapsible circular [reflector]("https://www.bhphotovideo.com/c/product/358608-REG/Impact_R1142_5_in_1_Reflector_Disc.html/BI/19462/KBID/11656/kw/IMR5142/DFF/d10-v2-t1-xIMR5142){target=_blank rel="external noopener"} (silver side)
+: Impact 42&Prime; 5-in-1 collapsible circular [reflector](https://www.bhphotovideo.com/c/product/358608-REG/Impact_R1142_5_in_1_Reflector_Disc.html/BI/19462/KBID/11656/kw/IMR5142/DFF/d10-v2-t1-xIMR5142){target=_blank rel="external noopener"} (silver side)
 : Avenger [reflector holder](https://www.bhphotovideo.com/c/product/332034-REG/Avenger_RH353_Reflector_Holder_with_Mini.html/BI/19462/KBID/11656/kw/AVRH353/DFF/d10-v2-t1-xAVRH353){target=_blank rel="external noopener"} with mini grip head
 : Manfrotto stackable air-cushioned [light stand](https://www.bhphotovideo.com/c/product/609058-REG/Manfrotto_1052BAC_1052BAC_Alu_Air_Cushioned.html/BI/19462/KBID/11656/kw/MA1052BAC/DFF/d10-v2-t1-xMA1052BAC){target=_blank rel="external noopener"}
 

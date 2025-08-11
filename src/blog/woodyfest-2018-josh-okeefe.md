@@ -53,7 +53,7 @@ The world saw the lynching postcard<wbr>/<wbr>It’s a different kind of noose<w
 
 His scant catalogue (he’s released one EP and one long-player, but says he’s recorded over 300 songs)[^3] ranges from love songs to celebrations of his old Derbyshire football[^4] mates to protest songs. An accidental cover of <span class="h-card p-name p-given-name">Johnny</span> and <span class="h-card p-name p-given-name">June</span>’s <cite class="short-work">Jackson</cite> has become one of his most popular tunes in live performance, sung as a duet with his partner <span class="h-card p-name">Cora Carpenter</span>. Carpenter, <q>an angelic hillbilly, kick-you-in-your-shins type,</q>[^5] also sang with Okeefe on the recording.
 
-[^3]: <cite class="h-card p-name cite-person">Dingwall, Ed</cite>, <cite class="short-work">[Milford Musician Launches Debut Album from Nashville](https://www.belpernews.co.uk/news/milford-musician-launches-debut-album-from-nashville-1-8589671){target=_blank rel="external noopener"},</cite> <cite>Belper News</cite> (<time datetime="2017-06-11T17:17:00+1:00:00">11 June 2017</time>).
+[^3]: <cite class="h-card p-name cite-person">Dingwall, Ed</cite>, <cite class="short-work">Milford Musician Launches Debut Album from Nashville,</cite> <cite>Belper News</cite> (<time datetime="2017-06-11T17:17:00+1:00:00">11 June 2017</time>).
 
 [^4]: “Soccer” to us Yanks.
 

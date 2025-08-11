@@ -77,7 +77,7 @@ ISO
 : 400
 
 Strobe
-: [Vivitar 285HV](https://adorama.evyy.net/c/63213/51926/1036?u=https%3A%2F%2Fwww.bhphotovideo.com%2Fc%2Fproduct%2F816237-REG%2FVivitar_VIV_385_HV_385HV_Flash.html){target=_blank rel="external noopener"} powered by <a href="https://amzn.to/2R7ID2X" target="_blank" rel="external noopener">Quantum Instruments Turbo SC</a> compact slim power pack
+: Vivitar 285HV powered by Quantum Instruments Turbo SC compact slim power pack
 
 Film
 : Kodak Tri-X 400 Professional 120

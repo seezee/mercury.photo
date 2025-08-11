@@ -495,6 +495,12 @@ div.col-5 {
   }
 }
 
+/* hgroup */
+
+hgroup h1 + p {
+  text-wrap: balance;
+}
+
 /* <dd> styles */
 .dd-add-space {
   dd + dd {

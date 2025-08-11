@@ -209,7 +209,7 @@ What I want&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;you know, 
 
 <span class="spkr">Jason</span> I haven’t discussed it with these guys, but the last couple of bands I’ve played in, we employed an eight to eight-and-a-half hour circle around Oklahoma City [that we were willing to travel]. You can hit St. Louis, lots of good “party” schools in Arkansas, Austin, Houston, San Antonio, Denton. If you wanna stretch your rules, you can reach Kansas City; Columbia, Missouri; Lawrence. We probably need to add a song or two to get a good, solid, hour-long set.
 
-<span class="spkr">Steven</span> I *do* want to play the [Norman Music Festival](http://www.normanmusicfestival.com/home/){target=_blank rel="external noopener"}.
+<span class="spkr">Steven</span> I *do* want to play the [Norman Music Festival](http://www.normanmusicfestival.com/){target=_blank rel="external noopener"}.
 
 <span class="spkr">MPB</span> What’s on your iPods or other music players?
 
@@ -221,11 +221,11 @@ What I want&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;you know, 
 
 <span class="spkr">MPB</span> Time for our regular feature, <cite>Reedeem a Song</cite>&trade;. Name a song you love that doesn’t get much respect, either critically or in the culture, and tell me what’s great about it.
 
-<span class="spkr">Jason</span> <cite>[The Novelty of Haunting](https://itunes.apple.com/us/album/the-novelty-of-haunting/id375714973?i=375714980&uo=4&at=10ldhk){target=_blank rel="external noopener"}</cite></a> by <strong>So Many Dynamos</strong>. The vocals are pretty juvenile sounding. Not the lyrics; the way the singer’s voice sounds, like he’s fresh out of high school. He’s not; it’s just the way he sounds. The musicianship is great; the composition is great; throughout the whole album you get these thematic callbacks to earlier songs.
+<span class="spkr">Jason</span> <cite>[The Novelty of Haunting](https://music.apple.com/us/album/the-novelty-of-haunting/1470937395?i=375714980&uo=4&at=10ldhk){target=_blank rel="external noopener"}</cite></a> by <strong>So Many Dynamos</strong>. The vocals are pretty juvenile sounding. Not the lyrics; the way the singer’s voice sounds, like he’s fresh out of high school. He’s not; it’s just the way he sounds. The musicianship is great; the composition is great; throughout the whole album you get these thematic callbacks to earlier songs.
 
 I really like the whole album. The song is about a guy who’s died and he’s a ghost, and he’s been haunting for a while, and the novelty’s worn off. And he kind of feels like a creeper, hanging out in his old friends’ houses, and he just wants to be with them.
 
-<span class="spkr">Luxy</span> I like the Icelandic band Múm, a song called <cite>[Weeping Rock, Rock](https://itunes.apple.com/us/album/weeping-rock-rock/id545039757?i=545039759&uo=4&at=10ldhk){target=_blank rel="external noopener"}</cite></a>. I’ve never heard a singer like that; it’s really high pitched. The sound, where it comes in *rough*; you know, with the different synths, and you can tell they’ve used these *random* pedals […] and then you have this […] angelic voice. It makes me feel really good.
+<span class="spkr">Luxy</span> I like the Icelandic band Múm, a song called <cite>[Weeping Rock](https://music.apple.com/us/album/weeping-rock/1495801573?i=1495801867&uo=4&at=10ldhk){target=_blank rel="external noopener"}</cite></a>. I’ve never heard a singer like that; it’s really high pitched. The sound, where it comes in *rough*; you know, with the different synths, and you can tell they’ve used these *random* pedals […] and then you have this […] angelic voice. It makes me feel really good.
 
 <span class="spkr">Steven</span> There’s this group from New Hampshire, the [Super Secret Project](https://itunes.apple.com/us/artist/the-super-secret-project/id288396484?uo=4&at=10ldhk){target=_blank rel="external noopener"}, and they do a parody of the Jay-Z song <cite>Empire State of Mind</cite>, but it’s <cite>Granite State of Mind</cite>. I’m from New Hampshire, and it seems like anywhere else in the United States, New Hampshire doesn’t get much respect.
 

@@ -32,12 +32,12 @@ Blues & Soul from the High Plains
 
 {% image "./src/assets/images/blog/2013-10-07-garrett-lebeau/czahller-20130713-19-48-02.jpg", "img-constrained", "LeBeau looking straight at the camera as he plays a guitar solo. His face is partially obscured by his sunglasses and hair.", "Garrett (IX)" %}</mpb-dialog-img>
 
-<blockquote cite="http://garrettlebeau.com/">
+<blockquote cite="https://garrettlebeau.com/">
 
 The blues spoke to me and that raw unadorned honesty is what still motivates me musically. It spans all styles and is really the same thing as Soul. Folk music is kin in spirit, as is most music that I love. My goal is to connect with other like-minded human beings, and keep the Blues traditions alive … feeling has no genre.
   <footer>
 
-&mdash;&NoBreak;&hairsp;&NoBreak;<cite href="http://garrettlebeau.com/" class="cite-person">Garrett LeBeau</cite>
+&mdash;&NoBreak;&hairsp;&NoBreak;<cite href="https://garrettlebeau.com/" class="cite-person">Garrett LeBeau</cite>
   </footer>
 </blockquote>
 

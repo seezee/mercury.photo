@@ -680,6 +680,16 @@
       "source": "/kim-gentry-at-the-crystal-theatre-woody-guthrie-folk-festival/",
       "destination": "/blog/woodyfest-2013-kim-gentry/",
       "permanent": true
+    },
+    {
+      "source": "/garrett-lebeau-pastures-plenty-stage-woody-guthrie-folk-festival/",
+      "destination": "/blog/woodyfest-2013-garrett-lebeau/",
+      "permanent": true
+    },
+    {
+      "source": "/dan-weber-at-the-crystal-theatre-woody-guthrie-folk-festival/",
+      "destination": "/blog/woodyfest-2013-dan-weber/",
+      "permanent": true
     }
   ]
 }
