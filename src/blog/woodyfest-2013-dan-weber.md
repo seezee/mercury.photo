@@ -17,7 +17,7 @@ tags:
 date: Last Modified
 pubdate: 2013-10-04T22:15:18+00:00
 image: /assets/images/blog/2013-10-04-woodyfest-dan-weber/czahller-20130713-10-53-45.jpg
-excerpt: It just keeps getting better for Dan Weber. In 2010, he was nominated for the prestigious <span class="h-card p-name">Dave Carter</span> Songwriting Contest.
+excerpt: It just keeps getting better for Dan Weber. In 2010, he was nominated for the prestigious Dave Carter Songwriting Contest.
 ---
 
 <hgroup>

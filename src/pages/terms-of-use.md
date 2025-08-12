@@ -201,7 +201,7 @@ You hereby waive any rights or requirements under any statutes, regulations, rul
 
 ## CALIFORNIA USERS AND RESIDENTS
 
-If any complaint with us is not satisfactorily resolved, you can contact the Complaint Assistance Unit of the Division of Consumer Services of the California Department of Consumer Affairs in writing at 1625 North Market Blvd., Suite N 112, Sacramento, California 95834 or by telephone at (800) 952-5210 <a href="http://voice.google.com/calls?a=nc,%2B18009525210" class="gv-tel-link" target="_blank" rel="noopener" title="Call +1 800-952-5210 via Google Voice"></a>or (916) 445-1254.<a href="http://voice.google.com/calls?a=nc,%2B19164451254" class="gv-tel-link" target="_blank" rel="noopener" title="Call +1 916-445-1254 via Google Voice"></a>
+If any complaint with us is not satisfactorily resolved, you can contact the Complaint Assistance Unit of the Division of Consumer Services of the California Department of Consumer Affairs in writing at 1625 North Market Blvd., Suite N 112, Sacramento, California 95834 or by telephone at (800) 952-5210 or (916) 445-1254.
 
 ## MISCELLANEOUS
 
@@ -219,7 +219,7 @@ You hereby waive any and all defenses you may have based on the electronic form 
 
 In order to resolve a complaint regarding the Site or to receive further information regarding use of the Site, please contact us through our [contact form](/contact).
 
-Last updated <time datetime="2025-07-23">23 July 2025</time>.
+Last updated <time datetime="2025-08-12">12 August 2025</time>.
 
   </stack-l>
 </small>

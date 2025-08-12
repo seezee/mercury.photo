@@ -83,8 +83,8 @@ Thanks for reading,
 <mpb-dialog-gallery hint rel cols="8">
   
   ![Bison, grazing near the Wichita Mountains Wildlife Refuge Visitors’ Center](/assets/images/blog/2018-09-23-wichita-reserve/czahller-20180819-11-41-46.jpg)
-  ![Kite Trail (I) — Wichita Mountains Wildlife Refuge Wichita Mountains Wildlife Refuge](/assets/images/blog/2018-09-23-wichita-reserve/czahller-20180819-12-13-56.jpg)
-  ![Kite Trail (II) — Wichita Mountains Wildlife Refuge Wichita Mountains Wildlife Refuge](/assets/images/blog/2018-09-23-wichita-reserve/czahller-20180819-12-44-19.jpg)
+  ![Kite Trail (I) — Wichita Mountains Wildlife Refuge](/assets/images/blog/2018-09-23-wichita-reserve/czahller-20180819-12-13-56.jpg)
+  ![Kite Trail (II) — Wichita Mountains Wildlife Refuge](/assets/images/blog/2018-09-23-wichita-reserve/czahller-20180819-12-44-19.jpg)
   ![Forty Foot Hole, W Cache Creek, Wichita Mountains Wildlife Refuge](/assets/images/blog/2018-09-23-wichita-reserve/czahller-20180819-15-39-21.jpg)
   ![Lake Jed Johnson and decommissioned fire watch tower built by Civilian Conservation Corps (CCC) in 1941, Wichita Mountains Wildlife Refuge](/assets/images/blog/2018-09-23-wichita-reserve/czahller-20180819-16-01-13.jpg)
   ![Looking north near the dam at Osage Lake, an artificial reservoir fed by Cow Creek in the Wichita Mountains Wildlife Refuge.](/assets/images/blog/2018-09-23-wichita-reserve/czahller-20180819-17-00-42.jpg)

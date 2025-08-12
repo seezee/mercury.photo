@@ -28,7 +28,7 @@ The zombie run was followed by an after-party (the “after life party”). Tuls
 
 The Secret Post is the brainchild of <span class="h-card p-name">Zachariah Wiser</span>. Wiser started his first band in California before forming The Secret Post. The band draw their sound from post-punk and new wave, with lyrics addressing <q>sex, death, despair, and love.</q>&NoBreak;[^1]
 
-[^1]: <cite class="short-work">[The Secret Post is about sex, death, despair, and love&NoBreak;&hairsp;&NoBreak;&hellip;](https://web.archive.org/web/20150703035738/http://www.thesecretpost.net/about/){target="_blank" rel="external noopener"},</cite> <cite>thesecretpost.net</cite> (retrieved from the Internet Wayback Machine <time datetime="2015-07-03">3 July 2015</time>).
+[^1]: <cite class="short-work">[The Secret Post is about sex, death, despair, and love&NoBreak;&hairsp;&NoBreak;&hellip;](https://web.archive.org/web/20150703035738/https://www.thesecretpost.net/about/){target="_blank" rel="external noopener"},</cite> <cite>thesecretpost.net</cite> (retrieved from the Internet Wayback Machine <time datetime="2015-07-03">3 July 2015</time>).
 
 ## Gallery: The Secret Post
 

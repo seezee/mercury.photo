@@ -46,7 +46,7 @@ Starting an alt-country band in <time datetieme="1997">1997</time>, she played s
 
 Battiata has opened for the likes of <span class="h-card p-name">Neko Case</span>, <span class="h-card p-name">Jim Lauderdale</span>, <span class="h-card p-name">[Sam Baker](/blog/woodyfest-2018-sam-baker/)</span>, <span class="h-card p-name">Gurf Morlix</span>, and <span class="h-card p-name">Alejandro Escovedo</span>. She released her third full-length album, <cite>[The Heart, Regardless](https://geo.itunes.apple.com/us/album/the-heart-regardless/1251767905?mt=1&app=music&at=10ldhk){target=_blank rel="external noopener"}</cite>, <time datetime="2017-11">late last year.</time> The album garnered much praise[^2] and appeared in the <span class="h-card p-org">WXNA</span> (Nashville) and the <cite><span class="h-card p-org">Honky Tonk Daily</span></cite> (Austin) Best of the Year lists.
 
-[^2]:For a more in-depth list of awards and honors the album has received, visit [the band’s website](http://www.littlepinktheband.com/about.htm){target=_blank rel="external noopener"}.
+[^2]:For a more in-depth list of awards and honors the album has received, visit [the band’s website](https://www.littlepinktheband.com/about.htm){target=_blank rel="external noopener"}.
 
 ## Gallery: Mary Battiata
 

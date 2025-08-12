@@ -786,7 +786,7 @@ X-ray film isn't directly exposed by x-rays (except for dental x-ray film). In a
 
 <details name="essential-faq"><summary>What kind of camera are you using?</summary>
 
-I’m making the portraits with a cherrywood [Wista 45DX](http://camera-wiki.org/wiki/Wista_Field_45). It folds down quite compactly and weighs less than a 35mm SLR. It has a leather bellows, an extending rail with rack and pinion focus, and numerous front and back movements (tilt, shift, rise and fall, and swing), which allow various focusing effects and perspective corrections. I recently contacted Wista, who told me the camera was manufactured in 1984.
+I’m making the portraits with a cherrywood [Wista 45DX](https://camera-wiki.org/wiki/Wista_Field_45). It folds down quite compactly and weighs less than a 35mm SLR. It has a leather bellows, an extending rail with rack and pinion focus, and numerous front and back movements (tilt, shift, rise and fall, and swing), which allow various focusing effects and perspective corrections. I recently contacted Wista, who told me the camera was manufactured in 1984.
 </details>
 
 <details name="essential-faq"><summary>What lens are you using?</summary><stack-l>
@@ -796,7 +796,7 @@ I’m making the portraits with a cherrywood [Wista 45DX](http://camera-wiki.org
 Beginning in <time datetime="2016-04">April 2016</time>, I changed lenses, as noted in the updated information below.
 </mpb-callout>
 
-The lens is a <del>105mm &#402;/3</del> <ins>250mm &#402;/4</ins> "in barrel" brass [Petaval formula lens](http://camera-wiki.org/wiki/Petzval_lens), roughly 150-years-old. <del>Most likely, it was a magic lantern or projector lens.</del> It has <del>no aperture control and</del> no shutter. I've fitted an old Packard #6 pneumatic shutter to the lens hood to control the exposure and to fire the studio lights. I chose the Petzval for its sharp center and "swirly" out-of-focus periphery. The lens's dreamlike, surreal look cannot easily be reproduced by conventional means.
+The lens is a <del>105mm &#402;/3</del> <ins>250mm &#402;/4</ins> "in barrel" brass [Petaval formula lens](https://camera-wiki.org/wiki/Petzval_lens), roughly 150-years-old. <del>Most likely, it was a magic lantern or projector lens.</del> It has <del>no aperture control and</del> no shutter. I've fitted an old Packard #6 pneumatic shutter to the lens hood to control the exposure and to fire the studio lights. I chose the Petzval for its sharp center and "swirly" out-of-focus periphery. The lens's dreamlike, surreal look cannot easily be reproduced by conventional means.
 <stack-l></details>
 
 <details name="essential-faq"><summary>What are you doing to promote the project?</summary>

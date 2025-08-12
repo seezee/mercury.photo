@@ -95,7 +95,7 @@ Around <time datetime="2003">2003</time> I got into a lot of busy math rock, lik
 
 <span class="spkr">Jason</span> So, Matt and I would hang out and drink and then raid his store for food, and he’d have her cupcakes, and I would buy a few of those and chow down. And he would keep me up-to-date, ’cause this was every other Saturday, so he would let me know, <q>Here’s when they’re coming in; here’s what they’re gonna be,</q> and [he’d] hold some back for me. I was a fan. Then I met her in the store and had my little fanboy moment, [*affects high-pitched little girl voice*] <q>Oh, my god; you’re the ’Luxy’!</q>
 
-Then I saw the opportunity to barter [product] photography for cupcakes. So I gave her the card, and I don’t think we saw each other until January [2013]; I had a photography show at Massive Graphics during the [2<sup>nd</sup> Friday Artwalk](http://2ndfridaynorman.com/){target=_blank rel="external noopener"}, and Luxy popped in with Steven.
+Then I saw the opportunity to barter [product] photography for cupcakes. So I gave her the card, and I don’t think we saw each other until January [2013]; I had a photography show at Massive Graphics during the [2<sup>nd</sup> Friday Artwalk](https://2ndfridaynorman.com/){target=_blank rel="external noopener"}, and Luxy popped in with Steven.
 
 <figure>
   <stack-l>
@@ -159,7 +159,7 @@ I got my first digital camera in <time datetime="2003">2003</time> and moved to 
 
 <span class="spkr">Luxy</span> <strong>Tumbling Nebul&aelig;</strong> is a reference from <cite>[Doctor Who](https://en.wikipedia.org/wiki/Night_Terrors_(Doctor_Who)){target=_blank rel="external noopener"}</cite>. He does say <q>tumbling nebulas,</q> not <q>tumbling nebulæ.</q> I majored in astronomy&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;cosmology&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;so I like everything “space.”
 
-<blockquote cite="http://www.bbc.co.uk/programmes/b014983t">
+<blockquote cite="https://www.bbc.co.uk/programmes/b014983t">
 
 Through crimson stars and silent stars and tumbling nebulas like oceans set on fire. Through empires of glass and civilizations of pure thought. And a whole terrible wonderful universe of impossibilities.
 
@@ -209,7 +209,7 @@ What I want&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;you know, 
 
 <span class="spkr">Jason</span> I haven’t discussed it with these guys, but the last couple of bands I’ve played in, we employed an eight to eight-and-a-half hour circle around Oklahoma City [that we were willing to travel]. You can hit St. Louis, lots of good “party” schools in Arkansas, Austin, Houston, San Antonio, Denton. If you wanna stretch your rules, you can reach Kansas City; Columbia, Missouri; Lawrence. We probably need to add a song or two to get a good, solid, hour-long set.
 
-<span class="spkr">Steven</span> I *do* want to play the [Norman Music Festival](http://www.normanmusicfestival.com/){target=_blank rel="external noopener"}.
+<span class="spkr">Steven</span> I *do* want to play the [Norman Music Festival](https://www.normanmusicfestival.com/){target=_blank rel="external noopener"}.
 
 <span class="spkr">MPB</span> What’s on your iPods or other music players?
 

@@ -19,7 +19,7 @@ image: /assets/images/blog/2019-04-19-mushroom-hunt/czahller-20190408-16-45-43.j
 excerpt: My friend RT Valine and his wife Jackie were visiting the Bureau one evening and we got to discussing food and cooking. When the conditions are right, the Valines have access to wild morel mushrooms.
 recipe: '<script type="application/ld+json">
 {
- "@context": "http://schema.org/",
+ "@context": "https://schema.org/",
  "@type": "Recipe",
  "name": "Scrambled Eggs",
  "image": [

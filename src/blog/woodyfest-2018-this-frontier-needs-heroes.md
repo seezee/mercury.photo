@@ -40,7 +40,7 @@ No matter the room size, Lauretti always brings a mix of existential isolation a
 
 Originally a duo with Lauretti’s sister <span class="h-card p-name p-given-name">Jessica</span>, This Frontier Needs Heroes has always featured a rotating crew of supporting musicians. The band members are spread out across the U.S., so most shows are just Lauretti himself, with full-band treatment of his material mostly relegated to recording sessions.
 
-Speaking of recordings, This Frontier Needs Heroes has released four full-length albums, most recently <time datetime="2016">2016</time>’s <cite>Real Job</cite>. For fanatics, there’s also a <time datetime="2014">2014</time> CD single and a very limited edition 2012 [vinyl single](http://piaptk.limitedrun.com/products/503547-this-frontier-needs-heroes-2012-8-pyramid-shaped-pic-disc){target=_blank rel="external noopener"}. Good luck tracking that last one down.
+Speaking of recordings, This Frontier Needs Heroes has released four full-length albums, most recently <time datetime="2016">2016</time>’s <cite>Real Job</cite>. For fanatics, there’s also a <time datetime="2014">2014</time> CD single and a very limited edition 2012 [vinyl single](https://piaptk.limitedrun.com/products/503547-this-frontier-needs-heroes-2012-8-pyramid-shaped-pic-disc){target=_blank rel="external noopener"}. Good luck tracking that last one down.
 
 Lauretti opened <time datetime="2018-07-14T11:00:00-5:00">festival Saturday</time> with a solo set at <span class="h-card p-org">Lou’s Rocky Road Tavern</span>.
 

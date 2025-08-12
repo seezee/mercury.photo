@@ -40,10 +40,10 @@ This information is from 2012 and is out-of-date. I’ll eventually update it an
 * Lowepro <a href="//amzn.to/2JqudIp" target="_blank" rel="external noopener">memory card carrier</a> w/ <a href="//amzn.to/2U3Bm5z" target="_blank" rel="external noopener">spare SD card(s)</a>
 * Photographic Solutions <a href="//amzn.to/2uiXSJe" target="_blank" rel="external noopener">cleaning kit</a>
 * LensPen <a href="//amzn.to/2WjvDWR" target="_blank" rel="external noopener">lens cleaning pen</a> &amp; Filter Klear <a href="//amzn.to/2FoqUfO" target="_blank" rel="external noopener">filter cleaning pen</a>
-* Moleskine <a href="//amzn.to/2HuJYfX" target="_blank" rel="external noopener">notebook</a> w/ <cite><a href="http://www.krages.com/ThePhotographersRight.pdf" target="_blank" rel="noopener">The Photographer’s Rights</a></cite> tucked in back pocket
+* Moleskine <a href="//amzn.to/2HuJYfX" target="_blank" rel="external noopener">notebook</a> w/ <cite><a href="https://www.krages.com/ThePhotographersRight.pdf" target="_blank" rel="noopener">The Photographer’s Rights</a></cite> tucked in back pocket
 * Tools for Gitzo tripod &amp; Arca-Swiss QR plate
 * Sekonic <a href="//amzn.to/2Y9ZItM" target="_blank" rel="external noopener">L-308S&nbsp;light meter</a> w/ quick reference card, instruction booklet, case &amp; strap
-* MOO <a href="http://www.moo.com/share/nw2nbf" target="_blank" rel="noopener">business cards in leather &amp; brushed steel case</a>
+* MOO <a href="https://www.moo.com/us/accessories/business-card-holders/leather" target="_blank" rel="noopener">business cards in leather &amp; brushed steel case</a>
 
 ## Not Shown
 

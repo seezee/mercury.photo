@@ -53,7 +53,7 @@ A veteran of the alt-country scene, Culbreth has opened for (among others) <span
 
 <span class="spkr">Culbreth</span> [The Parlor Soldiers] started out as a duo project with me and a girl&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;<span class="h-card p-name">Karen Jonas</span>&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;who lived in Fredericksburg, Virginia. So we were both playing music in the same town, and we started writin’ songs together. She had more of a kind of folky, uh, <span class="h-card p-name">[Joni Mitchell](https://itunes.apple.com/us/artist/joni-mitchell/id203373?uo=4&at=10ldhk){target=_blank rel="external noopener"}</span> influence to her. […] We did one album together […]. I met [the future members of the Dead Country Stars] in Fredericksburg; they were all playing in different bands. I started out playing with <span class="h-card p-name">Eddie Dickerson</span> on fiddle&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;he’s now living in Austin&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;<span class="h-card p-name">Ryan Hale</span> on drums, <span class="h-card p-name">Joanna Smith</span> on upright bass, and <span class="h-card p-name"><span class="p-nickname">Jimbo</span> <span class="p-family-name">Carrico</span></span> on banjo. As far as the name [goes], some of the best country stars *are* dead.
 
-<blockquote cite="http://deadcountrystars.bandcamp.com/track/mercy-me">
+<blockquote cite="https://deadcountrystars.bandcamp.com/track/mercy-me">
 
 I was born in the back of a ’57 Chevy<br />With my daddy doing ninety, my mama breathing heavy / Her water broke at midnight in the grocery store / She yelled, <q>Cleanup in aisle four!</q>
 

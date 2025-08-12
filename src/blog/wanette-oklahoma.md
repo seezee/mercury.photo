@@ -23,7 +23,7 @@ excerpt: This past Independence Day my best friend and photographic conspirator 
 
 {% image "./src/assets/images/blog/2017-08-14-wanette/czahller-20170704-13-01-45.jpg", "img-constrained", "Former Bank Building, Wanette, Oklahoma (Rear, seen from North)", "Former Bank Building, Wanette, Oklahoma (Rear, seen from North)" %}</mpb-dialog-img>
 
-<time datetime="20170704">This past Independence Day</time> my best friend and photographic conspirator <span class="h-card p-name">Joe Crumley</span> and I drove to see the abandoned [Gandini Circus camp](http://www.atlasobscura.com/places/gandinis-circus){target=_blank rel="external noopener"} in Edmond. It was a great disappointment&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;most of the structures are gone, and overgrown greenery  obscured the rest, making it unsuitable to photograph.
+<time datetime="20170704">This past Independence Day</time> my best friend and photographic conspirator <span class="h-card p-name">Joe Crumley</span> and I drove to see the abandoned [Gandini Circus camp](https://www.atlasobscura.com/places/gandinis-circus){target=_blank rel="external noopener"} in Edmond. It was a great disappointment&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;most of the structures are gone, and overgrown greenery  obscured the rest, making it unsuitable to photograph.
 
 <mpb-dialog-img>
 

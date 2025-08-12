@@ -43,7 +43,7 @@ Fullbright was joined by renowned songwriter <span class="h-card p-name">[Willis
 
 <span class="h-card p-name">Randy Crouch</span>, known as the <q>World’s Best Rock &rsquo;n&rsquo; Roll Fiddler,</q>[^3] had an unbroken streak playing Woodyfest until <time datetime="2014-07">2014</time>, when illness prevented him from attending. The Oklahoma Music Awards Red Dirt Hall of Fame inductee lives in Tahlequah, where he holds court over regular jam sessions featuring some of Oklahoma’s best folk, country, and rock musicians and songwriters.
 
-[^3]: <cite class="h-card p-name cite-person">Wright, Leif M.</cite>, <cite class="short-work">Greatness wears a big beard: World’s best rock fiddle player also inspires, (OK Weekend.com <time datetime="2007-07-20">20 July 2007</time>)</cite>. [Archived at the Internet Wayback Machine](https://web.archive.org/web/20080403000534/http://okweekend.com/index.cgi?week=07_20_07&cat=home&subCat=topStories&item=1){target=_blank rel="external noopener"}.
+[^3]: <cite class="h-card p-name cite-person">Wright, Leif M.</cite>, <cite class="short-work">Greatness wears a big beard: World’s best rock fiddle player also inspires, (OK Weekend.com <time datetime="2007-07-20">20 July 2007</time>)</cite>. [Archived at the Internet Wayback Machine](https://web.archive.org/web/20080403000534/https://okweekend.com/index.cgi?week=07_20_07&cat=home&subCat=topStories&item=1){target=_blank rel="external noopener"}.
 
 Crouch is a virtuoso multi-instrumentalists. <q>I once saw him play where he’s over a steel guitar and a piano while he’s playing fiddle. In the middle of the song, he wants to tune up the fiddle, so he hits the A note on the piano with his fiddle bow and tunes the string and keeps on playing.</q>[^4]
 
