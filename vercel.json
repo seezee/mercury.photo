@@ -690,6 +690,16 @@
       "source": "/dan-weber-at-the-crystal-theatre-woody-guthrie-folk-festival/",
       "destination": "/blog/woodyfest-2013-dan-weber/",
       "permanent": true
+    },
+    {
+      "source": "/audrey-auld-at-the-crystal-theatre-woody-guthrie-folk-festival/",
+      "destination": "/blog/woodyfest-2013-audrey-auld/",
+      "permanent": true
+    },
+    {
+      "source": "/alex-culbreth-at-the-brick-caf-woody-guthrie-folk-festival/",
+      "destination": "/blog/woodyfest-2013-alex-culbreth/",
+      "permanent": true
     }
   ]
 }

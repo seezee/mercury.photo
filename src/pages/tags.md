@@ -6,7 +6,29 @@ pagination:
   data: collections
   size: 1
   alias: tag
-  filter: ["blog", "all"]
+  filter:
+    - blog
+    - all
+    - posts
+    - tags
+    - "404"
+    - ignore
+    - navigation
+    - home
+    - about
+    - baby-photography
+    - comment-policy
+    - contact
+    - feed
+    - newsletter
+    - okie-x-artists-survey
+    - okie-x-faq
+    - photo-copyright
+    - privacy
+    - sitemap
+    - terms-of-use
+    - wedding-photography
+    - whats-in-my-bag
 permalink: /blog/tags/{{ tag | slugify}}/
 override:tags: []
 eleventyExcludeFromCollections: true
