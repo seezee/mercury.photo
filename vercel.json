@@ -700,6 +700,11 @@
       "source": "/alex-culbreth-at-the-brick-caf-woody-guthrie-folk-festival/",
       "destination": "/blog/woodyfest-2013-alex-culbreth/",
       "permanent": true
+    },
+    {
+      "source": "/trout-fishing-in-america-childrens-matinee-woody-guthrie-folk-festival//",
+      "destination": "/blog/woodyfest-2013-trout-fishing/",
+      "permanent": true
     }
   ]
 }

@@ -18,7 +18,7 @@ excerpt: This weekend I celebrated my sixtieth birthday surrounded by friends an
 
 <!-- markdownlint-enable MD025 --><mpb-dialog-img>
 
-{% image "./src/assets/images/blog/2021-04-06-three-score-times/czahller-20210403-13-49-37.jpg", "img-constrained", "Rita, Terry, & Jean&NoBreak;&hairsp;&NoBreak;&ndash;&NoBreak;&hairsp;&NoBreak;Chris J. Zähller Birthday Celebration", "Rita, Terry, & Jean&NoBreak;&hairsp;&NoBreak;&ndash;&NoBreak;&hairsp;&NoBreak;Chris J. Zähller Birthday Celebration" %}</mpb-dialog-img>
+{% image "./src/assets/images/blog/2021-04-06-three-score-times/czahller-20210403-13-49-37.jpg", "img-constrained", "Rita, Terry, & Jean&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;Chris J. Zähller Birthday Celebration", "Rita, Terry, & Jean&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;Chris J. Zähller Birthday Celebration" %}</mpb-dialog-img>
 
 <time datetime="2021-04-03">This weekend</time> I celebrated my sixtieth birthday surrounded by friends and family. If you had told me I would be doing so weeks earlier, I wouldn't have believed you. But thanks to an accelerating COVID-19 vaccination rollout, everyone had had at least one of the two-dose vaccines, with most of us having received both.
 
@@ -28,18 +28,18 @@ I took most of the pictures shown here, except for the group photo, made by my d
 
 <mpb-dialog-gallery hint rel cols="8">
   
-  ![Rita, Terry, & Jean&NoBreak;&hairsp;&NoBreak;&ndash;&NoBreak;&hairsp;&NoBreak;Chris J. Zähller Birthday Celebration](/assets/images/blog/2021-04-06-three-score-times/czahller-20210403-13-49-37.jpg)
-  ![Jean & Katie&NoBreak;&hairsp;&NoBreak;&ndash;&NoBreak;&hairsp;&NoBreak;Chris J. Zähller Birthday Celebration](/assets/images/blog/2021-04-06-three-score-times/czahller-20210403-13-53-43.jpg)
-  ![Andy, Kim, & Kimberly&NoBreak;&hairsp;&NoBreak;&ndash;&NoBreak;&hairsp;&NoBreak;Chris J. Zähller Birthday Celebration](/assets/images/blog/2021-04-06-three-score-times/czahller-20210403-13-57-38.jpg)
-  ![Kimberly & Nate&NoBreak;&hairsp;&NoBreak;&ndash;&NoBreak;&hairsp;&NoBreak;Chris J. Zähller Birthday Celebration](/assets/images/blog/2021-04-06-three-score-times/czahller-20210403-14-01-32.jpg)
-  ![Andy&NoBreak;&hairsp;&NoBreak;&ndash;&NoBreak;&hairsp;&NoBreak;Chris J. Zähller Birthday Celebration](/assets/images/blog/2021-04-06-three-score-times/czahller-20210403-14-06-29.jpg)
-  ![Kimberly&NoBreak;&hairsp;&NoBreak;&ndash;&NoBreak;&hairsp;&NoBreak;Chris J. Zähller Birthday Celebration](/assets/images/blog/2021-04-06-three-score-times/czahller-20210403-14-10-14.jpg)
-  ![Rita&NoBreak;&hairsp;&NoBreak;&ndash;&NoBreak;&hairsp;&NoBreak;Chris J. Zähller Birthday Celebration](/assets/images/blog/2021-04-06-three-score-times/czahller-20210403-14-13-47.jpg)
-  ![Terry & Jean&NoBreak;&hairsp;&NoBreak;&ndash;&NoBreak;&hairsp;&NoBreak;Chris J. Zähller Birthday Celebration](/assets/images/blog/2021-04-06-three-score-times/czahller-20210403-14-17-02.jpg)
-  ![Kim & Andy&NoBreak;&hairsp;&NoBreak;&ndash;&NoBreak;&hairsp;&NoBreak;Chris J. Zähller Birthday Celebration](/assets/images/blog/2021-04-06-three-score-times/czahller-20210403-14-21-18.jpg)
-  ![Katie&NoBreak;&hairsp;&NoBreak;&ndash;&NoBreak;&hairsp;&NoBreak;Chris J. Zähller Birthday Celebration](/assets/images/blog/2021-04-06-three-score-times/czahller-20210403-14-25-27.jpg)
-  ![Joe&NoBreak;&hairsp;&NoBreak;&ndash;&NoBreak;&hairsp;&NoBreak;Chris J. Zähller Birthday Celebration](/assets/images/blog/2021-04-06-three-score-times/czahller-20210403-15-35-46.jpg)
-  ![Group Portrait&NoBreak;&hairsp;&NoBreak;&ndash;&NoBreak;&hairsp;&NoBreak;Chris J. Zähller Birthday Celebration](/assets/images/blog/2021-04-06-three-score-times/czahller-20210403-15-45-45.jpg)
+  ![Rita, Terry, & Jean](/assets/images/blog/2021-04-06-three-score-times/czahller-20210403-13-49-37.jpg)
+  ![Jean & Katie](/assets/images/blog/2021-04-06-three-score-times/czahller-20210403-13-53-43.jpg)
+  ![Andy, Kim, & Kimberly](/assets/images/blog/2021-04-06-three-score-times/czahller-20210403-13-57-38.jpg)
+  ![Kimberly & Nate](/assets/images/blog/2021-04-06-three-score-times/czahller-20210403-14-01-32.jpg)
+  ![Andy](/assets/images/blog/2021-04-06-three-score-times/czahller-20210403-14-06-29.jpg)
+  ![Kimberly](/assets/images/blog/2021-04-06-three-score-times/czahller-20210403-14-10-14.jpg)
+  ![Rita](/assets/images/blog/2021-04-06-three-score-times/czahller-20210403-14-13-47.jpg)
+  ![Terry & Jean](/assets/images/blog/2021-04-06-three-score-times/czahller-20210403-14-17-02.jpg)
+  ![Kim & Andy](/assets/images/blog/2021-04-06-three-score-times/czahller-20210403-14-21-18.jpg)
+  ![Katie](/assets/images/blog/2021-04-06-three-score-times/czahller-20210403-14-25-27.jpg)
+  ![Joe](/assets/images/blog/2021-04-06-three-score-times/czahller-20210403-15-35-46.jpg)
+  ![Group Portrait](/assets/images/blog/2021-04-06-three-score-times/czahller-20210403-15-45-45.jpg)
 </mpb-dialog-gallery>
 
 ## Technical
