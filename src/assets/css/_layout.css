@@ -764,11 +764,14 @@ hgroup h1 + p {
   [id^="mn\:"] {
     bottom: auto;
     anchor-name: --sidenote;
-    inset-block-start: max(anchor(start) , calc(anchor(--sidenote bottom) + var(--s1)));
+    /* inset-block-start: max(anchor(start) , calc(anchor(--sidenote bottom) + var(--s1))); /* Incompatible with css-anchor-positioning polyfill */
+    top: max(anchor(start) , calc(anchor(--sidenote bottom) + var(--s1)));
 
     @supports (anchor-name: --sidenote) {
       position: absolute;
     }
+
+    position: absolute;
 
     &::marker {
       color: var(--mpb-color-accent);
@@ -777,7 +780,8 @@ hgroup h1 + p {
 
   #fn\:1 {
     position-anchor: --fn-1;
-    inset-block-start: calc(anchor(start) - var(--s1));
+    /* inset-block-start: calc(anchor(start) - var(--s1)); /* Incompatible with css-anchor-positioning polyfill */
+    top: calc(anchor(start) - var(--s1));
   }
 
   #fn\:2 {
@@ -862,7 +866,8 @@ hgroup h1 + p {
 
   #mn\:1 {
     position-anchor: --mn-1;
-    inset-block-start: calc(anchor(start) - var(--s1));
+    /* inset-block-start: calc(anchor(start) - var(--s1)); /* Incompatible with css-anchor-positioning polyfill */
+    top: calc(anchor(start) - var(--s1));
   }
 
   #mn\:2 {

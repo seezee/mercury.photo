@@ -27,6 +27,11 @@
       ]
     }
   </script>
+  <script type="module">
+    if (!(`anchorName` in document.documentElement.style)) {
+      import(`https://unpkg.com/@oddbird/css-anchor-positioning`);
+    }
+  </script>
   <style>
     :root {
       --mpb-details-marker: url(/assets/images/icons/chevron-right.svg);
@@ -165,11 +170,13 @@
   <meta property="article:publisher" content="https://facebook.com/mercuryphoto/">
   {% seo "" %}
   <!-- Facebook -->
-  <meta property="og:image" content="https://mercury.photo{{ image }}" />
+  <meta property="og:image" content="{{ site }}{{ image }}" />
   <meta property="fb:app_id" content="1811156772801459">
   <!-- Structured data -->
   {% if recipe %}
     {{ recipe | safe }}
+  {% elif review %}
+    {{ review | safe }}
   {% endif %}
   {%- if '/blog' in page.url -%}
     {% if not index %}
@@ -186,16 +193,16 @@
             "name": "Mercury Photo Bureau",
             "logo": {
               "@type": "ImageObject",
-              "url": "https://mercury.photo/assets/images/site/mpb-logo.webp"
+              "url": "{{ site }}/assets/images/site/mpb-logo.webp"
             }
           },
           {% if title %}
             "headline": "{{ title }}",
           {% endif %}
           {% if image %}
-            "image": "https://mercury.photo{{ image }}",
+            "image": "{{ site }}{{ image }}",
           {% else %}
-            "image": "https://mercury.photo/assets/images/site/mpb-logo.webp"
+            "image": "{{ site }}/assets/images/site/mpb-logo.webp"
           {% endif %}
           {% if pubdate %}
             "datePublished": "{{ pubdate | toISOString | safe }}",

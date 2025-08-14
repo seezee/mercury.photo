@@ -7,7 +7,8 @@ function moveFootnote() {
   const list2      = document.getElementsByClassName(`app-marginnotes-list`);
 
   // Does the browser support position-anchor?
-  if (CSS.supports("position-anchor", "--foobar")) {
+  // Commented out because we are using a the css-anchor-positioning polyfill
+  // if (CSS.supports("position-anchor", "--foobar")) {
 
     const small   = document.createElement(`small`);
     if ((list.length) || (list2.length)) {
@@ -105,10 +106,10 @@ function moveFootnote() {
       ).observe(flexBox);
 
     }
-  } else {
+  /* } else {
     // position-anchor not supported; remove empty sidebar.
     sidebar.remove();
-  }
+  } */
 }
 
 window.onload = moveFootnote;

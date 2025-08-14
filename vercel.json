@@ -702,8 +702,13 @@
       "permanent": true
     },
     {
-      "source": "/trout-fishing-in-america-childrens-matinee-woody-guthrie-folk-festival//",
+      "source": "/trout-fishing-in-america-childrens-matinee-woody-guthrie-folk-festival/",
       "destination": "/blog/woodyfest-2013-trout-fishing/",
+      "permanent": true
+    },
+    {
+      "source": "/taqueria-san-tadeo/",
+      "destination": "/blog/taqueria-san-tadeo/",
       "permanent": true
     }
   ]
