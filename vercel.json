@@ -710,6 +710,11 @@
       "source": "/taqueria-san-tadeo/",
       "destination": "/blog/taqueria-san-tadeo/",
       "permanent": true
+    },
+    {
+      "source": "/sonicviolence-interview-gallery/",
+      "destination": "/blog/sonicviolence-interview-gallery/",
+      "permanent": true
     }
   ]
 }
