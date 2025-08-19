@@ -715,6 +715,11 @@
       "source": "/sonicviolence-interview-gallery/",
       "destination": "/blog/sonicviolence-interview-gallery/",
       "permanent": true
+    },
+    {
+      "source": "/shift-davey/",
+      "destination": "/blog/shift-davey/",
+      "permanent": true
     }
   ]
 }

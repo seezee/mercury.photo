@@ -29,16 +29,13 @@ Phonograph Needles and Silver Needle Tea</stack-l></hgroup>
 
 {% image "./src/assets/images/blog/2018-06-01-tyson-meade/czahller-20180526-23-14-45.jpg", "img-constrained", "Black and white image of Tyson Meade made from a negative that was damaged during post-development drying", "Damaged" %}</mpb-dialog-img>
 
-<div class="drop-cap">
-
-On <time datetime="2018-05-26">26 May</time>, central Oklahoma felt an earthquake. The vibrations were from the needle dropping on Godfather of Alt-Rock[^1] <span class="h-card p-name">Tyson Meade</span>’s new long player, <cite>Robbing the Nuclear Family</cite>. The 55-year-old rocker played piano and sang the entire album[^2] to an attentive audience at historic music venue VZD’s Restaurant and Bar. Before Meade took the stage, singer <span class="h-card p-name">Joe Hopkins</span> screened his new music video, a cover of Meade’s [Chainsaw Kittens](https://geo.itunes.apple.com/us/album/loneliest-china-place/34009922?i=34009930&mt=1&app=music&at=10ldhk){target=_blank rel="external noopener"}&NoBreak;&hairsp;&NoBreak;&ndash;&NoBreak;&hairsp;&NoBreak;era <cite>The Loneliest China Place,</cite> featuring footage of Meade himself. Meade performed that same song, as well as other Kittens’ favorites, in between songs from the new album.
+On <time datetime="2018-05-26">26 May</time>, central Oklahoma felt an earthquake. The vibrations were from the needle dropping on Godfather of Alt-Rock[^1] <span class="h-card p-name">Tyson Meade</span>’s new long player, <cite>Robbing the Nuclear Family</cite>. The 55-year-old rocker played piano and sang the entire album[^2] to an attentive audience at historic music venue VZD’s Restaurant and Bar. Before Meade took the stage, singer <span class="h-card p-name">Joe Hopkins</span> screened his new music video, a cover of Meade’s [Chainsaw Kittens](https://geo.itunes.apple.com/us/album/loneliest-china-place/34009922?i=34009930&mt=1&app=music&at=10ldhk){target=_blank rel="external noopener"}&NoBreak;&hairsp;&NoBreak;&ndash;&NoBreak;&hairsp;&NoBreak;era <cite>The Loneliest China Place,</cite> featuring footage of Meade himself. Meade performed that same song, as well as other Kittens’ favorites, in between songs from the new album.{.drop-cap}
 
 [^1]: I’ve not been able to track down the first print reference to this coinage. <cite>Spin</cite> magazine, <cite>Out</cite> magazine, <cite>AV Club</cite>, <cite>Brooklyn Vegan</cite>, and the <cite>Converse Shoe Blog</cite> all seem to have started using the moniker sometime in <time datetime="2014">2014</time>.
 
     Meade himself does not remember who first called him by the epithet.
 
 [^2]: This is not quite true, since he forgot the piano part to one of the songs and had to abandon it. Primarily a guitarist, Meade is relatively new to the piano, so cut him some slack, why don’t ya?
-</div>
 
 In the <time datetime="2014">4 years</time> since Meade’s previous album <cite>Tomorrow in Progress</cite> was released, he has produced and scored a [short documentary](https://www.shortoftheweek.com/2016/10/03/park-grubbs-story/){target=_blank rel="external noopener"} and a [feature film](https://www.facebook.com/blueberryhallfilm/){target=_blank rel="external noopener"}, and <time datetime="2018-04-05">in early April</time> he announced his candidacy for the Oklahoma 5<sup>th</sup> district U.S. congressional seat.
 

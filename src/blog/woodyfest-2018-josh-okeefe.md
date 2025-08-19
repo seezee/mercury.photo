@@ -30,12 +30,9 @@ excerpt: At first glance, one could be forgiven for dismissing twenty-five-year-
 
 ## Derby Native and Music School Dropout a Rising Star
 
-<div class="drop-cap">
-
-At first glance, one could be forgiven for dismissing twenty-five-year-old singer-songwriter <span class="h-card p-name">Josh Okeefe</span> as a mere pasticheur. An internet image search reveals his penchant for dressing like a certain <span class="h-card p-name">Robert Zimmerman</span> (a.k.a. <span class="h-card p-name">Bob Dylan</span>),[^1] particularly from that period when Dylan was imitating Okie <span class="h-card p-name"><span class="p-nickname">Woody</span> Guthrie</span>. The “<span class="h-card p-name">Huck Finn</span>” cap Okeefe sometimes sports is a near replica of the one Dylan wore on the cover of his [eponymous debut](https://en.wikipedia.org/wiki/Bob_Dylan_(album)){target=_blank rel="external noopener"}.
+At first glance, one could be forgiven for dismissing twenty-five-year-old singer-songwriter <span class="h-card p-name">Josh Okeefe</span> as a mere pasticheur. An internet image search reveals his penchant for dressing like a certain <span class="h-card p-name">Robert Zimmerman</span> (a.k.a. <span class="h-card p-name">Bob Dylan</span>),[^1] particularly from that period when Dylan was imitating Okie <span class="h-card p-name"><span class="p-nickname">Woody</span> Guthrie</span>. The “<span class="h-card p-name">Huck Finn</span>” cap Okeefe sometimes sports is a near replica of the one Dylan wore on the cover of his [eponymous debut](https://en.wikipedia.org/wiki/Bob_Dylan_(album)){target=_blank rel="external noopener"}.{.drop-cap}
 
 [^1]: A young Jewish college student from Duluth, Minnesota, Zimmerman famously changed his name around <time datetime="1959">1959</time>.
-</div>
 
 Slight of frame and piercing-eyed, Okeefe bears a striking resemblance to both men in their youths. Until recently he wore his hair in loose curls, much like young Dylan. His Guthrie-by-way-of-early-Dylan vocal timbre and phrasing seem further evidence of slavish imitation. Cementing the impression, he’s even written a Woodyesque “talking blues” number.[^2]
 

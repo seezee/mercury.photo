@@ -30,10 +30,7 @@ excerpt: The Red Dirt Rangers may not have birthed Red Dirt, but they helped mid
 
 {% image "./src/assets/images/blog/2018-11-12-woodyfest-red-dirt-rangers/czahller-20180712-19-45-33.jpg", "img-constrained", "Morgan, Brad, John M. Cooper, & John Fullbright — 21st Annual Woody Guthrie Festival, 2018", "Morgan, Brad, John M. Cooper, & John Fullbright&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;21st Annual Woody Guthrie Festival, 2018" %}</mpb-dialog-img>
 
-<div class="drop-cap">
-
-The Red Dirt Rangers may not have birthed Red Dirt, but they helped midwife the musical genre into the world. And like so much Oklahoma music, Red Dirt has made its influence felt far beyond the state’s borders.
-</div>
+The Red Dirt Rangers may not have birthed Red Dirt, but they helped midwife the musical genre into the world. And like so much Oklahoma music, Red Dirt has made its influence felt far beyond the state’s borders.{.drop-cap}
 
 Starting in the 1930s, when Kansas City Jazz arose from the ashes of the Oklahoma City Blue Devils,[^1] Oklahoma has been ground zero for several important American popular musical styles. There’s jazz-guitarist <span class="h-card p-name">Charlie Christian</span>, born in Texas but raised in Oklahoma City, whose horn-like playing paved the way for the modern guitar sound&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;influencing not just jazz, blues, western swing, and rock guitarists, but a whole passel of non-guitarist musicians as well.[^2]
 

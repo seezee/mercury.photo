@@ -29,10 +29,7 @@ excerpt: "It’s been years since the Dollyrots played Oklahoma City. But fortun
 Kelly Ogden Talks about Innuendo, Motherhood, and Spaghetti
 </stack-l></hgroup>
 
-<div class="drop-cap">
-
-It’s been years since the Dollyrots played Oklahoma City. But fortune finally favored the city’s denizens: <time datetime="2018-04-22">last April</time> the band opened for <span class="h-card p-org"><a href="https://geo.itunes.apple.com/us/artist/bowling-for-soup/1650849?mt=1&app=music&at=10ldhk" target="_blank" rel="external noopener">Bowling for Soup</a></span>, an act they’ve long been associated with, at the Tower Theatre. <time datetime="2019-03-22">Eleven months later to-the-day</time>, the Dollyrots headlined at the <span class="h-card p-org">89<sup>th</sup> Street Collective</span>. The last time they played that club it was still called <span class="h-card p-org">The Conservatory</span>.
-</div>
+It’s been years since the Dollyrots played Oklahoma City. But fortune finally favored the city’s denizens: <time datetime="2018-04-22">last April</time> the band opened for <span class="h-card p-org"><a href="https://geo.itunes.apple.com/us/artist/bowling-for-soup/1650849?mt=1&app=music&at=10ldhk" target="_blank" rel="external noopener">Bowling for Soup</a></span>, an act they’ve long been associated with, at the Tower Theatre. <time datetime="2019-03-22">Eleven months later to-the-day</time>, the Dollyrots headlined at the <span class="h-card p-org">89<sup>th</sup> Street Collective</span>. The last time they played that club it was still called <span class="h-card p-org">The Conservatory</span>.{.drop-cap}
 
 Formed in <time datetime="2000">2000</time>, the band comprises vocalist and guitarist <span class="h-card p-name">Luis Cabezas</span> and singer and bassist <span class="h-card p-name">Kelly Ogden</span>. The married couple are currently touring with their children, six-year-old <span class="h-card p-name p-firstname">River</span>[^1] and two-year-old <span class="h-card p-name p-firstname">Daisy</span>. On tour with them is drummer <span class="h-card p-name">Justin M<sup>c</sup>Grath</span>. You can see their upcoming dates <a href="https://www.dollyrots.com/tour" target="_blank" rel="external noopener">on their website</a>.
 

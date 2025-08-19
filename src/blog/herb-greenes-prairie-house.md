@@ -23,12 +23,11 @@ excerpt: In 1957 a young architect named Herb Greene returned to his alma mater,
 <p>An Architectural Gem on the Oklahoma Prairie</p></stack-l></hgroup>
 <!-- markdownlint-enable MD025 --><mpb-dialog-img>
 
-{% image "./src/assets/images/blog/2019-04-24-prairie-house/czahller-20170521-16-26-25.jpg", "img-constrained", "Southwest View — Prairie House, Norman, Oklahoma", "Southwest View — Prairie House, Norman, Oklahoma" %}</mpb-dialog-img><div class="drop-cap">
+{% image "./src/assets/images/blog/2019-04-24-prairie-house/czahller-20170521-16-26-25.jpg", "img-constrained", "Southwest View — Prairie House, Norman, Oklahoma", "Southwest View — Prairie House, Norman, Oklahoma" %}</mpb-dialog-img>
 
-In <time datetime="1957">1957</time> a young architect named <span class="h-card p-name">Herb Greene</span> returned to his alma mater, the <span class="h-card p-org">University of Oklahoma</span>, to teach. Working alongside his former professor (modernist <span class="h-card p-name">Bruce Goff</span>) and others, he helped develop the <span class="h-card p-org">American School</span> of architecture. Described as <q>A new school, probably the only indigenous one in the United States</q> by co-founder <span class="h-card p-name">Donald MacDonald</span>, the curriculum eschewed the pedagogy of the French Beaux Arts and Bauhaus schools, instead approaching architecture and its pedagogy in an <q>original and authentically American fashion</q> by emphasizing <q>individual creativity, organic forms, and experimentation.</q>&NoBreak;[^1]
+In <time datetime="1957">1957</time> a young architect named <span class="h-card p-name">Herb Greene</span> returned to his alma mater, the <span class="h-card p-org">University of Oklahoma</span>, to teach. Working alongside his former professor (modernist <span class="h-card p-name">Bruce Goff</span>) and others, he helped develop the <span class="h-card p-org">American School</span> of architecture. Described as <q>A new school, probably the only indigenous one in the United States</q> by co-founder <span class="h-card p-name">Donald MacDonald</span>, the curriculum eschewed the pedagogy of the French Beaux Arts and Bauhaus schools, instead approaching architecture and its pedagogy in an <q>original and authentically American fashion</q> by emphasizing <q>individual creativity, organic forms, and experimentation.</q>&NoBreak;[^1]{.drop-cap}
 
 [^1]: <cite class="h-card p-name cite-person">Pilat, Stephanie,</cite> <cite class="short-work">[The American School of Architecture: Building on the Plains](https://web.archive.org/web/20190425173020/https://stephaniepilat.oucreate.com/uncategorized/the-american-school-of-architecture-building-on-the-plains/){target="_blank" rel="external noopener"},</cite> <cite>stephaniepilat<wbr>.oucreate<wbr>.com</cite> (<time datetime="2017-02-12">12 February 2017</time>).
-</div>
 
 ## The Prairie Chicken
 

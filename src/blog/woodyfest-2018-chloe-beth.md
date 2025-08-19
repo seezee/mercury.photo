@@ -28,10 +28,7 @@ excerpt: Let’s just get it out of the way. Chloe-Beth Campbell (just "Chloe-Be
 
 {% image "./src/assets/images/blog/2018-11-30-woodyfest-chloe-beth/czahller-20180713-13-08-49.jpg", "img-constrained", "Chloe-Beth with Audience — 21st Annual Woody Guthrie Festival, 2018", "Chloe-Beth with Audience&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;21st Annual Woody Guthrie Festival, 2018" %}</mpb-dialog-img>
 
-<div class="drop-cap">
-
-Let’s just get it out of the way. <span class="h-card p-name">Chloe-Beth Campbell</span> (just "Chloe-Beth" when she performs) is tiny. Just shy of 4&prime;11&Prime; and weighing 110 pounds, she usually has to lower the microphone if she’s following another musician. And every article you’re going to read about her from today until she’s holding her second Grammy in twenty years is going to start <q>The petite singer from Oklahoma […],</q> which is entirely besides the point.
-</div>
+Let’s just get it out of the way. <span class="h-card p-name">Chloe-Beth Campbell</span> (just "Chloe-Beth" when she performs) is tiny. Just shy of 4&prime;11&Prime; and weighing 110 pounds, she usually has to lower the microphone if she’s following another musician. And every article you’re going to read about her from today until she’s holding her second Grammy in twenty years is going to start <q>The petite singer from Oklahoma […],</q> which is entirely besides the point.{.drop-cap}
 
 In the immediate future, most of what’s written about her will probably mention her youth. Most likely, there will be something about the voice of an <q>old soul.</q> Writers will proclaim astonishment that such a young person can express wisdom, as if young people can’t be wise.[^1] It’s true, Chloe-Beth gave her first Woodyfest showcase <time datetime="2017-07-15T11:00:00-5:00">last year</time>, when she was seventeen. She’s eighteen now. That’s also besides the point.
 

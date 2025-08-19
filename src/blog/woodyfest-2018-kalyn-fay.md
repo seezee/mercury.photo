@@ -32,10 +32,7 @@ excerpt: Your humble author first met musician Kalyn Fay in early 2016 when jour
 
 ## Tsa-La-Gi Songstress
 
-<div class="drop-cap">
-
-Your humble author first met musician <span class="h-card p-name">Kalyn Fay</span> in <time datetime="2016-01-30T13:00:00-6:00">early 2016</time> when journalist <span class="h-card p-name">[Nathan Poppe](https://www.nathanpoppe.com/){target=_blank rel="external noopener"}</a></span> brought her to the Bureau’s studio. She had come to sit as one of the earliest subjects for [OKIE-X](/okie-x/): Portraits of Oklahoma Musicians on X-Ray Film, an ongoing Bureau project. I had not heard her music at the time; my recollection is that <span class="h-card p-name">John Calvin Abney</span> suggested I invite her to sit.
-</div>
+Your humble author first met musician <span class="h-card p-name">Kalyn Fay</span> in <time datetime="2016-01-30T13:00:00-6:00">early 2016</time> when journalist <span class="h-card p-name">[Nathan Poppe](https://www.nathanpoppe.com/){target=_blank rel="external noopener"}</a></span> brought her to the Bureau’s studio. She had come to sit as one of the earliest subjects for [OKIE-X](/okie-x/): Portraits of Oklahoma Musicians on X-Ray Film, an ongoing Bureau project. I had not heard her music at the time; my recollection is that <span class="h-card p-name">John Calvin Abney</span> suggested I invite her to sit.{.drop-cap}
 
 The next time I saw Fay was during one of Woodyfest’s infamously rained-out opening days. The <time datetime="2016-07-14">2016</time> “Muddyfest” saw a toad-strangler of a <time datetime="2016-07-14">Thursday</time>, forcing the closure of the outdoor Community Improvement Association (CIA) stage and the main stage at the Pastures of Plenty. Fay was scheduled to be the third performer at the CIA stage, but the rain started <time datetime="2016-07-14T12:00:00-5:00">about an hour before she her set</time>. So the powers-that-be moved her to the upstairs dining area of the Brick Street Café&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;the basement stage was already in use as a festival venue, as it has been most years.[^1]
 

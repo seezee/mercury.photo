@@ -30,10 +30,7 @@ excerpt: You know how sometimes you see a movie, and time passes, and you’re c
 
 {% image "./src/assets/images/blog/2018-11-23-woodyfest-dan-martin/czahller-20180713-11-18-00.jpg", "img-constrained", "Dan (III) — 21st Annual Woody Guthrie Festival, 2018", "Dan (III)&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;21st Annual Woody Guthrie Festival, 2018" %}</mpb-dialog-img>
 
-<div class="drop-cap">
-
-You know how sometimes you see a movie, and time passes, and you’re convinced that a favorite actor appeared in it, only to learn it was someone else entirely? Well, something like that happened to this writer as regards Tulsa singer-songwriter <span class="h-card p-name">Dan Martin</span>.
-</div>
+You know how sometimes you see a movie, and time passes, and you’re convinced that a favorite actor appeared in it, only to learn it was someone else entirely? Well, something like that happened to this writer as regards Tulsa singer-songwriter <span class="h-card p-name">Dan Martin</span>.{.drop-cap}
 
 I had created a SoundCloud playlist featuring Oklahoma musicians to stream on my home music server, and one of the songs in that playlist was a recording of Martin singing <cite class="short-work">You Don’t Know That Town Like Me,</cite>[^1] a heart-wrenching description of a small town in its last throes. The kind of place where pumpjacks sit idle, food stamps support half the town, and Friday Night Lights are about the only thing keeping it all from blowing to dust. The kind of place, in other words, that dots the plains from North Dakota to the Texas-Mexico border.
 

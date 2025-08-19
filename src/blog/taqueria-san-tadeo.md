@@ -106,12 +106,9 @@ Rating
   </icon-l>
   <span class="lining">4.5 out of 5</span>
 
-<div class="drop-cap">
-
-Last week I stopped at Taqueria Ruiz[^1] for lunch after running some morning errands. I ordered a <span class="foreign" lang="es">taco revuelta</span> with a mixture of pork prepared three ways: <span class="foreign" lang="es">chicharróns</span> (pork rinds), <span class="foreign" lang="es">carnitas</span> (braised and shredded pork) and <span class="foreign" lang="es">al pastor</span> (pineapple-marinated and broiled pork).
+Last week I stopped at Taqueria Ruiz[^1] for lunch after running some morning errands. I ordered a <span class="foreign" lang="es">taco revuelta</span> with a mixture of pork prepared three ways: <span class="foreign" lang="es">chicharróns</span> (pork rinds), <span class="foreign" lang="es">carnitas</span> (braised and shredded pork) and <span class="foreign" lang="es">al pastor</span> (pineapple-marinated and broiled pork).{.drop-cap}
 
 [^1]: Since this article originally posted, the ownership and name of the restaurant have changed. They still serve the same tasty food, but operate under the name *Taqueria San Tadeo*. We have updated the article title to reflect the new name and have also updated the restaurant hours.
-</div>
 
 When I told proprietress <span class="h-card p-name">Mariía Ruiz</span> that I’d like some of her very spiciest salsa, she said, <q>Just a minute,</q> and dashed back to the kitchen. On her return, she brandished two fistsful of jalapeño peppers and asked, <q>Is that enough?</q> I agreed that it was, indeed, enough. She then blended them, along with onions, garlic, vinegar and seasoning, pouring nearly a pint (~475 milliters) of the resulting salsa into a styrofoam cup. As I had only ordered a single taco and some rice and beans, I had quite a bit of salsa left over, which Mrs. Ruiz triple-wrapped for me so I could get the precious elixir home without spills.
 

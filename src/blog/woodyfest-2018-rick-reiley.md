@@ -30,14 +30,11 @@ excerpt: Rick Reiley has never missed the Woody Guthrie Folk Festival. At least,
 
 {% image "./src/assets/images/blog/2018-10-22-woodyfest-rick-reiley/czahller-20180712-14-01-49.jpg", "img-constrained", "Rick Reiley — 21st Annual Woody Guthrie Festival, 2018", "Rick Reiley&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;21st Annual Woody Guthrie Festival, 2018" %}</mpb-dialog-img>
 
-<div class="drop-cap">
-
-<span class="h-card p-name">Rick Reiley</span> has never missed the Woody Guthrie Folk Festival. At least, he doesn’t think so. He kicked off the afternoon proceedings at <span class="h-card p-org">Lou’s Rocky Road Tavern</span> with <cite class="short-work">Heartache Train</cite>,[^1] a song he describes as his first attempt at writing a country tune some <time datetime="1973">forty-five years ago</time>. A longtime unofficial festival venue, Lou’s has featured festival performers and hosted open-mic sessions since the festival’s inception.[^2] This it their first year as an official Woodyfest stage.
+<span class="h-card p-name">Rick Reiley</span> has never missed the Woody Guthrie Folk Festival. At least, he doesn’t think so. He kicked off the afternoon proceedings at <span class="h-card p-org">Lou’s Rocky Road Tavern</span> with <cite class="short-work">Heartache Train</cite>,[^1] a song he describes as his first attempt at writing a country tune some <time datetime="1973">forty-five years ago</time>. A longtime unofficial festival venue, Lou’s has featured festival performers and hosted open-mic sessions since the festival’s inception.[^2] This it their first year as an official Woodyfest stage.{.drop-cap}
 
 [^1]: Beloved Lou’s owner <span class="h-card p-name">Lula Ann <span class="p-nickname">“Lou”</span> Johnson</span> was a long-time festival supporter. She died in <time datetime="2016-11=9">2016</time>.
 
 [^2]: Lou’s continues to host their weekly “Tuesday Tunes” at <time datetime="19:00:00CST">7:00 p.m.</time>, featuring a rotating cast of local and touring musicians. Since it’s at the same time as Tuesday Night Music Club, you’ll have to make a choice. Either way you’ll miss some great music.
-</div>
 
 <blockquote>
 

@@ -28,10 +28,8 @@ excerpt: Oklahoma Red Dirt musician Jake Flint, age 37, died Sunday mere hours a
 
 According to an article in [The Oklahoman](https://www.oklahoman.com/story/lifestyle/2023/06/22/oklahoma-songwriter-jake-flints-cause-of-death-revealed-in-me-report/70348895007/){target=_blank rel="external noopener"}, the Oklahoma chief medical examiner’s office has determined the singer’s cause of death to be acute alcohol poisoning, with heart disease listed as a significant contributor to his death.
 </mpb-callout>
-<div class="drop-cap">
 
-Oklahoma Red Dirt musician <span class="h-card p-name">Jake Flint</span>, age 37, died <time datetime="2022-27-11">Sunday</time> mere hours after marrying his fiancée Brenda.[^1] His longtime publicist Clif Doyal confirmed to The Oklahoman that the Red Dirt musician died in his sleep hours after saying his vows.
-</div>
+Oklahoma Red Dirt musician <span class="h-card p-name">Jake Flint</span>, age 37, died <time datetime="2022-27-11">Sunday</time> mere hours after marrying his fiancée Brenda.[^1] His longtime publicist Clif Doyal confirmed to The Oklahoman that the Red Dirt musician died in his sleep hours after saying his vows.{.drop-cap}
 
 [^1]: <span class="h-card p-name">McDonnell, Brandy</span>, <cite class="short-work">[Oklahoma, Red Dirt singer-songwriter Jake Flint, 37, dies just hours after his wedding](https://www.usatoday.com/story/entertainment/2022/11/29/jake-flint-death-obit-oklaoma-red-dirt-singer-songwriter-dies-hours-after-wedding/69683252007/){target=_blank rel="external noopener"}</cite>, <cite>The Oklahoman</cite>, <time datetime="2022-27-11">27 November 2022</time>
 

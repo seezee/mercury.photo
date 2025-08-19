@@ -29,10 +29,7 @@ excerpt: Making his eighth appearance as a performer at the Woody Guthrie Folk F
 
 {% image "./src/assets/images/blog/2018-10-26-woodyfest-johnsmith/czahller-20180712-15-18-57.jpg", "img-constrained", "Jammin’ with Rad — 21st Annual Woody Guthrie Festival, 2018", "Jammin’ with Rad&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;21st Annual Woody Guthrie Festival, 2018" %}</mpb-dialog-img>
 
-<div class="drop-cap">
-
-Making his eighth appearance as a performer at the Woody Guthrie Folk Festival, <span class="h-card p-name p-nickname">Johnsmith</span> thrilled the audience with a rock  ’n’ roll attitude erected over a solid folk foundation. The Wisconsin-based performer played <time datetime="2018-07-12T15:00:00-5:00">Thursday afternoon</time> at the Crystal Theatre. <span class="h-card p-name">Radoslav <span class="p-nickname">“Rad”</span> Lorković</span> accompanied him on keys and accordion, and festival favorite <span class="h-card p-name">Jaimee Harris</span> provided vocal harmonies on a couple of the closing numbers.
-</div>
+Making his eighth appearance as a performer at the Woody Guthrie Folk Festival, <span class="h-card p-name p-nickname">Johnsmith</span> thrilled the audience with a rock  ’n’ roll attitude erected over a solid folk foundation. The Wisconsin-based performer played <time datetime="2018-07-12T15:00:00-5:00">Thursday afternoon</time> at the Crystal Theatre. <span class="h-card p-name">Radoslav <span class="p-nickname">“Rad”</span> Lorković</span> accompanied him on keys and accordion, and festival favorite <span class="h-card p-name">Jaimee Harris</span> provided vocal harmonies on a couple of the closing numbers.{.drop-cap}
 
 Johnsmith has released eight solo albums to positive reviews, as well as winning the Kerrville New Folk Award and being nominated for an Independent Spirit Music Award.[^1]
 

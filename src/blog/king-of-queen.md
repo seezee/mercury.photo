@@ -34,10 +34,7 @@ excerpt: Featuring the music of the late Freddie Mercury, Friday and Saturday’
 Since publication, we’ve learned that The Boom has requested a two-weekend return engagement of <cite>The King of Queen</cite> in <time datetime="2016-01">January</time>.
 </mpb-callout>
 
-<div class="drop-cap">
-
-Featuring the music of the late <a href="https://geo.itunes.apple.com/us/album/night-at-opera-deluxe-edition/id934070682?at=10ldhk&mt=1&app=music" rel="external noopener"><span class="h-card p-org">Queen</span></a> front man <span class="h-card p-name">Freddie Mercury</span>, <time datetime="2015-11-14T08:00-06:00">Friday</time> and <time datetime="2015-11-14T08:00-06:00">Saturday</time>’s performances of <cite>The King of Queen</cite> played to sold out houses at Oklahoma City gay bar and performance venue The Boom. The audience were treated to a live band, an eight-member choir, and a high energy performance by its star. Director-producer <span class="h-card p-name">Leslie Hensley</span>, who plays Mercury, created the musical in collaboration with internationally-touring poet and activist <span class="h-card p-name">Lauren Zuniga</span>.
-</div>
+Featuring the music of the late <a href="https://geo.itunes.apple.com/us/album/night-at-opera-deluxe-edition/id934070682?at=10ldhk&mt=1&app=music" rel="external noopener"><span class="h-card p-org">Queen</span></a> front man <span class="h-card p-name">Freddie Mercury</span>, <time datetime="2015-11-14T08:00-06:00">Friday</time> and <time datetime="2015-11-14T08:00-06:00">Saturday</time>’s performances of <cite>The King of Queen</cite> played to sold out houses at Oklahoma City gay bar and performance venue The Boom. The audience were treated to a live band, an eight-member choir, and a high energy performance by its star. Director-producer <span class="h-card p-name">Leslie Hensley</span>, who plays Mercury, created the musical in collaboration with internationally-touring poet and activist <span class="h-card p-name">Lauren Zuniga</span>.{.drop-cap}
 
 <blockquote cite="https://www.gayly.com/%E2%80%9Cking-queen%E2%80%9D-freddie-mercury-tribute-show-boom">
 

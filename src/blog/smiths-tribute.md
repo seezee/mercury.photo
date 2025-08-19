@@ -27,10 +27,9 @@ excerpt: One of the most popular recent broadcasts on KOSU the SPY FM’s Oklaho
 
 {% image "./src/assets/images/blog/2015-10-30-smiths-tribute/czahller-20150927-18-48-57.jpg", "img-constrained", "Yellow roses & white sunflowers scattered on the stage around the microphone stands", "Flowers for Moz" %}</mpb-dialog-img>
 
-<div class="drop-cap">
+One of the most popular recent broadcasts on KOSU the SPY FM’s <span class="h-card p-org">Oklahoma Rock Show</span> was their all <span class="h-card p-name">Roger Miller</span> program. When local musician <span class="h-card p-name">Jerrod Beck</span> heard the show last <time datetime="2015-06">June</time>, he approached his friend, singer <span class="h-card p-name">Gabriel Knight Hancock</span>, with an idea. <q>What if we did a live Roger Miller cover show?</q> Hancock was on board, but it soon became apparent to both musicians that the show could, and should, be larger than the two of them.{.drop-cap}
 
-One of the most popular recent broadcasts on KOSU the SPY FM’s <span class="h-card p-org">Oklahoma Rock Show</span> was their all <span class="h-card p-name">Roger Miller</span> program. When local musician <span class="h-card p-name">Jerrod Beck</span> heard the show last <time datetime="2015-06">June</time>, he approached his friend, singer <span class="h-card p-name">Gabriel Knight Hancock</span>, with an idea. <q>What if we did a live Roger Miller cover show?</q> Hancock was on board, but it soon became apparent to both musicians that the show could, and should, be larger than the two of them.
-</div><mpb-dialog-img>
+<mpb-dialog-img>
 
 {% image "./src/assets/images/blog/2015-10-30-smiths-tribute/czahller-20150927-19-49-31.jpg", "img-constrained", "Aaron Tomasko (upright bass) accompanying Rachel Brashear (keys & vox) at twilight", "Aaron Tomasko & Rachel Brashear (I)" %}</mpb-dialog-img>
 

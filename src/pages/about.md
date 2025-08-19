@@ -15,10 +15,7 @@ My Brief Life As a Photographer
   </stack-l>
 </hgroup>
 
-<div class="drop-cap">
-
-My name is <span class="h-card"><span class="p-given-name">[Chris J. Zähller](https://chris.zahller.me/){target=_blank rel="external me noopener"}</span></span>, <a href="#mn:1" id="mnref:1"><span class="sr-only"> [See note]</span></a> and my 1<sup>st</sup> camera was a mail-order Kodak 110 Instamatic pocket film camera with a “stick” flash purchased by saving proofs-of-purchase from my mom’s feminine hygiene products. My 2<sup>nd</sup> camera was my mom’s hand-me-down Polaroid Land camera. I used a film SLR for a class assignment in the early 1980s, then didn’t pick up another camera for a decade-and-a-half when I bought a Canon Elph <abbr title="Advanced Photo System">APS</abbr> camera in the 1990s.
-</div>
+My name is <span class="h-card"><span class="p-given-name">[Chris J. Zähller](https://chris.zahller.me/){target=_blank rel="external me noopener"}</span></span>, <a href="#mn:1" id="mnref:1"><span class="sr-only"> [See note]</span></a> and my 1<sup>st</sup> camera was a mail-order Kodak 110 Instamatic pocket film camera with a “stick” flash purchased by saving proofs-of-purchase from my mom’s feminine hygiene products. My 2<sup>nd</sup> camera was my mom’s hand-me-down Polaroid Land camera. I used a film SLR for a class assignment in the early 1980s, then didn’t pick up another camera for a decade-and-a-half when I bought a Canon Elph <abbr title="Advanced Photo System">APS</abbr> camera in the 1990s.{.drop-cap}
 
 After that, I inherited a couple of [my brother’s](https://www.facebook.com/musicsantacruz){target=_blank rel="external noopener"} cast-off digital point &amp; shoots. They were okay, but nothing about them made me want to spend my vacation with a camera in front of my face when I could just be enjoying the sights unencumbered. Then something happened … to find out what, [read my 1<sup>st</sup> essay](/blog/how-i-learned-to-stop-worrying-and-love-the-circle-of-confusion-pt-1/).
 

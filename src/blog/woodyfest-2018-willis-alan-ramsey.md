@@ -32,10 +32,7 @@ excerpt: In my sophomore high school year, my family moved from the house we had
 
 ## Little Animals
 
-<div class="drop-cap">
-
-In my sophomore high school year, my family moved from the house we had been renting in the suburbs to a five-acre homestead in the country. Whereas previously we had lived within walking distance of primary, middle, and high schools, henceforth my siblings and I would ride the bus.
-</div>
+In my sophomore high school year, my family moved from the house we had been renting in the suburbs to a five-acre homestead in the country. Whereas previously we had lived within walking distance of primary, middle, and high schools, henceforth my siblings and I would ride the bus.{.drop-cap}
 
 The school buses were equipped with intercoms which also piped in whatever radio station the driver felt like playing. In my case that was a soft-rock FM station broadcasting the likes of <span class="h-card p-org">The Carpenters</span>, <span class="h-card p-name">Elton John</span> and <span class="h-card p-name">Kiki Dee</span>, <span class="h-card p-name">Barry Manilow</span>, and <span class="h-card p-org">The Captain and Tennille</span>. Consequently, the passengers endured the latter’s milquetoast cover of <cite class="short-work">Muskrat Candlelight,</cite> retitled <cite class="short-work">Muskrat Love,</cite> approximately one gajillion, gazillion times. For a teenager keen to explore the dark crevices of prog-rock, the titular rodents’ love affair was not an auspicious introduction to its author’s oeuvre.[^1]
 

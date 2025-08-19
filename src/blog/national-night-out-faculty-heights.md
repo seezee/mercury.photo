@@ -24,14 +24,11 @@ excerpt: Last Tuesday evening the Faculty Heights neighborhood joined thousands 
 
 {% image "./src/assets/images/blog/2018-10-09-natl-night-out/czahller-20181002-17-41-24.jpg", "img-constrained", "Michael Walker, Grillmaster — Faculty Heights Neighborhood National Night Out, 2018", "Michael Walker, Grillmaster&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;Faculty Heights Neighborhood National Night Out, 2018" %}</mpb-dialog-img>
 
-<div class="drop-cap">
-
-<time datetime="2018-08-19">Last Tuesday evening</time> the Faculty Heights neighborhood joined thousands of others across the U.S. to celebrate National Night Out.[^1] Neighborhood residents gathered at host <span class="h-card p-name">Miranda Arana</span>’s home[^2] to share food and fellowship. Ward Four councilman <span class="h-card p-name">Bill Hickman</span> dropped in to answer questions about city construction projects, traffic calming, the <abbr title="University North Park">UNP</abbr> <abbr title="Tax Increment Finance">TIF</abbr>, and other concerns. Norman PD’s Lieutenant Cary Bryant and one of his officers also joined the gathering to take questions and address concerns.
+<time datetime="2018-08-19">Last Tuesday evening</time> the Faculty Heights neighborhood joined thousands of others across the U.S. to celebrate National Night Out.[^1] Neighborhood residents gathered at host <span class="h-card p-name">Miranda Arana</span>’s home[^2] to share food and fellowship. Ward Four councilman <span class="h-card p-name">Bill Hickman</span> dropped in to answer questions about city construction projects, traffic calming, the <abbr title="University North Park">UNP</abbr> <abbr title="Tax Increment Finance">TIF</abbr>, and other concerns. Norman PD’s Lieutenant Cary Bryant and one of his officers also joined the gathering to take questions and address concerns.{.drop-cap}
 
 [^1]: [National Night Out](https://natw.org){target=_blank rel="external noopener"} is an annual community-building campaign. According to their website, their goal is promoting police&NoBreak;&hairsp;&NoBreak;&ndash;&NoBreak;&hairsp;&NoBreak;community partnerships and neighborhood camaraderie to make neighborhoods safer, more caring places to live.
 
 [^2]: Ms. Arana has been welcoming us to her home for our twice annual neighborhood gatherings for decades. For this we are so very grateful. Thank you, Miranda!
-</div>
 
 As usual, <span class="h-card p-name">Michael Walker</span> served as grill master, serving up curry burgers and frankfurters to the hungry crowd. The serving table stood laden with delicious entrées and desserts brought by guests to the potluck-style picnic.
 

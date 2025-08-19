@@ -25,10 +25,7 @@ excerpt: This year’s second place songwriting contest title went to Charlie Mo
 
 {% image "./src/assets/images/blog/2018-11-09-woodyfest-charlie-mosbrook/czahller-20180712-19-09-41.jpg", "img-constrained", "Charlie Mosbrook (I) — 21st Annual Woody Guthrie Festival, 2018", "Charlie Mosbrook (I)&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;21st Annual Woody Guthrie Festival, 2018" %}</mpb-dialog-img>
 
-<div class="drop-cap">
-
-<time datetime="2018">This year’s</time> second place songwriting contest title went to <span class="h-card p-name">Charlie Mosbrook</span> for his song <cite class="short-work">[Remember Who We Are](https://open.spotify.com/track/3QhBdOGEet9mS7UA4qhgtO){target=_blank rel="external noopener"}.</cite> Mosbrook performed the song as part of a short showcase kicking off evening performances on the Pastures of Plenty outdoor stage.
-</div>
+<time datetime="2018">This year’s</time> second place songwriting contest title went to <span class="h-card p-name">Charlie Mosbrook</span> for his song <cite class="short-work">[Remember Who We Are](https://open.spotify.com/track/3QhBdOGEet9mS7UA4qhgtO){target=_blank rel="external noopener"}.</cite> Mosbrook performed the song as part of a short showcase kicking off evening performances on the Pastures of Plenty outdoor stage.{.drop-cap}
 
 Mosbrook’s decades-long career began on the streets; he started as a busker, performing originals and traditional folk songs in the Great Lakes region (Chicago, Cleveland, Madison). A musical anthropologist, he’s worked to preserve traditional American music, plying his rich baritone and superb guitar work to entice all who will lend an ear. His positions as president of Folknet (a Northeast Ohio folk music society) and vice-president of Folk Alliance Region Midwest (FARM) afford him a soapbox from which to preach the Folk Gospel.
 

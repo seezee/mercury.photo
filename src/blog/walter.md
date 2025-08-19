@@ -26,10 +26,7 @@ excerpt: Through a series of unfortunate circumstances, my friend Mark Campbell 
 
 {% image "./src/assets/images/blog/2018-05-07-walter/czahller-20171121-15-02-23.jpg", "img-constrained", "A monochrome portrait of a Pekingese dog seated on a Windsor chair. The image was captured while the dog was shaking his head, so his ears are flying out to either side. His eyes are round and dark.", "Walter (III)&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;Pekingese Therapy Dog" %}</mpb-dialog-img>
 
-<div class="drop-cap">
-
-Through a series of unfortunate circumstances, my friend <span class="h-card p-name">Mark Campbell</span> lost custody of his therapy dog, a cairn terrier named Okra. He later adopted a new therapy dog, Walter, a rescue Pekingese.
-</div>
+Through a series of unfortunate circumstances, my friend <span class="h-card p-name">Mark Campbell</span> lost custody of his therapy dog, a cairn terrier named Okra. He later adopted a new therapy dog, Walter, a rescue Pekingese.{.drop-cap}
 
 <mpb-dialog-img>
 

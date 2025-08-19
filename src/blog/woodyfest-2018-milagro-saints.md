@@ -30,12 +30,9 @@ excerpt: Led by veteran English rocker Stephen D. Ineson, The Milagro Saints had
 
 {% image "./src/assets/images/blog/2018-10-29-woodyfest-milagro-saints/czahller-20180712-16-12-17.jpg", "img-constrained", "Stephen D. Ineson (II) — 21st Annual Woody Guthrie Festival, 2018", "Stephen D. Ineson (II)&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;21st Annual Woody Guthrie Festival, 2018" %}</mpb-dialog-img>
 
-<div class="drop-cap">
-
-Led by veteran English rocker <span class="h-card p-name">Stephen D. Ineson</span>,[^1] The Milagro Saints had the audience rocking in their seats in a successful return engagement to the Crystal Theatre Stage. The Raleigh, North Carolina&NoBreak;&ndash;&NoBreak;based band ran through a brisk set showcasing their signature roots-rock style, which they describe as <q>inspired by [the] late 60s and early 70s music which gave birth to the current Americana movement.</q>
+Led by veteran English rocker <span class="h-card p-name">Stephen D. Ineson</span>,[^1] The Milagro Saints had the audience rocking in their seats in a successful return engagement to the Crystal Theatre Stage. The Raleigh, North Carolina&NoBreak;&ndash;&NoBreak;based band ran through a brisk set showcasing their signature roots-rock style, which they describe as <q>inspired by [the] late 60s and early 70s music which gave birth to the current Americana movement.</q>{.drop-cap}
 
 [^1]: Ineson performs under his initials, <span class="h-card p-name"><span>“SD”</span> Ineson</span>. He toured with the Jack Rubies from <time datetime="1985">1985</time> to <time datetime="1987">1987</time>, opening for <span class="h-card p-org">Katrina and the Waves</span>, <span class="h-card p-name">Nik Kershaw</span>, and <span class="h-card p-org">The Blow Monkeys</span>.
-</div>
 
 Five members of the six-piece band played, with <span class="h-card p-name">Steve Bowen</span> on drums, <span class="h-card p-name">Steve Samosky</span> playing bass, <span class="h-card p-name">Roberto Morales</span> bending the strings on lead guitar, Ineson on vocals and guitar, and <span class="h-card p-name">Leon Kirby</span> on keys, harmonica, and melodica. Multi-instamentalist <span class="h-card p-name">Jick wins-Low</span> was absent.
 

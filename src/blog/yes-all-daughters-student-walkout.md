@@ -30,10 +30,9 @@ Since this article’s publication, Norman School District superintendent <span 
 <div class="no-drop-cap">
 
 [NORMAN, Okla., 24 Nov. 2014]⁠&NoBreak;&hairsp;&NoBreak;—
-</div><div class="drop-cap">
-
-An [online campaign](https://web.archive.org/web/20151127000525/https://www.facebook.com/yesalldaughters){target=_blank rel="external noopener"} to bring attention to Norman High School and local law enforcement’s response to the alleged rape of three female Norman High School students, all by the same male student, culminated in a mass student walkout and rally in front of the school <time datetime="2014-11-24">today</time>. The campaign and demonstration were originally organized by a coalition of students, their parents, and citizens.
 </div>
+
+An [online campaign](https://web.archive.org/web/20151127000525/https://www.facebook.com/yesalldaughters){target=_blank rel="external noopener"} to bring attention to Norman High School and local law enforcement’s response to the alleged rape of three female Norman High School students, all by the same male student, culminated in a mass student walkout and rally in front of the school <time datetime="2014-11-24">today</time>. The campaign and demonstration were originally organized by a coalition of students, their parents, and citizens.{.drop-cap}
 
 According to a story published <time datetime="2014-11-21">21 November</time> in the [Norman Transcript](https://www.normantranscript.com/news/campaign-suggests-walk-out-at-norman-high-on-heels-of/article_f8405c1e-7118-11e4-8ead-8f08f0aa1d49.html){target=_blank rel="external noopener"}, the protest is in response to the perceived failure of the school administration to provide adequate protection from bullying of the alleged victims. The article goes on to identify student <span class="h-card p-name">Danielle Brown</span>; her mother, <span class="h-card p-name">Kim Wright</span>; and her aunt, <span class="h-card p-name">Stacey Wright</span> as spokespersons for the group.
 

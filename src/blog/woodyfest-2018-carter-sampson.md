@@ -29,10 +29,7 @@ excerpt: This writer first saw Carter Sampson three-and-a-quarter years ago, whe
 
 {% image "./src/assets/images/blog/2018-11-16-woodyfest-carter-sampson/czahller-20180712-20-46-16.jpg", "img-constrained", "Carter Sampson (Seen from Upstage) — 21st Annual Woody Guthrie Festival, 2018", "Carter Sampson (Seen from Upstage)&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;21st Annual Woody Guthrie Festival, 2018" %}</mpb-dialog-img>
 
-<div class="drop-cap">
-
-This writer first saw <span class="h-card p-name">Carter Sampson</span> <time datetime="2015-07-11">three-and-a-quarter years ago</time>, when she played a short set at the Community Improvement Association (CIA) Stage at the Woody Guthrie Folk Festival. A few die-hards sat in the folding steel chairs at the outdoor venue, braving the 91&deg;&nbsp;F (32.8º&nbsp;C) temperature and 51 percent humidity as long as the beer vendor kept the suds coming. This reporter was between assignments and decided to stick around.
-</div>
+This writer first saw <span class="h-card p-name">Carter Sampson</span> <time datetime="2015-07-11">three-and-a-quarter years ago</time>, when she played a short set at the Community Improvement Association (CIA) Stage at the Woody Guthrie Folk Festival. A few die-hards sat in the folding steel chairs at the outdoor venue, braving the 91&deg;&nbsp;F (32.8º&nbsp;C) temperature and 51 percent humidity as long as the beer vendor kept the suds coming. This reporter was between assignments and decided to stick around.{.drop-cap}
 
 Wearing her trademark red boots, Sampson told the audience that she’s loved country music since she was a child. She was disappointed when, as a teenager, she realized her parents hadn’t named her "Carter" after the Carter Family.[^1] This setback did not keep her from picking up a guitar at age fifteen. Writing songs soon followed.
 

@@ -24,10 +24,7 @@ excerpt: Continuing on the heels of his successful Roger Miller, John Prine, and
 
 {% image "./src/assets/images/blog/2015-11-04-jj-cale-tribute/czahller-20151025-22-07-56.jpg", "img-constrained", "Kyle Reid, Aaron Pierce, Michael Lynn Byars, & John Calvin Abney", "Kyle Reid, Aaron Pierce, Michael Lynn Byars, & John Calvin Abney" %}</mpb-dialog-img>
 
-<div class="drop-cap">
-
-Continuing on the heels of his successful Roger Miller</span>, <span class="h-card p-name">John Prine</span>, and <span class="h-card p-org">Smiths</span> tributes, musician <span class="h-card p-name">Jerrod Beck</span> presented another great show <time datetime="2015-10-25">last month</time> with the help of many talented local musicians. On a cool, calm Sunday evening, the artists gathered on the Power House Bar’s patio stage to perform covers of songs by the late, great Oklahoma songwriter <span class="h-card p-name">J.J. Cale</span>. As with the previous tribute shows, each performer also showcased a one or two original songs.
-</div>
+Continuing on the heels of his successful Roger Miller</span>, <span class="h-card p-name">John Prine</span>, and <span class="h-card p-org">Smiths</span> tributes, musician <span class="h-card p-name">Jerrod Beck</span> presented another great show <time datetime="2015-10-25">last month</time> with the help of many talented local musicians. On a cool, calm Sunday evening, the artists gathered on the Power House Bar’s patio stage to perform covers of songs by the late, great Oklahoma songwriter <span class="h-card p-name">J.J. Cale</span>. As with the previous tribute shows, each performer also showcased a one or two original songs.{.drop-cap}
 
 <mpb-dialog-img>
 

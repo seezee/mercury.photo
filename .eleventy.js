@@ -1,7 +1,7 @@
 `use strict`;
 
 const browserslist                     = require('browserslist');
-const dotenv                           = require('dotenv').config();
+// const dotenv                           = require('dotenv').config();
 const eleventyAutoCacheBuster          = require('eleventy-auto-cache-buster');
 const eleventyPluginFilesMinifier      = require('@sherby/eleventy-plugin-files-minifier');
 const esbuild                          = require('esbuild');

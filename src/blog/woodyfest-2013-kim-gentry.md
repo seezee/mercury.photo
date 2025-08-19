@@ -32,7 +32,7 @@ Singer-Songwriter takes 2<sup>nd</sup> Prize in Woody Guthrie Songwriting Contes
 
 <mpb-callout type="notice" title="Update">
 
-Since this article originally posted, Gentry no longer performs as Berteal. Her music may be found under Kim Gentry Meyer on [Apple Music](https://geo.itunes.apple.com/us/artist/kim-gentry-meyer/1184334676?mt=1&app=music&at=10ldhk){target=_blank rel="external noopener"} as well as all the other usual platforms.
+Since this article originally posted, Gentry no longer performs as Berteal. Her music may be found under Kim Gentry Meyer on [Apple Music](https://geo.itunes.apple.com/us/artist/kim-gentry-meyer/1184334676?mt=1&app=music&at=10ldhk){target=_blank rel="external noopener"} as well as all of the other usual platforms.
 </mpb-callout>
 
 <blockquote cite="https://www.reverbnation.com/artist_1273284/bio">
@@ -45,7 +45,7 @@ I want to use any little bit of talent that is in me, *even* if that talent is n
   </footer>
 </blockquote>
 
-One half of brother-sister duo <span class="h-card p-org">Berteal</span>, <span class="h-card p-name">Kim Gentry</span> made her Woodyfest debut at the Crystal Theatre this <time datetime="2013-07-12T10:50-5:00">past July</time>, in a short showcase honoring her second-place showing in the <span class="h-card p-name">Woody Guthrie</span> songwriting contest. The young Indiana native also received her artist’s credentials from presenter <span class="h-card p-name">Bill McCloud</span>, a familiar face to longtime festival-goers.
+One half of brother-sister duo <span class="h-card p-org">Berteal</span>, <span class="h-card p-name">Kim Gentry</span> made her Woodyfest debut at the Crystal Theatre this <time datetime="2013-07-12T10:50-5:00">past July</time>, in a short showcase honoring her second-place showing in the <span class="h-card p-name">Woody Guthrie</span> songwriting contest. The young Indiana native also received her artist’s credentials from presenter <span class="h-card p-name">Bill McCloud</span>, a familiar face to longtime festival-goers.{.drop-cap}
 
 Gentry is a multi-instrumentalist and writes and sings all of her band’s songs, with her brother <span class="h-card p-name"><span class="p-given-name">Chad</span></span> claiming writing co-credit on some of their material. Chad also plays guitar, sings harmony, and writes the musical arrangements. In addition to Gentry’s songwriting prize, Berteal were recognized as the Best Group/Duo in the <time datetime="2012">2012</time> International Acoustic Music Awards, honored as finalists in the U.S.A. Songwriting Competition[^1], and showcased in <time datetime="2013">2013</time> at Nashville’s famous Bluebird Café. The pair are raising funds for a six-song EP; you can contribute at their [GoFundMe](https://www.gofundme.com/help-berteal-music-launch){target=_blank rel="external noopener"}</a> page.
 

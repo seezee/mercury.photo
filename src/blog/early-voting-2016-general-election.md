@@ -21,14 +21,11 @@ excerpt: Cleveland County residents may cast early in-person absentee ballots at
 <p>Citizens! Do Your Part for Democracy! Vote!</p></stack-l></hgroup>
 <!-- markdownlint-enable MD025 --><mpb-dialog-img>
 
-{% image "./src/assets/images/blog/2016-11-03-early-voting/czahller-20161103-11-59-26.jpg", "img-constrained", "Woman displays her “I Voted” sticker", "I Voted" %}</mpb-dialog-img>
+{% image "./src/assets/images/blog/2016-11-03-early-voting/czahller-20161103-11-59-26.jpg", "img-constrained", "Woman with “I Voted” sticker stuck to her forehead.", "I Voted" %}</mpb-dialog-img>
 
 [NORMAN, Okla., 3 November 2016]&NoBreak;&hairsp;&mdash;
 
-<div class="drop-cap">
-
-Norman residents had the opportunity to cast their ballots <time datetime="2016-04-01">today</time> during early absentee voting in the municipal election.
-</div>
+Norman residents had the opportunity to cast their ballots <time datetime="2016-04-01">today</time> during early absentee voting in the municipal election.{.drop-cap}
 
 Voters will elect a new mayor and also vote for city council members in even-numbered wards. They will also decide whether to pass bonds to fund street resurfacing, rehabilitation, and reconstruction. Finally, they will vote on 6 proposed amendments to the city charter.
 

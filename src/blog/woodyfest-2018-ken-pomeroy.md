@@ -31,12 +31,9 @@ excerpt: We first met singer and songwriter Ken Pomeroy on New Year’s Eve, 201
 
 {% image "./src/assets/images/blog/2019-02-01-woodyfest-ken-pomeroy/czahller-20180714-18-12-35.jpg", "img-constrained", "Kyle Reid & Ken Pomeroy — 21st Annual Woody Guthrie Festival, 2018", "Kyle Reid & Ken Pomeroy&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;21st Annual Woody Guthrie Festival, 2018" %}</mpb-dialog-img>
 
-<div class="drop-cap">
-
-We first met singer and songwriter <span class="h-card p-name">Ken Pomeroy</span> on <time datetime="2015-12-21T22:35:59-6:00">New Year’s Eve, 2015</time>. Her father, <span class="h-card p-name p-given-name">Skippy</span>, builds racing motorcycles in the large shop behind the family home and occasionally hosts concerts on the small stage inside.[^1] <span class="h-card p-org"><span class="p-name">Kyle Reid</span> and the Low-Swinging Chariots</span> headlined the end-of-year celebration. Before Reid’s set, Pomeroy played a short set of covers and original songs to a receptive audience.
+We first met singer and songwriter <span class="h-card p-name">Ken Pomeroy</span> on <time datetime="2015-12-21T22:35:59-6:00">New Year’s Eve, 2015</time>. Her father, <span class="h-card p-name p-given-name">Skippy</span>, builds racing motorcycles in the large shop behind the family home and occasionally hosts concerts on the small stage inside.[^1] <span class="h-card p-org"><span class="p-name">Kyle Reid</span> and the Low-Swinging Chariots</span> headlined the end-of-year celebration. Before Reid’s set, Pomeroy played a short set of covers and original songs to a receptive audience.{.drop-cap}
 
 [^1]: We’ve been in many green rooms. But Skippy’s green room, by day a spray booth for painting motorcycles, is the nicest. Before a concert Skippy furnishes it with comfortable, upholstered furniture, tables, lamps, a rug, and artwork. And of course he and his wife <span class="h-card p-name p-given-name">Wendy</span> stock it with plenty of snacks and drinks for the musicians. The shop does triple-duty as it also sometimes serves as [Wendy’s photography studio](https://www.okgazette.com/oklahoma/hardship-inspired-wendy-thomas-pomeroys-first-photography-exhibit-in-nearly-five-years/Content?oid=2981202){target=_blank rel="external noopener"}.
-</div>
 
 Besides the maturity of her writing, what really struck us about Pomeroy’s performance was that she had already developed a stage presence. Despite being only thirteen-years-old, Pomeroy did not stand motionless with her eyes closed, retreating into some performer’s inner sanctum. She kept her lids up. She feigned eye-contact[^2] with the audience. She talked to them. She *engaged* with them.
 
