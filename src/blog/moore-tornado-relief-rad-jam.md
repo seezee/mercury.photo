@@ -13,7 +13,7 @@ tags:
 date: Last Modified
 pubdate: 2013-08-18T23:45:02+00:00
 image: /assets/images/blog/2013-08-18-rad-jam/czahller-20130818-15-22-59.jpg
-excerpt: Chase Anderson and Oliver Holden-Moses, and Nico Lantelme are typical suburban teenage boys&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;and like many boys their age, they’re skateboarders.
+excerpt: Chase Anderson, Oliver Holden-Moses, and Nico Lantelme are typical suburban teenage boys&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;and like many boys their age, they’re skateboarders.
 ---
 <!-- markdownlint-disable MD025 -->
 <hgroup><stack-l>
