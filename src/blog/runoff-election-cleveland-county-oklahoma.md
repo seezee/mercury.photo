@@ -21,13 +21,10 @@ excerpt: Democrats will decide between John Cox and Freda Deskin for the State S
 
 {% image "./src/assets/images/blog/2012-11-02-early-voting/czahller-20121102-11-35-15.jpg", "img-constrained", "Sign above service counter, Cleveland County Election Board", "Sign above Service Counter, Cleveland County Election Board" %}</mpb-dialog-img>
 
-<div class="no-drop-cap">
+[NORMAN, Okla., 26 August 2014]&NoBreak;&hairsp;&mdash;{.no-drop-cap}
 
-[NORMAN, Okla., 26 August 2014]&NoBreak;&hairsp;&mdash;
+Democrats will decide between [<span class="h-card p-name">John Cox</span>](https://ballotpedia.org/John_Cox_(Oklahoma)){target=_blank rel="external noopener"} and [<span class="h-card p-name">Freda Deskin</span>](https://ballotpedia.org/Freda_Deskin){target=_blank rel="external noopener"} for the State Superintendent of Public Instruction. <time datetime="2014-08-26">Today</time>’s primary winner will face off Republican <span class="h-card p-name">Joy Hofmeister</span> in the general election.{.drop-cap}
 
-</div>
-
-Democrats will decide between [<span class="h-card p-name">John Cox</span>](https://ballotpedia.org/John_Cox_(Oklahoma)){target=_blank rel="external noopener"} and [<span class="h-card p-name">Freda Deskin</span>](https://ballotpedia.org/Freda_Deskin){target=_blank rel="external noopener"} for the State Superintendent of Public Instruction. <time datetime="2014-08-26">Today</time>’s primary winner will face off Republican <span class="h-card p-name">Joy Hofmeister</span> in the general election.
 <mpb-dialog-img>
 
 {% image "./src/assets/images/blog/2014-08-26-runoff/czahller-20140826-10-46-36.jpg", "img-constrained", "Norman resident Cleo Haines shortly after casting her vote in the Runoff Primary Election for the seat being vacated by U.S. Senator Tom Coburn & also for the next Oklahoma Superintendent of Public Instruction", "Voter Cleo Haines" %}</mpb-dialog-img>

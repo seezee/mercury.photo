@@ -720,6 +720,11 @@
       "source": "/shift-davey/",
       "destination": "/blog/shift-davey/",
       "permanent": true
+    },
+    {
+      "source": "/moore-tornado-relief-rad-jam/",
+      "destination": "/blog/moore-tornado-relief-rad-jam/",
+      "permanent": true
     }
   ]
 }

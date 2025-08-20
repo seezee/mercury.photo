@@ -27,10 +27,7 @@ This article has been updated to clarify the rôles of Danielle Brown, Kim Wrigh
 Since this article’s publication, Norman School District superintendent <span class="h-card p-name"><span class="p-honorific-prefix">Dr.</span> Joe Siano</span> [has agreed](https://www.normantranscript.com/opinion/norman-seeks-to-be-national-model-in-sexual-assault-curriculum/article_851c3624-7580-11e4-95bd-2baab2d12f1c.html){target=_blank rel="external noopener"} to many of the students’ demands.
 </mpb-callout>
 
-<div class="no-drop-cap">
-
-[NORMAN, Okla., 24 Nov. 2014]⁠&NoBreak;&hairsp;&NoBreak;—
-</div>
+[NORMAN, Okla., 24 Nov. 2014]⁠&NoBreak;&hairsp;&NoBreak;—{.no-drop-cap}
 
 An [online campaign](https://web.archive.org/web/20151127000525/https://www.facebook.com/yesalldaughters){target=_blank rel="external noopener"} to bring attention to Norman High School and local law enforcement’s response to the alleged rape of three female Norman High School students, all by the same male student, culminated in a mass student walkout and rally in front of the school <time datetime="2014-11-24">today</time>. The campaign and demonstration were originally organized by a coalition of students, their parents, and citizens.{.drop-cap}
 

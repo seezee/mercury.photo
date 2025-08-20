@@ -10,6 +10,7 @@ tags:
   - dance
   - electronica
   - world music
+  - fundraiser
 date: Last Modified
 pubdate: 2016-07-01T18:33:10+00:00
 image: /assets/images/blog/2016-07-01-dayna-strong/czahller-20160630-21-16-28.jpg
