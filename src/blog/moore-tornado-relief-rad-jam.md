@@ -42,7 +42,7 @@ But they’re also activists: on <time datetime="2013-08-18">Sunday, 18 August</
   ![Prize Scrum (V)](/assets/images/blog/2013-08-18-rad-jam/czahller-20130818-14-54-41.jpg)
   ![Prize Scrum (VI)](/assets/images/blog/2013-08-18-rad-jam/czahller-20130818-14-57-03.jpg)
   ![Slide (I)](/assets/images/blog/2013-08-18-rad-jam/czahller-20130818-15-05-33.jpg)
-  ![Longboarder (I)](/assets/images/blog/2013-08-18-rad-jam/czahller-20130818-15-13-00.jpg)
+  ![Runaway Board](/assets/images/blog/2013-08-18-rad-jam/czahller-20130818-15-13-00.jpg)
   ![Longboarder (I)](/assets/images/blog/2013-08-18-rad-jam/czahller-20130818-15-14-00.jpg)
   ![Young Longboarder](/assets/images/blog/2013-08-18-rad-jam/czahller-20130818-15-15-10.jpg)
   ![Longboarder (II)](/assets/images/blog/2013-08-18-rad-jam/czahller-20130818-15-15-58.jpg)
