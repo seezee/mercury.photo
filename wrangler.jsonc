@@ -1,0 +1,9 @@
+{
+  "name": "11ty-mercury-photo",
+  "main": "src/index.md",
+  "compatibility_date": "2025-01-01",
+  "assets": {
+    "directory": "./_site",
+    "binding": "src"
+  }
+}

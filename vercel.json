@@ -725,6 +725,16 @@
       "source": "/moore-tornado-relief-rad-jam/",
       "destination": "/blog/moore-tornado-relief-rad-jam/",
       "permanent": true
+    },
+    {
+      "source": "/post-mortem-shiyawesomes-final-bow/",
+      "destination": "/blog/shittyawesome-post-mortem/",
+      "permanent": true
+    },
+    {
+      "source": "/travis-linville-at-music4moore/",
+      "destination": "/blog/travis-linville-at-music4moore/",
+      "permanent": true
     }
   ]
 }
