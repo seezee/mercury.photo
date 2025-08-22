@@ -733,7 +733,12 @@
     },
     {
       "source": "/travis-linville-at-music4moore/",
-      "destination": "/blog/travis-linville-at-music4moore/",
+      "destination": "/blog/music4moore-travis-linville/",
+      "permanent": true
+    },
+    {
+      "source": "/jazz-in-june-2013-headliners-the-dirty-dozen-brass-band/",
+      "destination": "/blog/jazz-in-june-2013-dirty-dozen-brass-band/",
       "permanent": true
     }
   ]

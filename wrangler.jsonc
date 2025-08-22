@@ -1,9 +1,9 @@
 {
-  "name": "11ty-mercury-photo",
-  "main": "src/index.md",
-  "compatibility_date": "2025-01-01",
+  "name": "cf-worker-mercury-photo",
+  "compatibility_date": "2025-08-22",
   "assets": {
-    "directory": "./_site",
-    "binding": "src"
-  }
+    "directory": "_site",
+    "not_found_handling": "404-page"
+  },
+  "routes": [{ "pattern": "mercury.photo", "custom_domain": true }]
 }

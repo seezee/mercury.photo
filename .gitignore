@@ -177,5 +177,8 @@ cython_debug/
 # Eleventy
 _site
 
+# Cloudflare Wrangler
+.wrangler/
+
 # Dev
 .nvmrc
