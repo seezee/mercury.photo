@@ -338,7 +338,9 @@ module.exports = async function(eleventyConfig) {
 
   eleventyConfig.addPassthroughCopy({
     // Copy `/favicon/` to `_site/` (Don't use template string around key)
-    'favicon': `/`
+    'favicon': `/`,
+    // Copy `/_redirects/` to `_site/` (Don't use template string around key)
+    '_redirects': `/`
   });
   // Set custom directory for input; otherwise use defaults
   return {
