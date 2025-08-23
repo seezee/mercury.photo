@@ -27,7 +27,7 @@ excerpt: I drove to Okemah in early December to see folk singer and songwriter T
 
 # {{ title }}
 
-<p>Keeping it Simple</p></stack-l></hgroup>
+<p>Keeping it simple</p></stack-l></hgroup>
 <!-- markdownlint-enable MD025 --><mpb-dialog-img>
 
 {% image "./src/assets/images/blog/2018-12-19-tim-easton-exposition/czahller-20181207-14-50-37.jpg", "img-constrained", "Tim Easton — Exposition Sessions", "Tim Easton&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;Exposition Sessions" %}</mpb-dialog-img>

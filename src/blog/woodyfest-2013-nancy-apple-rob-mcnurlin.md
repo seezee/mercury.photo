@@ -25,7 +25,7 @@ excerpt: Nancy Apple and Rob McNurlin are almost as familiar to Woody Guthrie Fo
 <!-- markdownlint-disable MD025 -->
 # Woodyfest 2013: Nancy Apple & Rob M<sup>c</sup>Nurlin
 <!-- markdownlint-enable MD025 -->
-Community Outreach at the Okemah Nutrition Center
+Community 0utreach at the Okemah Nutrition Center
   </stack-l>
 </hgroup><mpb-dialog-img>
 

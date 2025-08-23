@@ -11,7 +11,7 @@ ogtype: website
 <!-- markdownlint-disable MD025 -->
 # {{ title }}
 <!-- markdownlint-enable MD025 -->
-My Brief Life As a Photographer
+My brief life as a photographer
   </stack-l>
 </hgroup>
 

@@ -26,7 +26,7 @@ excerpt: Born and raised on the Wind River Indian Reservation near Lander, Wyomi
 <!-- markdownlint-disable MD025 -->
 # {{ title }}
 <!-- markdownlint-enable MD025 -->
-Blues & Soul from the High Plains
+Blues & soul from the high plains
   </stack-l>
 </hgroup><mpb-dialog-img>
 

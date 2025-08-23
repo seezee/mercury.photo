@@ -24,7 +24,7 @@ excerpt: Born in the Bronx under the name Elizabeth Gowan Berliner, Jaane Doe st
 
 # {{ title }}
 
-<p>Jaane Doe & the Art of Reinvention</p></stack-l></hgroup>
+<p>Jaane Doe & the art of reinvention</p></stack-l></hgroup>
 <!-- markdownlint-enable MD025 --><mpb-dialog-img>
 
 {% image "./src/assets/images/blog/2018-10-19-woodyfest-jaane-doe/czahller-20180712-12-18-05.jpg", "img-constrained", "Jaane Doe (Behind the Drumkit) — 21st Annual Woody Guthrie Festival, 2018", "Jaane Doe (Behind the Drumkit)&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;21st Annual Woody Guthrie Festival, 2018" %}</mpb-dialog-img>

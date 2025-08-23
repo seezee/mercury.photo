@@ -25,7 +25,7 @@ excerpt: Led by veteran English rocker Stephen D. Ineson, The Milagro Saints had
 
 # {{ title }}
 
-<p>Chart Topping Folk-Rockers at Woodyfest</p></stack-l></hgroup>
+<p>Chart topping folk-rockers at Woodyfest</p></stack-l></hgroup>
 <!-- markdownlint-enable MD025 --><mpb-dialog-img>
 
 {% image "./src/assets/images/blog/2018-10-29-woodyfest-milagro-saints/czahller-20180712-16-12-17.jpg", "img-constrained", "Stephen D. Ineson (II) — 21st Annual Woody Guthrie Festival, 2018", "Stephen D. Ineson (II)&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;21st Annual Woody Guthrie Festival, 2018" %}</mpb-dialog-img>

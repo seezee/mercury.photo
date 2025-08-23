@@ -27,7 +27,7 @@ excerpt: My first encounter with the music of My Brightest Diamond was a track o
 
 # {{ title }}
 
-<p>Chamber Pop Chanteuse Enchants</p></stack-l></hgroup>
+<p>Chamber pop chanteuse enchants</p></stack-l></hgroup>
 <!-- markdownlint-enable MD025 --><mpb-dialog-img>
 
 {% image "./src/assets/images/blog/2019-04-17-my-brightest-diamond/czahller-20190406-14-48-35.jpg", "img-constrained", "Shara Nova (Outtake 2) — OKIE-X (Oklahoma Musicians on X-ray Film)", "Shara Nova (Outtake 2)&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;OKIE-X (Oklahoma Musicians on X-ray Film)" %}</mpb-dialog-img>

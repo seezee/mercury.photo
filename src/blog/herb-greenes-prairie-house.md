@@ -20,7 +20,7 @@ excerpt: In 1957 a young architect named Herb Greene returned to his alma mater,
 
 # {{ title }}
 
-<p>An Architectural Gem on the Oklahoma Prairie</p></stack-l></hgroup>
+<p>An architectural gem on the Oklahoma prairie</p></stack-l></hgroup>
 <!-- markdownlint-enable MD025 --><mpb-dialog-img>
 
 {% image "./src/assets/images/blog/2019-04-24-prairie-house/czahller-20170521-16-26-25.jpg", "img-constrained", "Southwest View — Prairie House, Norman, Oklahoma", "Southwest View — Prairie House, Norman, Oklahoma" %}</mpb-dialog-img>

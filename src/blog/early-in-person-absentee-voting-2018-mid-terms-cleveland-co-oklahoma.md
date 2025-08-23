@@ -19,7 +19,7 @@ excerpt: Cleveland County residents may cast early in-person absentee ballots at
 
 # {{ title }}
 
-<p>Early In-Person Absentee Voting <time datetime="2018-11-01">Today</time> thru <time datetime="2018-01-03">Saturday</time></p></stack-l></hgroup>
+<p>Early in-person absentee voting <time datetime="2018-11-01">Today</time> thru <time datetime="2018-01-03">Saturday</time></p></stack-l></hgroup>
 <!-- markdownlint-enable MD025 --><mpb-dialog-img>
 
 {% image "./src/assets/images/blog/2018-11-01-mid-term-voting/czahller-20181101-11-52-29.jpg", "img-constrained", "Cleveland County Election Board Sign & Seal", "Cleveland County Election Board Sign & Seal" %}</mpb-dialog-img>

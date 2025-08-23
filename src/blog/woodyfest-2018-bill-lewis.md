@@ -24,7 +24,7 @@ excerpt: Kicking off the 21st annual Woody Guthrie Folk Festival, Bill Lewis bro
 
 # {{ title }}
 
-<p>Bill Lewis Brings Taste of Hill Country to Okemah</p></stack-l></hgroup>
+<p>Bill Lewis brings taste of Hill Country to Okemah</p></stack-l></hgroup>
 <!-- markdownlint-enable MD025 --><mpb-dialog-img>
 
 {% image "./src/assets/images/blog/2018-10-15-woodyfest-bill-lewis/czahller-20180712-11-47-39.jpg", "img-constrained", "Bill Lewis (VI) — 21st Annual Woody Guthrie Festival, 2018", "Bill Lewis (VI)&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;21st Annual Woody Guthrie Festival, 2018" %}</mpb-dialog-img>

@@ -19,7 +19,7 @@ excerpt: Visual artists and musicians pooled their talents last Saturday to rais
 
 # {{ title }}
 
-<p>Artists Raise Funds for Festival</p></stack-l></hgroup>
+<p>Artists raise funds for festival</p></stack-l></hgroup>
 <!-- markdownlint-enable MD025 --><mpb-dialog-img>
 
 {% image "./src/assets/images/blog/2018-04-23-hoot-root/czahller-20180421-18-33-09.jpg", "img-constrained", "Joshua Pōlaschek smiling at audience", "Happy" %}</mpb-dialog-img>

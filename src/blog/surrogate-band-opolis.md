@@ -22,7 +22,7 @@ excerpt: Yesterday we told you about the Surrogate Band, formed in 2011 to perfo
 
 # {{ title }}
 
-<p>Ziggy Lives</p></stack-l></hgroup>
+<p>Ziggy lives</p></stack-l></hgroup>
 <!-- markdownlint-enable MD025 --><mpb-dialog-img>
 
 {% image "./src/assets/images/blog/2014-06-20-surrogate-band-opolis/czahller-20140420-12-38-05.jpg", "img-constrained", "Amy Downes, Gabe Barham, Justin Hogan, David Goad, Richie Zenner, Chris Sanders, J. R. Reagor, Chris Wilson, & Kristine Kamen Wendt as the Surrogate Band. They pose on the Opolis patio under sodium vapor lighting.", "The Surrogate Band" %}</mpb-dialog-img>

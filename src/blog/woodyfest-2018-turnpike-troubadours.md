@@ -25,7 +25,7 @@ excerpt: Marking their third appearance at the Woody Guthrie Folk Festival, the 
 
 # {{ title }}
 
-<p>Third Time’s a Charm</p></stack-l></hgroup>
+<p>Third time’s a charm</p></stack-l></hgroup>
 <!-- markdownlint-enable MD025 --><mpb-dialog-img>
 
 {% image "./src/assets/images/blog/2018-11-19-woodyfest-turnpike-troubadours/czahller-20180712-23-07-38.jpg", "img-constrained", "Turnpike Troubadors (Kyle Nix, Gabe Pearson, Evan Felker, & R.C. Edwards) — 21st Annual Woody Guthrie Festival, 2018", "Turnpike Troubadors (Kyle Nix, Gabe Pearson, Evan Felker, & R.C. Edwards)&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;21st Annual Woody Guthrie Festival, 2018" %}</mpb-dialog-img>

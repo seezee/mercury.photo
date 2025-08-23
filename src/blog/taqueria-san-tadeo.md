@@ -71,7 +71,7 @@ review: '<script type="application/ld+json">
 
 # {{ title }}
 
-<p>Terrific Taco; Stellar Service</p></stack-l></hgroup>
+<p>Terrific taco; stellar service</p></stack-l></hgroup>
 <!-- markdownlint-enable MD025 --><mpb-dialog-img>
 
 {% image "./src/assets/images/blog/2013-09-27-taqueria-san-tadeo/czahller-20130919-12-00-04.jpg", "img-constrained", "Maria Ruiz displays a blender pitcher of freshly made salsa verde.", "Salsa Picante (Verde) at Taqueria Ruiz" %}</mpb-dialog-img>

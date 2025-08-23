@@ -25,7 +25,7 @@ excerpt: As most Woodyfest supporters know, festival favorite Audrey Auld-Mezera
 
 # {{ title }}
 
-<p>Mez Perks Up Pasture’s Previous Primitive Provisions</p></stack-l></hgroup>
+<p>Mez perks up Pasture’s previous primitive provisions</p></stack-l></hgroup>
 <!-- markdownlint-enable MD025 --><mpb-dialog-img>
 
 {% image "./src/assets/images/blog/2018-11-05-woodyfest-backstage-thursday/czahller-20180712-18-53-40.jpg", "img-constrained", "Ron Landis, Justin Easter, Becky Gragg, Opal Agafia, & Gary Hart in the Green Room — 21st Annual Woody Guthrie Festival, 2018", "Ron Landis, Justin Easter, Becky Gragg, Opal Agafia, & Gary Hart in the Green Room&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;21st Annual Woody Guthrie Festival, 2018" %}</mpb-dialog-img>

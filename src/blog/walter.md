@@ -21,7 +21,7 @@ excerpt: Through a series of unfortunate circumstances, my friend Mark Campbell 
 
 # {{ title }}
 
-<p>A Door Closes and a Window Opens</p></stack-l></hgroup>
+<p>A door closes and a window opens</p></stack-l></hgroup>
 <!-- markdownlint-enable MD025 --><mpb-dialog-img>
 
 {% image "./src/assets/images/blog/2018-05-07-walter/czahller-20171121-15-02-23.jpg", "img-constrained", "A monochrome portrait of a Pekingese dog seated on a Windsor chair. The image was captured while the dog was shaking his head, so his ears are flying out to either side. His eyes are round and dark.", "Walter (III)&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;Pekingese Therapy Dog" %}</mpb-dialog-img>

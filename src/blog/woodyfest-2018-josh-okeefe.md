@@ -23,7 +23,7 @@ excerpt: At first glance, one could be forgiven for dismissing twenty-five-year-
 
 # {{ title }}
 
-<p>A Student of Struggle</p></stack-l></hgroup>
+<p>A student of struggle</p></stack-l></hgroup>
 <!-- markdownlint-enable MD025 --><mpb-dialog-img>
 
 {% image "./src/assets/images/blog/2019-01-25-woodyfest-josh-okeefe/czahller-20180714-16-03-46.jpg", "img-constrained", "Josh Okeefe — 21st Annual Woody Guthrie Festival, 2018", "Josh Okeefe&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;21st Annual Woody Guthrie Festival, 2018" %}</mpb-dialog-img>

@@ -22,7 +22,7 @@ excerpt: Originally formed in 2011 to perform Pink Floyd’s <cite>The Wall</cit
 
 # {{ title }}
 
-<p>Major Tom Lands at Hi-Lo</p></stack-l></hgroup>
+<p>Major Tom lands at Hi-Lo</p></stack-l></hgroup>
 <!-- markdownlint-enable MD025 --><mpb-dialog-img>
 
 {% image "./src/assets/images/blog/2014-06-19-surrogate-band-hi-lo/czahller-20140302-00-46-47.jpg", "img-constrained", "

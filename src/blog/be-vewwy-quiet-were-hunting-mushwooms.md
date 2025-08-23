@@ -90,7 +90,7 @@ recipe: '<script type="application/ld+json">
 
 # {{ title }}
 
-<p>Wet, Warm Spring Spawns Spectacular ’shrooms</p></stack-l></hgroup>
+<p>Wet, warm spring spawns spectacular ’shrooms</p></stack-l></hgroup>
 <!-- markdownlint-enable MD025 --><mpb-dialog-img>
 
 {% image "./src/assets/images/blog/2019-04-19-mushroom-hunt/czahller-20190408-16-45-43.jpg", "img-constrained", "RT Valine displaying his morel haul and brandishing his mushroom knife", "The Mighty Hunter’s Bounty&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;Oklahoma Morel Foraging, 2019" %}</mpb-dialog-img>

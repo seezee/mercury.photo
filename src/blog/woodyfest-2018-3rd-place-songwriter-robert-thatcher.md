@@ -24,7 +24,7 @@ excerpt: Third place in the 2018 Woody Guthrie Folk Festival Songwriting Contest
 
 # {{ title }}
 
-<p>Third Time’s a Charm</p></stack-l></hgroup>
+<p>Third time’s a charm</p></stack-l></hgroup>
 <!-- markdownlint-enable MD025 --><mpb-dialog-img>
 
 {% image "./src/assets/images/blog/2018-12-24-woodyfest-robt-thatcher/czahller-20180713-19-02-46.jpg", "img-constrained", "Alice & Robert Thatcher — 21st Annual Woody Guthrie Festival, 2018", "Alice & Robert Thatcher&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;21st Annual Woody Guthrie Festival, 2018" %}</mpb-dialog-img>

@@ -23,7 +23,7 @@ excerpt: Members of the Guthrie family performed a musical showcase at Okemah’
 
 # {{ title }}
 
-<p>Three Generations Take Stage</p></stack-l></hgroup>
+<p>Three generations take stage</p></stack-l></hgroup>
 <!-- markdownlint-enable MD025 --><mpb-dialog-img>
 
 {% image "./src/assets/images/blog/2019-01-17-woodyfest-guthrie-family/czahller-20180714-14-23-55.jpg", "img-constrained", "Guthrie family viewed thru fishey lens — 21st Annual Woody Guthrie Festival, 2018", "Guthrie Family (Fisheye I)&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;21st Annual Woody Guthrie Festival, 2018" %}</mpb-dialog-img>

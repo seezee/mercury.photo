@@ -29,7 +29,7 @@ excerpt: We took the same medium format gear to the Pastures of Plenty backstage
 # {{ title }}
 <!-- markdownlint-enable MD025 -->
 
-Playing Paparazzo at the Pastures
+Playing paparazzo at the Pastures of Plenty
   </stack-l>
 </hgroup><mpb-dialog-img>
 

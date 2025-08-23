@@ -27,7 +27,7 @@ excerpt: As singer-songwriter Rebecca Loebe told the audience at the Crystal The
 <!-- markdownlint-disable MD025 -->
 # {{ title }}
 <!-- markdownlint-enable MD025 -->
-Self-Styled “Post-Brontosaurus Indie Folk/Crunk” Artist Captivates Audience
+Self-styled “post-brontosaurus indie folk/crunk” artist captivates audience
   </stack-l>
 </hgroup><mpb-dialog-img>
 

@@ -22,7 +22,7 @@ excerpt: One of the most popular recent broadcasts on KOSU the SPY FM’s Oklaho
 
 # {{ title }}
 
-<p>You Can’t Go Skating in a Buffalo Herd … But You Can Sing about It</p></stack-l></hgroup>
+<p>You can’t go skating in a buffalo herd … but you can sing about it</p></stack-l></hgroup>
 <!-- markdownlint-enable MD025 --><mpb-dialog-img>
 
 {% image "./src/assets/images/blog/2015-10-30-smiths-tribute/czahller-20150927-18-48-57.jpg", "img-constrained", "Yellow roses & white sunflowers scattered on the stage around the microphone stands", "Flowers for Moz" %}</mpb-dialog-img>

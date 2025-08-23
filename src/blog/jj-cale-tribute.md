@@ -19,7 +19,7 @@ excerpt: Continuing on the heels of his successful Roger Miller, John Prine, and
 
 # {{ title }}
 
-<p>If You’re Ever in Oklahoma (Stop at the Power House Bar)</p></stack-l></hgroup>
+<p>If you’re ever in Oklahoma (stop at the Power House Bar)</p></stack-l></hgroup>
 <!-- markdownlint-enable MD025 --><mpb-dialog-img>
 
 {% image "./src/assets/images/blog/2015-11-04-jj-cale-tribute/czahller-20151025-22-07-56.jpg", "img-constrained", "Kyle Reid, Aaron Pierce, Michael Lynn Byars, & John Calvin Abney", "Kyle Reid, Aaron Pierce, Michael Lynn Byars, & John Calvin Abney" %}</mpb-dialog-img>

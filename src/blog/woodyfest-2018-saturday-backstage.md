@@ -29,7 +29,7 @@ excerpt: We took the same medium format gear to the Pastures of Plenty backstage
 # {{ title }}
 <!-- markdownlint-enable MD025 -->
 
-A Crasher with a Camera
+A crasher with a camera
   </stack-l>
 </hgroup><mpb-dialog-img>
 

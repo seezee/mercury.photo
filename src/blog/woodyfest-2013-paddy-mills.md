@@ -26,7 +26,7 @@ excerpt: Fresh from winning or placing in two other songwriting contests, Paddy 
 <!-- markdownlint-disable MD025 -->
 # {{ title }}
 <!-- markdownlint-enable MD025 -->
-New England Folk Singer Wins Contest
+New England folk singer wins contest
   </stack-l>
 </hgroup><mpb-dialog-img>
 

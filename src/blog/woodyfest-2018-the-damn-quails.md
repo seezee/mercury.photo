@@ -24,7 +24,7 @@ excerpt: According to their band bio, The Damn Quails began life as a weekly jam
 
 # {{ title }}
 
-<p>From Jam Session to Touring Band</p></stack-l></hgroup>
+<p>From jam session to touring band</p></stack-l></hgroup>
 <!-- markdownlint-enable MD025 --><mpb-dialog-img>
 
 {% image "./src/assets/images/blog/2018-12-21-woodyfest-damn-quails/czahller-20180713-18-12-27-crop.jpg", "img-constrained", "Cigarette (detail) — 21st Annual Woody Guthrie Festival, 2018", "Cigarette (detail)&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;21st Annual Woody Guthrie Festival, 2018" %}</mpb-dialog-img>

@@ -25,7 +25,7 @@ excerpt: Between 1854 and 1929, the Children’s Aid Society removed over a quar
 <!-- markdownlint-disable MD025 -->
 # {{ title }}
 <!-- markdownlint-enable MD025 -->
-Pair Recounts Dark Historical Chapter in Story & Song
+Pair recounts dark historical chapter in story & song
   </stack-l>
 </hgroup><mpb-dialog-img>
 

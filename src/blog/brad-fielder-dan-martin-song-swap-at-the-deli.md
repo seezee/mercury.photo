@@ -24,7 +24,7 @@ excerpt: A pair of Oklahoma’s premier songwriters sharing a stage should draw 
 
 # {{ title }}
 
-<p>Peerless Pickers Swap Songs</p></stack-l></hgroup>
+<p>Peerless pickers swap songs</p></stack-l></hgroup>
 <!-- markdownlint-enable MD025 --><mpb-dialog-img>
 
 {% image "./src/assets/images/blog/2019-05-03-brad-fielder-dan-martin-deli/czahller-20190429-22-07-59.jpg", "img-constrained", "Dan & Brad (II) — Brad Fielder & Dan Martin Song Swap at the Deli", "Dan & Brad (II) — Brad Fielder & Dan Martin Song Swap at the Deli" %}</mpb-dialog-img>

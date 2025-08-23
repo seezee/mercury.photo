@@ -26,7 +26,7 @@ excerpt: From the moment she began to sing her song “Trance” from the Brick 
 
 # {{ title }}
 
-<p>From Killing Fields to Killing Audiences</p></stack-l></hgroup>
+<p>From killing fields to killing audiences</p></stack-l></hgroup>
 <!-- markdownlint-enable MD025 --><mpb-dialog-img>
 
 {% image "./src/assets/images/blog/2018-11-02-woodyfest-mary-battiata/czahller-20180712-17-39-49.jpg", "img-constrained", "Mary — 21st Annual Woody Guthrie Festival, 2018", "Mary&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;21st Annual Woody Guthrie Festival, 2018" %}</mpb-dialog-img>

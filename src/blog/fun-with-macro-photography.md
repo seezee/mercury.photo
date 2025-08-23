@@ -18,7 +18,7 @@ excerpt: Astute readers may have noticed that I’ve been transitioning to using
 
 # {{ title }}
 
-<p>Goofing Off</p></stack-l></hgroup>
+<p>Goofing off</p></stack-l></hgroup>
 <!-- markdownlint-enable MD025 --><mpb-dialog-img>
 
 {% image "./src/assets/images/blog/2015-08-28-fun-macro/czahller-20150828-17-09-29.jpg", "img-constrained", "Extreme closeup of rubber cat puppet head. The puppet is black with white whiskers, yellow eyes, and green pupils.", "Astro the Cat (Puppet)" %}</mpb-dialog-img>

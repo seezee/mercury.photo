@@ -19,7 +19,7 @@ excerpt: Last Tuesday evening the Faculty Heights neighborhood joined thousands 
 
 # {{ title }}
 
-<p>Neighbors Meet & Greet Local Politicians, Community Peace Officers</p></stack-l></hgroup>
+<p>Neighbors meet & greet local politicians, community peace officers</p></stack-l></hgroup>
 <!-- markdownlint-enable MD025 --><mpb-dialog-img>
 
 {% image "./src/assets/images/blog/2018-10-09-natl-night-out/czahller-20181002-17-41-24.jpg", "img-constrained", "Michael Walker, Grillmaster — Faculty Heights Neighborhood National Night Out, 2018", "Michael Walker, Grillmaster&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;Faculty Heights Neighborhood National Night Out, 2018" %}</mpb-dialog-img>

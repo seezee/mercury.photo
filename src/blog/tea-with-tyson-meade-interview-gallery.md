@@ -24,7 +24,7 @@ excerpt: On 26 May, central Oklahoma felt an earthquake. The vibrations were fro
 
 # {{ title }}
 
-Phonograph Needles and Silver Needle Tea</stack-l></hgroup>
+Phonograph needles and silver needle tea</stack-l></hgroup>
 <!-- markdownlint-enable MD025 --><mpb-dialog-img>
 
 {% image "./src/assets/images/blog/2018-06-01-tyson-meade/czahller-20180526-23-14-45.jpg", "img-constrained", "Black and white image of Tyson Meade made from a negative that was damaged during post-development drying", "Damaged" %}</mpb-dialog-img>

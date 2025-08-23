@@ -24,7 +24,7 @@ excerpt: Making his eighth appearance as a performer at the Woody Guthrie Folk F
 
 # {{ title }}
 
-<p>Kerrville Award Winner Johnsmith at the Crystal Theatre</p></stack-l></hgroup>
+<p>Kerrville award winner Johnsmith at the Crystal Theatre</p></stack-l></hgroup>
 <!-- markdownlint-enable MD025 --><mpb-dialog-img>
 
 {% image "./src/assets/images/blog/2018-10-26-woodyfest-johnsmith/czahller-20180712-15-18-57.jpg", "img-constrained", "Jammin’ with Rad — 21st Annual Woody Guthrie Festival, 2018", "Jammin’ with Rad&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;21st Annual Woody Guthrie Festival, 2018" %}</mpb-dialog-img>

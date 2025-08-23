@@ -26,7 +26,7 @@ excerpt: This year’s Woodyfest continued a long-standing tradition of providin
 
 # {{ title }}
 
-<p>Festival Continues Years-Long Tradition</p></stack-l></hgroup>
+<p>Festival continues years-long tradition</p></stack-l></hgroup>
 <!-- markdownlint-enable MD025 --><mpb-dialog-img>
 
 {% image "./src/assets/images/blog/2018-12-03-woodyfest-scott-taylor/czahller-20180713-13-50-26.jpg", "img-constrained", "Scott (I) — 21st Annual Woody Guthrie Festival, 2018", "Scott (I)&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;21st Annual Woody Guthrie Festival, 2018" %}</mpb-dialog-img>

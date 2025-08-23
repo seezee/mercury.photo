@@ -23,7 +23,7 @@ excerpt: Let’s just get it out of the way. Chloe-Beth Campbell (just "Chloe-Be
 
 # {{ title }}
 
-<p>Young Singer-Songwriter Returns to Woodyfest</p></stack-l></hgroup>
+<p>Young singer-songwriter returns to Woodyfest</p></stack-l></hgroup>
 <!-- markdownlint-enable MD025 --><mpb-dialog-img>
 
 {% image "./src/assets/images/blog/2018-11-30-woodyfest-chloe-beth/czahller-20180713-13-08-49.jpg", "img-constrained", "Chloe-Beth with Audience — 21st Annual Woody Guthrie Festival, 2018", "Chloe-Beth with Audience&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;21st Annual Woody Guthrie Festival, 2018" %}</mpb-dialog-img>

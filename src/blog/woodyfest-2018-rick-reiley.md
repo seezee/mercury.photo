@@ -25,7 +25,7 @@ excerpt: Rick Reiley has never missed the Woody Guthrie Folk Festival. At least,
 
 # {{ title }}
 
-<p>Never Missed Woodyfest (He Thinks)</p></stack-l></hgroup>
+<p>Never missed Woodyfest (he thinks)</p></stack-l></hgroup>
 <!-- markdownlint-enable MD025 --><mpb-dialog-img>
 
 {% image "./src/assets/images/blog/2018-10-22-woodyfest-rick-reiley/czahller-20180712-14-01-49.jpg", "img-constrained", "Rick Reiley — 21st Annual Woody Guthrie Festival, 2018", "Rick Reiley&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;21st Annual Woody Guthrie Festival, 2018" %}</mpb-dialog-img>

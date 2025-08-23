@@ -24,7 +24,7 @@ excerpt: Bringing their “low-tech” PowerPoint to the Brick Street Café in 2
 <!-- markdownlint-disable MD025 -->
 # {{ title }}
 <!-- markdownlint-enable MD025 -->
-Arkansas Duo Brings Ozarks Energy to Okemah
+Arkansas duo brings Ozarks energy to Okemah
   </stack-l>
 </hgroup><mpb-dialog-img>
 

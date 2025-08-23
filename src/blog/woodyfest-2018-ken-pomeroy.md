@@ -26,7 +26,7 @@ excerpt: We first met singer and songwriter Ken Pomeroy on New Year’s Eve, 201
 
 # {{ title }}
 
-<p>Prodigy’s Woodyfest Debut</p></stack-l></hgroup>
+<p>Prodigy’s Woodyfest debut</p></stack-l></hgroup>
 <!-- markdownlint-enable MD025 --><mpb-dialog-img>
 
 {% image "./src/assets/images/blog/2019-02-01-woodyfest-ken-pomeroy/czahller-20180714-18-12-35.jpg", "img-constrained", "Kyle Reid & Ken Pomeroy — 21st Annual Woody Guthrie Festival, 2018", "Kyle Reid & Ken Pomeroy&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;21st Annual Woody Guthrie Festival, 2018" %}</mpb-dialog-img>

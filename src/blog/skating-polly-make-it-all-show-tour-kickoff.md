@@ -23,7 +23,7 @@ excerpt: Returning to the scene of their very first public show, former Okies Sk
 
 # {{ title }}
 
-<p>Ugly Pop Trio Returns to Old Stomping Grounds</p></stack-l></hgroup>
+<p>Ugly pop trio returns to old stomping grounds</p></stack-l></hgroup>
 <!-- markdownlint-enable MD025 --><mpb-dialog-img>
 
 {% image "./src/assets/images/blog/2018-06-08-skating-polly/czahller-20180601-23-52-06.jpg", "img-constrained", "Kelli kicks her left leg out. Both women are singing. Peyton is on the left; Kelli is on the right.", "Kick!" %}</mpb-dialog-img>

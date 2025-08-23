@@ -24,7 +24,7 @@ excerpt: Kim Gentry made her Woodyfest debut in a showcase honoring her second-p
 <!-- markdownlint-disable MD025 -->
 # {{ title }}
 <!-- markdownlint-enable MD025 -->
-Singer-Songwriter takes 2<sup>nd</sup> Prize in Woody Guthrie Songwriting Contest
+Singer-Songwriter takes second prize in Woody Guthrie Songwriting Contest
   </stack-l>
 </hgroup><mpb-dialog-img>
 

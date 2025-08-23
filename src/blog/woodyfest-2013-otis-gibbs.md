@@ -27,7 +27,7 @@ excerpt: With his full beard streaked grey and his horn-rimmed eyeglasses, Otis 
 <!-- markdownlint-disable MD025 -->
 # {{ title }}
 <!-- markdownlint-enable MD025 -->
-A Singer, a Songwriter, a Storyteller
+A singer, a songwriter, a storyteller
   </stack-l>
 </hgroup><mpb-dialog-img>
 

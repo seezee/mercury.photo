@@ -26,7 +26,7 @@ excerpt: It just keeps getting better for Dan Weber. In 2010, he was nominated f
 <!-- markdownlint-disable MD025 -->
 # {{ title }}
 <!-- markdownlint-enable MD025 -->
-Singer-Songwriter takes 3<sup>rd</sup> Prize in Woody Guthrie Songwriting Contest
+Singer-Songwriter takes third prize in Woody Guthrie Songwriting Contest
   </stack-l>
 </hgroup><mpb-dialog-img>
 
