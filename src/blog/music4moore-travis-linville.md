@@ -13,9 +13,10 @@ tags:
   - folk
   - folk, contemporary
   - Music4Moore
+  - fundraiser
 date: Last Modified
 pubdate: 2013-07-10T21:59:12+00:00
-image: /assets/images/blog/2013-07-10-travis-linville/czahller-20130529-17-32-33.jpg
+image: /assets/images/blog/2013-07-10-m4m-travis-linville/czahller-20130529-17-32-33.jpg
 excerpt: Chickasha native Travis Linville was one of many Oklahoma artists performing at the Music4Moore fundraiser this past May.
 ---
 <!-- markdownlint-disable MD025 -->
@@ -25,7 +26,7 @@ excerpt: Chickasha native Travis Linville was one of many Oklahoma artists perfo
 <!-- markdownlint-enable MD025 -->
 <mpb-dialog-img>
 
-{% image "./src/assets/images/blog/2013-07-10-travis-linville/czahller-20130529-17-32-33.jpg", "img-constrained", "Travis Linville singing at Music4Moore. He wears thick black eyeglass frames. He has a harmonica hanging from his neck.", "Travis (IV)" %}</mpb-dialog-img>
+{% image "./src/assets/images/blog/2013-07-10-m4m-travis-linville/czahller-20130529-17-32-33.jpg", "img-constrained", "Travis Linville singing at Music4Moore. He wears thick black eyeglass frames. He has a harmonica hanging from his neck.", "Travis (IV)" %}</mpb-dialog-img>
 
 Chickasha native [<span class="h-card p-name">Travis Linville</span>](https://itunes.apple.com/us/artist/travis-linville/id294147782?uo=4&at=10ldhk){target=_blank rel="external noopener"} was one of many Oklahoma artists performing at the <span class="h-card p-org">Music4Moore</span> fundraiser <time datetime="2013-05-29">this past May</time>, as we've [already reported](/blog/music4moore-ramsay-midwood/). The thirty-five-year-old singer-songwriter and guitar picker shared that honor with fellow Okies [<span class="h-card p-name">J.D. McPherson</span>](https://itunes.apple.com/us/artist/jd-mcpherson/id398896732?uo=4&at=10ldhk){target=_blank rel="external noopener"}, [<span class="h-card p-name">Parker Millsap</span>](https://itunes.apple.com/us/artist/parker-millsap/id525571790?uo=4&at=10ldhk){target=_blank rel="external noopener"}, and The Queen of Rock ’n’ Roll, [<span class="h-card p-name">Wanda Jackson</span>](https://itunes.apple.com/us/artist/wanda-jackson/id7036716?uo=4&at=10ldhk){target=_blank rel="external noopener"}. Appearing on the east stage, Linville was the evening's second performer.
 
@@ -35,10 +36,10 @@ Growing up in a musical family, Linville mastered improvisational guitar styles 
 
 <mpb-dialog-gallery hint rel cols="8">
 
-  ![Travis (I)](/assets/images/blog/2013-07-10-travis-linville/czahller-20130529-17-30-47.jpg)
-  ![Travis (II)](/assets/images/blog/2013-07-10-travis-linville/czahller-20130529-17-31-34.jpg)
-  ![Travis (III)](/assets/images/blog/2013-07-10-travis-linville/czahller-20130529-17-32-21.jpg)
-  ![Travis (IV)](/assets/images/blog/2013-07-10-travis-linville/czahller-20130529-17-32-33.jpg)
-  ![Travis (V)](/assets/images/blog/2013-07-10-travis-linville/czahller-20130529-17-33-18.jpg)
-  ![Travis (VI)](/assets/images/blog/2013-07-10-travis-linville/czahller-20130529-17-51-11.jpg)
+  ![Travis (I)](/assets/images/blog/2013-07-10-m4m-travis-linville/czahller-20130529-17-30-47.jpg)
+  ![Travis (II)](/assets/images/blog/2013-07-10-m4m-travis-linville/czahller-20130529-17-31-34.jpg)
+  ![Travis (III)](/assets/images/blog/2013-07-10-m4m-travis-linville/czahller-20130529-17-32-21.jpg)
+  ![Travis (IV)](/assets/images/blog/2013-07-10-m4m-travis-linville/czahller-20130529-17-32-33.jpg)
+  ![Travis (V)](/assets/images/blog/2013-07-10-m4m-travis-linville/czahller-20130529-17-33-18.jpg)
+  ![Travis (VI)](/assets/images/blog/2013-07-10-m4m-travis-linville/czahller-20130529-17-51-11.jpg)
 </mpb-dialog-gallery>
