@@ -349,11 +349,7 @@ dd {
 
   &+dd {
     break-before: avoid;
-
-    & span.spacer {
-      display: block;
-      margin-block-start: var(--s1);
-    }
+    margin-block-start: var(--s1);
   }
 }
 

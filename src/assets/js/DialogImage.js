@@ -35,6 +35,7 @@ export default class DialogImage extends HTMLElement {
     // Create the dialog.
     let modal = document.createElement(`dialog`);
     modal.setAttribute(`class`, `image-modal`);
+    modal.setAttribute(`closedby`, `any`);
     // `method="dialog"` captures the button click and closes the dialog.
     modal.innerHTML = `
   <form method="dialog">
@@ -121,7 +122,7 @@ export default class DialogImage extends HTMLElement {
       true,
     );
 
-    // Close the dialog when ::backdrop is clicked.
+    // Allow scrolling when ::backdrop is clicked.
     modal.addEventListener(`click`, (e) => {
       // Get the dialog boundaries
       const rect = modal.getBoundingClientRect();
@@ -131,7 +132,7 @@ export default class DialogImage extends HTMLElement {
       // If the click is not inside the boundary, close the dialog.
       if (!isInDialog) {
         modal.removeAttribute(`data-disable-document-scroll`);
-        modal.close();
+        // modal.close() is handled by `closedby` attribute on <dialog>
       }
     });
   }

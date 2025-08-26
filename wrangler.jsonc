@@ -1,6 +1,6 @@
 {
   "name": "cf-worker-mercury-photo",
-  "compatibility_date": "2025-08-22",
+  "compatibility_date": "2025-08-16",
   "assets": {
     "directory": "_site",
     "not_found_handling": "404-page"
