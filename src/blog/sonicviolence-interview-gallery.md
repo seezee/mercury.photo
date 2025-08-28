@@ -182,7 +182,7 @@ That song is close to my heart, because it was written with everybody there. A l
 
 <span class="spkr">Wilson</span> We’ll have at least one song on CD ready to go.
 
-<span class="spkr">MPB</span> You’ll be opening for Wavves with [Skating Polly](/blog/skating-polly-interview-gallery-part-1/). There seems to be a tremendous amount of excitement in the music fan community for the show.
+<span class="spkr">MPB</span> You’ll be opening for Wavves with [Skating Polly](/blog/skating-polly-interview-pt-1/). There seems to be a tremendous amount of excitement in the music fan community for the show.
 
 <span class="spkr">Manson</span> Wavves has been one of my favorite bands since I was a high school freshman. He did a bunch of super lo-fi tape releases before moving to a full band and making more produced sounding albums. It’s pretty much gonna be the biggest show we’ve ever played.
 

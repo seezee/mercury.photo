@@ -182,7 +182,7 @@ Cons
 : Blocks viewfinder on rangefinder cameras
 </div>
 
-We like the size, weight and ease-of-use of the LumiQuest SoftBox III, getting good results in a variety of situations as long as we use it off-camera. The construction is good enough to ensure years of use for most photographers, and the price, while no bargain, is reasonable. We recommend the LumiQuest SoftBox III to the photographer looking to add a good, portable, general purpose light modifier to their kit.
+We like the size, weight, and ease-of-use of the LumiQuest SoftBox III, getting good results in a variety of situations as long as we use it off-camera. The construction is good enough to ensure years of use for most photographers, and the price, while no bargain, is reasonable. We recommend the LumiQuest SoftBox III to the photographer looking to add a good, portable, general purpose light modifier to their kit.
 
 <mpb-callout type="note">
 

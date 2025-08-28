@@ -31,7 +31,7 @@ One of the most anticipated Oklahoma music releases of <time datetime="2014">201
 
 [^1]: /&#712;b&aelig;s-&#618;-t&#593;r/: A three-stringed guitar&NoBreak;&hairsp;&NoBreak;&ndash;&NoBreak;&hairsp;&NoBreak;bass hybrid.
 
-You can see more pictures of Skating Polly, read our exclusive interview, and see video excerpts from that interview [in our archive](/blog/skating-polly-interview-gallery-part-1/) Also, check out [this cool GIF](https://makeagif.com/i/Dn90LU){target=_blank rel="external noopener"} of Kelli&rsquo;s stunt made by the great <span class="h-card p-name">[Doug “Dougonious” Schwarz](https://dougschwarzphoto.blogspot.com/){target=_blank rel="external noopener"}</span>.
+You can see more pictures of Skating Polly, read our exclusive interview, and see video excerpts from that interview [in our archive](/blog/skating-polly-interview-pt-1/) Also, check out [this cool GIF](https://makeagif.com/i/Dn90LU){target=_blank rel="external noopener"} of Kelli&rsquo;s stunt made by the great <span class="h-card p-name">[Doug “Dougonious” Schwarz](https://dougschwarzphoto.blogspot.com/){target=_blank rel="external noopener"}</span>.
 
 <figure>
   <stack-l>
