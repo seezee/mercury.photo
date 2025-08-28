@@ -15,7 +15,7 @@ tags:
 date: Last Modified
 pubdate: 2013-05-23T13:30:50+00:00
 image: /assets/images/blog/2013-05-23-skating-polly-interview/czahller-20121201-22-38-04.jpg
-excerpt: Foo
+excerpt: Peyton Bighorse and Kelli Mayo joined us for an interview during a three-day break in the middle of their latest tour.
 ---
 <!-- markdownlint-disable MD025 -->
 # {{ title }}
