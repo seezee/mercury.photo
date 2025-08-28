@@ -1,11 +1,9 @@
 <h3>Tags</h3>
 <div id="tags-wrapper">
-<p>
+<p id="tags-inner">
   {% for tag in tags -%}
     {% if tag !== 'blog' %}
-      <a href="/blog/tags/{{ tag | slugify | safe }}" class="tag-link" data-pagefind-weight="0.5">{{ tag | safe }} </a>
-      {% if not loop.last %}&#32;|&#32;
-      {% endif %}
+      <a href="/blog/tags/{{ tag | slugify | safe }}" class="tag-link" data-pagefind-weight="0.5">{{ tag | safe }}</a>
     {% endif %}
   {%- endfor %}</p>
 </div>

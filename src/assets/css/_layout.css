@@ -1097,6 +1097,12 @@ hgroup h1 + p {
   }
 }
 
+.tag-link:not(:last-of-type)::after {
+  content: "\00a0|\00a0";
+  display: inline-block;
+  text-decoration: none;
+}
+
 /* Wedding Pricelist */
 .wedding-services-wrapper {
   background-color: var(--mpb-color-figureBG);

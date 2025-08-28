@@ -176,7 +176,7 @@ The show [was scheduled for] this Tuesday. We’re just gonna have a free day.
 
 <span class="spkr">MPB</span> Thank you guys so much for coming down.
 
-[Read part 1](/blog/skating-polly-interview-pt-1/) of the interview.
+[← Read part 1](/blog/skating-polly-interview-pt-1/)
 
 ## Skating Polly & Jabee at Guestroom Records
 
