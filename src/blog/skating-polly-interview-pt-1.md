@@ -127,7 +127,7 @@ Like, we even played […] some of our demos on Peyton’s phone. It was a reall
 
 <span class="spkr">Mayo</span> Well, Nathan Poppe does these things called <cite>[VDub Sessions](https://vdubsessions.com/){target=_blank rel="external noopener"}</cite>, where he takes bands, and, he usually has them pretty stripped down&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;I mean, they have to be able to play inside of a car. And, they have to do it in the [SPY](https://www.thespyfm.com/){target=_blank rel="external noopener"} van. And he just films them, and, like, puts a song up on his page. […] I think it was right before we released <cite>Taking Over the World</cite>. […] So, it was kind of one of our first recordings of a song that we had&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;it was <cite class="short-work"><span class="ord">No.</span> 4.</cite>
 
-[Read part 2 →](/blog/skating-polly-interview-pt-2/)
+[Read part 2 →](/blog/skating-polly-interview-pt-2/){rel=next}
 
 ## Galleries
 
