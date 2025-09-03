@@ -12,7 +12,7 @@ tags:
 date: Last Modified
 pubdate: 2013-05-14T17:00:13+00:00
 image: /assets/images/blog/2013-05-14-chloes-opolis/czahller-20130414-07-06-27.jpg
-excerpt: The Chloës talk about the joys and pitfalls of auditioning drummers, Lysandra Chapman’s mind-control techniques, and the difficulty of breaking into the Dallas⁠ ⁠–⁠ ⁠Fort Worth music scene.
+excerpt: The Chloës talk about auditioning drummers, mind-control techniques, and the difficulty of breaking into the Dallas⁠ ⁠–⁠ ⁠Fort Worth music scene.
 ---
 <!-- markdownlint-disable MD025 -->
 # {{ title }}
