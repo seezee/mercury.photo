@@ -1,6 +1,6 @@
 ---
 layout: _main-blog.njk
-title: The Chloës Interview & Gallery, Part 3
+title: "The Chloës Interview & Gallery, Part 3"
 tags: 
   - blog
   - photography, digital
