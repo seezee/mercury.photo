@@ -21,7 +21,7 @@ excerpt: Cleveland County voters may cast their ballots before Tuesday at the Cl
 
 {% image "./src/assets/images/blog/2014-10-30-midterm-early-voting/czahller-20141030-10-39-13.jpg", "img-constrained", "Election official (Sue), a middle-aged blond woman, seated & smiling, wearing a cardigan and eyeglasses", "Sue" %}</mpb-dialog-img>
 
-[NORMAN, Okla., 30 Oct. 2014]&NoBreak;&hairsp;&mdash;{.no-drop-cap}
+[NORMAN, Okla., 30 Oct. 2014]&NoBreak;&hairsp;&NoBreak;&mdash;{.no-drop-cap}
 
 Cleveland County voters may cast their ballots before Tuesday at the Cleveland County Election Board, 641 East Robinson, just east of the county fairgrounds. Voting is open until <time datetime="20141030 18:00-5:00">6 p.m. today</time>, then again from <time datetime="20141031 09:00-5:00">9 a.m.</time>&NoBreak;&hairsp;&NoBreak;&ndash;&NoBreak;&hairsp;&NoBreak;<time datetime="20141031 14:00-5:00">2 p.m. tomorrow (Saturday)</time>.{.drop-cap}
 

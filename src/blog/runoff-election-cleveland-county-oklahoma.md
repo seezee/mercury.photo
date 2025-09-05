@@ -21,7 +21,7 @@ excerpt: Democrats will decide between John Cox and Freda Deskin for the State S
 
 {% image "./src/assets/images/blog/2012-11-02-early-voting/czahller-20121102-11-35-15.jpg", "img-constrained", "Sign above service counter, Cleveland County Election Board", "Sign above Service Counter, Cleveland County Election Board" %}</mpb-dialog-img>
 
-[NORMAN, Okla., 26 August 2014]&NoBreak;&hairsp;&mdash;{.no-drop-cap}
+[NORMAN, Okla., 26 August 2014]&NoBreak;&hairsp;&NoBreak;&mdash;{.no-drop-cap}
 
 Democrats will decide between [<span class="h-card p-name">John Cox</span>](https://ballotpedia.org/John_Cox_(Oklahoma)){target=_blank rel="external noopener"} and [<span class="h-card p-name">Freda Deskin</span>](https://ballotpedia.org/Freda_Deskin){target=_blank rel="external noopener"} for the State Superintendent of Public Instruction. <time datetime="2014-08-26">Today</time>’s primary winner will face off Republican <span class="h-card p-name">Joy Hofmeister</span> in the general election.{.drop-cap}
 

@@ -24,7 +24,7 @@ excerpt: Cleveland County residents may cast early in-person absentee ballots at
 
 {% image "./src/assets/images/blog/2018-11-01-mid-term-voting/czahller-20181101-11-52-29.jpg", "img-constrained", "Cleveland County Election Board Sign & Seal", "Cleveland County Election Board Sign & Seal" %}</mpb-dialog-img>
 
-[NORMAN, Okla., 1 November 2018]&NoBreak;&hairsp;&mdash;{.no-drop-cap}
+[NORMAN, Okla., 1 November 2018]&NoBreak;&hairsp;&NoBreak;&mdash;{.no-drop-cap}
 
 Cleveland County residents may cast early in-person absentee ballots at the Cleveland County Election Board at 641 East Robinson Street (just east of the fairgrounds) beginning today. Polls are open from <span class="no-break"><time datetime="8:00:00-5:00">8 a.m.</time>&NoBreak;&hairsp;&NoBreak;&ndash;&NoBreak;&hairsp;&NoBreak;<time datetime="18:00:00-5:00">6 p.m.</time></span> <time datetime="2018-11-01">today</time> and <time datetime="2018-11-02">Friday</time>, and again from <span class="no-break"><time datetime="9:00:00-5:00">9 a.m.</time>&NoBreak;&hairsp;&NoBreak;&ndash;&NoBreak;&hairsp;&NoBreak;<time datetime="14:00:00-5:00">2 p.m</time></span> on <time datetime="2018-01-03">Saturday</time>.{.drop-cap}
 
