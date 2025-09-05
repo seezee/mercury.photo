@@ -23,7 +23,7 @@ excerpt: Camera AG announced their latest digital rangefinder this morning, and 
 
 [COLOGNE, 1 April 2013]&NoBreak;&hairsp;&NoBreak;&mdash;{.no-drop-cap}
 
-Camera AG announced their latest digital rangefinder this morning, and **it’s a doozie**. The Leica “MT” builds on the Leica “M,” which only began shipping <time datetime="2013-03">last month</time>, by adding a feature that every photographer has wished for at one time or another. The suggested price is $8,950 USD, with pre-orders expected in early <time datetime="2013-06">June</time>. The cameras will begin shipping in <time datetime="2013-08">August</time>.{.drop-cap}
+Leica Camera AG announced their latest digital rangefinder this morning, and **it’s a doozie**. The Leica “MT” builds on the Leica “M,” which only began shipping <time datetime="2013-03">last month</time>, by adding a feature that every photographer has wished for at one time or another. The suggested price is $8,950 USD, with pre-orders expected in early <time datetime="2013-06">June</time>. The cameras will begin shipping in <time datetime="2013-08">August</time>.{.drop-cap}
 
 ## Exclusive Scoop Result of 6-Month Investigation
 
