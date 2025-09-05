@@ -12,7 +12,7 @@ tags:
 date: Last Modified
 pubdate: 2013-04-01T19:35:06+00:00
 image: /assets/images/blog/2013-04-01-leica-mt/leica-mt-front.jpg
-excerpt: Camera AG announced their latest digital rangefinder this morning, and it’s a doozie.
+excerpt: Leica Camera AG announced their latest digital rangefinder this morning, and it’s a doozie.
 ---
 <!-- markdownlint-disable MD025 -->
 # {{ title }}
