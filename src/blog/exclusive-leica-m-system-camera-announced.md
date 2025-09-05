@@ -1,6 +1,6 @@
 ---
 layout: _main-blog.njk
-title: "Exclusive Scoop: Newest Leica “M” System Camera Announced"
+title: "Exclusive: Newest Leica “M” System Camera Announced"
 tags: 
   - blog
   - news
@@ -21,11 +21,26 @@ excerpt: Leica Camera AG announced their latest digital rangefinder this morning
 
 {% image "./src/assets/images/blog/2013-04-01-leica-mt/leica-mt-front.jpg", "img-constrained", "Front of the so-called Leica MT. Taken from a real stock image that has been modified to appear to be an as yet unreleased camera.", "Leica MT (<span lang='de'>typ</span> 245) Silver Chrome Front" %}</mpb-dialog-img>
 
+<mpb-callout type="info" title="Overview">
+
+Description
+: Leica “MT” digital rangefinder camera
+
+Availability
+: August
+
+Street price
+: $8950 USD
+
+Manufacturer <span class="ord">No.</span>
+: 10855
+</mpb-callout>
+
 [COLOGNE, 1 April 2013]&NoBreak;&hairsp;&NoBreak;&mdash;{.no-drop-cap}
 
 Leica Camera AG announced their latest digital rangefinder this morning, and **it’s a doozie**. The Leica “MT” builds on the Leica “M,” which only began shipping <time datetime="2013-03">last month</time>, by adding a feature that every photographer has wished for at one time or another. The suggested price is $8,950 USD, with pre-orders expected in early <time datetime="2013-06">June</time>. The cameras will begin shipping in <time datetime="2013-08">August</time>.{.drop-cap}
 
-## Exclusive Scoop Result of 6-Month Investigation
+## Scoop Result of 6-Month Investigation
 
 <mpb-dialog-img>
 
