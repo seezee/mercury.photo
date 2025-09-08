@@ -20,7 +20,7 @@ tags:
 date: Last Modified
 pubdate: 2018-12-19T13:00:03+00:00
 image: /assets/images/blog/2018-12-19-tim-easton-exposition/czahller-20181207-14-50-37.jpg
-excerpt: I drove to Okemah in early December to see folk singer and songwriter Tim Easton.
+excerpt: We drove to Okemah in early December to see folk singer and songwriter Tim Easton.
 ---
 <!-- markdownlint-disable MD025 -->
 <hgroup><stack-l>
@@ -32,9 +32,9 @@ excerpt: I drove to Okemah in early December to see folk singer and songwriter T
 
 {% image "./src/assets/images/blog/2018-12-19-tim-easton-exposition/czahller-20181207-14-50-37.jpg", "img-constrained", "Tim Easton — Exposition Sessions", "Tim Easton&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;Exposition Sessions" %}</mpb-dialog-img>
 
-I drove to Okemah in <time datetime="2018-12-07">early December</time> to see folk singer and songwriter <span class="h-card p-name">Tim Easton</span>. Easton was on the first leg of a multi-city recording tour for his new album <cite>Exposition</cite>. After we had lunch at the Hen House Café I took some pictures of him working in his makeshift studio at the <span class="h-card p-org">Okfuskee County History Center,</span> and then Easton very competently art-directed an impromptu photo shoot using the remaining frames on my roll of Tri-X.{.drop-cap}
+We drove to Okemah in <time datetime="2018-12-07">early December</time> to see folk singer and songwriter <span class="h-card p-name">Tim Easton</span>. Easton was on the first leg of a multi-city recording tour for his new album <cite>Exposition</cite>. After we had lunch at the Hen House Café we took some pictures of him working in his makeshift studio at the <span class="h-card p-org">Okfuskee County History Center,</span> and then Easton very competently art-directed an impromptu photo shoot using the remaining frames on my roll of Tri-X.{.drop-cap}
 
-We then sat down for a short interview, following which Easton sat for a formal portrait in the style of my [OKIE-X project](/okie-x/). The weather was threatening to turn bad, so I dismantled my photo studio while he continued tracking songs. Easton helped me schlep the gear to the car and we said our goodbyes, each wishing the other safe travels.
+We then sat down for a short interview, following which Easton sat for a formal portrait in the style of my [OKIE-X project](/okie-x/). The weather was threatening to turn bad, so we dismantled the photo studio while he continued tracking songs. Easton helped us schlep the gear to the car and we said our goodbyes, each wishing the other safe travels.
 
 The interview transcript follows.
 
@@ -150,7 +150,7 @@ That’s just what holds people back, you know, <q>I’m worried about what the 
 
 ## Gallery: <cite>Exposition</cite> Recording Sessions
 
-Before I interviewed Easton I took some pictures of him tracking songs for the album.<a href="#mn:1" id="mnref:1"><span class="sr-only"> [See note]</span></a> Afterward he art-directed an impromptu photo shoot taking advantage of the unusual surroundings. Who know the Okfuskee Historical Society had a basketball court upstairs?
+Before we interviewed Easton we took some pictures of him tracking songs for the album.<a href="#mn:1" id="mnref:1"><span class="sr-only"> [See note]</span></a> Afterward he art-directed an impromptu photo shoot taking advantage of the unusual surroundings. Who know the Okfuskee Historical Society had a basketball court upstairs?
 
 <mpb-dialog-gallery hint rel cols="8">
   
@@ -178,7 +178,7 @@ Before I interviewed Easton I took some pictures of him tracking songs for the a
 
 {% image "./src/assets/images/blog/2018-12-19-tim-easton-exposition/tim-easton-exposition-lp-jacket-front.png", "img-constrained", "Tim Easton — Exposition Album Front Jacket", "Tim Easton&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;Exposition Album Front Jacket" %}</mpb-dialog-img>
 
-After the bureau published this article, Easton licensed several of the images from the shoot for the <cite>Exposition</cite> LP and CD, which he commissioned me to design. I also designed a promotional poster. [You can see the final designs here](https://messengerwebdesign.com/portfolio/tim-easton-exposition-album-design-package/){target=_blank rel="external me noopener"}.&nbsp;<a href="#mnref:1" class="govuk-link" a><span class="sr-only">Back to content </span>↩︎</a>
+After the bureau published this article, Easton licensed several of the images from the shoot for the <cite>Exposition</cite> LP and CD, which he commissioned us to design. We also designed a promotional poster. [You can see the final designs here](https://messengerwebdesign.com/portfolio/tim-easton-exposition-album-design-package/){target=_blank rel="external me noopener"}.&nbsp;<a href="#mnref:1" class="govuk-link" a><span class="sr-only">Back to content </span>↩︎</a>
 
   </stack-l></li>
   </ul>
