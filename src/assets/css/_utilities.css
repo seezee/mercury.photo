@@ -244,7 +244,8 @@ figcaption {
 
 /* People & Orgs */
 
-.h-card {
+.h-card,
+.h-event {
   font-weight: var(--bold, 700);
 }
 
