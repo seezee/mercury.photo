@@ -108,7 +108,7 @@ I gotta say that Shraz made me grow up [musically]; after a while, I started lis
 
 <mpb-dialog-img>
 
-{% image "./src/assets/images/blog/2013-02-28-bowlsey/czahller-20130208-20-35-01.jpg", "img-constrained", "Justin Hogan playing the electric organ.", "Justin Takes Plays Little Kimmie (I)" %}</mpb-dialog-img>
+{% image "./src/assets/images/blog/2013-02-28-bowlsey/czahller-20130208-20-35-01.jpg", "img-constrained", "Justin Hogan playing the electric organ.", "Justin Plays Little Kimmie (I)" %}</mpb-dialog-img>
 
 <span class="spkr">MPB</span> Well, how did it happen?
 
@@ -134,7 +134,7 @@ I gotta say that Shraz made me grow up [musically]; after a while, I started lis
 
 <mpb-dialog-img>
 
-{}% image "./src/assets/images/blog/2013-02-28-bowlsey/czahller-20130208-20-53-50.jpg", "img-constrained", "Shraz singing and playing acoustic guitar.", "Shraz (VII)" %}</mpb-dialog-img>
+{% image "./src/assets/images/blog/2013-02-28-bowlsey/czahller-20130208-20-53-50.jpg", "img-constrained", "Shraz singing and playing acoustic guitar.", "Shraz (VII)" %}</mpb-dialog-img>
 
 <span class="spkr">Castillo</span> He did a [school] project about us.[^2] [It was] a little slideshow about us, recorded on his phone, performing a song [while we were sitting] on the couch, and the [other] students […] loved it. He calls us and says, <q>Hey, you guys want to come to ACM[^3] and play for some kids in a class?</q>
 
@@ -179,7 +179,7 @@ After we were done playing, they critiqued us. Even though I don’t think we ha
 
 <mpb-dialog-img>
 
-{}% image "./src/assets/images/blog/2013-02-28-bowlsey/czahller-20130208-20-51-53.jpg", "img-constrained", "Cid stands, looking pensive behind the microphone, fingers interlocked.", "Cid (VII)" %}</mpb-dialog-img>
+{% image "./src/assets/images/blog/2013-02-28-bowlsey/czahller-20130208-20-51-53.jpg", "img-constrained", "Cid stands, looking pensive behind the microphone, fingers interlocked.", "Cid (VII)" %}</mpb-dialog-img>
 
 <span class="spkr">MPB</span> I see you’ve acquired some new equipment; is it on loan, or do you own it?
 
@@ -209,7 +209,7 @@ After we were done playing, they critiqued us. Even though I don’t think we ha
 
 <mpb-dialog-img>
 
-{}% image "./src/assets/images/blog/2013-02-28-bowlsey/czahller-20130208-18-37-14.jpg", "img-constrained", "Bowlsey’s Kimball organ.", "Little Kimmie" %}</mpb-dialog-img>
+{% image "./src/assets/images/blog/2013-02-28-bowlsey/czahller-20130208-18-37-14.jpg", "img-constrained", "Bowlsey’s Kimball organ.", "Little Kimmie" %}</mpb-dialog-img>
 
 <span class="spkr">Hogan</span> *Bastards!*
 
