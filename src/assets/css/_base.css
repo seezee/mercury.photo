@@ -91,12 +91,14 @@ body {
 html {
   color-scheme: light;
   padding-block: var(--s1);
+  scrollbar-gutter: stable;
 
   @media screen and (prefers-reduced-motion: no-preference) {
     scroll-behavior: smooth;
   }
 
-  &:has([data-disable-document-scroll="true"]) {
+  &:has([data-disable-document-scroll="true"]),
+  &:has(dialog[open]:modal) {
     overflow: hidden;
   }
 
