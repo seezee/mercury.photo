@@ -132,7 +132,14 @@ export default class DialogImage extends HTMLElement {
       // If the click is not inside the boundary, close the dialog.
       if (!isInDialog) {
         modal.removeAttribute(`data-disable-document-scroll`);
+
         // modal.close() is handled by `closedby` attribute on <dialog>
+        // except in Safari.
+        if (`closedBy` in modal) {
+          return;
+        } else {
+          modal?.close();
+        };
       }
     });
   }

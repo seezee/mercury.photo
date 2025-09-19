@@ -13,7 +13,7 @@ tags:
 date: Last Modified
 pubdate: 2013-02-11T18:27:47+00:00
 image: /assets/images/blog/2013-02-11-kamals/czahller-20130112-23-06-06.jpg
-excerpt: Five-piece fuzz rock outfit the Kamals (minus guitarist/backup vocalist Brad Nance) dropped by the Bureau in January.
+excerpt: Five-piece fuzz rock outfit the Kamals (minus guitarist/backing vocalist Brad Nance) dropped by the Bureau in January.
 ---
 
 <!-- markdownlint-disable MD025 -->
@@ -23,7 +23,7 @@ excerpt: Five-piece fuzz rock outfit the Kamals (minus guitarist/backup vocalist
 
 {% image "./src/assets/images/blog/2013-02-11-kamals/czahller-20130112-23-06-06.jpg", "img-constrained", "The Kamals performing on the OPOLIS stage. Brad Nance (guitar, vox), Trey Allen (bass), Zachary Kaczka (guitar, vox), and Loren Williams (keys, vox). Not pictured: River Myers (drums).", "The Kamals" %}</mpb-dialog-img>
 
-Five-piece fuzz rock outfit the <span class="h-card p-org">Kamals</span> (minus guitarist/backup vocalist <span class="h-card p-name">Brad Nance</span>) dropped by the Bureau in <time datetime="2013-01-20">January</time>, following their [rescheduled](/blog/concert-that-was-not/) appearance at Opolis in Norman. Described as a blend of hard rock, stoner rock, heavy psych, fuzz rock, and psychedelic rock styles,[^1] with the occasional foray into boogie rock and acoustic country-blues, the band’s sound is not of this era.
+Five-piece fuzz rock outfit the <span class="h-card p-org">Kamals</span> (minus guitarist/backing vocalist <span class="h-card p-name">Brad Nance</span>) dropped by the Bureau in <time datetime="2013-01-20">January</time>, following their [rescheduled](/blog/concert-that-was-not/) appearance at Opolis in Norman. Described as a blend of hard rock, stoner rock, heavy psych, fuzz rock, and psychedelic rock styles,[^1] with the occasional foray into boogie rock and acoustic country-blues, the band’s sound is not of this era.
 
 [^1]: <span class="h-card p-name">Goodman, Bill</span>. <cite class="short-work"><a href="https://thesodashop.wordpress.com/2012/04/19/introducing-the-kamals/" target="_blank" rel="external noopener noreferrer">Introducing … the Kamals</a>.</cite> <cite>The Soda Shop</cite>. <time datetime="2012-04-19T07:50-0500">19 April 2012.</time> Web. <time datetime="2013-02-11">11 February 2013</time>.
 
@@ -307,6 +307,10 @@ Say, you’ve got two sections of a song that don’t fit together at all, there
 <span class="spkr">MPB</span> What’s in the Kamals’s future?
 
 <span class="spkr">Williams</span> Touring; writing more; we really want to make this our life’s work. This is our passion; this is what we all love […], and there’s no reason not to go full-on with this […].
+
+<mpb-dialog-img>
+
+{% image "./src/assets/images/blog/2013-02-11-kamals/czahller-20130120-17-52-57.jpg", "img-constrained", "Loren, Zac, Trey, and River seated on the Mercury Photo Bureau sofa. River’s girlfriend, Madi, is seated on the right sofa arm, leaning her head on top of his. Loren & Zac attempt to put “bunny ears“ behind one another’s head.", "The Kamals (III)" %}</mpb-dialog-img>
 
 ## Gallery: The Kamals
 
