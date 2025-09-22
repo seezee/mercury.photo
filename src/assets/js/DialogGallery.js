@@ -266,7 +266,7 @@ export default class DialogGallery extends HTMLElement {
 
         // modal.close() is handled by `closedby` attribute on <dialog>
         // except in Safari.
-        if (`closedBy` in modal) {
+        if ('closedBy' in HTMLDialogElement.prototype) {
           return;
         } else {
           modal?.close();
