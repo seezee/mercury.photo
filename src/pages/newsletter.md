@@ -1,6 +1,7 @@
 ---
 layout: _main.njk
 title: Talk to Us
+image: /assets/images/site/newsletter/czahller-20120324-10-02-06.jpg
 permalink: "/contact/newsletter/"
 ogtype: website
 ---

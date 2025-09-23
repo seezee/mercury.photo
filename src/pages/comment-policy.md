@@ -1,6 +1,7 @@
 ---
 layout: _main.njk
 title: Comment Policy
+image: /assets/images/site/support-this-site/czahller-20120330-15-01-33.jpg
 permalink: /comment-policy/
 ---
 

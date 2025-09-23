@@ -1,6 +1,7 @@
 ---
 layout: _main.njk
 title: Wedding Photography
+image: /assets/images/site/wedding-photography/czahller-20160820-16-23-44.jpg
 permalink: "/services/wedding-photography/"
 ---
 

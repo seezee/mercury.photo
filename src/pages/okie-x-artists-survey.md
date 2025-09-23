@@ -1,6 +1,7 @@
 ---
 layout: _main.njk
 title: OKIE-X Artist’s Survey
+image: /assets/images/okie-x/OKIE-X-Contact-Sheet-C.jpg
 permalink: "/okie-x/okie-x-artists-survey/"
 ogtype: website
 excerpt: An excerpt

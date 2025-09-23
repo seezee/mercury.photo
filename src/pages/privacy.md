@@ -1,6 +1,7 @@
 ---
 layout: _main.njk
 title: Privacy Policy
+image: /assets/images/site/privacy/privacy.jpg
 excerpt: This privacy notice for Messenger Web Design LLC dba Mercury Photo Bureau describes how and why we might collect, store, use, and/or share your information
 permalink: "/legal/privacy/"
 ---

@@ -1,6 +1,7 @@
 ---
 layout: _main.njk
 title: Website Terms of use
+image: /assets/images/blog/2017-08-11-tuttle-etc/czahller-20170730-10-30-19.jpg
 excerpt: These Terms and Conditions constitute a legally binding agreement made between you and Messenger Web Design LLC dba Mercury Photo Bureau
 permalink: "/legal/terms-of-use/"
 ---
@@ -10,7 +11,7 @@ permalink: "/legal/terms-of-use/"
 <!-- markdownlint-enable MD025 -->
 <mpb-dialog-img>
 
-{% image "./src/assets/images/site/terms-of-use/czahller-20170730-10-30-19.jpg", "img-constrained", "The Washita County, Oklahoma, Courthouse. The courthouse is neo-classical, with white columns and a dome supported by a colonnade. The photograph was taken with black and white film.", "" %}
+{% image "./src/assets/images/blog/2017-08-11-tuttle-etc/czahller-20170730-10-30-19.jpg", "img-constrained", "The Washita County Oklahoma Courthouse. The courthouse is neo-classical, with white columns and a dome supported by a colonnade. The photograph was taken with black and white film.", "Washita County Oklahoma Courthouse" %}
 </mpb-dialog-img>
 <small>
   <stack-l data-pagefind-ignore>

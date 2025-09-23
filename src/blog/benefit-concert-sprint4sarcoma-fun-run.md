@@ -7,9 +7,10 @@ tags:
   - photography, digital
   - photo gallery
   - music
-  - dance
-  - electronica
-  - world music
+  - red dirt
+  - country
+  - folk
+  - singer-songwriter
   - fundraiser
 date: Last Modified
 pubdate: 2016-07-01T18:33:10+00:00

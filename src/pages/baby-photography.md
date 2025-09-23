@@ -1,6 +1,7 @@
 ---
 layout: _main.njk
 title: Baby Photography
+image: /assets/images/site/baby-photography/czahller-20161118-18-52-07.jpg
 permalink: "/services/baby-photography/"
 ---
 

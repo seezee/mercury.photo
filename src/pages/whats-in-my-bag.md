@@ -1,6 +1,7 @@
 ---
 layout: _main.njk
 title: What’s in My Bag
+image: /assets/images/site/what-in-my-bag/czahller-20120902-13-46-04.jpg
 permalink: "/whats-in-my-bag/"
 ogtype: website
 ---
@@ -11,7 +12,7 @@ ogtype: website
 
 <mpb-dialog-img>
 
-{% image "./src/assets/images/site/what-in-my-bag/czahller-20120902-13-46-04-1.jpg", "img-constrained", "Photographic gear arranged on a white tablecloth", "What's in my bag" %}
+{% image "./src/assets/images/site/what-in-my-bag/czahller-20120902-13-46-04.jpg", "img-constrained", "Photographic gear arranged on a white tablecloth", "What's in my bag" %}
 </mpb-dialog-img>
 
 <mpb-callout type="note">

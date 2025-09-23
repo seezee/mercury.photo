@@ -1,6 +1,7 @@
 ---
 layout: _main.njk
 title: OKIE-X Frequently Asked Questions
+image: /assets/images/okie-x/OKIE-X-Contact-Sheet-B.jpg
 permalink: "/okie-x/okie-x-faq/"
 ogtype: website
 ---

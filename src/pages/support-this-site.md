@@ -1,6 +1,7 @@
 ---
 layout: _main.njk
 title: Support This Site
+image: /assets/images/site/support-this-site/czahller-20120330-15-01-33.jpg
 permalink: "/about/support-this-site/"
 ogtype: website
 ---

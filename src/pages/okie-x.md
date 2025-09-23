@@ -1,6 +1,7 @@
 ---
 layout: _main.njk
 title: The OKIE-X Film Portrait Project
+image: /assets/images/okie-x/OKIE-X-Contact-Sheet-A.jpg
 permalink: "/okie-x/"
 ogtype: website
 ---

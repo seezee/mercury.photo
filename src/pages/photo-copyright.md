@@ -1,6 +1,7 @@
 ---
 layout: _main.njk
 title: Photo Copyright
+image: /assets/images/site/photo-copyright/Joseph_Ferdinand_Keppler_-_The_Pirate_Publisher_-_Puck_Magazine_-_Restoration_by_Adam_Cuerden.jpg
 permalink: "/legal/photo-copyright/"
 ---
 

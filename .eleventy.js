@@ -257,8 +257,8 @@ module.exports = async function(eleventyConfig) {
   }
 
   eleventyConfig.addFilter(`sortByPubDate`, sortByPubDate);
-  // Tags index
 
+  // Tags index
   eleventyConfig.addFilter(`taglist`, function(collection) {
     const ignoredTags = [`blog`, `all`, `ignore`];
     const tags = [];

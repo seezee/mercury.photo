@@ -1,6 +1,7 @@
 ---
 layout: _main.njk
 title: Staff
+image: /assets/images/site/staff/czahller-20120423-14-34-49.jpg
 permalink: "/about/staff/"
 ogtype: website
 ---

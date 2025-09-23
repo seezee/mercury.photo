@@ -1,6 +1,7 @@
 ---
 layout: _main.njk
 title: Site Map
+image: /assets/images/site/site-map/indian-territory-map.jpg
 permalink: "/site-map/"
 ogtype: website
 excerpt: Site map of mercury.photo
