@@ -8,7 +8,7 @@ tags:
   - photo gallery
   - reportage
   - David Bowie
-  - glam
+  - rock, glam
   - rock
   - rock, hard
   - pop

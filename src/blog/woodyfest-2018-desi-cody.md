@@ -7,7 +7,7 @@ tags:
   - music
   - photo gallery
   - reportage
-  - indie-rock
+  - rock, indie
   - singer-songwriter
   - Tulsa
   - festival

@@ -8,7 +8,7 @@ tags:
   - photo gallery
   - reportage
   - rock
-  - roots-rock
+  - rock, roots
   - roots
   - festival
   - folk

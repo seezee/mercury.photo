@@ -8,7 +8,7 @@ tags:
   - photo gallery
   - news
   - David Bowie
-  - glam
+  - rock, glam
   - rock, hard
   - rock
   - pop

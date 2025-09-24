@@ -9,7 +9,7 @@ tags:
   - Freddie Mercury
   - David Bowie
   - gender identity
-  - glam
+  - rock, glam
   - rock, hard
   - musical theatre
   - sexuality

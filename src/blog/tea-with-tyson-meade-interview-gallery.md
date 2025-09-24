@@ -9,9 +9,9 @@ tags:
   - music
   - photo gallery
   - interview
-  - grunge
+  - rock, grunge
   - punk
-  - glam
+  - rock, glam
   - alt-rock
   - Leica
 date: Last Modified

@@ -8,7 +8,7 @@ tags:
   - interview
   - music
   - photo gallery
-  - indie pop
+  - pop, indie
   - lo-fi
   - punk
   - ugly-pop

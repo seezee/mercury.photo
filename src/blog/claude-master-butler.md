@@ -3,13 +3,11 @@ layout: _main-blog.njk
 title: Claude “The Master” Butler
 tags: 
   - blog
-  - photography, digital
+  - photo
+  - photography, film
+  - photography, large format
   - photography, black & white
-  - music
-  - photo gallery
-  - interview
-  - indie-rock
-  - lo-fi
+  - portraiture
 date: Last Modified
 pubdate: 2016-07-26T17:06:38+00:00
 image: /assets/images/blog/2016-07-26-claude/czahller-20160628-19-19-44.jpg
