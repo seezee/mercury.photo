@@ -1,6 +1,6 @@
 ---
 layout: _main-blog.njk
-title: Urizen at Club Dada, Dallas — Hallowe’en
+title: "Hallowe’en at Club Dada, Dallas: Urizen"
 tags: 
   - blog
   - photography, digital
