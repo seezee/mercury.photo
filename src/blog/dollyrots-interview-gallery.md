@@ -16,18 +16,18 @@ image: /assets/images/blog/2019-04-03-dollyrots/czahller-20190322-23-23-24.jpg
 excerpt: "It’s been years since the Dollyrots played Oklahoma City. But fortune finally favored the city’s denizens."
 ---
 <!-- markdownlint-disable MD025 -->
+<hgroup><stack-l>
+
 # {{ title }}
+
+Kelly Ogden talks about innuendo, motherhood, and spaghetti
+</stack-l></hgroup>
 
 <!-- markdownlint-enable MD025 --><mpb-dialog-img>
 
 {% image "./src/assets/images/blog/2019-04-03-dollyrots/czahller-20190322-23-23-24.jpg", "img-constrained", "Luis on stage right leaning forward in a rock ’n’ roll guitar stance; Kelly on stage left", "Punk Rock!&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;The Dollyrots at the 89th St Collective" %}</mpb-dialog-img>
 
-<hgroup><stack-l>
-
 ## Dire Dollyrots Drought Done
-
-Kelly Ogden talks about innuendo, motherhood, and spaghetti
-</stack-l></hgroup>
 
 It’s been years since the Dollyrots played Oklahoma City. But fortune finally favored the city’s denizens: <time datetime="2018-04-22">last April</time> the band opened for <span class="h-card p-org"><a href="https://geo.itunes.apple.com/us/artist/bowling-for-soup/1650849?mt=1&app=music&at=10ldhk" target="_blank" rel="external noopener">Bowling for Soup</a></span>, an act they’ve long been associated with, at the Tower Theatre. <time datetime="2019-03-22">Eleven months later to-the-day</time>, the Dollyrots headlined at the <span class="h-card p-org">89<sup>th</sup> Street Collective</span>. The last time they played that club it was still called <span class="h-card p-org">The Conservatory</span>.{.drop-cap}
 

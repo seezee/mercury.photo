@@ -7,7 +7,7 @@ const eleventyPluginFilesMinifier      = require('@sherby/eleventy-plugin-files-
 const esbuild                          = require('esbuild');
 const { execSync }                     = require('child_process')
 const { feedPlugin }                   = require('@11ty/eleventy-plugin-rss');
-const format                           = require('date-fns/format');
+const { format }                       = require('date-fns/format');
 const { govukEleventyPlugin }          = require('@x-govuk/govuk-eleventy-plugin');
 const Image                            = require('@11ty/eleventy-img');
 // const { eleventyImageTransformPlugin } = require('@11ty/eleventy-img');
@@ -307,7 +307,9 @@ module.exports = async function(eleventyConfig) {
   });
 
   eleventyConfig.addPlugin(govukEleventyPlugin, {
-    headingPermalinks: true,
+    markdown: {
+      headingPermalinks: true,
+    }
   });
 
   // HTML minification
@@ -331,15 +333,16 @@ module.exports = async function(eleventyConfig) {
 
   eleventyConfig.addWatchTarget(`./src/assets/js/`);
 
-  // add `date` filter
+  // add `date` filter https://date-fns.org/docs/format
+  // Usage: {% for item in collections.all %}<lastmod>{{ item.data.lastmod or item.date | date("yyyy-MM-dd'T'hh:mm:ss XXX")}}</lastmod>{% endfor %}
   eleventyConfig.addFilter(`date`, function (date, dateFormat) {
     return format(date, dateFormat)
   })
 
   eleventyConfig.addPassthroughCopy({
-    // Copy `/favicon/` to `_site/` (Don't use template string around key)
+    // Copy `/favicon/` to `_site/` (Don't use backticks around key)
     'favicon': `/`,
-    // Copy `/_redirects/` to `_site/` (Don't use template string around key)
+    // Copy `/_redirects/` to `_site/` (Don't use backticks around key)
     '_redirects': `/`
   });
   // Set custom directory for input; otherwise use defaults
