@@ -10,7 +10,7 @@ tags:
   - photo gallery
   - pop, indie
   - lo-fi
-  - punk
+  - rock, punk
   - ugly-pop
 date: Last Modified
 pubdate: 2013-05-24T12:45:15+00:00

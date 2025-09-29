@@ -10,7 +10,7 @@ tags:
   - photo gallery
   - interview
   - rock, grunge
-  - punk
+  - rock, punk
   - rock, glam
   - alt-rock
   - Leica

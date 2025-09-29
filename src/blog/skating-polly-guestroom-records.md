@@ -8,7 +8,7 @@ tags:
   - photo gallery
   - reportage
   - pop
-  - punk
+  - rock, punk
   - ugly-pop
 date: Last Modified
 pubdate: 2014-03-25T21:33:25+00:00

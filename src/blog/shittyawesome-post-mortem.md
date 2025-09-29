@@ -10,7 +10,7 @@ tags:
   - photo gallery
   - rock, garage
   - lo-fi
-  - punk
+  - rock, punk
 date: Last Modified
 pubdate: 2013-08-14T21:22:57+00:00
 image: /assets/images/blog/2013-08-14-shitty-awesome/czahller-20130812-19-53-10.jpg

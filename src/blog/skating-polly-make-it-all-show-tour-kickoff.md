@@ -10,7 +10,7 @@ tags:
   - photo gallery
   - reportage
   - pop
-  - punk
+  - rock, punk
   - ugly-pop
   - Leica
 date: Last Modified

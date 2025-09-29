@@ -3,7 +3,7 @@
 const browserslist                     = require('browserslist');
 // const dotenv                           = require('dotenv').config();
 const eleventyAutoCacheBuster          = require('eleventy-auto-cache-buster');
-const eleventyPluginFilesMinifier      = require('@sherby/eleventy-plugin-files-minifier');
+const eleventyPluginFilesMinifier      = require('@codestitchofficial/eleventy-plugin-minify');
 const esbuild                          = require('esbuild');
 const { execSync }                     = require('child_process')
 const { feedPlugin }                   = require('@11ty/eleventy-plugin-rss');

@@ -1,3 +1,4 @@
+# Cloudflare redirects (see https://developers.cloudflare.com/workers/static-assets/redirects/)
 /legal-folderol/terms-of-use/ /legal/terms-of-use/
 /legal-folderol/privacy/ /legal/privacy/
 /3-score-times-around-the-sun/ /blog/3-score-times-around-the-sun/
@@ -168,8 +169,9 @@
 /urizen-at-club-dada-dallas-halloween/ /blog/urizen-halloween/
 /radoslav-lorkovics-best-christmas-ever/ /blog/radoslav-lorkovic-best-christmas-ever/
 /electric-eel-shock-at-club-dada-dallas-halloween-night/ /blog/electric-eel-shock/
-/peelander-z-halloween-show-at-club-dada-dallas/ /blog/peelander-z-halloween/
 /david-goad-kali-ra-interview-pt-2/ /blog/kali-ra-interview-pt-2/
 /david-goad-kali-ra-interview-pt-1/ /blog/kali-ra-interview-pt-1/
+/kill-the-reflection-at-the-hilo-club-okc/ /blog/kill-reflection-interview-gallery/
 /the-concert-that-wasnt/ /blog/concert-that-was-not/
-/kill-the-reflection-at-the-hilo-club-okc/ /blog/kill-the-reflection-hilo-club-okc/
+/peelander-z-halloween-show-at-club-dada-dallas/ /blog/peelander-z-halloween/
+/zombie-bolt-5k-oklahomas-premier-zombie-run/ /blog/zombie-bolt/

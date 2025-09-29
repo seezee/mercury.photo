@@ -8,7 +8,7 @@ tags:
   - photo gallery
   - interview
   - rock
-  - punk
+  - rock, punk
 date: Last Modified
 pubdate: 2013-02-18T18:26:29+00:00
 image: /assets/images/blog/2013-02-18-venditos/czahller-20130207-19-21-36.jpg
