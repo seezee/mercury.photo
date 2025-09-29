@@ -48,7 +48,7 @@ We’ve [previously covered](/blog/smiths-tribute) the tribute series, where you
 ## Gallery: J.J. Cale Tribute
 
 <mpb-dialog-gallery hint rel cols="8">
-  
+
   ![Jerrod Beck & Blake Burgess (I)](/assets/images/blog/2015-11-04-jj-cale-tribute/czahller-20151025-19-06-36.jpg)
   ![Jerrod Beck](/assets/images/blog/2015-11-04-jj-cale-tribute/czahller-20151025-19-07-04.jpg)
   ![Jerrod Beck & Blake Burgess (II)](/assets/images/blog/2015-11-04-jj-cale-tribute/czahller-20151025-19-07-27.jpg)

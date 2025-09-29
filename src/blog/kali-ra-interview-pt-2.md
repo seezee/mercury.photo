@@ -11,7 +11,7 @@ tags:
 date: Last Modified
 pubdate: 2012-11-27T22:13:48+00:00
 image: /assets/images/blog/2012-11-27-kali-ra-pt-1/czahller-20121013-23-42-04.jpg
-excerpt: We expended practically no effort getting David Goad to talk for an over an hour about music, technology, and absinthe when he dropped by a couple of weeks ago.
+excerpt: We expended no effort getting David Goad to talk for an over an hour about music, technology, and absinthe when he dropped by a couple of weeks ago.
 ---
 
 <!-- markdownlint-disable MD025 -->
@@ -21,7 +21,7 @@ excerpt: We expended practically no effort getting David Goad to talk for an ove
 
 {% image "./src/assets/images/blog/2012-11-27-kali-ra-pt-1/czahller-20121013-23-42-04.jpg", "img-constrained", "David Goad holds a microphone to his mouth with his left hand. His right hand is raised, palm facing him, fingers slightly curled, as if invoking something.", "David (V)" %}</mpb-dialog-img>
 
-We expended practically no effort getting <span class="h-card p-org">Kali Ra</span> front man <span class="h-card p-name">David Goad</span> to talk for an over an hour about music, technology, and absinthe when he dropped by a couple of weeks ago before the [concert that wasn’t](/blog/concert-that-was-not/).
+We expended no effort getting <span class="h-card p-org">Kali Ra</span> front man <span class="h-card p-name">David Goad</span> to talk for an over an hour about music, technology, and absinthe when he dropped by a couple of weeks ago before the [concert that wasn’t](/blog/concert-that-was-not/).
 
 To be fair, we did plenty of talking too, which we’ve omitted from the interview transcript.
 
@@ -132,7 +132,7 @@ I don’t make music just to fill space; I actually have something I want to com
 
 <span class="spkr">Goad</span> All over the goddamn place. Physical copies, digital downloads, and we may come up with some other interesting ways of releasing them.
 
-[← Read part 1](/blog/kali-ra-interview-pt-1/){rel="prev"}
+[← Read part 1](/blog/kali-ra-interview-pt-1/){rel=prev}
 
 ## Ten Things You Didn’t Know About David Goad
 
