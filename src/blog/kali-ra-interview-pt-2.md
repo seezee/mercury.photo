@@ -31,7 +31,7 @@ The absinthe talk took place while we were mixing [vesper](https://web.archive.o
 
 <mpb-dialog-img>
 
-{% image "./src/assets/images/blog/2012-11-27-kali-ra-pt-1/czahller-20121013-23-14-44.jpg", "img-constrained", "David on the Hi-Lo stage; old surrealist films are projected on the wall behind him.", "David (III)" %}</mpb-dialog-img>
+{% image "./src/assets/images/blog/2012-11-27-kali-ra-pt-1/czahller-20121013-23-14-44.jpg", "img-constrained", "David on the HiLo stage; old surrealist films are projected on the wall behind him.", "David (III)" %}</mpb-dialog-img>
 
 <span class="spkr">Mercury Photo Bureau</span> You’re touring right now, with a show coming up in St. Louis; how big is the tour?
 

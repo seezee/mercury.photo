@@ -30,7 +30,7 @@ Our good friend <span class="h-card p-name">David Goad</span> is [raising money]
 
 <mpb-dialog-img>
 
-{% image "./src/assets/images/blog/2012-11-27-kali-ra-pt-1/czahller-20121013-23-42-04.jpg", "img-constrained", "David Goad performing at the Hi-Lo Club in Oklahoma City. The image is black & white.", "David (V)" %}</mpb-dialog-img>
+{% image "./src/assets/images/blog/2012-11-27-kali-ra-pt-1/czahller-20121013-23-42-04.jpg", "img-constrained", "David Goad performing at the HiLo Club in Oklahoma City. The image is black & white.", "David (V)" %}</mpb-dialog-img>
 
 We’re afraid we talked so long that we used up Will’s batteries and flash storage, so he had to finish the recording with his phone, which accounts for the shaky video near the end. Next time he'll know that David and I both love to gab.
 

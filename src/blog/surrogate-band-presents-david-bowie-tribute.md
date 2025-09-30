@@ -22,7 +22,7 @@ excerpt: Originally formed in 2011 to perform Pink Floyd’s <cite>The Wall</cit
 
 # {{ title }}
 
-<p>Major Tom lands at Hi-Lo</p></stack-l></hgroup>
+<p>Major Tom lands at HiLo</p></stack-l></hgroup>
 <!-- markdownlint-enable MD025 --><mpb-dialog-img>
 
 {% image "./src/assets/images/blog/2014-06-19-surrogate-band-hi-lo/czahller-20140302-00-46-47.jpg", "img-constrained", "
@@ -46,9 +46,9 @@ Originally formed in 2011 by members of <span class="h-card p-org">Kali Ra</span
 
   <span class="h-card p-name">Kristine Kamen</span> manages the stage and provides key costumes and makeup, with additional hair and makeup provided by <span class="h-card p-org">Revel Eight Salon and Spa</span>.
 
-  For the band’s <span class="h-card p-org">Hi-Lo Club</span> performance, ukelele player and singer <span class="h-card p-name">Michael “<span class="h-card p-nickname">Lumière</span>” Davis</span> provided entertainment during the mid-show break.
+  For the band’s <span class="h-card p-org">HiLo Club</span> performance, ukelele player and singer <span class="h-card p-name">Michael “<span class="h-card p-nickname">Lumière</span>” Davis</span> provided entertainment during the mid-show break.
 
-## Gallery: The Surrogate Band at the Hi-Lo Club
+## Gallery: The Surrogate Band at the HiLo Club
 
 <mpb-dialog-gallery hint rel cols="8">
 
