@@ -100,7 +100,7 @@ However, I have to say this; this is really funny: [the handler] was *so* nice. 
       <source src="/assets/media/2013-05-14-chloes/who-you-with.ogg" type="audio/ogg" type="audio/ogg" codecs=ogg />
       <source src="/assets/media/2013-05-14-chloes/who-you-with.mp3" type="audio/mp3" type="audio/mpeg" />
       <p>
-        Download <a href="/assets/media/2013-05-14-chloes/who-you-with.m4a" type="audio/mp4" download="/assets/media/2013-05-14-chloes/who-you-with.m4a" type="audio/mp4">M4A</a>, <a href="/assets/media/2013-05-14-chloes/who-you-with.ogg" type="audio/ogg" download="/assets/media/2013-05-14-chloes/who-you-with.ogg" type="audio/mp4">OGG</a>, or<a href="/assets/media/2013-05-14-chloes/who-you-with.mp3" type="audio/mp4" download="/assets/media/2013-05-14-chloes/who-you-with.mp3" type="audio/mp3">MP3</a>.
+        Download <a href="/assets/media/2013-05-14-chloes/who-you-with.m4a" type="audio/mp4" download="/assets/media/2013-05-14-chloes/who-you-with.m4a" type="audio/mp4">M4A</a>, <a href="/assets/media/2013-05-14-chloes/who-you-with.ogg" type="audio/ogg" download="/assets/media/2013-05-14-chloes/who-you-with.ogg" type="audio/mp4">OGG</a>, or<a href="/assets/media/2013-05-14-chloes/who-you-with.mp3" type="audio/mp3" download="/assets/media/2013-05-14-chloes/who-you-with.mp3" type="audio/mp3">MP3</a>.
       </p>
     </audio>
     <figcaption>Huh, who’re you with?</figcaption>

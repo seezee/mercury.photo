@@ -223,7 +223,7 @@ Nice kid, but he is just off the wall. We were on our way down to 6<sup>th</sup>
       <source src="/assets/media/2013-02-18-venditos/cody_eagle_bear.ogg" type="audio/ogg" type="audio/ogg" codecs=ogg />
       <source src="/assets/media/2013-02-18-venditos/cody_eagle_bear.mp3" type="audio/mp3" type="audio/mpeg" />
 
-        Download <a href="/assets/media/2013-02-18-venditos/cody_eagle_bear.m4a" type="audio/mp4" download="/assets/media/2013-02-18-venditos/cody_eagle_bear.m4a" type="audio/mp4">M4A</a>, <a href="/assets/media/2013-02-18-venditos/cody_eagle_bear.ogg" type="audio/ogg" download="/assets/media/2013-02-18-venditos/cody_eagle_bear.ogg" type="audio/mp4">OGG</a>, or<a href="/assets/media/2013-02-18-venditos/cody_eagle_bear.mp3" type="audio/mp4" download="/assets/media/2013-02-18-venditos/cody_eagle_bear.mp3" type="audio/mp3">MP3</a>.
+        Download <a href="/assets/media/2013-02-18-venditos/cody_eagle_bear.m4a" type="audio/mp4" download="/assets/media/2013-02-18-venditos/cody_eagle_bear.m4a" type="audio/mp4">M4A</a>, <a href="/assets/media/2013-02-18-venditos/cody_eagle_bear.ogg" type="audio/ogg" download="/assets/media/2013-02-18-venditos/cody_eagle_bear.ogg" type="audio/mp4">OGG</a>, or<a href="/assets/media/2013-02-18-venditos/cody_eagle_bear.mp3" type="audio/mp3" download="/assets/media/2013-02-18-venditos/cody_eagle_bear.mp3" type="audio/mp3">MP3</a>.
       
     </audio>
     <figcaption>Chris Sanders Imitates the Eagle Bear</figcaption>
@@ -325,7 +325,7 @@ Plus a cover of Bowie’s <cite class="short-work">Life on Mars.</cite>
       <source src="/assets/media/2013-02-18-venditos/emo.ogg" type="audio/ogg" type="audio/ogg" codecs=ogg />
       <source src="/assets/media/2013-02-18-venditos/emo.mp3" type="audio/mp3" type="audio/mpeg" />
 
-        Download <a href="/assets/media/2013-02-18-venditos/emo.m4a" type="audio/mp4" download="/assets/media/2013-02-18-venditos/emo.m4a" type="audio/mp4">M4A</a>, <a href="/assets/media/2013-02-18-venditos/emo.ogg" type="audio/ogg" download="/assets/media/2013-02-18-venditos/emo.ogg" type="audio/mp4">OGG</a>, or<a href="/assets/media/2013-02-18-venditos/emo.mp3" type="audio/mp4" download="/assets/media/2013-02-18-venditos/emo.mp3" type="audio/mp3">MP3</a>.
+        Download <a href="/assets/media/2013-02-18-venditos/emo.m4a" type="audio/mp4" download="/assets/media/2013-02-18-venditos/emo.m4a" type="audio/mp4">M4A</a>, <a href="/assets/media/2013-02-18-venditos/emo.ogg" type="audio/ogg" download="/assets/media/2013-02-18-venditos/emo.ogg" type="audio/mp4">OGG</a>, or<a href="/assets/media/2013-02-18-venditos/emo.mp3" type="audio/mp3" download="/assets/media/2013-02-18-venditos/emo.mp3" type="audio/mp3">MP3</a>.
       
     </audio>
     <figcaption>Chris Sanders Imitates an Emo Singer</figcaption>
@@ -343,7 +343,7 @@ Plus a cover of Bowie’s <cite class="short-work">Life on Mars.</cite>
       <source src="/assets/media/2013-02-18-venditos/emo-2.ogg" type="audio/ogg" type="audio/ogg" codecs=ogg />
       <source src="/assets/media/2013-02-18-venditos/emo-2.mp3" type="audio/mp3" type="audio/mpeg" />
 
-        Download <a href="/assets/media/2013-02-18-venditos/emo-2.m4a" type="audio/mp4" download="/assets/media/2013-02-18-venditos/emo-2.m4a" type="audio/mp4">M4A</a>, <a href="/assets/media/2013-02-18-venditos/emo-2.ogg" type="audio/ogg" download="/assets/media/2013-02-18-venditos/emo-2.ogg" type="audio/mp4">OGG</a>, or<a href="/assets/media/2013-02-18-venditos/emo-2.mp3" type="audio/mp4" download="/assets/media/2013-02-18-venditos/emo-2.mp3" type="audio/mp3">MP3</a>.
+        Download <a href="/assets/media/2013-02-18-venditos/emo-2.m4a" type="audio/mp4" download="/assets/media/2013-02-18-venditos/emo-2.m4a" type="audio/mp4">M4A</a>, <a href="/assets/media/2013-02-18-venditos/emo-2.ogg" type="audio/ogg" download="/assets/media/2013-02-18-venditos/emo-2.ogg" type="audio/mp4">OGG</a>, or<a href="/assets/media/2013-02-18-venditos/emo-2.mp3" type="audio/mp3" download="/assets/media/2013-02-18-venditos/emo-2.mp3" type="audio/mp3">MP3</a>.
       
     </audio>
     <figcaption>Gabe Barham Whistles, Chris Sanders Sings, Sort Of</figcaption>

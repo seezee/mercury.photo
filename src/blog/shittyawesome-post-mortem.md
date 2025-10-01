@@ -13,7 +13,7 @@ tags:
   - rock, punk
 date: Last Modified
 pubdate: 2013-08-14T21:22:57+00:00
-image: /assets/images/blog/2013-08-14-shitty-awesome/czahller-20130812-19-53-10.jpg
+image: /assets/images/blog/2013-08-14-shitty-awesome/czahller-20121231-22-23-45.jpg
 excerpt: Local garage-rockers Shi++ty/Awesome formed on a whim in 2009, when Guestroom Records co-owner Travis Searle and manager Will Muir got together with employees Derek Lemke and Joey Powell.
 ---
 <!-- markdownlint-disable MD025 -->

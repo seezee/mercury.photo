@@ -46,7 +46,7 @@ So Donald and I wrote a song together, and he came into the class. And they have
 
 I was playing in a different band at the time, so Donald and I got together and started jamming. We actually wrote a bunch of songs that I really liked; it was not [so] much the way SonicViolence sounds now; when I met Brandon a year later we basically scrapped everything so the people coming into [the band] could become more involved.
 
-<span class="spkr">MPB</span> So, you started this band before <span class="h-card p-org">[Psychic Milk](/blog/psychic-milk-at-the-hilo-club/)</span>. Is that band still active?
+<span class="spkr">MPB</span> So, you started this band before <span class="h-card p-org">[Psychic Milk](/blog/psychic-milk-interview-gallery/)</span>. Is that band still active?
 
 <span class="spkr">Wilson</span> Yeah; we’re still together. But we’ve all been doing individual projects and collaborations with other people. It’s just on the back burner for now. We actually have an EP recorded and ready to go. With the momentum that <span class="h-card p-name">Justin [Hogan]</span> has gained with [Bowlsey](/blog/bowlsey-interview-gallery/), as well as the SonicViolence [EP about to drop], it probably wouldn’t be the best time to put it out.
 

@@ -104,7 +104,7 @@ Then I saw the opportunity to barter [product] photography for cupcakes. So I ga
       <source src="/assets/media/2014-01-14-tumbling-nebulae/oh_my_god_youre_the_luxy.ogg" type="audio/ogg" type="audio/ogg" codecs=ogg />
       <source src="/assets/media/2014-01-14-tumbling-nebulae/oh_my_god_youre_the_luxy.mp3" type="audio/mp3" type="audio/mpeg" />
       <p>
-        Download <a href="/assets/media/2014-01-14-tumbling-nebulae/oh_my_god_youre_the_luxy.m4a" type="audio/mp4" download="assets/media/2014-01-14-tumbling-nebulae/oh_my_god_youre_the_luxy.m4a" type="audio/mp4">M4A</a>, <a href="/assets/media/2014-01-14-tumbling-nebulae/oh_my_god_youre_the_luxy.ogg" type="audio/ogg" download="assets/media/2014-01-14-tumbling-nebulae/oh_my_god_youre_the_luxy.ogg" type="audio/mp4">OGG</a>, or<a href="/assets/media/2014-01-14-tumbling-nebulae/oh_my_god_youre_the_luxy.mp3" type="audio/mp4" download="assets/media/2014-01-14-tumbling-nebulae/oh_my_god_youre_the_luxy.mp3" type="audio/mp3">MP3</a>.
+        Download <a href="/assets/media/2014-01-14-tumbling-nebulae/oh_my_god_youre_the_luxy.m4a" type="audio/mp4" download="assets/media/2014-01-14-tumbling-nebulae/oh_my_god_youre_the_luxy.m4a" type="audio/mp4">M4A</a>, <a href="/assets/media/2014-01-14-tumbling-nebulae/oh_my_god_youre_the_luxy.ogg" type="audio/ogg" download="assets/media/2014-01-14-tumbling-nebulae/oh_my_god_youre_the_luxy.ogg" type="audio/mp4">OGG</a>, or<a href="/assets/media/2014-01-14-tumbling-nebulae/oh_my_god_youre_the_luxy.mp3" type="audio/mp3" download="assets/media/2014-01-14-tumbling-nebulae/oh_my_god_youre_the_luxy.mp3" type="audio/mp3">MP3</a>.
       </p>
     </audio>
     <figcaption>Oh my God you’re the Luxy!</figcaption>

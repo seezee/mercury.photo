@@ -48,7 +48,7 @@ Urizen have just sent exclusive audio for Mercury Photo Bureau readers only! The
       <source src="/assets/media/2013-01-14-urizen/urizen-final-conflict-rough-demo.ogg" type="audio/ogg" type="audio/ogg" codecs=ogg />
       <source src="/assets/media/2013-01-14-urizen/urizen-final-conflict-rough-demo.mp3" type="audio/mp3" type="audio/mpeg" />
       <p>
-        Download <a href="/assets/media/2013-01-14-urizen/urizen-final-conflict-rough-demo.m4a" type="audio/mp4" download="/assets/media/2013-01-14-urizen/urizen-final-conflict-rough-demo.m4a" type="audio/mp4">M4A</a>, <a href="/assets/media/2013-01-14-urizen/urizen-final-conflict-rough-demo.ogg" type="audio/ogg" download="/assets/media/2013-01-14-urizen/urizen-final-conflict-rough-demo.ogg" type="audio/mp4">OGG</a>, or<a href="/assets/media/2013-01-14-urizen/urizen-final-conflict-rough-demo.mp3" type="audio/mp4" download="/assets/media/2013-01-14-urizen/urizen-final-conflict-rough-demo.mp3" type="audio/mp3">MP3</a>.
+        Download <a href="/assets/media/2013-01-14-urizen/urizen-final-conflict-rough-demo.m4a" type="audio/mp4" download="/assets/media/2013-01-14-urizen/urizen-final-conflict-rough-demo.m4a" type="audio/mp4">M4A</a>, <a href="/assets/media/2013-01-14-urizen/urizen-final-conflict-rough-demo.ogg" type="audio/ogg" download="/assets/media/2013-01-14-urizen/urizen-final-conflict-rough-demo.ogg" type="audio/mp4">OGG</a>, or<a href="/assets/media/2013-01-14-urizen/urizen-final-conflict-rough-demo.mp3" type="audio/mp3" download="/assets/media/2013-01-14-urizen/urizen-final-conflict-rough-demo.mp3" type="audio/mp3">MP3</a>.
       </p>
     </audio>
     <figcaption>

@@ -251,7 +251,7 @@ So there is *some* resistance, because we know where we want to go, we know the 
       <source src="/assets/media/2013-05-13-chloes/hey-girl.ogg" type="audio/ogg" type="audio/ogg" codecs=ogg />
       <source src="/assets/media/2013-05-13-chloes/hey-girl.mp3" type="audio/mp3" type="audio/mpeg" />
       <p>
-        Download <a href="/assets/media/2013-05-13-chloes/hey-girl.m4a" type="audio/mp4" download="/assets/media/2013-05-13-chloes/hey-girl.m4a" type="audio/mp4">M4A</a>, <a href="/assets/media/2013-05-13-chloes/hey-girl.ogg" type="audio/ogg" download="/assets/media/2013-05-13-chloes/hey-girl.ogg" type="audio/mp4">OGG</a>, or<a href="/assets/media/2013-05-13-chloes/hey-girl.mp3" type="audio/mp4" download="/assets/media/2013-05-13-chloes/hey-girl.mp3" type="audio/mp3">MP3</a>.
+        Download <a href="/assets/media/2013-05-13-chloes/hey-girl.m4a" type="audio/mp4" download="/assets/media/2013-05-13-chloes/hey-girl.m4a" type="audio/mp4">M4A</a>, <a href="/assets/media/2013-05-13-chloes/hey-girl.ogg" type="audio/ogg" download="/assets/media/2013-05-13-chloes/hey-girl.ogg" type="audio/mp4">OGG</a>, or<a href="/assets/media/2013-05-13-chloes/hey-girl.mp3" type="audio/mp3" download="/assets/media/2013-05-13-chloes/hey-girl.mp3" type="audio/mp3">MP3</a>.
       </p>
     </audio>
     <figcaption>Hey, Girl!</figcaption>

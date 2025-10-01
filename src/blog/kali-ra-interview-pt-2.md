@@ -75,7 +75,7 @@ A lot of bands do say [this kind of thing] and it’s a sort of generic statemen
       <source src="/assets/media/2012-11-27-goad/electric-living.ogg" type="audio/ogg" type="audio/ogg" codecs=ogg />
       <source src="/assets/media/2012-11-27-goad/electric-living.mp3" type="audio/mp3" type="audio/mpeg" />
       <p>
-        Download <a href="/assets/media/2012-11-27-goad/electric-living.m4a" type="audio/mp4" download="/assets/media/2012-11-27-goad/electric-living.m4a" type="audio/mp4">M4A</a>, <a href="/assets/media/2012-11-27-goad/electric-living.ogg" type="audio/ogg" download="/assets/media/2012-11-27-goad/electric-living.ogg" type="audio/mp4">OGG</a>, or<a href="/assets/media/2012-11-27-goad/electric-living.mp3" type="audio/mp4" download="/assets/media/2012-11-27-goad/electric-living.mp3" type="audio/mp3">MP3</a>.
+        Download <a href="/assets/media/2012-11-27-goad/electric-living.m4a" type="audio/mp4" download="/assets/media/2012-11-27-goad/electric-living.m4a" type="audio/mp4">M4A</a>, <a href="/assets/media/2012-11-27-goad/electric-living.ogg" type="audio/ogg" download="/assets/media/2012-11-27-goad/electric-living.ogg" type="audio/mp4">OGG</a>, or<a href="/assets/media/2012-11-27-goad/electric-living.mp3" type="audio/mp3" download="/assets/media/2012-11-27-goad/electric-living.mp3" type="audio/mp3">MP3</a>.
       </p>
     </audio>
     <figcaption>David Goad (Kali Ra)&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;<cite class="short-work">Electric Living</cite></figcaption>
