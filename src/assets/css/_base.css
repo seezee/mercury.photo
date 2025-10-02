@@ -119,6 +119,7 @@ html {
   text-size-adjust: none;
   -webkit-hyphens: auto;
   hyphens: auto;
+  hyphenate-limit-chars: 6 3 3;
 
   color: var(--mpb-color-textPrimary);
   background-color: var(--mpb-color-textReverse);
