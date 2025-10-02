@@ -202,12 +202,12 @@
           {% if image %}
             "image": "{{ site }}{{ image }}",
           {% else %}
-            "image": "{{ site }}/assets/images/site/mpb-logo.webp"
+            "image": "{{ site }}/assets/images/site/mpb-logo.webp",
           {% endif %}
           {% if pubdate %}
             "datePublished": "{{ pubdate | toISOString | safe }}",
           {% else %}
-            "datePublished": "{{ page.date | toISOString | safe }}"
+            "datePublished": "{{ page.date | toISOString | safe }}",
           {% endif %}
           "dateModified": "{{ page.date | toISOString | safe }}"
         }
