@@ -3,10 +3,11 @@
  *
  * 1. .alignleft, .alignright, .aligncenter
  * 2. .no-break
- * 3. .sr-only,.keywords, .govuk-visually-hidden
- * 4. .frac
- * 5. .small-caps, #breadcrumbs
- * 6. .short-work
+ * 3. .no-wrap
+ * 4. .sr-only,.keywords, .govuk-visually-hidden
+ * 5. .frac
+ * 6. .small-caps, #breadcrumbs
+ * 7. .short-work
  */
 
  /* .alignleft, .alignright, .aligncenter */
@@ -34,6 +35,11 @@
   dt, dd, ul {
     break-inside: auto;
   }
+}
+
+/* Text wrapping */
+.no-wrap {
+  text-wrap: nowrap;
 }
 
 /* .sr-only, .govuk-visually-hidden */

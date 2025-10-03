@@ -40,6 +40,7 @@
 
     hyphens: auto;
     hyphenate-limit-chars: 6 3 3;
+    /* CSS4 below; not currently supported in any browser */
     hyphenate-limit-lines: 1;
     hyphenate-limit-zone: 8%;
     hyphenate-limit-last: always;
