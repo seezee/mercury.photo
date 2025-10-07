@@ -45,7 +45,7 @@ As is usual for Fielder’s Sunday night residency, he performed solo, with just
 
 [^3]: $69GUITAR! is on indefinite hiatus.
 
-[^4]: Fielder, quoted in <cite class="h-card p-name cite-person">Carman, Becky</cite>, <cite class="short-work">[Oklahoma Band Q&A: Brad Fielder](https://newsok.com/article/4987546/oklahoma-band-qa-brad-fielder){target=_blank rel="external noopener"}</a>,</cite> <cite>The Oklahoman</cite>( <time datetime="2014-07-11T12:00:00-5:00">11 July 2014</time>).
+[^4]: Fielder, quoted in <cite class="h-card p-name cite-person">Carman, Becky</cite>, <cite class="short-work">[Oklahoma Band Q&A: Brad Fielder](https://newsok.com/article/4987546/oklahoma-band-qa-brad-fielder){target=_blank rel="external noopener"},</cite> <cite>The Oklahoman</cite> (<time datetime="2014-07-11T12:00:00-5:00">11 July 2014</time>).
 
 One particular song caught my ear&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;a biographical number called <cite class="short-work">Black Mottled Back Porch Cat.</cite> The song tells the story of how its author came into the world <time datetime="1979">just before</time> one of Oklahoma’s many oil booms.[^5] Set in Enid, a town reliant on oil, agriculture, and nearby Vance Air Force Base, the lyrics relate how Fielder’s mother undergoes a long and difficult labor. Eventually, Fielder’s grandfather goes in search of Fielder’s father. Bursting into the local watering hole, <q>He said, <q>Fielder!/Where you at, boy!/You’re havin’ a baby!/Better get your ass to the hos-pi-tal!</q></q> When the song ended I blurted out, <q>Spooky!</q> Fielder replied, <q>That’s because it’s true.</q>
 
