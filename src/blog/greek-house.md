@@ -22,7 +22,7 @@ Beloved Campus Corner eatery under new ownership</stack-l></hgroup>
 
 {% image "./src/assets/images/blog/2012-09-27-greek-house/czahller-20120926-17-35-50.jpg", "img-constrained", "Angelo stands behind a seated Helen.", "Angelo and Helen" %}</mpb-dialog-img>
 
-The aroma of grilling meat and potatoes frying in <span class="foreign" lang="el">gyros</span> grease permeates the block around <span class="h-card p-org">The Greek House</span>, guaranteeing a packed restaurant on most days. But soon, the <span class="h-card p-org">Campus Corner</span> institution will have a new owner. After placing the restaurant on the market <time datetime="2009">three years ago</time>, <span class="h-card p-name p-given-name">Angelo</span> and <span class="h-card p-name">Helen Dimas</span> have finally sold the beloved eatery.
+The aroma of grilling meat and potatoes frying in <span class="foreign" lang="el">gyros</span> grease permeates the block around <span class="h-card p-org">The Greek House</span>, guaranteeing a packed restaurant on most days. But soon, the <span class="h-card p-org">Campus Corner</span> institution will have a new owner. After placing the restaurant on the market <time datetime="2009">three years ago</time>, <span class="h-card p-name p-given-name">Angelo</span> and <span class="h-card p-name">Helen Dimas</span> have finally sold the beloved eatery.{.drop-cap}
 
 <mpb-dialog-img>
 
