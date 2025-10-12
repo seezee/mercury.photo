@@ -510,7 +510,7 @@ input,
 textarea,
 select {
 
-  &:not(#searchField) {
+  &:not(#searchField):not(.picslider) {
     inline-size: fit-content;
     max-inline-size: 100%;
     field-sizing: content;
@@ -534,7 +534,7 @@ select {
 
 input {
 
-  &:not(.pagefind-ui__search-input) {
+  &:not(.pagefind-ui__search-input):not(.picslider) {
     padding-inline: var(--s0);
   }
 
