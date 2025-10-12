@@ -11,7 +11,7 @@ tags:
 date: Last Modified
 pubdate: 2012-09-05T01:14:52+00:00
 image: /assets/images/blog/2012-09-04-lr-tut/czahller-20120715-01-55-12-final.jpg
-excerpt: Foobar
+excerpt: Adobe Lightroom is a powerful tool for managing and processing digital photos.
 ---
 <!-- markdownlint-disable MD025 -->
 # {{ title }}

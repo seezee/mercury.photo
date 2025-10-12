@@ -19,6 +19,7 @@ export default class picSlider extends HTMLElement {
     const p = this.firstChild;
     const containerInner   = document.createElement(`div`);
     const picslider        = document.createElement(`input`);
+    const picsliderValue   = document.createElement(`output`);
     const sliderLineTop    = document.createElement(`div`);
     const sliderLineBottom = document.createElement(`div`);
     const sliderButton     = document.createElement(`div`);
@@ -82,10 +83,24 @@ export default class picSlider extends HTMLElement {
     picslider.setAttribute(`type`, `range`);
     picslider.setAttribute(`min`, `0`);
     picslider.setAttribute(`max`, `100`);
+    picslider.setAttribute(`defaultValue`, `50`);
     picslider.setAttribute(`value`, `50`);
     picslider.setAttribute(`aria-label`, `Percent of “Before” image shown`);
     picslider.classList.add(`picslider`);
+    picslider.setAttribute(`id`, `picslider`);
+    picslider.setAttribute(`name`, `picslider`);
     containerInner.append(picslider);
+
+    // Create & render the output
+    picsliderValue.setAttribute(`id`, `picslider-value`);
+    picsliderValue.classList.add(`picslider-value`, `sr-only`);
+    picsliderValue.setAttribute(`name`, `picslider-value`);
+    picsliderValue.setAttribute(`for`, `picslider`);
+    picsliderValue.setAttribute(`value`, `${picslider.value}%`);
+    picsliderValue.setAttribute(`aria-live`, `polite`);
+    picsliderValue.innerText = `${picslider.value}%`;
+    container.after(picsliderValue);
+
 
     // Create & render the vertical divider.
     sliderLineTop.classList.add(`picslider-line-top`);
@@ -166,6 +181,8 @@ export default class picSlider extends HTMLElement {
     // Listen for the changes to the range input.
     document.querySelector(`.picslider`).addEventListener(`input`, (e) => {
       container.style.setProperty(`--position`, `${e.target.value}%`);
+      this.querySelector(`.picslider-value`).setAttribute(`value`, `${e.target.value}%`);
+      this.querySelector(`.picslider-value`).innerText = `${e.target.value}%`;
     })
 
   }
