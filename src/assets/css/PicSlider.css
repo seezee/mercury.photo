@@ -1,9 +1,16 @@
 mpb-picslider {
   display: grid;
   place-items: center;
+  --position: 50%;
+  --bg-color: rgba(255 255 255 / .3);
+  --alpha: .5;
 
   img {
     margin-inline: 0;
+  }
+
+  br {
+    display: none;
   }
 }
 
@@ -12,7 +19,6 @@ mpb-picslider {
   place-content: center;
   position: relative;
   overflow: hidden;
-  --position: 50%;
 }
 
 .picslider-inner {
@@ -47,37 +53,32 @@ input.picslider {
 }
 
 .picslider:focus-visible ~ .picslider-button {
-  outline: 5px solid var(--mpb-color-accent);
+  outline: 5px solid var(--bg-color);
   outline-offset: 3px;
 }
 
-.picslider-line-top {
+.picslider-line-top,
+.picslider-line-bottom {
   position: absolute;
-  inset: 0;
   width: .2rem;
   height: calc(50% - 24.5px);
-  background-color: rgba(255 255 255 / .3);
+  background-color: var(--bg-color);
+  opacity: var(--alpha);
   left: var(--position);
   transform: translateX(-50%);
   pointer-events: none;
 }
 
+.picslider-line-top {
+  inset-block-start: 0;
+}
+
 .picslider-line-bottom {
-  position: absolute;
   inset-block-end: 0;
-  width: .2rem;
-  height: calc(50% - 24.5px);
-  background-color: rgba(255 255 255 / .3);
-  left: var(--position);
-  transform: translateX(-50%);
-  pointer-events: none;
 }
 
 .picslider-button {
   position: absolute;
-  background-color: rgba(255 255 255 / .5);
-  color: black;
-  padding: .5rem;
   border-radius: 100vw;
   display: grid;
   place-items: center;
@@ -85,5 +86,6 @@ input.picslider {
   left: var(--position);
   transform: translate(-50%, -50%);
   pointer-events: none;
-  box-shadow: 1px 1px 1px hsl(0, 50%, 2%, .5);
+  background-color: transparent;
+  box-shadow: 1px 1px 1px oklch(var(--mpb-c-p-800) / .5);
 }

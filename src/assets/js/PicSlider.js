@@ -10,7 +10,10 @@ export default class picSlider extends HTMLElement {
   }
 
   connectedCallback() {
-    let aspect = this.getAttribute(`aspect`);
+    let aspect             = this.getAttribute(`aspect`);
+    let color              = this.getAttribute(`color`);
+    let bgColor            = this.getAttribute(`bg-color`);
+    let alpha              = this.getAttribute(`alpha`);
     // Get the two images.
     const image1           = this.querySelector(`img:nth-of-type(1)`);
     const image2           = this.querySelector(`img:nth-of-type(2)`);
@@ -25,11 +28,9 @@ export default class picSlider extends HTMLElement {
     const sliderButton     = document.createElement(`div`);
     // Note the namespaced syntax for creating SVGs and their elements.
     const sliderIcon       = document.createElementNS(`http://www.w3.org/2000/svg`, `svg`);
-    const vertLine         = document.createElementNS(`http://www.w3.org/2000/svg`, `line`);
-    const leftLine         = document.createElementNS(`http://www.w3.org/2000/svg`, `line`);
-    const leftArr          = document.createElementNS(`http://www.w3.org/2000/svg`, `polyline`);
-    const rightLine        = document.createElementNS(`http://www.w3.org/2000/svg`, `line`);
-    const rightArr         = document.createElementNS(`http://www.w3.org/2000/svg`, `polyline`);
+    const sliderIconOld    = document.createElementNS(`http://www.w3.org/2000/svg`, `svg`);
+    const circle           = document.createElementNS(`http://www.w3.org/2000/svg`, `circle`);
+    const arrows           = document.createElementNS(`http://www.w3.org/2000/svg`, `path`);
 
     // Bail early if either image is missing.
     if(!image1 || !image2) {
@@ -57,6 +58,24 @@ export default class picSlider extends HTMLElement {
     // Add classes.
     image1.classList.add(`picslider-img`, `picslider-img-before`);
     image2.classList.add(`picslider-img`, `picslider-img-after`);
+
+    if(color) {
+      color = color;
+    } else {
+      color = `#000`;
+    };
+
+    if(bgColor) {
+      bgColor = bgColor;
+    } else {
+      bgColor = `rgba(255 255 255 / .5)`;
+    };
+
+    if(alpha) {
+      alpha = alpha;
+    } else {
+      alpha = `.5`;
+    };
 
     // Add the div to the custom element.
     container.setAttribute(`class`, `picslider-outer`);
@@ -101,82 +120,52 @@ export default class picSlider extends HTMLElement {
     picsliderValue.innerText = `${picslider.value}%`;
     container.after(picsliderValue);
 
-
     // Create & render the vertical divider.
     sliderLineTop.classList.add(`picslider-line-top`);
     sliderLineTop.ariaHidden = true; // Boolean; note camelCase.
+    sliderLineTop.style.setProperty(`--bg-color`, `${bgColor}`)
+    sliderLineTop.style.setProperty(`--alpha`, `${alpha}`)
     sliderLineBottom.classList.add(`picslider-line-bottom`);
     sliderLineBottom.ariaHidden = true; // Boolean; note camelCase.
+    sliderLineBottom.style.setProperty(`--bg-color`, `${bgColor}`)
+    sliderLineBottom.style.setProperty(`--alpha`, `${alpha}`)
     containerInner.append(sliderLineTop);
     containerInner.append(sliderLineBottom);
 
     // Create & render the button.
     sliderButton.classList.add(`picslider-button`);
     sliderButton.ariaHidden = true; // Boolean; note camelCase.
+    sliderButton.style.setProperty(`--bg-color`, `${bgColor}`);
+    sliderButton.style.setProperty(`--alpha`, `${alpha}`);
     containerInner.append(sliderButton);
 
     // Create the icon. See
     // https://stackoverflow.com/questions/41975044/how-can-i-set-a-viewbox-on-an-svg-element-created-with-javascript &
     // https://stackoverflow.com/questions/52571125/setattributens-xmlns-of-svg-for-a-general-purpose-library
     sliderIcon.setAttributeNS(`http://www.w3.org/2000/xmlns/`, `xmlns`, `http://www.w3.org/2000/svg`)
-    sliderIcon.setAttribute(`width`, `30`);
-    sliderIcon.setAttribute(`height`, `30`);
+    sliderIcon.setAttribute(`width`, `50`);
+    sliderIcon.setAttribute(`height`, `50`);
     sliderIcon.setAttribute(`fill`, `none`);
-    sliderIcon.setAttribute(`viewBox`, `0 0 256 256`);
+    sliderIcon.setAttribute(`viewBox`, `0 0 50 50`);
 
-    // Create & render a lines.
-    vertLine.setAttribute(`x1`, `128`);
-    vertLine.setAttribute(`y1`, `40`);
-    vertLine.setAttribute(`x2`, `128`);
-    vertLine.setAttribute(`y2`, `216`);
-    vertLine.setAttribute(`fill`, `none`);
-    vertLine.setAttribute(`stroke`, `currentColor`);
-    vertLine.setAttribute(`stroke-linecap`, `round`);
-    vertLine.setAttribute(`stroke-linejoin`, `round`);
-    vertLine.setAttribute(`stroke-width`, `16`);
-    sliderIcon.append(vertLine);
+    // Render the icon circle background.
+    circle.setAttribute(`cx`, `25`);
+    circle.setAttribute(`cy`, `25`);
+    circle.setAttribute(`r`, `25`);
+    circle.setAttribute(`fill`, `${bgColor}`);
+    circle.setAttribute(`fill-opacity`, `${alpha}`);
+    sliderIcon.append(circle);
 
-    leftLine.setAttribute(`x1`, `96`);
-    leftLine.setAttribute(`y1`, `128`);
-    leftLine.setAttribute(`x2`, `16`);
-    leftLine.setAttribute(`y2`, `128`);
-    leftLine.setAttribute(`fill`, `none`);
-    leftLine.setAttribute(`stroke`, `currentColor`);
-    leftLine.setAttribute(`stroke-linecap`, `round`);
-    leftLine.setAttribute(`stroke-linejoin`, `round`);
-    leftLine.setAttribute(`stroke-width`, `16`);
-    sliderIcon.append(leftLine);
+    // Render the icon arrows.
+    arrows.setAttribute(`d`, `M25 14.688v20.624M21.25 25h-9.375m3.75 3.75L11.875 25l3.75-3.75M28.75 25h9.375m-3.75-3.75 3.75 3.75-3.75 3.75`);
+    arrows.setAttribute(`fill`, `none`);
+    arrows.setAttribute(`stroke`, `${color}`);
+    arrows.setAttribute(`stroke-linecap`, `round`);
+    arrows.setAttribute(`stroke-linejoin`, `round`);
+    arrows.setAttribute(`stroke-width`, `1.875`);
+    sliderIcon.append(arrows);
 
-    leftArr.setAttribute(`points`, `48 160 16 128 48 96`)
-    leftArr.setAttribute(`fill`, `none`);
-    leftArr.setAttribute(`stroke`, `currentColor`);
-    leftArr.setAttribute(`stroke-linecap`, `round`);
-    leftArr.setAttribute(`stroke-linejoin`, `round`);
-    leftArr.setAttribute(`stroke-width`, `16`);
-    sliderIcon.append(leftArr);
-
-    rightLine.setAttribute(`x1`, `160`);
-    rightLine.setAttribute(`y1`, `128`);
-    rightLine.setAttribute(`x2`, `240`);
-    rightLine.setAttribute(`y2`, `128`);
-    rightLine.setAttribute(`fill`, `none`);
-    rightLine.setAttribute(`stroke`, `currentColor`);
-    rightLine.setAttribute(`stroke-linecap`, `round`);
-    rightLine.setAttribute(`stroke-linejoin`, `round`);
-    rightLine.setAttribute(`stroke-width`, `16`);
-    sliderIcon.append(rightLine);
-
-    rightArr.setAttribute(`points`, `208 96 240 128 208 160`)
-    rightArr.setAttribute(`fill`, `none`);
-    rightArr.setAttribute(`stroke`, `currentColor`);
-    rightArr.setAttribute(`stroke-linecap`, `round`);
-    rightArr.setAttribute(`stroke-linejoin`, `round`);
-    rightArr.setAttribute(`stroke-width`, `16`);
-    sliderIcon.append(rightArr);
-
-    // Render the icon after all of its elements are appended.
     sliderButton.append(sliderIcon);
-
 
     // Listen for the changes to the range input.
     document.querySelector(`.picslider`).addEventListener(`input`, (e) => {
