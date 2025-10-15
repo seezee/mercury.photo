@@ -344,6 +344,8 @@ module.exports = async function(eleventyConfig) {
     'favicon': `/`,
     // Copy `/_redirects/` to `_site/` (Don't use backticks around key)
     '_redirects': `/`
+    // Copy `/_redirects/` to `_site/` (Don't use backticks around key)
+    'dislike404-verification.txt': `/`
   });
   // Set custom directory for input; otherwise use defaults
   return {
