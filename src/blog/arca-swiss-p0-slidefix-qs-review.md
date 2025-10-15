@@ -160,11 +160,11 @@ The Monoball <span class="lining">P0</span> head attaches to a standard 3/8″
 
 Attaching a camera equipped with a compatible QS quick-release (QR) plate is simple. Assuming you’ve mounted the QS plate to the camera tripod socket with the dovetails facing the camera front and back:
 
-* Pull the locking lever all the way out (figure 1)&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;it’s spring loaded, so releasing it will cause it to snap into the “slide” position (as shown in step 4)
-* Insert the front plate edge against the SlideFix clamp’s front slot (opposite the locking lever) while angling the rear edge up (figure 1)
-* Lower the rear edge into the slot & release the locking lever (figure 2)
-* Gently adjust the camera by sliding it laterally until you are satisfied with its position, e.g., centered over the Monoball <span class="lining">P0</span> head (figure 2)
-* Push the locking lever in to secure the camera fully; you will feel & hear a gentle snap (figure 3)
+1. Pull the locking lever all the way out (figure 1)&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;it’s spring loaded, so releasing it will cause it to snap into the “slide” position (as shown in step 4)
+2. Insert the front plate edge against the SlideFix clamp’s front slot (opposite the locking lever) while angling the rear edge up (figure 1)
+3. Lower the rear edge into the slot & release the locking lever (figure 2)
+4. Gently adjust the camera by sliding it laterally until you are satisfied with its position, e.g., centered over the Monoball <span class="lining">P0</span> head (figure 2)
+5. Push the locking lever in to secure the camera fully; you will feel & hear a gentle snap (figure 3)
 
 <mpb-dialog-gallery hint rel cols="8">
   
@@ -239,7 +239,7 @@ The Monoball <span class="lining">P0</span> head is well built and designed, a
   <ul class="app-marginnotes-list" role="list">
     <li id="mn:1" role="listitem">
 
-Since this article posted, Arca-Swiss have addressed some of the compatibility issues we noted with the release of the [Monoball <span class="lining">P0</span> Ballhead with Classic quick-release](https://bhpho.to/475u0C7){target=_blank rel="external noopener"} (MFR. <span class="ord">No.</span> 801-214, $587.<sup>86</sup> USD) and the [Monoball <span class="lining">P0</span> with Fliplock Quick Set Device](https://www.bhphotovideo.com/c/product/1029548-REG/arca_swiss_801215_monoball_p0_with_fliplock.html/BI/19462/KBID/11656/DFF/d10-v21-t1-x507006/SID/EZ){target=_blank rel="external noopener"} (MFR. <span class="ord">No.</span> 801-215, $483.<sup>60</sup> USD). **Our current recommendation is for either of these models in preference to the model reviewed here**.
+Since this article posted, Arca-Swiss have addressed some of the compatibility issues we noted, releasing the [Monoball <span class="lining">P0</span> Ballhead with Classic quick-release](https://bhpho.to/475u0C7){target=_blank rel="external noopener"} (MFR. <span class="ord">No.</span> 801-214, $587.<sup>86</sup> USD) and the [Monoball <span class="lining">P0</span> with Fliplock Quick Set Device](https://www.bhphotovideo.com/c/product/1029548-REG/arca_swiss_801215_monoball_p0_with_fliplock.html/BI/19462/KBID/11656/DFF/d10-v21-t1-x507006/SID/EZ){target=_blank rel="external noopener"} (MFR. <span class="ord">No.</span> 801-215, $483.<sup>60</sup> USD). **Our current recommendation is for either of these models in preference to the model reviewed here**.
 
     <li id="mn:2" role="listitem">
 
