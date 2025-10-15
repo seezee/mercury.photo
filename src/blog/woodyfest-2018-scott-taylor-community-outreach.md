@@ -33,7 +33,7 @@ excerpt: This year’s Woodyfest continued a long-standing tradition of providin
 
 This year’s Woodyfest continued a long-standing tradition of providing accessible entertainment throughout the host-town of Okemah. On <time datetime="2018-07-13T13:50:01-5:00">festival Friday</time>, the <span class="h-card p-name"><span class="p-honorific">Reverend <abbr class="noscaps">Dr.</abbr></span> Scott Taylor</span> brought a mix of traditional and original songs to the Colonial Park Manor nursing home.{.drop-cap}
 
-Sticking mostly to early 20<sup>th</sup>-century cowboy songs, traditional folk songs, and spirituals, the retired Bartlesville minister had the audience singing along and clapping hands in no time.
+Sticking mostly to early twentieth-century cowboy songs, traditional folk songs, and spirituals, the retired Bartlesville minister had the audience singing along and clapping hands in no time.
 
 Taylor has released five albums, his latest being <cite>An Acoustic Christmas</cite> (<time datetime="2012">2012</time>), and has won numerous accolades and awards, including honorable mention in the Woody Guthrie Folk Festival’s <time datetime="2007">2007</time> songwriting contest. He performs regularly at nursing homes, festivals, poetry readings, truck stops, coffee shops, and various Bartlesville venues. Several songs from his album <cite>Friends Along the Trail</cite> have been featured on the television show <cite>Best of America by Horseback.</cite>
 

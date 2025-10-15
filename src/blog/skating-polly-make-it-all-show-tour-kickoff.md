@@ -35,7 +35,7 @@ Expanding to a trio after their brother <span class="h-card p-name">Kurtis Mayo<
 <figure>
   <stack-l>
     <iframe class="aspect aspect-16x9" src="https://www.youtube.com/embed/moQn5mdUirg?si=nY_yXD3a4mVrb-OJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-    <figcaption>Skating Polly&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;1<sup>st</sup> live show at OPOLIS (Part 1)</figcaption>
+    <figcaption>Skating Polly&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;First live show at OPOLIS (Part 1)</figcaption>
   </stack-l>
 </figure>
 

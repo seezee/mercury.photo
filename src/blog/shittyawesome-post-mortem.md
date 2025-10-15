@@ -174,7 +174,7 @@ I used to listen to&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;my
 
 <span class="spkr">Searle</span> Joey’s in two bands right now, neither of which have played a show yet.
 
-<span class="spkr">Muir</span> But they’ve got a show&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;[<span class="h-card p-org">Tumbling Nebulæ</span>](/blog/tumbling-nebulae-interview-gallery/) has a show scheduled September 14<sup>th</sup> at the <span class="small-caps">OPOLIS</span> with a couple of other bands.
+<span class="spkr">Muir</span> But they’ve got a show&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;[<span class="h-card p-org">Tumbling Nebulæ</span>](/blog/tumbling-nebulae-interview-gallery/) has a show scheduled September 14 at the <span class="small-caps">OPOLIS</span> with a couple of other bands.
 
 He’s also in a band with the [<span class="h-card p-org">Copperheads</span>](https://itunes.apple.com/us/artist/copperheads/id569307483?uo=4&at=10ldhk){target=_blank rel="external noopener"}&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;<span class="h-card p-name">Andy Escobar</span> and <span class="h-card p-name">Dane Kitchens</span>. They’re calling themselves the <span class="h-card p-org">Shutdown Shutouts</span>.
 

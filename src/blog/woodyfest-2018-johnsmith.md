@@ -33,7 +33,7 @@ Making his eighth appearance as a performer at the Woody Guthrie Folk Festival, 
 
 Johnsmith has released eight solo albums to positive reviews, as well as winning the Kerrville New Folk Award and being nominated for an Independent Spirit Music Award.[^1]
 
-[^1]: His song <cite class="short-work">Blue Jay</cite> was entered in the Blues category at the 10<sup>th</sup> annual competition.
+[^1]: His song <cite class="short-work">Blue Jay</cite> was entered in the Blues category at the tenth annual competition.
 
 Born one of ten children in small-town Iowa, Johnsmith learned guitar as a teenager and began writing songs soon after. In addition to collaborations with <span class="h-card p-name">Dan Sebranek</span>, Johnsmith has released six solo albums. For the past thirteen years he has led Inishfree, a program of musical tours of Ireland.
 

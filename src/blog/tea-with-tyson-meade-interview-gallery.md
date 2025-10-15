@@ -66,7 +66,7 @@ Meade hosted the Bureau at his <time datetime="1915">1915</time>-built Oklahoma 
 
 <span class="spkr">MPB</span> <cite>Daphne Come Out</cite>![^4]
 
-[^4]: The outro on <cite>Robbing the Nuclear Family</cite>’s 8<sup>th</sup> track is modeled on the outro from the Beatles song.
+[^4]: The outro on <cite>Robbing the Nuclear Family</cite>’s eighth track is modeled on the outro from the Beatles song.
 
 <span class="spkr">Meade</span> Yes, exactly.
 
@@ -137,7 +137,7 @@ And healthcare&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;single-
 
 I guess with Oklahoma, one of the reasons I’m running is Oklahoma has always been kind to me, to the [Chainsaw] Kittens, and when we have a platform to speak on, we should, when we see that things are not [as they should be]. I’ve never been political, but I’ve been on the frontline, as queer, and I’ve shown that lifestyle in the public eye. And I’ve had so many kids in high school who came up to me&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;especially when the Kittens were doing well&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;and now they’re teachers and whatever now, you know, they’ve grown up listening to the Kittens, and they’ve told me, <q>You made me feel better about myself, because, before you came along, there was nothing like you in Oklahoma,</q> and so&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;I&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;I was just doing my thing, back then; I didn’t really think of it. I just wanted to be who I was and I wasn’t going to be&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;*who I wasn’t*&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;and now I understand the power of just being yourself.
 
-In a political platform, I can be who I am, and I can speak about the issues, and issues as I learn about them, like, human trafficking, Oklahoma City is the 4<sup>th</sup> busiest hub for human trafficking in the United States. We need to look at these things that have been swept under the rug. At the same time this is a wonderful place to live, and we are fairly accepting of people here. I had a conversation with my buddy <span class="h-card p-name">Trent Bell</span> a while ago, and someone had said something anti-gay, and he said, <q>That’s just weird,</q> because now, it’s just weird to be anti-gay. [Being gay] isn’t the taboo it once was and now when someone says something like that they just look like a bigot.
+In a political platform, I can be who I am, and I can speak about the issues, and issues as I learn about them, like, human trafficking, Oklahoma City is the fourth busiest hub for human trafficking in the United States. We need to look at these things that have been swept under the rug. At the same time this is a wonderful place to live, and we are fairly accepting of people here. I had a conversation with my buddy <span class="h-card p-name">Trent Bell</span> a while ago, and someone had said something anti-gay, and he said, <q>That’s just weird,</q> because now, it’s just weird to be anti-gay. [Being gay] isn’t the taboo it once was and now when someone says something like that they just look like a bigot.
 
 So, I feel like Oklahoma is way more forward thinking than the rest of the country give us credit for.[^8] I’m putting a lot of hope in the millennials.
 

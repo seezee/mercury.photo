@@ -28,7 +28,7 @@ excerpt: We wrote about Woodyfest regular Sam Baker just over a year ago so we w
 
 We [wrote about](/blog/woodyfest-2018-sam-baker/){target=_blank rel="external noopener"} Woodyfest regular <span class="h-card p-name">Sam Baker</span> just over a year ago, so we won’t repeat ourselves here. Baker has played Woodyfest a total of a dozen times as of <time datetime="2019-07-13T19:45:00-5:00">2019</time>.
 
-Baker played an afternoon set at the Crystal Theatre on festival Saturday. <span class="h-card p-name">Megan Palmer</span> accompanied Baker on violin. Also accompanying Baker are <span class="h-card p-name">Don Conoscenti</span> (electric guitar, lap steel) and <span class="h-card p-name">Erik Alvar</span> (contrabass). The late <span class="h-card p-name">[Audrey Auld-Mezera](/blog/woodyfest-2014-audrey-auld/)</span> and the <span class="h-card p-org">Burns Sisters</span> (<span class="h-card p-name p-given-name">Jeannie</span> and <span class="h-card p-name p-given-name">Marie</span>) joined Baker later in his set.
+Baker played an afternoon set at the Crystal Theatre on festival Saturday. <span class="h-card p-name">Megan Palmer</span> accompanied Baker on violin. Also accompanying Baker are <span class="h-card p-name">Don Conoscenti</span> (electric guitar, lap steel) and <span class="h-card p-name">Erik Alvar</span> (contrabass). The late <span class="h-card p-name">[Audrey Auld-Mezera](/blog/woodyfest-2013-audrey-auld/)</span> and the <span class="h-card p-org">Burns Sisters</span> (<span class="h-card p-name p-given-name">Jeannie</span> and <span class="h-card p-name p-given-name">Marie</span>) joined Baker later in his set.
 
 ## Gallery: Sam Baker
 

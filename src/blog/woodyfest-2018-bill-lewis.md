@@ -29,7 +29,7 @@ excerpt: Kicking off the 21st annual Woody Guthrie Folk Festival, Bill Lewis bro
 
 {% image "./src/assets/images/blog/2018-10-15-woodyfest-bill-lewis/czahller-20180712-11-47-39.jpg", "img-constrained", "Bill Lewis (VI) — 21st Annual Woody Guthrie Festival, 2018", "Bill Lewis (VI)&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;21st Annual Woody Guthrie Festival, 2018" %}</mpb-dialog-img>
 
-Kicking off the 21<sup>st</sup> annual Woody Guthrie Folk Festival, <span class="h-card p-name">Bill Lewis</span> brought his solo troubadour act to the basement of the Brick Street Café <time datetime="2018-07-12:T11:00:00-5:00">on 12 July at 11:00 a.m.</time>, two days before Woody’s birthday.{.drop-cap}
+Kicking off the twenty-first annual Woody Guthrie Folk Festival, <span class="h-card p-name">Bill Lewis</span> brought his solo troubadour act to the basement of the Brick Street Café <time datetime="2018-07-12:T11:00:00-5:00">on 12 July at 11:00 a.m.</time>, two days before Woody’s birthday.{.drop-cap}
 
 Lewis learned classical piano in and around church in his hometown of Decatur. Finding the small town life too constraining, he moved away <q>seeking culture and art and other real things.</q>[^1] He’s currently based in San Antonio, Texas, touring the Texas Hill Country. On Sundays you can find him at Hondo’s in Fredericksburg playing piano with <span class="h-card p-org">The Any Given Sunday Band</span>.
 

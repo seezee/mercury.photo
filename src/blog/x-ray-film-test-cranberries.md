@@ -26,7 +26,7 @@ TThis is a series of shots I made to work out the exposure characteristics of Ko
 
 [^1]: Photographic film sensitive to blue and violet, and, in some cases, green light. Because it is insensitive to red light, it may be developed under a safelight.
 
-The 1<sup>st</sup> image is an unaltered scan[^2] I made on a very old consumer-level flatbed scanner. The 2<sup>nd</sup> image was made by adjusting the curves in Adobe Lightroom 5 for higher contrast. Because the film has a blue polyester base, whites appear as light grey to the scanner, so one of the adjustments involved resetting the white point in the curves. In the U.S., x-ray film may be purchased from the [Film Photography Project](https://filmphotographystore.com/search?type=product&q=x-ray){target=_blank rel="external noopener"}, [ZZ Medical](https://www.zzmedical.com/analog-x-ray-supplies/x-ray-film.html){target=_blank rel="external noopener"}, or [CXS Online](https://www.cxsonline.com/products/){target=_blank rel="external noopener"}.
+The first image is an unaltered scan[^2] I made on a very old consumer-level flatbed scanner. The second image was made by adjusting the curves in Adobe Lightroom 5 for higher contrast. Because the film has a blue polyester base, whites appear as light grey to the scanner, so one of the adjustments involved resetting the white point in the curves. In the U.S., x-ray film may be purchased from the [Film Photography Project](https://filmphotographystore.com/search?type=product&q=x-ray){target=_blank rel="external noopener"}, [ZZ Medical](https://www.zzmedical.com/analog-x-ray-supplies/x-ray-film.html){target=_blank rel="external noopener"}, or [CXS Online](https://www.cxsonline.com/products/){target=_blank rel="external noopener"}.
 
 [^2]: Because the scan is of a negative transparency, I inverted the curves to yield a positive image.
 
@@ -88,7 +88,7 @@ Scratches are visible on all of the negatives, but compared to my first attempt 
 * 16-ounce plastic funnel with built-in fine-mesh strainer, for returning working solutions to storage containers
 * 8-ounce bottle, for storing photo fix working solution
 * Photographers Formulary Form-a-Flo wetting agent
-* Stainless steel [film clips](https://www.bhphotovideo.com/c/product/123163-REG/Delta_58050_Stainless_Steel_Film_Clips.html/BI/19462/KBID/11656/kw/DEFC10/DFF/d10-v2-t1-xDEFC10){target=_blank rel="external noopener"}, for drying negatives (I attached them to [these hangers](https://www.amazon.com/gp/product/B00EDK54VS){target=_blank rel="external noopener"} and suspended them from the shower curtain rod&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;did I mention that my darkroom is also my home’s lavatory?)
+* Stainless steel [film clips](https://www.bhphotovideo.com/c/product/123163-REG/Delta_58050_Stainless_Steel_Film_Clips.html/BI/19462/KBID/11656/kw/DEFC10/DFF/d10-v2-t1-xDEFC10){target=_blank rel="external noopener"}, for drying negatives (I attached them to “S”-shaped shower curtain hooks to suspend them from the shower curtain rod&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;did I mention that my darkroom is also my home’s lavatory?)
 
 [^6]: One tray each for pre-soak, developer, stop-bath, fix, and rinse.
 
