@@ -340,11 +340,9 @@ module.exports = async function(eleventyConfig) {
   })
 
   eleventyConfig.addPassthroughCopy({
-    // Copy `/favicon/` to `_site/` (Don't use backticks around key)
+    // Copy files from site root to `_site/` (Don't use backticks around key)
     'favicon': `/`,
-    // Copy `/_redirects/` to `_site/` (Don't use backticks around key)
-    '_redirects': `/`
-    // Copy `/_redirects/` to `_site/` (Don't use backticks around key)
+    '_redirects': `/`,
     'dislike404-verification.txt': `/`
   });
   // Set custom directory for input; otherwise use defaults
