@@ -120,11 +120,11 @@ Unfortunately, when we answered we forgot to press the record button. The follow
 
 <span class="spkr">Peelander Yellow</span> Yes! We may have another song about food on our new album. We’ve finished recording it, and it should be out next year.
 
-<span class="spkr">MPB</span> You first began recording on analog equipment, in the 90s. Thinking of Brian Eno’s [essay](https://www.wired.com/wired/archive/7.01/eno.html){target=_blank rel="external noopener"} in which he complains about the loss of immediacy when software becomes an intermediary, does digital technology help or hinder your music making?
+<span class="spkr">MPB</span> You first began recording on analog equipment, in the 90s. Thinking of Brian Eno’s [essay](https://web.archive.org/web/19991116205309/https://www.wired.com/wired/archive/7.01/eno.html){target=_blank rel="external noopener"} in which he complains about the loss of immediacy when software becomes an intermediary, does digital technology help or hinder your music making?
 
 <span class="spkr">Peelander Yellow</span> We don’t think of it that way. When you have a problem, what do you do? You keep trying, and you solve the problem. If there is a software problem, we find a way to work around it.
 
-<span class="spkr">MPB</span> Tell me about the [food truck](https://ypcomic.com/2012/10/09/peelander-yellow-plus-food-truck-equals-i-want-to-eat-it/){target=_blank rel="external noopener"} in Austin.
+<span class="spkr">MPB</span> Tell me about the food truck in Austin.
 
 <span class="spkr">Peelander Yellow</span> Ah, East Side King[^6]. Good food. They have good food in Austin. I painted their truck.
 

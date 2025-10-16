@@ -23,7 +23,7 @@ excerpt: This concludes our interview with Joshua Griffin and Jonathan Eldridge 
 
 {% image "./src/assets/images/blog/2013-03-27-trading-co/czahller-20130213-18-38-36.jpg", "img-constrained", "Josh Griffin and Jonathan Eldridge seated on the Mercury Photo Bureau sofa. Jonathan is attempting to lightly slap Josh, who leans way over to avoid this contact. Both are laughing.", "Joshua and Jonathan" %}</mpb-dialog-img>
 
-This concludes our interview with <span class="h-card p-name">Jonathan Eldridge</span> and <span class="h-card p-name">Joshua Griffin</span>, who comprise <span class="h-card p-org">The Trading Co.</span>, an Oklahoma City&ndash;based blues-rock duo. They visited us shortly before their <span class="h-card p-org">[Old Dog Records](https://olddogrecords.com){target=_blank rel="external noopener"}</span> showcase, which took place in late February at the <span class="h-card p-org">Route 66 Roadhouse</span>. Also on the ticket were label mates the [<span class="h-card p-org">Kamals</span>](/blog/kamals-interview-gallery/) and <span class="h-card p-org">Black Jack Gypsys</span>.
+This concludes our interview with <span class="h-card p-name">Jonathan Eldridge</span> and <span class="h-card p-name">Joshua Griffin</span>, who comprise <span class="h-card p-org">The Trading Co.</span>, an Oklahoma City&ndash;based blues-rock duo. They visited us shortly before their <span class="h-card p-org">[Old Dog Records](https://www.facebook.com/olddogrecords){target="_blank" rel="external noopener noreferrer"}</span> showcase, which took place in late February at the <span class="h-card p-org">Route 66 Roadhouse</span>. Also on the ticket were label mates the [<span class="h-card p-org">Kamals</span>](/blog/kamals-interview-gallery/) and <span class="h-card p-org">Black Jack Gypsys</span>.
 
 <span class="spkr">Mercury Photo Bureau</span> How did Old Dog Records form?
 
@@ -39,7 +39,7 @@ This concludes our interview with <span class="h-card p-name">Jonathan Eldridge<
 
 <span class="spkr">Eldridge</span> We finished that, and a little bit of time [passed] and we got back together with a couple of the guys [from the Kamals], and we came up with this idea of <q>Let’s all work together; we’ve got everything we need to run a studio.</q> We had a bunch of equipment, mics, guitars, amps; <span itemscope="itemscope" itemtype="https://schema.org/Person" itemprop="additionalName">Zak</span> had a real nice 24-channel board, old tape machines, stuff like that.
 
-<span class="spkr">MPB</span> I hear you have a connection to the [<span class="h-card p-org">James Gang</span>](https://itunes.apple.com/us/artist/james-gang/id243789?uo=4&at=10ldhk){target=_blank rel="external noopener"}?
+<span class="spkr">MPB</span> I hear you have a connection to the [<span class="h-card p-org">James Gang</span>](https://music.apple.com/us/artist/james-gang/id243789?uo=4&at=10ldhk){target=_blank rel="external noopener"}?
 
 <span class="spkr">Griffin</span> We found&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;we kinda looked around for a while, looking for [an analogue] tape machine, and we finally found [a pair].
 
@@ -67,9 +67,9 @@ We’d had an old <strong>Otari</strong> we’d used on [the EP], and it’s a n
 
 <span class="spkr">Eldridge</span> As far as metaphors, I agree&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;there’s probably not&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;maybe I’m just not smart enough to write them that way [*laughs*]. All the ones I worked up, I’m usually telling a story […] to convey an emotion or a feeling. [I’ll sometimes ask someone to come up with a feeling or an idea for me to write about.] The hard part is [coming up with] what that feeling *is*.
 
-<span class="spkr">Griffin</span> There’s lyrics that I’ve written that may sound like I’m trying to convey one thing and I’m […] really thinking of another. Like, on <cite class="short-work">[Find You](https://itunes.apple.com/us/album/find-you/id589286960?i=589287058&uo=4&at=10ldhk){target=_blank rel="external noopener"},</cite> there’s a love-hate thing going on there, and I’m not really sure which is which.
+<span class="spkr">Griffin</span> There’s lyrics that I’ve written that may sound like I’m trying to convey one thing and I’m […] really thinking of another. Like, on <cite class="short-work">[Find You](https://music.apple.com/us/album/find-you/id589286960?i=589287058&uo=4&at=10ldhk){target=_blank rel="external noopener"},</cite> there’s a love-hate thing going on there, and I’m not really sure which is which.
 
-<span class="spkr">MPB</span> There are similar language and themes in <cite class="short-work">Find You</cite> and also in <cite class="short-work">[Long Lost Friend](https://itunes.apple.com/us/album/long-lost-friend/id589286960?i=589287057&uo=4&at=10ldhk){target=_blank rel="external noopener"}</cite>; was that deliberate?
+<span class="spkr">MPB</span> There are similar language and themes in <cite class="short-work">Find You</cite> and also in <cite class="short-work">[Long Lost Friend](https://music.apple.com/us/album/long-lost-friend/id589286960?i=589287057&uo=4&at=10ldhk){target=_blank rel="external noopener"}</cite>; was that deliberate?
 
 <span class="spkr">Eldridge</span> Joshua wrote <cite class="short-work">Find You</cite> and I wrote <cite class="short-work">Long Lost Friend.</cite> I didn’t even know it happened [*laughs*] until you just mentioned it.
 
@@ -87,7 +87,7 @@ One thing that makes, not only [Josh and me] close, but also me and several of m
 
 So, the Black Jack Gypsys put out an EP[^2] on Old Dog about a year ago; I don’t think they’ve been playing a lot of shows.[^3] I think they’ve been working on recording and getting new songs together […].
 
-[^2]: The eponymous <cite>[Black Jack Gypsys](https://itunes.apple.com/us/album/the-3-1-ep-ep/id523693579?uo=4&at=10ldhk){target=_blank rel="external noopener"}</cite>.
+[^2]: The eponymous <cite>[Black Jack Gypsys](https://music.apple.com/us/album/the-3-1-ep-ep/id523693579?uo=4&at=10ldhk){target=_blank rel="external noopener"}</cite>.
 
 [^3]: They have appeared in a pair of Old Dog Records showcases and some other shows since we conducted this interview.
 
@@ -125,17 +125,17 @@ We’ve done okay so far, but we have […] jobs and other constraints. We’ve 
 
 <span class="spkr">MPB</span> What’s on your iPods right now?
 
-<span class="spkr">Griffin</span> <span class="h-card p-org">Black Crowes</span>, [<span class="h-card p-org">Buffalo Killers</span>](https://itunes.apple.com/us/artist/buffalo-killers/id175970800?uo=4&at=10ldhk){target=_blank rel="external noopener"}, [<span class="h-card p-org">Radio Moscow</span>](https://itunes.apple.com/us/artist/radio-moscow/id207207752?uo=4&at=10ldhk){target=_blank rel="external noopener"}&NoBreak;&hairsp;&NoBreak;&mdash;
+<span class="spkr">Griffin</span> <span class="h-card p-org">Black Crowes</span>, [<span class="h-card p-org">Buffalo Killers</span>](https://music.apple.com/us/artist/buffalo-killers/id175970800?uo=4&at=10ldhk){target=_blank rel="external noopener"}, [<span class="h-card p-org">Radio Moscow</span>](https://music.apple.com/us/artist/radio-moscow/id207207752?uo=4&at=10ldhk){target=_blank rel="external noopener"}&NoBreak;&hairsp;&NoBreak;&mdash;
 
 <span class="spkr">Eldridge</span> They’re actually good friends of ours.
 
 <span class="spkr">Griffin</span> You should check them out. [They’re a] band from Iowa&NoBreak;&hairsp;&NoBreak;&mdash;
 
-<span class="spkr">Eldridge</span> If you like ’60s psychedelic rock, you will like these guys. [<span class="h-card p-name">Parker Griggs</span>] is a guy that, his musical style ended with [<span class="h-card p-org">MC5</span>](https://itunes.apple.com/us/artist/mc5/id6764346?uo=4&at=10ldhk){target=_blank rel="external noopener"}.
+<span class="spkr">Eldridge</span> If you like ’60s psychedelic rock, you will like these guys. [<span class="h-card p-name">Parker Griggs</span>] is a guy that, his musical style ended with [<span class="h-card p-org">MC5</span>](https://music.apple.com/us/artist/mc5/id6764346?uo=4&at=10ldhk){target=_blank rel="external noopener"}.
 
 <span class="spkr">MPB</span> Same question for you, Jonathan.
 
-<span class="spkr">Eldridge</span> I’ve been a little weird lately; like <span class="h-card p-name">[Hayes Carll](https://itunes.apple.com/us/artist/hayes-carll/id6668917?uo=4&at=10ldhk){target=_blank rel="external noopener"}</span>, which, that’s not weird; it’s great music. <span class="h-card p-name">[Charles Bradley](https://itunes.apple.com/us/artist/charles-bradley/id206064023?uo=4&at=10ldhk){target=_blank rel="external noopener"}</span>; I love old <span class="h-card p-org">Motown</span>, <span class="h-card p-org">Stax</span> soul; I kinda like the old&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;you know, <span class="h-card p-name">[John Fullbright](https://itunes.apple.com/us/artist/john-fullbright/id327168326?uo=4&at=10ldhk){target=_blank rel="external noopener"}</span> just got nominated for a <span class="h-card p-org">Grammy</span>.
+<span class="spkr">Eldridge</span> I’ve been a little weird lately; like <span class="h-card p-name">[Hayes Carll](https://music.apple.com/us/artist/hayes-carll/id6668917?uo=4&at=10ldhk){target=_blank rel="external noopener"}</span>, which, that’s not weird; it’s great music. <span class="h-card p-name">[Charles Bradley](https://music.apple.com/us/artist/charles-bradley/id206064023?uo=4&at=10ldhk){target=_blank rel="external noopener"}</span>; I love old <span class="h-card p-org">Motown</span>, <span class="h-card p-org">Stax</span> soul; I kinda like the old&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;you know, <span class="h-card p-name">[John Fullbright](https://music.apple.com/us/artist/john-fullbright/id327168326?uo=4&at=10ldhk){target=_blank rel="external noopener"}</span> just got nominated for a <span class="h-card p-org">Grammy</span>.
 
 <span class="spkr">MPB</span> <span class="h-card p-name">Terry Ware</span>[^4] is my neighbor.
 
@@ -143,7 +143,7 @@ We’ve done okay so far, but we have […] jobs and other constraints. We’ve 
 
 <span class="spkr">Eldridge</span> I just got that album the other day. I’d been listening to that live one forever, but I just picked up the new one on vinyl the other day.
 
-Josh mentioned the Black Crowes; I think they’re a big influence on us; I think <cite>[Warpaint](https://itunes.apple.com/us/album/warpaint/id273844237?uo=4&at=10ldhk){target=_blank rel="external noopener"}</cite> and <cite>[Before the Frost](https://itunes.apple.com/us/album/before-frost...-until-freeze/id326904445?uo=4&at=10ldhk){target=_blank rel="external noopener"}</cite> are both great albums, that I think, because they came later, […] got overlooked. And there’s the <span class="h-card p-org">Beatles</span>, <span class="h-card p-name">Neil Young</span>, stuff like that that’ll never go off my iPod.
+Josh mentioned the Black Crowes; I think they’re a big influence on us; I think <cite>[Warpaint](https://music.apple.com/us/album/warpaint/1280008007?uo=4&at=10ldhk){target=_blank rel="external noopener"}</cite> and <cite>[Before the Frost](https://music.apple.com/us/album/before-the-frost-until-the-freeze/328012729?uo=4&at=10ldhk){target=_blank rel="external noopener"}</cite> are both great albums, that I think, because they came later, […] got overlooked. And there’s the <span class="h-card p-org">Beatles</span>, <span class="h-card p-name">Neil Young</span>, stuff like that that’ll never go off my iPod.
 
 <span class="spkr">Griffin</span> Jonathan likes more of the country stuff, and I like the heavier psychedelic stuff.
 
@@ -155,9 +155,9 @@ Josh mentioned the Black Crowes; I think they’re a big influence on us; I thin
 
 {% image "./src/assets/images/blog/2013-03-27-trading-co/czahller-20130223-23-15-11.jpg", "img-constrained", "Joshua plays guitar and sings into a microphone.", "Joshua (IV)" %}</mpb-dialog-img>
 
-<span class="spkr">Griffin</span> There’s a band called <span class="h-card p-org">The Trishas</span>. They’re a *great* band, but they’re *really* country. I love them; I think they’re great songwriters, but I can see somebody being surprised that I like them, knowing what kind of music I listen to. There’s a song called <cite class="short-work">[Trouble about My Soul](https://itunes.apple.com/us/album/trouble-about-my-soul/id387628085?i=387628090&uo=4&at=10ldhk){target=_blank rel="external noopener"}</cite>; it’s from their EP.[^5]
+<span class="spkr">Griffin</span> There’s a band called <span class="h-card p-org">The Trishas</span>. They’re a *great* band, but they’re *really* country. I love them; I think they’re great songwriters, but I can see somebody being surprised that I like them, knowing what kind of music I listen to. There’s a song called <cite class="short-work">[Trouble about My Soul](https://music.apple.com/us/album/trouble-about-my-soul/id387628085?i=387628090&uo=4&at=10ldhk){target=_blank rel="external noopener"}</cite>; it’s from their EP.[^5]
 
-[^5]: It’s out of print on CD, but you can get it from [iTunes](https://itunes.apple.com/us/album/they-call-us-the-trishas/id387628085?uo=4&at=10ldhk){target=_blank rel="external noopener"}.
+[^5]: It’s out of print on CD, but you can get it from [iTunes](https://music.apple.com/us/album/they-call-us-the-trishas/id387628085?uo=4&at=10ldhk){target=_blank rel="external noopener"}.
 
 I kinda stumbled upon these girls; I went snow skiing a couple of years ago and they were having the first annual Songwriters’ Winter Fest in Red River.[^6] In between runs and drinking Jäger at the bottom of the hill, a couple of girls came in and set up in the corner of the room with a lap steel and&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;I can’t remember what the other girl had, like an acoustic and a hollow body&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;and I was telling my friends that I could tell these chicks are gonna be good and we oughta stick around for them. I ended up watching their whole set.
 
@@ -169,7 +169,7 @@ I kinda stumbled upon these girls; I went snow skiing a couple of years ago and 
 
 <span class="spkr">MPB</span> Name a specific song?
 
-<span class="spkr">Eldridge</span> Well, I’d like to bring <cite class="short-work">[SexyBack](https://itunes.apple.com/us/album/sexyback-feat.-timbaland/id268167344?i=268167377&uo=4&at=10ldhk){target=_blank rel="external noopener"}</cite>.
+<span class="spkr">Eldridge</span> Well, I’d like to bring <cite class="short-work">[SexyBack](https://music.apple.com/us/album/sexyback-feat.-timbaland/id268167344?i=268167377&uo=4&at=10ldhk){target=_blank rel="external noopener"}</cite>.
 
 <span class="spkr">MPB</span> Have you done it yet?
 

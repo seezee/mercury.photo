@@ -26,17 +26,17 @@ Acclaimed singer/songwriter, sideman, reunited with beloved accordion</stack-l><
 
 {% image "./src/assets/images/blog/2012-12-31-radoslav/czahller-20121104-20-53-58.jpg", "img-constrained", "Radoslav Lorković smiles as he plays the accordion. His eyes twinkle like gemstones.", "Rad (XIV)" %}</mpb-dialog-img>
 
-According to a copyright story by <cite>News on 6</cite>, the most photographed Chinese accordion in the world has been returned to <span class="h-card p-name"><span class="p-given-name">Radoslav</span> <span class="p-nickname">"Rad"</span> <span class="p-family-name">Lorković</span></span> after having been MIA for nine months. The accordion [disappeared](https://www.newson6.com/story/17131893/musicians-accordian-stolen-after-woody-guthrie-tribute-concert){target=_blank rel="external noopener"} at Tulsa’s <span class="h-card p-org">Brady Theatre</span> after a <span class="h-card p-name"><span class="p-nickname">Woody</span> Guthrie</span> tribute concert.
+According to a copyright story by <cite>News on 6</cite>, the most photographed Chinese accordion in the world has been returned to <span class="h-card p-name"><span class="p-given-name">Radoslav</span> <span class="p-nickname">"Rad"</span> <span class="p-family-name">Lorković</span></span> after having been MIA for nine months. The accordion [disappeared](https://web.archive.org/web/20160309174821/https://www.newson6.com/story/17131893/musicians-accordian-stolen-after-woody-guthrie-tribute-concert){target=_blank rel="external noopener"} at Tulsa’s <span class="h-card p-org">Brady Theatre</span> after a <span class="h-card p-name"><span class="p-nickname">Woody</span> Guthrie</span> tribute concert.
 
 The little red accordion made its way back to Lorković after the <span class="h-card p-org">Mayo Hotel</span> gave it to an employee during a routine clean-out of unclaimed lost and found items. The employee gave the accordion to his wife, <span class="h-card p-name">Natasha Taylor</span>, as a Christmas present, but when she saw the festival stickers on the instrument case, she realized it must have been very special to its previous owner.
 
-<blockquote cite="http://www.newson6.com/story/20470664/musicians-missing-accordion-lands-under-tulsans-christmas-tree">
+<blockquote cite="https://web.archive.org/web/20170727015533/https://web.archive.org/web/20170727015533/https://www.newson6.com/story/20470664/musicians-missing-accordion-lands-under-tulsans-christmas-tree">
 
   I saw all the stickers on it and thought, <q>Wow this is clearly traveled and obviously really special to somebody,</q> so I wondered why nobody had come back for it.
   
 <footer>
 
-&mdash;&NoBreak;&hairsp;&NoBreak;<cite class="cite-person">[Natasha Taylor](https://www.newson6.com/story/20470664/musicians-missing-accordion-lands-under-tulsans-christmas-tree){target=_blank rel="external noopener"}</cite>, <cite class="short-work">Musician’s Missing Accordion Lands Under Tulsan’s Christmas Tree</cite></footer>
+&mdash;&NoBreak;&hairsp;&NoBreak;<cite class="cite-person">[Natasha Taylor](https://web.archive.org/web/20170727015533/https://www.newson6.com/story/20470664/musicians-missing-accordion-lands-under-tulsans-christmas-tree){target=_blank rel="external noopener"}</cite>, <cite class="short-work">Musician’s Missing Accordion Lands Under Tulsan’s Christmas Tree</cite></footer>
 </blockquote>
 
 Ms. Taylor did some research on the internet and quickly discovered the accordion’s provenance. A phone number written on the instrument case put her in touch with Lorković while he was celebrating Christmas with family in Connecticut. The accordion has since been returned to him. It’s a Chinese-made mass-produced model given to him in Italy over twenty years ago. Together with its case, it’s worth far more in sentimental value than in dollars.
@@ -45,7 +45,7 @@ Ms. Taylor did some research on the internet and quickly discovered the accordio
 
 {% image "./src/assets/images/blog/2012-12-31-radoslav/czahller-20121104-21-22-09.jpg", "img-constrained", "Rad draws a note on the accordion, expression intense, eyes closed.", "Rad (XVIII)" %}</mpb-dialog-img>
 
-Soon after the accordion was originally reported stolen, a private donor joined with the [Grammy MusiCares fund](https://www.grammy.org/musicares){target=_blank rel="external noopener"} to donate a hand-made Dino Baffetti accordion (pictured above) to the musician. Baffetti was <time datetime="2012-01-09">recently</time> featured in a [story](https://www.npr.org/2012/01/09/144809351/italys-accordion-industry-tiny-and-thriving){target=_blank rel="external noopener"} about the Italian accordion industry on NPR.
+Soon after the accordion was originally reported stolen, a private donor joined with the [Grammy MusiCares fund](https://www.musicares.org/){target=_blank rel="external noopener"} to donate a hand-made Dino Baffetti accordion (pictured above) to the musician. Baffetti was <time datetime="2012-01-09">recently</time> featured in a [story](https://www.npr.org/2012/01/09/144809351/italys-accordion-industry-tiny-and-thriving){target=_blank rel="external noopener"} about the Italian accordion industry on NPR.
 
 ## Hardest Working Accordionist in the Business
 

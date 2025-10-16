@@ -21,7 +21,7 @@ excerpt: In this concluding part of the Chloës interview, we hear the never-bef
 
 {% image "./src/assets/images/blog/2013-05-15-nmf6-chloes/czahller-20130427-05-38-49.jpg", "img-constrained", "The Chloës. April Wenzel, wearing a sequined dress, is center frame in profile looking to the left edge of the image. Her band mates are obscured by shadows and are slightly out of focus. The scene is hazy from the fog machine. Glitter hangs in the air. Photographer Doug Schwarz’s camera protrudes into the left edge of the frame. Chris Sanders is barely visible in the audience.", "The Chloës" %}</mpb-dialog-img>
 
-In this concluding part of the <span class="h-card p-org">Chloës</span> interview, we hear the never-before-told story behind crowd-pleaser <cite class="short-work">[Put that Dick Away](https://itunes.apple.com/us/album/put-that-dick-away/id550353626?i=550353812&uo=4&at=10ldhk){target=_blank rel="external noopener"},</cite> plus we learn how the ladies *really* feel about men. Then we conclude with our regular feature, *Redeem a Song*, in which we learn about some musical guilty pleasures.
+In this concluding part of the <span class="h-card p-org">Chloës</span> interview, we hear the never-before-told story behind crowd-pleaser <cite class="short-work">[Put that Dick Away](https://music.apple.com/us/album/put-that-dick-away/1289963239?i=1289963247&uo=4&at=10ldhk){target=_blank rel="external noopener"},</cite> plus we learn how the ladies *really* feel about men. Then we conclude with our regular feature, *Redeem a Song*, in which we learn about some musical guilty pleasures.
 
 In [part two](chloes-interview-gallery-2){rel=prev} the Chloës’ <span class="h-card p-name">Tiffany Byrd</span> started to tell us about her favorite band songs. She had a little more to say on that:
 
@@ -90,7 +90,7 @@ But it has a really hardcore message to it; like, <q>Seriously, yeah, we will do
 
 <span class="spkr">Chapman</span> Considering when we started this, April and I could have *easily* been part of the riot grrrl movement; all things considered, maybe that’s why the universe didn’t put us into this until now. Because we did always like men, and there was never a vibe in us to hate on men.
 
-I just have to put this out there: We just got mentioned in the [<cite>[Dallas] Observer</cite>](https://blogs.dallasobserver.com/dc9/2013/04/female_fronted_bands_dfw.php?page=all){target=_blank rel="external noopener"}; [they] recognized us as one of the top thirteen female-led bands [in the Dallas-Fort Worth area].
+I just have to put this out there: We just got mentioned in the <cite>[Dallas] Observer</cite>; [they] recognized us as one of the top thirteen female-led bands [in the Dallas-Fort Worth area].
 
 <span class="spkr">Wright</span> We were number one.
 
@@ -111,7 +111,7 @@ I just have to put this out there: We just got mentioned in the [<cite>[Dallas] 
 
 <span class="spkr">MPB</span> Except for right now&NoBreak;&hairsp;&NoBreak;&mdash;
 
-<span class="spkr">Chapman</span> My husband would totally back me on this; you know that <span class="h-card p-org">Cake</span> song? <cite class="short-work">[The Distance](https://itunes.apple.com/us/album/the-distance/id270245904?i=270245959&uo=4&at=10ldhk){target=_blank rel="external noopener"}</cite> is a good, damn song. And, if you think about it, everything that we encompass is in that song. You know, <q>He’s going the distance; he’s going for speed,</q> it’s a good song. […]
+<span class="spkr">Chapman</span> My husband would totally back me on this; you know that <span class="h-card p-org">Cake</span> song? <cite class="short-work">[The Distance](https://music.apple.com/us/album/the-distance/1632540361?i=1632540369&uo=4&at=10ldhk){target=_blank rel="external noopener"}</cite> is a good, damn song. And, if you think about it, everything that we encompass is in that song. You know, <q>He’s going the distance; he’s going for speed,</q> it’s a good song. […]
 
 <mpb-dialog-img>
 
@@ -119,9 +119,9 @@ I just have to put this out there: We just got mentioned in the [<cite>[Dallas] 
 
 <span class="spkr">Byrd</span> I’m pretty open about what I like; I don’t deny it. I like … country; I’m a big country [music] person. I am a small town country person.
 
-[I like] Keith Whitley, <cite class="short-work">[Kentucky Bluebird](https://itunes.apple.com/us/artist/keith-whitley/id170822?uo=4&at=10ldhk){target=_blank rel="external noopener"},</cite> which is pretty. There’s <cite class="short-work">[I’m No Stranger to the Rain](https://itunes.apple.com/us/album/im-no-stranger-to-the-rain/id299607514?i=299607550&uo=4&at=10ldhk){target=_blank rel="external noopener"},</cite> which is about fightin’ with the devil. He’s got a lot of deep lyrics.
+[I like] Keith Whitley, <cite class="short-work">[Kentucky Bluebird](https://music.apple.com/us/artist/keith-whitley/id170822?uo=4&at=10ldhk){target=_blank rel="external noopener"},</cite> which is pretty. There’s <cite class="short-work">[I’m No Stranger to the Rain](https://music.apple.com/us/album/im-no-stranger-to-the-rain/id299607514?i=299607550&uo=4&at=10ldhk){target=_blank rel="external noopener"},</cite> which is about fightin’ with the devil. He’s got a lot of deep lyrics.
 
-<span class="spkr">Wright</span> I’ve got my song! I tried … so hard … to get us to do a cover of this song! And, it failed miserably, but it’s alright. It’s <cite class="short-work">[Like a G6](https://itunes.apple.com/us/album/like-a-g6/id394918462?i=394918464&uo=4&at=10ldhk){target=_blank rel="external noopener"}</cite>; [I] fucking love that song, and it’s like, when you’re in the *zone*, and&NoBreak;&hairsp;&NoBreak;&mdash;
+<span class="spkr">Wright</span> I’ve got my song! I tried … so hard … to get us to do a cover of this song! And, it failed miserably, but it’s alright. It’s <cite class="short-work">[Like a G6](https://music.apple.com/us/album/like-a-g6/id394918462?i=394918464&uo=4&at=10ldhk){target=_blank rel="external noopener"}</cite>; [I] fucking love that song, and it’s like, when you’re in the *zone*, and&NoBreak;&hairsp;&NoBreak;&mdash;
 
 <span class="spkr">Chapman</span> Who does that song?
 
@@ -131,7 +131,7 @@ I just have to put this out there: We just got mentioned in the [<cite>[Dallas] 
 
 <span class="spkr">Chapman</span> She tried [to get us to play it] for six months! She *wanted* it!
 
-<span class="spkr">Wright</span> &mdash;&NoBreak;&hairsp;&NoBreak;and my karaoke song is <cite class="short-work">[Bust a Move](https://itunes.apple.com/us/album/bust-a-move/id270220910?i=270220976&uo=4&at=10ldhk){target=_blank rel="external noopener"}</cite>. I do have legitimate music taste; I’m not all stupid electronic club music; but I love that song, and it’s&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;[*cracking up*] I fuckin’ love it! So, this is our opportunity for the Chloës’ to cover that!
+<span class="spkr">Wright</span> &mdash;&NoBreak;&hairsp;&NoBreak;and my karaoke song is <cite class="short-work">[Bust a Move](https://music.apple.com/us/album/bust-a-move/1440915116?i=1440915125&uo=4&at=10ldhk){target=_blank rel="external noopener"}</cite>. I do have legitimate music taste; I’m not all stupid electronic club music; but I love that song, and it’s&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;[*cracking up*] I fuckin’ love it! So, this is our opportunity for the Chloës’ to cover that!
 <mpb-dialog-img>
 
 {% image "./src/assets/images/blog/2013-05-15-nmf6-chloes/czahller-20130427-05-38-40.jpg", "img-constrained", "Brandi Dawson smiles as she plays bass at the Norman Music Festival", "Brandie (III)" %}</mpb-dialog-img>

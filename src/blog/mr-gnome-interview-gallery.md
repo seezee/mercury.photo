@@ -42,7 +42,7 @@ Just returned home from mr. Gnome’s <cite>Madness in Miniature</cite> tour, Ba
 
 <span class="spkr">Nicole Barille</span> Sam was actually too shy to talk to me, so he sent his friend over to flirt with me at a <span class="h-card p-org">Pizza Hut</span> while he hung out in the corner smoking cigarettes with a group of girls. *Real smooth*.
 
-<span class="spkr">MPB</span> I read an interview where you list all the stories&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;true and apocryphal&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;regarding the band name; you mention that both <span class="h-card p-name">David Bowie</span> and <span class="h-card p-org">Pink Floyd</span> have songs about gnomes. The Pink Floyd [song](https://itunes.apple.com/us/album/the-gnome/id464267790?i=464267844&uo=4&at=10ldhk){target=_blank rel="external noopener"}, from the <span class="h-card p-name">Syd Barrett</span> era, isn’t too hard to track down, but <cite class="short-work">[The Laughing Gnome]("https://itunes.apple.com/us/album/the-laughing-gnome/id1958692?i=1958642&uo=4&at=10ldhk){target=_blank rel="external noopener"}</cite> is pretty obscure. I used to think it was the worst thing Bowie had ever released, until I heard the soundtrack to <cite>Labyrinth</cite>. What’s your take on <cite class="short-work">The Laughing Gnome</cite>?
+<span class="spkr">MPB</span> I read an interview where you list all the stories&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;true and apocryphal&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;regarding the band name; you mention that both <span class="h-card p-name">David Bowie</span> and <span class="h-card p-org">Pink Floyd</span> have songs about gnomes. The Pink Floyd [song](https://music.apple.com/us/album/the-gnome/id464267790?i=464267844&uo=4&at=10ldhk){target=_blank rel="external noopener"}, from the <span class="h-card p-name">Syd Barrett</span> era, isn’t too hard to track down, but <cite class="short-work">[The Laughing Gnome](https://music.apple.com/us/album/the-laughing-gnome/1412661984?i=1412662317&uo=4&at=10ldhk){target=_blank rel="external noopener"}</cite> is pretty obscure. I used to think it was the worst thing Bowie had ever released, until I heard the soundtrack to <cite>Labyrinth</cite>. What’s your take on <cite class="short-work">The Laughing Gnome</cite>?
 
 <span class="spkr">Barrille</span> I actually had never heard that song until just now. [I] didn’t realize there was actually a gnome voice in that tune. Quite interesting! [I’m] glad Bowie moved onto **Ziggy Stardust** after this one.
 
@@ -50,7 +50,7 @@ Just returned home from mr. Gnome’s <cite>Madness in Miniature</cite> tour, Ba
 
 {% image "./src/assets/images/blog/2013-01-16-mr-gnome/czahller-20121113-23-55-54.jpg", "img-constrained", "Sam Meister playing the drums under cyan and magenta lights and fog.", "Sam (III)" %}</mpb-dialog-img>
 
-<span class="spkr">MPB</span> Your latest album, <cite>[Madness in Miniature](https://itunes.apple.com/us/album/madness-in-miniature/id460467822?uo=4&at=10ldhk){target=_blank rel="external noopener"}</cite>, is undeniably a concept album, with a narrative tying the songs together. Would you be creating concept albums without having heard examples from the Prog Rock era, especially Pink Floyd?
+<span class="spkr">MPB</span> Your latest album, <cite>[Madness in Miniature](https://music.apple.com/us/album/madness-in-miniature/id460467822?uo=4&at=10ldhk){target=_blank rel="external noopener"}</cite>, is undeniably a concept album, with a narrative tying the songs together. Would you be creating concept albums without having heard examples from the Prog Rock era, especially Pink Floyd?
 
 <span class="spkr">Barrille</span> It’s a concept album only in retrospect, but it wasn’t something we did consciously. We wrote the album in between touring, so there are different moods throughout the record.[^4] We wrote the interludes after the majority of the album was recorded, [hoping] to tie the whole thing together a bit more [to] lend to the concept album feel. We are huge fans of albums that flow from beginning to end and feel more like a complete work than a bunch of songs, so we definitely embrace those influences, and, at the same time, we always try to make a cohesive work.
 
@@ -75,7 +75,7 @@ I’m mainly inspired by guitar players [who] are in the bands I love. [I like] 
 
 <span class="spkr">Barrille</span> Thank you very much for the compliments! Honestly, we really love the creating process. It’s our favorite part of what we do, and the road is such an intense beast that when we finally get back home, we’re so antsy and eager to get back to the drawing board. It does take a lot out of us, and we definitely feel run down from time to time, but it’s all part of the process and all feeds back into the final product.
 
-<span class="spkr">MPB</span> Speaking of videos, the <cite class="short-work">[House of Circles](https://itunes.apple.com/us/album/house-of-circles/id460467822?i=460467827&uo=4&at=10ldhk){target=_blank rel="external noopener"}</cite> video is astonishing, especially in light of the ~$2000 budget. Please tell us a bit about it.
+<span class="spkr">MPB</span> Speaking of videos, the <cite class="short-work">[House of Circles](https://music.apple.com/us/album/house-of-circles/id460467822?i=460467827&uo=4&at=10ldhk){target=_blank rel="external noopener"}</cite> video is astonishing, especially in light of the ~$2000 budget. Please tell us a bit about it.
 
 <span class="spkr">Barrille</span> We came up with a very elaborate fairy tale to go along with our album, <cite>Madness in Miniature</cite>. We decided the best way to present the story was to focus on telling the end of the story [as a music video]. We shot the whole beast in front of a green screen, in a barn on our property in the dead of winter. Sam edited the whole thing in between touring throughout the year, and really had to stretch his imagination to come up with scenes that the characters would live in.
 
@@ -184,7 +184,7 @@ The first few times I did it live were extremely nerve-wracking, and it’s stil
 
 <span class="spkr">Sam Meister</span> The entire <cite>Footloose</cite> soundtrack … need I say more?
 
-<span class="spkr">Barrille</span> [Anything by] [The Frogs](https://itunes.apple.com/us/artist/the-frogs/id340230796?uo=4&at=10ldhk){target=_blank rel="external noopener"}. They are awesome but not something I can play for many people. [I’m] not sure how P.C. they are.[^6]
+<span class="spkr">Barrille</span> [Anything by] [The Frogs](https://music.apple.com/us/artist/the-frogs/id340230796?uo=4&at=10ldhk){target=_blank rel="external noopener"}. They are awesome but not something I can play for many people. [I’m] not sure how P.C. they are.[^6]
 
 [^6]: Not very&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;*ed*.
 

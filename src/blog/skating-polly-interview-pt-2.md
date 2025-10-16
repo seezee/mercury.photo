@@ -30,7 +30,7 @@ The first time I heard Skating Polly, <span class="h-card p-name">Justin Hogan</
 
 <footer>
 
-&mdash;&NoBreak;&hairsp;&NoBreak;<cite class="h-card p-name cite-person">[Alicia Goad](/blog/david-goad-kali-ra-interview-pt-2)</cite>, on hearing that I would be interviewing Skating Polly</footer>
+&mdash;&NoBreak;&hairsp;&NoBreak;<cite class="h-card p-name cite-person">[Alicia Goad](/blog/kali-ra-interview-pt-2/)</cite>, on hearing that I would be interviewing Skating Polly</footer>
 </blockquote>
 
 Concluding our <span class="h-card p-org">Skating Polly</span> [interview](/blog/skating-polly-interview-pt-1/), stepsisters <span class="h-card p-name">Peyton Bighorse</span> and <span class="h-card p-name">Kelli Mayo</span> talk about meeting musical heroes, music as a career, and balancing life and work.
@@ -41,7 +41,7 @@ We’ve also got pics from their <span class="h-card p-org">Record Store Day</sp
 
 <span class="spkr">Peyton Bighorse</span> I feel like people liked us a lot, who saw us. We&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;it was really busy. We had, like, seven shows, and we actually forgot our equipment, like, more than once. It was&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;we lost our drum seat down there; we didn’t lose anything else, which was cool, but it was&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;it was really busy, and it was exciting. It was really tiring.
 
-<span class="spkr">Kelli Mayo</span> We got to meet two of our biggest rôle models ever&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;we met <span class="h-card p-name">Lori Barbero</span>, from [<span class="h-card p-org">Babes in Toyland</span>](https://itunes.apple.com/us/artist/babes-in-toyland/id496736?uo=4&at=10ldhk){target=_blank rel="external noopener"}, and then we met <span class="h-card p-name">Jody Stephens</span> from [<span class="h-card p-org">Big Star</span>](https://itunes.apple.com/us/artist/big-star/id2351764?uo=4&at=10ldhk){target=_blank rel="external noopener"}.
+<span class="spkr">Kelli Mayo</span> We got to meet two of our biggest rôle models ever&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;we met <span class="h-card p-name">Lori Barbero</span>, from [<span class="h-card p-org">Babes in Toyland</span>](https://music.apple.com/us/artist/babes-in-toyland/id496736?uo=4&at=10ldhk){target=_blank rel="external noopener"}, and then we met <span class="h-card p-name">Jody Stephens</span> from [<span class="h-card p-org">Big Star</span>](https://music.apple.com/us/artist/big-star/id2351764?uo=4&at=10ldhk){target=_blank rel="external noopener"}.
 
 <figure>
   <stack-l>
@@ -51,9 +51,9 @@ We’ve also got pics from their <span class="h-card p-org">Record Store Day</sp
   </stack-l>
 </figure>
 
-<span class="spkr">MPB</span> I was listening a playlist of recently acquired music a couple of weeks back, so of course <cite>Lost Wonderfuls</cite> was on it. And it was set to shuffle, so I didn’t know what song was going to come up next. I was actually in my office working with the music playing in the background, and your song <cite class="short-work">Kick</cite> started playing, and I thought, <q>Oh, a <span class="h-card p-name">Kimya Dawson</span> song I don’t recognize.</q> And then I realized it wasn’t a Kimya Dawson song; it was you guys. So, was that a deliberate nod to [<span class="h-card p-org">Moldy Peaches</span>](https://itunes.apple.com/us/artist/the-moldy-peaches/id3196880?uo=4&at=10ldhk){target=_blank rel="external noopener"}?
+<span class="spkr">MPB</span> I was listening a playlist of recently acquired music a couple of weeks back, so of course <cite>Lost Wonderfuls</cite> was on it. And it was set to shuffle, so I didn’t know what song was going to come up next. I was actually in my office working with the music playing in the background, and your song <cite class="short-work">Kick</cite> started playing, and I thought, <q>Oh, a <span class="h-card p-name">Kimya Dawson</span> song I don’t recognize.</q> And then I realized it wasn’t a Kimya Dawson song; it was you guys. So, was that a deliberate nod to [<span class="h-card p-org">Moldy Peaches</span>](https://music.apple.com/us/artist/the-moldy-peaches/id3196880?uo=4&at=10ldhk){target=_blank rel="external noopener"}?
 
-<span class="spkr">Bighorse</span> No, it wasn’t. It was more like&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;I don’t know; whenever we first recorded it, the demo version&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;which still sounds like the album version, but not exactly the same&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;it was more like an <span class="h-card p-name">[Elliott Smith](https://itunes.apple.com/us/artist/elliott-smith/id2893902?uo=4&at=10ldhk){target=_blank rel="external noopener"}</span></a> thing, but I did my vocals differently. I feel like I did them softer on the demo version than on the actual version. So, it was originally supposed to be like an Elliott Smith thing, but it changed on the album because we didn’t record it in the same, exact way.
+<span class="spkr">Bighorse</span> No, it wasn’t. It was more like&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;I don’t know; whenever we first recorded it, the demo version&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;which still sounds like the album version, but not exactly the same&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;it was more like an <span class="h-card p-name">[Elliott Smith](https://music.apple.com/us/artist/elliott-smith/id2893902?uo=4&at=10ldhk){target=_blank rel="external noopener"}</span></a> thing, but I did my vocals differently. I feel like I did them softer on the demo version than on the actual version. So, it was originally supposed to be like an Elliott Smith thing, but it changed on the album because we didn’t record it in the same, exact way.
 
 <mpb-dialog-img>
 
@@ -81,13 +81,13 @@ We’ve also got pics from their <span class="h-card p-org">Record Store Day</sp
 
 [^2]: Kelli Mayo developed vocal nodules and had surgery to remove them in early <time datetime="2020">2020</time>.
 
-<blockquote cite="http://www.code7decoded.com/">
+<blockquote cite="https://web.archive.org/web/20230725150306/https://www.code7decoded.com/">
 
 It’s been a long time since I heard really young musicians with such energy, attitude, confidence and social consciousness. What a breath of air.
 
   <footer>
 
-<cite class="cite-person">&mdash;&NoBreak;&hairsp;&NoBreak;[Rosanne Cash](https://www.code7decoded.com/){target=_blank rel="external noopener"}</cite></footer>
+<cite class="cite-person">&mdash;&NoBreak;&hairsp;&NoBreak;[Rosanne Cash](https://web.archive.org/web/20230725150306/https://www.code7decoded.com/){target=_blank rel="external noopener"}</cite></footer>
 </blockquote>
 
 <span class="spkr">MPB</span> Did I read somewhere&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;I think I wrote this in my notes this morning&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;didn’t <span class="h-card p-name">Rosanne Cash</span> have something nice to say about you guys?
@@ -140,7 +140,7 @@ I love school, but this is our dream and a real goal. This isn’t just a lemona
 
 <span class="spkr">MPB</span> In an interview I read in the <cite>[Oklahoma] Gazette</cite>, Kelli said that the band was not just a lemonade stand for you two; it’s a career. That’s such an adult way, not just of looking at it, but of phrasing it.
 
-<span class="spkr">Mayo</span> I don’t know, I mean, me and Peyton don’t ever want to stop doing [this], because, this is really the only thing that we see us&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;you know, this is the only thing we really, really, really like, like this. I mean, we both love art, and we both love just making stuff […], but there’s something about making music, and there’s something about being on stage, and all the little … *factors* […] that […] make us love it […]. We *love* being on the road; we *love* recording and we love making art for it. […] We […] love every thing about it. So, yeah; this is […] what we’re gonna be doing, probably, for the rest of our lives. And seeing people like Exene and, you know, the people from [<span class="h-card p-org">Dead Moon</span>](https://itunes.apple.com/us/artist/dead-moon/id3200017?uo=4&at=10ldhk){target=_blank rel="external noopener"}, and the **Flaming Lips**, even; they just dedicate their lives to, like, art and music. And they just keep doing it forever and ever and ever, and they never stop. And that’s […] what *we* want to do.
+<span class="spkr">Mayo</span> I don’t know, I mean, me and Peyton don’t ever want to stop doing [this], because, this is really the only thing that we see us&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;you know, this is the only thing we really, really, really like, like this. I mean, we both love art, and we both love just making stuff […], but there’s something about making music, and there’s something about being on stage, and all the little … *factors* […] that […] make us love it […]. We *love* being on the road; we *love* recording and we love making art for it. […] We […] love every thing about it. So, yeah; this is […] what we’re gonna be doing, probably, for the rest of our lives. And seeing people like Exene and, you know, the people from [<span class="h-card p-org">Dead Moon</span>](https://music.apple.com/us/artist/dead-moon/id3200017?uo=4&at=10ldhk){target=_blank rel="external noopener"}, and the **Flaming Lips**, even; they just dedicate their lives to, like, art and music. And they just keep doing it forever and ever and ever, and they never stop. And that’s […] what *we* want to do.
 
 I mean, it might seem weird that we’re saying this at such a young age&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;well, Peyton’s not really that young; she’s graduating this year&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;I mean, in seventh grade, <q>I think I have it all figured out,</q> but I’m not necessarily saying that; I’m saying that, right now where [we are], I don’t see us doing anything else with our lives; this is really the […] thing we’re dedicated to.
 

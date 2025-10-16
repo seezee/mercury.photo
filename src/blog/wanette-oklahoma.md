@@ -71,7 +71,7 @@ Development
 
 Tripod
 : <span class="p-name">Gitzo Traveler Series 1 GT1542T carbon fibre tripod
-: [Arca-Swiss P0](/blog//hands-on-with-the-arca-swiss-p0-tripod-head-panning-system-slidefix-qs-quick-release/) panning ball head + Slidefix QS quick release clamp</span>
+: [Arca-Swiss P0](/blog//arca-swiss-p0-slidefix-qs-review/) panning ball head + Slidefix QS quick release clamp</span>
 
 Scanner
 : Epson perfection V850 [scanner](https://www.bhphotovideo.com/c/product/1083201-REG/epson_b11b224201_perfection_v850_pro_scanner.html/BI/19462/KBID/11656/kw/EPV850/DFF/d10-v2-t1-xEPV850){target=_blank rel="external noopener"}

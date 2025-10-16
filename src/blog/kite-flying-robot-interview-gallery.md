@@ -44,9 +44,9 @@ And I sort of learned my way, and I made my first Kite Flying Robot album, and i
 
 <span class="spkr">MPB</span> I saw that it was still available on your Bandcamp page.
 
-<span class="spkr">Thompson</span> It is. […] I think if someone really wanted to go through it and find it, I figure, well, whatever. I don’t promote it; I took it off iTunes, because it costs yearly money to put it on there. Even though it sold sometimes, I just was like, <q>eh.</q> I just don’t even care, you know, and I’d rather&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;and I was working on <cite>[Solid gold](https://itunes.apple.com/us/album/solid-gold/id409423318?uo=4&at=10ldhk){target=_blank rel="external noopener"}</cite>, the songs that would become <cite>Solid Gold</cite> […] and I’d rather that be [people’s] first listen […].
+<span class="spkr">Thompson</span> It is. […] I think if someone really wanted to go through it and find it, I figure, well, whatever. I don’t promote it; I took it off iTunes, because it costs yearly money to put it on there. Even though it sold sometimes, I just was like, <q>eh.</q> I just don’t even care, you know, and I’d rather&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;and I was working on <cite>[Solid gold](https://music.apple.com/us/album/solid-gold/id409423318?uo=4&at=10ldhk){target=_blank rel="external noopener"}</cite>, the songs that would become <cite>Solid Gold</cite> […] and I’d rather that be [people’s] first listen […].
 
-<span class="spkr">MPB</span> I was glad to hear you practicing <cite class="short-work">[Red Phone Booth](https://itunes.apple.com/us/album/red-phone-booth/id409423318?i=409423519&uo=4&at=10ldhk){target=_blank rel="external noopener"}</cite> during rehearsal earlier. What’s the lyric about the <q>filthy machine</q> mean? Is it the answering machine?
+<span class="spkr">MPB</span> I was glad to hear you practicing <cite class="short-work">[Red Phone Booth](https://music.apple.com/us/album/red-phone-booth/id409423318?i=409423519&uo=4&at=10ldhk){target=_blank rel="external noopener"}</cite> during rehearsal earlier. What’s the lyric about the <q>filthy machine</q> mean? Is it the answering machine?
 
 <span class="spkr">Thompson</span> I guess that could be anything you want, but, uh, have you ever been in a phone booth before?
 
@@ -54,7 +54,7 @@ And I sort of learned my way, and I made my first Kite Flying Robot album, and i
 
 <span class="spkr">Thompson</span> What’s funny is, sometime I’ll write lyrics […] and I won’t really think about things; things’ll just come out; and I never […] meant <q>filthy machine</q> to mean <q>red phone booth.</q> But later on, I thought about it&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;this happens with most of my songs&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;I thought about it and I realized what it meant to me on some subconscious level […].
 
-<cite class="short-work">[Blonde Bomb](https://itunes.apple.com/us/album/blonde-bomb/id409423318?i=409423544&uo=4&at=10ldhk){target=_blank rel="external noopener"}</cite> was like that. I just came up with all these ideas […] and later on […] the lyrics&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;it was basically like a prophetic song; something happened to me that was exactly, uh, exactly those lyrics, but […] after the fact. Specific things, like <q>On the Rhine,</q> […], *that* had happened before, but some of the other things, like the […] heartbreak aspect of <cite class="short-work">Blonde Bomb,</cite> happened later.
+<cite class="short-work">[Blonde Bomb](https://music.apple.com/us/album/blonde-bomb/id409423318?i=409423544&uo=4&at=10ldhk){target=_blank rel="external noopener"}</cite> was like that. I just came up with all these ideas […] and later on […] the lyrics&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;it was basically like a prophetic song; something happened to me that was exactly, uh, exactly those lyrics, but […] after the fact. Specific things, like <q>On the Rhine,</q> […], *that* had happened before, but some of the other things, like the […] heartbreak aspect of <cite class="short-work">Blonde Bomb,</cite> happened later.
 
 <mpb-dialog-img>
 
@@ -80,7 +80,7 @@ And I sort of learned my way, and I made my first Kite Flying Robot album, and i
 
 <span class="spkr">MPB</span> You say Disney movies were kind of a big influence, so, how old are you and when was your childhood?
 
-<span class="spkr">Thompson</span> I wouldn’t say they were a big influence, but [children’s] movies they make now aren’t nearly as dark as they were back then. I was born in 1980, so I got to see [<cite>The Dark Crystal</cite>](https://itunes.apple.com/us/movie/the-dark-crystal/id469333419?uo=4&at=10ldhk){target=_blank rel="external noopener"}, [<cite>Labyrinth</cite>](https://itunes.apple.com/us/movie/labyrinth/id469761440?uo=4&at=10ldhk){target=_blank rel="external noopener"}, and [<cite>The Secret of NIMH</cite>](https://itunes.apple.com/us/movie/the-secret-of-nimh/id279334937?uo=4&at=10ldhk){target=_blank rel="external noopener"} and <cite>An American Tail</cite>&NoBreak;&hairsp;&NoBreak;&mdash;
+<span class="spkr">Thompson</span> I wouldn’t say they were a big influence, but [children’s] movies they make now aren’t nearly as dark as they were back then. I was born in 1980, so I got to see [<cite>The Dark Crystal</cite>](https://music.apple.com/us/movie/the-dark-crystal/id469333419?uo=4&at=10ldhk){target=_blank rel="external noopener"}, [<cite>Labyrinth</cite>](https://music.apple.com/us/movie/labyrinth/id469761440?uo=4&at=10ldhk){target=_blank rel="external noopener"}, and [<cite>The Secret of NIMH</cite>](https://music.apple.com/us/movie/the-secret-of-nimh/id279334937?uo=4&at=10ldhk){target=_blank rel="external noopener"} and <cite>An American Tail</cite>&NoBreak;&hairsp;&NoBreak;&mdash;
 
 <span class="spkr">MPB</span> Movies where there was a real sense of danger for the child protagonists&NoBreak;&hairsp;&NoBreak;&mdash;
 
@@ -92,7 +92,7 @@ And I sort of learned my way, and I made my first Kite Flying Robot album, and i
 
 <span class="spkr">MPB</span> That pink elephant scene, oh man …
 
-<span class="spkr">Thompson</span> Speaking of the pink elephant scene, this is [funny]; when you get home, take your copy of <cite>Solid Gold</cite>, put in the song <cite class="short-work">Solid Gold</cite> and go to YouTube and look up that [pink elephant scene](https://itunes.apple.com/us/album/hiccups-firewater-bubbles/id357438785?i=357438810&uo=4&at=10ldhk){target=_blank rel="external noopener"} and [play them together with the video sound muted][^2] […] It’s weird how it lines up.
+<span class="spkr">Thompson</span> Speaking of the pink elephant scene, this is [funny]; when you get home, take your copy of <cite>Solid Gold</cite>, put in the song <cite class="short-work">Solid Gold</cite> and go to YouTube and look up that [pink elephant scene](https://music.apple.com/us/album/hiccups-firewater-bubbles/id357438785?i=357438810&uo=4&at=10ldhk){target=_blank rel="external noopener"} and [play them together with the video sound muted][^2] […] It’s weird how it lines up.
 
 [^2]: No need to do that, as we’ve combined them for you here.
 
@@ -105,7 +105,7 @@ And I sort of learned my way, and I made my first Kite Flying Robot album, and i
   </stack-l>
 </figure>
 
-<span class="spkr">MPB</span> Kinda got a [<cite>Dark Side of the Moon</cite>](https://itunes.apple.com/us/album/dark-side-moon-deluxe-experience/id464279671?uo=4&at=10ldhk){target=_blank rel="external noopener"} thing goin’ on there. How did you figure that out?
+<span class="spkr">MPB</span> Kinda got a [<cite>Dark Side of the Moon</cite>](https://music.apple.com/us/album/dark-side-moon-deluxe-experience/id464279671?uo=4&at=10ldhk){target=_blank rel="external noopener"} thing goin’ on there. How did you figure that out?
 
 <span class="spkr">Thompson</span> I don’t know. [*pauses to think*] I’m not sure. How did I figure that out? I think I downloaded <cite>Dumbo</cite> when I moved to Korea, ten months ago. ’cause I had all this time, and I downloaded all these movies I hadn’t seen in forever, and I was just watching, and I was like, <q>Oh! This is that scene I remember watching as a kid, with all the pink elephants!</q> And it had this kind of <q>BOM! Bom! BOM! Bom!</q> tempo to it, that was just spot on […].
 
@@ -149,7 +149,7 @@ And I sort of learned my way, and I made my first Kite Flying Robot album, and i
 
 <span class="spkr">MPB</span> Since you were born in the 80s, you actually missed disco, but I hear a lot of disco vamps in your music. There was a guitar riff that <span class="h-card p-name"><span class="p-given-name">Alex</span> [<span class="p-family-name">Larrea</span>]</span> played during rehearsal that sounded like pre&ndash;<strong>Beegees</strong> disco, probably by way of <span class="h-card p-name">James Brown</span>. Have you listened to a lot of disco?
 
-<span class="spkr">Thompson</span> No, but the 80s had Italo disco,[^3] pioneered by [<span class="h-card p-name">Giorgio Moroder</span>](https://itunes.apple.com/us/artist/giorgio-moroder/id286681?uo=4&at=10ldhk){target=_blank rel="external noopener"} […]. In the United States, people were very anti-disco once that, in <time datetime="1979">1979</time>&NoBreak;&hairsp;&NoBreak;&mdash;
+<span class="spkr">Thompson</span> No, but the 80s had Italo disco,[^3] pioneered by [<span class="h-card p-name">Giorgio Moroder</span>](https://music.apple.com/us/artist/giorgio-moroder/id286681?uo=4&at=10ldhk){target=_blank rel="external noopener"} […]. In the United States, people were very anti-disco once that, in <time datetime="1979">1979</time>&NoBreak;&hairsp;&NoBreak;&mdash;
 
 [^3]: An early form of electronic dance music associated with the ZYX record label. Drum machines and synthesizers were prevalent in the genre’s sound, with lyrics usually sung in English. Its most notable practitioner may be composer Giorgio Moroder.
 
@@ -171,7 +171,7 @@ And I sort of learned my way, and I made my first Kite Flying Robot album, and i
 
 <span class="spkr">MPB</span> Tanya, since you’re here, you wanna tell me how you met this bloke?
 
-<span class="spkr">Felter</span> Well I was playing in a band called [<span class="h-card p-org">Ghosts of Monkshood</span>](https://itunes.apple.com/us/artist/ghost-of-monkshood/id81971384?uo=4&at=10ldhk){target=_blank rel="external noopener"}. They were together [for] two years before I joined them, and then I was with them for the last […] four years. We were always looking for people to play with, and someone had mentioned Kite Flying Robot and that my friend <span class="h-card p-name"><span class="p-given-name">Krista</span></span> was in it. And I thought, <q>Oh, that’s cool.</q>
+<span class="spkr">Felter</span> Well I was playing in a band called [<span class="h-card p-org">Ghosts of Monkshood</span>](https://music.apple.com/us/artist/ghost-of-monkshood/id81971384?uo=4&at=10ldhk){target=_blank rel="external noopener"}. They were together [for] two years before I joined them, and then I was with them for the last […] four years. We were always looking for people to play with, and someone had mentioned Kite Flying Robot and that my friend <span class="h-card p-name"><span class="p-given-name">Krista</span></span> was in it. And I thought, <q>Oh, that’s cool.</q>
 
 <span class="spkr">Thompson</span> The first official other member&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;when I moved back to Oklahoma, I wanted to expand [Kite Flying Robot]&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;and I met this girl named Krista, and she was really nice, and a great vocalist, and we hit it off. And we became best friends, so she joined the band.
 
@@ -181,7 +181,7 @@ And I sort of learned my way, and I made my first Kite Flying Robot album, and i
 
 <span class="spkr">Felter</span> So, we were always looking for people to play with […]; I definitely liked what I heard [from Kite Flying Robot], so we played a show together at the HiLo [Lounge]. And that’s how we met.
 
-And then, years later, Ghosts of Monkshood was falling apart, and I’m actually at a CD release party for another band, <span class="h-card p-org">Brother Gruesome</span>, and Nikolas is there, and there’s karaoke afterwards. So I got up and sang some [<span class="h-card p-org">Siouxsie and the Banshees</span>](https://itunes.apple.com/us/artist/siouxsie-and-the-banshees/id92623?uo=4&at=10ldhk){target=_blank rel="external noopener"} and Nikolas is like, <q>Hey, we should sing a song together!</q> So we sang a song by [<span class="h-card p-org">The Human League</span>](https://itunes.apple.com/us/artist/the-human-league/id14138758?uo=4&at=10ldhk){target=_blank rel="external noopener"}. And like, two days later, we were like, <q>Hey, do you wanna&NoBreak;&hairsp;&NoBreak;&mdash;</q>
+And then, years later, Ghosts of Monkshood was falling apart, and I’m actually at a CD release party for another band, <span class="h-card p-org">Brother Gruesome</span>, and Nikolas is there, and there’s karaoke afterwards. So I got up and sang some [<span class="h-card p-org">Siouxsie and the Banshees</span>](https://music.apple.com/us/artist/siouxsie-and-the-banshees/id92623?uo=4&at=10ldhk){target=_blank rel="external noopener"} and Nikolas is like, <q>Hey, we should sing a song together!</q> So we sang a song by [<span class="h-card p-org">The Human League</span>](https://music.apple.com/us/artist/the-human-league/id14138758?uo=4&at=10ldhk){target=_blank rel="external noopener"}. And like, two days later, we were like, <q>Hey, do you wanna&NoBreak;&hairsp;&NoBreak;&mdash;</q>
 
 <span class="spkr">Thompson</span> I remember two things happening. There was *that* time, *and* the time we were hangin’ out at <span class="h-card p-name"><span class="p-given-name">Cookie</span></span>’s. […] We connected on both those nights. I remember when were at Cookie’s; we talked about Blondie that night.
 
@@ -197,7 +197,7 @@ And then, years later, Ghosts of Monkshood was falling apart, and I’m actually
 
 <span class="spkr">MPB</span> Have you tried any long distance collaboration, as far as trying to lay down tracks and such?
 
-<span class="spkr">Thompson</span> Yeah, I have. In Korea, the version of <cite class="short-work">[Airplane Nosebleed](https://itunes.apple.com/us/album/airplane-nosebleed/id409423318?i=409423546&uo=4&at=10ldhk){target=_blank rel="external noopener"}</cite> was different than what’s on the album, so I had Tanya [lay down] some vocals and viola at her friend’s house. And then, <span class="h-card p-name"><span class="p-given-name">Mike</span> [<span class="p-family-name">Rodriguez</span>]</span>, who used to play drums for us, lives in L.A. now&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;he does some producing, so he’s actually on bass and drums on the song I just mentioned, with the choir. […]
+<span class="spkr">Thompson</span> Yeah, I have. In Korea, the version of <cite class="short-work">[Airplane Nosebleed](https://music.apple.com/us/album/airplane-nosebleed/id409423318?i=409423546&uo=4&at=10ldhk){target=_blank rel="external noopener"}</cite> was different than what’s on the album, so I had Tanya [lay down] some vocals and viola at her friend’s house. And then, <span class="h-card p-name"><span class="p-given-name">Mike</span> [<span class="p-family-name">Rodriguez</span>]</span>, who used to play drums for us, lives in L.A. now&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;he does some producing, so he’s actually on bass and drums on the song I just mentioned, with the choir. […]
 
 <span class="spkr">MPB</span> You’re playing without a bass guitar tonight. Do you sometimes have a bass on stage?
 
@@ -205,7 +205,7 @@ And then, years later, Ghosts of Monkshood was falling apart, and I’m actually
 
 <span class="spkr">MPB</span> I ask pretty much every musician I interview to redeem a song; that is, tell us about a song that doesn’t get much respect, but that you really like, and tell us what’s so great about it.
 
-<span class="spkr">Thompson</span> […] <span class="h-card p-name">Donna Summer</span>’s <cite class="short-work">[I Feel Love](https://itunes.apple.com/us/album/i-feel-love-12-version/id2382882?i=2382863&uo=4&at=10ldhk){target=_blank rel="external noopener"}</cite> […]. A lot of people, when you say the "D" word, they get all freaked out. That’s another Giorgio Moroder&ndash;produced song. That’s, like, the one that maybe made [his reputation].
+<span class="spkr">Thompson</span> […] <span class="h-card p-name">Donna Summer</span>’s <cite class="short-work">[I Feel Love](https://music.apple.com/us/album/i-feel-love-12-version/id2382882?i=2382863&uo=4&at=10ldhk){target=_blank rel="external noopener"}</cite> […]. A lot of people, when you say the "D" word, they get all freaked out. That’s another Giorgio Moroder&ndash;produced song. That’s, like, the one that maybe made [his reputation].
 
 I saw in a documentary that when that song came out, people were just […] blown away; they didn’t know what to make of the sound. There was this arpeggiated synth bass underneath&NoBreak;&hairsp;&NoBreak;&mdash;
 

@@ -53,4 +53,4 @@ We made basic tonal adjustments on the image in Adobe Lightroom.
 
 {% image "./src/assets/images/blog/2015-01-02-lighting-test-pcb/czahller-20150102-16-13-16-crop.jpg", "img-constrained", "Detail from lighting test. A crop of the author’s right eye and eyeglass frame.", "Lighting Test (100% crop; may appear smaller on some devices)" %}</mpb-dialog-img>
 
-We don’t have a power pack or Paul C. Buff triggers or transceivers yet, so the light ran on AC power and we fired the flash with a Yongnuo transmitter and two Yongnuo receivers. We have [previously reviewed](/blog/lumiquest-lq119-softbox-iii/) the LumiQuest Softbox III.
+We don’t have a power pack or Paul C. Buff triggers or transceivers yet, so the light ran on AC power and we fired the flash with a Yongnuo transmitter and two Yongnuo receivers. We have [previously reviewed](/blog/lumiquest-softbox-3-review/) the LumiQuest Softbox III.

@@ -60,7 +60,7 @@ Tripod
 : Gitzo GT1542T Series 1 Traveler
 
 Tripod Head
-: [Arca-Swiss Monoball P0](/blog/hands-on-with-the-arca-swiss-p0-tripod-head-panning-system-slidefix-qs-quick-release/) with Classic Quick Release 801&#8209;214
+: [Arca-Swiss Monoball P0](/blog/arca-swiss-p0-slidefix-qs-review/) with Classic Quick Release 801&#8209;214
 
 Camera
 : Hasselblad 500C/M with A12 back

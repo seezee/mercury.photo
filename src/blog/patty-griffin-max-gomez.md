@@ -27,7 +27,7 @@ Singer-songwriter <span class="h-card p-name">Patty Griffin</span> returned to N
 
 [^1]: Thanks to <span class="h-card p-name">Nicole Hauer</span> and <span class="h-card p-name">Stephanie Flick</span> of Nashville’s Vector Management for clearing the way for us to photograph.
 
-Since catching the public ear with her sophomore release <cite>[Flaming Red](https://itunes.apple.com/us/album/flaming-red/id390067?uo=4&at=10ldhk){target=_blank rel="external noopener"}</cite> the fiery-haired chanteuse has released a string of well-received recordings. Simultaneously, Griffin has maintained a career as an in-demand backing vocalist for such artists as <span class="h-card p-name">Robert Plant</span>, <span class="h-card p-name">Joshua Radin</span>, <span class="h-card p-name">Dierks Bentley</span> and <span class="h-card p-name">Todd Snider</span>.
+Since catching the public ear with her sophomore release <cite>[Flaming Red](https://music.apple.com/us/album/flaming-red/id390067?uo=4&at=10ldhk){target=_blank rel="external noopener"}</cite> the fiery-haired chanteuse has released a string of well-received recordings. Simultaneously, Griffin has maintained a career as an in-demand backing vocalist for such artists as <span class="h-card p-name">Robert Plant</span>, <span class="h-card p-name">Joshua Radin</span>, <span class="h-card p-name">Dierks Bentley</span> and <span class="h-card p-name">Todd Snider</span>.
 
 <figure>
   <stack-l>
@@ -42,7 +42,7 @@ Griffin has collaborated with many notable musicians, including <span class="h-c
 
 {% image "./src/assets/images/blog/2012-11-14-griffin-gomez/czahller-20121025-20-55-14.jpg", "img-constrained", "Patty Griffin leans to the left as she strum her acoustic guitar. Her head is blurred due to the motion. The image color is desaturated, leaving only pastel bluish shadows and yellowish highlights.", "Patty (III) (In Motion)" %}</mpb-dialog-img>
 
-Griffin’s set shifted from down-tempo, quiet ballads (<cite class="short-work">[Railroad Wings](https://itunes.apple.com/us/album/railroad-wings/id212230540?i=212232531&uo=4&at=10ldhk){target=_blank rel="external noopener"}</cite>) to gut-wrenching, distorted blues (the spine-tingling, short hairs&ndash;raising <cite class="short-work">[Flaming Red](https://itunes.apple.com/us/album/flaming-red/id390067?uo=4&at=10ldhk){target=_blank rel="external noopener"}</cite>). During the numerous guitar re-tunings,[^2] Griffin kept the audience entertained with stories about growing up and of her life as a touring musician as well as with backstories to her songs.
+Griffin’s set shifted from down-tempo, quiet ballads (<cite class="short-work">[Railroad Wings](https://music.apple.com/us/album/railroad-wings/id212230540?i=212232531&uo=4&at=10ldhk){target=_blank rel="external noopener"}</cite>) to gut-wrenching, distorted blues (the spine-tingling, short hairs&ndash;raising <cite class="short-work">[Flaming Red](https://music.apple.com/us/album/flaming-red/id390067?uo=4&at=10ldhk){target=_blank rel="external noopener"}</cite>). During the numerous guitar re-tunings,[^2] Griffin kept the audience entertained with stories about growing up and of her life as a touring musician as well as with backstories to her songs.
 
 [^2]: Necessitated by Griffin’s hard playing on the raucous rockers.
 
@@ -54,7 +54,7 @@ Hailing from Taos, New Mexico, singer <span class="h-card p-name">Max Gomez</spa
 
 {% image "./src/assets/images/blog/2012-11-14-griffin-gomez/czahller-20121025-19-56-44.jpg", "img-constrained", "Max Gomez smiles as he plays for the audience at the Sooner Theatre. The image color is desaturated, leaving only pastel bluish shadows and yellowish highlights.", "Max Gomez (II)" %}</mpb-dialog-img>
 
-Gomez’s mother <span class="h-card p-name p-given-name">Tonia</span> was present for the show; see the [gallery](#gallery-max-gomez) for her portrait. His debut CD, <cite>Rule the World</cite>, is available for pre-order in all the usual places. His debut single, <cite class="short-work">[Run from You](https://itunes.apple.com/us/album/run-from-you-single/id630055609?uo=4&at=10ldhk){target=_blank rel="external noopener"}</cite>, is available on iTunes now.
+Gomez’s mother <span class="h-card p-name p-given-name">Tonia</span> was present for the show; see the [gallery](#gallery-max-gomez) for her portrait. His debut CD, <cite>Rule the World</cite>, is available for pre-order in all the usual places. His debut single, <cite class="short-work">[Run from You](https://music.apple.com/us/album/run-from-you-feat-jeff-trott/1212872447?i=1212872800&uo=4&at=10ldhk){target=_blank rel="external noopener"}</cite>, is available on iTunes now.
 
 ## Gallery: Patty Griffin
 

@@ -46,7 +46,7 @@ Fresh from winning or placing in two other songwriting contests,[^1] singer-song
 
 [^1]: Mills won the <span class="h-card p-org">Rose Garden Coffee House Performing Songwriter Competition</span> in Mansfield, Maine and placed second in the <span class="h-card p-org">New England Songwriting Contest</span>.
 
-Mills’ winning entry is entitled <cite class="short-work">[Bayview Massacre](https://itunes.apple.com/us/album/bay-view-massacre/id438351330?i=438351337&uo=4&at=10ldhk){target="_blank" rel="external noopener"}</cite> and tells the story of the infamous killing of striking laborers in Milwaukee in <time datetime="1886">1886</time>.
+Mills’ winning entry is entitled <cite class="short-work">[Bayview Massacre](https://music.apple.com/us/album/bay-view-massacre/id438351330?i=438351337&uo=4&at=10ldhk){target="_blank" rel="external noopener"}</cite> and tells the story of the infamous killing of striking laborers in Milwaukee in <time datetime="1886">1886</time>.
 
 In addition to his own material, Mills’ repertoire includes Irish, North American, Nicaraguan, maritime, and labor movement folk songs. Mills also draws deeply from the well of those traditions in his writing. A multi-instrumentalist, Mills plays acoustic guitar, Weissenborn lap slide guitar, and stomp box percussion.
 

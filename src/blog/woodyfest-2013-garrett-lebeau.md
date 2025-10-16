@@ -41,13 +41,13 @@ The blues spoke to me and that raw unadorned honesty is what still motivates me 
   </footer>
 </blockquote>
 
-Born and raised on the Wind River Indian Reservation near Lander, Wyoming, soulful singer-songwriter <span class="h-card p-name">[Garrett LeBeau](https://itunes.apple.com/us/artist/garrett-lebeau/id646245367?uo=4&at=10ldhk){target=_blank rel="external noopener"}</span> grew up virtually without music. The local radio stations played mostly 1980s Top 40, which had neither appeal nor cultural relevance for young LeBeau and his family.[^1] As a result, he didn’t start playing music until he was out of school, when he taught himself basic scales and chords.
+Born and raised on the Wind River Indian Reservation near Lander, Wyoming, soulful singer-songwriter <span class="h-card p-name">[Garrett LeBeau](https://music.apple.com/us/artist/garrett-lebeau/id646245367?uo=4&at=10ldhk){target=_blank rel="external noopener"}</span> grew up virtually without music. The local radio stations played mostly 1980s Top 40, which had neither appeal nor cultural relevance for young LeBeau and his family.[^1] As a result, he didn’t start playing music until he was out of school, when he taught himself basic scales and chords.
 
 [^1]: LeBeau is an enrolled member of the Shoshone tribe.
 
 LeBeau made his Woodyfest debut on the New Dominion Stage on the outskirts of Okemah this <time datetime="2013-02-13T19:00-5:00">past July</time>, opening the evening concert on Saturday. Accompanying him were <span class="h-card p-name">Brad Houser</span> (bass), <span class="h-card p-name">Michael Christmas</span> (drums), and <span class="h-card p-name">Nate Basinger</span> (keyboard). Songwriter and musician <span class="h-card p-name">Annie Guthrie</span> (daughter of <span class="h-card p-name"><span class="p-given-name">Arlo</span></span> and granddaughter to <span class="h-card p-name"><span class="p-nickname">Woody</span></span>) joined LeBeau for the final part of his electrifying set.
 
-LeBeau’s debut album <cite>[Rise to the Grind](https://itunes.apple.com/us/album/rise-to-the-grind/id646245286?uo=4&at=10ldhk){target=_blank rel="external noopener"}</cite> was released in <time datetime="2013-05">May</time>. By <time datetime="2013-06">June</time>, the album had climbed near the top of both the EuroAmericana and Roots Music charts.
+LeBeau’s debut album <cite>[Rise to the Grind](https://music.apple.com/us/album/rise-to-the-grind/id646245286?uo=4&at=10ldhk){target=_blank rel="external noopener"}</cite> was released in <time datetime="2013-05">May</time>. By <time datetime="2013-06">June</time>, the album had climbed near the top of both the EuroAmericana and Roots Music charts.
 
 ## Gallery: Garrett LeBeau
 

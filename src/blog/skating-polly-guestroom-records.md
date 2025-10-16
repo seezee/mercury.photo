@@ -40,7 +40,7 @@ You can see more pictures of Skating Polly, read our exclusive interview, and se
   </stack-l>
 </figure>
 
-<cite>Fuzz Steilacoom</cite> is available from [Apple Music](https://itunes.apple.com/us/album/fuzz-steilacoom/id805979306?uo=4&at=10ldhk){target=_blank rel="external noopener"}. You can also pick up a limited edition vinyl LP at any Guestroom Records location.
+<cite>Fuzz Steilacoom</cite> is available from [Apple Music](https://music.apple.com/us/album/fuzz-steilacoom/id805979306?uo=4&at=10ldhk){target=_blank rel="external noopener"}. You can also pick up a limited edition vinyl LP at any Guestroom Records location.
 
 ## Gallery: Skating Polly at Guestroom Records
 

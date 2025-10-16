@@ -42,7 +42,7 @@ First row audience were drenched as snot cannons launched and beverages spewed. 
 
 The band’s tour manager kindly passed our [interview questions](#interview-goddamn-gallows) to band members <span class="h-card p-name p-nickname">Mikey Classic</span> (lead vocal, guitar, upright bass), Fish-gutzzz the Ignorant (vocal, upright bass), <span class="h-card p-name">Uriah “<span class="p-nickname">Baby Genius</span>” Baker </span>(vocal, drums), TV’s Avery (accordion, washboard, spoons, upright bass, drums, fire), <span class="h-card p-name">Jayke Orvis</span> (mandolin, banjo, guitar), and <span class="h-card p-name">Joe Perreze</span> (vocal, banjo).
 
-Goddamn Gallows have a [website](https://goddamngallows.com){target=_blank rel="external noopener"}. You can buy Goddamn Gallows merchandise at <span class="h-card p-org">Farmageddon Records</span> and [iTunes](https://itunes.apple.com/us/artist/the-goddamn-gallows/id359528113?uo=4&at=10ldhk){target=_blank rel="external noopener"}.
+Goddamn Gallows have a [website](https://goddamngallows.com){target=_blank rel="external noopener"}. You can buy Goddamn Gallows merchandise at <span class="h-card p-org">Farmageddon Records</span> and [iTunes](https://music.apple.com/us/artist/the-goddamn-gallows/id359528113?uo=4&at=10ldhk){target=_blank rel="external noopener"}.
 
 ## Interview: Goddamn Gallows
 
@@ -121,7 +121,7 @@ Goddamn Gallows have a [website](https://goddamngallows.com){target=_blank rel="
 
 <span class="spkr">MPB</span> Joe, was the decision to inject more roots and Americana influence into the group’s compositions and performances an organic one? How did it come about?
 
-<span class="spkr">Joe Perreze</span> I’d say it was pretty organic. Before I hopped on full time, Jayke was taking care of the banjo work, giving us our strongest “roots” staple, <cite class="short-work">7 Devils.</cite> Before that, Mikey laid down all the banjo heard on <cite class="short-work">Ghost of th’ Rails.</cite> When I joined for the recording and touring for <cite>[7 Devils](https://itunes.apple.com/us/album/seven-devils/id443023197?uo=4&at=10ldhk){target=_blank rel="external noopener"}</cite>, I was just an extension; an extra set of hands to enable us to have all the instruments all the time, all at once.
+<span class="spkr">Joe Perreze</span> I’d say it was pretty organic. Before I hopped on full time, Jayke was taking care of the banjo work, giving us our strongest “roots” staple, <cite class="short-work">7 Devils.</cite> Before that, Mikey laid down all the banjo heard on <cite class="short-work">Ghost of th’ Rails.</cite> When I joined for the recording and touring for <cite>[7 Devils](https://music.apple.com/us/album/7-devils/1167402901?uo=4&at=10ldhk){target=_blank rel="external noopener"}</cite>, I was just an extension; an extra set of hands to enable us to have all the instruments all the time, all at once.
 
 <span class="spkr">MPB</span> Does your style of banjo playing owe more to Earl Scrugg’s three-finger style, or to nineteenth-century frailing, or to something else entirely?
 

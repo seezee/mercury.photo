@@ -164,7 +164,7 @@ It’s kind of like electric guitar, a little bit, you know, you can distort the
   We’re not shooting for perfection; we just want to get the point across.
 </div>
 
-<span class="spkr">MPB</span> On the opening track from your EP <cite>[Tell Me](https://itunes.apple.com/us/album/tell-me/id525269254?i=525269260&uo=4&at=10ldhk){target=_blank rel="external noopener}</cite> you’ve got what sounds like a Moog synth break. It reminds me of the intro to <span class="h-card p-name">Steve Miller</span>’s <cite class="short-work">Fly Like an Eagle.</cite> What is that?
+<span class="spkr">MPB</span> On the opening track from your EP <cite>[Tell Me](https://music.apple.com/us/album/tell-me/id525269254?i=525269260&uo=4&at=10ldhk){target=_blank rel="external noopener}</cite> you’ve got what sounds like a Moog synth break. It reminds me of the intro to <span class="h-card p-name">Steve Miller</span>’s <cite class="short-work">Fly Like an Eagle.</cite> What is that?
 
 <span class="spkr">Williams</span> That’s Brad’s flanger pedal.
 

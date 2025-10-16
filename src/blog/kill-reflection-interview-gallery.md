@@ -177,7 +177,7 @@ The purpose of the three-piece is to not be one-sided with Kill the Reflection, 
 
 <span class="spkr">MPB</span> Time for “Redeem a Song.” Name a song, possibly a successful one, that doesn’t command respect&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;that you might hesitate to admit liking&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;and tell me why you think it’s a good song.
 
-<span class="spkr">Routt</span> <cite class="short-work">[Hello, It’s Me](https://itunes.apple.com/us/album/hello-its-me/id100982890?i=100982882&uo=4&at=10ldhk){target=_blank rel="external noopener"}</cite> by <span class="h-card p-name">Todd Rundgren</span>. I chose this song because I always play it at the jukebox when I’m “in the zone,” and it takes me to a place that feels very comfortable. It is a beautiful song and I feel I [must have] played it on repeat in a past life; maybe it’s an 8-track suicide song from my past.
+<span class="spkr">Routt</span> <cite class="short-work">[Hello, It’s Me](https://music.apple.com/us/album/hello-its-me/id100982890?i=100982882&uo=4&at=10ldhk){target=_blank rel="external noopener"}</cite> by <span class="h-card p-name">Todd Rundgren</span>. I chose this song because I always play it at the jukebox when I’m “in the zone,” and it takes me to a place that feels very comfortable. It is a beautiful song and I feel I [must have] played it on repeat in a past life; maybe it’s an 8-track suicide song from my past.
 
 I am never afraid to admit I like songs; *hell*, I had the maxi-single to <span class="h-card p-name">Jordy [Lemoine]</span>’s <cite class="short-work">It’s Tough to Be a Baby</cite> when I was a kid.
 

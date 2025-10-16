@@ -34,19 +34,19 @@ On <time datetime="2013-05-03T02:46-5:00">3 May 2013 at approximately 2:46 p.m.<
 
 Within a day or so of the storm’s passing, music promoter <span class="h-card p-name">Steven White</span> and local businessman [<span class="h-card p-name">Jonathan Fowler</span>](https://www.oudaily.com/l_and_a/arts_and_entertainment/local-music-makes-norman-resident-jonathan-fowler-s-heart-sing/article_400c43cc-b85f-5557-8275-1e3c365dc492.html){target=_blank rel="external noopener"} were organizing Music4Moore, a benefit concert for the tornado’s victims. Scores of local and regional musicians donated their time, along with local businesses and vendors as well as dozens of volunteer workers, with all proceeds going to the [Red Cross of Central and Western Oklahoma](https://www.redcross.org/ok/oklahoma-city){target=_blank rel="external noopener"}.
 
-The organizers set up three stages: two stages for ticket-holders at the Bricktown Events Center, and an outdoor stage, free and open to the public. The outdoor stage later moved to the Wormy Dog Saloon due to inclement weather. The Queen of Rock ’n’ Roll [<span class="h-card p-name">Wanda Jackson</span>](https://itunes.apple.com/us/artist/wanda-jackson/id7036716?uo=4&at=10ldhk){target=_blank rel="external noopener"} headlined along with Broken Arrow native and critically acclaimed rhythm and blues revivalist [<span class="h-card p-name">J.D. McPherson</span>](https://itunes.apple.com/us/artist/jd-mcpherson/id398896732?uo=4&at=10ldhk){target=_blank rel="external noopener"}. Also appearing were:
+The organizers set up three stages: two stages for ticket-holders at the Bricktown Events Center, and an outdoor stage, free and open to the public. The outdoor stage later moved to the Wormy Dog Saloon due to inclement weather. The Queen of Rock ’n’ Roll [<span class="h-card p-name">Wanda Jackson</span>](https://music.apple.com/us/artist/wanda-jackson/id7036716?uo=4&at=10ldhk){target=_blank rel="external noopener"} headlined along with Broken Arrow native and critically acclaimed rhythm and blues revivalist [<span class="h-card p-name">J.D. McPherson</span>](https://music.apple.com/us/artist/jd-mcpherson/id398896732?uo=4&at=10ldhk){target=_blank rel="external noopener"}. Also appearing were:
 
 <div class="col-2">
 
-* [<span class="h-card p-name p-given-name">Desi</span> &amp; <span class="h-card p-name p-given-name">Cody</span>](https://itunes.apple.com/us/artist/desi-cody/id485609882?uo=4&at=10ldhk){target=_blank rel="external noopener"}
-* [<span class="h-card p-name">Travis Linville</span>](https://itunes.apple.com/us/artist/travis-linville/id294147782?uo=4&at=10ldhk){target=_blank rel="external noopener"}
-* [<span class="h-card p-name">Sherree Chamberlain</span>](https://itunes.apple.com/us/artist/sherree-chamberlain/id321315516?uo=4&at=10ldhk){target=_blank rel="external noopener"}
-* [<span class="h-card p-org">Evangelicals</span>](https://itunes.apple.com/us/artist/evangelicals/id151475139?uo=4&at=10ldhk){target=_blank rel="external noopener"}
-* [<span class="h-card p-org"><span class="h-card p-name">Beau Jennings</span> &amp; the Tigers</span>](https://itunes.apple.com/us/artist/beau-jennings-the-tigers/id597131035?uo=4&at=10ldhk){target=_blank rel="external noopener"}
-* [<span class="h-card p-org">Colourmusic</span>](https://itunes.apple.com/us/artist/colourmusic/id128334065?uo=4&at=10ldhk]){target=_blank rel="external noopener"}
-* [T<span class="h-card p-org">he Damn Quails</span>](https://itunes.apple.com/us/artist/the-damn-quails/id454324610?uo=4&at=10ldhk){target=_blank rel="external noopener"}
-* [<span class="h-card p-name">Parker Millsap</span>](https://itunes.apple.com/us/artist/parker-millsap/id525571790?uo=4&at=10ldhk){target=_blank rel="external noopener"}
-* [<span class="h-card p-name">Deerpeople</span>](https://itunes.apple.com/us/album/new-dance/id497683402?i=497683737&uo=4&at=10ldhk){target=_blank rel="external noopener"}
+* [<span class="h-card p-name p-given-name">Desi</span> &amp; <span class="h-card p-name p-given-name">Cody</span>](https://music.apple.com/us/artist/desi-cody/id485609882?uo=4&at=10ldhk){target=_blank rel="external noopener"}
+* [<span class="h-card p-name">Travis Linville</span>](https://music.apple.com/us/artist/travis-linville/id294147782?uo=4&at=10ldhk){target=_blank rel="external noopener"}
+* [<span class="h-card p-name">Sherree Chamberlain</span>](https://music.apple.com/us/artist/sherree-chamberlain/id321315516?uo=4&at=10ldhk){target=_blank rel="external noopener"}
+* [<span class="h-card p-org">Evangelicals</span>](https://music.apple.com/us/artist/evangelicals/id151475139?uo=4&at=10ldhk){target=_blank rel="external noopener"}
+* [<span class="h-card p-org"><span class="h-card p-name">Beau Jennings</span> &amp; the Tigers</span>](https://music.apple.com/us/artist/beau-jennings-the-tigers/id597131035?uo=4&at=10ldhk){target=_blank rel="external noopener"}
+* [<span class="h-card p-org">Colourmusic</span>](https://music.apple.com/us/artist/colourmusic/id128334065?uo=4&at=10ldhk]){target=_blank rel="external noopener"}
+* [T<span class="h-card p-org">he Damn Quails</span>](https://music.apple.com/us/artist/the-damn-quails/id454324610?uo=4&at=10ldhk){target=_blank rel="external noopener"}
+* [<span class="h-card p-name">Parker Millsap</span>](https://music.apple.com/us/artist/parker-millsap/id525571790?uo=4&at=10ldhk){target=_blank rel="external noopener"}
+* [<span class="h-card p-name">Deerpeople</span>](https://music.apple.com/us/album/new-dance/id497683402?i=497683737&uo=4&at=10ldhk){target=_blank rel="external noopener"}
 
 </div>
 
