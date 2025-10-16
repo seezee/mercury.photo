@@ -3,6 +3,7 @@ layout: _main.njk
 title: About Mercury Photo Bureau
 permalink: "/about/"
 ogtype: website
+image: /assets/images/site/mpb-logo.webp
 ---
 
 <hgroup>

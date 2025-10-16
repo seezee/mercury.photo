@@ -1,6 +1,6 @@
 ---
 layout: _home.njk
 title: Home
-tags: home
 ogtype: website
+image: /assets/images/site/mpb-logo.webp
 ---

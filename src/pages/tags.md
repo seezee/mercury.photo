@@ -32,6 +32,7 @@ pagination:
 permalink: /blog/tags/{{ tag | slugify}}/
 override:tags: []
 eleventyExcludeFromCollections: true
+image: /assets/images/site/mpb-logo.webp
 ---
 <!-- markdownlint-disable MD025 -->
 # {{ title }}

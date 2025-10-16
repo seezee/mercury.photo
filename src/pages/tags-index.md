@@ -5,6 +5,7 @@ filter: ["blog", "all"]
 permalink: /blog/tags/
 override:tags: []
 eleventyExcludeFromCollections: true
+image: /assets/images/site/mpb-logo.webp
 ---
 
 <hgroup>

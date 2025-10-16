@@ -227,6 +227,7 @@ module.exports = async function(eleventyConfig) {
     twitter: `czahller`,
     options: {
       titleDivider: `|`,
+      image: `/assets/images/site/mpb-logo.webp`,
       imageWithBaseUrl: true,
       twitterCardType: `summary_large_image`,
       showPageNumbers: false
