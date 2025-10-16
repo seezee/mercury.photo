@@ -166,11 +166,15 @@
     }
   </style>
   <link rel="stylesheet" href="/assets/css/index.css">
-  <meta property="og:site_name" content="Mercury Photo Bureau">
+  <meta property="og:site_name" content="{{ _SITENAME_ }}">
   <meta property="article:publisher" content="https://facebook.com/mercuryphoto/">
   {% seo "" %}
   <!-- Facebook -->
-  <meta property="og:image" content="{{ site }}{{ image }}" />
+  {% if image %}
+    <meta property="og:image" content="{{ _SITEURL_ }}{{ image }}" />
+  {% else %}
+    <meta property="og:image" content="{{ _SITEURL_ }}/assets/images/site/mpb-logo.webp" />
+  {% endif %}
   <meta property="fb:app_id" content="1811156772801459">
   <!-- Structured data -->
   {% if recipe %}
@@ -186,23 +190,23 @@
           "@type": "Article",
           "author": {
             "@type": "Person",
-            "name": "Chris J. Zähller"
+            "name": "{{ _AUTHOR_ }}"
           },
           "publisher": {
             "@type": "Organization",
-            "name": "Mercury Photo Bureau",
+            "name": "{{ title }}",
             "logo": {
               "@type": "ImageObject",
-              "url": "{{ site }}/assets/images/site/mpb-logo.webp"
+              "url": "{{ _SITEURL_ }}/assets/images/site/mpb-logo.webp"
             }
           },
         {% if title %}
           "headline": "{{ title }}",
         {% endif %}
         {% if image %}
-          "image": "{{ site }}{{ image }}",
+          "image": "{{ _SITEURL_ }}/{{ image }}",
         {% else %}
-          "image": "{{ site }}/assets/images/site/mpb-logo.webp",
+          "image": "{{ _SITEURL_ }}/assets/images/site/mpb-logo.webp",
         {% endif %}
         {% if pubdate %}
           "datePublished": "{{ pubdate | toISOString | safe }}",

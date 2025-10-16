@@ -36,7 +36,10 @@ const target                           = resolveToEsbuildTarget(browserslist(
   printUnknownTargets: false,
 });
 
-const siteURL = `https://mercury.photo`
+const siteURL    = `https://mercury.photo`;
+const siteAuthor = `Chris J. Zähller`;
+const siteName   = `Mercury Photo Bureau`;
+const siteDesc   = `Rangefinder + Mirrorless Digital + Large Format Film Photography + Music, Arts, & News`;
 
 // For Markdown attributes
 const markdownItOptions = {
@@ -59,9 +62,22 @@ module.exports = async function(eleventyConfig) {
   eleventyConfig.amendLibrary(`md`, markdownLib);
 
   // Global data
-  eleventyConfig.addGlobalData(`site`, {
-    url: `https://mercury.photo`
+  eleventyConfig.addGlobalData(`siteURL`, {
+    "_SITEURL_" : siteURL
   });
+  eleventyConfig.addGlobalData(`siteAuthor`, {
+    "_AUTHOR_" : siteAuthor
+  });
+  eleventyConfig.addGlobalData(`siteName`, {
+   "_SITENAME_": siteName
+  });
+  eleventyConfig.addGlobalData(`siteDesc`, {
+   "_SITEDESC_": siteDesc
+  });
+  eleventyConfig.addNunjucksGlobal(`_SITEURL_`, siteURL);
+  eleventyConfig.addNunjucksGlobal(`_AUTHOR_`, siteAuthor);
+  eleventyConfig.addNunjucksGlobal(`_SITENAME_`, siteName);
+  eleventyConfig.addNunjucksGlobal(`_SITEDESC`, siteDesc);
 
   // Pagefind config; runs AFTER build
   eleventyConfig.on(`eleventy.after`, async function ({ dir }) {
@@ -205,9 +221,9 @@ module.exports = async function(eleventyConfig) {
   // SEO
   eleventyConfig.addPlugin(pluginSEO, {
     title: `Mercury Photo Bureau`,
-    description: `Rangefinder + Mirrorless Digital + Large Format Film Photography + Music, Arts, & News`,
+    description: siteDesc,
     url: siteURL,
-    author: `Chris J. Zähller`,
+    author: siteAuthor,
     twitter: `czahller`,
     options: {
       titleDivider: `|`,
@@ -231,7 +247,7 @@ module.exports = async function(eleventyConfig) {
 			subtitle: `Rangefinder + Mirrorless Digital + Large Format Film Photography + Music, Arts, &amp; News`,
 			base: siteURL + `/`,
 			author: {
-				name: `Chris J. Zähller`
+				name: siteAuthor
 				// email: ``, // Optional
 			}
 		}
