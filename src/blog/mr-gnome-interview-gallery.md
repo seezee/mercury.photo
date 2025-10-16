@@ -54,7 +54,7 @@ Just returned home from mr. Gnome’s <cite>Madness in Miniature</cite> tour, Ba
 
 <span class="spkr">Barrille</span> It’s a concept album only in retrospect, but it wasn’t something we did consciously. We wrote the album in between touring, so there are different moods throughout the record.[^4] We wrote the interludes after the majority of the album was recorded, [hoping] to tie the whole thing together a bit more [to] lend to the concept album feel. We are huge fans of albums that flow from beginning to end and feel more like a complete work than a bunch of songs, so we definitely embrace those influences, and, at the same time, we always try to make a cohesive work.
 
-[^4]: Barrille has spoken about this in detail in [another interview](https://blogs.westword.com/backbeat/2012/04/interview_nicole_barille_mr_gnome.php){*target=_blank rel="external noopener"}.
+[^4]: Barrille has spoken about this in detail in [another interview](https://www.westword.com/music/nicole-barille-of-mr-gnome-between-two-people-it-can-fall-apart-at-any-second-and-thats-kind-of-the-fun-about-it-5703586/){*target=_blank rel="external noopener"}.
 
 <span class="spkr">MPB</span> Speaking of Pink Floyd, you’ve talked about the concert film <cite>Live at Pompeii</cite> on numerous occasions. When I was a wee sprout attending college, I heard a nationally-syndicated radio show (possibly the <cite>King Biscuit Flour Hour</cite>) broadcast the entire audio from the film. I knew I couldn’t be home to hear it because I had to work that night, so I arranged for one of my mom’s co-workers to tape it on his reel-to-reel recorder. What do the visuals add to your experience of the film that I missed, since I’ve only heard it?
 

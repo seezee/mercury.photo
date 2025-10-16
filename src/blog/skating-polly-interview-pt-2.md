@@ -37,7 +37,7 @@ Concluding our <span class="h-card p-org">Skating Polly</span> [interview](/blog
 
 We’ve also got pics from their <span class="h-card p-org">Record Store Day</span> concert at <span class="h-card p-org">Guestroom Records</span> in Norman, plus some images from their <span class="h-card p-org">Blackwatch Stage</span> set at the sixth annual <span class="h-card p-org">Norman Music Festival</span>.
 
-<span class="spkr">Mercury Photo Bureau</span> <span class="h-card p-org">SXSW</span>&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;you just played there. Pretty exciting. But, I’ve talked to [other bands](/blog/david-goad-kali-ra-interview-pt-2) who’ve played down there, and I know it can also be a real crapshoot, because there are *so* many other bands playing, and getting noticed is really hard. How do you think you were received?
+<span class="spkr">Mercury Photo Bureau</span> <span class="h-card p-org">SXSW</span>&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;you just played there. Pretty exciting. But, I’ve talked to [other bands](/blog/kali-ra-interview-pt-2/) who’ve played down there, and I know it can also be a real crapshoot, because there are *so* many other bands playing, and getting noticed is really hard. How do you think you were received?
 
 <span class="spkr">Peyton Bighorse</span> I feel like people liked us a lot, who saw us. We&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;it was really busy. We had, like, seven shows, and we actually forgot our equipment, like, more than once. It was&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;we lost our drum seat down there; we didn’t lose anything else, which was cool, but it was&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;it was really busy, and it was exciting. It was really tiring.
 
@@ -129,13 +129,13 @@ Hard to believe two so young have written and performed songs this strong and wi
 
 But that wasn’t the only thing that went into that. I also wanted something that would seem […] kind of juvenile, so that people would be like, <q>Oh, what’s this?</q> It’d be like singing their ABCs or something, you know, but whenever they actually got [to our show], they could actually [see what we were about]. But I also wanted something that wouldn’t seem like it would just last for *now*, you know; it would&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;like, I didn’t want to put, like, oh, "The Kid Pollies" or something like that. I wanted something that would last […].
 
-<blockquote cite="https://www.okgazette.com/oklahoma/rolling-upward/Content?oid=2966362">
+<blockquote cite="https://www.okgazette.com/music/rolling-upward-2966362/">
 
 I love school, but this is our dream and a real goal. This isn’t just a lemonade stand. This is something we are going to be doing forever.
 
 <footer>
 
-&mdash;&NoBreak;&hairsp;&NoBreak;<cite class="cite-person">[Kelli Mayo](https://www.okgazette.com/oklahoma/rolling-upward/Content?oid=2966362){target=_blank rel="external noopener"}</cite></footer>
+&mdash;&NoBreak;&hairsp;&NoBreak;<cite class="cite-person">[Kelli Mayo](https://www.okgazette.com/music/rolling-upward-2966362/){target=_blank rel="external noopener"}</cite></footer>
 </blockquote>
 
 <span class="spkr">MPB</span> In an interview I read in the <cite>[Oklahoma] Gazette</cite>, Kelli said that the band was not just a lemonade stand for you two; it’s a career. That’s such an adult way, not just of looking at it, but of phrasing it.

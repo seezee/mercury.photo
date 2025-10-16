@@ -144,7 +144,7 @@ That song is close to my heart, because it was written with everybody there. A l
 
 <span class="spkr">Manson</span> It’s never like we want to sound like this one band. It’s more like, that guitar tone in this particular song by that band is really sick, and that inspires me to go do my own version of it.
 
-<span class="spkr">MPB</span> You’ve warned people to bring earplugs to your shows, and I can attest to that. Mostly because of you guys and the [Kamals](/blog/kamals-interview-gallery/), I’ve started taking earplugs to the shows I photograph. [*laughter*] Your Facebook page says your sound is like <cite>[How High](href="https://geo.itunes.apple.com/us/album/how-high-original-motion-picture/id571087800?uo=4&at=10ldhk){target=_blank rel="external noopener"}</cite> meets <cite>[2001: A Space Odyssey](https://geo.itunes.apple.com/us/movie/2001-a-space-odyssey/id285993250?uo=4&at=10ldhk){target=_blank rel="external noopener"}</cite>. I didn’t really get that; I mean, I don’t really hear much in the way of hip-hop?
+<span class="spkr">MPB</span> You’ve warned people to bring earplugs to your shows, and I can attest to that. Mostly because of you guys and the [Kamals](/blog/kamals-interview-gallery/), I’ve started taking earplugs to the shows I photograph. [*laughter*] Your Facebook page says your sound is like <cite>How High</cite> meets <cite>2001: A Space Odyssey</cite>. I didn’t really get that; I mean, I don’t really hear much in the way of hip-hop?
 
 <span class="spkr">Manson</span> Donald’s drumming is very hip-hop. That’s something we really go for, is that backing beat. Especially on that first song, which is a tune that Brandon wrote, <cite class="short-work">Afterbirth</cite>; like, the whole thing sounds like a super [*inaudible*].
 

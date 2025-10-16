@@ -24,7 +24,7 @@ excerpt: This weekend I celebrated my sixtieth birthday surrounded by friends an
 
 My wonderful sister <span class="h-card p-name">Kim V. Zähller</span> and her husband <span class="h-card p-name">Nate Borofsky</span> decorated their backyard and prepared all of the refreshments, including a chocolate-walnut cake and a boozy Planter's Punch.
 
-I took most of the pictures shown here, except for the group photo, made by my dear friend [Joe Crumley](/blog/how-i-learned-to-stop-worrying-and-love-the-circle-of-confusion-pt-1/). I hope you enjoy them.
+I took most of the pictures shown here, except for the group photo, made by my dear friend [Joe Crumley](/blog/circle-confusion-pt-1/). I hope you enjoy them.
 
 <mpb-dialog-gallery hint rel cols="8">
   

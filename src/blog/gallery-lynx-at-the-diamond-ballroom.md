@@ -24,7 +24,7 @@ excerpt: As part of our cleanup of our Flickr account, we present these photos o
 
 {% image "./src/assets/images/blog/2019-03-20-lynx/czahller-20120912-21-06-40.jpg", "img-constrained", "Lynx (III), Beats Antique “Animal Mechanique Tour”", "Lynx (III), Beats Antique “Animal Mechanique Tour”" %}</mpb-dialog-img>
 
-As part of our cleanup of our Flickr account,[^1] we present these photos of <span class="h-card p-name p-nickname">LYNX</span> we took at the Diamond Ballroom in <time datetime="2012-09-12">2012</time>. LYNX opened for [Beats Antique](/blog/beats-antique-releases-new-music-video-skeleton-key/)"> during their Animal Mechanique tour.
+As part of our cleanup of our Flickr account,[^1] we present these photos of <span class="h-card p-name p-nickname">LYNX</span> we took at the Diamond Ballroom in <time datetime="2012-09-12">2012</time>. LYNX opened for [Beats Antique](/blog/beats-antique-skeleton-key-gallery/)"> during their Animal Mechanique tour.
 
 [^1]: In response to their new [terms of service](https://blog.flickr.net/en/2018/11/01/changing-flickr-free-accounts-1000-photos/){target="_blank" rel="external noopener"}.
 

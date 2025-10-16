@@ -49,7 +49,7 @@ With his full beard streaked grey and his horn-rimmed eyeglasses, <span class="h
 
 Gibbs made his Woody Guthrie Folk Festival debut in <time datetime="2013-07-12">July<time>, appearing on the Crystal Theatre stage at midday to a nearly full house. A noted raconteur, Gibbs sprinkled the set with pithy stories between songs, evoking no small amount of laughter and the occasional approving nod.
 
-Gibbs hosts a podcast, <cite>[Thanks for Giving a Damn](https://music.apple.com/us/podcast/thanks-for-giving-a-damn/id568743610?mt=2&uo=4&at=10ldhk){target=_blank rel="external noopener"}</cite>, in which he converses with musical acquaintances. Recent episodes have featured record producer <span class="h-card p-name">Grant Showbiz</span> (<strong>The Smiths</strong>, Billy Bragg), harmonica player <span class="h-card p-name">Delbert McClinton</span>, and singer-songwriter <span class="h-card p-name">Tim Easton</span>, who also made his festival debut this year.
+Gibbs hosts a podcast, <cite>[Thanks for Giving a Damn](https://podcasts.apple.com/us/podcast/thanks-for-giving-a-damn/id568743610?mt=2&uo=4&at=10ldhk){target=_blank rel="external noopener"}</cite>, in which he converses with musical acquaintances. Recent episodes have featured record producer <span class="h-card p-name">Grant Showbiz</span> (<strong>The Smiths</strong>, Billy Bragg), harmonica player <span class="h-card p-name">Delbert McClinton</span>, and singer-songwriter <span class="h-card p-name">Tim Easton</span>, who also made his festival debut this year.
 
 ## Gallery: Otis Gibbs
 

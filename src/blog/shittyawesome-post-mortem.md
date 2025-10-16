@@ -90,7 +90,7 @@ Shi++ty/Awesome dropped by the bureau for drinks and conversation <time datetime
 
 <span class="spkr">MPB</span> What was the first music you remember buying with your own money?
 
-<span class="spkr">Muir</span> <span class="h-card p-name">Prince</span>, [<cite>1999</cite>](https://music.apple.com/us/album/1999/id214145240?uo=4&at=10ldhk){target=_blank rel="external noopener"}.
+<span class="spkr">Muir</span> <span class="h-card p-name">Prince</span>, [<cite>1999</cite>](https://music.apple.com/us/album/1999/1544173941?i=1544173942&uo=4&at=10ldhk){target=_blank rel="external noopener"}.
 
 <span class="spkr">Lemke</span> <span class="h-card p-name">Michael Jackson</span>’s [<cite>Bad</cite>](https://music.apple.com/us/album/bad/id559334659?uo=4&at=10ldhk){target=_blank rel="external noopener"}.
 
@@ -100,7 +100,7 @@ Shi++ty/Awesome dropped by the bureau for drinks and conversation <time datetime
 
 <span class="spkr">Searle</span> I remember having to have my mom buy <span class="h-card p-name"><span class="p-nickname">Dr. Dre’s</span></span> [<cite>The Chronic</cite>](https://music.apple.com/us/artist/dr.-dre/id35315?uo=4&at=10ldhk){target=_blank rel="external noopener"}, [but that was because I was underage]. But I already had over 200 CDs, albums, cassettes at that point.
 
-<span class="spkr">Muir</span> It was the single for <cite class="short-work">[One Night in Bangkok](https://geo.itunes.apple.com/us/album/one-night-in-bangkok-single-version/24835137?i=24835176&amp;mt=1&amp;app=music&amp;at=10ldhk){target=_blank rel="external noopener"}</cite> from the musical <cite>Chess</cite>. I remember asking my mom to buy that for me. I still have that single.
+<span class="spkr">Muir</span> It was the single for <cite class="short-work">[One Night in Bangkok](https://music.apple.com/us/album/one-night-in-bangkok-original-single-version-from-chess/1654688405?i=1654688410&mt=1&app=music&;at=10ldhk){target=_blank rel="external noopener"}</cite> from the musical <cite>Chess</cite>. I remember asking my mom to buy that for me. I still have that single.
 
 <span class="spkr">MPB</span> Any other early musical memories? Maybe something that inspired you to make music?
 
@@ -120,7 +120,7 @@ I can’t think of any specific&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp
 
 <span class="spkr">MPB</span> Does it work?
 
-<span class="spkr">Lemke</span> Not really. Um; I don’t know; I just remember listening to my dad’s records when I was&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;<span class="h-card p-name">Tom Petty</span>; I remember [<cite>Damn the Torpedoes</cite>](https://music.apple.com/us/album/damn-torpedoes-deluxe-version/id395240013?uo=4&at=10ldhk){target=_blank rel="external noopener"} and, like, <span class="h-card p-org">Black Sabbath</span>, [<cite>We Sold Our Soul for Rock ’n’ Roll</cite>](https://music.apple.com/us/artist/black-sabbath/id165907?uo=4&at=10ldhk){target=_blank rel="external noopener"}. I just really liked music, and I asked for a guitar [when] I was six.
+<span class="spkr">Lemke</span> Not really. Um; I don’t know; I just remember listening to my dad’s records when I was&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;<span class="h-card p-name">Tom Petty</span>; I remember [<cite>Damn the Torpedoes</cite>](https://music.apple.com/us/album/damn-the-torpedoes/1440860187?uo=4&at=10ldhk){target=_blank rel="external noopener"} and, like, <span class="h-card p-org">Black Sabbath</span>, [<cite>We Sold Our Soul for Rock ’n’ Roll</cite>](https://music.apple.com/us/artist/black-sabbath/id165907?uo=4&at=10ldhk){target=_blank rel="external noopener"}. I just really liked music, and I asked for a guitar [when] I was six.
 
 It was a crappy acoustic Harmony. I took lessons for […] six months, and the teacher was trying to teach me blues, when I wanted to play rock ’n’ roll. [I] didn’t quite get that concept, that young. I wanted to play <cite class="short-work">Eruption</cite> when I was six. [*laughter*] Then I quit.
 
@@ -164,7 +164,7 @@ I used to listen to&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;my
 
 <span class="spkr">Lemke</span> It was Travis.
 
-<span class="spkr">Searle</span> [The photographer] was [<span class="h-card p-name">Christian Pitt</span>](https://www.saatchionline.com/xianpitt){target=_blank rel="external noopener"}. Yeah; she did it all.
+<span class="spkr">Searle</span> [The photographer] was [<span class="h-card p-name">Christian Pitt</span>](https://xianpitt.com/about-me/){target=_blank rel="external noopener"}. Yeah; she did it all.
 
 <mpb-dialog-img>
 
@@ -178,7 +178,7 @@ I used to listen to&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;my
 
 He’s also in a band with the [<span class="h-card p-org">Copperheads</span>](https://music.apple.com/us/artist/copperheads/id569307483?uo=4&at=10ldhk){target=_blank rel="external noopener"}&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;<span class="h-card p-name">Andy Escobar</span> and <span class="h-card p-name">Dane Kitchens</span>. They’re calling themselves the <span class="h-card p-org">Shutdown Shutouts</span>.
 
-<span class="spkr">Lemke</span> I play guitar for <span class="h-card p-org">Depth &amp; Current</span>. That’s the main one. I’ve been talking to a few other people about doing some stuff, but nothing’s […] set in stone.
+<span class="spkr">Lemke</span> I play guitar for <span class="h-card p-org">Depth & Current</span>. That’s the main one. I’ve been talking to a few other people about doing some stuff, but nothing’s […] set in stone.
 
 <span class="spkr">Searle</span> Has the <span class="h-card p-org">Gross Beast</span> been slayed?
 
@@ -196,7 +196,7 @@ He’s also in a band with the [<span class="h-card p-org">Copperheads</span>](h
 
 The last record I listened to on my turntable was yesterday, and it was a Folkways collection of French Provençal&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;kind of precursor to <span class="h-card p-name">Joan Baez</span>, but in the French countryside. I also listened to a Black Sabbath record. […]
 
-<span class="spkr">Lemke</span> I listened to <span class="h-card p-org">Weekend</span>’s[^1] [new album](https://music.apple.com/us/album/jinx/1321260811?uo=4&at=10ldhk){target=_blank rel="external noopener"}; it’s really good. Uh, <span class="h-card p-org">Cold Cave</span>’s [<cite>Cherish the Light Years</cite>](https://music.apple.com/us/album/cherish-light-years-bonus/id425679711?uo=4&at=10ldhk){target=_blank rel="external noopener"}. Some <span class="h-card p-name">Danny Brown</span>: [<cite>XXX</cite>](https://music.apple.com/us/album/xxx-deluxe-version/id508262167?uo=4&at=10ldhk){target=_blank rel="external noopener"}.
+<span class="spkr">Lemke</span> I listened to <span class="h-card p-org">Weekend</span>’s[^1] [new album](https://music.apple.com/us/album/jinx/1321260811?uo=4&at=10ldhk){target=_blank rel="external noopener"}; it’s really good. Uh, <span class="h-card p-org">Cold Cave</span>’s [<cite>Cherish the Light Years</cite>](https://music.apple.com/us/album/cherish-the-light-years/1589278320?uo=4&at=10ldhk){target=_blank rel="external noopener"}. Some <span class="h-card p-name">Danny Brown</span>: [<cite>XXX</cite>](https://music.apple.com/us/album/xxx-deluxe-version/1805643827?uo=4&at=10ldhk){target=_blank rel="external noopener"}.
 
 [^1]: The New York&ndash;via&ndash;San Francisco shoegaze trio, not the Canadian singer-songwriter.
 

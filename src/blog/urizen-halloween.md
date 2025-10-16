@@ -34,7 +34,7 @@ Opening for [<span class="h-card p-org">Peelander-Z</span>](/blog/peelander-z-ha
 * Foiling their arch-nemesis, an evil scientist
 * Helping an eight-foot tall cardboard box robot defeat a giant inflatable one-eyed goo monster
 
-Guitarist and singer <span class="h-card p-name">Thomas Drinnen</span>, keyboardist <span class="h-card p-name">Daniel Drinnen</span>, bassist <span class="h-card p-name">Rustin Luther</span>, and drummer <span class="h-card p-name">Julio Escamilla</span> are currently working on their third full-length release, with eleven of the planned fifteen tracks near completion. They announced a [contest]("https://www.urizenonline.com/){target=_blank rel="external noopener"} on their blog asking fans to guess the title. Urizen say they have a winner, but prefer to withhold the title for the moment.
+Guitarist and singer <span class="h-card p-name">Thomas Drinnen</span>, keyboardist <span class="h-card p-name">Daniel Drinnen</span>, bassist <span class="h-card p-name">Rustin Luther</span>, and drummer <span class="h-card p-name">Julio Escamilla</span> are currently working on their third full-length release, with eleven of the planned fifteen tracks near completion. They announced a [contest](https://www.urizenonline.com/){target=_blank rel="external noopener"} on their blog asking fans to guess the title. Urizen say they have a winner, but prefer to withhold the title for the moment.
 
 <mpb-callout type="note" title="Breaking News">
 

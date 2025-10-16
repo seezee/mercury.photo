@@ -70,7 +70,7 @@ Okeefe hasn’t gone unnoticed. He’s opened for <span class="h-card p-name">Ru
 
 [^9]: Anonymous staff writer, <cite class="short-work">[Josh Okeefe Special Guest for Kris Kristofferson 82<sup>nd</sup> Birthday Concert](https://www.music-news.com/news/Underground/112812/Josh-Okeefe-special-guest-for-Kris-Kristofferson-82nd-Birthday-Concert){target=_blank rel="external noopener"},</cite> <cite>Music-News.com</cite> (<time datetime="2018-03-03">3 May 2018</time>).
 
-[^10]: Anonymous staff writer, <cite class="short-work">[From Brighton to Nashville, Introducing Josh Okeefe](https://www.bimm.co.uk/news/from-brighton-to-nashville-introducing-josh-okeefe/){target=_blank rel="external noopener"},</cite> <cite>BIMM News Archive</cite> (<time datetime="2016-09-01">1 September 2016</time>).
+[^10]: Anonymous staff writer, <cite class="short-work">[From Brighton to Nashville, Introducing Josh Okeefe](https://web.archive.org/web/20201026034611/https://www.bimm.ac.uk/news/from-brighton-to-nashville-introducing-josh-okeefe/){target=_blank rel="external noopener"},</cite> <cite>BIMM News Archive</cite> (<time datetime="2016-09-01">1 September 2016</time>).
 
 [^11]: <cite>Ibid.</cite>
 

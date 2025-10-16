@@ -115,7 +115,7 @@ I’m not actually gay; I’m gonna put that in there for the record.
 
 <span class="spkr">MPB</span> Gabe, I know you came to the band later, because Chris is the only original member. How did you become their bass player?
 
-<span class="spkr">Barham</span> I played in a band in high school with [<span class="h-card p-name">Justin Hogan</span>](/blog/psychic-milk-hilo-club/). We were in drama [class] together; one day we went to a <cite>Bye Bye Birdie</cite> rehearsal. He really wanted to be <span class="h-card p-name">Conrad Birdie</span>; he didn’t get [the part].
+<span class="spkr">Barham</span> I played in a band in high school with [<span class="h-card p-name">Justin Hogan</span>](/blog/psychic-milk-interview-gallery/). We were in drama [class] together; one day we went to a <cite>Bye Bye Birdie</cite> rehearsal. He really wanted to be <span class="h-card p-name">Conrad Birdie</span>; he didn’t get [the part].
 
 <span class="spkr">MPB</span> I could see him as Conrad Birdie.
 

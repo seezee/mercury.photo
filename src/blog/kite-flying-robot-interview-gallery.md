@@ -44,7 +44,7 @@ And I sort of learned my way, and I made my first Kite Flying Robot album, and i
 
 <span class="spkr">MPB</span> I saw that it was still available on your Bandcamp page.
 
-<span class="spkr">Thompson</span> It is. […] I think if someone really wanted to go through it and find it, I figure, well, whatever. I don’t promote it; I took it off iTunes, because it costs yearly money to put it on there. Even though it sold sometimes, I just was like, <q>eh.</q> I just don’t even care, you know, and I’d rather&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;and I was working on <cite>[Solid gold](https://music.apple.com/us/album/solid-gold/id409423318?uo=4&at=10ldhk){target=_blank rel="external noopener"}</cite>, the songs that would become <cite>Solid Gold</cite> […] and I’d rather that be [people’s] first listen […].
+<span class="spkr">Thompson</span> It is. […] I think if someone really wanted to go through it and find it, I figure, well, whatever. I don’t promote it; I took it off iTunes, because it costs yearly money to put it on there. Even though it sold sometimes, I just was like, <q>eh.</q> I just don’t even care, you know, and I’d rather&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;and I was working on <cite>[Solid gold](https://music.apple.com/us/album/solid-gold-deluxe-edition/1793573373?uo=4&at=10ldhk){target=_blank rel="external noopener"}</cite>, the songs that would become <cite>Solid Gold</cite> […] and I’d rather that be [people’s] first listen […].
 
 <span class="spkr">MPB</span> I was glad to hear you practicing <cite class="short-work">[Red Phone Booth](https://music.apple.com/us/album/red-phone-booth/id409423318?i=409423519&uo=4&at=10ldhk){target=_blank rel="external noopener"}</cite> during rehearsal earlier. What’s the lyric about the <q>filthy machine</q> mean? Is it the answering machine?
 
@@ -80,7 +80,7 @@ And I sort of learned my way, and I made my first Kite Flying Robot album, and i
 
 <span class="spkr">MPB</span> You say Disney movies were kind of a big influence, so, how old are you and when was your childhood?
 
-<span class="spkr">Thompson</span> I wouldn’t say they were a big influence, but [children’s] movies they make now aren’t nearly as dark as they were back then. I was born in 1980, so I got to see [<cite>The Dark Crystal</cite>](https://music.apple.com/us/movie/the-dark-crystal/id469333419?uo=4&at=10ldhk){target=_blank rel="external noopener"}, [<cite>Labyrinth</cite>](https://music.apple.com/us/movie/labyrinth/id469761440?uo=4&at=10ldhk){target=_blank rel="external noopener"}, and [<cite>The Secret of NIMH</cite>](https://music.apple.com/us/movie/the-secret-of-nimh/id279334937?uo=4&at=10ldhk){target=_blank rel="external noopener"} and <cite>An American Tail</cite>&NoBreak;&hairsp;&NoBreak;&mdash;
+<span class="spkr">Thompson</span> I wouldn’t say they were a big influence, but [children’s] movies they make now aren’t nearly as dark as they were back then. I was born in 1980, so I got to see <cite>The Dark Crystal</cite>, <cite>Labyrinth</cite>, and <cite>The Secret of NIMH</cite> and <cite>An American Tail</cite>&NoBreak;&hairsp;&NoBreak;&mdash;
 
 <span class="spkr">MPB</span> Movies where there was a real sense of danger for the child protagonists&NoBreak;&hairsp;&NoBreak;&mdash;
 
@@ -105,7 +105,7 @@ And I sort of learned my way, and I made my first Kite Flying Robot album, and i
   </stack-l>
 </figure>
 
-<span class="spkr">MPB</span> Kinda got a [<cite>Dark Side of the Moon</cite>](https://music.apple.com/us/album/dark-side-moon-deluxe-experience/id464279671?uo=4&at=10ldhk){target=_blank rel="external noopener"} thing goin’ on there. How did you figure that out?
+<span class="spkr">MPB</span> Kinda got a [<cite>Dark Side of the Moon</cite>](https://music.apple.com/us/album/the-dark-side-of-the-moon-50th-anniversary-remastered/1665303755?uo=4&at=10ldhk){target=_blank rel="external noopener"} thing goin’ on there. How did you figure that out?
 
 <span class="spkr">Thompson</span> I don’t know. [*pauses to think*] I’m not sure. How did I figure that out? I think I downloaded <cite>Dumbo</cite> when I moved to Korea, ten months ago. ’cause I had all this time, and I downloaded all these movies I hadn’t seen in forever, and I was just watching, and I was like, <q>Oh! This is that scene I remember watching as a kid, with all the pink elephants!</q> And it had this kind of <q>BOM! Bom! BOM! Bom!</q> tempo to it, that was just spot on […].
 

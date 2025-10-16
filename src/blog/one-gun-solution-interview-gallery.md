@@ -20,7 +20,7 @@ excerpt: Neo-grunge outfit One Gun Solution drove down from Oklahoma City to spe
 
 {% image "./src/assets/images/blog/2013-01-31-one-gun-solution/czahller-20121020-23-03-03.jpg", "img-constrained", "Raymond Dick (bass), Dave Washburn (vox), and Matt Francis (guitar) perform on the Blue Note stage.", "The Band" %}</mpb-dialog-img>
 
-Neo-grunge outfit <span class="h-card p-org">One Gun Solution</span> drove down from Oklahoma City to speak with us <time datetime="2013-01-13">earlier this month</time>. We met them <time datetime="2012-10-20">last October</time> at the CD release party for their freshman release <cite>Perceptions</cite>, after [Kill the Reflection](/blog/kill-the-reflection-hilo-club-okc/) singer <span class="h-card p-name">Matt Routt</span> invited us.
+Neo-grunge outfit <span class="h-card p-org">One Gun Solution</span> drove down from Oklahoma City to speak with us <time datetime="2013-01-13">earlier this month</time>. We met them <time datetime="2012-10-20">last October</time> at the CD release party for their freshman release <cite>Perceptions</cite>, after [Kill the Reflection](/blog/kill-reflection-interview-gallery/) singer <span class="h-card p-name">Matt Routt</span> invited us.
 
 Short and muscular, frontman and vocalist <span class="h-card p-name">Dave Washburn</span>’s keen stare could back down the most belligerent drunk in the bars he frequently plays. His shaved head is contrasted by a mighty beard, which also appears in the band logo. He may look like a biker, but he reveals a bookish, intellectual bent during the interview.
 
