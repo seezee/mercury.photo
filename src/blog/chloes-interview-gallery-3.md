@@ -23,7 +23,7 @@ excerpt: In this concluding part of the Chloës interview, we hear the never-bef
 
 In this concluding part of the <span class="h-card p-org">Chloës</span> interview, we hear the never-before-told story behind crowd-pleaser <cite class="short-work">[Put that Dick Away](https://music.apple.com/us/album/put-that-dick-away/1289963239?i=1289963247&uo=4&at=10ldhk){target=_blank rel="external noopener"},</cite> plus we learn how the ladies *really* feel about men. Then we conclude with our regular feature, *Redeem a Song*, in which we learn about some musical guilty pleasures.
 
-In [part two](chloes-interview-gallery-2){rel=prev} the Chloës’ <span class="h-card p-name">Tiffany Byrd</span> started to tell us about her favorite band songs. She had a little more to say on that:
+In [part two](/blog/chloes-interview-gallery-2/){rel=prev} the Chloës’ <span class="h-card p-name">Tiffany Byrd</span> started to tell us about her favorite band songs. She had a little more to say on that:
 
 <span class="spkr">Tiffany Byrd</span> I like <cite class="short-work">Arms,</cite> too. ’cause it’s got a country vibe to it?
 
@@ -144,8 +144,8 @@ I just have to put this out there: We just got mentioned in the <cite>[Dallas] O
 
 <span class="spkr">The Chloës</span> Thank *you*; yay!
 
-[← Read part 1](/blog/chloes-interview-gallery-1){rel="prev"}
-[← Read part 2](/blog/chloes-interview-gallery-2){rel="prev"}
+[← Read part 1](/blog/chloes-interview-gallery-1/){rel="prev"}
+[← Read part 2](/blog/chloes-interview-gallery-2/){rel="prev"}
 
 ## Gallery: The Chloës at the Sixth Annual Norman Music Festival (NMF6)
 

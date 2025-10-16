@@ -26,7 +26,7 @@ excerpt: My good friend David Goad is raising money to tour with his band, Kali 
 This post originally included an embed of the original <cite>Cooking With Kali Ra</cite> episode video, but it is no longer extant and the <cite>OKC Edge</cite> site appears to be abandoned. Consider this post for historical purposes only.
 </mpb-callout>
 
-Our good friend <span class="h-card p-name">David Goad</span> is [raising money](https://kalira.bandcamp.com/merch/tour-donation){target="_blank" rel="external noopener"} to tour with his band [Kali Ra](/blog/kali-ra-interview-pt-1/) by recording a cooking show. He asked us to kick things off by talking about something we truly love: American whiskey (bourbon & rye). <span class="h-card p-name">Will Harrison</span> from <span class="h-card p-org">the [OKC Edge](https://www.theokcedge.com/){target="_blank" rel="external noopener"}</span> ran cameras and sound.{.drop-cap}
+Our good friend <span class="h-card p-name">David Goad</span> is [raising money](https://kalira.bandcamp.com/merch/tour-donation){target="_blank" rel="external noopener"} to tour with his band [Kali Ra](/blog/kali-ra-interview-pt-1/) by recording a cooking show. He asked us to kick things off by talking about something we truly love: American whiskey (bourbon & rye). <span class="h-card p-name">Will Harrison</span> from <span class="h-card p-org">the [OKC Edge](http://www.theokcedge.com/){target="_blank" rel="external noopener"}</span> ran cameras and sound.{.drop-cap}
 
 <mpb-dialog-img>
 

@@ -62,7 +62,7 @@ I was born in the back of a ’57 Chevy<br />With my daddy doing ninety, my mama
 &mdash;&NoBreak;&hairsp;&NoBreak;Alex Culbreth, <cite class="short-work">Mercy Me</cite></footer>
 </blockquote>
 
-<span class="spkr">MPB</span> In your solo act, you play guitar and sing, but you also play a kick-drum, which you play standing in front of with your heels in the pedals. I’ve only known one other drummer to do that&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;<span class="h-card p-name">Travis Searle</span> of the now defunct Norman band <span class="h-card p-org">[Shi++y Awesome](/blog/shitty-awesome-post-mortem/)</span>.
+<span class="spkr">MPB</span> In your solo act, you play guitar and sing, but you also play a kick-drum, which you play standing in front of with your heels in the pedals. I’ve only known one other drummer to do that&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;<span class="h-card p-name">Travis Searle</span> of the now defunct Norman band <span class="h-card p-org">[Shi++y Awesome](/blog/shittyawesome-post-mortem/)</span>.
 
 <span class="spkr">Culbreth</span> For some reason, that always seemed more comfortable to me&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;it seems like it’s easier to keep my balance when I’m on my toes with the kick-drum and the tambourine. I tried having them both in front before, and I just wasn’t able to keep my balance. There’s a couple of one-man bands that I’ve been listening to recently that have made me want to expand what I do, and shows me how much can be done, how much noise can come out of just one person. They’re both out of Austin: <span class="h-card p-name">Scott H. Biram</span> and <span class="h-card p-name">Shakey Graves</span>.
 
