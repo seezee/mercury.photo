@@ -26,7 +26,7 @@ excerpt: We recently had the good fortune of documenting the Reverend Horton Hea
 
 We <time datetime="2012-09-22">recently</time> had the good fortune of documenting the <span class="h-card p-name p-nickname">Reverend Horton Heat</span>’s performance at Oklahoma City’s Wormy Dog Saloon in Bricktown.[^1] <time datetime="2007-03-31">Five years ago</time> at a previous Horton Heat show we were pleased to discover the music of openers <span class="h-card p-org">The Tossers</span>, a Chicago-based band melding punk rock with Irish traditional music. This tour’s opening act was no less exciting. The <span class="h-card p-org">Goddamn Gallows</span>, who blend rockabilly, roots, folk, Americana, and country music <q>with just enough hardcore and punk […] to make your parents hate it,</q> poured out enough **sweat** and **snot** in their energetic set to fill buckets. The band’s biography is all over the inter-webs, so we won’t repeat it here.
 
-[^1]: Thanks to the good folks at [Red Eye USA](https://redeyeusa.com/){target=_blank rel="external noopener"} and tour manager <span class="h-card p-name">Jonny Ver Planck</span> (he’s also Goddamn Gallows’ manager) for granting us full access during the show.
+[^1]: Thanks to the good folks at [Red Eye USA](https://www.redeyeworldwide.com/){target=_blank rel="external noopener"} and tour manager <span class="h-card p-name">Jonny Ver Planck</span> (he’s also Goddamn Gallows’ manager) for granting us full access during the show.
 
 <mpb-dialog-img>
 

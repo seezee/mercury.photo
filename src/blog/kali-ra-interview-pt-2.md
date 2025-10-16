@@ -141,7 +141,7 @@ I don’t make music just to fill space; I actually have something I want to com
   David is a very intense and often mysterious person. We have been together for over eleven years now, and no one knows his dark side better than I do.
   <footer>
 
-  &mdash;&NoBreak;&hairsp;&NoBreak;<cite>[Alicia Goad](https://www.davidgoadmusic.com/bio.html){target=_blank rel="external noopener"}</cite>
+  &mdash;&NoBreak;&hairsp;&NoBreak;<cite>[Alicia Goad](http://www.davidgoadmusic.com/bio.html){target=_blank rel="external noopener"}</cite>
   </footer></blockquote>
 
 ### One: His Arms Are Tigers
@@ -184,7 +184,7 @@ Word got out that David has no qualms [about] doing disturbing things for the pu
 
 David’s character was “Naked, quacking man.” His job was to spout a bunch of craziness, quack, and then smoke from a pipe&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;naked. I held the robe, to decrease the chance of him getting arrested for public indecency during rush hour in Yukon.
 
-Most recently, David was cast in a movie by [<span class="h-card p-name">James Brittain</span>](https://www.brittainfilms.com){target=_blank rel="external noopener"}, where he plays a male prostitute. I told him these are the only rôles he’s going to get now, and asked him if he worries about being pigeon-holed.
+Most recently, David was cast in a movie by [<span class="h-card p-name">James Brittain</span>](https://www.youtube.com/@JamesWBrittain){target=_blank rel="external noopener"}, where he plays a male prostitute. I told him these are the only rôles he’s going to get now, and asked him if he worries about being pigeon-holed.
 
 ### Five: He’s Not Afraid to Disturb Rednecks
 
