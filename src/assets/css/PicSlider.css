@@ -85,6 +85,7 @@ input.picslider {
   top: 50%;
   left: var(--position);
   transform: translate(-50%, -50%);
+  width: 50px;
   pointer-events: none;
   background-color: transparent;
   box-shadow: 1px 1px 1px oklch(var(--mpb-c-p-800) / .5);
