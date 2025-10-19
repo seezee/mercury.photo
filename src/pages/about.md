@@ -16,7 +16,7 @@ My brief life as a photographer
   </stack-l>
 </hgroup>
 
-My name is <span class="h-card"><span class="p-given-name">[Chris J. Zähller](https://chris.zahller.me/){target=_blank rel="external me noopener"}</span></span>, <a href="#mn:1" id="mnref:1"><span class="sr-only"> [See note]</span></a> and my first camera was a mail-order Kodak 110 Instamatic pocket film camera with a “stick” flash purchased by saving proofs-of-purchase from my mom’s feminine hygiene products. My 2<sup>nd</sup> camera was my mom’s hand-me-down Polaroid Land camera. I used a film SLR for a class assignment in the early 1980s, then didn’t pick up another camera for a decade-and-a-half when I bought a Canon Elph <abbr title="Advanced Photo System">APS</abbr> camera in the 1990s.{.drop-cap}
+My name is <span class="h-card"><span class="p-given-name">[Chris J. Zähller](https://chris.zahller.me/){target=_blank rel="external me noopener"}</span></span>, <a href="#mn:1" id="mnref:1"><span class="sr-only"> [See note]</span></a> and my first camera was a mail-order [Kodak Instamatic](https://camera-wiki.org/wiki/Instamatic#110_pocket_cassette_film){target=_blank rel="external noopener"} pocket film camera with a “stick” flash, purchased by saving proofs-of-purchase from my mom’s feminine hygiene products. My second camera was my mom’s hand-me-down Polaroid Land camera. I used a film SLR for a class assignment in the early 1980s, then didn’t pick up another camera for a decade-and-a-half when I bought a [Canon Elph](https://camera-wiki.org/wiki/Canon_IXUS){target=_blank rel="external noopener"} <abbr title="Advanced Photo System">APS</abbr> camera in the 1990s.{.drop-cap}
 
 After that, I inherited a couple of [my brother’s](https://www.facebook.com/musicsantacruz){target=_blank rel="external noopener"} cast-off digital point & shoots. They were okay, but nothing about them made me want to spend my vacation with a camera in front of my face when I could just be enjoying the sights unencumbered. Then something happened … to find out what, [read my first essay](/blog/circle-confusion-pt-1/).
 
@@ -39,3 +39,13 @@ ___
   Mercury Photo Bureau publishes photo essays on a variety of subjects including the arts, politics, and news. We publish on an irregular schedule, so if you’d like to be notified when there’s a new article, [please subscribe to our newsletter](/contact/newsletter) or [our RSS feed](/rss.xml).
   </stack-l>
 </footer>
+
+### Colophon
+
+This site was hand-coded with the static site generator [Eleventy](https://www.11ty.dev/){target=_blank rel="external noopener"} on a foundation of HTML, MarkDown, CSS, JavaScript, and Nunjucks.
+
+The body copy is set in [Merriweather](https://github.com/SorkinType/Merriweather){target=_blank rel="external noopener"}, a typeface designed by Eben Sorkin and released in <time time="2010">2010</time>. Sorkin describes the typeface as offering a Renaissance warmth while using space-saving proportions.
+
+Headings are set in [Playfair Display](https://github.com/clauseggers/Playfair-Display){target=_blank rel="external noopener"}, a transitional typeface designed by Claus Eggers Sørensen and released in <time time="2010">2011</time>. According to Sørensen, the typeface <q>takes influence from the designs of John Baskerville and from ‘Scotch Roman’ designs.</q>
+
+Page elements such as navigation and microcopy are set in [Merriweather Sans](https://github.com/SorkinType/Merriweather-Sans){target=_blank rel="external noopener"}, also designed by Sorkin. The rare instances of monospaced type are set in [Cousine](https://fonts.google.com/specimen/Cousine?query=cousine){target=_blank rel="external noopener"}, designed by Steve Matteson.

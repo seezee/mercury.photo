@@ -1,7 +1,6 @@
 `use strict`;
 
 const browserslist                     = require('browserslist');
-// const dotenv                           = require('dotenv').config();
 const eleventyAutoCacheBuster          = require('eleventy-auto-cache-buster');
 const eleventyPluginFilesMinifier      = require('@codestitchofficial/eleventy-plugin-minify');
 const esbuild                          = require('esbuild');
