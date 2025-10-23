@@ -520,7 +520,6 @@ select {
     &[type="radio"] {
       min-inline-size: initial;
     }
-
   }
 
   font-family: var(--mpb-font-mono);

@@ -13,7 +13,7 @@ export default class ThemeSwitcher extends HTMLElement {
    * Call this method when the element is added to the document
    */
   connectedCallback() {
-    let themeAttr = document.documentElement.getAttribute(`data-theme`);
+    const themeAttr = document.documentElement.getAttribute(`data-theme`);
     let themeMessage;
     let themeValue;
     let themeStatus;
@@ -41,12 +41,12 @@ export default class ThemeSwitcher extends HTMLElement {
 
   // Create the click handler
 	handleEvent () {
-    let themeAttr          = document.documentElement.getAttribute(`data-theme`);
+    const themeAttr        = document.documentElement.getAttribute(`data-theme`);
     let dataTheme;
     const themeButton      = document.getElementById(`theme-toggle`);
-    let buttonTitle        = themeButton.getAttribute(`title`);
-    let themeVal           = document.getElementById(`theme-value`);
-    let themeStatus        = document.getElementById(`theme-status`);
+    //   let buttonTitle        = themeButton.getAttribute(`title`);
+    const themeVal         = document.getElementById(`theme-value`);
+    const themeStatus      = document.getElementById(`theme-status`);
 
 
     if ( themeAttr !== `dark` ) {

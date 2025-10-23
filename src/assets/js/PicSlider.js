@@ -168,12 +168,11 @@ export default class picSlider extends HTMLElement {
     sliderButton.append(sliderIcon);
 
     // Listen for the changes to the range input.
-    document.querySelector(`.picslider`).addEventListener(`input`, (e) => {
+    picslider.addEventListener(`input`, (e) => {
       container.style.setProperty(`--position`, `${e.target.value}%`);
       this.querySelector(`.picslider-value`).setAttribute(`value`, `${e.target.value}%`);
       this.querySelector(`.picslider-value`).innerText = `${e.target.value}%`;
-    })
-
+    });
   }
 }
 

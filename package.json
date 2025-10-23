@@ -1,8 +1,11 @@
 {
   "name": "mercury.photo",
-  "version": "1.0.253",
+  "version": "1.0.254",
   "description": "Rangefinder + Mirrorless Digital + Large Format Film Photography + Music, Arts, & News",
   "main": "index.js",
+  "bugs": {
+    "url": "https://github.com/seezee/mercury.photo/issues"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "11ty:watch": "npx @11ty/eleventy --watch --quiet --ignore-initial",
