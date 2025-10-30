@@ -45,7 +45,7 @@ The audience were frequently enlisted as performers. With their simple lyrics, e
 
 Plan to catch them at their [upcoming shows](https://www.songkick.com/artists/444120){target=_blank rel="external noopener"}: This is Kotaro Tsukada (Peelander Red)’s last tour before he retires to teach at [Ninja High School](https://www.youtube.com/watch?v=O3y2N1dyI4c&amp;feature=youtu.be){target=_blank rel="external noopener"}.
 
-Thanks to <span class="h-card p-name">Christopher Moon</span> at [Anhedonia Management](https://anhedoniamgmt.com/){target=_blank rel="external noopener"} and <span class="h-card p-name">Josh Bloom</span> at [Fanatic Promotion](https://www.fanaticpromotion.com/){target=_blank rel="external noopener"} for arranging the interview and allowing us to photograph the show.
+Thanks to <span class="h-card p-name">Christopher Moon</span> at Anhedonia Management and <span class="h-card p-name">Josh Bloom</span> at [Fanatic Promotion](https://www.fanaticpromotion.com/){target=_blank rel="external noopener"} for arranging the interview and allowing us to photograph the show.
 
 ## Interview: Kengo Hioki (Peelander Yellow)
 
