@@ -182,42 +182,42 @@
   {% elif review %}
     {{ review | safe }}
   {% endif %}
-  {%- if '/blog/' in page.url -%}
+  {% if '/blog/' in page.url %}
     {% if not '/tags/' in page.url %}
       {% if not index  %}
-        <script type="application/ld+json">
-          {
-            "@context": "http://schema.org/",
-            "@type": "Article",
-            "author": {
-              "@type": "Person",
-              "name": "{{ _AUTHOR_ }}"
-            },
-            "publisher": {
-              "@type": "Organization",
-              "name": "{{ _SITENAME_ }}",
-              "logo": {
-                "@type": "ImageObject",
-                "url": "{{ _SITEURL_ }}/assets/images/site/mpb-logo.webp"
-              }
-            },
-          {% if title %}
-            "headline": "{{ title }}",
-          {% endif %}
-          {% if image %}
-            "image": "{{ _SITEURL_ }}/{{ image }}",
-          {% else %}
-            "image": "{{ _SITEURL_ }}/assets/images/site/mpb-logo.webp",
-          {% endif %}
-          {% if pubdate %}
-            "datePublished": "{{ pubdate | toISOString | safe }}",
-          {% else %}
-            "datePublished": "{{ page.date | toISOString | safe }}",
-          {% endif %}
-            "dateModified": "{{ page.date | toISOString | safe }}"
-          }
-        </script>
+<script type="application/ld+json">
+  {
+    "@context": "http://schema.org/",
+    "@type": "Article",
+    "author": {
+      "@type": "Person",
+      "name": "{{ _AUTHOR_ }}"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "{{ _SITENAME_ }}",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "{{ _SITEURL_ }}/assets/images/site/mpb-logo.webp"
+      }
+    },
+        {% if title %}
+    "headline": "{{ title }}",
+        {% endif %}
+        {% if image %}
+    "image": "{{ _SITEURL_ }}/{{ image }}",
+        {% else %}
+    "image": "{{ _SITEURL_ }}/assets/images/site/mpb-logo.webp",
+        {% endif %}
+        {% if pubdate %}
+    "datePublished": "{{ pubdate | toISOString | safe }}",
+        {% else %}
+    "datePublished": "{{ page.date | toISOString | safe }}",
+        {% endif %}
+    "dateModified": "{{ page.date | toISOString | safe }}"
+  }
+</script>
       {% endif %}
     {% endif %}
-  {%- endif -%}
+  {% endif %}
 </head>
