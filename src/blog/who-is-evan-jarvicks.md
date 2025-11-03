@@ -39,9 +39,9 @@ excerpt: Jarvix. The man. The musician. The mystery. Evan Jarvicks came by the s
 
 <span class="spkr">MPB</span> This is not part of the <cite>[Fright Night Club](https://frightnightclub.bandcamp.com/){target=_blank rel="external noopener"}</cite> series?[^3]
 
-<span class="h-card p-nickname spkr">Jarvix</span> No, but it is part of the Larry Chin project. Kyle wrote many, but not all, of the songs on the album. It’s a collaboration. I play French Horn on one track and I have an electronic track I wrote and play on too. It features some woozy Theremin in the background. Kyle took what I laid down and added over it.
+[^3]: The <cite>Fright Night Club</cite> series is a collaboration among various musicians, many from Oklahoma.
 
-[^3]: The <cite>Fright Night Club</cite> series is also a collaboration among various musicians, many from Oklahoma.
+<span class="h-card p-nickname spkr">Jarvix</span> No, but it is part of the Larry Chin project. Kyle wrote many, but not all, of the songs on the album. It’s a collaboration. I play French Horn on one track and I have an electronic track I wrote and play on too. It features some woozy Theremin in the background. Kyle took what I laid down and added over it.
 
 <span class="spkr">MPB</span> Is it a real Theremin?
 
