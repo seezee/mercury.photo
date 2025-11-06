@@ -1,4 +1,5 @@
 # Cloudflare redirects (see https://developers.cloudflare.com/workers/static-assets/redirects/)
+https://www.* https://${1}
 /legal-folderol/terms-of-use/ /legal/terms-of-use/
 /legal-folderol/privacy/ /legal/privacy/
 /3-score-times-around-the-sun/ /blog/3-score-times-around-the-sun/
