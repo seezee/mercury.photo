@@ -42,7 +42,7 @@ ___
 
 ### Colophon
 
-This site was hand-coded with the static site generator [Eleventy](https://www.11ty.dev/){target=_blank rel="external noopener"} on a foundation of HTML, CSS, JavaScript. It was mostly authored in Markdown and the site templates make liberal use of Nunjucks.
+This site was hand-coded with the static site generator [Eleventy](https://www.11ty.dev/){target=_blank rel="external noopener"} on a foundation of HTML, CSS, and JavaScript. It was mostly authored in Markdown. The site templates make liberal use of Nunjucks.
 
 The body copy is set in [Merriweather](https://github.com/SorkinType/Merriweather){target=_blank rel="external noopener"}, a typeface designed by Eben Sorkin and released in <time time="2010">2010</time>. Sorkin describes the typeface as offering a Renaissance warmth while using space-saving proportions.
 
