@@ -16,9 +16,9 @@ My brief life as a photographer
   </stack-l>
 </hgroup>
 
-My name is <span class="h-card"><span class="p-given-name">[Chris J. Zähller](https://chris.zahller.me/){target=_blank rel="external me noopener"}</span></span>, <a href="#mn:1" id="mnref:1"><span class="sr-only"> [See note]</span></a> and my first camera was a mail-order [Kodak Instamatic](https://camera-wiki.org/wiki/Instamatic#110_pocket_cassette_film){target=_blank rel="external noopener"} pocket film camera with a “stick” flash, purchased by saving proofs-of-purchase from my mom’s feminine hygiene products. My second camera was my mom’s hand-me-down Polaroid Land camera. I used a film SLR for a class assignment in the early 1980s, then didn’t pick up another camera for a decade-and-a-half when I bought a [Canon Elph](https://camera-wiki.org/wiki/Canon_IXUS){target=_blank rel="external noopener"} <abbr title="Advanced Photo System">APS</abbr> camera in the 1990s.{.drop-cap}
+My name is <span class="h-card"><span class="p-given-name">[Chris J. Zähller](https://chris.zahller.me/){target=_blank rel="external me noopener"}</span></span>, <a href="#mn:1" id="mnref:1"><span class="sr-only"> [See note]</span></a> and my first camera was a mail-order [Kodak Instamatic](https://camera-wiki.org/wiki/Instamatic#110_pocket_cassette_film){target=_blank rel="external noopener"} pocket film camera with a “stick” flash, purchased by saving proofs-of-purchase from my mom’s feminine hygiene products. My second camera was my mom’s hand-me-down [Polaroid Land](https://en.wikipedia.org/wiki/Land_Camera){target=_blank rel="external noopener"} camera. I used a film SLR for a class assignment in the early 1980s. After that I didn’t pick up another camera for a decade-and-a-half, when I bought a [Canon Elph](https://camera-wiki.org/wiki/Canon_IXUS){target=_blank rel="external noopener"} <abbr title="Advanced Photo System">APS</abbr> camera in the 1990s.{.drop-cap}
 
-After that, I inherited a couple of [my brother’s](https://www.facebook.com/musicsantacruz){target=_blank rel="external noopener"} cast-off digital point & shoots. They were okay, but nothing about them made me want to spend my vacation with a camera in front of my face when I could just be enjoying the sights unencumbered. Then something happened … to find out what, [read my first essay](/blog/circle-confusion-pt-1/).
+After that, I inherited a couple of [my brother’s](https://www.facebook.com/musicsantacruz){target=_blank rel="external noopener"} cast-off digital point & shoots. They were okay, but nothing about them made me want to spend my vacation with a camera in front of my face instead of enjoying the sights unencumbered. Then something happened&nbsp;…&nbsp;to find out what, [read my first essay](/blog/circle-confusion-pt-1/).
 
 <footer aria-labelledby="#label-margin-notes">
   <span class="sr-only" id="label-margin-notes">Notes</span>
@@ -33,7 +33,7 @@ After that, I inherited a couple of [my brother’s](https://www.facebook.com/mu
   <stack-l>
 
 ___
-  
+
 ## What’s This Site About?
 
   Mercury Photo Bureau publishes photo essays on a variety of subjects including the arts, politics, and news. We publish on an irregular schedule, so if you’d like to be notified when there’s a new article, [please subscribe to our newsletter](/contact/newsletter) or [our RSS feed](/rss.xml).
@@ -42,7 +42,7 @@ ___
 
 ### Colophon
 
-This site was hand-coded with the static site generator [Eleventy](https://www.11ty.dev/){target=_blank rel="external noopener"} on a foundation of HTML, MarkDown, CSS, JavaScript, and Nunjucks.
+This site was hand-coded with the static site generator [Eleventy](https://www.11ty.dev/){target=_blank rel="external noopener"} on a foundation of HTML, CSS, JavaScript. It was mostly authored in Markdown and the site templates make liberal use of Nunjucks.
 
 The body copy is set in [Merriweather](https://github.com/SorkinType/Merriweather){target=_blank rel="external noopener"}, a typeface designed by Eben Sorkin and released in <time time="2010">2010</time>. Sorkin describes the typeface as offering a Renaissance warmth while using space-saving proportions.
 
