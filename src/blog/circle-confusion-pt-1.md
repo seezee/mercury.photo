@@ -21,9 +21,9 @@ excerpt: My best friend Joe Crumley is an interesting character.
 {% image "./src/assets/images/blog/2012-07-17-circle-confusion-1/czahller-20120324-19-23-43.jpg", "img-constrained", "Joe, a slight, older man with fine white hair & eyeglasses, holding a black-painted Leica rangefinder camera. The image is monochrome with blue & green split-toning.", "Joe Crumley with his trusty Leica M4-P." %}</mpb-dialog-img>
 
 <figure>
-
-Dedicated to the memory of Joseph W. Crumley, Jr., <span class="small-caps">b</span>. <time datetime="1940-04-10">10 April 1940</time>&NoBreak;&hairsp;&NoBreak;&ndash;&NoBreak;&hairsp;&NoBreak;<span class="small-caps">d</span>. <time datetime="2021-11-30">30 November 2021</time>.
   <figcaption>Dedication</figcaption>
+
+To the memory of Joseph W. Crumley, Jr., <span class="small-caps">b</span>. <time datetime="1940-04-10">10 April 1940</time>&NoBreak;&hairsp;&NoBreak;&ndash;&NoBreak;&hairsp;&NoBreak;<span class="small-caps">d</span>. <time datetime="2021-11-30">30 November 2021</time>.
 </figure>
 
 My best friend <span class="h-card p-name">Joe Crumley</span> is an interesting character. He grew up on a farm in west Texas, rode motorcycles from an early age, served his country in Southeast Asia during a shooting war, studied at the <span class="h-card p-org">University of Chicago</span> with [<span class="h-card p-name">Aaron Siskind</span>](https://www.aaronsiskind.org/){target=_blank rel="noopener noreferrer"}, founded and taught at the photography program at Florida’s <span class="h-card p-org">Daytona State College</span>, turned a job making screen-printed faces for oilfield gauges into a vocation as one of the U.S.A.’s premier [sign craftsmen](https://www.talkshopbot.com/forum/showthread.php?t=14882){target="_blank" rel="external noopener noreferrer"}, and helped to found the [<span class="h-card p-org">Letterheads</span>](https://www.theletterheads.com){target=_blank rel="noopener noreferrer"} along the way.[^1]

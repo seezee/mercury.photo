@@ -1,6 +1,6 @@
 {
   "name": "mercury.photo",
-  "version": "1.0.262",
+  "version": "1.0.263",
   "description": "Rangefinder + Mirrorless Digital + Large Format Film Photography + Music, Arts, & News",
   "main": "index.js",
   "bugs": {
@@ -34,12 +34,12 @@
   },
   "devDependencies": {
     "@codestitchofficial/eleventy-plugin-minify": "^1.1.3",
-    "@types/node": "^24.9.2",
-    "@x-govuk/govuk-eleventy-plugin": "^8.1.0",
+    "@types/node": "^24.10.0",
+    "@x-govuk/govuk-eleventy-plugin": "^8.1.1",
     "browserslist": "^4.27.0",
     "date-fns": "^4.1.0",
-    "eleventy-auto-cache-buster": "^0.8.1",
-    "esbuild": "^0.25.11",
+    "eleventy-auto-cache-buster": "^0.8.2",
+    "esbuild": "^0.25.12",
     "esbuild-plugin-browserslist": "^1.0.2",
     "markdown-it": "^14.1.0",
     "markdown-it-anchor": "^9.2.0",
@@ -48,9 +48,9 @@
     "outdent": "^0.8.0",
     "pagefind": "^1.4.0",
     "rimraf": "^6.1.0",
-    "terser": "^5.44.0",
+    "terser": "^5.44.1",
     "typescript": "^5.9.3",
-    "wrangler": "^4.45.3"
+    "wrangler": "^4.46.0"
   },
   "browserslist": {
     "production": [
