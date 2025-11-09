@@ -722,6 +722,7 @@ hgroup h1 + p {
   content: '';
   background: var(--mpb-icon-stickynote) no-repeat;
   line-height: 1;
+  vertical-align:middle;
 }
 
 @media screen and (min-width: 64rem) {
@@ -781,7 +782,7 @@ hgroup h1 + p {
   #fn\:1 {
     position-anchor: --fn-1;
     /* inset-block-start: calc(anchor(start) - var(--s1)); /* Incompatible with css-anchor-positioning polyfill */
-    top: calc(anchor(start) - var(--s1));
+    top: calc(anchor(start));
   }
 
   #fn\:2 {
@@ -867,7 +868,7 @@ hgroup h1 + p {
   #mn\:1 {
     position-anchor: --mn-1;
     /* inset-block-start: calc(anchor(start) - var(--s1)); /* Incompatible with css-anchor-positioning polyfill */
-    top: calc(anchor(start) - var(--s1));
+    top: calc(anchor(start));
   }
 
   #mn\:2 {
