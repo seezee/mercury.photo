@@ -72,7 +72,7 @@ function moveFootnote() {
             flexItem.classList.remove(itemWrappedClass);
             if(links.length) {
               for (link of links)
-                link.setAttribute(`class`, `sr-only`);
+                link.classList.add(`sr-only`);
             };
           }
         }

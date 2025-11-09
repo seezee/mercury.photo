@@ -6,10 +6,11 @@
     "title": "Mercury Photo Bureau",
     "description": "Rangefinder + Mirrorless + Digital + Large Format Film Photography, Music, Arts, &amp; News",
     "language": "en-US",
-    "base": "https://mercury.photo/",
+    "base": "https://mercury.photo",
     "author": {
       "name": "Chris J. Zähller"
-    }
+    },
+    "siteImage": "assets/images/site/mpb-logo.png"
   }
 }
 ---
@@ -22,9 +23,9 @@
     <description><![CDATA[{{ metadata.description }}]]></description>
     <language>{{ metadata.language or page.lang }}</language>
     <category>Photography, Blog</category>
-    <copyright>Copyright © 2012{{ helpers.currentYearRSS() | safe }} Chris J. Zähller. All rights reserved.</copyright>
+    <copyright>Copyright © 2012{{ helpers.currentYearRSS() | safe }} {{ metadata.author.name }}. All rights reserved.</copyright>
     <image>
-      <url>https://mercury.photo/assets/images/site/mpb-logo.png</url>
+      <url>{{ metadata.base | addPathPrefixToFullUrl }}{{ metadata.siteImage }}</url>
       <title><![CDATA[{{ metadata.title }}]]></title>
       <link>{{ metadata.base | addPathPrefixToFullUrl }}</link>
       <description><![CDATA[{{ metadata.description }}]]></description>
@@ -41,7 +42,7 @@
       <lastBuildDate>{{ post.date | dateToRfc822 }}</lastBuildDate>
       <dc:creator>{{ metadata.author.name }}</dc:creator>
       <guid>{{ absolutePostUrl }}</guid>
-      <enclosure url="https://mercury.photo/{{ post.data.image }}" length="{{ post.data.image | getImgSizeInBytes }}" type="image/jpeg" />
+      <enclosure url="{{ metadata.base | htmlBaseUrl(metadata.base) }}{{ post.data.image }}" length="{{ post.data.image | getImgSizeInBytes }}" type="image/jpeg" />
     </item>
     {%- endfor %}
   </channel>

@@ -736,7 +736,7 @@ hgroup h1 + p {
     }
   }
 
-  [id^="mnref\:"]::after {
+  [id^="mnref\:"]:not(.test)::after {
     &:not(:focus-visible) {
       position: absolute;
       display: inline-block;
@@ -765,7 +765,7 @@ hgroup h1 + p {
     bottom: auto;
     anchor-name: --sidenote;
     /* inset-block-start: max(anchor(start) , calc(anchor(--sidenote bottom) + var(--s1))); /* Incompatible with css-anchor-positioning polyfill */
-    top: max(anchor(start) , calc(anchor(--sidenote bottom) + var(--s1)));
+    top: max(anchor(start), calc(anchor(--sidenote bottom) + var(--s1)));
 
     @supports (anchor-name: --sidenote) {
       position: absolute;

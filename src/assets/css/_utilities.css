@@ -43,7 +43,7 @@
 }
 
 /* .sr-only, .govuk-visually-hidden */
-.sr-only,
+.sr-only:not(.test),
 .govuk-visually-hidden {
 
   &:not(:focus-visible):not(:active) {

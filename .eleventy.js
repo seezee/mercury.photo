@@ -39,6 +39,7 @@ const siteURL    = `https://mercury.photo`;
 const siteAuthor = `Chris J. Zähller`;
 const siteName   = `Mercury Photo Bureau`;
 const siteDesc   = `Rangefinder + Mirrorless Digital + Large Format Film Photography + Music, Arts, & News`;
+``
 
 // For Markdown attributes
 const markdownItOptions = {
@@ -219,7 +220,7 @@ module.exports = async function(eleventyConfig) {
 
   // SEO
   eleventyConfig.addPlugin(pluginSEO, {
-    title: `Mercury Photo Bureau`,
+    title: siteName,
     description: siteDesc,
     url: siteURL,
     author: siteAuthor,
@@ -243,8 +244,8 @@ module.exports = async function(eleventyConfig) {
 		},
     metadata: {
 			language: `en-US`,
-			title: `Mercury Photo Bureau`,
-			subtitle: `Rangefinder + Mirrorless Digital + Large Format Film Photography + Music, Arts, &amp; News`,
+			title: siteName,
+			subtitle: siteDesc,
 			base: siteURL + `/`,
 			author: {
 				name: siteAuthor
