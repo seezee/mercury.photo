@@ -4,9 +4,9 @@
   "eleventyExcludeFromCollections": true,
   "metadata": {
     "title": "Mercury Photo Bureau",
-    "description": "Rangefinder + Mirrorless + Digital + Large Format Film Photography, Music, Arts, &amp; News",
+    "description": "Rangefinder + Mirrorless + Digital + Large Format Film Photography, Music, Arts, & News",
     "language": "en-US",
-    "base": "https://mercury.photo",
+    "base": "https://mercury.photo/",
     "author": {
       "name": "Chris J. Zähller"
     },
@@ -15,19 +15,23 @@
 }
 ---
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xml:base="{{ metadata.base | addPathPrefixToFullUrl }}" xmlns:atom="https://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xml:base="{{ metadata.base }}">
   <channel>
-    <title><![CDATA[{{ metadata.title }}]]></title>
-    <link>{{ metadata.base | addPathPrefixToFullUrl }}</link>
-    <atom:link href="{{ permalink | htmlBaseUrl(metadata.base) }}" rel="self" type="application/rss+xml" />
+    <title>{{ metadata.title }}</title>
+    <link>{{ metadata.base }}</link>
+    <atom:link href="{{ metadata.base }}{{ permalink }}" hreflang="en-US" rel="self" type="application/rss+xml" />
     <description><![CDATA[{{ metadata.description }}]]></description>
     <language>{{ metadata.language or page.lang }}</language>
-    <category>Photography, Blog</category>
+    <category>Photography</category>
+    <category>Blog</category>
+    <docs>https://www.rssboard.org/rss-specification</docs>
+    <dc:publisher>{{ metadata.author.name }} | {{ metadata.title }}</dc:publisher>
     <copyright>Copyright © 2012{{ helpers.currentYearRSS() | safe }} {{ metadata.author.name }}. All rights reserved.</copyright>
+    <lastBuildDate>{%- for post in collections.blog.slice(-1) %}{{ post.data.pubdate | dateToRfc822 }}{%- endfor %}</lastBuildDate>
     <image>
-      <url>{{ metadata.base | addPathPrefixToFullUrl }}{{ metadata.siteImage }}</url>
-      <title><![CDATA[{{ metadata.title }}]]></title>
-      <link>{{ metadata.base | addPathPrefixToFullUrl }}</link>
+      <url>{{ metadata.base }}{{ metadata.siteImage }}</url>
+      <title>{{ metadata.title }}</title>
+      <link>{{ metadata.base }}</link>
       <description><![CDATA[{{ metadata.description }}]]></description>
       <width>144</width>
       <height>144</height>
@@ -35,14 +39,13 @@
     {%- for post in collections.blog | sortByPubDate | reverse %}
     {%- set absolutePostUrl = post.url | htmlBaseUrl(metadata.base) %}
     <item>
-      <title><![CDATA[{{ post.data.title }}]]></title>
+      <title><![CDATA[{{ post.data.title | replace("&amp;", "&") | replace("&mdash;", "—") | replace("&NoBreak;", "") | replace("&hairsp;", "") }}]]></title>
       <link>{{ absolutePostUrl }}</link>
-      <description><![CDATA[{{ post.data.excerpt }}]]></description>
+      <description><![CDATA[{{ post.data.excerpt | replace("&amp;", "&") | replace("&mdash;", "—") | replace("&NoBreak;", "") }}]]></description>
       <pubDate>{{ post.data.pubdate | dateToRfc822 }}</pubDate>
-      <lastBuildDate>{{ post.date | dateToRfc822 }}</lastBuildDate>
       <dc:creator>{{ metadata.author.name }}</dc:creator>
       <guid>{{ absolutePostUrl }}</guid>
-      <enclosure url="{{ metadata.base | htmlBaseUrl(metadata.base) }}{{ post.data.image }}" length="{{ post.data.image | getImgSizeInBytes }}" type="image/jpeg" />
+      <enclosure {% filter replace("?v=cb41ee4bb738", "") %}url="{{ metadata.base | htmlBaseUrl(metadata.base) }}{{ post.data.image }}"{% endfilter %} length="{{ post.data.image | getImgSizeInBytes }}" type="image/jpeg" />
     </item>
     {%- endfor %}
   </channel>

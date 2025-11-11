@@ -320,7 +320,8 @@ module.exports = async function(eleventyConfig) {
 
   // Cache busting
   eleventyConfig.addPlugin(eleventyAutoCacheBuster, {
-    globstring: `**/*.{css,js,png,jpg,jpeg,gif,webp,svg,mp4,ico}`
+    globstring: `**/*.{css,js,png,jpg,jpeg,gif,webp,svg,mp4,ico}`,
+    globOptions: {nodir: true, ignore: [`rss.xml`, `feed.xml`, `test.xml`]}
   });
 
   eleventyConfig.addPlugin(govukEleventyPlugin, {
