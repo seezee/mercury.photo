@@ -745,11 +745,6 @@ img[src$='.svg'] { /* Let SVG scale without boundaries */
   max-inline-size: none;
 }
 
-/* svg:not(#mpb-lettermark):not(#mpb-logo):not(#mpb-mask-icon):not(#noscript-icon):not(.submenu-indicator):not(#arrow-up):not(.accent),
-svg:not(#mpb-lettermark):not(#mpb-logo):not(#mpb-mask-icon):not(#noscript-icon):not(.submenu-indicator):not(#arrow-up):not(.accent) path {
-  fill: var(--mpb-color-textPrimary);
-} */
-
 svg.accent path {
   fill: var(--mpb-color-accent);
 }
