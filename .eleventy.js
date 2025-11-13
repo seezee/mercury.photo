@@ -333,7 +333,7 @@ module.exports = async function(eleventyConfig) {
   });
 
   // HTML minification
-  async function do_minifyhtml(source, output_path) {
+/*   async function do_minifyhtml(source, output_path) {
       if(!output_path.endsWith(".html") || !is_production) return source;
 
       const result = await htmlmin(source, {
@@ -358,7 +358,7 @@ module.exports = async function(eleventyConfig) {
       return result;
   }
 
-  eleventyConfig.addTransform(`htmlmin`, do_minifyhtml);
+  eleventyConfig.addTransform(`htmlmin`, do_minifyhtml); */
 
   // JS  & CSS bundling, tree-shaking, & minification
   eleventyConfig.on(`eleventy.before`, async () => {
