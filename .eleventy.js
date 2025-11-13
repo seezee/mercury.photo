@@ -8,7 +8,7 @@ const { format }                       = require('date-fns/format');
 const { govukEleventyPlugin }          = require('@x-govuk/govuk-eleventy-plugin');
 const { minify: htmlmin }              = require(`html-minifier-terser`);
 const Image                            = require('@11ty/eleventy-img');
-const is_production                    = typeof process.env.NODE_ENV === "string" && process.env.NODE_ENV === "production";
+const is_production                    = typeof process.env.ELEVENTY_ENV === "string" && process.env.ELEVENTY_ENV === "production";
 // const { eleventyImageTransformPlugin } = require('@11ty/eleventy-img');
 const markdownIt                       = require('markdown-it');
 const markdownItAnchor                 = require('markdown-it-anchor');
