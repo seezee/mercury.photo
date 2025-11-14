@@ -2,15 +2,16 @@
 
 const browserslist                     = require('browserslist');
 const eleventyAutoCacheBuster          = require('eleventy-auto-cache-buster');
+const eleventyPluginFilesMinifier      = require('@codestitchofficial/eleventy-plugin-minify');
 const esbuild                          = require('esbuild');
+const { execSync }                     = require('child_process')
 const { feedPlugin }                   = require('@11ty/eleventy-plugin-rss');
 const { format }                       = require('date-fns/format');
 const { govukEleventyPlugin }          = require('@x-govuk/govuk-eleventy-plugin');
-const { minify: htmlmin }              = require(`html-minifier-terser`);
 const Image                            = require('@11ty/eleventy-img');
 const is_production                    = typeof process.env.ELEVENTY_ENV === "string" && process.env.ELEVENTY_ENV === "production";
 // const { eleventyImageTransformPlugin } = require('@11ty/eleventy-img');
-const markdownIt                       = require('markdown-it');
+const markdownIt                          = require('markdown-it');
 const markdownItAnchor                 = require('markdown-it-anchor');
 const markdownItAttrs                  = require('markdown-it-attrs');
 const { minify }                       = require('terser');
@@ -80,26 +81,26 @@ module.exports = async function(eleventyConfig) {
   eleventyConfig.addNunjucksGlobal(`_SITEDESC`, siteDesc);
 
   // Pagefind config; runs AFTER build
-  eleventyConfig.on(`eleventy.after`, async function ({ dir }) {
-    if ( is_production ) {
-    const inputPath = dir.output;
-    const outputPath = path.join(dir.output, `pagefind`);
+  if ( is_production ) {
+    eleventyConfig.on(`eleventy.after`, async function ({ dir }) {
+      const inputPath = dir.output;
+      const outputPath = path.join(dir.output, `pagefind`);
 
-    console.log(`Creating Pagefind index of %s`, inputPath);
+      console.log(`Creating Pagefind index of %s`, inputPath);
 
-    const pagefind = await import(`pagefind`);
-    const { index } = await pagefind.createIndex();
-    const { page_count } = await index.addDirectory({ path: inputPath });
-    await index.writeFiles({ outputPath });
+      const pagefind = await import(`pagefind`);
+      const { index } = await pagefind.createIndex();
+      const { page_count } = await index.addDirectory({ path: inputPath });
+      await index.writeFiles({ outputPath });
 
-    console.log(
-      `Created Pagefind index of %i pages in %s`,
-      page_count,
-      outputPath
-    );
-    }
+      console.log(
+        `Created Pagefind index of %i pages in %s`,
+        page_count,
+        outputPath
+      );
+    })
     console.log(`ENV=DEV; not creating Pagefind index.`);
-  });
+  };
 
   // Require layout file extensions; see
   // https://www.11ty.dev/docs/layouts/#omitting-the-layouts-file-extension
@@ -221,6 +222,9 @@ module.exports = async function(eleventyConfig) {
     return outdent`${picture}`;
   };
 
+  // Register image shortcode
+  eleventyConfig.addNunjucksAsyncShortcode(`image`, imageShortcode);
+
   // SEO
   eleventyConfig.addPlugin(pluginSEO, {
     title: siteName,
@@ -303,7 +307,7 @@ module.exports = async function(eleventyConfig) {
     return metadata.svg[0].buffer.toString()
   });
 
-  // JS inline minfication
+  // JS inline minification
   eleventyConfig.addNunjucksAsyncFilter(`jsmin`, async function (
     code,
     callback
@@ -318,47 +322,22 @@ module.exports = async function(eleventyConfig) {
     }
   });
 
-  // Register image shortcode
-  eleventyConfig.addNunjucksAsyncShortcode(`image`, imageShortcode);
-
   // Cache busting
   eleventyConfig.addPlugin(eleventyAutoCacheBuster, {
-    extensions: [`css`, `js`, `png`, `jpg`, `jpeg`, `gif`, `webp`, `svg`, `mp4`, `ico` ]
+    globstring: `**/*.{css,js,png,jpg,jpeg,gif,webp,svg,mp4,ico}`,
+    globOptions: {nodir: true, ignore: [`rss.xml`, `feed.xml`, `test.xml`]}
   });
 
   eleventyConfig.addPlugin(govukEleventyPlugin, {
     markdown: {
-      headingPermalinks: true
+      headingPermalinks: true,
     }
   });
 
   // HTML minification
-/*   async function do_minifyhtml(source, output_path) {
-      if(!output_path.endsWith(".html") || !is_production) return source;
-
-      const result = await htmlmin(source, {
-          collapseBooleanAttributes: true,
-          collapseWhitespace: true,
-          continueOnParseError: true,
-          decodeEntities: true,
-          keepClosingSlash: true,
-          minifyCSS: true,
-          quoteCharacter: `"`,
-          removeComments: false,
-          removeAttributeQuotes: true,
-          removeRedundantAttributes: true,
-          removeScriptTypeAttributes: true,
-          removeStyleLinkTypeAttributes: true,
-          useShortDoctype: false,
-          caseSensitive: true
-      });
-
-      console.log(`MINIFY ${output_path}`, source.length, `→`, result.length, `(${((1 - (result.length / source.length)) * 100).toFixed(2)}% reduction)`);
-
-      return result;
-  }
-
-  eleventyConfig.addTransform(`htmlmin`, do_minifyhtml); */
+  if( is_production ) {
+    eleventyConfig.addPlugin(eleventyPluginFilesMinifier);
+  };
 
   // JS  & CSS bundling, tree-shaking, & minification
   eleventyConfig.on(`eleventy.before`, async () => {
