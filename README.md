@@ -2,12 +2,10 @@
 
 * Contributors: Chris J. Zähller (seezee)
 * Author URI: <https://github.com/seezee>
-* Version: 1.0.268
+* Version: 1.0.272
 * License: [Kelp Commons License](https://github.com/seezee/mercury.photo/blob/main/LICENSE)
 * License URI: <https://github.com/seezee/mercury.photo/blob/main/LICENSE>
 * tags: photography, music, journalism
-
-![GitHub Workflow Status](https://img.shields.io/github/workflow/status/seezee/mercury.photo/CI?label=build)
 
 <div style="text-align: center">
 
@@ -21,12 +19,12 @@ A site dedicated to photography, music, and news. Home of the OKIE-X portrait pr
 
 ## :notebook_with_decorative_cover: Table of Contents
 
-* [Mercury Photo Bureau](#mercury-photo-bureau)
-  * [:notebook\_with\_decorative\_cover: Table of Contents](#notebook_with_decorative_cover-table-of-contents)
-    * [:bulb: About the Project](#bulb-about-the-project)
-      * [Brand Mark](#brand-mark)
-    * [:pencil: License](#pencil-license)
-    * [:mailbox\_with\_mail: Contact](#mailbox_with_mail-contact)
+- [Mercury Photo Bureau](#mercury-photo-bureau)
+  - [:notebook\_with\_decorative\_cover: Table of Contents](#notebook_with_decorative_cover-table-of-contents)
+    - [:bulb: About the Project](#bulb-about-the-project)
+      - [Brand Mark](#brand-mark)
+    - [:pencil: License](#pencil-license)
+    - [:mailbox\_with\_mail: Contact](#mailbox_with_mail-contact)
 
 ### :bulb: About the Project
 
