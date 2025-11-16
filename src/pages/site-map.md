@@ -30,6 +30,9 @@ excerpt: Site map of mercury.photo
     <symbol id="icon-newspaper" viewbox="0 0 576 512">
       <path fill="var(--mpb-color-accent)" d="M552 64H88c-13.255 0-24 10.745-24 24v8H24c-13.255 0-24 10.745-24 24v272c0 30.928 25.072 56 56 56h472c26.51 0 48-21.49 48-48V88c0-13.255-10.745-24-24-24zM56 400a8 8 0 0 1-8-8V144h16v248a8 8 0 0 1-8 8zm236-16H140c-6.627 0-12-5.373-12-12v-8c0-6.627 5.373-12 12-12h152c6.627 0 12 5.373 12 12v8c0 6.627-5.373 12-12 12zm208 0H348c-6.627 0-12-5.373-12-12v-8c0-6.627 5.373-12 12-12h152c6.627 0 12 5.373 12 12v8c0 6.627-5.373 12-12 12zm-208-96H140c-6.627 0-12-5.373-12-12v-8c0-6.627 5.373-12 12-12h152c6.627 0 12 5.373 12 12v8c0 6.627-5.373 12-12 12zm208 0H348c-6.627 0-12-5.373-12-12v-8c0-6.627 5.373-12 12-12h152c6.627 0 12 5.373 12 12v8c0 6.627-5.373 12-12 12zm0-96H140c-6.627 0-12-5.373-12-12v-40c0-6.627 5.373-12 12-12h360c6.627 0 12 5.373 12 12v40c0 6.627-5.373 12-12 12z"/>
     </symbol>
+    <symbol id="icon-paragraph" viewBox="0 0 448 512">
+    <path fill="var(--mpb-color-accent)" d="M160 0C71.6 0 0 71.6 0 160S71.6 320 160 320l64 0 0 168c0 13.3 10.7 24 24 24s24-10.7 24-24l0-440 64 0 0 440c0 13.3 10.7 24 24 24s24-10.7 24-24l0-440 40 0c13.3 0 24-10.7 24-24S437.3 0 424 0L160 0zm64 48l0 224-64 0C98.1 272 48 221.9 48 160S98.1 48 160 48l64 0z"/>
+    </symbol>
     <symbol id="icon-pencil" viewBox="0 0 512 512">
       <path fill="var(--mpb-color-accent)" d="M497.9 142.1l-46.1 46.1c-4.7 4.7-12.3 4.7-17 0l-111-111c-4.7-4.7-4.7-12.3 0-17l46.1-46.1c18.7-18.7 49.1-18.7 67.9 0l60.1 60.1c18.8 18.7 18.8 49.1 0 67.9zM284.2 99.8L21.6 362.4.4 483.9c-2.9 16.4 11.4 30.6 27.8 27.8l121.5-21.3 262.6-262.6c4.7-4.7 4.7-12.3 0-17l-111-111c-4.8-4.7-12.4-4.7-17.1 0zM124.1 339.9c-5.5-5.5-5.5-14.3 0-19.8l154-154c5.5-5.5 14.3-5.5 19.8 0s5.5 14.3 0 19.8l-154 154c-5.5 5.5-14.3 5.5-19.8 0zM88 424h48v36.3l-64.5 11.3-31.1-31.1L51.7 376H88v48z"/>
     </symbol>
@@ -121,6 +124,7 @@ excerpt: Site map of mercury.photo
 
 * <icon-l class="bigger"><span class="with-icon icon-sprite"><svg><use xlink:href="#icon-comments"/></svg></span> [Comment Policy](/comment-policy/)</icon-l>
 * <icon-l class="bigger"><span class="with-icon icon-sprite"><svg><use xlink:href="#icon-rss"/></svg></span> [RSS Feed](/rss.xml)</icon-l>
+* <icon-l class="bigger"><span class="with-icon icon-sprite"><svg><use xlink:href="#icon-paragraph"/></svg></span> [Colophon](/about/#colophon)</icon-l>
 * <icon-l class="bigger"><span class="with-icon icon-sprite"><svg><use xlink:href="#icon-sitemap"/></svg></span> [Site Map](/site-map/)</icon-l>
 </stack-l></div>
 

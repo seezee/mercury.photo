@@ -34,7 +34,7 @@
       <width>144</width>
       <height>144</height>
     </image>
-    <copyright>Copyright © 2012{{ helpers.currentYearRSS() | safe }} {{ metadata.author.name }}. All rights reserved.</copyright>
+    <copyright>Copyright © 2012{{ dateUtils.currentYearRSS() | safe }} {{ metadata.author.name }}. All rights reserved.</copyright>
     <lastBuildDate>{%- for post in collections.blog.slice(-1) %}{{ post.data.pubdate | dateToRfc822 }}{%- endfor %}</lastBuildDate>
     {%- for post in collections.blog | sortByPubDate | reverse %}
     {%- set absolutePostUrl = post.url | htmlBaseUrl(metadata.base) %}

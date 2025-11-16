@@ -1,7 +1,7 @@
 <footer role="contentinfo" id="footer-main">
   <cluster-l justify="space-between" align="center">
     <cluster-l justify="flex-start">
-      <p>Copyright &copy; 2012{{ helpers.currentYear() | safe }} Chris J. Zähller. All rights reserved.</p>
+      <p>Copyright &copy; 2012{{ dateUtils.currentYear() | safe }} Chris J. Zähller. All rights reserved.</p>
     </cluster-l>
     <div id="mpb-logo-wrapper">
       {% svgIcon "./_site/assets/images/icons/mpb-logo.svg" %}
@@ -85,8 +85,12 @@
     {% include "js/search.js" %}
     {% include "js/sortTags.js" %}
   {% endset %}
-  <!-- Feed it through our Terser `jsmin` filter to minify -->
   <script>
-    {{ js | jsmin | safe }}
+    {% if env.env == 'production' %}
+      /* Feed it through our Terser `jsmin` filter to minify */
+      {{ js | jsmin | safe }}
+    {% else %}
+      {{ js | safe }}
+    {% endif %}
   </script>
 </footer>

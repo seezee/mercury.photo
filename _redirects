@@ -1,6 +1,7 @@
 # Cloudflare redirects (see https://developers.cloudflare.com/workers/static-assets/redirects/)
 /legal-folderol/terms-of-use/ /legal/terms-of-use/
 /legal-folderol/privacy/ /legal/privacy/
+/legal-folderol/photocopyright/ /legal/photo-copyright/
 /3-score-times-around-the-sun/ /blog/3-score-times-around-the-sun/
 /be-vewwy-quiet-were-hunting-mushwooms/ /blog/be-vewwy-quiet-were-hunting-mushwooms/
 /black-and-white-gallery-beats-antique-at-the-diamond-ballroom/ /blog/black-and-white-gallery-beats-antique-at-the-diamond-ballroom/

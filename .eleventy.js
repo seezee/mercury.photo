@@ -4,12 +4,10 @@ const browserslist                     = require('browserslist');
 const eleventyAutoCacheBuster          = require('eleventy-auto-cache-buster');
 const eleventyPluginFilesMinifier      = require('@codestitchofficial/eleventy-plugin-minify');
 const esbuild                          = require('esbuild');
-const { execSync }                     = require('child_process')
 const { feedPlugin }                   = require('@11ty/eleventy-plugin-rss');
 const { format }                       = require('date-fns/format');
 const { govukEleventyPlugin }          = require('@x-govuk/govuk-eleventy-plugin');
 const Image                            = require('@11ty/eleventy-img');
-const is_production                    = typeof process.env.ELEVENTY_ENV === "string" && process.env.ELEVENTY_ENV === "production";
 // const { eleventyImageTransformPlugin } = require('@11ty/eleventy-img');
 const markdownIt                          = require('markdown-it');
 const markdownItAnchor                 = require('markdown-it-anchor');
@@ -18,29 +16,9 @@ const { minify }                       = require('terser');
 const outdent                          = require('outdent');
 const path                             = require('path');
 const pluginSEO                        = require('eleventy-plugin-seo');
-// Next 2 constants for JS bundling browser targets
 const {resolveToEsbuildTarget}         = require('esbuild-plugin-browserslist');
-const target                           = resolveToEsbuildTarget(browserslist(
-    'production' [
-      '>0.2%',
-      'Firefox ESR',
-      'not dead',
-      'not op_mini all'
-    ],
-      'development' [
-      'last 1 chrome version',
-      'last 1 firefox version',
-      'last 1 safari version'
-    ]
-  ), {
-  printUnknownTargets: false,
-});
 
-const siteURL    = `https://mercury.photo`;
-const siteAuthor = `Chris J. Zähller`;
-const siteName   = `Mercury Photo Bureau`;
-const siteDesc   = `Rangefinder + Mirrorless Digital + Large Format Film Photography + Music, Arts, & News`;
-``
+const is_production                    = typeof process.env.ELEVENTY_ENV === "string" && process.env.ELEVENTY_ENV === "production";
 
 // For Markdown attributes
 const markdownItOptions = {
@@ -54,7 +32,90 @@ const markdownLib = (markdownIt) => markdownIt.use(markdownItAttrs).use(markdown
 
 module.exports = async function(eleventyConfig) {
 
+  /**
+   * Miscellaneous
+   */
+
   const {EleventyRenderPlugin} = await import(`@11ty/eleventy`);
+
+  if ( is_production ) {
+    console.log(`Running PRODUCTION ENVIRONMENT`);
+  } else {
+    console.log(`Running DEVELOPMENT ENVIRONMENT`);
+  };
+
+  // Require layout file extensions; see
+  // https://www.11ty.dev/docs/layouts/#omitting-the-layouts-file-extension
+  eleventyConfig.setLayoutResolution(false);
+
+  // Needed for paired shortcodes
+  eleventyConfig.addPlugin(EleventyRenderPlugin);
+
+  /**
+   * End miscellaneous
+   */
+
+  /**
+   * Global data
+   */
+
+  const siteURL        = `https://mercury.photo`;
+  const siteAuthor     = `Chris J. Zähller`;
+  const siteName       = `Mercury Photo Bureau`;
+  const siteDesc       = `Rangefinder + Mirrorless Digital + Large Format Film Photography + Music, Arts, & News`;
+
+  const arr = [
+    `"_SITEURL_" : siteURL`,
+    `"_AUTHOR_" : siteAuthor`,
+    `"_SITENAME_": siteName`,
+    `"_SITEDESC_": siteDesc`,
+  ];
+
+   arr.forEach(globalVar =>
+    eleventyConfig.addGlobalData(globalVar)
+  );
+
+  arr.forEach(globalVar =>
+    eleventyConfig.addNunjucksGlobal(globalVar)
+  );
+
+  /**
+   * END global data
+   */
+
+  /**
+   * Browserslist
+   */
+
+  let browerslistArr;
+
+  if ( is_production ) {
+    browerslistArr = `
+      '> 0.2%',
+      'Firefox ESR',
+      'not dead',
+      'not op_mini all'`
+  } else {
+    browerslistArr = `
+      'last 1 chrome version',
+      'last 1 edge version',
+      'last 1 firefox version',
+      'last 1 safari version'`
+  };
+
+  const target = resolveToEsbuildTarget(browserslist(
+      'browserlist' [browerslistArr]
+    ), {
+    printUnknownTargets: false,
+  });
+
+  /**
+   * END browserslist
+   */
+
+  /**
+   * MarkdownIt configuration
+   */
 
   // Enable the markdown-it plugin with options from above
   eleventyConfig.setLibrary(`md`, markdownItOptions);
@@ -62,55 +123,84 @@ module.exports = async function(eleventyConfig) {
   // Most tutorials are written for Eleventy 1.0.0 and use the wrong syntax for v2.0.0 and later
   eleventyConfig.amendLibrary(`md`, markdownLib);
 
-  // Global data
-  eleventyConfig.addGlobalData(`siteURL`, {
-    "_SITEURL_" : siteURL
+  /**
+   * END MarkdownIt configuration
+   */
+
+  /**
+   * SEO & RSS
+   */
+
+  // SEO
+  eleventyConfig.addPlugin(pluginSEO, {
+    title: siteName,
+    description: siteDesc,
+    url: siteURL,
+    author: siteAuthor,
+    twitter: `czahller`,
+    options: {
+      titleDivider: `|`,
+      image: `/assets/images/site/mpb-logo.webp`,
+      imageWithBaseUrl: true,
+      twitterCardType: `summary_large_image`,
+      showPageNumbers: false
+    }
   });
-  eleventyConfig.addGlobalData(`siteAuthor`, {
-    "_AUTHOR_" : siteAuthor
+
+  // RSS Feed
+	eleventyConfig.addPlugin(feedPlugin, {
+    type: `atom`,
+		outputPath: `/feed.xml`,
+		collection: {
+			name: `posts`, // iterate over `collections.posts`
+			limit: 0,     // 0 means no limit
+		},
+    metadata: {
+			language: `en-US`,
+			title: siteName,
+			subtitle: siteDesc,
+			base: siteURL + `/`,
+			author: {
+				name: siteAuthor
+				// email: ``, // Optional
+			}
+		}
   });
-  eleventyConfig.addGlobalData(`siteName`, {
-   "_SITENAME_": siteName
-  });
-  eleventyConfig.addGlobalData(`siteDesc`, {
-   "_SITEDESC_": siteDesc
-  });
-  eleventyConfig.addNunjucksGlobal(`_SITEURL_`, siteURL);
-  eleventyConfig.addNunjucksGlobal(`_AUTHOR_`, siteAuthor);
-  eleventyConfig.addNunjucksGlobal(`_SITENAME_`, siteName);
-  eleventyConfig.addNunjucksGlobal(`_SITEDESC`, siteDesc);
+
+  /**
+   * END SEO & RSS
+   */
+
+  /**
+   * Search
+   */
 
   // Pagefind config; runs AFTER build
-  if ( is_production ) {
-    eleventyConfig.on(`eleventy.after`, async function ({ dir }) {
-      const inputPath = dir.output;
-      const outputPath = path.join(dir.output, `pagefind`);
+  eleventyConfig.on(`eleventy.after`, async function ({ dir }) {
+    const inputPath = dir.output;
+    const outputPath = path.join(dir.output, `pagefind`);
 
-      console.log(`Creating Pagefind index of %s`, inputPath);
+    console.log(`Creating Pagefind index of %s`, inputPath);
 
-      const pagefind = await import(`pagefind`);
-      const { index } = await pagefind.createIndex();
-      const { page_count } = await index.addDirectory({ path: inputPath });
-      await index.writeFiles({ outputPath });
+    const pagefind = await import(`pagefind`);
+    const { index } = await pagefind.createIndex();
+    const { page_count } = await index.addDirectory({ path: inputPath });
+    await index.writeFiles({ outputPath });
 
-      console.log(
-        `Created Pagefind index of %i pages in %s`,
-        page_count,
-        outputPath
-      );
-    })
-    console.log(`ENV=DEV; not creating Pagefind index.`);
-  };
+    console.log(
+      `Created Pagefind index of %i pages in %s`,
+      page_count,
+      outputPath
+    );
+  });
 
-  // Require layout file extensions; see
-  // https://www.11ty.dev/docs/layouts/#omitting-the-layouts-file-extension
-  eleventyConfig.setLayoutResolution(false);
+  /**
+   * END search
+   */
 
-  // Copy assets to build directory
-  eleventyConfig.addPassthroughCopy(`src/assets/files`);
-  eleventyConfig.addPassthroughCopy(`src/assets/fonts`);
-  eleventyConfig.addPassthroughCopy(`src/assets/images`);
-  eleventyConfig.addPassthroughCopy(`src/assets/media`);
+  /**
+   * Image manipulation
+   */
 
   // Transform images
 /*   eleventyConfig.addPlugin(eleventyImageTransformPlugin), {
@@ -225,48 +315,100 @@ module.exports = async function(eleventyConfig) {
   // Register image shortcode
   eleventyConfig.addNunjucksAsyncShortcode(`image`, imageShortcode);
 
-  // SEO
-  eleventyConfig.addPlugin(pluginSEO, {
-    title: siteName,
-    description: siteDesc,
-    url: siteURL,
-    author: siteAuthor,
-    twitter: `czahller`,
-    options: {
-      titleDivider: `|`,
-      image: `/assets/images/site/mpb-logo.webp`,
-      imageWithBaseUrl: true,
-      twitterCardType: `summary_large_image`,
-      showPageNumbers: false
-    }
-  });
-
-  // RSS Feed
-	eleventyConfig.addPlugin(feedPlugin, {
-    type: `atom`,
-		outputPath: `/feed.xml`,
-		collection: {
-			name: `posts`, // iterate over `collections.posts`
-			limit: 0,     // 0 means no limit
-		},
-    metadata: {
-			language: `en-US`,
-			title: siteName,
-			subtitle: siteDesc,
-			base: siteURL + `/`,
-			author: {
-				name: siteAuthor
-				// email: ``, // Optional
-			}
-		}
+  // For inline SVG; see https://medium.com/@brettdewoody/inlining-svgs-in-eleventy-cffb1114e7b
+  eleventyConfig.addNunjucksAsyncShortcode(`svgIcon`, async (src) => {
+    let metadata = await Image(src, {
+      formats: [`svg`],
+      dryRun: true,
+    })
+    return metadata.svg[0].buffer.toString()
   });
 
   /**
-   * Converts the given date string to ISO8601 format.
-   * Example usage: <time datetime="{{ post.date | toISOString | safe}}">
-  */
+   * END image manipulation
+   */
+
+  /**
+   * Minification & bundling
+   */
+
+  // JS  & CSS bundling, tree-shaking, & minification
+
+  eleventyConfig.on(`eleventy.before`, async () => {
+    if( is_production ){
+      await esbuild.build({
+        entryPoints: [`src/assets/js/index.js`, `src/assets/css/index.css`],
+        bundle: true,
+        treeShaking: true,
+        outdir: `_site/assets/`,
+        sourcemap: true,
+        minify: true,
+        target // From our constant, set at top of file
+    });
+    } else {
+      await esbuild.build({
+        entryPoints: [`src/assets/js/index.js`, `src/assets/css/index.css`],
+        bundle: true,
+        treeShaking: true,
+        outdir: `_site/assets/`,
+        target
+      });
+    }
+  });
+
+  // JS inline minification
+  eleventyConfig.addNunjucksAsyncFilter(`jsmin`, async function (
+    code,
+    callback
+  ) {
+    try {
+      const minified = await minify(code);
+      callback(null, minified.code);
+    } catch (err) {
+      console.error(`Terser error: `, err);
+      // Fail gracefully.
+      callback(null, code);
+    }
+  });
+
+  // HTML minification
+  if( is_production ) {
+    eleventyConfig.addPlugin(eleventyPluginFilesMinifier);
+  };
+
+  // Cache busting
+  if ( is_production ) {
+    eleventyConfig.addPlugin(eleventyAutoCacheBuster, {
+      globstring: `**/*.{css,js,png,jpg,jpeg,gif,webp,svg,mp4,ico}`,
+      globOptions: {nodir: true, ignore: [`rss.xml`, `feed.xml`, `test.xml`]}
+    });
+  };
+
+  eleventyConfig.addPlugin(govukEleventyPlugin, {
+    markdown: {
+      headingPermalinks: true,
+    }
+  });
+
+  /**
+   * END minification & bundling
+   */
+
+  /**
+   * Filters
+   */
+
+  // Add `date` filter https://date-fns.org/docs/format
+  // Usage: {% for item in collections.all %}<lastmod>{{ item.data.lastmod or item.date | date("yyyy-MM-dd'T'hh:mm:ss XXX")}}</lastmod>{% endfor %}
+  eleventyConfig.addFilter(`date`, function (date, dateFormat) {
+    return format(date, dateFormat)
+  });
+
+  // Converts the given date string to ISO8601 format.
+  // Example usage: <time datetime="{{ post.date | toISOString | safe}}">
   const toISOString = (dateString) => new Date(dateString).toISOString();
   eleventyConfig.addFilter(`toISOString`, toISOString);
+
   // Convert length to bytes
   eleventyConfig.addAsyncFilter(`getImgSizeInBytes`, async function (value) {
     const fileImg = await fetch(siteURL + value).then(r => r.blob());
@@ -295,80 +437,30 @@ module.exports = async function(eleventyConfig) {
     return sorted;
   });
 
-  // Needed for paired shortcodes
-  eleventyConfig.addPlugin(EleventyRenderPlugin);
+  /**
+   * END Filters
+   */
 
-  // For inline SVG; see https://medium.com/@brettdewoody/inlining-svgs-in-eleventy-cffb1114e7b
-  eleventyConfig.addNunjucksAsyncShortcode(`svgIcon`, async (src) => {
-    let metadata = await Image(src, {
-      formats: [`svg`],
-      dryRun: true,
-    })
-    return metadata.svg[0].buffer.toString()
-  });
+  /**
+   * File watch & copy
+   */
 
-  // JS inline minification
-  eleventyConfig.addNunjucksAsyncFilter(`jsmin`, async function (
-    code,
-    callback
-  ) {
-    try {
-      const minified = await minify(code);
-      callback(null, minified.code);
-    } catch (err) {
-      console.error(`Terser error: `, err);
-      // Fail gracefully.
-      callback(null, code);
-    }
-  });
+  // Copy assets to build directory
+  [`src/assets/files/`, `src/assets/fonts/`, `src/assets/images/`, `src/assets/media/`].forEach(path =>
+    eleventyConfig.addPassthroughCopy(path)
+  );
 
-  // Cache busting
-  eleventyConfig.addPlugin(eleventyAutoCacheBuster, {
-    globstring: `**/*.{css,js,png,jpg,jpeg,gif,webp,svg,mp4,ico}`,
-    globOptions: {nodir: true, ignore: [`rss.xml`, `feed.xml`, `test.xml`]}
-  });
-
-  eleventyConfig.addPlugin(govukEleventyPlugin, {
-    markdown: {
-      headingPermalinks: true,
-    }
-  });
-
-  // HTML minification
-  if( is_production ) {
-    eleventyConfig.addPlugin(eleventyPluginFilesMinifier);
-  };
-
-  // JS  & CSS bundling, tree-shaking, & minification
-  eleventyConfig.on(`eleventy.before`, async () => {
-    await esbuild.build({
-      entryPoints: [`src/assets/js/index.js`, `src/assets/css/index.css`],
-      bundle: true,
-      treeShaking: true,
-      outdir: `_site/assets/`,
-      sourcemap: true,
-      minify: true,
-      target // From our constant, set at top of file
-    });
+  eleventyConfig.addPassthroughCopy({
+    // Copy files from site root to `_site/` (Don't use backticks around key)
+    'src/assets/images/site/favicon/*': `/`,
+    '_redirects': `/`,
+    'dislike404-verification.txt': `/`
   });
 
   // Watch directories for changes
   eleventyConfig.addWatchTarget(`./src/assets/css/`);
 
   eleventyConfig.addWatchTarget(`./src/assets/js/`);
-
-  // add `date` filter https://date-fns.org/docs/format
-  // Usage: {% for item in collections.all %}<lastmod>{{ item.data.lastmod or item.date | date("yyyy-MM-dd'T'hh:mm:ss XXX")}}</lastmod>{% endfor %}
-  eleventyConfig.addFilter(`date`, function (date, dateFormat) {
-    return format(date, dateFormat)
-  })
-
-  eleventyConfig.addPassthroughCopy({
-    // Copy files from site root to `_site/` (Don't use backticks around key)
-    'favicon': `/`,
-    '_redirects': `/`,
-    'dislike404-verification.txt': `/`
-  });
   // Set custom directory for input; otherwise use defaults
   return {
     // Site URL
@@ -385,4 +477,8 @@ module.exports = async function(eleventyConfig) {
       input: `src`,
     },
   };
+
+  /**
+   * END file watch & copy
+   */
 };

@@ -70,7 +70,7 @@ export default class Admonition extends HTMLElement {
       }
 
       let content = this.innerHTML;
-  this.innerHTML = `<div class="admonition admonition-wrapper ${typeStr}" id="${noteID}">
+      this.innerHTML = `<div class="admonition admonition-wrapper ${typeStr}" id="${noteID}">
   <stack-l>
     <h2 class="admonition-heading"><icon-l space=".5em" class="bigger">${iconType}</icon-l>${titleStr}</h2>
     <stack-l class="admonition-content">${content}</stack-l>

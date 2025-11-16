@@ -1,3 +1,6 @@
+// src/_data/dateUtils.js
+'use strict';
+
 module.exports = {
   currentYear() {
     const today = new Date();
