@@ -29,6 +29,7 @@ eleventyExcludeFromCollections: true
         {% endif %}
       </small>
       <p data-pagefind-weight="0.5">{{ post.data.excerpt | safe }}</p>
+      {% include "_tags-buttons.njk" %}
       <hr />
     </stack-l>
   </li>

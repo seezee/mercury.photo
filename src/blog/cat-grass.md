@@ -5,8 +5,6 @@ tags:
   - blog
   - photography, digital
   - photography, macro
-  - Fujifilm
-  - equipment
 date: Last Modified
 pubdate: 2025-07-30T17:49:53+00:00
 image: /assets/images/blog/2025-07-30-dew-grass-macro/czahller-20250729-17-07-25.jpg

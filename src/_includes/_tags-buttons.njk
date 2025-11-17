@@ -1,0 +1,9 @@
+<div class="tags-button-wrapper">
+  <cluster-l role="list" class="tags-button-inner" space="var(--s-5)"  >
+  {% for tag in post.data.tags -%}
+    {% if tag !== 'blog' %}
+      <a role="listitem" class="tags-button" href="/blog/tags/{{ tag | slugify | safe }}">{{ tag | safe }}</a>
+    {% endif %}
+  {%- endfor %}
+  </cluster-l>
+</div>

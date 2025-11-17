@@ -382,9 +382,25 @@ ul ul .navigation__item {
     }
 
     p {
-      flex-grow: 1;
       font-family: var(--mpb-font-default);
     }
+  }
+
+  .tags-button-wrapper {
+    display: flex;
+    flex-grow: 1;
+    align-items: safe flex-end;
+  }
+
+  .tags-button {
+    flex-grow: 1;
+    padding-inline: var(--s-4);
+    padding-block: 2px;
+    border: 1px solid var(--mpb-color-textPrimary);
+    border-radius: var(--mpb-radius-1x);
+    font-family: var(--mpb-font-sans);
+    font-size: 14px;
+    text-align: center;
   }
 }
 
