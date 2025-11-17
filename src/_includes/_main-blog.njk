@@ -7,7 +7,7 @@ layout: layout-blog.njk
       <stack-l>
         {{ content | safe }}
         {% if pubdate %}
-          <small id="pubdate">Published <time datetime="{{ pubdate | toISOString | safe }}">{{ pubdate.toUTCString() | safe }}</time></small>
+          <small id="pubdate">Published <time datetime="{{ pubdate | toISOString | safe }}">{{ pubdate | dateTimeUK | safe }}</time></small>
         {% else %}
           No publication date found
         {% endif %}

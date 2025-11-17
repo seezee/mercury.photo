@@ -5,7 +5,6 @@ const eleventyAutoCacheBuster          = require('eleventy-auto-cache-buster');
 const eleventyPluginFilesMinifier      = require('@codestitchofficial/eleventy-plugin-minify');
 const esbuild                          = require('esbuild');
 const { feedPlugin }                   = require('@11ty/eleventy-plugin-rss');
-const { format }                       = require('date-fns/format');
 const { govukEleventyPlugin }          = require('@x-govuk/govuk-eleventy-plugin');
 const Image                            = require('@11ty/eleventy-img');
 // const { eleventyImageTransformPlugin } = require('@11ty/eleventy-img');
@@ -398,10 +397,22 @@ module.exports = async function(eleventyConfig) {
    * Filters
    */
 
-  // Add `date` filter https://date-fns.org/docs/format
-  // Usage: {% for item in collections.all %}<lastmod>{{ item.data.lastmod or item.date | date("yyyy-MM-dd'T'hh:mm:ss XXX")}}</lastmod>{% endfor %}
-  eleventyConfig.addFilter(`date`, function (date, dateFormat) {
-    return format(date, dateFormat)
+  // Convert date to U.K. format, e.g., Thursday, 18 February 2021
+  eleventyConfig.addFilter(`dateUK`, (dateObj) => {
+    return dateObj.toLocaleString(`en-GB`, {
+      timezone: `US/Central`,
+      dateStyle: `full`,
+    });
+  });
+
+  // Convert date to U.K. format with time,
+  // e.g., Thursday, 18 February 2021 at 22:32:11 CDT
+  eleventyConfig.addFilter(`dateTimeUK`, (dateObj) => {
+    return dateObj.toLocaleString(`en-GB`, {
+      timezone: `US/Central`,
+      dateStyle: `full`,
+      timeStyle: `long`,
+    });
   });
 
   // Converts the given date string to ISO8601 format.

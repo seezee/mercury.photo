@@ -54,7 +54,9 @@ With a best-selling album behind him and a newfound confidence in his songwritin
 
 Whenever someone in the audience inquired about the second album during a performance, he’d respond: <q>What’s wrong with the first one?</q> He had a point. Isn’t one great novel enough for a writer?
 
-  <footer>&mdash;&NoBreak;&hairsp;&NoBreak;<cite class="cite-person"><span class="h-card p-name">Joe Nick Patoski</span>, <span class="short-work">[The Follow-Up](https://www.npr.org/sections/therecord/2018/04/09/598843883/the-follow-up){target=_blank rel="external noopener"}</span></cite></footer>
+  <footer>
+  
+  &mdash;&NoBreak;&hairsp;&NoBreak;<cite class="cite-person"><span class="h-card p-name">Joe Nick Patoski</span>, <span class="short-work">[The Follow-Up](https://www.npr.org/sections/therecord/2018/04/09/598843883/the-follow-up){target=_blank rel="external noopener"}</span></cite></footer>
 </blockquote>
 
 By <time datetime="1997">1997</time> the album had a working title: <cite>Gentilly</cite>. In the intervening 25-odd years as well as the subsequent two decades, Ramsey would record in over a dozen studios. He built several himself&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;the last of these, in his Colorado home, flooded in <time datetime="2013">2013</time>. By the time of the deluge, he’d spent the royalty checks, now less frequent and smaller, along with funds put up by various backers, working on the album or acquiring just the right mixing console or vintage microphone.

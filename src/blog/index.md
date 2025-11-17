@@ -23,7 +23,7 @@ eleventyExcludeFromCollections: true
       <a href="{{ post.url }}"><img src="{{ post.data.image | safe }}" alt="Read “{{ post.data.title | safe }}”" loading="lazy" /></a>
       <small>
         {% if post.data.pubdate %}
-          <time datetime="{{ post.data.pubdate | toISOString | safe}}">{{ post.data.pubdate.toUTCString() | safe}}</time>
+          <time datetime="{{ post.data.pubdate | toISOString | safe }}">{{ post.data.pubdate | dateUK | safe }}</time>
         {% else %}
           No publication date found.
         {% endif %}
