@@ -64,8 +64,8 @@ module.exports = async function(eleventyConfig) {
   const siteDesc       = `Rangefinder + Mirrorless Digital + Large Format Film Photography + Music, Arts, & News`;
 
   const arr = [
-    `"_SITEURL_" : siteURL`,
-    `"_AUTHOR_" : siteAuthor`,
+    `"_SITEURL_": siteURL`,
+    `"_AUTHOR_": siteAuthor`,
     `"_SITENAME_": siteName`,
     `"_SITEDESC_": siteDesc`,
   ];

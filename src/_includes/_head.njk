@@ -166,14 +166,14 @@
     }
   </style>
   <link rel="stylesheet" href="/assets/css/index.css">
-  <meta property="og:site_name" content="{{ _SITENAME_ }}">
+  <meta property="og:site_name" content="{{ env.siteName }}">
   <meta property="article:publisher" content="https://facebook.com/mercuryphoto/">
   {% seo "" %}
   <!-- Facebook -->
   {% if image %}
-    <meta property="og:image" content="{{ _SITEURL_ }}{{ image }}" />
+    <meta property="og:image" content="{{ env.siteURL }}{{ image }}" />
   {% else %}
-    <meta property="og:image" content="{{ _SITEURL_ }}/assets/images/site/mpb-logo.webp" />
+    <meta property="og:image" content="{{ env.siteURL }}/assets/images/site/mpb-logo.webp" />
   {% endif %}
   <meta property="fb:app_id" content="1811156772801459">
   <!-- Structured data -->
@@ -191,23 +191,23 @@
     "@type": "Article",
     "author": {
       "@type": "Person",
-      "name": "{{ _AUTHOR_ }}"
+      "name": "{{ env.siteAuthor }}"
     },
     "publisher": {
       "@type": "Organization",
-      "name": "{{ _SITENAME_ }}",
+      "name": "{{ env.siteName }}",
       "logo": {
         "@type": "ImageObject",
-        "url": "{{ _SITEURL_ }}/assets/images/site/mpb-logo.webp"
+        "url": "{{ env.siteURL }}/assets/images/site/mpb-logo.webp"
       }
     },
         {% if title %}
     "headline": "{{ title }}",
         {% endif %}
         {% if image %}
-    "image": "{{ _SITEURL_ }}/{{ image }}",
+    "image": "{{ env.siteURL }}{{ image }}",
         {% else %}
-    "image": "{{ _SITEURL_ }}/assets/images/site/mpb-logo.webp",
+    "image": "{{ env.siteURL }}/assets/images/site/mpb-logo.webp",
         {% endif %}
         {% if pubdate %}
     "datePublished": "{{ pubdate | toISOString | safe }}",
