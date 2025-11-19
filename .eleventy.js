@@ -8,8 +8,7 @@ const { feedPlugin }                   = require('@11ty/eleventy-plugin-rss');
 const { govukEleventyPlugin }          = require('@x-govuk/govuk-eleventy-plugin');
 const Image                            = require('@11ty/eleventy-img');
 // const { eleventyImageTransformPlugin } = require('@11ty/eleventy-img');
-const markdownIt                          = require('markdown-it');
-const markdownItAnchor                 = require('markdown-it-anchor');
+const markdownIt                       = require('markdown-it');
 const markdownItAttrs                  = require('markdown-it-attrs');
 const { minify }                       = require('terser');
 const outdent                          = require('outdent');
@@ -27,7 +26,7 @@ const markdownItOptions = {
 };
 
 // Markdown library with options
-const markdownLib = (markdownIt) => markdownIt.use(markdownItAttrs).use(markdownItAnchor);
+const markdownLib = (markdownIt) => markdownIt.use(markdownItAttrs);
 
 module.exports = async function(eleventyConfig) {
 
@@ -371,9 +370,9 @@ module.exports = async function(eleventyConfig) {
   });
 
   // HTML minification
-  if( is_production ) {
+  // if( is_production ) {
     eleventyConfig.addPlugin(eleventyPluginFilesMinifier);
-  };
+  // };
 
   // Cache busting
   if ( is_production ) {
