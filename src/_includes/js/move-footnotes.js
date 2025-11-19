@@ -3,8 +3,8 @@
 function moveFootnote() {
 
   const sidebar   = document.getElementById(`sidenotes`);
-  const list      = document.getElementsByClassName(`app-footnotes-list`);
-  const list2      = document.getElementsByClassName(`app-marginnotes-list`);
+  const list      = document.getElementsByClassName(`footnotes-list`);
+  const list2      = document.getElementsByClassName(`marginnotes-list`);
 
   // Does the browser support position-anchor?
   // Commented out because we are using a the css-anchor-positioning polyfill

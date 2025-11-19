@@ -5,11 +5,13 @@ const eleventyAutoCacheBuster          = require('eleventy-auto-cache-buster');
 const eleventyPluginFilesMinifier      = require('@codestitchofficial/eleventy-plugin-minify');
 const esbuild                          = require('esbuild');
 const { feedPlugin }                   = require('@11ty/eleventy-plugin-rss');
-const { govukEleventyPlugin }          = require('@x-govuk/govuk-eleventy-plugin');
 const Image                            = require('@11ty/eleventy-img');
 // const { eleventyImageTransformPlugin } = require('@11ty/eleventy-img');
 const markdownIt                       = require('markdown-it');
-const markdownItAttrs                  = require('markdown-it-attrs');
+const mdAttrs                          = require('markdown-it-attrs');
+const mdAnchor                         = require('markdown-it-anchor');
+const mdDL                             = require('markdown-it-deflist');
+const mdFN                             = require('markdown-it-footnote');
 const { minify }                       = require('terser');
 const outdent                          = require('outdent');
 const path                             = require('path');
@@ -19,14 +21,24 @@ const {resolveToEsbuildTarget}         = require('esbuild-plugin-browserslist');
 const is_production                    = typeof process.env.ELEVENTY_ENV === "string" && process.env.ELEVENTY_ENV === "production";
 
 // For Markdown attributes
-const markdownItOptions = {
+const mdOpts = {
   html: true,
   breaks: true,
   linkify: true
 };
 
+const mdAnchorOpts = {
+  permalink: mdAnchor.permalink.headerLink({ safariReaderFix: true }),
+  level: 2
+}
+
 // Markdown library with options
-const markdownLib = (markdownIt) => markdownIt.use(markdownItAttrs);
+const markdownLib = (mdLib) => mdLib
+  .use(mdAttrs)
+  .use(mdAnchor, mdAnchorOpts)
+  .use(mdDL)
+  .use(mdFN)
+;
 
 module.exports = async function(eleventyConfig) {
 
@@ -116,7 +128,7 @@ module.exports = async function(eleventyConfig) {
    */
 
   // Enable the markdown-it plugin with options from above
-  eleventyConfig.setLibrary(`md`, markdownItOptions);
+  eleventyConfig.setLibrary(`markdownIt`, mdOpts);
   // Extend markdown-it via plugins; see https://www.11ty.dev/docs/languages/markdown/#optional-set-your-own-library-instance
   // Most tutorials are written for Eleventy 1.0.0 and use the wrong syntax for v2.0.0 and later
   eleventyConfig.amendLibrary(`md`, markdownLib);
@@ -377,16 +389,9 @@ module.exports = async function(eleventyConfig) {
   // Cache busting
   if ( is_production ) {
     eleventyConfig.addPlugin(eleventyAutoCacheBuster, {
-      globstring: `**/*.{css,js,png,jpg,jpeg,gif,webp,svg,mp4,ico}`,
-      globOptions: {nodir: true, ignore: [`rss.xml`, `feed.xml`, `test.xml`]}
+      globstring: `**/*.{css,js,png,jpg,jpeg,gif,webp,svg,mp4,ico}`
     });
   };
-
-  eleventyConfig.addPlugin(govukEleventyPlugin, {
-    markdown: {
-      headingPermalinks: true,
-    }
-  });
 
   /**
    * END minification & bundling

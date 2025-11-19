@@ -75,7 +75,7 @@ Software
 
 <footer aria-labelledby="#label-margin-notes">
   <span class="sr-only" id="label-margin-notes">Notes</span>
-  <ul class="app-marginnotes-list" role="list">
+  <ul class="marginnotes-list" role="list">
     <li id="mn:1" role="listitem">
 
 {% image "./src/assets/images/blog/2017-08-04-roosevelt/google-earth-roosevelt.jpg", "img-constrained", "Google Earth view of salvage yards, Roosevelt, Oklahoma", "Google Earth view of salvage yards, Roosevelt, Oklahoma&nbsp;<a href=\"#mnref:1\" class=\"govuk-link\"><span class=\"sr-only\">Back to content </span>↩︎" %}

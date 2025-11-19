@@ -18,9 +18,13 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis tortor odio, moles
 
 [^1]: Cras facilisis nisl vel lacus posuere, in tempus enim fermentum.
 
+## Heading H2
+
 Suspendisse bibendum cursus sem, id tempus turpis fringilla quis. Curabitur porttitor sapien mi, sed rutrum ipsum interdum at. Nulla sit amet eleifend dui, a convallis eros. Integer quis orci convallis, dapibus metus at, ullamcorper turpis.[^2] Aenean dictum ante non diam convallis tempus. Mauris volutpat, justo id efficitur feugiat, felis quam interdum orci, non vestibulum diam mauris eu diam. Quisque feugiat ac nunc at interdum. In et egestas erat. Maecenas at est vel mi laoreet fermentum.<a href="#mn:2" class="test" id="mnref:2"><span class="sr-only"> [See note]</span></a>
 
 [^2]: Curabitur porttitor sapien mi, sed rutrum ipsum interdum at. Nulla sit amet eleifend dui, a convallis eros.
+
+### Heading H3
 
 Curabitur dui elit, tempor et bibendum at, bibendum id risus. Donec maximus dapibus elit id mattis.<a href="#mn:3" class="test" id="mnref:3"><span class="sr-only"> [See note]</span></a> In risus justo, vestibulum a suscipit a, mollis et dui. Phasellus ornare consequat justo ut sollicitudin. Suspendisse vel diam risus. Aliquam erat volutpat. Cras iaculis interdum arcu sed interdum. Fusce ut elit fringilla ipsum facilisis molestie eget quis ligula. Duis aliquet quis elit nec viverra. Morbi scelerisque facilisis fringilla. Donec nisi lectus, fermentum ut varius id, egestas ac ligula. Aenean bibendum vel nisi non molestie. Integer est arcu,[^3] posuere ac dui at,[^4] dignissim pretium neque. Sed enim nisi, pellentesque et venenatis at, maximus finibus ante. Suspendisse tempor neque orci, quis malesuada massa facilisis et. Sed ut enim luctus, auctor tellus id, commodo nulla.
 
@@ -46,9 +50,15 @@ Phasellus lectus nulla, dapibus rutrum turpis a, pretium imperdiet metus. Sed va
 
 Phasellus nec posuere lacus. Morbi imperdiet mauris id felis hendrerit dignissim. Etiam nec est vitae nisl interdum gravida. Morbi maximus dolor vel augue hendrerit, in cursus felis mattis. Praesent ac lacus eu nisi aliquam egestas sed vel risus. In hac habitasse platea dictumst. Quisque massa leo, maximus quis ultrices luctus, auctor in arcu. Nam cursus rutrum est, id convallis nulla aliquet id. Suspendisse dignissim lectus vel quam rutrum, nec mollis turpis scelerisque. Integer a ligula eget sem condimentum luctus et a ex. Aenean dignissim ipsum eget massa fringilla porta.
 
+Foo
+  : Bar
+
+Bar
+  : Foo
+
 <footer aria-labelledby="#label-margin-notes">
   <span class="sr-only" id="label-margin-notes">Notes</span>
-  <ul class="app-marginnotes-list" role="list">
+  <ul class="marginnotes-list" role="list">
     <li id="mn:1" role="listitem">
       <span class="foreign" lang="la">Morchella esculenta</span>, or yellow morels, are widely distributed, but especially common in eastern North America and the Midwest. They are the most common morel species found in Oklahoma. Despite the popular name, they can be pale brownish cream, yellow to tan or pale brown to grayish brown.&nbsp;<a href="#mnref:1" class="govuk-link" a><span class="sr-only">Back to content&nbsp;</span>↩︎</a>
     </li>

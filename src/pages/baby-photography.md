@@ -30,7 +30,7 @@ Pictured: newborn portrait session of Alicia and David Goad’s first daughter, 
 
 <footer aria-labelledby="#label-margin-notes">
   <span class="sr-only" id="label-margin-notes">Notes</span>
-  <ul class="app-marginnotes-list" role="list">
+  <ul class="marginnotes-list" role="list">
     <li id="mn:1" role="listitem">
 
 Like what you see? [Schedule your portrait](/contact) or get a quote today!

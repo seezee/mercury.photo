@@ -90,7 +90,7 @@ Digitization &amp; post-production
 
 <footer aria-labelledby="#label-margin-notes">
   <span class="sr-only" id="label-margin-notes">Notes</span>
-  <ul class="app-marginnotes-list" role="list">
+  <ul class="marginnotes-list" role="list">
     <li id="mn:1" role="listitem">
 
 <mpb-dialog-img>

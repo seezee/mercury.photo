@@ -95,7 +95,7 @@ Long returned to Okemah for Woodyfest 2019, his tenth time to grace her stages. 
 
 <footer aria-labelledby="#label-margin-notes">
   <span class="sr-only" id="label-margin-notes">Notes</span>
-  <ul class="app-marginnotes-list" role="list">
+  <ul class="marginnotes-list" role="list">
     <li id="mn:1" role="listitem">
       <iframe style="border: 0; width: 300px; height: 420px;" src="https://bandcamp.com/EmbeddedPlayer/album=94971717/size=large/bgcol=333333/linkcol=ffffff/tracklist=false/transparent=true/" seamless><a href="https://larrylong.bandcamp.com/album/slow-night">Slow Night by Larry Long | Produced by Cory Wong</a>&nbsp;<a href="#mnref:1" class="govuk-link" a><span class="sr-only">Back to content </span>↩︎</a></iframe>
     </li>

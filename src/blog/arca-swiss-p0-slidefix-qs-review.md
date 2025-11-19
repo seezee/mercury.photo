@@ -154,9 +154,9 @@ The Monoball <span class="lining">P0</span> head and SlideFix clamp are compact,
 
 The Monoball <span class="lining">P0</span> head is rated at 44.1&nbsp;lbs. (20&nbsp;kg) capacity.
 
-## Deployment<a href="#mn:2" id="mnref:2"><span class="sr-only"> [See note]</span></a>
+## Deployment
 
-The Monoball <span class="lining">P0</span> head attaches to a standard 3/8″ (.375″ or 9.525&nbsp;mm) coarse thread (16&nbsp;<abbr title="threads per inch">tpi</abbr>) tripod screw. Our tripod has a reversible stud with the two standard sizes (.25″ and .375″), so to mount it we fit the head over the  appropriate stud-end and tighten clockwise. A single-bubble spirit level on top aids leveling; mounting a camera to the head partially blocks the the level’s visibility, limiting its usefulness.
+<a href="#mn:2" id="mnref:2"><span class="sr-only"> [See note]</span></a>The Monoball <span class="lining">P0</span> head attaches to a standard 3/8″ (.375″ or 9.525&nbsp;mm) coarse thread (16&nbsp;<abbr title="threads per inch">tpi</abbr>) tripod screw. Our tripod has a reversible stud with the two standard sizes (.25″ and .375″), so to mount it we fit the head over the  appropriate stud-end and tighten clockwise. A single-bubble spirit level on top aids leveling; mounting a camera to the head partially blocks the the level’s visibility, limiting its usefulness.
 
 Attaching a camera equipped with a compatible QS quick-release (QR) plate is simple. Assuming you’ve mounted the QS plate to the camera tripod socket with the dovetails facing the camera front and back:
 
@@ -236,7 +236,7 @@ The Monoball <span class="lining">P0</span> head is well built and designed, a
 
 <footer aria-labelledby="#label-margin-notes">
   <span class="sr-only" id="label-margin-notes">Notes</span>
-  <ul class="app-marginnotes-list" role="list">
+  <ul class="marginnotes-list" role="list">
     <li id="mn:1" role="listitem">
 
 Since this article posted, Arca-Swiss have addressed some of the compatibility issues we noted, releasing the [Monoball <span class="lining">P0</span> Ballhead with Classic quick-release](https://bhpho.to/475u0C7){target=_blank rel="external noopener"} (MFR. <span class="ord">No.</span> 801-214, $587.<sup>86</sup> USD) and the [Monoball <span class="lining">P0</span> with Fliplock Quick Set Device](https://www.bhphotovideo.com/c/product/1029548-REG/arca_swiss_801215_monoball_p0_with_fliplock.html/BI/19462/KBID/11656/DFF/d10-v21-t1-x507006/SID/EZ){target=_blank rel="external noopener"} (MFR. <span class="ord">No.</span> 801-215, $483.<sup>60</sup> USD). **Our current recommendation is for either of these models in preference to the model reviewed here**.

@@ -1,28 +1,16 @@
 /**
  * 1. Footnotes
  * 2. Icons
- * 3. Miscellaneous govuk plugin styles
+ * 3. Permalinks
  */
 
 /* Footnotes */
-[aria-describedby='footnotes-label'] {
-  text-decoration: none;
-
-  &::before {
-    content: '[';
-  }
-
-  &::after {
-    content: ']';
-  }
+.footnotes-sep { /* <hr> + footnote(s) */
+  margin-block-end: var(--s1);
 }
 
-[href^='#fnref:'],
-[href^='#mnref:'] {
-  text-decoration: none;
-}
 
-.app-footnotes-list {
+.footnotes-list {
   p:not(:last-child),
   li {
     margin-block-end: var(--s1);
@@ -44,34 +32,42 @@
   margin-inline-start: .5ch;
 }
 
-/* Miscellaneous govuk plugin styles */
-.govuk-section-break { /* <hr> + footnote(s) */
-  margin-block-end: var(--s1);
-}
+/* Permalinks */
+h2,
+h3,
+h4,
+h5,
+h6 {
 
-.govuk-body {
-  break-inside: avoid;
-}
+  &:has(.header-anchor) {
 
-.govuk-link {
-  break-before:avoid;
-}
+    a {
+      text-decoration: none;
 
-.app-link--heading.govuk-link { /* Linked headings */
-  text-decoration: none;
+      &:after {
+        display: inline-block;
+        inline-size: .8em;
+        margin-inline-start: .5ch;
+        vertical-align: baseline;
+        content: var(--mpb-icon-link) / "";
+      }
+    }
 
-  /* Prevent layout shift on hover */
-  &:after {
-    display: inline-block;
-    min-inline-size: 2ch;
+    a:not(:hover):not(:focus-visible):not(:active) {
 
-    white-space: pre;
+      &:after {
+        position: absolute;
+        inline-size: 1px;
+        block-size: 1px;
+        padding: 0;
+        margin: -1px;
+        overflow: hidden;
+        clip: rect(0, 0, 0, 0);
 
-    content: '\0020\0020'; /* double-space */
-  }
+        white-space: nowrap;
 
-  &:hover:after,
-  &:focus:after {
-    content: '\0020#'; /* space + octothorpe */
+        border-width: 0;
+      }
+    }
   }
 }

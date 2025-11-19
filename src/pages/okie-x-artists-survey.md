@@ -27,7 +27,7 @@ Thank you for completing the OKIE-X Artists’ Survey.<a href="#mn:1" id="mnref:
 
 <footer aria-labelledby="#label-margin-notes">
   <span class="sr-only" id="label-margin-notes">Notes</span>
-  <ul class="app-marginnotes-list" role="list">
+  <ul class="marginnotes-list" role="list">
     <li id="mn:1" role="listitem">
 
 We’ll contact our artists to coördinate their sittings and to follow up with them when the show is ready to hang, as well as to arrange furnishing each artist with a complimentary digital file of their portrait after the show has hung. We won’t spam you and we won’t share your contact information without your explicit consent.&nbsp;<a href="#mnref:1" class="govuk-link" a><span class="sr-only">Back to content&nbsp;</span>↩︎</a>

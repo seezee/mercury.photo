@@ -254,7 +254,7 @@ Appearing on the Blackwatch Studios Stage for the sixth annual Norman Music Fest
 
 <footer aria-labelledby="#label-margin-notes">
   <span class="sr-only" id="label-margin-notes">Notes</span>
-  <ul class="app-marginnotes-list" role="list">
+  <ul class="marginnotes-list" role="list">
     <li id="mn:1" role="listitem">
 
 Presenting a new, and, we hope, ongoing feature, <span class="h-card p-org">Mercury Photo Bureau</span> teamed up with director <span class="h-card p-name">Mike Walsh</span> to record the Skating Polly interview for his <cite>Rev Hi-Fi</cite> video series.

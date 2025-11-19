@@ -66,7 +66,7 @@ Voters will also decide whether to retain sitting judges.<a href="#mn:1" id="mnr
 
 <footer aria-labelledby="#label-margin-notes">
   <span class="sr-only" id="label-margin-notes">Notes</span>
-  <ul class="app-marginnotes-list" role="list">
+  <ul class="marginnotes-list" role="list">
     <li id="mn:1" role="listitem">
 
 Readers, this writer has a confession to make. In past elections, I have been too busy (or too lazy) to research judges. I’ve always just ticked off the “Yes” box on judicial retention. The past two years have seen record numbers of judges appointed to important seats under the current administration. Some of those nominations have been controversial, to say the least. Others might have been as contentious, had they not slipped under the radar or been buried in the news cycle by a certain Twitter account. This year I researched the justices before voting and it became clear there were some I’d rather not see keep their seats. I&rsquo;m especially troubled by Justice <span class="h-card p-given-name">Wyrick</span>. The Leadership Conference have [written about him](https://civilrights.org/oppose-confirmation-patrick-wyrick-u-s-district-court-western-district-oklahoma/){target="_blank" rel="external noopener"}.

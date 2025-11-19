@@ -22,7 +22,7 @@ After that, I inherited a couple of [my brother’s](https://www.facebook.com/mu
 
 <footer aria-labelledby="#label-margin-notes">
   <span class="sr-only" id="label-margin-notes">Notes</span>
-  <ul class="app-marginnotes-list" role="list">
+  <ul class="marginnotes-list" role="list">
     <li id="mn:1" role="listitem">
 
 {% image "./src/assets/images/site/about/avatar-2016-short-hair-pencil-moustache.png", "img-constrained", "Avatar depicting the author. He is wearing a stingy-brim hat set at a rakish angle. His pencil-thin moustache sets the ladies a-swooning.", "Your Humble Author: Publisher, correspondent, author, photographer, and <span class='tooltip' title='A junior officer of the British Royal Navy; someone who does drudge work.'>dogsbody</span>." %}</li></ul>
