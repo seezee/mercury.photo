@@ -252,7 +252,8 @@ Appearing on the Blackwatch Studios Stage for the sixth annual Norman Music Fest
   ![Finale (II)](/assets/images/blog/2013-05-24-skating-polly-interview-2/czahller-20130426-06-41-58.jpg)
 </mpb-dialog-gallery>
 
-<footer aria-labelledby="#label-margin-notes">
+<hr class="marginnotes-sep" />
+<footer class="marginnotes" aria-labelledby="#label-marginnotes">
   <span class="sr-only" id="label-margin-notes">Notes</span>
   <ul class="marginnotes-list" role="list">
     <li id="mn:1" role="listitem">

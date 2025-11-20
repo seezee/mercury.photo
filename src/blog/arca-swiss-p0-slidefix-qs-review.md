@@ -234,7 +234,8 @@ Cons
 
 The Monoball <span class="lining">P0</span> head is well built and designed, attractively priced, and versatile. We highly recommend it for photographers looking for a light, compact, general purpose head to mount to a tripod (but not a monopod). Budget in the “L"” bracket as the head’s performance is hampered without it.
 
-<footer aria-labelledby="#label-margin-notes">
+<hr class="marginnotes-sep" />
+<footer class="marginnotes" aria-labelledby="#label-marginnotes">
   <span class="sr-only" id="label-margin-notes">Notes</span>
   <ul class="marginnotes-list" role="list">
     <li id="mn:1" role="listitem">

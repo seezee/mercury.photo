@@ -49,7 +49,8 @@ As a volunteer I have access to various backstage areas that are off-limits to t
   ![](/assets/images/blog/2020-03-26-woodyfest-bandcamp-backstage/czahller-20130712-20-47-30.jpg)
 </mpb-dialog-gallery>
 
-<footer aria-labelledby="#label-margin-notes">
+<hr class="marginnotes-sep" />
+<footer class="marginnotes" aria-labelledby="#label-marginnotes">
   <span class="sr-only" id="label-margin-notes">Notes</span>
   <ul class="marginnotes-list" role="list">
     <li id="mn:1" role="listitem">

@@ -73,7 +73,8 @@ Software
 : [Adobe Photoshop](https://www.bhphotovideo.com/c/product/1124191-REG/adobe_65259312_creative_cloud_photography_plan.html/BI/19462/KBID/11656/kw/ADCCPP12MS/DFF/d10-v2-t1-xADCCPP12MS){target="_blank" rel="external noopener"}
 : NIK Silver Efex
 
-<footer aria-labelledby="#label-margin-notes">
+<hr class="marginnotes-sep" />
+<footer class="marginnotes" aria-labelledby="#label-marginnotes">
   <span class="sr-only" id="label-margin-notes">Notes</span>
   <ul class="marginnotes-list" role="list">
     <li id="mn:1" role="listitem">

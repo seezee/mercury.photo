@@ -555,88 +555,88 @@ hgroup h1 + p {
   list-style: none;
 }
 
-[id^="fnref\:"] a {
+[id^="fnref"] a {
   color: var(--mpb-color-accent);
 }
 
-#fnref\:1 {
+#fnref1 {
   anchor-name: --fn-1;
 }
 
-#fnref\:2 {
+#fnref2 {
   anchor-name: --fn-2;
 }
 
-#fnref\:3 {
+#fnref3 {
   anchor-name: --fn-3;
 }
 
-#fnref\:4 {
+#fnref4 {
   anchor-name: --fn-4;
 }
 
-#fnref\:5 {
+#fnref5 {
   anchor-name: --fn-5;
 }
 
-#fnref\:6 {
+#fnref6 {
   anchor-name: --fn-6;
 }
 
-#fnref\:7 {
+#fnref7 {
   anchor-name: --fn-7;
 }
 
 
-#fnref\:8 {
+#fnref8 {
   anchor-name: --fn-8;
 }
 
-#fnref\:9 {
+#fnref9 {
   anchor-name: --fn-9;
 }
 
-#fnref\:10 {
+#fnref10 {
   anchor-name: --fn-10;
 }
 
-#fnref\:11 {
+#fnref11 {
   anchor-name: --fn-11;
 }
 
-#fnref\:12 {
+#fnref12 {
   anchor-name: --fn-12;
 }
 
-#fnref\:13 {
+#fnref13 {
   anchor-name: --fn-13;
 }
 
-#fnref\:14 {
+#fnref14 {
   anchor-name: --fn-14;
 }
 
-#fnref\:15 {
+#fnref15 {
   anchor-name: --fn-15;
 }
 
-#fnref\:16 {
+#fnref16 {
   anchor-name: --fn-16;
 }
 
-#fnref\:17 {
+#fnref17 {
   anchor-name: --fn-17;
 }
 
-#fnref\:18 {
+#fnref18 {
   anchor-name: --fn-18;
 }
 
-#fnref\:19 {
+#fnref19 {
   anchor-name: --fn-19;
 }
 
-#fnref\:20 {
+#fnref20 {
   anchor-name: --fn-20;
 }
 
@@ -721,7 +721,7 @@ hgroup h1 + p {
 }
 
 /* Fixes notes being too wide on small mobile devices. */
-[id^="fn\:"],
+[id^="fn"],
 [id^="mn\:"] {
   max-inline-size: none;
 }
@@ -747,7 +747,7 @@ hgroup h1 + p {
     #share-wrapper,
     #tags-wrapper,
     #space-occupier,
-    [id^="fn\:"],
+    [id^="fn"],
     [id^="mn\:"] { /* Fit sidebar width when wrapped */
       max-inline-size: 30ch;
     }
@@ -777,7 +777,7 @@ hgroup h1 + p {
     padding-inline-end: var(--s1);
   }
 
-  [id^="fn\:"],
+  [id^="fn"],
   [id^="mn\:"] {
     bottom: auto;
     anchor-name: --sidenote;
@@ -788,96 +788,98 @@ hgroup h1 + p {
       position: absolute;
     }
 
-    position: absolute;
-
     &::marker {
       color: var(--mpb-color-accent);
     }
   }
 
-  #fn\:1 {
+  [id^="fnref"] {
+    position: static;
+  }
+
+  #fn1 {
     position-anchor: --fn-1;
     /* inset-block-start: calc(anchor(start) - var(--s1)); /* Incompatible with css-anchor-positioning polyfill */
     top: calc(anchor(start));
   }
 
-  #fn\:2 {
+  #fn2 {
     position-anchor: --fn-2;
   }
 
-  #fn\:3 {
+  #fn3 {
     position-anchor: --fn-3;
   }
 
-  #fn\:4 {
+  #fn4 {
     position-anchor: --fn-4;
   }
 
-  #fn\:5 {
+  #fn5 {
     position-anchor: --fn-5;
   }
 
-  #fn\:6 {
+  #fn6 {
     position-anchor: --fn-6;
   }
 
-  #fn\:7 {
+  #fn7 {
     position-anchor: --fn-6;
   }
 
-  #fn\:7 {
+  #fn7 {
     position-anchor: --fn-7;
   }
 
-  #fn\:8 {
+  #fn8 {
     position-anchor: --fn-8;
   }
 
-  #fn\:9 {
+  #fn9 {
     position-anchor: --fn-9;
   }
 
-  #fn\:10 {
+  #fn10 {
     position-anchor: --fn-10;
   }
 
-  #fn\:11 {
+  #fn11 {
     position-anchor: --fn-11;
   }
 
-  #fn\:12 {
+  #fn12 {
     position-anchor: --fn-12;
   }
 
-  #fn\:13 {
+  #fn13 {
     position-anchor: --fn-13;
   }
 
-  #fn\:14 {
+  #fn14 {
     position-anchor: --fn-14;
   }
 
-  #fn\:15 {
+  #fn15 {
     position-anchor: --fn-15;
   }
 
-  #fn\:16 {
+  #fn16 {
     position-anchor: --fn-16;
   }
 
-  #fn\:17 {
+  #fn17 {
     position-anchor: --fn-17;
   }
 
-  #fn\:18 {
+  #fn18 {
     position-anchor: --fn-18;
   }
 
-  #fn\:19 {
+  #fn19 {
     position-anchor: --fn-19;
   }
 
-  #fn\:20 {
+  #fn20 {
     position-anchor: --fn-20;
   }
 

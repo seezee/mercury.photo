@@ -20,7 +20,8 @@ My name is <span class="h-card"><span class="p-given-name">[Chris J. Zähller](h
 
 After that, I inherited a couple of [my brother’s](https://www.facebook.com/musicsantacruz){target=_blank rel="external noopener"} cast-off digital point & shoots. They were okay, but nothing about them made me want to spend my vacation with a camera in front of my face instead of enjoying the sights unencumbered. Then something happened&nbsp;…&nbsp;to find out what, [read my first essay](/blog/circle-confusion-pt-1/).
 
-<footer aria-labelledby="#label-margin-notes">
+<hr class="marginnotes-sep" />
+<footer class="marginnotes" aria-labelledby="#label-marginnotes">
   <span class="sr-only" id="label-margin-notes">Notes</span>
   <ul class="marginnotes-list" role="list">
     <li id="mn:1" role="listitem">

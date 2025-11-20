@@ -4,7 +4,7 @@ function moveFootnote() {
 
   const sidebar   = document.getElementById(`sidenotes`);
   const list      = document.getElementsByClassName(`footnotes-list`);
-  const list2      = document.getElementsByClassName(`marginnotes-list`);
+  const list2     = document.getElementsByClassName(`marginnotes-list`);
 
   // Does the browser support position-anchor?
   // Commented out because we are using a the css-anchor-positioning polyfill
@@ -17,17 +17,19 @@ function moveFootnote() {
     }
 
     if (list.length) {
-      const footer  = list[0].closest(`footer`);
-      const rules   = footer.getElementsByTagName(`hr`);
-      const rule    = rules[0];
+      const section = document.getElementsByClassName(`footnotes`)[0];
+      const rule    = document.getElementsByClassName(`footnotes-sep`)[0];
 
-      small.append(footer);
+      small.append(section);
       rule.remove();
     };
 
     if (list2.length) {
-      const footer2 = list2[0].closest(`footer`);
-      small.append(footer2);
+      const footer = document.getElementsByClassName(`marginnotes`)[0];
+      const rule   = document.getElementsByClassName(`marginnotes-sep`)[0];
+
+      small.append(footer);
+      rule.remove();
     };
 
     const flexBoxQuery = `.flex_box_wrappable`;

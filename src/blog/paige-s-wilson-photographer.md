@@ -88,7 +88,8 @@ Digitization &amp; post-production
 : VueScan scanning software
 : Adobe [Lightroom](https://www.bhphotovideo.com/c/product/1140015-REG/adobe_65237402_photoshop_lightroom_6_download.html/BI/19462/KBID/11656/kw/ADPSLR6ESD/DFF/d10-v2-t1-xADPSLR6ESD){target=_blank rel="external noopener"}
 
-<footer aria-labelledby="#label-margin-notes">
+<hr class="marginnotes-sep" />
+<footer class="marginnotes" aria-labelledby="#label-marginnotes">
   <span class="sr-only" id="label-margin-notes">Notes</span>
   <ul class="marginnotes-list" role="list">
     <li id="mn:1" role="listitem">

@@ -171,7 +171,8 @@ Before we interviewed Easton we took some pictures of him tracking songs for the
   ![Tim Easton on X-Ray Film — Exposition Sessions](/assets/images/blog/2018-12-19-tim-easton-exposition/czahller-20181207-14-50-37.jpg)
 </mpb-dialog-gallery>
 
-<footer aria-labelledby="#label-margin-notes">
+<hr class="marginnotes-sep" />
+<footer class="marginnotes" aria-labelledby="#label-marginnotes">
   <span class="sr-only" id="label-margin-notes">Notes</span>
   <ul class="marginnotes-list" role="list">
     <li id="mn:1" role="listitem"><stack-l><mpb-dialog-img>
