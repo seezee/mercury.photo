@@ -13,7 +13,7 @@ function moveFootnote() {
     const small   = document.createElement(`small`);
     if ((list.length) || (list2.length)) {
       sidebar.append(small);
-      small.setAttribute(`id`, `footnote-wrapper`);
+      small.setAttribute(`id`, `footnotes-wrapper`);
     }
 
     if (list.length) {

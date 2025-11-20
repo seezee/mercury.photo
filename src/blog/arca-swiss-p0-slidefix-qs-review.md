@@ -168,10 +168,10 @@ Attaching a camera equipped with a compatible QS quick-release (QR) plate is sim
 
 <mpb-dialog-gallery hint rel cols="8">
   
-  ![Figure 1: Arca-Swiss QS clamp w/ QR plate&NoBreak;&hairsp;&NoBreak;&mdash;&oBreak;&hairsp;&NoBreak;inserting the plate](/assets/images/blog/2012-08-29-arca-swiss/arca_swiss_qs_qr_step_1.png)
-  ![Figure 2: Arca-Swiss QS clamp w/ QR plate &NoBreak;&hairsp;&NoBreak;&mdash;&oBreak;&hairsp;&NoBreak;lateral adjustment](/assets/images/blog/2012-08-29-arca-swiss/arca_swiss_qs_qr_step_2.png)
-  ![Figure 3: Arca-Swiss QS clamp&NoBreak;&hairsp;&NoBreak;&mdash;&oBreak;&hairsp;&NoBreak;securing the plate](/assets/images/blog/2012-08-29-arca-swiss/arca_swiss_qs_qr_step_3.png)
-  ![Figure 4: Arca-Swiss QS clamp w/ QR plate&NoBreak;&hairsp;&NoBreak;&mdash;&oBreak;&hairsp;&NoBreak;incorrect insertion](/assets/images/blog/2012-08-29-arca-swiss/arca_swiss_qs_qr_incorrect_insertion.png)
+  ![Figure 1: Arca-Swiss QS clamp w/ QR plate⁠ ⁠—⁠ ⁠inserting the plate](/assets/images/blog/2012-08-29-arca-swiss/arca_swiss_qs_qr_step_1.png)
+  ![Figure 2: Arca-Swiss QS clamp w/ QR plate ⁠ ⁠—⁠ ⁠lateral adjustment](/assets/images/blog/2012-08-29-arca-swiss/arca_swiss_qs_qr_step_2.png)
+  ![Figure 3: Arca-Swiss QS clamp⁠ ⁠—⁠ ⁠securing the plate](/assets/images/blog/2012-08-29-arca-swiss/arca_swiss_qs_qr_step_3.png)
+  ![Figure 4: Arca-Swiss QS clamp w/ QR plate⁠ ⁠—⁠ ⁠incorrect insertion](/assets/images/blog/2012-08-29-arca-swiss/arca_swiss_qs_qr_incorrect_insertion.png)
 </mpb-dialog-gallery>
 
 <mpb-callout type="tip">

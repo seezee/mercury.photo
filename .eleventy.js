@@ -382,9 +382,9 @@ module.exports = async function(eleventyConfig) {
   });
 
   // HTML minification
-  // if( is_production ) {
+  if( is_production ) {
     eleventyConfig.addPlugin(eleventyPluginFilesMinifier);
-  // };
+  };
 
   // Cache busting
   if ( is_production ) {
