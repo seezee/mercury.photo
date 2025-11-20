@@ -19,7 +19,7 @@ excerpt: Then Joe took a trip to Roswell. As I mentioned in Part 1, Joe rides mo
 
 <!-- markdownlint-enable MD025 --><mpb-dialog-img>
 
-{% image "./src/assets/images/blog/2012-08-18-circle-confusion-2/czahller-20120629-12-04-05.jpg", "img-constrained", "Actor Denise Crosby with her arm around Joe Crumley’s shoulder. Joe is half-a-head shorter than Crosby. He wears glasses and has fine white hair and sharp features.", "Joe with Denise Crosby (he has no idea who she is)" %}</mpb-dialog-img>
+{% image "./src/assets/images/blog/2012-08-18-circle-confusion-2/czahller-20120629-12-04-05.jpg", "img-constrained", "Actor Denise Crosby with her arm around Joe Crumley’s shoulder. Joe is half-a-head shorter than Crosby. He wears glasses and has fine white hair and sharp features.", "Joe with Denise Crosby (he has no idea who she is)", "eager" %}</mpb-dialog-img>
 
 Then <span class="h-card p-name p-given-name">Joe</span> took a trip to Roswell. As I mentioned in [Part 1](/blog/circle-confusion-pt-1/){rel=prev}, Joe rides motorcycles: BMWs, Kawasakis, and more recently a Harley. He’s also interested in UFOs and the Roswell Incident. I think he’s more interested in the characters who are drawn to them than to the alleged aliens and spacecraft themselves, but his interest is enough that he’s made several trips out there by motorbike, always during the annual UFO convention.
 

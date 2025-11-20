@@ -19,7 +19,7 @@ excerpt: I spent the next couple of months obsessively researching Leica cameras
 Research</stack-l></hgroup>
 <!-- markdownlint-enable MD025 --><mpb-dialog-img>
 
-{% image "./src/assets/images/blog/2012-08-22-circle-confusion-3/czahller-20120822-14-21-57.jpg", "img-constrained", "Leica Hektor 135mm f/4.5 lens. The lens is chrome with black Vulcanite and a black plastic rear cap. The front cap is aluminum and is debossed with the Leica script wordmark.", "Leica Hektor 135mm f/4.5 lens" %}</mpb-dialog-img>
+{% image "./src/assets/images/blog/2012-08-22-circle-confusion-3/czahller-20120822-14-21-57.jpg", "img-constrained", "Leica Hektor 135mm f/4.5 lens. The lens is chrome with black Vulcanite and a black plastic rear cap. The front cap is aluminum and is debossed with the Leica script wordmark.", "Leica Hektor 135mm f/4.5 lens", "eager" %}</mpb-dialog-img>
 
 I spent the next couple of months obsessively researching Leica cameras and lenses. I began by downloading the [owner’s manual](https://www.cameramanuals.org/leica_pdf/leica_m3.pdf){target=_blank rel="external noopener"} for the M3 rangefinder. Then I practiced composing and focusing with no film in the camera.
 

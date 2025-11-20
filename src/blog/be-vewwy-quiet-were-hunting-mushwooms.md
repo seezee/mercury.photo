@@ -93,7 +93,7 @@ recipe: '<script type="application/ld+json">
 <p>Wet, warm spring spawns spectacular ’shrooms</p></stack-l></hgroup>
 <!-- markdownlint-enable MD025 --><mpb-dialog-img>
 
-{% image "./src/assets/images/blog/2019-04-19-mushroom-hunt/czahller-20190408-16-45-43.jpg", "img-constrained", "RT Valine displaying his morel haul and brandishing his mushroom knife", "The Mighty Hunter’s Bounty&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;Oklahoma Morel Foraging, 2019" %}</mpb-dialog-img>
+{% image "./src/assets/images/blog/2019-04-19-mushroom-hunt/czahller-20190408-16-45-43.jpg", "img-constrained", "RT Valine displaying his morel haul and brandishing his mushroom knife", "The Mighty Hunter’s Bounty&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;Oklahoma Morel Foraging, 2019", "eager" %}</mpb-dialog-img>
 
 My friend <span class="h-card p-name">[RT Valine](/blog/woodyfest-2018-brad-fielder-rt-valine/)</span> and his wife <span class="h-card p-name p-given-name">Jackie</span> were visiting the Bureau one evening and we got to discussing food and cooking. The Valines live in rural Allen, Oklahoma. When the conditions are right, they have access to wild morel mushrooms.{.drop-cap}
 

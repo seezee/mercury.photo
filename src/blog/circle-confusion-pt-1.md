@@ -18,7 +18,7 @@ excerpt: My best friend Joe Crumley is an interesting character.
 
 <!-- markdownlint-enable MD025 --><mpb-dialog-img>
 
-{% image "./src/assets/images/blog/2012-07-17-circle-confusion-1/czahller-20120324-19-23-43.jpg", "img-constrained", "Joe, a slight, older man with fine white hair & eyeglasses, holding a black-painted Leica rangefinder camera. The image is monochrome with blue & green split-toning.", "Joe Crumley with his trusty Leica M4-P." %}</mpb-dialog-img>
+{% image "./src/assets/images/blog/2012-07-17-circle-confusion-1/czahller-20120324-19-23-43.jpg", "img-constrained", "Joe, a slight, older man with fine white hair & eyeglasses, holding a black-painted Leica rangefinder camera. The image is monochrome with blue & green split-toning.", "Joe Crumley with his trusty Leica M4-P.", "eager" %}</mpb-dialog-img>
 
 <figure>
   <figcaption>Dedication</figcaption>

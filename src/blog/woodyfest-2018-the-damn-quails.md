@@ -27,7 +27,7 @@ excerpt: According to their band bio, The Damn Quails began life as a weekly jam
 <p>From jam session to touring band</p></stack-l></hgroup>
 <!-- markdownlint-enable MD025 --><mpb-dialog-img>
 
-{% image "./src/assets/images/blog/2018-12-21-woodyfest-damn-quails/czahller-20180713-18-12-27-crop.jpg", "img-constrained", "Cigarette (detail) — 21st Annual Woody Guthrie Festival, 2018", "Cigarette (detail)&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;21st Annual Woody Guthrie Festival, 2018" %}</mpb-dialog-img>
+{% image "./src/assets/images/blog/2018-12-21-woodyfest-damn-quails/czahller-20180713-18-12-27-crop.jpg", "img-constrained", "Cigarette (detail) — 21st Annual Woody Guthrie Festival, 2018", "Cigarette (detail)&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;21st Annual Woody Guthrie Festival, 2018", "eager" %}</mpb-dialog-img>
 
 According to their band bio, <span class="h-card p-org">The Damn Quails</span> began life as a weekly jam session between songwriters and core band members <span class="h-card p-name">Gabe Marshall</span> and <span class="h-card p-name">Bryon White</span>. Eventually expanding to a five-piece act, the band added drummer <span class="h-card p-name">Thomas Young</span>, multi-instrumentalist and singer <span class="h-card p-name">Kevin <span class="p-nickname">“Haystack”</span> Foster</span>, and bassist <span class="h-card p-name">Dillon Sampson</span>.{.drop-cap}
 

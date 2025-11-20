@@ -18,7 +18,7 @@ excerpt: To launch our new collaboration with director Mike Walsh, we were the l
 
 <!-- markdownlint-enable MD025 --><mpb-dialog-img>
 
-{% image "./src/assets/images/blog/2013-05-22-rev-hi-fi-ogdens/screenshot-youtube-rev-hifi-ogdens-nut-gone-flake.jpg", "img-constrained", "Medium portrait of the author. He wears vintage two-tone eyeglass frames and a porkpie hat, a vintage rayon scarf, a green plaid flannel shirt, and a bulky green cable-knit fisherman’s cardigan. He sports an inverted handlebar moustache, also known as a biker ’stache.", "Lighting Test" %}</mpb-dialog-img>
+{% image "./src/assets/images/blog/2013-05-22-rev-hi-fi-ogdens/screenshot-youtube-rev-hifi-ogdens-nut-gone-flake.jpg", "img-constrained", "Medium portrait of the author. He wears vintage two-tone eyeglass frames and a porkpie hat, a vintage rayon scarf, a green plaid flannel shirt, and a bulky green cable-knit fisherman’s cardigan. He sports an inverted handlebar moustache, also known as a biker ’stache.", "Lighting Test", "eager" %}</mpb-dialog-img>
 
 To launch our new collaboration with director <span class="h-card p-name">Mike Walsh</span>, <span class="h-card p-org">Mercury Photo Bureau</span> was the latest guest on his <cite>Rev Hi-Fi</cite> video series. See more [<cite>Rev Hi-Fi</cite> here](){target=_blank rel="external noopener"}</a>.
 

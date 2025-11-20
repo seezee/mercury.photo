@@ -25,7 +25,7 @@ excerpt: This writer had only one official assignment at the big outdoor stage o
 <!-- markdownlint-enable MD025 -->
 <mpb-dialog-img>
 
-{% image "./src/assets/images/blog/2019-02-11-woodyfest-crouch-irion-fullbright/czahller-20180714-23-08-16.jpg", "img-constrained", "John Fullbright at the Keyboard — 21st Annual Woody Guthrie Festival, 2018", "John Fullbright at the Keyboard — 21st Annual Woody Guthrie Festival, 2018" %}</mpb-dialog-img>
+{% image "./src/assets/images/blog/2019-02-11-woodyfest-crouch-irion-fullbright/czahller-20180714-23-08-16.jpg", "img-constrained", "John Fullbright at the Keyboard — 21st Annual Woody Guthrie Festival, 2018", "John Fullbright at the Keyboard — 21st Annual Woody Guthrie Festival, 2018", "eager" %}</mpb-dialog-img>
 
 ## Closing Night
 

@@ -28,7 +28,7 @@ excerpt: In my sophomore high school year, my family moved from the house we had
 <p>Musical perfectionist plays the crystal</p></stack-l></hgroup>
 <!-- markdownlint-enable MD025 --><mpb-dialog-img>
 
-{% image "./src/assets/images/blog/2019-01-28-woodyfest-willis-alan-ramsey/czahller-20180714-17-57-07.jpg", "img-constrained", "Willis (XIII) — 21st Annual Woody Guthrie Festival, 2018", "Willis (XIII)&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;21st Annual Woody Guthrie Festival, 2018" %}</mpb-dialog-img>
+{% image "./src/assets/images/blog/2019-01-28-woodyfest-willis-alan-ramsey/czahller-20180714-17-57-07.jpg", "img-constrained", "Willis (XIII) — 21st Annual Woody Guthrie Festival, 2018", "Willis (XIII)&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;21st Annual Woody Guthrie Festival, 2018", "eager" %}</mpb-dialog-img>
 
 ## Little Animals
 

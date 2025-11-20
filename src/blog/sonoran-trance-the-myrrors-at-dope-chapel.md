@@ -21,7 +21,7 @@ excerpt: Forming in 2007 while its members were in high school, The Myrrors play
 
 <!-- markdownlint-enable MD025 --><mpb-dialog-img>
 
-{% image "./src/assets/images/blog/2020-09-04-myrrors/czahller-20150511-22-26-33.jpg", "img-constrained", "The Myrrors (II) — The Myrrors at Dope Chapel", "The Myrrors (II) — The Myrrors at Dope Chapel" %}</mpb-dialog-img>
+{% image "./src/assets/images/blog/2020-09-04-myrrors/czahller-20150511-22-26-33.jpg", "img-constrained", "The Myrrors (II) — The Myrrors at Dope Chapel", "The Myrrors (II) — The Myrrors at Dope Chapel", "eager" %}</mpb-dialog-img>
 
 ## Sonoran Trance
 

@@ -20,7 +20,7 @@ excerpt: My acquaintance Robert Mark Campbell recently adopted a five-year-old c
 <!-- markdownlint-enable MD025 -->
 <mpb-dialog-img>
 
-{% image "./src/assets/images/blog/2015-01-27-okra/czahller-20150119-03-16-49.jpg", "img-constrained", "Okra, a small, black cairn terrier, lying on the seat of an hardwood arts and crafts—style chair. Her big, dark, warm, wet eyes look straight at the camera, evoking sympathy in the viewer.", "Okra in Chair (III)" %}</mpb-dialog-img>
+{% image "./src/assets/images/blog/2015-01-27-okra/czahller-20150119-03-16-49.jpg", "img-constrained", "Okra, a small, black cairn terrier, lying on the seat of an hardwood arts and crafts—style chair. Her big, dark, warm, wet eyes look straight at the camera, evoking sympathy in the viewer.", "Okra in Chair (III)", "eager" %}</mpb-dialog-img>
 
 My acquaintance <span class="h-card p-name">Robert Mark Campbell</span> (he goes by “Mark”) recently adopted a five-year-old cairn terrier after his longtime therapy dog <span class="h-card p-name">Mr. Miyagi</span> died. The terrier’s name is <span class="h-card p-name">Mayella Okra</span>, or Okra for short.
 

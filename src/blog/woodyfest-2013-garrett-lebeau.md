@@ -30,7 +30,7 @@ Blues & soul from the high plains
   </stack-l>
 </hgroup><mpb-dialog-img>
 
-{% image "./src/assets/images/blog/2013-10-07-garrett-lebeau/czahller-20130713-19-48-02.jpg", "img-constrained", "LeBeau looking straight at the camera as he plays a guitar solo. His face is partially obscured by his sunglasses and hair.", "Garrett (IX)" %}</mpb-dialog-img>
+{% image "./src/assets/images/blog/2013-10-07-garrett-lebeau/czahller-20130713-19-48-02.jpg", "img-constrained", "LeBeau looking straight at the camera as he plays a guitar solo. His face is partially obscured by his sunglasses and hair.", "Garrett (IX)", "eager" %}</mpb-dialog-img>
 
 <blockquote cite="https://garrettlebeau.com/">
 

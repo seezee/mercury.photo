@@ -24,7 +24,7 @@ excerpt: By some standards, Jamie Lin Wilson is a late bloomer. She was nineteen
 
 <!-- markdownlint-enable MD025 --><mpb-dialog-img>
 
-{% image "./src/assets/images/blog/2020-04-05-woodyfest-jamie-lin-wilson/czahller-20190711-22-16-03.jpg", "img-constrained", "Jamie Lin Wilson (Smile) — 22nd Annual Woody Guthrie Festival, 2019", "Jamie Lin Wilson (Smile)&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;22nd Annual Woody Guthrie Festival, 2019" %}</mpb-dialog-img>
+{% image "./src/assets/images/blog/2020-04-05-woodyfest-jamie-lin-wilson/czahller-20190711-22-16-03.jpg", "img-constrained", "Jamie Lin Wilson (Smile) — 22nd Annual Woody Guthrie Festival, 2019", "Jamie Lin Wilson (Smile)&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;22nd Annual Woody Guthrie Festival, 2019", "eager" %}</mpb-dialog-img>
 
 By some standards, <span class="h-card p-name">Jamie Lin Wilson</span> is a late bloomer. She was nineteen when she heard <span class="h-card p-name">Natlie Maines</span> performing a solo during a <span class="h-card p-org">Dixie Chicks</span>[^1] concert. After she dropped a few casual remarks to her mother and a cousin she found herself unwrapping an acoustic guitar on Christmas morning.
 

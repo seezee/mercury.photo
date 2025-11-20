@@ -26,7 +26,7 @@ excerpt: Let’s just get it out of the way. Chloe-Beth Campbell (just "Chloe-Be
 <p>Young singer-songwriter returns to Woodyfest</p></stack-l></hgroup>
 <!-- markdownlint-enable MD025 --><mpb-dialog-img>
 
-{% image "./src/assets/images/blog/2018-11-30-woodyfest-chloe-beth/czahller-20180713-13-08-49.jpg", "img-constrained", "Chloe-Beth with Audience — 21st Annual Woody Guthrie Festival, 2018", "Chloe-Beth with Audience&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;21st Annual Woody Guthrie Festival, 2018" %}</mpb-dialog-img>
+{% image "./src/assets/images/blog/2018-11-30-woodyfest-chloe-beth/czahller-20180713-13-08-49.jpg", "img-constrained", "Chloe-Beth with Audience — 21st Annual Woody Guthrie Festival, 2018", "Chloe-Beth with Audience&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;21st Annual Woody Guthrie Festival, 2018", "eager" %}</mpb-dialog-img>
 
 Let’s just get it out of the way. <span class="h-card p-name">Chloe-Beth Campbell</span> (just "Chloe-Beth" when she performs) is tiny. Just shy of 4&prime;11&Prime; and weighing 110 pounds, she usually has to lower the microphone if she’s following another musician. And every article you’re going to read about her from today until she’s holding her second Grammy in twenty years is going to start <q>The petite singer from Oklahoma […],</q> which is entirely besides the point.{.drop-cap}
 

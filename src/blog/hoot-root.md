@@ -22,7 +22,7 @@ excerpt: Visual artists and musicians pooled their talents last Saturday to rais
 <p>Artists raise funds for festival</p></stack-l></hgroup>
 <!-- markdownlint-enable MD025 --><mpb-dialog-img>
 
-{% image "./src/assets/images/blog/2018-04-23-hoot-root/czahller-20180421-18-33-09.jpg", "img-constrained", "Joshua Pōlaschek smiling at audience", "Happy" %}</mpb-dialog-img>
+{% image "./src/assets/images/blog/2018-04-23-hoot-root/czahller-20180421-18-33-09.jpg", "img-constrained", "Joshua Pōlaschek smiling at audience", "Happy", "eager" %}</mpb-dialog-img>
 
 Visual artists and musicians pooled their talents <time datetime="2018-04-21">last Saturday</time> to raise money for the annual <a href="https://woodyfest.com"><span class="h-card p-org"><span class="p-name"><span class="p-nickname">Woody</span> Guthrie</span> Folk Festival</span></a>. Hosted by music venue and bar The Root[^1], the event featured artwork donated by Oklahoma artists <span class="h-card p-name">Sharra Beard</span>, <span class="h-card p-name">Nora Bisher</span>, <span class="h-card p-name">April Holder</span>, <span class="h-card p-name">Susan Yback</span> and others. <span class="h-card p-name">Mary Katherine Long</span> donated several prints by her late husband, photographer <span class="h-card p-name">[Tom Lee](https://cf.photoeye.com/bookstore/citation.cfm?Catalog=ZD462){target=_blank rel="external noopener"}</span>.{.drop-cap}
 

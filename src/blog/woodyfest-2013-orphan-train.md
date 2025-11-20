@@ -29,7 +29,7 @@ Pair recounts dark historical chapter in story & song
   </stack-l>
 </hgroup><mpb-dialog-img>
 
-{% image "./src/assets/images/blog/2013-10-17-woodyfest-orphan-train/czahller-20130711-17-44-24.jpg", "img-constrained", "Phil Lancaster & Alison Moore performing a song, accompanied by banjo & guitar", "Phil & Alison (I)" %}</mpb-dialog-img>
+{% image "./src/assets/images/blog/2013-10-17-woodyfest-orphan-train/czahller-20130711-17-44-24.jpg", "img-constrained", "Phil Lancaster & Alison Moore performing a song, accompanied by banjo & guitar", "Phil & Alison (I)", "eager" %}</mpb-dialog-img>
 
 <blockquote cite="https://web.archive.org/web/20131019132259/https://www.ridersontheorphantrain.org/testimonials.html">
 

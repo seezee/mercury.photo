@@ -22,7 +22,7 @@ excerpt: Last Tuesday evening the Faculty Heights neighborhood joined thousands 
 <p>Neighbors meet & greet local politicians, community peace officers</p></stack-l></hgroup>
 <!-- markdownlint-enable MD025 --><mpb-dialog-img>
 
-{% image "./src/assets/images/blog/2018-10-09-natl-night-out/czahller-20181002-17-41-24.jpg", "img-constrained", "Michael Walker, Grillmaster — Faculty Heights Neighborhood National Night Out, 2018", "Michael Walker, Grillmaster&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;Faculty Heights Neighborhood National Night Out, 2018" %}</mpb-dialog-img>
+{% image "./src/assets/images/blog/2018-10-09-natl-night-out/czahller-20181002-17-41-24.jpg", "img-constrained", "Michael Walker, Grillmaster — Faculty Heights Neighborhood National Night Out, 2018", "Michael Walker, Grillmaster&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;Faculty Heights Neighborhood National Night Out, 2018", "eager" %}</mpb-dialog-img>
 
 <time datetime="2018-08-19">Last Tuesday evening</time> the Faculty Heights neighborhood joined thousands of others across the U.S. to celebrate National Night Out.[^1] Neighborhood residents gathered at host <span class="h-card p-name">Miranda Arana</span>’s home[^2] to share food and fellowship. Ward Four councilman <span class="h-card p-name">Bill Hickman</span> dropped in to answer questions about city construction projects, traffic calming, the <abbr title="University North Park">UNP</abbr> <abbr title="Tax Increment Finance">TIF</abbr>, and other concerns. Norman PD’s Lieutenant Cary Bryant and one of his officers also joined the gathering to take questions and address concerns.{.drop-cap}
 

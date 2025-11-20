@@ -23,7 +23,7 @@ excerpt: I met “Princess of Twang” Nancy Apple in 2013, my first year volunt
 
 <!-- markdownlint-enable MD025 --><mpb-dialog-img>
 
-{% image "./src/assets/images/blog/2022-01-03-woodyfest-nancy-apple/czahller-20140711-11-02-25.jpg", "img-constrained", "Nancy Apple photographed from upstage as she is about to start her set at the 2014 Woody Guthrie Folk Festival", "Nancy Apple photographed from upstage as she is about to start her set at the 2014 Woody Guthrie Folk Festival" %}</mpb-dialog-img>
+{% image "./src/assets/images/blog/2022-01-03-woodyfest-nancy-apple/czahller-20140711-11-02-25.jpg", "img-constrained", "Nancy Apple photographed from upstage as she is about to start her set at the 2014 Woody Guthrie Folk Festival", "Nancy Apple photographed from upstage as she is about to start her set at the 2014 Woody Guthrie Folk Festival", "eager" %}</mpb-dialog-img>
 
 I met “Princess of Twang” <span class="h-card p-name">Nancy Apple</span> in <time datetime="2013-07-12">2013</time>, my first year volunteering to document the Woody Guthrie Folk Festival. I had photographed her earlier in the day and happened to sit next to her at the communal dinner backstage at the Pastures of Plenty.
 

@@ -81,7 +81,7 @@ excerpt: Site map of mercury.photo
 <!-- markdownlint-enable MD025 -->
 <mpb-dialog-img>
 
-{% image "./src/assets/images/site/site-map/indian-territory-map.jpg", "img-constrained", "1892 map of the Indian Territory (Oklahoma)." %}</mpb-dialog-img>
+{% image "./src/assets/images/site/site-map/indian-territory-map.jpg", "img-constrained", "1892 map of the Indian Territory (Oklahoma).", "1892 map of the Indian Territory (Oklahoma), Library of Congress", "eager" %}</mpb-dialog-img>
 
 <p hidden>This is the site map.</p><div class="col-3 divider" id="sitemap"><stack-l>
 

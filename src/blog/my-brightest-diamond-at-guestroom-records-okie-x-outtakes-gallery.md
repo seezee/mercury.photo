@@ -30,7 +30,7 @@ excerpt: My first encounter with the music of My Brightest Diamond was a track o
 <p>Chamber pop chanteuse enchants</p></stack-l></hgroup>
 <!-- markdownlint-enable MD025 --><mpb-dialog-img>
 
-{% image "./src/assets/images/blog/2019-04-17-my-brightest-diamond/czahller-20190406-14-48-35.jpg", "img-constrained", "Shara Nova (Outtake 2) — OKIE-X (Oklahoma Musicians on X-ray Film)", "Shara Nova (Outtake 2)&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;OKIE-X (Oklahoma Musicians on X-ray Film)" %}</mpb-dialog-img>
+{% image "./src/assets/images/blog/2019-04-17-my-brightest-diamond/czahller-20190406-14-48-35.jpg", "img-constrained", "Shara Nova (Outtake 2) — OKIE-X (Oklahoma Musicians on X-ray Film)", "Shara Nova (Outtake 2)&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;OKIE-X (Oklahoma Musicians on X-ray Film)", "eager" %}</mpb-dialog-img>
 
 My first encounter with the music of <span class="h-card p-org"><a href="https://geo.itunes.apple.com/us/artist/my-brightest-diamond/174818899?mt=1&app=music&at=10ldhk" target="_ blank" rel="external noopener">My Brightest Diamond</a></span> was a track on a <span class="h-card p-org">RED + HOT</span> compilation.[^1] During the summer break, my neighbor’s teenage daughter and her friend used to hang out in my living room and spin CDs on my hi-fi. One day she brought over <cite>[Dark Was the Night](https://geo.itunes.apple.com/us/album/dark-was-the-night/303463575?mt=1&app=music&at=10ldhk){target=_blank rel="external noopener"}</cite>, the fifteenth entry in the RED + HOT series.{.drop-cap}
 

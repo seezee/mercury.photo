@@ -21,7 +21,7 @@ excerpt: Self-described “folk-punk” singer-songwriter Annie Guthrie performe
 
 <!-- markdownlint-enable MD025 --><mpb-dialog-img>
 
-{% image "./src/assets/images/blog/2020-04-16-woodyfest-2019-annie-guthrie/czahller-20190712-15-29-37.jpg", "img-constrained", "Annie Guthrie (with Arlo & Cathy) — 22nd Annual Woody Guthrie Festival, 2019", "Annie Guthrie (with Arlo & Cathy)&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;22nd Annual Woody Guthrie Festival, 2019" %}</mpb-dialog-img>
+{% image "./src/assets/images/blog/2020-04-16-woodyfest-2019-annie-guthrie/czahller-20190712-15-29-37.jpg", "img-constrained", "Annie Guthrie (with Arlo & Cathy) — 22nd Annual Woody Guthrie Festival, 2019", "Annie Guthrie (with Arlo & Cathy)&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;22nd Annual Woody Guthrie Festival, 2019", "eager" %}</mpb-dialog-img>
 
 Self-described "folk-punk" singer-songwriter <span class="h-card p-name">Annie Guthrie</span> performed a set on the <span class="h-card p-org">Crystal Theatre</span> stage on festival <time datetime="2019-07-12T15:00-5:00">Friday</time>.
 

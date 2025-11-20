@@ -22,7 +22,7 @@ excerpt: Concluding our Skating Polly interview, stepsisters Peyton Bighorse and
 
 <!-- markdownlint-enable MD025 --><mpb-dialog-img>
 
-{% image "./src/assets/images/blog/2013-05-24-skating-polly-interview-2/czahller-20130505-23-03-11.jpg", "img-constrained", "Peyton & Kelli sit behind a sidewalk lemonade stand. The stand is a grey typewriter stand. A silver metal pitcher and two pint glasses of lemonade adorn the stand. Peyton & Kelli smile broadly. A hand-made sign taped to the front of the stand declares “Lemonade 5¢.”", "Not Just a Lemonade Stand" %}</mpb-dialog-img>
+{% image "./src/assets/images/blog/2013-05-24-skating-polly-interview-2/czahller-20130505-23-03-11.jpg", "img-constrained", "Peyton & Kelli sit behind a sidewalk lemonade stand. The stand is a grey typewriter stand. A silver metal pitcher and two pint glasses of lemonade adorn the stand. Peyton & Kelli smile broadly. A hand-made sign taped to the front of the stand declares “Lemonade 5¢.”", "Not Just a Lemonade Stand", "eager" %}</mpb-dialog-img>
 
 <blockquote>
 

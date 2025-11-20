@@ -19,7 +19,7 @@ excerpt: Cleveland County voters may cast their ballots before Tuesday at the Cl
 
 <!-- markdownlint-enable MD025 --><mpb-dialog-img>
 
-{% image "./src/assets/images/blog/2014-10-30-midterm-early-voting/czahller-20141030-10-39-13.jpg", "img-constrained", "Election official (Sue), a middle-aged blond woman, seated & smiling, wearing a cardigan and eyeglasses", "Sue" %}</mpb-dialog-img>
+{% image "./src/assets/images/blog/2014-10-30-midterm-early-voting/czahller-20141030-10-39-13.jpg", "img-constrained", "Election official (Sue), a middle-aged blond woman, seated & smiling, wearing a cardigan and eyeglasses", "Sue", "eager" %}</mpb-dialog-img>
 
 [NORMAN, Okla., 30 Oct. 2014]&NoBreak;&hairsp;&NoBreak;&mdash;{.no-drop-cap}
 

@@ -20,7 +20,7 @@ ogtype: website
 <!-- markdownlint-enable MD025 -->
 <mpb-dialog-img>
 
-{% image "./src/assets/images/blog/2012-10-24-zombie-run/czahller-20121006-16-05-52.jpg", "img-constrained", "A person dressed and made up as a zombie looking a smartphone screen", "" %}
+{% image "./src/assets/images/blog/2012-10-24-zombie-run/czahller-20121006-16-05-52.jpg", "img-constrained", "A person dressed and made up as a zombie looking a smartphone screen", "", "eager" %}
 </mpb-dialog-img>
 
 Learn about my office hours, download my contact information, or send me a message.

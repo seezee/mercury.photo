@@ -17,7 +17,7 @@ excerpt: My cousin and his fiancée celebrated the baptism and christening of th
 
 <!-- markdownlint-enable MD025 --><mpb-dialog-img>
 
-{% image "./src/assets/images/blog/2013-07-01-baptism/czahller-20130701-18-29-16.jpg", "img-constrained", "Christening. The mother holds a candle while her mother-in-law observes. The father holds the baby. Father Goins annoints baby’s forehead with sacramental oil.", "We Annoint You with the Oil of Salvation" %}</mpb-dialog-img>
+{% image "./src/assets/images/blog/2013-07-01-baptism/czahller-20130701-18-29-16.jpg", "img-constrained", "Christening. The mother holds a candle while her mother-in-law observes. The father holds the baby. Father Goins annoints baby’s forehead with sacramental oil.", "We Annoint You with the Oil of Salvation", "eager" %}</mpb-dialog-img>
 
 My cousin and his fiancée celebrated the baptism and christening of their infant daughter <time datetime="2013-07-01">last Sunday</time> at <span class="h-card p-org">Saint Thomas More University Parish</span>. She was a little over a week old. The <span class="h-card p-name"><span class="p-name-honorific">Reverend</span> James A. Goins</span> presided over the sacrament. For the baby’s saint name, the parents chose “Colette,” after the foundress of the Colettine Poor Clares, a.k.a. the Poor Clares.
 

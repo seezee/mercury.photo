@@ -18,7 +18,7 @@ excerpt: Adobe Lightroom is a powerful tool for managing and processing digital 
 
 <!-- markdownlint-enable MD025 --><mpb-dialog-img>
 
-{% image "./src/assets/images/blog/2012-09-04-lr-tut/czahller-20120715-01-55-12-final.jpg", "img-constrained", "A gaunt, elderly man with long hair, a long beard, and piercing eyes sits in the dark, his face illuminated by a torch.", "Greybeard (Richard)" %}</mpb-dialog-img>
+{% image "./src/assets/images/blog/2012-09-04-lr-tut/czahller-20120715-01-55-12-final.jpg", "img-constrained", "A gaunt, elderly man with long hair, a long beard, and piercing eyes sits in the dark, his face illuminated by a torch.", "Greybeard (Richard)", "eager" %}</mpb-dialog-img>
 
 Adobe Lightroom is a powerful tool for managing and processing digital photos. It can catalogue and organize your photos, automate online publishing, batch process, manage metadata (<abbr title="Exchangeable image file format: A standard specifying the formats for Metadata in digital image and sound files.">EXIF</abbr> and <abbr title="Metadata standard developed by the The International Press Telecommunications Council.">IPTC</abbr>), and watermark your images on export. It can also apply essential basic image adjustments non-destructively: All changes are written to a database, leaving your original image untouched, so you can always revert.
 

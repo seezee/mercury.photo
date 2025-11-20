@@ -29,7 +29,7 @@ excerpt: This year’s Woodyfest continued a long-standing tradition of providin
 <p>Festival continues years-long tradition</p></stack-l></hgroup>
 <!-- markdownlint-enable MD025 --><mpb-dialog-img>
 
-{% image "./src/assets/images/blog/2018-12-03-woodyfest-scott-taylor/czahller-20180713-13-50-26.jpg", "img-constrained", "Scott (I) — 21st Annual Woody Guthrie Festival, 2018", "Scott (I)&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;21st Annual Woody Guthrie Festival, 2018" %}</mpb-dialog-img>
+{% image "./src/assets/images/blog/2018-12-03-woodyfest-scott-taylor/czahller-20180713-13-50-26.jpg", "img-constrained", "Scott (I) — 21st Annual Woody Guthrie Festival, 2018", "Scott (I)&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;21st Annual Woody Guthrie Festival, 2018", "eager" %}</mpb-dialog-img>
 
 This year’s Woodyfest continued a long-standing tradition of providing accessible entertainment throughout the host-town of Okemah. On <time datetime="2018-07-13T13:50:01-5:00">festival Friday</time>, the <span class="h-card p-name"><span class="p-honorific">Reverend <abbr class="noscaps">Dr.</abbr></span> Scott Taylor</span> brought a mix of traditional and original songs to the Colonial Park Manor nursing home.{.drop-cap}
 

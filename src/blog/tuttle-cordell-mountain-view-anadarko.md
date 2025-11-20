@@ -22,7 +22,7 @@ excerpt: On the same weekend that Joe and I traveled to Roosevelt, we stopped to
 
 <!-- markdownlint-enable MD025 --><mpb-dialog-img>
 
-{% image "./src/assets/images/blog/2017-08-11-tuttle-etc/czahller-20170730-10-30-19.jpg", "img-constrained", "Washita County Courthouse", "Washita County Courthouse" %}</mpb-dialog-img>
+{% image "./src/assets/images/blog/2017-08-11-tuttle-etc/czahller-20170730-10-30-19.jpg", "img-constrained", "Washita County Courthouse", "Washita County Courthouse", "eager" %}</mpb-dialog-img>
 
 <time datetime="20170730">On the same weekend</time> that <span class="h-card p-given-name">Joe</span> and I traveled to [Roosevelt](/blog/downtown-roosevelt-oklahoma/), we stopped to photograph several other small towns. Our first stop was Tuttle, where I saw this granary next to the railroad tracks. I also took a shot of it with a Leica IIIf, but forgot to pull out the collapsible lens, so it’s probably no good. We’ll see when I develop the film.
 

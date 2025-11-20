@@ -20,7 +20,7 @@ excerpt: Jarvix. The man. The musician. The mystery. Evan Jarvicks came by the s
 
 <!-- markdownlint-enable MD025 --><mpb-dialog-img>
 
-{% image "./src/assets/images/blog/2016-09-04-jarvix/czahller-20160421-18-42-58.jpg", "img-constrained", "Evan Jarvicks plays a ukelele solo during the Norman Music Festival", "Uke Solo" %}</mpb-dialog-img>
+{% image "./src/assets/images/blog/2016-09-04-jarvix/czahller-20160421-18-42-58.jpg", "img-constrained", "Evan Jarvicks plays a ukelele solo during the Norman Music Festival", "Uke Solo", "eager" %}</mpb-dialog-img>
 
 <div class="drop-cap descender">
 

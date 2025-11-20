@@ -26,7 +26,7 @@ excerpt: Between 2018 and 2019 I did some horsetrading and upgraded my Hasselbla
 
 <!-- markdownlint-enable MD025 --><mpb-dialog-img>
 
-{% image "./src/assets/images/blog/2020-04-01-woodyfest-backstage/czahller-20190711-20-57-04.jpg", "img-constrained", "Unidentified VIP (Backstage) (Backstage) — 22nd Annual Woody Guthrie Festival, 2019", "Unidentified VIP (Backstage) (Backstage)&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;22nd Annual Woody Guthrie Festival, 2019" %}</mpb-dialog-img>
+{% image "./src/assets/images/blog/2020-04-01-woodyfest-backstage/czahller-20190711-20-57-04.jpg", "img-constrained", "Unidentified VIP (Backstage) (Backstage) — 22nd Annual Woody Guthrie Festival, 2019", "Unidentified VIP (Backstage) (Backstage)&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;22nd Annual Woody Guthrie Festival, 2019", "eager" %}</mpb-dialog-img>
 
 Between <time datetime="2018">2018</time> and <time datetime="2019">2019</time> I did some horsetrading and upgraded my [Hasselblad 500C/M](https://camerapedia.fandom.com/wiki/Hasselblad_500_C/M){target=_blank rel="external noopener"} to a [503cx](https://www.kenrockwell.com/hasselblad/503-cx.htm){target=_blank rel="external noopener"}. I also acquired a Hasselblad Nr. 45071 pistol grip so I could mount a Vivitar 285HV Zoom Thyristor flash in place of my bulkier Sunpak 622. But otherwise I took these pictures with the same equipment and film as <time datetime="2018-07">last year's</time> backstage photos.
 

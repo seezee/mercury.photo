@@ -23,7 +23,7 @@ excerpt: Critically praised Choctaw singer Samantha Crain appeared on the Crysta
 
 <!-- markdownlint-enable MD025 --><mpb-dialog-img>
 
-{% image "./src/assets/images/blog/2020-04-03-woodyfest-samantha-crain/czahller-20130712-17-34-24.jpg", "img-constrained", "Guitar Break — Samantha Crain at the Crystal Theatre, Woody Guthrie Folk Festival 16", "Guitar Break&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;Samantha Crain at the Crystal Theatre, Woody Guthrie Folk Festival 16" %}</mpb-dialog-img>
+{% image "./src/assets/images/blog/2020-04-03-woodyfest-samantha-crain/czahller-20130712-17-34-24.jpg", "img-constrained", "Guitar Break — Samantha Crain at the Crystal Theatre, Woody Guthrie Folk Festival 16", "Guitar Break&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;Samantha Crain at the Crystal Theatre, Woody Guthrie Folk Festival 16", "eager" %}</mpb-dialog-img>
 
 Critically praised[^1] Choctaw singer <span class="h-card p-name">Samantha Crain</span> appeared on the Crystal Stage at Woodyfest in <time datetime="2013-07-12T17:00-5:00">2013</time>. It was her fourth time performing at the festival.
 

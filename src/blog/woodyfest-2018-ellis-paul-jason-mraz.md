@@ -27,7 +27,7 @@ excerpt: Ellis Paul loves Woody. Of the Woody Guthrie tattoo on his right should
 <p>Old and new bring diverse audience to festival</p></stack-l></hgroup>
 <!-- markdownlint-enable MD025 --><mpb-dialog-img>
 
-{% image "./src/assets/images/blog/2019-01-04-woodyfest-ellis-paul-jason-mraz/czahller-20180713-23-26-26.jpg", "img-constrained", "Jazon Mraz with Audience (II) — 21st Annual Woody Guthrie Festival, 2018", "Jazon Mraz with Audience (II)&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;21st Annual Woody Guthrie Festival, 2018" %}</mpb-dialog-img>
+{% image "./src/assets/images/blog/2019-01-04-woodyfest-ellis-paul-jason-mraz/czahller-20180713-23-26-26.jpg", "img-constrained", "Jazon Mraz with Audience (II) — 21st Annual Woody Guthrie Festival, 2018", "Jazon Mraz with Audience (II)&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;21st Annual Woody Guthrie Festival, 2018", "eager" %}</mpb-dialog-img>
 
 ## Founding Fabulist Faithful to Festival
 

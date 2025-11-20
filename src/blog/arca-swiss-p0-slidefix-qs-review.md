@@ -120,7 +120,7 @@ recipe: '<script type="application/ld+json">
 
 <!-- markdownlint-enable MD025 --><mpb-dialog-img>
 
-{% image "./src/assets/images/blog/2012-08-29-arca-swiss/czahller-20120829-20-09-00.jpg", "img-constrained", "A carbon fibre tripod folded and lying on a hooked rug. The tripod is topped with an Arca-Swiss P0 Tripod Head", "Gitzo GT1542T Series 1 Traveler w/ Arca-Swiss P0 Monoball Fix" %}</mpb-dialog-img>
+{% image "./src/assets/images/blog/2012-08-29-arca-swiss/czahller-20120829-20-09-00.jpg", "img-constrained", "A carbon fibre tripod folded and lying on a hooked rug. The tripod is topped with an Arca-Swiss P0 Tripod Head", "Gitzo GT1542T Series 1 Traveler w/ Arca-Swiss P0 Monoball Fix", "eager" %}</mpb-dialog-img>
 
 <mpb-callout type="info">
 

@@ -22,7 +22,7 @@ excerpt: Kill the Reflection front man Morgan Routt took time out after the band
 
 <!-- markdownlint-enable MD025 --><mpb-dialog-img>
 
-{% image "./src/assets/images/blog/2012-11-19-kill-reflection/czahller-20121014-00-26-08.jpg", "img-constrained", "Mark (bass), Christopher (drums), and Morgan (guitar, vox) seen from stage right. The image is black-and-white.", "Mark, Christopher, & Morgan" %}</mpb-dialog-img>
+{% image "./src/assets/images/blog/2012-11-19-kill-reflection/czahller-20121014-00-26-08.jpg", "img-constrained", "Mark (bass), Christopher (drums), and Morgan (guitar, vox) seen from stage right. The image is black-and-white.", "Mark, Christopher, & Morgan", "eager" %}</mpb-dialog-img>
 
 <span aria-hidden="true">K</span><span class="h-card p-org"><span class="sr-only">K</span>ill the Reflection</span> front man <span class="h-card p-name">Morgan Routt</span> took time out after the band’s recent shows at the <span class="h-card p-org">HiLo Club</span>, <span class="h-card p-org">Blue Note Lounge</span> and the city of <span class="h-card p-org">Guthrie</span>’s [<span class="h-card p-event">Zombie Bolt 5K Run</span>](/blog/zombie-bolt/) to answer some questions.[^1]
 

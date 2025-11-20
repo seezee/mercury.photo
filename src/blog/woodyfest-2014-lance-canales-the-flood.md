@@ -23,7 +23,7 @@ excerpt: "In 2013, Lance Canales and his band the Flood covered Woody Guthrie’
 
 <!-- markdownlint-enable MD025 --><mpb-dialog-img>
 
-{% image "./src/assets/images/blog/2020-10-09-woodyfest-lance-canales/czahller-20140710-11-43-47.jpg", "img-constrained", "Lance & Carlos — 17th Annual Woody Guthrie Folk Festival, 2014", "Lance & Carlos&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;17th Annual Woody Guthrie Folk Festival, 2014" %}</mpb-dialog-img>
+{% image "./src/assets/images/blog/2020-10-09-woodyfest-lance-canales/czahller-20140710-11-43-47.jpg", "img-constrained", "Lance & Carlos — 17th Annual Woody Guthrie Folk Festival, 2014", "Lance & Carlos&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;17th Annual Woody Guthrie Folk Festival, 2014", "eager" %}</mpb-dialog-img>
 
 ## Deportee
 

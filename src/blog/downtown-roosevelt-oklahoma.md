@@ -21,7 +21,7 @@ excerpt: Roosevelt is a small, all-but-abandoned town in western Oklahoma. Accor
 
 <!-- markdownlint-enable MD025 --><mpb-dialog-img>
 
-{% image "./src/assets/images/blog/2017-08-04-roosevelt/czahller-20170730-14-53-35-pano.jpg", "img-constrained", "Downtown, Roosevelt, Oklahoma", "Downtown, Roosevelt, Oklahoma" %}</mpb-dialog-img>
+{% image "./src/assets/images/blog/2017-08-04-roosevelt/czahller-20170730-14-53-35-pano.jpg", "img-constrained", "Downtown, Roosevelt, Oklahoma", "Downtown, Roosevelt, Oklahoma", "eager" %}</mpb-dialog-img>
 
 Roosevelt is a small, all-but-abandoned town in western Oklahoma. According to the latest census, the population numbers 248. Today it’s known as a massive automobile morgue: several auto salvage companies have set up shop there, and today the corpses of cars and trucks outnumber the living.
 

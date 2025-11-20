@@ -23,7 +23,7 @@ excerpt: Chase Anderson, Oliver Holden-Moses, and Nico Lantelme are typical subu
 <p>Local teenagers organize long-boarding charity event</p></stack-l></hgroup>
 <!-- markdownlint-enable MD025 --><mpb-dialog-img>
 
-{% image "./src/assets/images/blog/2013-08-18-rad-jam/czahller-20130818-15-22-59.jpg", "img-constrained", "RAD JAM Organizers Nico Lantelme, Oliver Holden-Moses, and Chase Anderson pose with their decks. Anderson wears a skate helmet.", "RAD JAM Organizers Nico Lantelme, Oliver Holden-Moses, and Chase Anderson (I)" %}</mpb-dialog-img>
+{% image "./src/assets/images/blog/2013-08-18-rad-jam/czahller-20130818-15-22-59.jpg", "img-constrained", "RAD JAM Organizers Nico Lantelme, Oliver Holden-Moses, and Chase Anderson pose with their decks. Anderson wears a skate helmet.", "RAD JAM Organizers Nico Lantelme, Oliver Holden-Moses, and Chase Anderson (I)", "eager" %}</mpb-dialog-img>
 
 [NORMAN, Okla., 18 Aug. 2013]&NoBreak;&hairsp;&NoBreak;&mdash;{.no-drop-cap}
 

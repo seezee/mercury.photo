@@ -18,7 +18,7 @@ ogtype: website
 <!-- markdownlint-enable MD025 -->
 <mpb-dialog-img>
 
-{% image "./src/assets/images/okie-x/OKIE-X-Contact-Sheet-B.jpg", "img-constrained", "Contact sheet featuring the second dozen OKIE-X subjects." %}</mpb-dialog-img>
+{% image "./src/assets/images/okie-x/OKIE-X-Contact-Sheet-B.jpg", "img-constrained", "Contact sheet featuring the second dozen OKIE-X subjects.", "", "eager" %}</mpb-dialog-img>
 
 The OKIE-X Project is a film portfolio project featuring photographic portraits of:
 

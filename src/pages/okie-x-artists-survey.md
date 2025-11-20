@@ -19,7 +19,7 @@ excerpt: An excerpt
 <!-- markdownlint-enable MD025 -->
 <mpb-dialog-img>
 
-{% image "./src/assets/images/okie-x/OKIE-X-Contact-Sheet-C.jpg", "img-constrained", "Contact sheet featuring the third dozen OKIE-X subjects." %}</mpb-dialog-img>
+{% image "./src/assets/images/okie-x/OKIE-X-Contact-Sheet-C.jpg", "img-constrained", "Contact sheet featuring the third dozen OKIE-X subjects.", "", "eager" %}</mpb-dialog-img>
 
 Thank you for completing the OKIE-X Artists’ Survey.<a href="#mn:1" id="mnref:1"><span class="sr-only"> [See note]</span></a> Your answers will help me create the descriptive cards that will be displayed alongside your portrait in the OKIE-X project. Fields marked with <span class="required">*</span> are required.
 

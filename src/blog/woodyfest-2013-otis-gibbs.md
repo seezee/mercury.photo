@@ -31,7 +31,7 @@ A singer, a songwriter, a storyteller
   </stack-l>
 </hgroup><mpb-dialog-img>
 
-{% image "./src/assets/images/blog/2013-10-17-woodyfest-otis-gibbs/czahller-20130712-12-41-21.jpg", "img-constrained", "Otis Gibbs. He is raising the neck of his acoustic guitar while strumming a chord. He wears a snap-brim fedora and sports a long, grey beard.", "Otis Gibbs (XIV)" %}</mpb-dialog-img>
+{% image "./src/assets/images/blog/2013-10-17-woodyfest-otis-gibbs/czahller-20130712-12-41-21.jpg", "img-constrained", "Otis Gibbs. He is raising the neck of his acoustic guitar while strumming a chord. He wears a snap-brim fedora and sports a long, grey beard.", "Otis Gibbs (XIV)", "eager" %}</mpb-dialog-img>
 
 <blockquote cite="https://otisgibbs.com/press-kit/">
 

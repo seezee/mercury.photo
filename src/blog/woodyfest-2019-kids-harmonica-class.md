@@ -23,7 +23,7 @@ excerpt: For the second straight year, Woodyfest hosted a children’s harmonica
 
 <!-- markdownlint-enable MD025 --><mpb-dialog-img>
 
-{% image "./src/assets/images/blog/2020-04-09-woodyfest-kids-harmonica/czahller-20190712-13-39-38.jpg", "img-constrained", "Two children, brother & sister, in the audience", "Siblings&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;22nd Annual Woody Guthrie Festival, 2019" %}</mpb-dialog-img>
+{% image "./src/assets/images/blog/2020-04-09-woodyfest-kids-harmonica/czahller-20190712-13-39-38.jpg", "img-constrained", "Two children, brother & sister, in the audience", "Siblings&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;22nd Annual Woody Guthrie Festival, 2019", "eager" %}</mpb-dialog-img>
 
 For the [second straight year](/blog/woodyfest-2018-kids-harmonica-class/), Woodyfest hosted an expanded children’s outreach, featuring several youth concerts and workshops. These included a children’s harmonica class taught by festival regulars <span class="h-card p-name">Joe Baxter</span> and <span class="h-card p-name">John Williams</span>.&NoBreak;[^1]
 

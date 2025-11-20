@@ -19,7 +19,7 @@ excerpt: We expended no effort getting David Goad to talk for an over an hour ab
 
 <!-- markdownlint-enable MD025 --><mpb-dialog-img>
 
-{% image "./src/assets/images/blog/2012-11-27-kali-ra-pt-1/czahller-20121013-23-42-04.jpg", "img-constrained", "David Goad holds a microphone to his mouth with his left hand. His right hand is raised, palm facing him, fingers slightly curled, as if invoking something.", "David (V)" %}</mpb-dialog-img>
+{% image "./src/assets/images/blog/2012-11-27-kali-ra-pt-1/czahller-20121013-23-42-04.jpg", "img-constrained", "David Goad holds a microphone to his mouth with his left hand. His right hand is raised, palm facing him, fingers slightly curled, as if invoking something.", "David (V)", "eager" %}</mpb-dialog-img>
 
 We expended no effort getting <span class="h-card p-org">Kali Ra</span> front man <span class="h-card p-name">David Goad</span> to talk for an over an hour about music, technology, and absinthe when he dropped by a couple of weeks ago before the [concert that wasn’t](/blog/concert-that-was-not/).
 

@@ -27,7 +27,7 @@ excerpt: Born in the Bronx under the name Elizabeth Gowan Berliner, Jaane Doe st
 <p>Jaane Doe & the art of reinvention</p></stack-l></hgroup>
 <!-- markdownlint-enable MD025 --><mpb-dialog-img>
 
-{% image "./src/assets/images/blog/2018-10-19-woodyfest-jaane-doe/czahller-20180712-12-18-05.jpg", "img-constrained", "Jaane Doe (Behind the Drumkit) — 21st Annual Woody Guthrie Festival, 2018", "Jaane Doe (Behind the Drumkit)&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;21st Annual Woody Guthrie Festival, 2018" %}</mpb-dialog-img>
+{% image "./src/assets/images/blog/2018-10-19-woodyfest-jaane-doe/czahller-20180712-12-18-05.jpg", "img-constrained", "Jaane Doe (Behind the Drumkit) — 21st Annual Woody Guthrie Festival, 2018", "Jaane Doe (Behind the Drumkit)&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;21st Annual Woody Guthrie Festival, 2018", "eager" %}</mpb-dialog-img>
 
 Born in the Bronx under the name <span class="h-card p-name">Elizabeth Gowan Berliner</span>, <span class="h-card p-nickname">Jaane Doe</span><a href="#mn:1" id="mnref:1"><span class="sr-only"> [See note]</span></a> started her musical career at age eleven in Catholic School. There she would line up her classmates in the halls to teach them the popular folk music of the day&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;<cite class="short-work">Where Have All the Flowers Gone?</cite> <cite class="short-work">Blowin’ in the Wind,</cite> and <cite class="short-work">Turn! Turn! Turn!</cite>&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;so they could play them at the parish folk masses.{.drop-cap}
 

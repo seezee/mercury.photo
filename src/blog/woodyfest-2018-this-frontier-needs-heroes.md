@@ -23,7 +23,7 @@ excerpt: Brad Lauretti has been wandering. Originally from Brooklyn, then based 
 
 <!-- markdownlint-enable MD025 --><mpb-dialog-img>
 
-{% image "./src/assets/images/blog/2019-01-07-woodyfest-this-frontier/czahller-20180714-11-31-03.jpg", "img-constrained", "Road Case (Ammo Box) — 21st Annual Woody Guthrie Festival, 2018", "Road Case (Ammo Box)&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;21st Annual Woody Guthrie Festival, 2018" %}</mpb-dialog-img>
+{% image "./src/assets/images/blog/2019-01-07-woodyfest-this-frontier/czahller-20180714-11-31-03.jpg", "img-constrained", "Road Case (Ammo Box) — 21st Annual Woody Guthrie Festival, 2018", "Road Case (Ammo Box)&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;21st Annual Woody Guthrie Festival, 2018", "eager" %}</mpb-dialog-img>
 
 <span class="h-card p-name">Brad Lauretti</span> has been wandering. Originally from Brooklyn, then based in Florida,[^1] now calling Nashville home, Lauretti rarely sleeps in his own bed. The frontman for <span class="h-card p-org">This Frontier Needs Heroes</span> tours constantly: in the last three years he’s played 226 shows, ranging from one end of the continental United States to the other along with much of western Europe. The venues range in size from small dive bars to mid-sized clubs to festival stages.
 

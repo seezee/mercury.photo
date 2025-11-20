@@ -15,7 +15,7 @@ excerpt: Shortly after this cat grass germinated, we noticed a dewdrop perched p
 
 <!-- markdownlint-enable MD025 --><mpb-dialog-img>
 
-{% image "./src/assets/images/blog/2025-07-30-dew-grass-macro/czahller-20250729-17-07-25.jpg", "img-constrained", "Closeup of various cereal grain leaves with dew perch atop", "Cat Grass with Dew" %}</mpb-dialog-img>
+{% image "./src/assets/images/blog/2025-07-30-dew-grass-macro/czahller-20250729-17-07-25.jpg", "img-constrained", "Closeup of various cereal grain leaves with dew perch atop", "Cat Grass with Dew", "eager" %}</mpb-dialog-img>
 
 Shortly after this cat grass germinated, we noticed a dewdrop perched precariously on each blade tip. The emerald green grass glowed in the sunny window, so we grabbed the Fujifilm macro extension tube and stuck a long lens on it to capture the phenomenon.
 

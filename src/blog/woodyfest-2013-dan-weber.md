@@ -30,7 +30,7 @@ Singer-Songwriter takes third prize in Woody Guthrie Songwriting Contest
   </stack-l>
 </hgroup><mpb-dialog-img>
 
-{% image "./src/assets/images/blog/2013-10-04-woodyfest-dan-weber/czahller-20130713-10-53-45.jpg", "img-constrained", "Dan Weber leans way back while playing a guitar solo", "Dan Weber (XII)" %}</mpb-dialog-img>
+{% image "./src/assets/images/blog/2013-10-04-woodyfest-dan-weber/czahller-20130713-10-53-45.jpg", "img-constrained", "Dan Weber leans way back while playing a guitar solo", "Dan Weber (XII)", "eager" %}</mpb-dialog-img>
 
 <blockquote cite="https://danwebermusic.com/about/index.html">
 

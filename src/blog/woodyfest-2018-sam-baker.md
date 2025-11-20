@@ -27,7 +27,7 @@ excerpt: Sam Baker has told the story of barely surviving a train bombing many t
 <!-- markdownlint-enable MD025 -->
 <mpb-dialog-img>
 
-{% image "./src/assets/images/blog/2018-12-31-woodyfest-sam-baker/czahller-20180713-20-12-32.jpg", "img-constrained", "Sam Busts Me Sneaking an Upstage Shot — 21st Annual Woody Guthrie Festival, 2018", "Sam Busts Me Sneaking an Upstage Shot&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;21st Annual Woody Guthrie Festival, 2018" %}</mpb-dialog-img>
+{% image "./src/assets/images/blog/2018-12-31-woodyfest-sam-baker/czahller-20180713-20-12-32.jpg", "img-constrained", "Sam Busts Me Sneaking an Upstage Shot — 21st Annual Woody Guthrie Festival, 2018", "Sam Busts Me Sneaking an Upstage Shot&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;21st Annual Woody Guthrie Festival, 2018", "eager" %}</mpb-dialog-img>
 
 ## Hope from the Ashes
 

@@ -18,7 +18,7 @@ excerpt: Japanese rockers Electric Eel Shock astounded the audience gathered to 
 
 <!-- markdownlint-enable MD025 --><mpb-dialog-img>
 
-{% image "./src/assets/images/blog/2012-12-27-electric-eel-shock/czahller-20121031-21-10-01.jpg", "img-constrained", "Electric Eel Shock raises their fists to the audience. They are seen from upstage so their backs are to the camera. They images is black-and-white.", "Greeting the Audience" %}</mpb-dialog-img>
+{% image "./src/assets/images/blog/2012-12-27-electric-eel-shock/czahller-20121031-21-10-01.jpg", "img-constrained", "Electric Eel Shock raises their fists to the audience. They are seen from upstage so their backs are to the camera. They images is black-and-white.", "Greeting the Audience", "eager" %}</mpb-dialog-img>
 
 Citing <span class="h-card p-org">Van Halen</span>, <span class="h-card p-org">Aerosmith</span>, and <span class="h-card p-org">Guns and Roses</span> among their primary influences, Japanese rockers [<span class="h-card p-org">Electric Eel Shock</span>](https://geo.itunes.apple.com/us/artist/electric-eel-shock/75851381?mt=1&app=music&itscg=30200&itsct=afftoolset_1&at=10ldhk){target=_blank rel="external noopener"} astounded the audience gathered to see [<span class="h-card p-org">Peelander-Z</span>](/blog/peelander-z-halloween/) play a Hallowe’en show at Dallas’s Club Dada.
 

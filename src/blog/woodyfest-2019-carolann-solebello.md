@@ -24,7 +24,7 @@ excerpt: Red Molly co-founder Carolann Solebello performed an intimate solo set 
 
 <!-- markdownlint-enable MD025 --><mpb-dialog-img>
 
-{% image "./src/assets/images/blog/2020-04-08-woodyfest-carolann-solebello/czahller-20190712-11-29-30.jpg", "img-constrained", "Carolann Solebello & Audience (View from Upstage Right) — 22nd Annual Woody Guthrie Festival, 2019", "Carolann Solebello & Audience (View from Upstage Right)&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;22nd Annual Woody Guthrie Festival, 2019" %}</mpb-dialog-img>
+{% image "./src/assets/images/blog/2020-04-08-woodyfest-carolann-solebello/czahller-20190712-11-29-30.jpg", "img-constrained", "Carolann Solebello & Audience (View from Upstage Right) — 22nd Annual Woody Guthrie Festival, 2019", "Carolann Solebello & Audience (View from Upstage Right)&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;22nd Annual Woody Guthrie Festival, 2019", "eager" %}</mpb-dialog-img>
 
 Red Molly co-founder <span class="h-card p-name">Carolann Solebello</span> performed an intimate solo set on the <span class="h-card p-org">Crystal Theatre Stage</span> during Woodyfest <time datetime="2019-07-12T11:00:00-5:00">2019</time>. The small audience attending the <time datetime="2019-07-12T11:00:00-5:00">mid-morning</time> performance were treated to songs that blended rural folk traditions with Solebello’s distinctly urban rhythmic sensibility, peppered in between with pithy, humorous anecdotes.
 

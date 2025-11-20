@@ -28,7 +28,7 @@ Singer-Songwriter takes second prize in Woody Guthrie Songwriting Contest
   </stack-l>
 </hgroup><mpb-dialog-img>
 
-{% image "./src/assets/images/blog/2013-10-07-kim-gentry/czahller-20130712-10-59-07.jpg", "img-constrained", "Bill McCloud gives Kim Gentry her artist’s pass. Gentry holds the pass by the lanyard in front of her as she prepares to don it. She is smiling and laughing.", "Bill McCloud Gives Kim Gentry Her Artist’s Pass (I)" %}</mpb-dialog-img>
+{% image "./src/assets/images/blog/2013-10-07-kim-gentry/czahller-20130712-10-59-07.jpg", "img-constrained", "Bill McCloud gives Kim Gentry her artist’s pass. Gentry holds the pass by the lanyard in front of her as she prepares to don it. She is smiling and laughing.", "Bill McCloud Gives Kim Gentry Her Artist’s Pass (I)", "eager" %}</mpb-dialog-img>
 
 <mpb-callout type="notice" title="Update">
 

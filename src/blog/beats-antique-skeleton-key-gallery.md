@@ -23,7 +23,7 @@ excerpt: In 2012 electronica and experimental world-fusion band Beats Antique pl
 <!-- markdownlint-enable MD025 -->
 <mpb-dialog-img>
 
-{% image "./src/assets/images/blog/2013-01-16-beats-antique/czahller-20120912-23-22-21.jpg", "img-constrained", "Zoë Jakes performing a dance with a giant pair of feathered wings. She leans back and raises her arms in imitation of a large bird.", "Feather Dance (IV)" %}</mpb-dialog-img>
+{% image "./src/assets/images/blog/2013-01-16-beats-antique/czahller-20120912-23-22-21.jpg", "img-constrained", "Zoë Jakes performing a dance with a giant pair of feathered wings. She leans back and raises her arms in imitation of a large bird.", "Feather Dance (IV)", "eager" %}</mpb-dialog-img>
 
 In <time datetime="2012-09-12">September 2012</time> electronica and experimental world-fusion band <span class="h-card p-org">Beats Antique</span> played the <span class="h-card p-org">Diamond Ballroom</span> in support of their <cite>Animal Mechanique</cite> tour. We were on hand to photograph, but didn't have time to arrange an interview. A few days ago, their publicity team sent us an email announcing their new music video, <cite class="short-work">[Skeleton Key](https://music.apple.com/us/album/skeleton-key/id559523501?i=559523898&uo=4&at=10ldhk){target=_blank rel="external noopener"},</cite> the lead single from their latest album <cite>Contraption Vol. 2</cite>.
 

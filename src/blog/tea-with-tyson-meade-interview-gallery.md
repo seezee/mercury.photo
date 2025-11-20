@@ -27,7 +27,7 @@ excerpt: On 26 May, central Oklahoma felt an earthquake. The vibrations were fro
 Phonograph needles and silver needle tea</stack-l></hgroup>
 <!-- markdownlint-enable MD025 --><mpb-dialog-img>
 
-{% image "./src/assets/images/blog/2018-06-01-tyson-meade/czahller-20180526-23-14-45.jpg", "img-constrained", "Black and white image of Tyson Meade made from a negative that was damaged during post-development drying", "Damaged" %}</mpb-dialog-img>
+{% image "./src/assets/images/blog/2018-06-01-tyson-meade/czahller-20180526-23-14-45.jpg", "img-constrained", "Black and white image of Tyson Meade made from a negative that was damaged during post-development drying", "Damaged", "eager" %}</mpb-dialog-img>
 
 On <time datetime="2018-05-26">26 May</time>, central Oklahoma felt an earthquake. The vibrations were from the needle dropping on Godfather of Alt-Rock[^1] <span class="h-card p-name">Tyson Meade</span>’s new long player, <cite>Robbing the Nuclear Family</cite>. The 55-year-old rocker played piano and sang the entire album[^2] to an attentive audience at historic music venue VZD’s Restaurant and Bar. Before Meade took the stage, singer <span class="h-card p-name">Joe Hopkins</span> screened his new music video, a cover of Meade’s [Chainsaw Kittens](https://geo.itunes.apple.com/us/album/loneliest-china-place/34009922?i=34009930&mt=1&app=music&at=10ldhk){target=_blank rel="external noopener"}&NoBreak;&hairsp;&NoBreak;&ndash;&NoBreak;&hairsp;&NoBreak;era <cite>The Loneliest China Place,</cite> featuring footage of Meade himself. Meade performed that same song, as well as other Kittens’ favorites, in between songs from the new album.{.drop-cap}
 

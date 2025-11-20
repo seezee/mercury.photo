@@ -24,7 +24,7 @@ excerpt: Dan Weber is the only songwriter in the history of the Woody Guthrie Fo
 
 <!-- markdownlint-enable MD025 --><mpb-dialog-img>
 
-{% image "./src/assets/images/blog/2021-07-11-woodyfest-dan-weber/czahller-20140711-10-52-23.jpg", "img-constrained", "Dan Weber (I) — 17th Annual Woody Guthrie Folk Festival, 2014", "Dan Weber (I)&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;17th Annual Woody Guthrie Folk Festival, 2014" %}</mpb-dialog-img>
+{% image "./src/assets/images/blog/2021-07-11-woodyfest-dan-weber/czahller-20140711-10-52-23.jpg", "img-constrained", "Dan Weber (I) — 17th Annual Woody Guthrie Folk Festival, 2014", "Dan Weber (I)&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;17th Annual Woody Guthrie Folk Festival, 2014", "eager" %}</mpb-dialog-img>
 
 <span class="h-card p-name">Dan Weber</span> is the only songwriter in Woody Guthrie Folk Festival history to have pulled off the hat trick of winning the first-, second-, and third-place prizes in the Woody Guthrie Songwriting contest.[^1] Weber is a festival regular, attending even when he's not on the bill. In <time datetime="2014">2014</time> he won second-place in the contest and also performed a full set at the Crystal Theatre.
 

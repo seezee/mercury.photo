@@ -21,7 +21,7 @@ excerpt: Five-piece fuzz rock outfit the Kamals (minus guitarist/backing vocalis
 
 <!-- markdownlint-enable MD025 --><mpb-dialog-img>
 
-{% image "./src/assets/images/blog/2013-02-11-kamals/czahller-20130112-23-06-06.jpg", "img-constrained", "The Kamals performing on the OPOLIS stage. Brad Nance (guitar, vox), Trey Allen (bass), Zachary Kaczka (guitar, vox), and Loren Williams (keys, vox). Not pictured: River Myers (drums).", "The Kamals" %}</mpb-dialog-img>
+{% image "./src/assets/images/blog/2013-02-11-kamals/czahller-20130112-23-06-06.jpg", "img-constrained", "The Kamals performing on the OPOLIS stage. Brad Nance (guitar, vox), Trey Allen (bass), Zachary Kaczka (guitar, vox), and Loren Williams (keys, vox). Not pictured: River Myers (drums).", "The Kamals", "eager" %}</mpb-dialog-img>
 
 Five-piece fuzz rock outfit the <span class="h-card p-org">Kamals</span> (minus guitarist/backing vocalist <span class="h-card p-name">Brad Nance</span>) dropped by the Bureau in <time datetime="2013-01-20">January</time>, following their [rescheduled](/blog/concert-that-was-not/) appearance at Opolis in Norman. Described as a blend of hard rock, stoner rock, heavy psych, fuzz rock, and psychedelic rock styles,[^1] with the occasional foray into boogie rock and acoustic country-blues, the band’s sound is not of this era.
 

@@ -19,7 +19,7 @@ excerpt: This is an example of a portrait made using x-ray film and a modified �
 
 <!-- markdownlint-enable MD025 --><mpb-dialog-img>
 
-{% image "./src/assets/images/blog/2017-01-12-jedwards/czahller-20170110-19-36-32.jpg", "img-constrained", "Jim Edwards monochrome studio portrait.", "Jim Edwards" %}</mpb-dialog-img>
+{% image "./src/assets/images/blog/2017-01-12-jedwards/czahller-20170110-19-36-32.jpg", "img-constrained", "Jim Edwards monochrome studio portrait.", "Jim Edwards", "eager" %}</mpb-dialog-img>
 
 This is an example of a portrait made using x-ray film and a modified “<span class="h-card p-name">Rembrandt</span>” lighting setup. I used a film formerly manufactured and marketed by Kodak, now sold under the name Carestream Half-Speed-Blue (CHSB). Like most x-ray film, CSHB has limited spectral sensitivity and is coated with emulsion on both sides. Care must be taken to avoid scratches when handling, as the emulsion is very soft, especially when wet; twice the emulsion equals twice the opportunity to scratch.
 

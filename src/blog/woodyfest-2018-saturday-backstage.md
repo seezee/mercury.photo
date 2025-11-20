@@ -33,7 +33,7 @@ A crasher with a camera
   </stack-l>
 </hgroup><mpb-dialog-img>
 
-{% image "./src/assets/images/blog/2019-02-08-woodyfest-backstage-saturday/czahller-20180714-21-48-34.jpg", "img-constrained", "Jacklyn Guthrie, Cathy Guthrie, Sophia Irion, & Mez Mezera in the Green Room — Backstage at the 21st Annual Woody Guthrie Festival, 2018", "Jacklyn Guthrie, Cathy Guthrie, Sophia Irion, & Mez Mezera in the Green Room&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;Backstage at the 21st Annual Woody Guthrie Festival, 2018" %}</mpb-dialog-img>
+{% image "./src/assets/images/blog/2019-02-08-woodyfest-backstage-saturday/czahller-20180714-21-48-34.jpg", "img-constrained", "Jacklyn Guthrie, Cathy Guthrie, Sophia Irion, & Mez Mezera in the Green Room — Backstage at the 21st Annual Woody Guthrie Festival, 2018", "Jacklyn Guthrie, Cathy Guthrie, Sophia Irion, & Mez Mezera in the Green Room&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;Backstage at the 21st Annual Woody Guthrie Festival, 2018", "eager" %}</mpb-dialog-img>
 
 We took the same medium format gear to the Pastures of Plenty backstage on Woodyfest 2019 <time datetime="20180714">Saturday</time> as we had on <time datetime="2018-07-12T18:16:50-5:00">[Thursday](/blog/woodyfest-2018-thursday-backstage/)</time> and <time datetime="2018-07-13T18:46:57-5:00">[Friday](/blog/woodyfest-2018-friday-backstage/)</time>. We’ve [already written](/blog/woodyfest-2018-thursday-backstage/) about the facilities improvements to the outdoor venue. Unless you care to read about them, we suggest you [skip to <time datetime="2018-07-14T17:31:21-5:00">Saturday</time>’s pictures](#gallery)!
 

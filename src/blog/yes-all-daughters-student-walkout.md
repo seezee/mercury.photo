@@ -18,7 +18,7 @@ excerpt: An online campaign to bring attention to the alleged rape of three fema
 
 <mpb-dialog-img>
 
-{% image "./src/assets/images/blog/2014-11-24-yes-all-daughters/czahller-20141124-10-18-25.jpg", "img-constrained", "Protesters hold up a large sign (about five feet tall and ten feet long) with the hashtag #YesAllDaughters", "The Big Sign" %}</mpb-dialog-img>
+{% image "./src/assets/images/blog/2014-11-24-yes-all-daughters/czahller-20141124-10-18-25.jpg", "img-constrained", "Protesters hold up a large sign (about five feet tall and ten feet long) with the hashtag #YesAllDaughters", "The Big Sign", "eager" %}</mpb-dialog-img>
 
 <mpb-callout type="info" title="Update">
 

@@ -25,7 +25,7 @@ Zombie event raises money for charity</stack-l></hgroup>
 <!-- markdownlint-enable MD025 -->
 <mpb-dialog-img>
 
-{% image "./src/assets/images/blog/2012-10-24-zombie-run/czahller-20121006-16-49-17.jpg", "img-constrained", "Three zombies — mom, dad, and son — menace the photographer", "The Family That Eats Brains Together" %}</mpb-dialog-img>
+{% image "./src/assets/images/blog/2012-10-24-zombie-run/czahller-20121006-16-49-17.jpg", "img-constrained", "Three zombies — mom, dad, and son — menace the photographer", "The Family That Eats Brains Together", "eager" %}</mpb-dialog-img>
 
 [GUTHRIE, Okla., 24 Oct 2012]&NoBreak;&hairsp;&NoBreak;&mdash;{.no-drop-cap}
 

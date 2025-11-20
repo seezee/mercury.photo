@@ -27,7 +27,7 @@ excerpt: Featuring the music of the late Freddie Mercury, Friday and Saturday’
 <p>We will rock you</p></stack-l></hgroup>
 <!-- markdownlint-enable MD025 --><mpb-dialog-img>
 
-{% image "./src/assets/images/blog/2015-11-16-king-of-queen/czahller-20151114-21-11-45.jpg", "img-constrained", "Balthazar in male drag as a “leather boy,” standing front and center stage. Her back is arched and her knees bent; she holds a microphone to her mouth. A choir dressed in robes stands stage left. A musical band plays upstage. The scene is lit by colorful lights.", "Don’t Stop Me Now (II)&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;The King of Queen" %}</mpb-dialog-img>
+{% image "./src/assets/images/blog/2015-11-16-king-of-queen/czahller-20151114-21-11-45.jpg", "img-constrained", "Balthazar in male drag as a “leather boy,” standing front and center stage. Her back is arched and her knees bent; she holds a microphone to her mouth. A choir dressed in robes stands stage left. A musical band plays upstage. The scene is lit by colorful lights.", "Don’t Stop Me Now (II)&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;The King of Queen", "eager" %}</mpb-dialog-img>
 
 <mpb-callout type="notice" title="Update">
 

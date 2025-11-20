@@ -23,7 +23,7 @@ excerpt: Contrary to their name, the band And Then There Were Two does not compr
 
 <!-- markdownlint-enable MD025 --><mpb-dialog-img>
 
-{% image "./src/assets/images/blog/2019-01-21-woodyfest-and-then-there-were-two/czahller-20180714-15-09-06.jpg", "img-constrained", "And Then There Were Two (I) — 21st Annual Woody Guthrie Festival, 2018", "And Then There Were Two (I)&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;21st Annual Woody Guthrie Festival, 2018" %}</mpb-dialog-img>
+{% image "./src/assets/images/blog/2019-01-21-woodyfest-and-then-there-were-two/czahller-20180714-15-09-06.jpg", "img-constrained", "And Then There Were Two (I) — 21st Annual Woody Guthrie Festival, 2018", "And Then There Were Two (I)&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;21st Annual Woody Guthrie Festival, 2018", "eager" %}</mpb-dialog-img>
 
 ## Oklahoma Feel Good Music
 

@@ -24,7 +24,7 @@ excerpt: "As part of Woodyfest’s continuing educational outreach, author Danie
 
 <!-- markdownlint-enable MD025 --><mpb-dialog-img>
 
-{% image "./src/assets/images/blog/2020-04-14-woodyfest-2019-daniel-wolff/czahller-20190712-15-21-00.jpg", "img-constrained", "Grown-Up Anger: The Connected Mysteries of Bob Dylan, Woody Guthrie, and the Calumet Massacre of 1913 — 22nd Annual Woody Guthrie Festival, 2019", "Grown-Up Anger: The Connected Mysteries of Bob Dylan, Woody Guthrie, and the Calumet Massacre of 1913&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;22nd Annual Woody Guthrie Festival, 2019" %}</mpb-dialog-img>
+{% image "./src/assets/images/blog/2020-04-14-woodyfest-2019-daniel-wolff/czahller-20190712-15-21-00.jpg", "img-constrained", "Grown-Up Anger: The Connected Mysteries of Bob Dylan, Woody Guthrie, and the Calumet Massacre of 1913 — 22nd Annual Woody Guthrie Festival, 2019", "Grown-Up Anger: The Connected Mysteries of Bob Dylan, Woody Guthrie, and the Calumet Massacre of 1913&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;22nd Annual Woody Guthrie Festival, 2019", "eager" %}</mpb-dialog-img>
 
 ## Calument, Guthrie, Dylan
 

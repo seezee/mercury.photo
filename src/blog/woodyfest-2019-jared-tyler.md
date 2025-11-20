@@ -25,7 +25,7 @@ excerpt: By his own recollection, Woodyfest regular Jared Tyler Frederick began 
 
 <!-- markdownlint-enable MD025 --><mpb-dialog-img>
 
-{% image "./src/assets/images/blog/2020-10-16-woodyfest-jared-tyler/czahller-20190712-16-40-07.jpg", "img-constrained", "Jared Tyler Band (II) — 22nd Annual Woody Guthrie Festival, 2019", "Jared Tyler Band (II)&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;22nd Annual Woody Guthrie Festival, 2019" %}</mpb-dialog-img>
+{% image "./src/assets/images/blog/2020-10-16-woodyfest-jared-tyler/czahller-20190712-16-40-07.jpg", "img-constrained", "Jared Tyler Band (II) — 22nd Annual Woody Guthrie Festival, 2019", "Jared Tyler Band (II)&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;22nd Annual Woody Guthrie Festival, 2019", "eager" %}</mpb-dialog-img>
 
 ## The FAA Years
 

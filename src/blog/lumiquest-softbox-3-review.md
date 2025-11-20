@@ -91,7 +91,7 @@ review: '<script type="application/ld+json">
 
 <!-- markdownlint-enable MD025 --><mpb-dialog-img>
 
-{% image "./src/assets/images/blog/2013-06-11-lumiquest/lumiquest-softbox-iii-hero.jpg", "img-constrained", "LumiQuest Softbox III", "LumiQuest Softbox III" %}</mpb-dialog-img>
+{% image "./src/assets/images/blog/2013-06-11-lumiquest/lumiquest-softbox-iii-hero.jpg", "img-constrained", "LumiQuest Softbox III", "LumiQuest Softbox III", "eager" %}</mpb-dialog-img>
 
 ## Overview
 

@@ -19,7 +19,7 @@ excerpt: Cleveland County residents may cast early in-person absentee ballots at
 
 <!-- markdownlint-enable MD025 --><mpb-dialog-img>
 
-{% image "./src/assets/images/blog/2016-05-01-norman-special-election/czahller-20160401-14-40-26.jpg", "img-constrained", "Norman resident Kathy Heiple casts her vote during the April election", "Kathy Heiple" %}</mpb-dialog-img>
+{% image "./src/assets/images/blog/2016-05-01-norman-special-election/czahller-20160401-14-40-26.jpg", "img-constrained", "Norman resident Kathy Heiple casts her vote during the April election", "Kathy Heiple", "eager" %}</mpb-dialog-img>
 
 [NORMAN, Okla., 1 May 2016]&NoBreak;&hairsp;&NoBreak;&mdash;{.no-drop-cap}
 

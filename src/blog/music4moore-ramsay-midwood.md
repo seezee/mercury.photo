@@ -24,7 +24,7 @@ excerpt: On 3 May 2013 at approximately 2:46 p.m., a tornado touched ground near
 <!-- markdownlint-enable MD025 -->
 <mpb-dialog-img>
 
-{% image "./src/assets/images/blog/2013-06-12-m4m-ramsay-midwood/czahller-20130529-21-56-30.jpg", "img-constrained", "Ramsay Midwood. He wears a trucker cap and plaid shirt. His right hand grasps a Shure SM58 microphone which is still mounted in its stand. His left hand is draped over an acoustic guitar. He is speaking to the audience.", "Ramsay (II)" %}</mpb-dialog-img>
+{% image "./src/assets/images/blog/2013-06-12-m4m-ramsay-midwood/czahller-20130529-21-56-30.jpg", "img-constrained", "Ramsay Midwood. He wears a trucker cap and plaid shirt. His right hand grasps a Shure SM58 microphone which is still mounted in its stand. His left hand is draped over an acoustic guitar. He is speaking to the audience.", "Ramsay (II)", "eager" %}</mpb-dialog-img>
 
 ## The Tornado
 

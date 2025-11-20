@@ -16,7 +16,7 @@ excerpt: We do a fair amount of concert photography with the Leica M9-P digital
 
 <!-- markdownlint-enable MD025 --><mpb-dialog-img>
 
-{% image "./src/assets/images/blog/2012-09-11-leica-rangefinder-concerts/czahller-20120713-12-46-20.jpg", "img-constrained", "Jeannie Burns performs at the Crystal Theatre. She is in front of a heavy red velvet curtain. She is in motion, causing her hair to blur and cover her face.", "Jeannie (I)" %}</mpb-dialog-img>
+{% image "./src/assets/images/blog/2012-09-11-leica-rangefinder-concerts/czahller-20120713-12-46-20.jpg", "img-constrained", "Jeannie Burns performs at the Crystal Theatre. She is in front of a heavy red velvet curtain. She is in motion, causing her hair to blur and cover her face.", "Jeannie (I)", "eager" %}</mpb-dialog-img>
 
 We do a fair amount of concert photography with the Leica M9-P digital rangefinder camera.[^1] This presents certain challenges not affecting the typical DSLR shooter.
 

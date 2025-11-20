@@ -17,7 +17,7 @@ excerpt: In continuing to learn the ins and outs of our recently acquired Paul C
 
 <!-- markdownlint-enable MD025 --><mpb-dialog-img>
 
-{% image "./src/assets/images/blog/2015-01-07-lighting-test-pcb-meter/czahller-20150106-16-59-36.jpg", "img-constrained", "The author stands behind a metal typewriter stand. On the stand are arranged 3 wooden duck decoys, a vintage whiskey bottle, and a canvas bag. The author wears round spectacles, a houndstooth pattern wool car coat, a vintage rayon scarf, and a vintage porkpie hat. He holds a 12-gauge shotgun at a diagonal angle across his torso.", "Self Portrait As Duck Hunter" %}</mpb-dialog-img>
+{% image "./src/assets/images/blog/2015-01-07-lighting-test-pcb-meter/czahller-20150106-16-59-36.jpg", "img-constrained", "The author stands behind a metal typewriter stand. On the stand are arranged 3 wooden duck decoys, a vintage whiskey bottle, and a canvas bag. The author wears round spectacles, a houndstooth pattern wool car coat, a vintage rayon scarf, and a vintage porkpie hat. He holds a 12-gauge shotgun at a diagonal angle across his torso.", "Self Portrait As Duck Hunter", "eager" %}</mpb-dialog-img>
 
 In continuing to learn the ins and outs of our recently acquired Paul C. Buff “Einstein” (model E640) studio strobe, we’re teaching ourselves to meter flash. The Sekonic L-308S Flashmate exposure meter has three measuring modes:
 

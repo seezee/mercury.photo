@@ -28,7 +28,7 @@ excerpt: Festival Friday proved to be uncomfortably hot in the beer garden attac
 <p>Americana artists share beer garden stage</p></stack-l></hgroup>
 <!-- markdownlint-enable MD025 --><mpb-dialog-img>
 
-{% image "./src/assets/images/blog/2018-12-07-woodyfest-erik-viking-blake-lankford/czahller-20180713-14-07-26.jpg", "img-constrained", "Erik “The Viking” Oftedahl & Blake Lankford — 21st Annual Woody Guthrie Festival, 2018", "Erik “The Viking” Oftedahl & Blake Lankford&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;21st Annual Woody Guthrie Festival, 2018" %}</mpb-dialog-img>
+{% image "./src/assets/images/blog/2018-12-07-woodyfest-erik-viking-blake-lankford/czahller-20180713-14-07-26.jpg", "img-constrained", "Erik “The Viking” Oftedahl & Blake Lankford — 21st Annual Woody Guthrie Festival, 2018", "Erik “The Viking” Oftedahl & Blake Lankford&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;21st Annual Woody Guthrie Festival, 2018", "eager" %}</mpb-dialog-img>
 
 Festival <time datetime="2018-07-13">Friday</time> proved to be uncomfortably hot in the beer garden attached to Lou’s Rocky Road Tavern. The <time datetime="2018-07-12">previous day</time>’s patio performances had been favored by a light breeze that made it feel even cooler than the air-conditioned Hen House, where the HVAC struggled with the radiant body heat of the packed-in audiences.{.drop-cap}
 

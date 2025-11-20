@@ -243,6 +243,7 @@ module.exports = async function(eleventyConfig) {
     className = undefined,
     alt,
     caption,
+    loading,
     widths = [400, 800, 1200, `auto`],
     formats = [`webp`, `jpeg`],
     sizes = `(min-width: 24rem) 90vw, 100vw`
@@ -293,14 +294,27 @@ module.exports = async function(eleventyConfig) {
     }
 
     const largestUnoptimizedImg = getLargestImage(formats[0]);
-    const imgAttributes = stringifyAttributes({
-      src: largestUnoptimizedImg.url,
-      width: largestUnoptimizedImg.width,
-      height: largestUnoptimizedImg.height,
-      alt,
-      loading: `lazy`,
-      decoding: `async`,
-    });
+    let imgAttributes;
+    if (loading === undefined) {
+      imgAttributes = stringifyAttributes({
+        src: largestUnoptimizedImg.url,
+        width: largestUnoptimizedImg.width,
+        height: largestUnoptimizedImg.height,
+        alt,
+        loading: `lazy`,
+        decoding: `async`,
+      });
+    } else {
+      imgAttributes = stringifyAttributes({
+        src: largestUnoptimizedImg.url,
+        width: largestUnoptimizedImg.width,
+        height: largestUnoptimizedImg.height,
+        alt,
+        loading,
+        decoding: `async`,
+      });
+    }
+
     const imgHtmlString = `<img ${imgAttributes}>`;
 
     const pictureAttributes = stringifyAttributes({
@@ -382,9 +396,7 @@ module.exports = async function(eleventyConfig) {
   });
 
   // HTML minification
-  if( is_production ) {
     eleventyConfig.addPlugin(eleventyPluginFilesMinifier);
-  };
 
   // Cache busting
   if ( is_production ) {

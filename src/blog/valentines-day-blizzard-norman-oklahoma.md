@@ -22,7 +22,7 @@ excerpt: On Valentine's Day a massive winter storm pushed across the central and
 
 <!-- markdownlint-enable MD025 --><mpb-dialog-img>
 
-{% image "./src/assets/images/blog/2021-02-18-valentines-blizzard/czahller-20210214-13-35-33.jpg", "img-constrained", "Trees in Snow, University of Oklahoma, Valentine’s Day 2021", "Trees in Snow, University of Oklahoma, Valentine’s Day 2021" %}</mpb-dialog-img>
+{% image "./src/assets/images/blog/2021-02-18-valentines-blizzard/czahller-20210214-13-35-33.jpg", "img-constrained", "Trees in Snow, University of Oklahoma, Valentine’s Day 2021", "Trees in Snow, University of Oklahoma, Valentine’s Day 2021", "eager" %}</mpb-dialog-img>
 
 On <time datetime="2021-02-14">Valentine's Day</time> a massive winter storm pushed across the central and southern U.S. plains, plunging temperatures to record-breaking lows and dumping significant snow over the affected areas. In the ensuing days, grid operators enacted rolling blackouts[^1] and power outages affected millions of Oklahoma and Texas residents. All 254 Texas counties were affected.
 

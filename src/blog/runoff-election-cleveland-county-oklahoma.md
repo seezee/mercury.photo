@@ -19,7 +19,7 @@ excerpt: Democrats will decide between John Cox and Freda Deskin for the State S
 
 <!-- markdownlint-enable MD025 --><mpb-dialog-img>
 
-{% image "./src/assets/images/blog/2012-11-02-early-voting/czahller-20121102-11-35-15.jpg", "img-constrained", "Sign above service counter, Cleveland County Election Board", "Sign above Service Counter, Cleveland County Election Board" %}</mpb-dialog-img>
+{% image "./src/assets/images/blog/2012-11-02-early-voting/czahller-20121102-11-35-15.jpg", "img-constrained", "Sign above service counter, Cleveland County Election Board", "Sign above Service Counter, Cleveland County Election Board", "eager" %}</mpb-dialog-img>
 
 [NORMAN, Okla., 26 August 2014]&NoBreak;&hairsp;&NoBreak;&mdash;{.no-drop-cap}
 

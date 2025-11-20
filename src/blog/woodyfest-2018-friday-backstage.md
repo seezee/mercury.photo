@@ -33,7 +33,7 @@ Playing paparazzo at the Pastures of Plenty
   </stack-l>
 </hgroup><mpb-dialog-img>
 
-{% image "./src/assets/images/blog/2018-12-28-woodyfest-backstage-friday/czahller-20180713-20-50-02.jpg", "img-constrained", "Nellie Marie Clay, John M. Cooper, & Carter Sampson — Backstage at the 21st Annual Woody Guthrie Festival, 2018", "Nellie Marie Clay, John M. Cooper, & Carter Sampson&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;Backstage at the 21st Annual Woody Guthrie Festival, 2018" %}</mpb-dialog-img>
+{% image "./src/assets/images/blog/2018-12-28-woodyfest-backstage-friday/czahller-20180713-20-50-02.jpg", "img-constrained", "Nellie Marie Clay, John M. Cooper, & Carter Sampson — Backstage at the 21st Annual Woody Guthrie Festival, 2018", "Nellie Marie Clay, John M. Cooper, & Carter Sampson&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;Backstage at the 21st Annual Woody Guthrie Festival, 2018", "eager" %}</mpb-dialog-img>
 
 We took the same medium format gear to the Pastures of Plenty backstage on Woodyfest 2019 <time datetime="20180714">Saturday</time> as we had on <time datetime="2018-07-12T18:16:50-5:00">[Thursday](/blog/woodyfest-2018-thursday-backstage/)</time> and <time datetime="2018-07-14T19:08:35-5:00">[Saturday](/blog/woodyfest-2018-saturday-backstage/)</time>. We’ve [already written](/blog/woodyfest-2018-thursday-backstage/) about the facilities improvements to the outdoor venue, so [let’s get straight to the pictures](#gallery)!
 

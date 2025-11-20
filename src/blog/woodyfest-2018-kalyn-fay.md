@@ -28,7 +28,7 @@ excerpt: Your humble author first met musician Kalyn Fay in early 2016 when jour
 <p>Expat-Tulsa singer returns to Woodyfest</p></stack-l></hgroup>
 <!-- markdownlint-enable MD025 --><mpb-dialog-img>
 
-{% image "./src/assets/images/blog/2018-12-17-woodyfest-kalyn-fay/czahller-20180713-17-09-37-crop.jpg", "img-constrained", "Kalyn (II) (detail) — 21st Annual Woody Guthrie Festival, 2018", "Kalyn (II) (detail)&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;21st Annual Woody Guthrie Festival, 2018" %}</mpb-dialog-img>
+{% image "./src/assets/images/blog/2018-12-17-woodyfest-kalyn-fay/czahller-20180713-17-09-37-crop.jpg", "img-constrained", "Kalyn (II) (detail) — 21st Annual Woody Guthrie Festival, 2018", "Kalyn (II) (detail)&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;21st Annual Woody Guthrie Festival, 2018", "eager" %}</mpb-dialog-img>
 
 ## Tsa-La-Gi Songstress
 

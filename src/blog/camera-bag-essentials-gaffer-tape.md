@@ -15,7 +15,7 @@ excerpt: The most essential item in any photographer’s bag is a relatively ine
 
 <!-- markdownlint-enable MD025 --><mpb-dialog-img>
 
-{% image "./src/assets/images/blog/2015-07-27-gaff-tape/czahller-20150727-16-34-39.jpg", "img-constrained", "A roll of gaffer tape", "Gaffer Tape (I)" %}</mpb-dialog-img>
+{% image "./src/assets/images/blog/2015-07-27-gaff-tape/czahller-20150727-16-34-39.jpg", "img-constrained", "A roll of gaffer tape", "Gaffer Tape (I)", "eager" %}</mpb-dialog-img>
 
 The most essential item in any photographer’s bag is a relatively inexpensive item, often overlooked&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;the humble roll of tape. The best tape for making temporary repairs, securing cables, or fastening a wireless trigger to a light stand is not electricians tape, nor is it duct tape&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;it’s gaffer tape (also known as “gaffers” tape or “gaff” tape). In this post, We’ll discuss a hack to make it easier for you to always have this miracle tape handy.
 <mpb-dialog-img>

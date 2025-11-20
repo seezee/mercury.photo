@@ -29,7 +29,7 @@ excerpt: We first met singer and songwriter Ken Pomeroy on New Year’s Eve, 201
 <p>Prodigy’s Woodyfest debut</p></stack-l></hgroup>
 <!-- markdownlint-enable MD025 --><mpb-dialog-img>
 
-{% image "./src/assets/images/blog/2019-02-01-woodyfest-ken-pomeroy/czahller-20180714-18-12-35.jpg", "img-constrained", "Kyle Reid & Ken Pomeroy — 21st Annual Woody Guthrie Festival, 2018", "Kyle Reid & Ken Pomeroy&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;21st Annual Woody Guthrie Festival, 2018" %}</mpb-dialog-img>
+{% image "./src/assets/images/blog/2019-02-01-woodyfest-ken-pomeroy/czahller-20180714-18-12-35.jpg", "img-constrained", "Kyle Reid & Ken Pomeroy — 21st Annual Woody Guthrie Festival, 2018", "Kyle Reid & Ken Pomeroy&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;21st Annual Woody Guthrie Festival, 2018", "eager" %}</mpb-dialog-img>
 
 We first met singer and songwriter <span class="h-card p-name">Ken Pomeroy</span> on <time datetime="2015-12-21T22:35:59-6:00">New Year’s Eve, 2015</time>. Her father, <span class="h-card p-name p-given-name">Skippy</span>, builds racing motorcycles in the large shop behind the family home and occasionally hosts concerts on the small stage inside.[^1] <span class="h-card p-org"><span class="p-name">Kyle Reid</span> and the Low-Swinging Chariots</span> headlined the end-of-year celebration. Before Reid’s set, Pomeroy played a short set of covers and original songs to a receptive audience.{.drop-cap}
 

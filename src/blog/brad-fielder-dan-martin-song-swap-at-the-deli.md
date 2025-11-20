@@ -27,7 +27,7 @@ excerpt: A pair of Oklahoma’s premier songwriters sharing a stage should draw 
 <p>Peerless pickers swap songs</p></stack-l></hgroup>
 <!-- markdownlint-enable MD025 --><mpb-dialog-img>
 
-{% image "./src/assets/images/blog/2019-05-03-brad-fielder-dan-martin-deli/czahller-20190429-22-07-59.jpg", "img-constrained", "Dan & Brad (II) — Brad Fielder & Dan Martin Song Swap at the Deli", "Dan & Brad (II) — Brad Fielder & Dan Martin Song Swap at the Deli" %}</mpb-dialog-img>
+{% image "./src/assets/images/blog/2019-05-03-brad-fielder-dan-martin-deli/czahller-20190429-22-07-59.jpg", "img-constrained", "Dan & Brad (II) — Brad Fielder & Dan Martin Song Swap at the Deli", "Dan & Brad (II) — Brad Fielder & Dan Martin Song Swap at the Deli", "eager" %}</mpb-dialog-img>
 
 A pair of Oklahoma’s premier songwriters sharing a stage should draw a crowd. But if it’s Monday night the week before finals in a university town, maybe not. When <span class="h-card p-name">Brad Fielder</span> and <span class="h-card p-name">Dan Martin</span> started their late-night set at Campus Corner dive <span class="h-card p-org">The Deli</span>,[^1] the only audience besides me and one other customer were the audio engineer, the bartender, and four loud-mouthed boys-in-men’s-bodies. The latter were more interested in discussing strip clubs than showing deference to the artistry on display. Their loss. At least they left after the third song.{.drop-cap}
 

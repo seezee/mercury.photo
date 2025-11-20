@@ -19,7 +19,7 @@ excerpt: I met Claude Butler when he first moved to Norman in 1987.
 
 <!-- markdownlint-enable MD025 --><mpb-dialog-img>
 
-{% image "./src/assets/images/blog/2016-07-26-claude/czahller-20160628-19-19-44.jpg", "img-constrained", "Claude “The Master” Butler monochrome portrait", "Claude “The Master” Butler&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;shoeblack, counselor & friend, lover of jazz" %}</mpb-dialog-img>
+{% image "./src/assets/images/blog/2016-07-26-claude/czahller-20160628-19-19-44.jpg", "img-constrained", "Claude “The Master” Butler monochrome portrait", "Claude “The Master” Butler&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;shoeblack, counselor & friend, lover of jazz", "eager" %}</mpb-dialog-img>
 
 I met <span class="h-card p-name">Claude Butler</span> when he first moved to Norman in <time datetime="1987">1987</time>. He had an arrangement with the management at Sooner Fashion Mall (now called “Sooner Mall”) in which they let him set up a shoeshine stand rent-free near the mall’s center court. That arrangement ended in <time datetime="1990">1990</time> when some corporate bean-counters got wind of it and demanded that Claude either pay rent, or move out. But that was long enough for Claude to make some lasting friendships and loyal clients, including one with Heisman Trophy winner and local businessman <span class="h-card p-name">Steve Owens</span>, former University of Oklahoma football coach <span class="h-card p-name">Barry Switzer</span>, and Olympic medalist <span class="h-card p-name">Bart Connor</span>. Your humble chronicler counts himself as a Friend of the Master as well.
 

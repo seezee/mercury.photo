@@ -20,7 +20,7 @@ excerpt: The word “atmospheric” gets tossed around a lot when describing Cle
 
 <!-- markdownlint-enable MD025 --><mpb-dialog-img>
 
-{% image "./src/assets/images/blog/2013-01-16-mr-gnome/czahller-20121113-23-31-54-2.jpg", "img-constrained", "Nicole Barille shredding on guitar. Her hair is flying about her head. She wears a striped tank top.", "Nicole (IX)" %}</mpb-dialog-img>
+{% image "./src/assets/images/blog/2013-01-16-mr-gnome/czahller-20121113-23-31-54-2.jpg", "img-constrained", "Nicole Barille shredding on guitar. Her hair is flying about her head. She wears a striped tank top.", "Nicole (IX)", "eager" %}</mpb-dialog-img>
 
 The word “atmospheric” gets tossed around a lot when describing Cleveland-based <span class="h-card p-org">mr. Gnome</span>. Also “schizophrenic,” “psychedelic,” “weird,” “experimental,” “thunderous,” “dreamy,” “loud,” “introspective,” “stormy,” “crunchy,” “aggressive,” “ghostly,” “sweet,” “dark,” “bright,” and “spastic.” Also “cute,” as petite guitarist and singer <span class="h-card p-name">Nicole Barrille</span> is certainly elfin, while her husband-<span lang="la" class="foreign">cum</span>-drummer, <span class="h-card p-name">Sam Meister</span>, is a handsome giant[^1]. Rarely apart from one another by more than a few feet, **they certainly are a cute couple**.
 

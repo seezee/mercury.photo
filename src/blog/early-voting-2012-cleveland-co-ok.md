@@ -22,7 +22,7 @@ excerpt: Cleveland County voters may cast their ballots before Tuesday at the Cl
 <p>Long lines for important plebescite</p></stack-l></hgroup>
 <!-- markdownlint-enable MD025 --><mpb-dialog-img>
 
-{% image "./src/assets/images/blog/2012-11-02-early-voting/czahller-20121102-12-09-01.jpg", "img-constrained", "Signs marked “Vote Here →” stacked and stored in metal utility shelves at the Cleveland County Election Board building.", "Vote Here Signs (I)" %}</mpb-dialog-img>
+{% image "./src/assets/images/blog/2012-11-02-early-voting/czahller-20121102-12-09-01.jpg", "img-constrained", "Signs marked “Vote Here →” stacked and stored in metal utility shelves at the Cleveland County Election Board building.", "Vote Here Signs (I)", "eager" %}</mpb-dialog-img>
 
 [NORMAN, Okla., 2 November 2012]&NoBreak;&hairsp;&NoBreak;&mdash;{.no-drop-cap}
 

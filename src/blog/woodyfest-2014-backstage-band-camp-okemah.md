@@ -22,7 +22,7 @@ excerpt: Today’s post presents a photo gallery comprising images from various 
 
 <!-- markdownlint-enable MD025 --><mpb-dialog-img>
 
-{% image "./src/assets/images/blog/2021-06-21-woodyfest-backstage/czahller-20140713-03-02-14.jpg", "img-constrained", "Water Towers (I) — The famous triple water towers in Okemah, Oklahoma. The towers are labelled “Hot,” “Cold — Okemah,” and “Home of Woody Guthrie”", "Water Towers (I)&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;The famous triple water towers in Okemah, Oklahoma. The city could not afford to repair the two older towers, each nearly a century old, & demolished them circa 2015." %}</mpb-dialog-img>
+{% image "./src/assets/images/blog/2021-06-21-woodyfest-backstage/czahller-20140713-03-02-14.jpg", "img-constrained", "Water Towers (I) — The famous triple water towers in Okemah, Oklahoma. The towers are labelled “Hot,” “Cold — Okemah,” and “Home of Woody Guthrie”", "Water Towers (I)&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;The famous triple water towers in Okemah, Oklahoma. The city could not afford to repair the two older towers, each nearly a century old, & demolished them circa 2015.", "eager" %}</mpb-dialog-img>
 
 <time datetime="2021-06-28">Today</time>&rsquo;s post presents a photo gallery comprising images I captured in various backstage areas at the <time datetime="2014-07">2014</time> Woody Guthrie Folk Festival, along with pictures from the "Band Camp" encampment at the Okemah Rodeo Grounds, plus anything else one wouldn't categorize as performance photography. The pictures are self-explanatory, so that's all I have to say!
 

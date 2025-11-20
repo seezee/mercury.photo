@@ -31,7 +31,7 @@ Self-styled “post-brontosaurus indie folk/crunk” artist captivates audience
   </stack-l>
 </hgroup><mpb-dialog-img>
 
-{% image "./src/assets/images/blog/2013-10-23-woodyfest-rebecca-loebe/czahller-20130712-10-34-00.jpg", "img-constrained", "Rebecca Loebe seen from upstage. Her back is to the camera as she faces the empty auditorium during soundcheck. She wears a short blue dress and holds an acoustic guitar.", "Rebecca Loebe (V)" %}</mpb-dialog-img>
+{% image "./src/assets/images/blog/2013-10-23-woodyfest-rebecca-loebe/czahller-20130712-10-34-00.jpg", "img-constrained", "Rebecca Loebe seen from upstage. Her back is to the camera as she faces the empty auditorium during soundcheck. She wears a short blue dress and holds an acoustic guitar.", "Rebecca Loebe (V)", "eager" %}</mpb-dialog-img>
 
 <blockquote cite="https://www.reverbnation.com/rebeccaloebe">
 

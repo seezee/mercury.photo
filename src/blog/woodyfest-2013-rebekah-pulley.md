@@ -23,7 +23,7 @@ excerpt: Rebekah Pulley grew up in rural Alaska listening to her dad playing gui
 
 <!-- markdownlint-enable MD025 --><mpb-dialog-img>
 
-{% image "./src/assets/images/blog/2013-12-06-rebekah-pulley/czahller-20130711-13-34-25.jpg", "img-constrained", "Rebekah Pulley playing a guitar solo. She is leaning back and has her eyes closed.", "Guitar Break (I)" %}</mpb-dialog-img>
+{% image "./src/assets/images/blog/2013-12-06-rebekah-pulley/czahller-20130711-13-34-25.jpg", "img-constrained", "Rebekah Pulley playing a guitar solo. She is leaning back and has her eyes closed.", "Guitar Break (I)", "eager" %}</mpb-dialog-img>
 
 One of nine siblings, [<span class="h-card p-name">Rebekah Pulley</span>](https://music.apple.com/us/artist/rebekah-pulley/id48879651?uo=4&at=10ldhk){target=_blank rel="external noopener"} grew up in rural Alaska listening to her dad, <span class="h-card p-name p-given-name">Wallace</span>,[^1] playing guitar. At a young age, she taught herself to play the instrument by ear.
 

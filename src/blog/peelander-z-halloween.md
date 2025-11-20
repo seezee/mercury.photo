@@ -23,7 +23,7 @@ excerpt: Hailing from District Z on Planet Peelander, self-described Japanese ac
 
 <!-- markdownlint-enable MD025 --><mpb-dialog-img>
 
-{% image "./src/assets/images/blog/2012-11-07-peelander-z/czahller-20121031-21-18-50.jpg", "img-constrained", "Peelander-Z in the green room. They are assuming “superhero” poses. They are moving so the image is blurry. Peelander Pink appears as a ghost image, with the wall behind her visible through her head and body.", "If You Can See Pink, Then You Are a Good Person" %}</mpb-dialog-img>
+{% image "./src/assets/images/blog/2012-11-07-peelander-z/czahller-20121031-21-18-50.jpg", "img-constrained", "Peelander-Z in the green room. They are assuming “superhero” poses. They are moving so the image is blurry. Peelander Pink appears as a ghost image, with the wall behind her visible through her head and body.", "If You Can See Pink, Then You Are a Good Person", "eager" %}</mpb-dialog-img>
 
 Hailing from District Z on Planet Peelander, self-described Japanese action comic punks <span class="h-card p-org">Peelander-Z</span> traveled across the galaxy to eat our smiles. They landed at [<span class="h-card p-org">Club Dada</span>](https://www.dadadallas.com/){target=_blank rel="external noopener"} in Dallas’s Deep Ellum this past <time datetime="2012-10-31">Hallowe’en</time>. Peelander-Z are currently touring the southern U.S. and the eastern seaboard with Japanese garage metal band [<span class="h-card p-org">Electric Eel Shock</span>](/blog/electric-eel-shock/).
 
