@@ -555,8 +555,9 @@ hgroup h1 + p {
   list-style: none;
 }
 
-[id^="fnref"] a {
+a[id^="fnref"] {
   color: var(--mpb-color-accent);
+  text-decoration: none;
 }
 
 #fnref1 {
@@ -777,8 +778,8 @@ hgroup h1 + p {
     padding-inline-end: var(--s1);
   }
 
-  [id^="fn"],
-  [id^="mn\:"] {
+  li[id^="fn"],
+  li[id^="mn\:"] {
     bottom: auto;
     anchor-name: --sidenote;
     /* inset-block-start: max(anchor(start) , calc(anchor(--sidenote bottom) + var(--s1))); /* Incompatible with css-anchor-positioning polyfill */
@@ -791,10 +792,6 @@ hgroup h1 + p {
     &::marker {
       color: var(--mpb-color-accent);
     }
-  }
-
-  [id^="fnref"] {
-    position: static;
   }
 
   #fn1 {
