@@ -20,23 +20,23 @@ User-agent: *
 Content-Signal: search=yes, ai-train=no
 Allow: /
 Sitemap: {{ env.siteURL }}/rss.xml
-Disallow: /_data/
-Disallow: /_includes/
-Disallow: /assets/css/
-Disallow: /assets/files/
-Disallow: /assets/fonts/
-Disallow: /assets/js/
+Disallow: /assets/
 Disallow: /blog/tags/
+Disallow: /pagefind/
+Disallow: /404.html
+Disallow: /_redirects
+Disallow: /dislike404-verification.txt
+Disallow: /manifest.webmanifest
 
 User-agent: Googlebot
 Allow: /
-Disallow: /_data/
-Disallow: /_includes/
-Disallow: /assets/css/
-Disallow: /assets/files/
-Disallow: /assets/fonts/
-Disallow: /assets/js/
+Disallow: /assets/
 Disallow: /blog/tags/
+Disallow: /pagefind/
+Disallow: /404.html
+Disallow: /_redirects
+Disallow: /dislike404-verification.txt
+Disallow: /manifest.webmanifest
 
 ## Bingbot harvests sites for AI training; many other AI scrapers also use their index.
 User-agent: Bingbot
