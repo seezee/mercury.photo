@@ -50,3 +50,5 @@ The body copy is set in [Merriweather](https://github.com/SorkinType/Merriweathe
 Headings are set in [Playfair Display](https://github.com/clauseggers/Playfair-Display){target=_blank rel="external noopener"}, a transitional typeface designed by Claus Eggers Sørensen and released in <time time="2010">2011</time>. According to Sørensen, the typeface <q>takes influence from the designs of John Baskerville and from ‘Scotch Roman’ designs.</q>
 
 Page elements such as navigation and microcopy are set in [Merriweather Sans](https://github.com/SorkinType/Merriweather-Sans){target=_blank rel="external noopener"}, also designed by Sorkin. The rare instances of monospaced type are set in [Cousine](https://fonts.google.com/specimen/Cousine?query=cousine){target=_blank rel="external noopener"}, designed by Steve Matteson.
+
+The brand mark is set in [Funkydori Bold](https://lauraworthingtondesign.com/products/collections/funkydori-family){target=_blank rel="external noopener"} by Laura Worthington Type.
