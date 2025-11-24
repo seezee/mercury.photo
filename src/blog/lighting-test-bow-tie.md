@@ -22,7 +22,7 @@ excerpt: We found this cool bow tie on an online auction site, and it was just t
 <p>Only the best people wear bow ties</p></stack-l></hgroup>
 <!-- markdownlint-enable MD025 --><mpb-dialog-img>
 
-{% image "./src/assets/images/blog/2015-09-23-lighting-bow-tie/czahller-20150906-16-20-32-2.jpg", "img-constrained", "Author portrait. The subject is wearing a black suit with an early 1960s cut (narrow lapels, slanted pockets, moderately padded shoulders, side vents), a white dress shirt, white linen pocket square with the “TV fold,” and a blue batwing bow tie with an elaborate embroidered pattern in pink & white. He also wears a black straw stingy-brim hat with a center-crease crown.", "Self Portrait (I), Adjusted", "eager" %}</mpb-dialog-img>
+{% image "featured", "img-constrained", "Author portrait. The subject is wearing a black suit with an early 1960s cut (narrow lapels, slanted pockets, moderately padded shoulders, side vents), a white dress shirt, white linen pocket square with the “TV fold,” and a blue batwing bow tie with an elaborate embroidered pattern in pink & white. He also wears a black straw stingy-brim hat with a center-crease crown.", "Self Portrait (I), Adjusted", "eager" %}</mpb-dialog-img>
 
 We found this cool bow tie on an online auction site&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;you know the one&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;and it was just the excuse we needed for another lighting test. The [gallery](/#gallery-lighting-test/) shows the three JPEGs, exported straight from the RAW[^1] files with no adjustments, each followed by a JPEG exported after basic tonal adjustments (overall exposure, shadows and highlights, black and whites).{.drop-cap}
 

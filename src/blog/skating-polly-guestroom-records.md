@@ -23,7 +23,7 @@ excerpt: One of the most anticipated Oklahoma music releases of 2014 dropped las
 <p>Sensational show ends with crash landing</p></stack-l></hgroup>
 <!-- markdownlint-enable MD025 --><mpb-dialog-img>
 
-{% image "./src/assets/images/blog/2014-03-25-skating-polly-guestroom/czahller-20140322-14-43-02.jpg", "img-constrained", "Kelli playing a basitar solo. She is crouched over the instrument, standing on tiptoes, and wearing knee-high striped socks but no shoes. Her long blond hair covers her face.", "Kelli Finale (III)", "eager" %}</mpb-dialog-img>
+{% image "featured", "img-constrained", "Kelli playing a basitar solo. She is crouched over the instrument, standing on tiptoes, and wearing knee-high striped socks but no shoes. Her long blond hair covers her face.", "Kelli Finale (III)", "eager" %}</mpb-dialog-img>
 
 One of the most anticipated Oklahoma music releases of <time datetime="2014">2014</time> dropped <time datetime="2014-02-23">last month</time>, with the release of <span class="h-card p-org">Skating Polly</span>’s third full-length album, <cite>Fuzz Steilacoom</cite>. The album is already getting many [favorable reviews](https://www.okgazette.com/music/skating-polly-fuzz-steilacoom-2964483){target=_blank rel="external noopener"}, and has been in heavy rotation here at the Bureau’s offices since we received our preview copy.{.drop-cap}
 

@@ -24,7 +24,7 @@ excerpt: Saturday night at Woodyfest 2019 kicked off, as in past years, with a s
 
 <!-- markdownlint-enable MD025 --><mpb-dialog-img>
 
-{% image "./src/assets/images/blog/2021-06-21-woodyfest-songwriting-contest/czahller-20190712-19-18-22.jpg", "img-constrained", "Anna Larson (Accompanied by Jon-Michael Rogers) — 22nd Annual Woody Guthrie Festival, 2019", "Anna Larson (Accompanied by Jon-Michael Rogers)&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;22nd Annual Woody Guthrie Festival, 2019", "eager" %}</mpb-dialog-img>
+{% image "featured", "img-constrained", "Anna Larson (Accompanied by Jon-Michael Rogers) — 22nd Annual Woody Guthrie Festival, 2019", "Anna Larson (Accompanied by Jon-Michael Rogers)&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;22nd Annual Woody Guthrie Festival, 2019", "eager" %}</mpb-dialog-img>
 
 ## Anna Larson, Dan Weber Take 2<sup>nd</sup> &amp; 1<sup>st</sup> Place
 

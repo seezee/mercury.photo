@@ -25,7 +25,7 @@ excerpt: Although singer-songwriter Audrey Auld describes her style as “music 
 
 <!-- markdownlint-enable MD025 --><mpb-dialog-img>
 
-{% image "./src/assets/images/blog/2013-10-04-woodyfest-audrey-auld/czahller-20130713-11-08-16.jpg", "img-constrained", "Audrey Auld on the Crystal Theatre stage. She is playing a large acoustic Taylor guitar with a blond spruce top and a tortoiseshell-colored pick guard. She wears a blue dress. Her hair is long and red with loose curls.", "Audrey Auld (III)", "eager" %}</mpb-dialog-img>
+{% image "featured", "img-constrained", "Audrey Auld on the Crystal Theatre stage. She is playing a large acoustic Taylor guitar with a blond spruce top and a tortoiseshell-colored pick guard. She wears a blue dress. Her hair is long and red with loose curls.", "Audrey Auld (III)", "eager" %}</mpb-dialog-img>
 
 Although singer-songwriter <span class="h-card p-name">[Audrey Auld](https://music.apple.com/us/artist/audrey-auld/id39868384?uo=4&at=10ldhk){target=_blank rel="external noopener"}</span> describes her style as <q>music with the dirt left on,</q> that’s dirt from a distinctly different hemisphere&NoBreak;&hairsp;&NoBreak;—&NoBreak;&hairsp;&NoBreak;the southern one.
 

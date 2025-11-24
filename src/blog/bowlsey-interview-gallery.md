@@ -24,7 +24,7 @@ excerpt: Acoustic duo Bowlsey is moving fast. They granted Mercury Photo Bureau 
 <!-- markdownlint-enable MD025 -->
 We Are Bowlsey</stack-l></hgroup><mpb-dialog-img>
 
-{% image "./src/assets/images/blog/2013-02-28-bowlsey/czahller-20130208-21-05-09.jpg", "img-constrained", "Cid & Shraz singing & rapping a duet. In the background, a colorful graffiti-style mural is visible.", "Duet (I)", "eager" %}</mpb-dialog-img>
+{% image "featured", "img-constrained", "Cid & Shraz singing & rapping a duet. In the background, a colorful graffiti-style mural is visible.", "Duet (I)", "eager" %}</mpb-dialog-img>
 
 Acoustic duo <span class="h-card p-org">Bowlsey</span> is moving fast. They granted <span class="h-card p-org">Mercury Photo Bureau</span> an interview before their second public performance, and in the intervening weeks became the second interview subjects for <span class="h-card p-org">REV HiFi</span> before joining a contingent of Oklahoma bands featured at this year’s <span class="h-card p-org">SXSW</span>. This bears repeating: they went from their first public performance to joining the <span class="h-event">Buffalo Lounge SXSW Oklahoma Remix Showcase</span> in less than two months.{.drop-cap}
 

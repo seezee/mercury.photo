@@ -28,7 +28,7 @@ excerpt: You know how sometimes you see a movie, and time passes, and you’re c
 <p>I was a Dan Martin Fan and I didn’t know it</p></stack-l></hgroup>
 <!-- markdownlint-enable MD025 --><mpb-dialog-img>
 
-{% image "./src/assets/images/blog/2018-11-23-woodyfest-dan-martin/czahller-20180713-11-18-00.jpg", "img-constrained", "Dan (III) — 21st Annual Woody Guthrie Festival, 2018", "Dan (III)&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;21st Annual Woody Guthrie Festival, 2018", "eager" %}</mpb-dialog-img>
+{% image "featured", "img-constrained", "Dan (III) — 21st Annual Woody Guthrie Festival, 2018", "Dan (III)&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;21st Annual Woody Guthrie Festival, 2018", "eager" %}</mpb-dialog-img>
 
 You know how sometimes you see a movie, and time passes, and you’re convinced that a favorite actor appeared in it, only to learn it was someone else entirely? Well, something like that happened to this writer as regards Tulsa singer-songwriter <span class="h-card p-name">Dan Martin</span>.{.drop-cap}
 

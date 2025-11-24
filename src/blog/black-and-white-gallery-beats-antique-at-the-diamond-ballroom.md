@@ -23,7 +23,7 @@ excerpt: Today we present the previously unpublished black and white photos from
 <!-- markdownlint-enable MD025 -->
 <mpb-dialog-img>
 
-{% image "./src/assets/images/blog/2019-03-20-beats-antique-bw/czahller-20120912-21-43-05.jpg", "img-constrained", "Zoë's Entrance (II), Beats Antique “Animal Mechanique” Tour", "Zoë's Entrance (II), Beats Antique “Animal Mechanique” Tour", "eager" %}</mpb-dialog-img>
+{% image "featured", "img-constrained", "Zoë's Entrance (II), Beats Antique “Animal Mechanique” Tour", "Zoë's Entrance (II), Beats Antique “Animal Mechanique” Tour", "eager" %}</mpb-dialog-img>
 
 Today we present the previously unpublished[^1] black and white photos from electronic world fusion group <span class="h-card p-org">Beats Antique</span> playing the <span class="h-card p-org">Diamond Ballroom</span> in <time datetime="2012-09-12">2012</time>. You can [view the color images here](/blog/color-gallery-beats-antique-at-the-diamond-ballroom).
 

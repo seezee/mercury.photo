@@ -23,7 +23,7 @@ excerpt: In 1957 a young architect named Herb Greene returned to his alma mater,
 <p>An architectural gem on the Oklahoma prairie</p></stack-l></hgroup>
 <!-- markdownlint-enable MD025 --><mpb-dialog-img>
 
-{% image "./src/assets/images/blog/2019-04-24-prairie-house/czahller-20170521-16-26-25.jpg", "img-constrained", "Southwest View — Prairie House, Norman, Oklahoma", "Southwest View — Prairie House, Norman, Oklahoma", "eager" %}</mpb-dialog-img>
+{% image "featured", "img-constrained", "Southwest View — Prairie House, Norman, Oklahoma", "Southwest View — Prairie House, Norman, Oklahoma", "eager" %}</mpb-dialog-img>
 
 In <time datetime="1957">1957</time> a young architect named <span class="h-card p-name">Herb Greene</span> returned to his alma mater, the <span class="h-card p-org">University of Oklahoma</span>, to teach. Working alongside his former professor (modernist <span class="h-card p-name">Bruce Goff</span>) and others, he helped develop the <span class="h-card p-org">American School</span> of architecture. Described as <q>A new school, probably the only indigenous one in the United States</q> by co-founder <span class="h-card p-name">Donald MacDonald</span>, the curriculum eschewed the pedagogy of the French Beaux Arts and Bauhaus schools, instead approaching architecture and its pedagogy in an <q>original and authentically American fashion</q> by emphasizing <q>individual creativity, organic forms, and experimentation.</q>&NoBreak;[^1]{.drop-cap}
 

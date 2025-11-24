@@ -21,7 +21,7 @@ excerpt: Astute readers may have noticed that I’ve been transitioning to using
 <p>Goofing off</p></stack-l></hgroup>
 <!-- markdownlint-enable MD025 --><mpb-dialog-img>
 
-{% image "./src/assets/images/blog/2015-08-28-fun-macro/czahller-20150828-17-09-29.jpg", "img-constrained", "Extreme closeup of rubber cat puppet head. The puppet is black with white whiskers, yellow eyes, and green pupils.", "Astro the Cat (Puppet)", "eager" %}</mpb-dialog-img>
+{% image "featured", "img-constrained", "Extreme closeup of rubber cat puppet head. The puppet is black with white whiskers, yellow eyes, and green pupils.", "Astro the Cat (Puppet)", "eager" %}</mpb-dialog-img>
 
 Astute readers may have noticed that we’ve transitioned to the Fujifilm X-T1 camera, with the Leica M9-P relegated to backup duties. It’s compact and light like the Leica, has plenty of manual controls, and has better ISO performance. Fuji makes a special adapter that lets us use M-mount lenses with it, and their own lenses are tack sharp, with beautiful color rendering and auto-focus.{.drop-cap}
 

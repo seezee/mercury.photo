@@ -24,7 +24,7 @@ excerpt: We wrote about Woodyfest regular Sam Baker just over a year ago so we w
 
 <!-- markdownlint-enable MD025 --><mpb-dialog-img>
 
-{% image "./src/assets/images/blog/2020-10-02-woodyfest-sam-baker/czahller-20130713-17-52-12.jpg", "img-constrained", "Fiddle Solo — Sam Baker at the Crystal Theatre, Woody Guthrie Folk Festival 16", "Fiddle Solo&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;Sam Baker at the Crystal Theatre, Woody Guthrie Folk Festival 16", "eager" %}</mpb-dialog-img>
+{% image "featured", "img-constrained", "Fiddle Solo — Sam Baker at the Crystal Theatre, Woody Guthrie Folk Festival 16", "Fiddle Solo&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;Sam Baker at the Crystal Theatre, Woody Guthrie Folk Festival 16", "eager" %}</mpb-dialog-img>
 
 We [wrote about](/blog/woodyfest-2018-sam-baker/){target=_blank rel="external noopener"} Woodyfest regular <span class="h-card p-name">Sam Baker</span> just over a year ago, so we won’t repeat ourselves here. Baker has played Woodyfest a total of a dozen times as of <time datetime="2019-07-13T19:45:00-5:00">2019</time>.
 

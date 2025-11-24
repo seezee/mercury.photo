@@ -11,7 +11,7 @@ permalink: /comment-policy/
 
 <mpb-dialog-img>
 
-{% image "./src/assets/images/site/support-this-site/czahller-20120330-15-01-33.jpg", "img-constrained", "A food vendor at a fair acknowledging a customer.", "Be nice!", "eager" %}
+{% image "featured", "img-constrained", "A food vendor at a fair acknowledging a customer.", "Be nice!", "eager" %}
 </mpb-dialog-img>
 
 We want you to feel at home when you post a comment on Mercury Photo Bureau. We want everyone to feel at home posting comments on Mercury Photo Bureau. We don’t know what your home is like, but we know how we expect people to behave when they visit ours. That’s why we reserve the right to delete comments and ban users as needed to keep the comment threads here civil and substantive.{.drop-cap}

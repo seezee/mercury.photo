@@ -15,7 +15,7 @@ ogtype: website
 <!-- markdownlint-enable MD025 -->
 <mpb-dialog-img>
 
-{% image "./src/assets/images/site/newsletter/czahller-20120324-10-02-06.jpg", "img-constrained", "A child's wagon painted with the team colors for the Oklahoma Sooners football team. The lettering says 'Calvin Steves', 'Bud 50, 55, 56', 'Barry 74, 75, 85', and 'Sooners.' A locking metal box containing copies of the Norman Transcript newspaper rests in the bed. A flag showing a football marked with the logo for the University of Oklahoma is mounted to the wagon.", "", "eager"  %}</mpb-dialog-img>
+{% image "featured", "img-constrained", "A child's wagon painted with the team colors for the Oklahoma Sooners football team. The lettering says 'Calvin Steves', 'Bud 50, 55, 56', 'Barry 74, 75, 85', and 'Sooners.' A locking metal box containing copies of the Norman Transcript newspaper rests in the bed. A flag showing a football marked with the logo for the University of Oklahoma is mounted to the wagon.", "", "eager"  %}</mpb-dialog-img>
 
 <p class="drop-cap">Hey, we’re really stoked that you want to follow us. We don’t publish on a regular schedule, so there’s no danger we’ll be clogging up your inbox. In any case, this is the best way to find out whenever there’s anything new happening at The Bureau.</p>
 

@@ -27,7 +27,7 @@ excerpt: Oklahoma musicians Brad Fielder and R.T. Valine traded songs on the Hen
 
 <!-- markdownlint-enable MD025 --><mpb-dialog-img>
 
-{% image "./src/assets/images/blog/2018-12-14-woodyfest-fielder-valine/czahller-20180713-16-08-29.jpg", "img-constrained", "Brad & R.T. (Upstage View) — 21st Annual Woody Guthrie Festival, 2018", "Brad & R.T. (Upstage View)&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;21st Annual Woody Guthrie Festival, 2018", "eager" %}</mpb-dialog-img>
+{% image "featured", "img-constrained", "Brad & R.T. (Upstage View) — 21st Annual Woody Guthrie Festival, 2018", "Brad & R.T. (Upstage View)&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;21st Annual Woody Guthrie Festival, 2018", "eager" %}</mpb-dialog-img>
 
 Oklahoma musicians Brad Fielder and R.T. Valine traded songs on the Hen House stage at the <time datetime="2018-07">2018</time> <span class="h-card p-organisation"><span class="p-name"><span class="p-nickname">Woody</span> Guthrie</span> Folk Festival</span>.
 

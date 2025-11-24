@@ -11,7 +11,7 @@ permalink: "/legal/privacy/"
 <!-- markdownlint-enable MD025 -->
 <mpb-dialog-img>
 
-{% image "./src/assets/images/site/privacy/privacy.jpg", "img-constrained", "Privacy, by Thomas Leuthard. Street photo of a kitchen worker. He is holding his right hand in front of his face because he doesn't want to be photographed. He wears a white food servcie cap and appears to be east Asian.", "Privacy", "eager" %}
+{% image "featured", "img-constrained", "Privacy, by Thomas Leuthard. Street photo of a kitchen worker. He is holding his right hand in front of his face because he doesn't want to be photographed. He wears a white food servcie cap and appears to be east Asian.", "Privacy", "eager" %}
 </mpb-dialog-img>
 <small>
   <stack-l data-pagefind-ignore>

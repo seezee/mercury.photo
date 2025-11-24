@@ -238,7 +238,7 @@ module.exports = async function(eleventyConfig) {
 	}; */
 
   // Image shortcode
-  const imageShortcode = async (
+  const imageShortcode = async function (
     src,
     className = undefined,
     alt,
@@ -247,7 +247,16 @@ module.exports = async function(eleventyConfig) {
     widths = [400, 800, 1200, `auto`],
     formats = [`webp`, `jpeg`],
     sizes = `(min-width: 24rem) 90vw, 100vw`
-  ) => {
+  ) {
+
+    // Featured image attribute
+    if (src === `featured`) {
+      if (!this.ctx.image) {
+        console.error(`Featured image not set!`, err);
+      } else {
+        src = `./src${this.ctx.image}`;
+      }
+    };
 
     const imageMetadata = await Image(src, {
       widths: [...widths, null],
@@ -463,6 +472,9 @@ module.exports = async function(eleventyConfig) {
       .sort((a, b) => a.localeCompare(b));
     return sorted;
   });
+
+  // Limit collection size
+  eleventyConfig.addFilter(`limit`, (arr, limit) => arr.slice(0, limit));
 
   /**
    * END Filters

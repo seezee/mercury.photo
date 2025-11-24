@@ -21,7 +21,7 @@ excerpt: Kali Ra front man David Goad dropped by for an interview yesterday befo
 <!-- markdownlint-enable MD025 -->
 <mpb-dialog-img>
 
-{% image "./src/assets/images/blog/2012-11-16-concert-was-not/czahller-20121115-23-37-44.jpg", "img-constrained", "Brian Daniel and David Goad in conversation at the bar. Daniel sports a Mohawk hairstyle. David’s back is to the viewer. The image is black-and-white.", "Beers at the Abner House", "eager" %}</mpb-dialog-img>
+{% image "featured", "img-constrained", "Brian Daniel and David Goad in conversation at the bar. Daniel sports a Mohawk hairstyle. David’s back is to the viewer. The image is black-and-white.", "Beers at the Abner House", "eager" %}</mpb-dialog-img>
 
 <span class="h-card p-org">[Kali Ra](http://officialkalira.com){target=_blank rel="external noopener"}</span> front man <span class="h-card p-name">David Goad</span> dropped by for an [interview](/blog/kali-ra-interview-pt-1) <time datetime="2012-11-15">yesterday</time> before heading over to <span class="h-card p-org">OPOLIS</span> to open for <span class="h-card p-org">CHUD</span>. After recording the interview, Mercury Photo Bureau headed downtown to photograph the show, but not before receiving an invitation from [Psychic Milk](/blog/psychic-milk-interview-gallery/)’s <span class="h-card p-name">Justin Hogan</span>[^1] to attend the same show&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;the <a href="">[Kamals](/blog/kamals-interview-gallery/), also opening for CHUD, had had to cancel due to a medical emergency. Psychic Milk would be subbing for them.
 

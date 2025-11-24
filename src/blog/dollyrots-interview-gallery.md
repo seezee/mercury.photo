@@ -25,7 +25,7 @@ Kelly Ogden talks about innuendo, motherhood, and spaghetti
 
 <!-- markdownlint-enable MD025 --><mpb-dialog-img>
 
-{% image "./src/assets/images/blog/2019-04-03-dollyrots/czahller-20190322-23-23-24.jpg", "img-constrained", "Luis on stage right leaning forward in a rock ’n’ roll guitar stance; Kelly on stage left", "Punk Rock!&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;The Dollyrots at the 89th St Collective", "eager" %}</mpb-dialog-img>
+{% image "featured", "img-constrained", "Luis on stage right leaning forward in a rock ’n’ roll guitar stance; Kelly on stage left", "Punk Rock!&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;The Dollyrots at the 89th St Collective", "eager" %}</mpb-dialog-img>
 
 ## Dire Dollyrots Drought Done
 

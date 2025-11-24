@@ -26,7 +26,7 @@ excerpt: Chickasha native Travis Linville was one of many Oklahoma artists perfo
 <!-- markdownlint-enable MD025 -->
 <mpb-dialog-img>
 
-{% image "./src/assets/images/blog/2013-07-10-m4m-travis-linville/czahller-20130529-17-32-33.jpg", "img-constrained", "Travis Linville singing at Music4Moore. He wears thick black eyeglass frames. He has a harmonica hanging from his neck.", "Travis (IV)", "eager" %}</mpb-dialog-img>
+{% image "featured", "img-constrained", "Travis Linville singing at Music4Moore. He wears thick black eyeglass frames. He has a harmonica hanging from his neck.", "Travis (IV)", "eager" %}</mpb-dialog-img>
 
 Chickasha native [<span class="h-card p-name">Travis Linville</span>](https://music.apple.com/us/artist/travis-linville/id294147782?uo=4&at=10ldhk){target=_blank rel="external noopener"} was one of many Oklahoma artists performing at the <span class="h-card p-org">Music4Moore</span> fundraiser <time datetime="2013-05-29">this past May</time>, as we've [already reported](/blog/music4moore-ramsay-midwood/). The thirty-five-year-old singer-songwriter and guitar picker shared that honor with fellow Okies [<span class="h-card p-name">J.D. McPherson</span>](https://music.apple.com/us/artist/jd-mcpherson/id398896732?uo=4&at=10ldhk){target=_blank rel="external noopener"}, [<span class="h-card p-name">Parker Millsap</span>](https://music.apple.com/us/artist/parker-millsap/id525571790?uo=4&at=10ldhk){target=_blank rel="external noopener"}, and The Queen of Rock ’n’ Roll, [<span class="h-card p-name">Wanda Jackson</span>](https://music.apple.com/us/artist/wanda-jackson/id7036716?uo=4&at=10ldhk){target=_blank rel="external noopener"}. Appearing on the east stage, Linville was the evening's second performer.
 

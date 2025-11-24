@@ -19,7 +19,7 @@ excerpt: We interviewed youthful neo-psychedelic rockers Psychic Milk after they
 
 <!-- markdownlint-enable MD025 --><mpb-dialog-img>
 
-{% image "./src/assets/images/blog/2012-11-12-psychic-milk/czahller-20121013-22-11-14.jpg", "img-constrained", "Leon goes full “scream-o” mode at the HiLo Club, singing/screaming while playing electric guitar. The image is black-and-white.", "Leon (V)", "eager" %}</mpb-dialog-img>
+{% image "featured", "img-constrained", "Leon goes full “scream-o” mode at the HiLo Club, singing/screaming while playing electric guitar. The image is black-and-white.", "Leon (V)", "eager" %}</mpb-dialog-img>
 
 We interviewed neo-psychedelic rockers <span class="h-card p-org">Psychic Milk</span> after after they opened for <span class="h-card p-org">[Kill the Reflection](/blog/kill-reflection-interview-gallery)</span> at Oklahoma City’s HiLo Club. Guitar players <span class="h-card p-name">Leon Manson</span> and <span class="h-card p-name">Justin Hogan</span>, bassist <span class="h-card p-name">Brandon Wilson</span>, and drummer <span class="h-card p-name">Charlie Marsel</span> drove down to the Bureau after classes&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;all of the band members attend <abbr title="University of Central Oklahoma">OCU</abbr>’s Academy of Contemporary Music (ACM)&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;to answer a few questions.
 

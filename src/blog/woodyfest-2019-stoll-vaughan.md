@@ -24,7 +24,7 @@ excerpt: "Two-time chart-topper Stoll Vaughan made his Woodyfest debut in 2019. 
 
 <!-- markdownlint-enable MD025 --><mpb-dialog-img>
 
-{% image "./src/assets/images/blog/2020-10-05-woodyfest-stoll-vaughan/czahller-20190712-16-03-31.jpg", "img-constrained", "Stoll Vaughan (Upstage View) — 22nd Annual Woody Guthrie Festival, 2019", "Stoll Vaughan (Upstage View)&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;22nd Annual Woody Guthrie Festival, 2019", "eager" %}</mpb-dialog-img>
+{% image "featured", "img-constrained", "Stoll Vaughan (Upstage View) — 22nd Annual Woody Guthrie Festival, 2019", "Stoll Vaughan (Upstage View)&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;22nd Annual Woody Guthrie Festival, 2019", "eager" %}</mpb-dialog-img>
 
 Two-time chart-topper <span class="h-card p-name">Stoll Vaughan</span>[^1] made his Woodyfest debut in <time datetime="20">2019</time>. Vaughan took the Crystal Theatre stage <time datetime="2019-07-12T-15:30:005:00">mid-afternoon on festival Friday</time>.
 

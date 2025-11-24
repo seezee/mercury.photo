@@ -27,7 +27,7 @@ excerpt: The biggest musical influence in Opal Agafia’s life is her mom. Agafi
 
 <!-- markdownlint-enable MD025 --><mpb-dialog-img>
 
-{% image "./src/assets/images/blog/2019-02-04-woodyfest-opal-agafia/czahller-20180714-20-56-05.jpg", "img-constrained", "Michael Schembre, Justin Easter, Opal Agafia, David Lucas Gesualdo, & Ron Landis — 21st Annual Woody Guthrie Festival, 2018", "Michael Schembre, Justin Easter, Opal Agafia, David Lucas Gesualdo, & Ron Landis&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;21st Annual Woody Guthrie Festival, 2018", "eager" %}</mpb-dialog-img>
+{% image "featured", "img-constrained", "Michael Schembre, Justin Easter, Opal Agafia, David Lucas Gesualdo, & Ron Landis — 21st Annual Woody Guthrie Festival, 2018", "Michael Schembre, Justin Easter, Opal Agafia, David Lucas Gesualdo, & Ron Landis&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;21st Annual Woody Guthrie Festival, 2018", "eager" %}</mpb-dialog-img>
 
 ## Ozark Mountain Soul
 

@@ -24,7 +24,7 @@ excerpt: Friends and family of 25-year-old Norman resident Dayna Cannon gathered
 <!-- markdownlint-enable MD025 -->
 <mpb-dialog-img>
 
-{% image "./src/assets/images/blog/2016-07-01-dayna-strong/czahller-20160630-21-16-28.jpg", "img-constrained", "Dayna Cannon wins a raffle Prize (a t-shirt)", "Dayna Cannon Wins a Raffle Prize", "eager" %}</mpb-dialog-img>
+{% image "featured", "img-constrained", "Dayna Cannon wins a raffle Prize (a t-shirt)", "Dayna Cannon Wins a Raffle Prize", "eager" %}</mpb-dialog-img>
 
 Friends and family of 25-year-old Norman resident <span class="h-card p-name">Dayna Cannon</span> gathered at the Deli on <time datetime="2016-06-30T19:00-5:00">Thursday</time> for a benefit concert featuring the <span class="h-card p-org">Tequila Songbirds</span>. The event raised over 300 dollars to fund the Sprint4Sarcoma 5K & 1M Fun Run, to be held next <time datetime="2016-07-09:T8:00-5:00">Saturday</time> at Stars and Stripes Park in Oklahoma City.
 

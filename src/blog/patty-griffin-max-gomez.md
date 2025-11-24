@@ -19,7 +19,7 @@ excerpt: Singer-songwriter Patty Griffin returned to Norman’s Sooner Theatre f
 
 <!-- markdownlint-enable MD025 --><mpb-dialog-img>
 
-{% image "./src/assets/images/blog/2012-11-14-griffin-gomez/czahller-20121025-20-55-38.jpg", "img-constrained", "Patty Griffin’s red boots. The top of her white layer-cake dress is also visible. Except for the boots, the color is desaturated, leaving only pastel bluish shadows and yellowish highlights.", "Red Boots (Flaming Red)", "eager" %}</mpb-dialog-img>
+{% image "featured", "img-constrained", "Patty Griffin’s red boots. The top of her white layer-cake dress is also visible. Except for the boots, the color is desaturated, leaving only pastel bluish shadows and yellowish highlights.", "Red Boots (Flaming Red)", "eager" %}</mpb-dialog-img>
 
 ## Patty Griffin
 

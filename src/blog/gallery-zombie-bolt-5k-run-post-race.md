@@ -17,7 +17,7 @@ excerpt: "Recap: Five years ago I published a story about the 5K zombie race in 
 
 <!-- markdownlint-enable MD025 --><mpb-dialog-img>
 
-{% image "./src/assets/images/blog/2019-05-15-zombie-run-post-race/czahller-20121006-17-16-23.jpg", "img-constrained", "Finish Line (I) — Oklahoma’s Premier Zombie Race: Zombie Bolt 5K, Guthrie, Oklahoma", "Finish Line (I) — Oklahoma’s Premier Zombie Race: Zombie Bolt 5K, Guthrie, Oklahoma", "eager" %}</mpb-dialog-img>
+{% image "featured", "img-constrained", "Finish Line (I) — Oklahoma’s Premier Zombie Race: Zombie Bolt 5K, Guthrie, Oklahoma", "Finish Line (I) — Oklahoma’s Premier Zombie Race: Zombie Bolt 5K, Guthrie, Oklahoma", "eager" %}</mpb-dialog-img>
 
 Recap: <time datime="2010-10-24">Five years ago</time> we published [a story](/blog/zombie-bolt/) about the 5K zombie race in Guthrie, Oklahoma. At the time we shared only a portion of the photos we shot during the race, relegating the remainder to <span class="h-card p-org">Flickr</span>. Since then Flickr have changed their [terms of service](https://blog.flickr.net/en/2018/11/01/changing-flickr-free-accounts-1000-photos/){target="_blank" rel="external noopener"}. We’re currently moving many of our photos from the platform to this blog.
 

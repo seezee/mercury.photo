@@ -19,7 +19,7 @@ excerpt: Leica Camera AG announced their latest digital rangefinder this morning
 
 <!-- markdownlint-enable MD025 --><mpb-dialog-img>
 
-{% image "./src/assets/images/blog/2013-04-01-leica-mt/leica-mt-front.jpg", "img-constrained", "Front of the so-called Leica MT. Taken from a real stock image that has been modified to appear to be an as yet unreleased camera.", "Leica MT (<span lang='de'>typ</span> 245) Silver Chrome Front", "eager" %}</mpb-dialog-img>
+{% image "featured", "img-constrained", "Front of the so-called Leica MT. Taken from a real stock image that has been modified to appear to be an as yet unreleased camera.", "Leica MT (<span lang='de'>typ</span> 245) Silver Chrome Front", "eager" %}</mpb-dialog-img>
 
 <mpb-callout type="info" title="Overview">
 

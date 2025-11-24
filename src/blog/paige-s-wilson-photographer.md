@@ -19,7 +19,7 @@ excerpt: Photographer Paige S. Wilson recently dropped by Mercury Photo Bureau W
 
 <!-- markdownlint-enable MD025 --><mpb-dialog-img>
 
-{% image "./src/assets/images/blog/2017-03-13-paige/czahller-20170226-10-41-28.jpg", "img-constrained", "Paige S. Wilson monochrome studio portrait. She wears a horizontal-striped top. Her hair is short, except on top where she wears it in dreadlocks.", "Paige S. Wilson", "eager" %}</mpb-dialog-img>
+{% image "featured", "img-constrained", "Paige S. Wilson monochrome studio portrait. She wears a horizontal-striped top. Her hair is short, except on top where she wears it in dreadlocks.", "Paige S. Wilson", "eager" %}</mpb-dialog-img>
 
 Photographer <span class="h-card p-name">Paige S. Wilson</span> recently dropped by Mercury Photo Bureau for a facilities tour. We traded places behind the camera to make one another’s portraits.<a href="#mn:1" id="mnref:1"><span class="sr-only"> [See note]</span></a>
 

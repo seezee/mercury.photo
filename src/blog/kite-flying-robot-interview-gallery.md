@@ -20,7 +20,7 @@ excerpt: Kite Flying Robot sprang from the singular vision of Nikolas “Kite”
 
 <!-- markdownlint-enable MD025 --><mpb-dialog-img>
 
-{% image "./src/assets/images/blog/2013-04-23-kite-flying-robot/czahller-20130216-01-11-46.jpg", "img-constrained", "Nikolas Thompson seen from the waist up. He wears a red “ringer” t-shirt. His eyes are closed, his right hand raised above his head. He holds a microphone in his raised hand. An orange light washes over the scene.", "Nikolas (IV)", "eager" %}</mpb-dialog-img>
+{% image "featured", "img-constrained", "Nikolas Thompson seen from the waist up. He wears a red “ringer” t-shirt. His eyes are closed, his right hand raised above his head. He holds a microphone in his raised hand. An orange light washes over the scene.", "Nikolas (IV)", "eager" %}</mpb-dialog-img>
 
 <span aria-hidden="true">K</span><span class="h-card p-org"><span class="sr-only">K</span>ite Flying Robot</span> sprang from the singular vision of <span class="h-card p-name"><span class="p-given-name">Nikolas</span> <span class="p-nickname">"Kite"</span> <span class="p-family-name">Thompson</span></span>. The band itself has seen a rotating cast of players based on the exigencies of a nomadic lifestyle: There’s the **California** lineup (Thompson as solo artist), the **Oklahoma** lineup, and the lineup for **South Korea**. Thompson currently resides and plays in **Seoul**.
 

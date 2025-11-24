@@ -18,7 +18,7 @@ excerpt: After all that research, I decided that, besides buying better lenses f
 
 <!-- markdownlint-enable MD025 --><mpb-dialog-img>
 
-{% image "./src/assets/images/blog/2012-08-27-circle-confusion-4/czahller-20120630-21-35-17.jpg", "img-constrained", "Building 84 at Roswell International Air Center (formerly Walker AFB) at sunset. Supposedly, the debris from the alleged 1947 UFO crash was housed here.", "Building 84 at Sunset (I)", "eager" %}</mpb-dialog-img>
+{% image "featured", "img-constrained", "Building 84 at Roswell International Air Center (formerly Walker AFB) at sunset. Supposedly, the debris from the alleged 1947 UFO crash was housed here.", "Building 84 at Sunset (I)", "eager" %}</mpb-dialog-img>
 
 After all that research, I decided that, besides buying better lenses for the M3, I was willing to fork over some serious shekels for an M9&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;or better yet, an M9-P, as I didn’t trust myself not to scratch the view-screen. If you’re new to **Leica** rangefinders, let me explain that these cameras are nearly identical, but the M9-P has a scratch-resistant sapphire glass LCD view-screen. There are also some cosmetic differences:
 

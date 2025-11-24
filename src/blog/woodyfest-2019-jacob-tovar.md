@@ -26,7 +26,7 @@ excerpt: Jacob Tovar didn’t set out to be a musician. The Tulsa-based musician
 
 <!-- markdownlint-enable MD025 --><mpb-dialog-img>
 
-{% image "./src/assets/images/blog/2020-04-05-woodyfest-jacob-tovar/czahller-20190711-21-36-34.jpg", "img-constrained", "Jacob Tovar jamming with Terry “Buffalo” Ware and Stephen Lee", "So Much Jammin’&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;22nd Annual Woody Guthrie Festival, 2019", "eager" %}</mpb-dialog-img>
+{% image "./src/assets/images/blog/2020-10-16-woodyfest-jared-tyler/czahller-20190712-16-40-07.jpg", "img-constrained", "Jacob Tovar jamming with Terry “Buffalo” Ware and Stephen Lee", "So Much Jammin’&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;22nd Annual Woody Guthrie Festival, 2019", "eager" %}</mpb-dialog-img>
 
 <span class="h-card p-name">Jacob</span> Tovar didn’t set out to be a musician. The Tulsa-based musician grew up with a deep, abiding love of classic country music, particularly from the <time datetime="1950">’50s</time> and <time datetime="1960">’60s</time>. In an interview in the <cite>Tulsa World</cite> he name-checked <span class="h-card p-name">Marty Robbins</span>, <span class="h-card p-name">Hank Thompson</span>, <span class="h-card p-name">Hank Williams</span>, and <span class="h-card p-name">Merle Haggard</span> as examples of "roots" country musicians he admires.&NoBreak;[^1]
 

@@ -6,14 +6,15 @@
 * 3.  Search
 * 3.  Theme toggle
 * 4.  #nav-primary-wrapper, .breadcrumbs-separator, #main-wrapper
-* 5   blog-index
-* 6.  .masonry
-* 7.  Columns (.col-2, .col-3, .col-4, .col-5)
-* 8.  hgroup
-* 9.  <dd> styles: .dd-add-space, dd+br
-* 10. .after-icon spacer
-* 11. .recipe-index
-* 12. #mpb-logo (footer icon)
+* 5.  .recent-posts
+* 6   blog-index
+* 7.  .masonry
+* 8.  Columns (.col-2, .col-3, .col-4, .col-5)
+* 9.  hgroup
+* 10.  <dd> styles: .dd-add-space, dd+br
+* 11. .after-icon spacer
+* 12. .recipe-index
+* 13. #mpb-logo (footer icon)
 */
 
 #home {
@@ -358,6 +359,11 @@ ul ul .navigation__item {
 
 #main-wrapper {
   inline-size: 100%;
+}
+
+/* .recent-posts */
+h3 {
+  font-size: var(--mpb-font-size-1);
 }
 
 /* .blog-index */
@@ -722,8 +728,8 @@ a[id^="fnref"] {
 }
 
 /* Fixes notes being too wide on small mobile devices. */
-[id^="fn"],
-[id^="mn\:"] {
+li[id^="fn"],
+li[id^="mn\:"] {
   max-inline-size: none;
 }
 
@@ -748,8 +754,8 @@ a[id^="fnref"] {
     #share-wrapper,
     #tags-wrapper,
     #space-occupier,
-    [id^="fn"],
-    [id^="mn\:"] { /* Fit sidebar width when wrapped */
+    li[id^="fn"],
+    li[id^="mn\:"] { /* Fit sidebar width when wrapped */
       max-inline-size: 30ch;
     }
   }

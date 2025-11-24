@@ -23,7 +23,7 @@ excerpt: When they appeared on the Brick Café stage during Woodyfest 2013, the 
 
 <!-- markdownlint-enable MD025 --><mpb-dialog-img>
 
-{% image "./src/assets/images/blog/2020-04-11-woodyfest-deslondes/czahller-20130713-16-24-44.jpg", "img-constrained", "Sam, Riley, & Special Guest Douglas Francisco", "Sam, Riley, & Special Guest Douglas Francisco (II)&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;Sam Doores + Riley Downing & the Tumbleweeds at the Brick Café, Woody Guthrie Folk Festival 16", "eager" %}</mpb-dialog-img>
+{% image "featured", "img-constrained", "Sam, Riley, & Special Guest Douglas Francisco", "Sam, Riley, & Special Guest Douglas Francisco (II)&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;Sam Doores + Riley Downing & the Tumbleweeds at the Brick Café, Woody Guthrie Folk Festival 16", "eager" %}</mpb-dialog-img>
 
 When they appeared on the <span class="h-card p-org">Brick Caf&eacute;</span> stage during Woodyfest <time datetime="2013-07-13T16:00-5:00">2013</time>, the <span class="h-card p-org">Deslondes</span> were still billing themselves as <span class="h-card p-org">Sam Doores + Riley Downing &amp; the Tumbleweeds.</span> The moniker was not only long and awkward; it also conflicted with the dozens of other musical acts also calling themselves “The Tumbleweeds.”
 

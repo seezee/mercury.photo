@@ -23,7 +23,7 @@ excerpt: Making his Woody Guthrie Folk Festival debut this past July, Alex Culbr
 
 <!-- markdownlint-enable MD025 --><mpb-dialog-img>
 
-{% image "./src/assets/images/blog/2013-10-03-woodyfest-alex-culbreth/czahller-20130712-16-06-01.jpg", "img-constrained", "Alex Culbreth playing acoustic guitar. His face is pressed against a Shure SM58 microphone. He is smiling broadly.", "Alex Culbreth (II)", "eager" %}</mpb-dialog-img>
+{% image "featured", "img-constrained", "Alex Culbreth playing acoustic guitar. His face is pressed against a Shure SM58 microphone. He is smiling broadly.", "Alex Culbreth (II)", "eager" %}</mpb-dialog-img>
 
 <mpb-callout type="note" title="update">
 

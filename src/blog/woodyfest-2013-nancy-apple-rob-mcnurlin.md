@@ -29,7 +29,7 @@ Community 0utreach at the Okemah Nutrition Center
   </stack-l>
 </hgroup><mpb-dialog-img>
 
-{% image "./src/assets/images/blog/2013-10-09-apple-mcnurlin/czahller-20130712-11-06-23.jpg", "img-constrained", "Nancy & Rob, seated & playing guitar. Nancy leans to her left and stares directly at the camera. She is wearing dark sunglasses; both musicians sport straw western hats.", "Nancy & Rob (II)", "eager" %}</mpb-dialog-img>
+{% image "featured", "img-constrained", "Nancy & Rob, seated & playing guitar. Nancy leans to her left and stares directly at the camera. She is wearing dark sunglasses; both musicians sport straw western hats.", "Nancy & Rob (II)", "eager" %}</mpb-dialog-img>
 
 <span class="h-card p-name"><span class="p-nickname">Princess of Twang</span> [Nancy Apple](https://music.apple.com/us/artist/nancy-apple/id6228125?uo=4&at=10ldhk){target=_blank rel="external noopener"}</span> and country troubadour <span class="h-card p-name">[Rob M<sup>c</sup>Nurlin](https://music.apple.com/us/artist/rob-M<sup>c</sup>Nurlin/id199387813?uo=4&at=10ldhk){target=_blank rel="external noopener"}</span> are almost as familiar to Woody Guthrie Folk Festival regulars as festival house band the <span class="h-card p-org">Oklahoma Geniuses</span>; wherever you look, they seem to be there. Senior citizens at the Okemah Nutrition Center were serenaded by the pair during an afternoon concert this <time datetime="2013-07-12T11:00-5:00">past July</time> while the festival was in full swing. And swing this pair does, and rocks and rolls, and sweet-by-and-bys, with a repertoire deep and rich in American vernacular music.
 

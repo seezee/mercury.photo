@@ -20,7 +20,7 @@ excerpt: Kali Ra front man David Goad recently sat down with us to answer some q
 
 <!-- markdownlint-enable MD025 --><mpb-dialog-img>
 
-{% image "./src/assets/images/blog/2012-11-27-kali-ra-pt-1/czahller-20121013-23-40-22.jpg", "img-constrained", "David Goad lies on his back on the HiLo Club stage floor, grasping a microphone and singing. His eyes are closed, his head blurred from motion. The image is black-and-white.", "David Supine (II)", "eager" %}</mpb-dialog-img>
+{% image "featured", "img-constrained", "David Goad lies on his back on the HiLo Club stage floor, grasping a microphone and singing. His eyes are closed, his head blurred from motion. The image is black-and-white.", "David Supine (II)", "eager" %}</mpb-dialog-img>
 
 <span class="h-card p-org">[Kali Ra](http://officialkalira.com){target=_blank rel="external noopener"}</span> front man <span class="h-card p-name">David Goad</span> recently sat down with us to answer some questions.[^1] His lovely wife <span class="h-card p-name p-given-name">Alicia</span> was on hand to <del>call his bullshit</del> <ins>supplement his answers and fact-check</ins>. She also told us <cite class="short-work">10 Things You Didn’t Know about David Goad,</cite> which you can read in [Part 2](/blog/kali-ra-interview-pt-2/#ten-things-you-didn-t-know-about-david-goad){rel=next}.
 

@@ -28,7 +28,7 @@ excerpt: As most Woodyfest supporters know, festival favorite Audrey Auld-Mezera
 <p>Mez perks up Pasture’s previous primitive provisions</p></stack-l></hgroup>
 <!-- markdownlint-enable MD025 --><mpb-dialog-img>
 
-{% image "./src/assets/images/blog/2018-11-05-woodyfest-backstage-thursday/czahller-20180712-18-53-40.jpg", "img-constrained", "Ron Landis, Justin Easter, Becky Gragg, Opal Agafia, & Gary Hart in the Green Room — 21st Annual Woody Guthrie Festival, 2018", "Ron Landis, Justin Easter, Becky Gragg, Opal Agafia, & Gary Hart in the Green Room&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;21st Annual Woody Guthrie Festival, 2018", "eager" %}</mpb-dialog-img>
+{% image "featured", "img-constrained", "Ron Landis, Justin Easter, Becky Gragg, Opal Agafia, & Gary Hart in the Green Room — 21st Annual Woody Guthrie Festival, 2018", "Ron Landis, Justin Easter, Becky Gragg, Opal Agafia, & Gary Hart in the Green Room&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;21st Annual Woody Guthrie Festival, 2018", "eager" %}</mpb-dialog-img>
 
 As most Woodyfest supporters know, festival favorite <span class="h-card p-name">[Audrey Auld-Mezera](/blog/woodyfest-2013-audrey-auld/)</span> died of complications from cancer <time datetime="2015-08-09">three years ago</time>. The Tasmanian native was known for her flaming red hair, her wry humor, and her kind and boisterous personality. She hosted a series of songwriting workshops for inmates at San Quentin prison from <time datetime="2007">2007</time>&NoBreak;&hairsp;&NoBreak;&ndash;&NoBreak;&hairsp;&NoBreak;<time datetime="2013">2013</time>.
 

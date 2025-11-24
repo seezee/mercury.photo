@@ -19,7 +19,7 @@ excerpt: The Chloës talk about auditioning drummers, mind-control techniques, a
 
 <!-- markdownlint-enable MD025 --><mpb-dialog-img>
 
-{% image "./src/assets/images/blog/2013-05-14-chloes-opolis/czahller-20130414-07-06-27.jpg", "img-constrained", "The Chloës on the OPOLIS stage. April stand center, legs wide apart, wearing dark glasses, a sequined dress, knee socks and canvas Converse shoes. She has just finished playing a power chord on her guitar and her mouth is open wide as she shouts and sings.", "The Chloës", "eager" %}</mpb-dialog-img>
+{% image "featured", "img-constrained", "The Chloës on the OPOLIS stage. April stand center, legs wide apart, wearing dark glasses, a sequined dress, knee socks and canvas Converse shoes. She has just finished playing a power chord on her guitar and her mouth is open wide as she shouts and sings.", "The Chloës", "eager" %}</mpb-dialog-img>
 
 In part two of our interview with the <span class="h-card p-org">Chloës</span>, the ladies talk about the joys and pitfalls of auditioning drummers, keyboardist <span class="h-card p-name">Lysandra Chapman</span>’s mind-control techniques, and the difficulty of breaking into the Dallas&NoBreak;&hairsp;&NoBreak;&ndash;&NoBreak;&hairsp;&NoBreak;Fort Worth music scene. Plus, Chapman reveals how she came to speak Icelandic.
 

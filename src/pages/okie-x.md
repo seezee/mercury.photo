@@ -11,7 +11,7 @@ ogtype: website
 <!-- markdownlint-enable MD025 -->
 <mpb-dialog-img>
 
-{% image "./src/assets/images/okie-x/OKIE-X-Contact-Sheet-A.jpg", "img-constrained", "Contact sheet featuring the first dozen OKIE-X subjects.", "", "eager" %}</mpb-dialog-img>
+{% image "featured", "img-constrained", "Contact sheet featuring the first dozen OKIE-X subjects.", "", "eager" %}</mpb-dialog-img>
 
 The OKIE-X Project is a film portfolio project featuring photographic portraits of current & former Oklahoma musicians taken with a wooden large-format folding field camera using a 150-year-old lens on x-ray film.
 

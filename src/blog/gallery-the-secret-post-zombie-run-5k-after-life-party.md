@@ -20,7 +20,7 @@ excerpt: Tulsa’s The Secret Post and Oklahoma City’s Kill the Reflection pro
 
 <!-- markdownlint-enable MD025 --><mpb-dialog-img>
 
-{% image "./src/assets/images/blog/2019-05-20-zombie-run-secret-post/czahller-20121006-19-32-39.jpg", "img-constrained", "Zachariah’s Guitar — Zombie Bolt After Life Party, Guthrie, Oklahoma", "Zachariah’s Guitar — Zombie Bolt After Life Party, Guthrie, Oklahoma", "eager" %}</mpb-dialog-img>
+{% image "featured", "img-constrained", "Zachariah’s Guitar — Zombie Bolt After Life Party, Guthrie, Oklahoma", "Zachariah’s Guitar — Zombie Bolt After Life Party, Guthrie, Oklahoma", "eager" %}</mpb-dialog-img>
 
 Recap: <time datime="2010-10-24">Five years ago</time> we published [a story](/blog/zombie-bolt/) about the 5K zombie race in Guthrie, Oklahoma. At the time we shared only a portion of the photos we shot during the race, relegating the remainder to <span class="h-card p-org">Flickr</span>. Since then Flickr have changed their [terms of service](https://blog.flickr.net/en/2018/11/01/changing-flickr-free-accounts-1000-photos/){target="_blank" rel="external noopener"}. We’re currently moving many of our photos from the platform to this blog.
 

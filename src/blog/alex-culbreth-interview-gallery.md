@@ -21,7 +21,7 @@ excerpt: We first met singer-songwriter Alex Culbreth at the Woody Guthrie Folk 
 
 <!-- markdownlint-enable MD025 --><mpb-dialog-img>
 
-{% image "./src/assets/images/blog/2013-11-30-alex-culbreth/czahller-20131127-16-48-48.jpg", "img-constrained", "The author and Alex Culbreth seated on the sofa at Mercury Photo Bureau headquarters", "Alex & Me", "eager" %}</mpb-dialog-img>
+{% image "featured", "img-constrained", "The author and Alex Culbreth seated on the sofa at Mercury Photo Bureau headquarters", "Alex & Me", "eager" %}</mpb-dialog-img>
 
 We first met singer-songwriter <span class="h-card p-name">Alex Culbreth</span> in <time datetime="2013-07-12T16:00-05:00">July</time>, when he was featured in a Woody Guthrie Folk Festival solo performance at the Brick Street Café. Although it was his first official showcase at the festival, he’d attended the four previous years, singing and playing around the campfires through the wee hours.
 

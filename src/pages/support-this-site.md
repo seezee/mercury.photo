@@ -12,7 +12,7 @@ ogtype: website
 
 <mpb-dialog-img>
 
-  {% image "./src/assets/images/site/support-this-site/czahller-20120330-15-01-33.jpg", "img-constrained", "A food vendor at a fair acknowledging a customer", "“Be right with you!”", "eager" %}
+  {% image "featured", "img-constrained", "A food vendor at a fair acknowledging a customer", "“Be right with you!”", "eager" %}
 </mpb-dialog-img>
 
 Please help us to keep bringing you great articles, news, and pictures by making purchases through our affiliate links at [Apple Music](https://music.apple.com/us/subscribe?at=10ldhk){target=_blank rel="external noopener"}, [Adorama](https://www.adorama.com/?kbid=67690){target=_blank rel="external noopener"}, [B&nbsp;&amp;&nbsp;H Photo&nbsp;&amp;&nbsp;Video](https://www.bhphotovideo.com/find/coupons-deals-promotions.jsp/BI/19462/KBID/11656/DFF/d10-v1-t8-x1-y17){target=_blank rel="external noopener"}, and [Leica Store Miami](https://leicastoremiami.com/#a_aid=504a17652889d){target=_blank rel="external noopener"}.

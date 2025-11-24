@@ -19,7 +19,7 @@ excerpt: In this concluding part of the Chloës interview, we hear the never-bef
 
 <!-- markdownlint-enable MD025 --><mpb-dialog-img>
 
-{% image "./src/assets/images/blog/2013-05-15-nmf6-chloes/czahller-20130427-05-38-49.jpg", "img-constrained", "The Chloës. April Wenzel, wearing a sequined dress, is center frame in profile looking to the left edge of the image. Her band mates are obscured by shadows and are slightly out of focus. The scene is hazy from the fog machine. Glitter hangs in the air. Photographer Doug Schwarz’s camera protrudes into the left edge of the frame. Chris Sanders is barely visible in the audience.", "The Chloës", "eager" %}</mpb-dialog-img>
+{% image "featured", "img-constrained", "The Chloës. April Wenzel, wearing a sequined dress, is center frame in profile looking to the left edge of the image. Her band mates are obscured by shadows and are slightly out of focus. The scene is hazy from the fog machine. Glitter hangs in the air. Photographer Doug Schwarz’s camera protrudes into the left edge of the frame. Chris Sanders is barely visible in the audience.", "The Chloës", "eager" %}</mpb-dialog-img>
 
 In this concluding part of the <span class="h-card p-org">Chloës</span> interview, we hear the never-before-told story behind crowd-pleaser <cite class="short-work">[Put that Dick Away](https://music.apple.com/us/album/put-that-dick-away/1289963239?i=1289963247&uo=4&at=10ldhk){target=_blank rel="external noopener"},</cite> plus we learn how the ladies *really* feel about men. Then we conclude with our regular feature, *Redeem a Song*, in which we learn about some musical guilty pleasures.
 

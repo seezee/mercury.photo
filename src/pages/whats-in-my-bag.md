@@ -12,7 +12,7 @@ ogtype: website
 
 <mpb-dialog-img>
 
-{% image "./src/assets/images/site/what-in-my-bag/czahller-20120902-13-46-04.jpg", "img-constrained", "Photographic gear arranged on a white tablecloth", "What's in my bag", "eager" %}
+{% image "featured", "img-constrained", "Photographic gear arranged on a white tablecloth", "What's in my bag", "eager" %}
 </mpb-dialog-img>
 
 <mpb-callout type="note">

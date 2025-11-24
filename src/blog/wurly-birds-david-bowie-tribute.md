@@ -23,7 +23,7 @@ excerpt: The Wurly Birds performed David Bowie’s masterpiece The Rise and Fall
 
 <mpb-dialog-img>
 
-{% image "./src/assets/images/blog/2016-01-25-ziggy-wurly-birds/czahller-20160122-22-53-38.jpg", "img-constrained", "Chris Anderson leans into the fisheye lens; the band can be seen behind him. Anderson wears the “lightning bolt” makeup from the cover of Aladdin Sane on his face. He is holding a 12-string guitar by the neck.", "“Starman” (II)", "eager" %}</mpb-dialog-img>
+{% image "featured", "img-constrained", "Chris Anderson leans into the fisheye lens; the band can be seen behind him. Anderson wears the “lightning bolt” makeup from the cover of Aladdin Sane on his face. He is holding a 12-string guitar by the neck.", "“Starman” (II)", "eager" %}</mpb-dialog-img>
 
 Unless you’ve been trapped at the bottom of a well for the <time datetime="2016-01-10">past two</time> <time datetime="2016-01-25">weeks</time>, you know <span class="h-card p-name">David Bowie</span> has died. Musicians all over the country including <span class="h-card p-name">Bruce Springsteen</span> (whom Bowie twice covered) have paid tribute to him in the intervening days. So it’s fitting that Oklahoma City’s own Wurly Birds, a band known for their flamboyant shows and eclectic sounds, performed his masterpiece <cite>The Rise and Fall of <span class="h-card p-nickname">Ziggy Stardust</span> and the Spiders from Mars</cite> in its entirety at the 89<sup>th</sup> Speakeasy this past <time datetime="2016-01-22">Friday</time>.
 

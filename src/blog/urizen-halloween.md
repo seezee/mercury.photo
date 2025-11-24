@@ -26,7 +26,7 @@ excerpt: Opening for Peelander-Z at Club Dada on Hallowe’en, local favorites U
 Keeping it simple</stack-l></hgroup>
 <!-- markdownlint-enable MD025 --><mpb-dialog-img>
 
-{% image "./src/assets/images/blog/2013-01-14-urizen/czahller-20121031-20-23-02.jpg", "img-constrained", "Thomas Drinnen wearing a costume made from a cardboard box. He plays a flying-V guitar. He wears large red and white protective shoulder pads. The image is blurry from motion.", "Boxmen!", "eager" %}</mpb-dialog-img>
+{% image "featured", "img-constrained", "Thomas Drinnen wearing a costume made from a cardboard box. He plays a flying-V guitar. He wears large red and white protective shoulder pads. The image is blurry from motion.", "Boxmen!", "eager" %}</mpb-dialog-img>
 
 Opening for [<span class="h-card p-org">Peelander-Z</span>](/blog/peelander-z-halloween/) at <span class="h-card p-org">Club Dada</span> on Hallowe’en, local favorites <span class="h-card p-org">Urizen</span> entertained the audience at the Deep Ellum nightspot with their heavy **hard rock** tempered with 8-bit Nintendo-style synth sounds. Dressed in science fiction-inspired “space suits“ and initially beaming lights from their goggles, the band beguiled the crowd their visual antics. These included
 

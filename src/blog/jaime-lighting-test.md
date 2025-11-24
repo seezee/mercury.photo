@@ -18,7 +18,7 @@ excerpt: My friend Jaime Ladd delivered a wild boar shoulder to me so I could ma
 
 <!-- markdownlint-enable MD025 --><mpb-dialog-img>
 
-{% image "./src/assets/images/blog/2015-01-09-jaime/czahller-20150108-14-42-43.jpg", "img-constrained", "Jaime leaning back in armchair, holding a brown stoneware jug in her right hand. Her left knee is raised, her eyes closed. She wears a dark cloche (hat).", "Jamie with Jug (V)", "eager" %}</mpb-dialog-img>
+{% image "featured", "img-constrained", "Jaime leaning back in armchair, holding a brown stoneware jug in her right hand. Her left knee is raised, her eyes closed. She wears a dark cloche (hat).", "Jamie with Jug (V)", "eager" %}</mpb-dialog-img>
 
 My friend <span class="h-card p-name">Jaime Ladd</span> coördinates an “adventurous diners” group on a popular social media platform; one of the group members, <span class="h-card p-name">Waco Tomlinson</span>, recently killed a wild boar and offered up some choice cuts to the other members to prepare individual dishes for a potluck luncheon. Jaime agreed to deliver a shoulder to me so I could make red chili <span lang="es">pozole</span>, so I asked if she’d mind modeling for me as I continue to work on my studio lighting technique.
 

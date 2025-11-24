@@ -4,7 +4,7 @@
  * 1. .alignleft, .alignright, .aligncenter
  * 2. .no-break
  * 3. .no-wrap
- * 4. .sr-only, .keywords, .govuk-visually-hidden
+ * 4. .sr-only, .keywords
  * 5. .frac
  * 6. .small-caps, #breadcrumbs
  * 7. .short-work
@@ -42,9 +42,8 @@
   text-wrap: nowrap;
 }
 
-/* .sr-only, .govuk-visually-hidden */
-.sr-only:not(.test),
-.govuk-visually-hidden {
+/* .sr-only */
+.sr-only:not(.test) {
 
   &:not(:focus-visible):not(:active) {
     position: absolute;

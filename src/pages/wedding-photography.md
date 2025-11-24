@@ -10,7 +10,7 @@ permalink: "/services/wedding-photography/"
 <!-- markdownlint-enable MD025 -->
 <mpb-dialog-img>
 
-{% image "./src/assets/images/site/wedding-photography/czahller-20160820-16-23-44.jpg", "img-constrained", "Closeup of a groom’s hand slipping a wedding band onto his bride’s finger. The groom’s embroidered waistcoat and red shirtsleeve is visible. The bride wears a jade bangle on her right wrist.", "eager" %}
+{% image "featured", "img-constrained", "Closeup of a groom’s hand slipping a wedding band onto his bride’s finger. The groom’s embroidered waistcoat and red shirtsleeve is visible. The bride wears a jade bangle on her right wrist.", "eager" %}
 </mpb-dialog-img>
 
 All prices subject to state and local sales taxes. Prices are in $USD.

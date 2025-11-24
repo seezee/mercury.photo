@@ -22,7 +22,7 @@ excerpt: As part of our cleanup of our Flickr account, we present these photos o
 <!-- markdownlint-enable MD025 -->
 <mpb-dialog-img>
 
-{% image "./src/assets/images/blog/2019-03-20-lynx/czahller-20120912-21-06-40.jpg", "img-constrained", "Lynx (III), Beats Antique “Animal Mechanique Tour”", "Lynx (III), Beats Antique “Animal Mechanique Tour”", "eager" %}</mpb-dialog-img>
+{% image "featured", "img-constrained", "Lynx (III), Beats Antique “Animal Mechanique Tour”", "Lynx (III), Beats Antique “Animal Mechanique Tour”", "eager" %}</mpb-dialog-img>
 
 As part of our cleanup of our Flickr account,[^1] we present these photos of <span class="h-card p-name p-nickname">LYNX</span> we took at the Diamond Ballroom in <time datetime="2012-09-12">2012</time>. LYNX opened for [Beats Antique](/blog/beats-antique-skeleton-key-gallery/)"> during their Animal Mechanique tour.
 

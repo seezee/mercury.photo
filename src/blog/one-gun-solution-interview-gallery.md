@@ -18,7 +18,7 @@ excerpt: Neo-grunge outfit One Gun Solution drove down from Oklahoma City to spe
 
 <!-- markdownlint-enable MD025 --><mpb-dialog-img>
 
-{% image "./src/assets/images/blog/2013-01-31-one-gun-solution/czahller-20121020-23-03-03.jpg", "img-constrained", "Raymond Dick (bass), Dave Washburn (vox), and Matt Francis (guitar) perform on the Blue Note stage.", "The Band", "eager" %}</mpb-dialog-img>
+{% image "featured", "img-constrained", "Raymond Dick (bass), Dave Washburn (vox), and Matt Francis (guitar) perform on the Blue Note stage.", "The Band", "eager" %}</mpb-dialog-img>
 
 Neo-grunge outfit <span class="h-card p-org">One Gun Solution</span> drove down from Oklahoma City to speak with us <time datetime="2013-01-13">earlier this month</time>. We met them <time datetime="2012-10-20">last October</time> at the CD release party for their freshman release <cite>Perceptions</cite>, after [Kill the Reflection](/blog/kill-reflection-interview-gallery/) singer <span class="h-card p-name">Matt Routt</span> invited us.
 

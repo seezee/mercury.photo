@@ -28,7 +28,7 @@ excerpt: Led by veteran English rocker Stephen D. Ineson, The Milagro Saints had
 <p>Chart topping folk-rockers at Woodyfest</p></stack-l></hgroup>
 <!-- markdownlint-enable MD025 --><mpb-dialog-img>
 
-{% image "./src/assets/images/blog/2018-10-29-woodyfest-milagro-saints/czahller-20180712-16-12-17.jpg", "img-constrained", "Stephen D. Ineson (II) — 21st Annual Woody Guthrie Festival, 2018", "Stephen D. Ineson (II)&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;21st Annual Woody Guthrie Festival, 2018", "eager" %}</mpb-dialog-img>
+{% image "featured", "img-constrained", "Stephen D. Ineson (II) — 21st Annual Woody Guthrie Festival, 2018", "Stephen D. Ineson (II)&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;21st Annual Woody Guthrie Festival, 2018", "eager" %}</mpb-dialog-img>
 
 Led by veteran English rocker <span class="h-card p-name">Stephen D. Ineson</span>,[^1] The Milagro Saints had the audience rocking in their seats in a successful return engagement to the Crystal Theatre Stage. The Raleigh, North Carolina&NoBreak;&ndash;&NoBreak;based band ran through a brisk set showcasing their signature roots-rock style, which they describe as <q>inspired by [the] late 60s and early 70s music which gave birth to the current Americana movement.</q>{.drop-cap}
 

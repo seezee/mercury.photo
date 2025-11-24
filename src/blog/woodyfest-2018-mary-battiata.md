@@ -29,7 +29,7 @@ excerpt: From the moment she began to sing her song “Trance” from the Brick 
 <p>From killing fields to killing audiences</p></stack-l></hgroup>
 <!-- markdownlint-enable MD025 --><mpb-dialog-img>
 
-{% image "./src/assets/images/blog/2018-11-02-woodyfest-mary-battiata/czahller-20180712-17-39-49.jpg", "img-constrained", "Mary — 21st Annual Woody Guthrie Festival, 2018", "Mary&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;21st Annual Woody Guthrie Festival, 2018", "eager" %}</mpb-dialog-img>
+{% image "featured", "img-constrained", "Mary — 21st Annual Woody Guthrie Festival, 2018", "Mary&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;21st Annual Woody Guthrie Festival, 2018", "eager" %}</mpb-dialog-img>
 
 From the moment she began to sing her song <cite class="short-work">Trance</cite> from the Brick Café stage, <span class="h-card p-name">Mary Battiata</span> had this writer’s short hairs standing at attention. The song, from her second full-length release <cite>Gladly Would We Anchor</cite>, is a swampy, off-kilter affair that sent shock waves through the audience.{.drop-cap}
 

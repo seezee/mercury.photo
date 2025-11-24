@@ -23,7 +23,7 @@ excerpt: The Woody Guthrie Folk Festival has provided a variety of children’s 
 
 <!-- markdownlint-enable MD025 --><mpb-dialog-img>
 
-{% image "./src/assets/images/blog/2019-01-11-woodyfest-kids-harmonica-class/czahller-20180714-12-45-08.jpg", "img-constrained", "Students & Teachers — Kids’ Harmonica Class, 21st Annual Woody Guthrie Festival, 2018", "Students & Teachers&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;Kids’ Harmonica Class, 21st Annual Woody Guthrie Festival, 2018", "eager" %}</mpb-dialog-img>
+{% image "featured", "img-constrained", "Students & Teachers — Kids’ Harmonica Class, 21st Annual Woody Guthrie Festival, 2018", "Students & Teachers&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;Kids’ Harmonica Class, 21st Annual Woody Guthrie Festival, 2018", "eager" %}</mpb-dialog-img>
 
 The <span class="h-card p-org"><span class="p-name"><span class="p-nickname">Woody</span> Guthrie</span> Folk Festival</span> has provided a variety of children’s programming over the years. <time datetime="2018-07">Last year</time> the festival expanded from just organizing kids’ concerts to also hosting youth workshops.
 

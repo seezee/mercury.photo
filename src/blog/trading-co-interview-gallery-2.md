@@ -21,7 +21,7 @@ excerpt: This concludes our interview with Joshua Griffin and Jonathan Eldridge 
 <p>Old Dog Records, one degree of separation, and more</p></stack-l></hgroup>
 <!-- markdownlint-enable MD025 --><mpb-dialog-img>
 
-{% image "./src/assets/images/blog/2013-03-27-trading-co/czahller-20130213-18-38-36.jpg", "img-constrained", "Josh Griffin and Jonathan Eldridge seated on the Mercury Photo Bureau sofa. Jonathan is attempting to lightly slap Josh, who leans way over to avoid this contact. Both are laughing.", "Joshua and Jonathan", "eager" %}</mpb-dialog-img>
+{% image "featured", "img-constrained", "Josh Griffin and Jonathan Eldridge seated on the Mercury Photo Bureau sofa. Jonathan is attempting to lightly slap Josh, who leans way over to avoid this contact. Both are laughing.", "Joshua and Jonathan", "eager" %}</mpb-dialog-img>
 
 This concludes our interview with <span class="h-card p-name">Jonathan Eldridge</span> and <span class="h-card p-name">Joshua Griffin</span>, who comprise <span class="h-card p-org">The Trading Co.</span>, an Oklahoma City&ndash;based blues-rock duo. They visited us shortly before their <span class="h-card p-org">[Old Dog Records](https://www.facebook.com/olddogrecords){target="_blank" rel="external noopener noreferrer"}</span> showcase, which took place in late February at the <span class="h-card p-org">Route 66 Roadhouse</span>. Also on the ticket were label mates the [<span class="h-card p-org">Kamals</span>](/blog/kamals-interview-gallery/) and <span class="h-card p-org">Black Jack Gypsys</span>.
 

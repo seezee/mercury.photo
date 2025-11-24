@@ -22,7 +22,7 @@ excerpt: Oklahoma Red Dirt musician Jake Flint, age 37, died Sunday mere hours a
 <p>Joy followed by tragedy</p></stack-l></hgroup>
 <!-- markdownlint-enable MD025 --><mpb-dialog-img>
 
-{% image "./src/assets/images/blog/2022-01-12-rip-jake-flint/czahller-20220714-13-19-25.jpg", "img-constrained", "Jake Flint (II) — Lou’s Rocky Road Tavern, 25th Annual Woody Guthrie Folk Festival, 2022", "Jake Flint (II) — Lou’s Rocky Road Tavern, 25th Annual Woody Guthrie Folk Festival, 2022", "eager" %}</mpb-dialog-img>
+{% image "featured", "img-constrained", "Jake Flint (II) — Lou’s Rocky Road Tavern, 25th Annual Woody Guthrie Folk Festival, 2022", "Jake Flint (II) — Lou’s Rocky Road Tavern, 25th Annual Woody Guthrie Folk Festival, 2022", "eager" %}</mpb-dialog-img>
 
 <mpb-callout type="note" title="Update">
 

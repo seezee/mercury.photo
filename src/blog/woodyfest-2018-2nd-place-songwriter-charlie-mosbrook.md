@@ -23,7 +23,7 @@ excerpt: This year’s second place songwriting contest title went to Charlie Mo
 
 <!-- markdownlint-enable MD025 --><mpb-dialog-img>
 
-{% image "./src/assets/images/blog/2018-11-09-woodyfest-charlie-mosbrook/czahller-20180712-19-09-41.jpg", "img-constrained", "Charlie Mosbrook (I) — 21st Annual Woody Guthrie Festival, 2018", "Charlie Mosbrook (I)&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;21st Annual Woody Guthrie Festival, 2018", "eager" %}</mpb-dialog-img>
+{% image "featured", "img-constrained", "Charlie Mosbrook (I) — 21st Annual Woody Guthrie Festival, 2018", "Charlie Mosbrook (I)&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;21st Annual Woody Guthrie Festival, 2018", "eager" %}</mpb-dialog-img>
 
 <time datetime="2018">This year’s</time> second place songwriting contest title went to <span class="h-card p-name">Charlie Mosbrook</span> for his song <cite class="short-work">[Remember Who We Are](https://open.spotify.com/track/3QhBdOGEet9mS7UA4qhgtO){target=_blank rel="external noopener"}.</cite> Mosbrook performed the song as part of a short showcase kicking off evening performances on the Pastures of Plenty outdoor stage.{.drop-cap}
 

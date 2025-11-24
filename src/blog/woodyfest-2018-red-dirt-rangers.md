@@ -28,7 +28,7 @@ excerpt: The Red Dirt Rangers may not have birthed Red Dirt, but they helped mid
 <p>Days of future past</p></stack-l></hgroup>
 <!-- markdownlint-enable MD025 --><mpb-dialog-img>
 
-{% image "./src/assets/images/blog/2018-11-12-woodyfest-red-dirt-rangers/czahller-20180712-19-45-33.jpg", "img-constrained", "Morgan, Brad, John M. Cooper, & John Fullbright — 21st Annual Woody Guthrie Festival, 2018", "Morgan, Brad, John M. Cooper, & John Fullbright&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;21st Annual Woody Guthrie Festival, 2018", "eager" %}</mpb-dialog-img>
+{% image "featured", "img-constrained", "Morgan, Brad, John M. Cooper, & John Fullbright — 21st Annual Woody Guthrie Festival, 2018", "Morgan, Brad, John M. Cooper, & John Fullbright&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;21st Annual Woody Guthrie Festival, 2018", "eager" %}</mpb-dialog-img>
 
 The Red Dirt Rangers may not have birthed Red Dirt, but they helped midwife the musical genre into the world. And like so much Oklahoma music, Red Dirt has made its influence felt far beyond the state’s borders.{.drop-cap}
 

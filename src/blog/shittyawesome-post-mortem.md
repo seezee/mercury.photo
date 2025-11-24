@@ -21,7 +21,7 @@ excerpt: Local garage-rockers Shi++ty/Awesome formed on a whim in 2009, when Gue
 
 <!-- markdownlint-enable MD025 --><mpb-dialog-img>
 
-{% image "./src/assets/images/blog/2013-08-14-shitty-awesome/czahller-20121231-22-23-45.jpg", "img-constrained", "Will Muir on New Year’s Eve at OPOLIS, wearing a dark dinner jacket, white shirt, and dark tie. He is screaming into the microphone. He has a tambourine around his neck.", "Will (II)", "eager" %}</mpb-dialog-img>
+{% image "featured", "img-constrained", "Will Muir on New Year’s Eve at OPOLIS, wearing a dark dinner jacket, white shirt, and dark tie. He is screaming into the microphone. He has a tambourine around his neck.", "Will (II)", "eager" %}</mpb-dialog-img>
 
 <blockquote>
 

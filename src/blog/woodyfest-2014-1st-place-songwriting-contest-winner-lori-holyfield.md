@@ -23,7 +23,7 @@ excerpt: As in years past, Woodyfest 14 showcased three songwriting contest winn
 
 <!-- markdownlint-enable MD025 --><mpb-dialog-img>
 
-{% image "./src/assets/images/blog/2020-10-19-woodyfest-lori-holyfield/czahller-20140710-19-07-01.jpg", "img-constrained", "Steve Fisher, Terry “Buffalo” Ware, & Lori Holyfield (II) — 17th Annual Woody Guthrie Folk Festival, 2014", "Steve Fisher, Terry “Buffalo” Ware, & Lori Holyfield (II)&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;17th Annual Woody Guthrie Folk Festival, 2014", "eager" %}</mpb-dialog-img>
+{% image "featured", "img-constrained", "Steve Fisher, Terry “Buffalo” Ware, & Lori Holyfield (II) — 17th Annual Woody Guthrie Folk Festival, 2014", "Steve Fisher, Terry “Buffalo” Ware, & Lori Holyfield (II)&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;17th Annual Woody Guthrie Folk Festival, 2014", "eager" %}</mpb-dialog-img>
 
 As in years past, Woodyfest 14 showcased three songwriting contest winners. <time datetime="2014-07-10T18:15:00-5:00">Thursday evening</time> at the Pastures of Plenty Stage kicked off with <span class="h-card p-name"><abbr>Dr.</abbr> Lori Holyfield</span> performing <cite class="short-work">Ode to Guy Clark,</cite> which took first place, and <cite class="short-work">Best Friend,</cite> which garnered honorable mention.
 

@@ -18,7 +18,7 @@ excerpt: This past Sunday the Bureau invited noise-rockers SonicViolence to drop
 
 <!-- markdownlint-enable MD025 --><mpb-dialog-img>
 
-{% image "./src/assets/images/blog/2013-09-26-sonicviolence/czahller-20130731-21-57-11.jpg", "img-constrained", "Black & white image of Terrence Mack (keyboard), Edward Schotter (bass), Donald James (drums), and Leon Manson (vox, guitar). Fog envelops them on the dimly lit stage. The images exhibits considerable parallax due to the wide-angle lens.", "Finale (II)", "eager" %}</mpb-dialog-img>
+{% image "featured", "img-constrained", "Black & white image of Terrence Mack (keyboard), Edward Schotter (bass), Donald James (drums), and Leon Manson (vox, guitar). Fog envelops them on the dimly lit stage. The images exhibits considerable parallax due to the wide-angle lens.", "Finale (II)", "eager" %}</mpb-dialog-img>
 
 This past <time datetime="2013-09-13">Sunday</time> the Bureau invited noise-rockers <span class="h-card p-org">SonicViolence</span>, along with video director <span class="h-card p-name">Mike Walsh</span>,[^1] to drop by for an interview in anticipation of their upcoming EP release.[^2]
 

@@ -18,7 +18,7 @@ excerpt: Blues-rock duo The Trading Co. belong to a small stable of artists call
 
 <!-- markdownlint-enable MD025 --><mpb-dialog-img>
 
-{% image "./src/assets/images/blog/2013-03-27-trading-co/czahller-20121125-00-15-51.jpg", "img-constrained", "Jonathan drums & sings while Josh plays guitar.", "The Trading Co. (I)", "eager" %}</mpb-dialog-img>
+{% image "featured", "img-constrained", "Jonathan drums & sings while Josh plays guitar.", "The Trading Co. (I)", "eager" %}</mpb-dialog-img>
 
 Blues-rock duo <span class="h-card p-org">The Trading Co.</span> (early candidates for band names: **<span class="foreign" lang="es">Tre Vero</span>** [“The Three Truths”], **King James Version**) belong to a small stable of artists calling [<span class="h-card p-org">Old Dog Records</span>](https://www.facebook.com/olddogrecords){target="_blank" rel="external noopener noreferrer"} their home. Like label mates the [<span class="h-card p-org">Kamals</span>](/blog/kamals-interview-gallery/) and <span class="h-card p-org">Black Jack Gypsys</span>, their sound is loud and heavy. It’s a sound that’s been compared to the early <span class="h-card p-org">Black Keys</span>; lyrically, they traffic in stories of sin and redemption, loneliness and betrayal.
 

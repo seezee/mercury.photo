@@ -15,7 +15,7 @@ excerpt: Just some flowers, in case you hadn’t noticed that it’s spring.
 
 <!-- markdownlint-enable MD025 --><mpb-dialog-img>
 
-{% image "./src/assets/images/blog/2015-04-01-violets/czahller-20150401-10-43-39.jpg", "img-constrained", "Violets", "Violets", "eager" %}</mpb-dialog-img>
+{% image "featured", "img-constrained", "Violets", "Violets", "eager" %}</mpb-dialog-img>
 
 <div class="drop-cap descender">
 

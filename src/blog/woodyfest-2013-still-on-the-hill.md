@@ -28,7 +28,7 @@ Arkansas duo brings Ozarks energy to Okemah
   </stack-l>
 </hgroup><mpb-dialog-img>
 
-{% image "./src/assets/images/blog/2020-03-31-woodyfest-still-hill/czahller-20130712-15-07-26.jpg", "img-constrained", "Donna — Still on the Hill at the Brick Café, Woody Guthrie Folk Festival 16", "Donna&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;Still on the Hill at the Brick Café, Woody Guthrie Folk Festival 16", "eager" %}</mpb-dialog-img>
+{% image "featured", "img-constrained", "Donna — Still on the Hill at the Brick Café, Woody Guthrie Folk Festival 16", "Donna&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;Still on the Hill at the Brick Café, Woody Guthrie Folk Festival 16", "eager" %}</mpb-dialog-img>
 
 Bringing their “low-tech” PowerPoint to the Brick Street Café in <time datetime="2013-0712T15:00-5:00">2013</time>, musical duo <span class="h-card p-org">Still on the Hill</span> had the audience in stitches. Quilting stitches, that is; the PowerPoint slides consisted of text and images on handmade quilts, displayed as storytelling aids.
 

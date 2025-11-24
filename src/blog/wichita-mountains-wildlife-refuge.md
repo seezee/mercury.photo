@@ -20,7 +20,7 @@ excerpt: Last Sunday I drove out to the Wichita Mountains Wildlife Refuge near L
 
 <!-- markdownlint-enable MD025 --><mpb-dialog-img>
 
-{% image "./src/assets/images/blog/2018-09-23-wichita-reserve/czahller-20180819-19-06-47-crop.jpg", "img-constrained", "Crab Eyes [Crop]", "Crab Eyes [Crop]&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;Charon’s Garden Wilderness Area, Wichita Mountains Wildlife Refuge. The two boulders are each about the size of a minivan and are balanced on a narrow granite spine.", "eager" %}</mpb-dialog-img>
+{% image "featured", "img-constrained", "Crab Eyes [Crop]", "Crab Eyes [Crop]&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;Charon’s Garden Wilderness Area, Wichita Mountains Wildlife Refuge. The two boulders are each about the size of a minivan and are balanced on a narrow granite spine.", "eager" %}</mpb-dialog-img>
 
 ## Shaggy Beasts, Three-Legged Beasts
 

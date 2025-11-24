@@ -18,7 +18,7 @@ excerpt: The Cleveland County Farmers Market has changed its hours starting toda
 
 <!-- markdownlint-enable MD025 --><mpb-dialog-img>
 
-{% image "./src/assets/images/blog/2014-04-08-farmers-market-new-hours/czahller-20140409-01-22-16.jpg", "img-constrained", "A young girl carries a tray of tomato seedlings at the farmers market", "Buying Tomato Plants", "eager" %}</mpb-dialog-img>
+{% image "featured", "img-constrained", "A young girl carries a tray of tomato seedlings at the farmers market", "Buying Tomato Plants", "eager" %}</mpb-dialog-img>
 
 <time datetime="2014-04-08">Today</time> marks the return of the Cleveland County Farmers Market. Hours have changed from the familiar Saturday and Wednesday morning times to a more convenient schedule for working families and individuals. The new hours are:
 

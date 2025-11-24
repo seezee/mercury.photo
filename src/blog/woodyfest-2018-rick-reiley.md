@@ -28,7 +28,7 @@ excerpt: Rick Reiley has never missed the Woody Guthrie Folk Festival. At least,
 <p>Never missed Woodyfest (he thinks)</p></stack-l></hgroup>
 <!-- markdownlint-enable MD025 --><mpb-dialog-img>
 
-{% image "./src/assets/images/blog/2018-10-22-woodyfest-rick-reiley/czahller-20180712-14-01-49.jpg", "img-constrained", "Rick Reiley — 21st Annual Woody Guthrie Festival, 2018", "Rick Reiley&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;21st Annual Woody Guthrie Festival, 2018", "eager" %}</mpb-dialog-img>
+{% image "featured", "img-constrained", "Rick Reiley — 21st Annual Woody Guthrie Festival, 2018", "Rick Reiley&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;21st Annual Woody Guthrie Festival, 2018", "eager" %}</mpb-dialog-img>
 
 <span class="h-card p-name">Rick Reiley</span> has never missed the Woody Guthrie Folk Festival. At least, he doesn’t think so. He kicked off the afternoon proceedings at <span class="h-card p-org">Lou’s Rocky Road Tavern</span> with <cite class="short-work">Heartache Train</cite>,[^1] a song he describes as his first attempt at writing a country tune some <time datetime="1973">forty-five years ago</time>. A longtime unofficial festival venue, Lou’s has featured festival performers and hosted open-mic sessions since the festival’s inception.[^2] This it their first year as an official Woodyfest stage.{.drop-cap}
 

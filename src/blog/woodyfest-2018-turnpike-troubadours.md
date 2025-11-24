@@ -28,7 +28,7 @@ excerpt: Marking their third appearance at the Woody Guthrie Folk Festival, the 
 <p>Third time’s a charm</p></stack-l></hgroup>
 <!-- markdownlint-enable MD025 --><mpb-dialog-img>
 
-{% image "./src/assets/images/blog/2018-11-19-woodyfest-turnpike-troubadours/czahller-20180712-23-07-38.jpg", "img-constrained", "Turnpike Troubadors (Kyle Nix, Gabe Pearson, Evan Felker, & R.C. Edwards) — 21st Annual Woody Guthrie Festival, 2018", "Turnpike Troubadors (Kyle Nix, Gabe Pearson, Evan Felker, & R.C. Edwards)&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;21st Annual Woody Guthrie Festival, 2018", "eager" %}</mpb-dialog-img>
+{% image "featured", "img-constrained", "Turnpike Troubadors (Kyle Nix, Gabe Pearson, Evan Felker, & R.C. Edwards) — 21st Annual Woody Guthrie Festival, 2018", "Turnpike Troubadors (Kyle Nix, Gabe Pearson, Evan Felker, & R.C. Edwards)&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;21st Annual Woody Guthrie Festival, 2018", "eager" %}</mpb-dialog-img>
 
 Marking their third appearance at the Woody Guthrie Folk Festival, the <span class="h-card p-org">Turnpike Troubadours</span> closed out <time datetime="2018-07-12T23:00:00-5:00">opening night 2018</time> on the Pastures of Plenty stage. The <time datetime="2016-07-14T23:00:00-5:00">first time they were meant to do that</time>, our ornery Oklahoma weather dumped rain all over Okemah, making it one in a series of Muddyfests the festival has endured since its inception. They wound up playing the Crystal Theatre to a smaller audience limited by the available seating.{.drop-cap}
 

@@ -22,7 +22,7 @@ excerpt: We previously posted some pictures of electronic world fusion group Bea
 <!-- markdownlint-enable MD025 -->
 <mpb-dialog-img>
 
-{% image "./src/assets/images/blog/2019-03-20-beats-antique-color/czahller-20120912-23-21-46.jpg", "img-constrained", "Feather Dance (III), Beats Antique “Animal Mechanique” Tour", "Feather Dance (III), Beats Antique “Animal Mechanique” Tour", "eager" %}</mpb-dialog-img>
+{% image "featured", "img-constrained", "Feather Dance (III), Beats Antique “Animal Mechanique” Tour", "Feather Dance (III), Beats Antique “Animal Mechanique” Tour", "eager" %}</mpb-dialog-img>
 
 We’re moving the bulk of our Flickr photos to their new permanent home.[^1] Back in <time datetime="2012-09-12">2012</time> we [previously posted](/blog/beats-antique-skeleton-key-gallery/) some pictures of electronic world fusion group <span class="h-card p-org">Beats Antique</span> at the <span class="h-card p-org">Diamond Ballroom</span>. Here are the remaining color photos from the show. We’ve posted [the remaining black and white images](/blog/black-and-white-gallery-beats-antique-at-the-diamond-ballroom) as well.
 

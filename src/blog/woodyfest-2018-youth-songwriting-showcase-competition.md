@@ -25,7 +25,7 @@ excerpt: Woodyfest held its inaugural Woodyfest Youth Songwriting/Showcase Compe
 
 <!-- markdownlint-enable MD025 --><mpb-dialog-img>
 
-{% image "./src/assets/images/blog/2019-01-14-woodyfest-kids-songwriting-contest/czahller-20180714-13-12-07.jpg", "img-constrained", "Left to right: Hannah Carriker, Amour Carriker, Lillian Hill, Kelby Vass, Riley Amanda, London Reilly, Blakelee Pugh, & Autie Rich — Kids’ Songwriting Contest Awards Announcement, 21st Annual Woody Guthrie Festival, 2018", "L to R: Hannah Carriker, Amour Carriker, Lillian Hill, Kelby Vass, Riley Amanda, London Reilly, Blakelee Pugh, & Autie Rich — Kids’ Songwriting Contest Awards Announcement, 21st Annual Woody Guthrie Festival, 2018", "eager" %}</mpb-dialog-img>
+{% image "featured", "img-constrained", "Left to right: Hannah Carriker, Amour Carriker, Lillian Hill, Kelby Vass, Riley Amanda, London Reilly, Blakelee Pugh, & Autie Rich — Kids’ Songwriting Contest Awards Announcement, 21st Annual Woody Guthrie Festival, 2018", "L to R: Hannah Carriker, Amour Carriker, Lillian Hill, Kelby Vass, Riley Amanda, London Reilly, Blakelee Pugh, & Autie Rich — Kids’ Songwriting Contest Awards Announcement, 21st Annual Woody Guthrie Festival, 2018", "eager" %}</mpb-dialog-img>
 
 Woodyfest held its inaugural Woodyfest Youth Songwriting/Showcase Competition in <time datetime="2018">2018</time>. The showcase featured performers age sixteen or younger. Master of Ceremonies and regular Woodyfest performer <span class="h-card p-name">Lauren Lee</span> announced the winners during an awards ceremony on <time datetime="2018-07-14T13:00:00-5:00">Saturday afternoon</time> from the Hen House stage.
 

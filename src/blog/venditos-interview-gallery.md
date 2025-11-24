@@ -19,7 +19,7 @@ excerpt: Comprising an ever-changing lineup of local musicians, Venditos have be
 
 <!-- markdownlint-enable MD025 --><mpb-dialog-img>
 
-{% image "./src/assets/images/blog/2013-02-18-venditos/czahller-20130207-19-21-36.jpg", "img-constrained", "Chris Sanders & Gabe Barham seated on the sofa at Mercury Photo Bureau. Chris holds a v-shaped cocktail glass in his right hand.", "Chris & Gabe", "eager" %}</mpb-dialog-img>
+{% image "featured", "img-constrained", "Chris Sanders & Gabe Barham seated on the sofa at Mercury Photo Bureau. Chris holds a v-shaped cocktail glass in his right hand.", "Chris & Gabe", "eager" %}</mpb-dialog-img>
 
 <mpb-callout type="notice">
 

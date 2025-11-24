@@ -19,7 +19,7 @@ excerpt: My good friend David Goad is raising money to tour with his band, Kali 
 <!-- markdownlint-enable MD025 -->
 <mpb-dialog-img>
 
-{% image "./src/assets/images/blog/2014-06-12-cooking-kali-ra/czahller-20120403-19-08-35.jpg", "img-constrained", "A manhattan cocktail on a yellow vintage cocktail tray. The tray is printed with recipes and illustrations for popular mixed drinks.", "Manhattan Cocktail", "eager" %}</mpb-dialog-img>
+{% image "featured", "img-constrained", "A manhattan cocktail on a yellow vintage cocktail tray. The tray is printed with recipes and illustrations for popular mixed drinks.", "Manhattan Cocktail", "eager" %}</mpb-dialog-img>
 
 <mpb-callout type="notice">
 

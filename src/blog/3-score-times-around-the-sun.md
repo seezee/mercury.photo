@@ -18,7 +18,7 @@ excerpt: This weekend I celebrated my sixtieth birthday surrounded by friends an
 
 <!-- markdownlint-enable MD025 --><mpb-dialog-img>
 
-{% image "./src/assets/images/blog/2021-04-06-three-score-times/czahller-20210403-13-49-37.jpg", "img-constrained", "Rita, Terry, & Jean", "Rita, Terry, & Jean&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;Chris J. Zähller Birthday Celebration", "eager" %}</mpb-dialog-img>
+{% image "featured", "img-constrained", "Rita, Terry, & Jean", "Rita, Terry, & Jean&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;Chris J. Zähller Birthday Celebration", "eager" %}</mpb-dialog-img>
 
 <time datetime="2021-04-03">This weekend</time> I celebrated my sixtieth birthday surrounded by friends and family. If you had told me I would be doing so weeks earlier, I wouldn't have believed you. But thanks to an accelerating COVID-19 vaccination rollout, everyone had had at least one of the two-dose vaccines, with most of us having received both.
 

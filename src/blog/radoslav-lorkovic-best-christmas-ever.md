@@ -24,7 +24,7 @@ excerpt: According to a copyright story by News on 6, the most photographed Chin
 Acclaimed singer/songwriter, sideman, reunited with beloved accordion</stack-l></hgroup>
 <!-- markdownlint-enable MD025 --><mpb-dialog-img>
 
-{% image "./src/assets/images/blog/2012-12-31-radoslav/czahller-20121104-20-53-58.jpg", "img-constrained", "Radoslav Lorković smiles as he plays the accordion. His eyes twinkle like gemstones.", "Rad (XIV)", "eager" %}</mpb-dialog-img>
+{% image "featured", "img-constrained", "Radoslav Lorković smiles as he plays the accordion. His eyes twinkle like gemstones.", "Rad (XIV)", "eager" %}</mpb-dialog-img>
 
 According to a copyright story by <cite>News on 6</cite>, the most photographed Chinese accordion in the world has been returned to <span class="h-card p-name"><span class="p-given-name">Radoslav</span> <span class="p-nickname">"Rad"</span> <span class="p-family-name">Lorković</span></span> after having been MIA for nine months. The accordion [disappeared](https://web.archive.org/web/20160309174821/https://www.newson6.com/story/17131893/musicians-accordian-stolen-after-woody-guthrie-tribute-concert){target=_blank rel="external noopener"} at Tulsa’s <span class="h-card p-org">Brady Theatre</span> after a <span class="h-card p-name"><span class="p-nickname">Woody</span> Guthrie</span> tribute concert.
 

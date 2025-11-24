@@ -15,7 +15,7 @@ excerpt: Yes, that’s Emmy-winning rapper Jabee slicing birthday cake with my p
 
 <!-- markdownlint-enable MD025 --><mpb-dialog-img>
 
-{% image "./src/assets/images/blog/2014-08-23-jabee-bday/czahller-20140822-23-31-42.jpg", "img-constrained", "Rapper Jabee cuts out a slice of birthday cake with the author’s pocketknife", "Cutting the Cake (I)", "eager" %}</mpb-dialog-img>
+{% image "featured", "img-constrained", "Rapper Jabee cuts out a slice of birthday cake with the author’s pocketknife", "Cutting the Cake (I)", "eager" %}</mpb-dialog-img>
 
 <mpb-callout type="note">
 

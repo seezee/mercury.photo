@@ -23,7 +23,7 @@ excerpt: Although Andy Adams is no stranger to music, the Tahlequah native admit
 
 <!-- markdownlint-enable MD025 --><mpb-dialog-img>
 
-{% image "./src/assets/images/blog/2020-03-28-woodyfest-andy-adams/czahller-20190711-15-32-54.jpg", "img-constrained", "Andy Adams (III) — 22nd Annual Woody Guthrie Festival, 2019", "Andy Adams (III)&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;22nd Annual Woody Guthrie Festival, 2019", "eager" %}</mpb-dialog-img>
+{% image "featured", "img-constrained", "Andy Adams (III) — 22nd Annual Woody Guthrie Festival, 2019", "Andy Adams (III)&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;22nd Annual Woody Guthrie Festival, 2019", "eager" %}</mpb-dialog-img>
 
 Although <span class="h-card p-name">Andy Adams</span> is no stranger to music,[^1] the Tahlequah native admits the title of his latest release, <cite>Back to Square One</cite>, could be taken literally. As described in an article <cite><span class="h-card p-org">The Daily Oklahoman</span></cite>, <q><cite>[Back to Square One](https://geo.music.apple.com/us/album/back-to-square-one/1293624745?mt=1&app=music&at=10ldhk){target=_blank rel="external noopener"}</cite> is aptly titled and [is] the result of [&hellip;] a practical commitment to the craft, of carrying out a cohesive vision in the studio and of what it really means to make a living from songs.</q>[^2] Or as Adams puts it, <q>The whole point with the record was to do everything the way they say you’re supposed to. I wasn’t shy about asking for help and being receptive. I asked people I’ve worked with before, <q>How did you do this?</q> and <q>Can I pick your brain?</q></q>&NoBreak;[^3]
 

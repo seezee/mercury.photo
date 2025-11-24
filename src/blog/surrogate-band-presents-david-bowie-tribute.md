@@ -25,7 +25,7 @@ excerpt: Originally formed in 2011 to perform Pink Floyd’s <cite>The Wall</cit
 <p>Major Tom lands at HiLo</p></stack-l></hgroup>
 <!-- markdownlint-enable MD025 --><mpb-dialog-img>
 
-{% image "./src/assets/images/blog/2014-06-19-surrogate-band-hi-lo/czahller-20140302-00-46-47.jpg", "img-constrained", "
+{% image "featured", "img-constrained", "
 The Surrogate Band. Left to right: Justin Hogan, Mike Mitchell, Chris Sanders, David Goad, Chris Wilson, Richie Zenner, Amy Downes, Gabriel Barham, Kristine Kamen . Not shown: J.R. Reagor", "The Surrogate Band. Left to right: Justin Hogan, Mike Mitchell, Chris Sanders, David Goad, Chris Wilson, Richie Zenner, Amy Downes, Gabriel Barham, Kristine Kamen . Not shown: J.R. Reagor", "eager" %}</mpb-dialog-img>
 
 <mpb-callout type="info" title="The Diamond Dog Details">

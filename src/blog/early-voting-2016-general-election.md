@@ -21,7 +21,7 @@ excerpt: Cleveland County residents may cast early in-person absentee ballots at
 <p>Citizens! Do your part for Democracy! Vote!</p></stack-l></hgroup>
 <!-- markdownlint-enable MD025 --><mpb-dialog-img>
 
-{% image "./src/assets/images/blog/2016-11-03-early-voting/czahller-20161103-11-59-26.jpg", "img-constrained", "Woman with “I Voted” sticker stuck to her forehead.", "I Voted", "eager" %}</mpb-dialog-img>
+{% image "featured", "img-constrained", "Woman with “I Voted” sticker stuck to her forehead.", "I Voted", "eager" %}</mpb-dialog-img>
 
 [NORMAN, Okla., 3 November 2016]&NoBreak;&hairsp;&NoBreak;&mdash;{.no-drop-cap}
 

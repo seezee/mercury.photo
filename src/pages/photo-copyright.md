@@ -10,7 +10,7 @@ permalink: "/legal/photo-copyright/"
 <!-- markdownlint-enable MD025 -->
 <mpb-dialog-img>
 
-{% image "./src/assets/images/site/photo-copyright/Joseph_Ferdinand_Keppler_-_The_Pirate_Publisher_-_Puck_Magazine_-_Restoration_by_Adam_Cuerden.jpg", "img-constrained", "The Pirate Publisher—An International Burlesque that has the Longest Run on Record, from Puck, 1886. Public domain. The political cartoon depicts various national figures confronting a publisher dressed as a pirate, standing on stacks of papers labeled with lawsuits and threats. Flags and smoke are visible in the background.", "The Pirate Publisher (<cite>Puck</cite> Magazine)", "eager" %}
+{% image "featured", "img-constrained", "The Pirate Publisher—An International Burlesque that has the Longest Run on Record, from Puck, 1886. Public domain. The political cartoon depicts various national figures confronting a publisher dressed as a pirate, standing on stacks of papers labeled with lawsuits and threats. Flags and smoke are visible in the background.", "The Pirate Publisher (<cite>Puck</cite> Magazine)", "eager" %}
 </mpb-dialog-img>
 <p>You are viewing this page because you peeked at the exif/iptc metadata in one of my pictures. The image bearing this page’s URL is copyright ©2012{{ dateUtils.currentYear() | safe }} Mercury Photo Bureau dba Messenger Web Design LLC.</p>
 

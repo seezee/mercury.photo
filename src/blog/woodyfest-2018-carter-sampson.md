@@ -27,7 +27,7 @@ excerpt: This writer first saw Carter Sampson three-and-a-quarter years ago, whe
 <p>Queen of Oklahoma’s Pastures of Plenty debut</p></stack-l></hgroup>
 <!-- markdownlint-enable MD025 --><mpb-dialog-img>
 
-{% image "./src/assets/images/blog/2018-11-16-woodyfest-carter-sampson/czahller-20180712-20-46-16.jpg", "img-constrained", "Carter Sampson (Seen from Upstage) — 21st Annual Woody Guthrie Festival, 2018", "Carter Sampson (Seen from Upstage)&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;21st Annual Woody Guthrie Festival, 2018", "eager" %}</mpb-dialog-img>
+{% image "featured", "img-constrained", "Carter Sampson (Seen from Upstage) — 21st Annual Woody Guthrie Festival, 2018", "Carter Sampson (Seen from Upstage)&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;21st Annual Woody Guthrie Festival, 2018", "eager" %}</mpb-dialog-img>
 
 This writer first saw <span class="h-card p-name">Carter Sampson</span> <time datetime="2015-07-11">three-and-a-quarter years ago</time>, when she played a short set at the Community Improvement Association (CIA) Stage at the Woody Guthrie Folk Festival. A few die-hards sat in the folding steel chairs at the outdoor venue, braving the 91&deg;&nbsp;F (32.8º&nbsp;C) temperature and 51 percent humidity as long as the beer vendor kept the suds coming. This reporter was between assignments and decided to stick around.{.drop-cap}
 
