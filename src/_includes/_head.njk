@@ -183,6 +183,8 @@
     {{ recipe | safe }}
   {% elif review %}
     {{ review | safe }}
+  {% elif faq %}
+    {{ faq | safe }}
   {% endif %}
   {% if '/blog/' in page.url %}
     {% if not '/tags/' in page.url %}

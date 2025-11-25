@@ -4,6 +4,150 @@ title: OKIE-X Frequently Asked Questions
 image: /assets/images/okie-x/OKIE-X-Contact-Sheet-B.jpg
 permalink: "/okie-x/okie-x-faq/"
 ogtype: website
+faq: '<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Who qualifies to participate?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "To qualify as a subject for the OKIE-X project, you must\n\n• be a current or former Oklahoma resident,\n• be a current or former singer, rapper, instrumentalist, songwriter, arranger, composer, or producer, and\n• perform in public or make your music available to the public, either via physical media, download, or streaming.\n\nArtists should fill out the Artists’ Survey before scheduling a sitting."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How long are the portrait sessions?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Shoots typically take 5⁠ ⁠–⁠ ⁠10 minutes per subject. You are welcome to stay and watch me develop the negatives; allow about one hour extra if you want to see the darkroom process from start to finish."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "When is the cutoff for participation?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "At this time the cutoff is unknown. However, that could change any day. You should reserve your spot sooner, rather than later, if you want to participate."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What should I wear?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Wear something you’d like to be photographed in. Many subjects wear the same thing they wear on stage. Some bring several costume changes. Feather boas, loincloths, and glitter all strongly encouraged.\n\nBear in mind that x-ray film is blind to red, so any red clothes, makeup, or props will be black or dark grey in the final black-and-white image. This is not a prohibition on red; just don’t expect it to render medium-grey as it would on modern panchromatic films."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "May I bring my (guitar) (drum) (dog) (spouse) (bowling trophy) (Ouija Board)?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Feel free to bring an instrument or an object of personal significance. Spouses, boyfriends, girlfriends, and pets are welcome. Firearms are not."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Where is the studio?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The studio is in Norman, Oklahoma. Please use the contact form at the bottom of this page to request my studio address and phone number."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "When is the studio available?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The studio is set up most weekdays, and if it isn’t, I can have it operational with an hour’s notice. Tell me when you are available and I will work with your schedule.\n\nThe typical studio schedule is Monday: 11 a.m.⁠ ⁠–⁠ ⁠7 p.m., Tuesday⁠ ⁠–⁠ ⁠Thursday: 10 a.m.⁠ ⁠–⁠ ⁠7 p.m., and Friday 10 a.m.⁠ ⁠–⁠ ⁠2 p.m. All portraits are by appointment only."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "When will I get to see my portrait? Will I get a copy?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "I’m not showing the final images to anyone outside the studio at the moment, but hope to do so as the project nears completion. You will receive a digital file and a limited license for your press kit."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Anything else I should know?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "I live with a cat, so if you’re allergic, you may want to take appropriate measures before visiting the studio."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Who has participated?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "OKIE-X has photographed 362 artists to date. Participants include:\n\nJohn Calvin Abney\nBrad Absher\nAndy Adams\nLeigh Adams\nTroy Alan\nShandee Allen\nDavid Amram (Honorary OKIE)\nMiranda Arana\nCharlie Archer\nLynne Ashby Neill\nTaylor Atkinson\nAlaina Avants\nJesse Aycock\nGrace Babb\nSophia Babb\nGabriel Barham\nSean Barker\nEdward Barrett\nLauren Barth\nJoe Baxter\nJerrod Beck\nDale Bennett\nLaine Bergeron\nByron Berline (1944⁠ ⁠–⁠ ⁠2021)\nPeyton Bighorse\nTim Blake\nSteve Boaz\nJohnny Bohlen\nNate Borofsky\nMark Brashear\nRachel Brashear\nCora Brinkley-Gutel\nGarrison Brown\nNathan Brown\nGabrielle Bruner\nDave Bruster\nKris “Buck” Buchanan (“Buck Wild”)\nWink Burcham\nBlake Burgess\nTim Burgess\nMarlin Butcher\nKatie Butts\nMichael \"Tic-Tac\" Byars\nDavid Carlyle\nGiovanni N. \"Nooch\" Carnuccio III\nSherree Jane Chamberlain\nLysandra Chapman (Lysandra Dial)\nKinsey Charles\nLauren Nicole Clare\nNellie Marie Clay\nK. C. Clifford\nGene Collier\nKenneth E. Collins\nDon Conoscenti\nJohn M. Cooper\nChelsey Cope\nZac Copeland\nDave Copenhaver\nBob Cornelison (“B. C. Rimshot”)\nClarissa \"Cid\" Costello\nRyan Costello\nTory Ayers Costello\nGentry Counce\nPaul Courtney\nLindsey Cox\nRandall Coyne\nSamantha Crain\nAmanda Cunningham\nBrian Daniel\nArash Davari\nJ. Kyle Davis\nAbigale Dawn\nJared Deck\nPatrick “Red” Dennis\nBob Deupree\nMolly Devine\nManda Shae Dickinson\nKate Dinsmore\nMarcus Dixon\nWayne Duck\nDaniel Duggin\nJustin Dupuis\nDonald Eisenberg\nJonathan Eldridge\nJurine Elkins\nLincka Elizondo\nMark Elliott\nKailey Ann Emerson\nCarolyn Esmon\nNicole Van Every\nAdrian Falwell\nKalyn Fay\nCarrie Felter\nTanya Felter\nBrad Fielder\nDonovan Fite\nElizabeth Forsythe (“Eliza Bee”)\nChristopher Foster (Poppa “Piano” Foster)\nDaniel Foulks\nJared Tyler Frederick\nBob French\nJohn R. Fullbright\nAdrienne Gilley\nMike Gilliland\nDavid Goad\nMatt Goad\nLouise Goldberg\nJavier González\nVictor Gramm\nTim Gregory\nJoshua Griffin\nCarly Gwin\nHolly Hall\nJeremy Hall\nJuli Hall\nJim Halsey\nGabriel Knight Hancock\nCamille Harp\nIsaiah Harrell\nKurt Lochner Harrington\nJimmy Harris\nAli Harter\nMorgan Hartman\nJordan Hehl\nMelissa Hembree\nLeigh Adams Henglein\nMichael Henneberry\nShane Henry\nLeslie “Balthazar” Hensley\nMeghanne Hensley\nJosé Hernández\nSusan Herndon\nEmily Hiltner\n\"Reverend\" Justin Hogan\nJosh Hogsett\nMike Hosty\nKristen Howard\nMatt Howard\nRodney Hulsey (“Rodney Deus”)\nBenjamin Kyle Hutchins\nCody Ingram\nTodd Jackson\nEvan Jarvicks\nBeau Jennings\nMike Jenkins\nChloe Johns\nJohn Johnson\nJoie Sherman Johnson\nPeggy Johnson\nRonnie Johnson (“Grand National”)\nSherman Johnson (“BiG WoRm”)\nBatiste Jones\nJen Jones\nRyan Jones\nDavid Allen Judy (“Danny Trashville”)\nZachary Kaczka\nChase Kerby\nRyan Kilby\nBrent Krueger\nJimmy LaFave (1955⁠ ⁠–⁠ ⁠2017)\nIke Lamb\nTeresa Lamb\nJohn Roffers Langdon\nFrank Lawrence\nJim \"Jaz\" Lambeth\nAlex Larrea\nMandii Larsen\nDale Lawton\nDavid Leach\nLauren Lee\nRobbie Lee\nSawyer Lee\nTyler Lee\nCattie Lesley\nTony LeSure (“LTZ”)\nSteve Liddell\nJoshua Lightfoot\nTove Cornelia Margareta Lightfoot (née Thunell)\nFelix Linden\nBoyd Littell (1977⁠ ⁠–⁠ ⁠2017)\nSpencer Livingston-Gainey\nBroderick “Brodie” Kelley Lockett\nNathan Lofties\nCarson Lundeen\nJimbro Lutz\nDana McBride\nJoel McCall\nJ. Michael McCarty\nMaggie McClure\nEric \"Red\" McDaniel\nJimmy McFall\nCaleb McGee\nWess McMichael\nKenn McSperitt\nCynthia \"Luxy\" Machovic\nSteve Machovic\nRyan Magnani\nBeau Mansfield\nAllen Martin\nDan Martin\nMark Martinez\nSophia Massad\nZach Massey\nDirk Matthews\nT. J. Mayes\nKyle Mayfield\nKelli Mayo\nJack Mayou\nTyson Meade\nNathanael \"Than\" Medlam\nTaylor \"Shraz\" Mercier\nMiilie Mesh\nRonnie Meyer\nJerry Meyers\nBob Miller\nJody Miller\nParker Millsap\nJon Mooneyham\nGabriel Mor\nDerek Moore\nMaxwell Moore\nAgustin Morales\nDarla “Darlin’ Darla” Morgan\nNick Morgan\nCameron Lynn Morris\nJoel T. Mossman\nWill Muir\nChristophe Murdock\nSteve “Murf” Murphy\nMike Myers\nBradley Nance\nColin Nance\nZach Nedbalek\nJohn Noerdling\nGrant Nordean\nDean “Dino” Northcutt\nJude Northcutt\nShara Nova\nAndy Nuñez\nMarian Love Nuñez\nShaun O’Brian\nErin O’Dowd\nWesley Levi Parham\nJill Park\nSeth Park\nBlake Parks\nEllis Paul (Honorary OKIE)\nCameron Peery\nNia Personette\nBrad Piccolo\nPenny Pitchlynn\nPauly Ray Plaster, Jr. (“Paüly Creep-Ø”)\nKen Pomeroy\nPam Potts\nJoey Powell\nDan Price\nThom Proctor\nPilar V. Guarddon Pueyo\nGary Pulpit\nDustin Ragland\nTaylor Michael Rapp\nDenovan Ratcliffe\nAdam Ray\nKristin Reed\nCharley Reeves\nSamuel Regan\nBilly Reid\nKyle Reid\nSarah Reid\nRick Reiley\nMary Catherine Reynolds\nJeff Richardson\nFelina Rivera\nBuffalo Rogers\nDustin Rose\nMichael Rose\nMorgan Routt\nMark Rubin\nShawna Russell\nLexi Sacco\nRicky Salthouse\nCarter Sampson\nBrian Sanders\nChris Sanders\nMike Satawake\nLacy “Changemonger” Saunders\nMatt Scheuber\nSephra Scheuber\nDonna Settlemires\nJoe Settlemires\nSteve Short\nMarty Simon\nDorian Small\nJason D. Scott\nJason P. Scott\nChelsea Smith\nLeeMychael Smith\nDavid “Shorty” Short\nChavez Soliz\nCharlie Spears\nMichael Stafford\nElecktra Stanislava\nMedeia Starfire\nKevin Stark\nM. Bailey Stephenson\nChristopher Stevens\nFrank Stevens\nDylan Stewart\nTory Stinnett\nEmily Alexander Sunderson\nScott Sunderson\nJason Swanson\nChristine Taylor (Christine Jude)\nMonica Taylor\nDanielle Tipton\nJohn Thomas\nNadia Thomas\nNikolas \"Kite\" Thompson\nJason Tillis\nCali Tonnu\nJacob Tovar\nGrayson Trice\nJennifer Tripi\nCurnita “Cooki” Turner\nScott Twitchell\nCharmane M. Vaianisi\nRT Valine\nChase Vegas\nPaige Vernon\nDaniel Walker\nTodd Walker\nEric Walschap\nBryan Walters\nChristi Wans\nMorgan Ward\nTerry \"Buffalo\" Ware\nWendell “Wink” Ware\nTania Warnock\nBobby Lee Warren\nDan Warren\nLevi Watson\nKevin Webb\nKristine Kamen Wendt\nApril Wenzel\nCheryl Lynn White (“Starr Lynn Raven”)\nKierston White\nChad Whittle\nLarry Whittle\nJonathan Wilkerson\nJonathan Blake \"Jabee\" Williams\nKatie Williams\nRobert S. “Bob” Williams\nDavid Wilson-Burns\nAndrew “Drew” Winn\nJonathan Winston\nJustin Witte\nHannah Wolff\nJ.J. Wood\nT.Z. Wright\nRay Wyssmann\nBryndon York\nRichie Zenner"
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "When will the portraits be shown? Where will they be shown?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "At this time I don’t know when or where the show will hang. I will announce it on social media and also here when I know. The best way to stay updated on OKIE-X is to sign up for the newsletter. If you’ve sat for the project, please ensure that I have your current contact information."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What’s the deal with x-ray film? I thought x-rays were dangerous!",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "X-ray film isn’t directly exposed by x-rays (except for dental x-ray film). In a clinical setting, the x-rays cause a special screen to emit visible light, which in turn exposes the film. As such, using the film photographically isn’t inherently dangerous. It’s very similar to ordinary photographic film and can be handled and developed in much the same way, but it has some special characteristics:\n\n• It’s sold in large sheets. I buy 8×10″ film in boxes of 100 and trim it with a guillotine cutter to fit my 4×5″ film holders.\n• It’s orthochromatic: it has a greater spectral sensitivity than really old materials, e.g., wet plate collodion, but it’s still not sensitive to all visible light, like modern panchromatic films. As of May 2016, the film I use is sensitive to blue and green light, but blind to red.\n• Because it’s ortho, I can work with it under a safelight.\n• The final image looks different from conventional film because of the film’s inability to see most of the colors visible to the human eye — so red objects are very dark, and minor blemishes, freckles, and other facial features are more distinct.\n• Most x-ray film has emulsion on both sides — twice the emulsion, half the patient exposure to hard radiation. The film I use began the project with has emulsion on only 1 side, and, like modern panchromatic films, has an anti-halation dye layer on the back. In May 2016, I switched to conventional x-ray film.\n• The emulsion is very soft and requires careful handling."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What kind of camera are you using?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "I’m making the portraits with a cherrywood Wista 45DX. It folds down quite compactly and weighs less than a 35mm SLR. It has a leather bellows, an extending rail with rack-and-pinion focus, and numerous front and back movements (tilt, shift, rise and fall, and swing), which allow various focusing effects and perspective corrections. I recently contacted Wista, who told me the camera was manufactured in 1984."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What lens are you using?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The lens is a 250mm ƒ/4 \"in barrel\" brass Petzval formula lens, roughly 150 years old. I’ve fitted an old Packard #6 pneumatic shutter to the lens hood to control the exposure and to fire the studio lights. I chose the Petzval for its sharp center and \"swirly\" out-of-focus periphery. The lens’s dreamlike, surreal look cannot easily be reproduced by conventional means."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What are you doing to promote the project?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "I’m using all the usual social media channels, along with directly contacting the musicians and talking to the public. Additionally, I am in discussion with a major local daily newspaper and a local television station to do stories on the project. More on that as things develop (in every sense of the word)."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What are you doing to promote the project?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Please use this form to request the studio location and my mobile phone number, as well as to ask any other questions about the OKIE-X project."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "I’m not a musician, but I’d like to help.",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You can help spread the word by telling your friends about OKIE-X and by linking to this FAQ on social media. If you are a business owner and would like to discuss corporate sponsorship, please contact me."
+      }
+    }
+  ]
+}
+</script>'
 ---
 
 <script src="https://www.google.com/recaptcha/api.js"></script>
@@ -38,12 +182,12 @@ Artists should fill out the [Artists’ Survey](/okie-x/okie-x-artists-survey) b
 You are strongly encouraged to read all of this section before your OKIE-X portrait sitting. Just curious about the project? Please see the [General FAQ](#general-information).
 </mpb-callout>
 
-<details name="essential-faq"><summary>I want to participate. How do I qualify? </summary><stack-l>
+<details name="essential-faq"><summary>Who qualifies to participate?</summary><stack-l>
 
 To qualify as a subject for the OKIE-X project, you must
 
 * be a current or former Oklahoma resident,
-* be a current or former singer, rapper, instrumentalist, songwriter, arranger, * composer, or producer, and
+* be a current or former singer, rapper, instrumentalist, songwriter, arranger, composer, or producer, and
 * perform in public or make your music available to the public, either via physical media, download, or streaming.
 
 Artists should fill out the [Artists’ Survey](/okie-x/okie-x-artists-survey) before scheduling a sitting.
@@ -770,12 +914,12 @@ I live with a cat, so if you’re allergic, you may want to take appropriate mea
 
 <details name="essential-faq"><summary>When will the portraits be shown? Where will they be shown?</summary>
 
-<del>The gallery show should occur in the 1<sup>st</sup> or 2<sup>nd</sup> quarter of <time datetime="2017">2017</time>, with the location to be announced as the date approaches.</del> <ins>At this time I don't know when or where the show will hang. I will announce it on social media and also here when I know.</ins> The best way to stay updated on OKIE-X is to [sign up for the newsletter](/contact/newsletter/). <em>If you've sat for the project, please ensure that I have your current contact information.</em>
+<del>The gallery show should occur in the 1<sup>st</sup> or 2<sup>nd</sup> quarter of <time datetime="2017">2017</time>, with the location to be announced as the date approaches.</del> <ins>At this time I don’t know when or where the show will hang. I will announce it on social media and also here when I know.</ins> The best way to stay updated on OKIE-X is to [sign up for the newsletter](/contact/newsletter/). <em>If you’ve sat for the project, please ensure that I have your current contact information.</em>
 </details>
 
 <details name="essential-faq"><summary>What’s the deal with x-ray film? I thought x-rays were dangerous!</summary><stack-l>
 
-X-ray film isn't directly exposed by x-rays (except for dental x-ray film). In a clinical setting, the x-rays cause a special screen to emit visible light, which in turn exposes the film. As such, using the film photographically isn't inherently dangerous. It's very similar to ordinary photographic film and can be handled and developed in much the same way, but it has some special characteristics:
+X-ray film isn’t directly exposed by x-rays (except for dental x-ray film). In a clinical setting, the x-rays cause a special screen to emit visible light, which in turn exposes the film. As such, using the film photographically isn’t inherently dangerous. It’s very similar to ordinary photographic film and can be handled and developed in much the same way, but it has some special characteristics:
 
 * It’s sold in large sheets. I buy 8×10″ film in boxes of 100 and trim it with a guillotine cutter to fit my 4×5″ film holders.
 * It’s orthochromatic: it has a greater spectral sensitivity than really old materials, e.g., wet plate collodion, but it’s still not sensitive to all visible light, like modern panchromatic films. As of May 2016, the film I use is sensitive to blue and green light, but blind to red.
@@ -787,7 +931,7 @@ X-ray film isn't directly exposed by x-rays (except for dental x-ray film). In a
 
 <details name="essential-faq"><summary>What kind of camera are you using?</summary>
 
-I’m making the portraits with a cherrywood [Wista 45DX](https://camera-wiki.org/wiki/Wista_Field_45). It folds down quite compactly and weighs less than a 35mm SLR. It has a leather bellows, an extending rail with rack and pinion focus, and numerous front and back movements (tilt, shift, rise and fall, and swing), which allow various focusing effects and perspective corrections. I recently contacted Wista, who told me the camera was manufactured in 1984.
+I’m making the portraits with a cherrywood [Wista 45DX](https://camera-wiki.org/wiki/Wista_Field_45). It folds down quite compactly and weighs less than a 35mm SLR. It has a leather bellows, an extending rail with rack-and-   pinion focus, and numerous front and back movements (tilt, shift, rise and fall, and swing), which allow various focusing effects and perspective corrections. I recently contacted Wista, who told me the camera was manufactured in 1984.
 </details>
 
 <details name="essential-faq"><summary>What lens are you using?</summary><stack-l>
@@ -797,12 +941,12 @@ I’m making the portraits with a cherrywood [Wista 45DX](https://camera-wiki.or
 Beginning in <time datetime="2016-04">April 2016</time>, I changed lenses, as noted in the updated information below.
 </mpb-callout>
 
-The lens is a <del>105mm &#402;/3</del> <ins>250mm &#402;/4</ins> "in barrel" brass [Petaval formula lens](https://camera-wiki.org/wiki/Petzval_lens), roughly 150-years-old. <del>Most likely, it was a magic lantern or projector lens.</del> It has <del>no aperture control and</del> no shutter. I've fitted an old Packard #6 pneumatic shutter to the lens hood to control the exposure and to fire the studio lights. I chose the Petzval for its sharp center and "swirly" out-of-focus periphery. The lens's dreamlike, surreal look cannot easily be reproduced by conventional means.
+The lens is a <del>105mm &#402;/3</del> <ins>250mm &#402;/4</ins> "in barrel" brass [Petzval formula lens](https://camera-wiki.org/wiki/Petzval_lens), roughly 150 years old. <del>Most likely, it was a magic lantern or projector lens.</del> It has <del>no aperture control and</del> no shutter. I’ve fitted an old Packard #6 pneumatic shutter to the lens hood to control the exposure and to fire the studio lights. I chose the Petzval for its sharp center and "swirly" out-of-focus periphery. The lens’s dreamlike, surreal look cannot easily be reproduced by conventional means.
 <stack-l></details>
 
 <details name="essential-faq"><summary>What are you doing to promote the project?</summary>
 
-I'm using all the usual social media channels, along with directly contacting the musicians and talking to the public. Additionally, I am in discussion with a major local daily newspaper and a local television station to do stories on the project. More on that as things develop (in every sense of the word).
+I’m using all the usual social media channels, along with directly contacting the musicians and talking to the public. Additionally, I am in discussion with a major local daily newspaper and a local television station to do stories on the project. More on that as things develop (in every sense of the word).
 </details>
 
 <details name="essential-faq"><summary>I’m not a musician, but I’d like to help.</summary>
@@ -817,7 +961,7 @@ Please use this form to request the studio location and my mobile phone number, 
 {% include "_okie-x-artist-inquiry.njk" %}
 
 <script>
-  'use strict';
+  ’use strict’;
   const artistCount = function artistCount() {
     window.addEventListener(`load`, (event) => {
     const list = document.getElementById(`artist-list`);
@@ -825,7 +969,7 @@ Please use this form to request the studio location and my mobile phone number, 
 
     const str = `<p>OKIE-X has photographed <strong>${artists} artists</strong> to date. Participants include:</p>`;
 
-    list.insertAdjacentHTML('beforebegin', str);
+    list.insertAdjacentHTML(’beforebegin’, str);
     })
   };
 
