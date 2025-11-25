@@ -38,7 +38,7 @@ image: /assets/images/site/mpb-logo.webp
 # {{ title }}
 <!-- markdownlint-enable MD025 -->
 
-<ol class="taglist" data-pagefind-weight="0.5">
+<ol class="taglist" data-pagefind-ignore>
 {% set taglist = collections[ tag ] %}
 {% for post in taglist | reverse %}
   <li>
