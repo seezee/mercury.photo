@@ -1,14 +1,14 @@
 ---
 layout: layout-home.njk
 ---
-<main id="main" data-pagefind-body>
+<main id="main" data-pagefind-ignore>
   <stack-l>
     <center-l>
       <h1>Mercury Photo Bureau</h1>
     </center-l>
     <div class="slider-wrapper">
 
-      <!-- Don't wrap targets in parent -->
+      <!-- Targets — don't wrap them in parent -->
       <div id="s0"></div>
       <div id="s1"></div>
       <div id="s2"></div>
@@ -26,6 +26,7 @@ layout: layout-home.njk
       <div id="s14"></div>
       <div id="s15"></div>
 
+      <!-- Slides container -->
       <div class="slider">
         <div id="sw0"></div>
         <div id="sw1"></div>
@@ -43,7 +44,9 @@ layout: layout-home.njk
         <div id="sw13"></div>
         <div id="sw14"></div>
         <div id="sw15"></div>
+        <!-- Container for SVG overlay -->
         <div id="overlay"></div>
+        <!-- Watermarks -->
         <div id="watermark00"><span class="sr-only">OKIE-X: Portraits of Oklahoma Musicians on X-Ray Film. Coming Soon.</span></div>
         <div id="watermark01"><span class="sr-only">OKIE-X: Portraits of Oklahoma Musicians on X-Ray Film. Coming Soon.</span></div>
         <div id="watermark02"><span class="sr-only">OKIE-X: Portraits of Oklahoma Musicians on X-Ray Film. Coming Soon.</span></div>
@@ -62,6 +65,7 @@ layout: layout-home.njk
         <div id="watermark15"><span class="sr-only">OKIE-X: Portraits of Oklahoma Musicians on X-Ray Film. Coming Soon.</span></div>
       </div>
 
+      <!-- Previous & next buttons -->
       <div class="prevNext">
         <div>
           <a href="#s15">{% svgIcon "./_site/assets/images/icons/arrow-left.svg" %}</a>
@@ -128,6 +132,7 @@ layout: layout-home.njk
         </div>
       </div>
 
+      <!-- Numbered buttons -->
       <div class="bullets">
         <a href="#s0"><span class="sr-only">Advance to slide </span>1</a>
         <a href="#s1"><span class="sr-only">Advance to slide </span>2</a>
