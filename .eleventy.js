@@ -473,7 +473,11 @@ module.exports = async function(eleventyConfig) {
     return sorted;
   });
 
-  // Limit collection size
+  /* Limit collection size
+   * Usage, e.g. show the 8 most recent posts:
+   * {%- for post in collections.blog | sortByPubDate | reverse | limit(8) -%}
+   */
+
   eleventyConfig.addFilter(`limit`, (arr, limit) => arr.slice(0, limit));
 
   /**
