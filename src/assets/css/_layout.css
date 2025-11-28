@@ -2,7 +2,7 @@
 * Layout
 *
 * 1.  noscript
-* 2.  #skip-link
+* 2.  #skip-link, #skip-slideshow-link
 * 3.  Search
 * 3.  Theme toggle
 * 4.  #nav-primary-wrapper, .breadcrumbs-separator, #main-wrapper
@@ -46,9 +46,19 @@ noscript div {
   }
 }
 
-/* #skip-link */
+/* #skip-link, #skip-slideshow-link */
+
+#skip-link,
+#skip-slideshow-link {
+  position: relative;
+}
+
 #skip-link {
   inset-block-start: var(--s-5);
+}
+
+#skip-slideshow-link {
+  inset-inline-start: var(--s2);
 }
 
 /* Header & Pagination Icons */
