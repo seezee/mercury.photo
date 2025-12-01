@@ -1,6 +1,6 @@
 {
   "name": "mercury.photo",
-  "version": "1.0.299",
+  "version": "1.0.300",
   "description": "Rangefinder + Mirrorless Digital + Large Format Film Photography + Music, Arts, & News",
   "main": "index.js",
   "bugs": {
@@ -42,7 +42,7 @@
     "esbuild": "^0.27.0",
     "esbuild-plugin-browserslist": "^2.0.0",
     "html-minifier-terser": "^7.2.0",
-    "kill-port": "^2.0.1",
+    "kill-port": "2.0.1",
     "markdown-it": "^14.1.0",
     "markdown-it-anchor": "^9.2.0",
     "markdown-it-attrs": "^4.3.1",
