@@ -2,7 +2,7 @@
 
 * Contributors: Chris J. Zähller (seezee)
 * Author URI: <https://github.com/seezee>
-* Version: 1.0.301
+* Version: 1.0.302
 * License: [Kelp Commons License](https://github.com/seezee/mercury.photo/blob/main/LICENSE)
 * License URI: <https://github.com/seezee/mercury.photo/blob/main/LICENSE>
 * tags: photography, music, journalism
@@ -11,10 +11,11 @@
 
 A site dedicated to photography, music, and news. Home of the OKIE-X portrait project. Built with Eleventy.
 
-<div style="font-weight: 700">
+  <div style="font-weight: 700">
 
-<a href="https://github.com/seezee/mercury.photo/blob/master/README.md"> Documentation </a> <span> · </span> <a href="https://github.com/seezee/mercury.photo/issues"> Report Bug </a> <span> · </span> <a href="https://github.com/seezee/mercury.photo/issues"> Request Feature </a></div>
+[Documentation](https://github.com/seezee/mercury.photo/blob/master/README.md)<span> · </span>[Report Bug](https://github.com/seezee/mercury.photo/issues)<span> · </span>[Request Feature](https://github.com/seezee/mercury.photo/issues)
 
+  </div>
 </div>
 
 ## :notebook_with_decorative_cover: Table of Contents
