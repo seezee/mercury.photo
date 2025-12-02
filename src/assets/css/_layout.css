@@ -1,21 +1,29 @@
 /**
-* Layout
-*
-* 1.  noscript
-* 2.  #skip-link, #skip-slideshow-link
-* 3.  Search
-* 3.  Theme toggle
-* 4.  #nav-primary-wrapper, .breadcrumbs-separator, #main-wrapper
-* 5.  .recent-posts
-* 6   blog-index
-* 7.  .masonry
-* 8.  Columns (.col-2, .col-3, .col-4, .col-5)
-* 9.  hgroup
-* 10.  <dd> styles: .dd-add-space, dd+br
-* 11. .after-icon spacer
-* 12. .recipe-index
-* 13. #mpb-logo (footer icon)
-*/
+ * Layout
+ *
+ * 1.  noscript
+ * 2.  #skip-link, #skip-slideshow-link
+ * 3.  Search
+ * 3.  Theme toggle
+ * 4.  #nav-primary-wrapper, #nav-secondary, .breadcrumbs-separator, #main-wrapper
+ * 5.  .recent-posts
+ * 6   blog-index
+ * 7.  .masonry
+ * 8.  Columns (.col-2, .col-3, .col-4, .col-5)
+ * 9.  hgroup
+ * 10.  <dd> styles: .dd-add-space, dd+br
+ * 11. .after-icon spacer
+ * 12. .recipe-index
+ * 13. #mpb-logo (footer icon)
+ * 14. Footnotes & sidenotes
+ * 15. Pagination
+ * 16. Comments, author info, support cta, & footer
+ * 17. Scroller
+ * 18. Staff, OKIE-X, Sitemap, Tags
+ * 19. Wedding prices
+ * 20. Social
+ * 21. Comments
+ */
 
 #home {
   overflow-x: hidden;
@@ -37,7 +45,7 @@ noscript div {
 
   svg {
     display: inline-block;
-    margin-inline-end: .5ch;
+    margin-inline-end: 0.5ch;
     margin-block-start: calc(1ex - 1cap);
 
     vertical-align: middle;
@@ -64,7 +72,6 @@ noscript div {
 /* Header & Pagination Icons */
 
 #header__mpb-lettermark-wrapper {
-
   svg {
     inline-size: 2rem;
   }
@@ -77,11 +84,11 @@ noscript div {
   background-image: var(--mpb-icon-search);
   background-repeat: no-repeat;
   background-size: 1em;
-  background-position: .5em center;
+  background-position: 0.5em center;
 
   &:focus,
   &:active {
-    background-image: none!important;
+    background-image: none !important;
   }
 }
 
@@ -111,7 +118,7 @@ noscript div {
   pointer-events: none;
   position: absolute;
   inset-inline-start: 10.3rem;
-  inset-block-start: .275rem;
+  inset-block-start: 0.275rem;
 
   & kbd {
     background-color: var(--mpb-color-textPrimary);
@@ -120,7 +127,7 @@ noscript div {
   }
 }
 
-@media screen and (pointer:coarse) {
+@media screen and (pointer: coarse) {
   #search-hint__wrapper {
     display: none;
   }
@@ -181,22 +188,21 @@ https://web.dev/articles/building/a-theme-switch-component */
     stroke-linecap: round;
   }
 
-  &:hover > .sun-and-moon > :is(.moon,.sun) {
+  &:hover > .sun-and-moon > :is(.moon, .sun) {
     fill: var(--mpb-color-iconFillHover);
   }
 
-  &:hover .sun-and-moon >.sun-beams {
+  &:hover .sun-and-moon > .sun-beams {
     stroke: var(--mpb-color-iconFillHover);
   }
 }
 
 .sun-and-moon {
-
-  > :is(.moon,.sun,.sun-beams) {
+  > :is(.moon, .sun, .sun-beams) {
     transform-origin: center center;
   }
 
-  > :is(.moon,.sun) {
+  > :is(.moon, .sun) {
     fill: var(--mpb-color-textPrimary);
   }
 
@@ -206,7 +212,7 @@ https://web.dev/articles/building/a-theme-switch-component */
   }
 }
 
-[data-theme='dark'] .sun-and-moon {
+[data-theme="dark"] .sun-and-moon {
   > .sun {
     transform: scale(1.75);
   }
@@ -228,31 +234,33 @@ https://web.dev/articles/building/a-theme-switch-component */
 @media (prefers-reduced-motion: no-preference) {
   .sun-and-moon {
     > .sun {
-      transition: transform .5s var(--ease-elastic-3) .5s;
+      transition: transform 0.5s var(--ease-elastic-3) 0.5s;
     }
 
     > .sun-beams {
-      transition: transform .5s var(--ease-elastic-4), opacity .5s var(--ease-3) .5s;
+      transition:
+        transform 0.5s var(--ease-elastic-4),
+        opacity 0.5s var(--ease-3) 0.5s;
     }
 
     .moon > circle {
-      transition: cx .25s var(--ease-out-5) .5s;
+      transition: cx 0.25s var(--ease-out-5) 0.5s;
     }
   }
 
-  [data-theme='dark'] .sun-and-moon {
+  [data-theme="dark"] .sun-and-moon {
     > .sun {
-      transition: transform .25s var(--ease-out-5) .5s;
+      transition: transform 0.25s var(--ease-out-5) 0.5s;
     }
 
     > .sun-beams {
       transform: rotate(-25deg);
-      transition-duration: .15s;
+      transition-duration: 0.15s;
     }
 
     > .moon > circle {
-      transition-delay: .25s;
-      transition-duration: .5s;
+      transition-delay: 0.25s;
+      transition-duration: 0.5s;
     }
   }
 }
@@ -264,90 +272,94 @@ https://web.dev/articles/building/a-theme-switch-component */
   border-block-end: 1px solid var(--mpb-color-textPrimary);
 }
 
+#nav-secondary {
+  inline-size: 100%;
+}
+
 .navigation {
-	width: fit-content;
+  width: fit-content;
 }
 
 .navigation__list {
-	display: flex;
+  display: flex;
   flex-wrap: wrap;
   gap: var(--s1);
   justify-content: flex-start;
   align-items: safe center;
-	margin: 0;
-	padding: 0;
+  margin: 0;
+  padding: 0;
 }
 
 .navigation__item {
-	padding-inline-start: var(--s-1);
-	padding-inline-end: var(--s2);
-	list-style-type: none;
-	display: flex;
-	align-items: safe center;
-	position: relative;
+  padding-inline-start: var(--s-1);
+  padding-inline-end: var(--s2);
+  list-style-type: none;
+  display: flex;
+  align-items: safe center;
+  position: relative;
   text-align: left;
 }
 
 ul ul .navigation__item {
-  padding-block: var(--s-1)
+  padding-block: var(--s-1);
 }
 
 .navigation__item[data-expanded="true"] {
-	box-shadow: var(--mpb-shadow-elevation-low);
+  box-shadow: var(--mpb-shadow-elevation-low);
 }
 
 .navigation__item[data-expanded="true"] > button {
-	transform: scaleY(-1);
+  transform: scaleY(-1);
 }
 
 .navigation__link {
-	display: flex;
-	align-items: safe center;
-	gap: var(--s-1);
-	text-decoration: none;
-	color: currentColor;
+  display: flex;
+  align-items: safe center;
+  gap: var(--s-1);
+  text-decoration: none;
+  color: currentColor;
 }
 
 .navigation__link:hover,
 .navigation__link:focus {
-	text-decoration: underline;
+  text-decoration: underline;
 }
 
 .navigation__button {
-	position: absolute;
-	cursor: pointer;
-	inset-inline-end: var(--s-5);
-	border: none;
-	background-color: transparent;
-	display: flex;
-	align-items: safe center;
-	padding: 0;
+  position: absolute;
+  cursor: pointer;
+  inset-inline-end: var(--s-5);
+  border: none;
+  background-color: transparent;
+  display: flex;
+  align-items: safe center;
+  padding: 0;
 }
 
 .navigation__button > svg {
-	width: 1.5rem;
+  width: 1.5rem;
 }
 
 .navigation__submenu {
   background-color: var(--mpb-color-textSecondary);
-	position: absolute;
-	padding: 0;
-	inset-block-start: 100%;
-	inset-inline-start: 0;
-	width: 12.5rem;
-	box-shadow: var(--mpb-shadow-elevation-low);
+  position: absolute;
+  padding: 0;
+  inset-block-start: 100%;
+  inset-inline-start: 0;
+  width: 12.5rem;
+  box-shadow: var(--mpb-shadow-elevation-low);
 }
 
 .navigation__submenu[aria-hidden="true"] {
-	display: none;
+  display: none;
 }
 
 .navigation__submenu > li:not(:last-child) {
-	border-block-end: 1px solid var(--mpb-color-textPrimary);
+  border-block-end: 1px solid var(--mpb-color-textPrimary);
 }
 
 .submenu-indicator {
-  path{
+  path {
     fill: var(--mpb-color-submenu-indicator);
   }
 
@@ -357,14 +369,13 @@ ul ul .navigation__item {
 }
 
 .breadcrumbs {
-
   [role="listitem"] {
     font-variant-numeric: lining-nums slashed-zero;
   }
 }
 
 .breadcrumbs-separator {
-  opacity: .5;
+  opacity: 0.5;
 }
 
 #main-wrapper {
@@ -420,9 +431,8 @@ h3 {
   }
 }
 
-
 main ul.blog-index li::marker {
-  content: '';
+  content: "";
 }
 
 /**
@@ -432,7 +442,7 @@ main ul.blog-index li::marker {
  * see https://github.com/w3c/csswg-drafts/issues/9041 and also commented
  * example code below
  */
- .masonry {
+.masonry {
   display: grid;
   grid-template-columns: repeat(auto-fit, var(--mpb-masonry-width));
   grid-gap: var(--mpb-masonry-gap);
@@ -440,10 +450,11 @@ main ul.blog-index li::marker {
   padding: var(--mpb-masonry-gap);
 
   /* @supports (grid-template-rows: masonry) { */
-    grid-template-rows: masonry;
+  grid-template-rows: masonry;
   /* } */
 
-  @supports (display: masonry) { /* Alternate syntax. */
+  @supports (display: masonry) {
+    /* Alternate syntax. */
     display: masonry;
     masonry-template-tracks: repeat(auto-fit, var(--mpb-masonry-width));
     gap: var(--mpb-masonry-gap);
@@ -540,14 +551,14 @@ hgroup h1 + p {
   }
 }
 
-[data-i='Stack-var(--s1)false'] > dd+br {
+[data-i="Stack-var(--s1)false"] > dd + br {
   margin-block-start: 0;
-  }
+}
 
 /* .after-icon spacer */
 .after-icon {
   display: inline-block;
-  inline-size: .5ch;
+  inline-size: 0.5ch;
 }
 
 /* #mpb-logo (footer icon) */
@@ -562,7 +573,7 @@ hgroup h1 + p {
 /* Footnotes & sidenotes */
 
 #space-occupier {
-  min-inline-size:30ch;
+  min-inline-size: 30ch;
   height: 0;
   margin: 0;
 }
@@ -603,7 +614,6 @@ a[id^="fnref"] {
 #fnref7 {
   anchor-name: --fn-7;
 }
-
 
 #fnref8 {
   anchor-name: --fn-8;
@@ -739,38 +749,38 @@ a[id^="fnref"] {
 
 /* Fixes notes being too wide on small mobile devices. */
 li[id^="fn"],
-li[id^="mn\:"] {
+li[id^="mn:"] {
   max-inline-size: none;
 }
 
-[id^="mnref\:"]::after {
+[id^="mnref:"]::after {
   position: static;
   display: inline-block;
   margin: unset;
-  margin-inline-start: .5ch;
+  margin-inline-start: 0.5ch;
   inline-size: 1rem;
   block-size: 1rem;
   clip: unset;
 
-  content: '';
+  content: "";
   background: var(--mpb-icon-stickynote) no-repeat;
   line-height: 1;
-  vertical-align:middle;
+  vertical-align: middle;
 }
 
 @media screen and (min-width: 64rem) {
-
   .flex_box-flexed {
     #share-wrapper,
     #tags-wrapper,
     #space-occupier,
     li[id^="fn"],
-    li[id^="mn\:"] { /* Fit sidebar width when wrapped */
+    li[id^="mn:"] {
+      /* Fit sidebar width when wrapped */
       max-inline-size: 30ch;
     }
   }
 
-  [id^="mnref\:"]:not(.test)::after {
+  [id^="mnref:"]:not(.test)::after {
     &:not(:focus-visible) {
       position: absolute;
       display: inline-block;
@@ -789,13 +799,12 @@ li[id^="mn\:"] {
 }
 
 .flex_box-flexed {
-
   #sidenotes li {
     padding-inline-end: var(--s1);
   }
 
   li[id^="fn"],
-  li[id^="mn\:"] {
+  li[id^="mn:"] {
     bottom: auto;
     anchor-name: --sidenote;
     /* inset-block-start: max(anchor(start) , calc(anchor(--sidenote bottom) + var(--s1))); /* Incompatible with css-anchor-positioning polyfill */
@@ -985,7 +994,6 @@ li[id^="mn\:"] {
 
 /* Pagination */
 #pagination {
-
   #mpb-lettermark {
     color: var(--mpb-color-accent);
   }
@@ -995,15 +1003,13 @@ li[id^="mn\:"] {
   }
 }
 
-#pagination {
-  max-width: 58ch;
-}
+/* Comments, author info, support cta, & footer */
 
 #footer-main,
 #comment-wrapper,
 #author-info-wrapper,
 #support-site-wrapper {
-  max-width: 60ch;
+  max-inline-size: 70ch;
 }
 
 #author-info-content {
@@ -1023,6 +1029,8 @@ li[id^="mn\:"] {
 #footer-main {
   margin-block-end: var(--s2);
 }
+
+/* Scroller */
 
 #scroller-wrapper {
   position: absolute;
@@ -1050,7 +1058,7 @@ li[id^="mn\:"] {
   inline-size: 2.5rem;
   block-size: 2.5rem;
   border-radius: 50%;
-  border: .1rem solid var(--mpb-color-textPrimary);
+  border: 0.1rem solid var(--mpb-color-textPrimary);
   background-color: var(--mpb-color-textSecondary);
   /* emoji don't behave like regular fonts
      so this helped position it correctly */
@@ -1064,10 +1072,13 @@ li[id^="mn\:"] {
   }
 }
 
+/* Staff, OKIE-X, Sitemap, Tags */
+
 .staff-wrapper {
   text-align: center;
 
-  figure, img {
+  figure,
+  img {
     margin-inline: auto;
   }
 
@@ -1091,7 +1102,6 @@ li[id^="mn\:"] {
 }
 
 #sitemap {
-
   column-gap: var(--s2);
   column-rule: 1px solid var(--mpb-color-textPrimary);
 
@@ -1106,7 +1116,7 @@ li[id^="mn\:"] {
     list-style: none;
 
     svg {
-      margin-inline-end: .5em;
+      margin-inline-end: 0.5em;
     }
   }
   li {
@@ -1185,7 +1195,7 @@ li[id^="mn\:"] {
     font-size: var(--mpb-font-size--2);
     line-height: 1;
     vertical-align: super;
-    margin-inline-end: .25ch;
+    margin-inline-end: 0.25ch;
   }
 }
 

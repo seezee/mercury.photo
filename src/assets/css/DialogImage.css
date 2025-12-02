@@ -1,5 +1,4 @@
 mpb-dialog-img {
-
   figure,
   picture,
   figcaption {
@@ -10,13 +9,13 @@ mpb-dialog-img {
       cursor: pointer;
 
       &:hover {
-        opacity: .5;
+        opacity: 0.5;
       }
     }
   }
 
-    dialog {
-      /* Variables for animation;
+  dialog {
+    /* Variables for animation;
     see https://www.oidaisdes.org/native-dialog-and-popover.en/ */
     --duration: 150ms;
     --start-opacity: 0.5;
@@ -24,7 +23,6 @@ mpb-dialog-img {
     figure,
     picture,
     figcaption {
-
       img:hover {
         cursor: default;
         opacity: unset;
@@ -58,7 +56,8 @@ mpb-dialog-img {
       backdrop-filter: blur(16px);
       /* End value for fade out. */
       opacity: 0;
-      transition: opacity var(--duration),
+      transition:
+        opacity var(--duration),
         overlay var(--duration) allow-discrete,
         display var(--duration) allow-discrete;
     }

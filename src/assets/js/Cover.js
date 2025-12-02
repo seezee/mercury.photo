@@ -15,7 +15,7 @@ export default class Cover extends HTMLElement {
       this.i = `Cover-${[this.centered, this.space, this.minHeight, this.noPad].join('')}`;
       this.dataset.i = this.i;
       if (!document.getElementById(this.i)) {
-        let styleEl = document.createElement('style');
+        const styleEl = document.createElement('style');
         styleEl.id = this.i;
         styleEl.innerHTML = `
           [data-i="${this.i}"] {
@@ -38,10 +38,12 @@ export default class Cover extends HTMLElement {
           [data-i="${this.i}"] > ${this.centered} {
             margin-block: auto;
           }
-        `.replace(/\s\s+/g, ' ').trim();
+        `
+          .replace(/\s\s+/g, ' ')
+          .trim();
         document.head.appendChild(styleEl);
       }
-    }
+    };
   }
 
   get centered() {

@@ -11,7 +11,7 @@ export default class Container extends HTMLElement {
       this.i = `Container-${[this.name]}`;
       this.dataset.i = this.i;
       if (!document.getElementById(this.i)) {
-        let styleEl = document.createElement('style');
+        const styleEl = document.createElement('style');
         styleEl.id = this.i;
         styleEl.innerHTML = `
             [data-i="${this.i}"] {
@@ -19,10 +19,12 @@ export default class Container extends HTMLElement {
               container-type: inline-size;
               ${this.name ? `container-name: ${this.name};` : ''}
             }
-          `.replace(/\s\s+/g, ' ').trim();
+          `
+          .replace(/\s\s+/g, ' ')
+          .trim();
         document.head.appendChild(styleEl);
       }
-    }
+    };
   }
 
   get name() {

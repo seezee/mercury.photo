@@ -37,7 +37,7 @@
   font-family: var(--mpb-font-sans);
   font-weight: var(--bold, 700);
   font-size: var(--mpb-font-size-1);
-  letter-spacing: .05ch;
+  letter-spacing: 0.05ch;
   font-variant: all-small-caps;
 }
 
@@ -46,7 +46,7 @@
   position: relative;
   height: auto; /* Use width & height, not logical properties, on images */
   width: 1.3em;
-  inset-block-end: .1rem;
-  margin-inline-end: .5ch;
+  inset-block-end: 0.1rem;
+  margin-inline-end: 0.5ch;
   vertical-align: middle;
 }

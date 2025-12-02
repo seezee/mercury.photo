@@ -1,7 +1,6 @@
 /* https://www.joshwcomeau.com/css/custom-css-reset/ */
 
 @layer reset {
-
   *,
   *::before,
   *::after {
@@ -21,16 +20,29 @@
     -webkit-font-smoothing: antialiased;
   }
 
-  img, picture, video, canvas, svg {
+  img,
+  picture,
+  video,
+  canvas,
+  svg {
     display: block;
     max-inline-size: 100%;
   }
 
-  input, button, textarea, select {
+  input,
+  button,
+  textarea,
+  select {
     font: inherit;
   }
 
-  p, h1, h2, h3, h4, h5, h6 {
+  p,
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6 {
     overflow-wrap: break-word;
 
     -webkit-hyphens: auto;

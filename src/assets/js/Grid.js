@@ -12,7 +12,7 @@ export default class Grid extends HTMLElement {
       this.i = `Grid-${[this.min, this.space].join('')}`;
       this.dataset.i = this.i;
       if (!document.getElementById(this.i)) {
-        let styleEl = document.createElement('style');
+        const styleEl = document.createElement('style');
         styleEl.id = this.i;
         styleEl.innerHTML = `
           [data-i="${this.i}"] {
@@ -24,10 +24,12 @@ export default class Grid extends HTMLElement {
               grid-template-columns: repeat(auto-fill, minmax(min(${this.min}, 100%), 1fr));
             }
           }
-        `.replace(/\s\s+/g, ' ').trim();
+        `
+          .replace(/\s\s+/g, ' ')
+          .trim();
         document.head.appendChild(styleEl);
       }
-    }
+    };
   }
 
   get min() {

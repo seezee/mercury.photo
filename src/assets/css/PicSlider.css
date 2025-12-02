@@ -2,8 +2,8 @@ mpb-picslider {
   display: grid;
   place-items: center;
   --position: 50%;
-  --bg-color: rgba(255 255 255 / .3);
-  --alpha: .5;
+  --bg-color: rgba(255 255 255 / 0.3);
+  --alpha: 0.5;
 
   img {
     margin-inline: 0;
@@ -60,7 +60,7 @@ input.picslider {
 .picslider-line-top,
 .picslider-line-bottom {
   position: absolute;
-  width: .2rem;
+  width: 0.2rem;
   height: calc(50% - 24.5px);
   background-color: var(--bg-color);
   opacity: var(--alpha);
@@ -88,5 +88,5 @@ input.picslider {
   width: 50px;
   pointer-events: none;
   background-color: transparent;
-  box-shadow: 1px 1px 1px oklch(var(--mpb-c-p-800) / .5);
+  box-shadow: 1px 1px 1px oklch(var(--mpb-c-p-800) / 0.5);
 }

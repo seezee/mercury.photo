@@ -1,6 +1,6 @@
 // /src/_includes/currentNav.js
 
-(function (window, document) {
+((window, document) => {
   `use strict`;
 
   const navLinks = document.querySelectorAll('nav.header-footer a');
@@ -12,13 +12,12 @@
     const str = navLinks[i].href;
     if (document.URL.startsWith(str)) {
       current = i;
-    };
+    }
     if (navLinks[i].href === document.URL) {
       ariaCurrent = i;
-    };
+    }
   }
 
   navLinks[current].classList.add(`current`);
   navLinks[ariaCurrent].ariaCurrent = `page`;
-
 })(window, document);

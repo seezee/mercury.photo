@@ -11,13 +11,13 @@ export default class Icon extends HTMLElement {
     this.render = () => {
       if (this.label) {
         this.setAttribute('role', 'img');
-        this.setAttribute('aria-label', this.label)
+        this.setAttribute('aria-label', this.label);
       }
       if (this.space) {
         this.i = `Icon-${this.space}`;
         this.dataset.i = this.i;
         if (!document.getElementById(this.i)) {
-          let styleEl = document.createElement('style');
+          const styleEl = document.createElement('style');
           styleEl.id = this.i;
           styleEl.innerHTML = `
             [data-i="${this.i}"] {
@@ -28,11 +28,13 @@ export default class Icon extends HTMLElement {
             [data-i="${this.i}"] > svg {
               margin-inline-end: ${this.space};
             }
-          `.replace(/\s\s+/g, ' ').trim();
+          `
+            .replace(/\s\s+/g, ' ')
+            .trim();
           document.head.appendChild(styleEl);
         }
       }
-    }
+    };
   }
 
   get space() {

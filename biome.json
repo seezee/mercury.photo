@@ -1,0 +1,33 @@
+{
+  "$schema": "./node_modules/@biomejs/biome/configuration_schema.json",
+  "files": {
+    "includes": [
+      "src/assets/css/**/*",
+      "src/assets/js/**/*",
+      "src/_includes/css/**/*",
+      "src/_includes/js/**/*",
+      ".eleventy.js"
+    ]
+  },
+  "linter": {
+    "rules": {
+      "suspicious": {
+        "noUselessEscapeInString": "off",
+        "noConsole": {
+          "level": "warn",
+          "options": {
+            "allow": ["assert", "error", "info", "warn"]
+          }
+        }
+      }
+    }
+  },
+  "formatter": {
+    "indentStyle": "space"
+  },
+  "javascript": {
+    "formatter": {
+      "quoteStyle": "single"
+    }
+  }
+}

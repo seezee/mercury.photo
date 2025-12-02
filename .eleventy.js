@@ -1,58 +1,55 @@
 `use strict`;
 
-const browserslist                     = require('browserslist');
-const eleventyAutoCacheBuster          = require('eleventy-auto-cache-buster');
-const eleventyPluginFilesMinifier      = require('@codestitchofficial/eleventy-plugin-minify');
-const esbuild                          = require('esbuild');
-const { feedPlugin }                   = require('@11ty/eleventy-plugin-rss');
-const Image                            = require('@11ty/eleventy-img');
+const browserslist = require('browserslist');
+const eleventyAutoCacheBuster = require('eleventy-auto-cache-buster');
+const eleventyPluginFilesMinifier = require('@codestitchofficial/eleventy-plugin-minify');
+const esbuild = require('esbuild');
+const { feedPlugin } = require('@11ty/eleventy-plugin-rss');
+const Image = require('@11ty/eleventy-img');
 // const { eleventyImageTransformPlugin } = require('@11ty/eleventy-img');
-const markdownIt                       = require('markdown-it');
-const mdAttrs                          = require('markdown-it-attrs');
-const mdAnchor                         = require('markdown-it-anchor');
-const mdDL                             = require('markdown-it-deflist');
-const mdFN                             = require('markdown-it-footnote');
-const { minify }                       = require('terser');
-const outdent                          = require('outdent');
-const path                             = require('path');
-const pluginSEO                        = require('eleventy-plugin-seo');
-const {resolveToEsbuildTarget}         = require('esbuild-plugin-browserslist');
+const markdownIt = require('markdown-it');
+const mdAttrs = require('markdown-it-attrs');
+const mdAnchor = require('markdown-it-anchor');
+const mdDL = require('markdown-it-deflist');
+const mdFN = require('markdown-it-footnote');
+const { minify } = require('terser');
+const outdent = require('outdent');
+const path = require('path');
+const pluginSEO = require('eleventy-plugin-seo');
+const { resolveToEsbuildTarget } = require('esbuild-plugin-browserslist');
 
-const is_production                    = typeof process.env.ELEVENTY_ENV === "string" && process.env.ELEVENTY_ENV === "production";
+const is_production =
+  typeof process.env.ELEVENTY_ENV === 'string' &&
+  process.env.ELEVENTY_ENV === 'production';
 
 // For Markdown attributes
 const mdOpts = {
   html: true,
   breaks: true,
-  linkify: true
+  linkify: true,
 };
 
 const mdAnchorOpts = {
   permalink: mdAnchor.permalink.headerLink({ safariReaderFix: true }),
-  level: 2
-}
+  level: 2,
+};
 
 // Markdown library with options
-const markdownLib = (mdLib) => mdLib
-  .use(mdAttrs)
-  .use(mdAnchor, mdAnchorOpts)
-  .use(mdDL)
-  .use(mdFN)
-;
+const markdownLib = (mdLib) =>
+  mdLib.use(mdAttrs).use(mdAnchor, mdAnchorOpts).use(mdDL).use(mdFN);
 
-module.exports = async function(eleventyConfig) {
-
+module.exports = async (eleventyConfig) => {
   /**
    * Miscellaneous
    */
 
-  const {EleventyRenderPlugin} = await import(`@11ty/eleventy`);
+  const { EleventyRenderPlugin } = await import(`@11ty/eleventy`);
 
-  if ( is_production ) {
+  if (is_production) {
     console.log(`Running PRODUCTION ENVIRONMENT`);
   } else {
     console.log(`Running DEVELOPMENT ENVIRONMENT`);
-  };
+  }
 
   // Require layout file extensions; see
   // https://www.11ty.dev/docs/layouts/#omitting-the-layouts-file-extension
@@ -69,10 +66,10 @@ module.exports = async function(eleventyConfig) {
    * Global data
    */
 
-  const siteURL        = `https://mercury.photo`;
-  const siteAuthor     = `Chris J. Zähller`;
-  const siteName       = `Mercury Photo Bureau`;
-  const siteDesc       = `Rangefinder + Mirrorless Digital + Large Format Film Photography + Music, Arts, & News`;
+  const siteURL = `https://mercury.photo`;
+  const siteAuthor = `Chris J. Zähller`;
+  const siteName = `Mercury Photo Bureau`;
+  const siteDesc = `Rangefinder + Mirrorless Digital + Large Format Film Photography + Music, Arts, & News`;
 
   const arr = [
     `"_SITEURL_": siteURL`,
@@ -81,13 +78,9 @@ module.exports = async function(eleventyConfig) {
     `"_SITEDESC_": siteDesc`,
   ];
 
-   arr.forEach(globalVar =>
-    eleventyConfig.addGlobalData(globalVar)
-  );
+  arr.forEach((globalVar) => eleventyConfig.addGlobalData(globalVar));
 
-  arr.forEach(globalVar =>
-    eleventyConfig.addNunjucksGlobal(globalVar)
-  );
+  arr.forEach((globalVar) => eleventyConfig.addNunjucksGlobal(globalVar));
 
   /**
    * END global data
@@ -99,25 +92,26 @@ module.exports = async function(eleventyConfig) {
 
   let browerslistArr;
 
-  if ( is_production ) {
+  if (is_production) {
     browerslistArr = `
       '> 0.2%',
       'Firefox ESR',
       'not dead',
-      'not op_mini all'`
+      'not op_mini all'`;
   } else {
     browerslistArr = `
       'last 1 chrome version',
       'last 1 edge version',
       'last 1 firefox version',
-      'last 1 safari version'`
-  };
+      'last 1 safari version'`;
+  }
 
-  const target = resolveToEsbuildTarget(browserslist(
-      'browserlist' [browerslistArr]
-    ), {
-    printUnknownTargets: false,
-  });
+  const target = resolveToEsbuildTarget(
+    browserslist('browserlist'[browerslistArr]),
+    {
+      printUnknownTargets: false,
+    },
+  );
 
   /**
    * END browserslist
@@ -153,28 +147,28 @@ module.exports = async function(eleventyConfig) {
       image: `/assets/images/site/mpb-logo.webp`,
       imageWithBaseUrl: true,
       twitterCardType: `summary_large_image`,
-      showPageNumbers: false
-    }
+      showPageNumbers: false,
+    },
   });
 
   // RSS Feed
-	eleventyConfig.addPlugin(feedPlugin, {
+  eleventyConfig.addPlugin(feedPlugin, {
     type: `atom`,
-		outputPath: `/feed.xml`,
-		collection: {
-			name: `posts`, // iterate over `collections.posts`
-			limit: 0,     // 0 means no limit
-		},
+    outputPath: `/feed.xml`,
+    collection: {
+      name: `posts`, // iterate over `collections.posts`
+      limit: 0, // 0 means no limit
+    },
     metadata: {
-			language: `en-US`,
-			title: siteName,
-			subtitle: siteDesc,
-			base: siteURL + `/`,
-			author: {
-				name: siteAuthor
-				// email: ``, // Optional
-			}
-		}
+      language: `en-US`,
+      title: siteName,
+      subtitle: siteDesc,
+      base: siteURL + `/`,
+      author: {
+        name: siteAuthor,
+        // email: ``, // Optional
+      },
+    },
   });
 
   /**
@@ -186,7 +180,7 @@ module.exports = async function(eleventyConfig) {
    */
 
   // Pagefind config; runs AFTER build
-  eleventyConfig.on(`eleventy.after`, async function ({ dir }) {
+  eleventyConfig.on(`eleventy.after`, async ({ dir }) => {
     const inputPath = dir.output;
     const outputPath = path.join(dir.output, `pagefind`);
 
@@ -200,7 +194,7 @@ module.exports = async function(eleventyConfig) {
     console.log(
       `Created Pagefind index of %i pages in %s`,
       page_count,
-      outputPath
+      outputPath,
     );
   });
 
@@ -213,7 +207,7 @@ module.exports = async function(eleventyConfig) {
    */
 
   // Transform images
-/*   eleventyConfig.addPlugin(eleventyImageTransformPlugin), {
+  /*   eleventyConfig.addPlugin(eleventyImageTransformPlugin), {
     failOnError: false,
 		// output image formats
 		formats: [`webp`, `jpeg`],
@@ -246,9 +240,8 @@ module.exports = async function(eleventyConfig) {
     loading,
     widths = [400, 800, 1200, `auto`],
     formats = [`webp`, `jpeg`],
-    sizes = `(min-width: 24rem) 90vw, 100vw`
+    sizes = `(min-width: 24rem) 90vw, 100vw`,
   ) {
-
     // Featured image attribute
     if (src === `featured`) {
       if (!this.ctx.image) {
@@ -256,7 +249,7 @@ module.exports = async function(eleventyConfig) {
       } else {
         src = `./src${this.ctx.image}`;
       }
-    };
+    }
 
     const imageMetadata = await Image(src, {
       widths: [...widths, null],
@@ -289,7 +282,7 @@ module.exports = async function(eleventyConfig) {
           type: sourceType,
           // srcset needs to be a comma-separated attribute
           srcset: images.map((image) => image.srcset).join(`, `),
-          sizes
+          sizes,
         });
 
         // Return one <source> per format
@@ -300,7 +293,7 @@ module.exports = async function(eleventyConfig) {
     const getLargestImage = (format) => {
       const images = imageMetadata[format];
       return images[images.length - 1];
-    }
+    };
 
     const largestUnoptimizedImg = getLargestImage(formats[0]);
     let imgAttributes;
@@ -340,7 +333,7 @@ module.exports = async function(eleventyConfig) {
         ${sourceHtmlString}
         ${imgHtmlString}
       </picture><figcaption>${caption}</figcaption></figure>`;
-    };
+    }
 
     return outdent`${picture}`;
   };
@@ -350,11 +343,11 @@ module.exports = async function(eleventyConfig) {
 
   // For inline SVG; see https://medium.com/@brettdewoody/inlining-svgs-in-eleventy-cffb1114e7b
   eleventyConfig.addNunjucksAsyncShortcode(`svgIcon`, async (src) => {
-    let metadata = await Image(src, {
+    const metadata = await Image(src, {
       formats: [`svg`],
       dryRun: true,
-    })
-    return metadata.svg[0].buffer.toString()
+    });
+    return metadata.svg[0].buffer.toString();
   });
 
   /**
@@ -368,7 +361,7 @@ module.exports = async function(eleventyConfig) {
   // JS  & CSS bundling, tree-shaking, & minification
 
   eleventyConfig.on(`eleventy.before`, async () => {
-    if( is_production ){
+    if (is_production) {
       await esbuild.build({
         entryPoints: [`src/assets/js/index.js`, `src/assets/css/index.css`],
         bundle: true,
@@ -376,24 +369,21 @@ module.exports = async function(eleventyConfig) {
         outdir: `_site/assets/`,
         sourcemap: true,
         minify: true,
-        target // From our constant, set at top of file
-    });
+        target, // From our constant, set at top of file
+      });
     } else {
       await esbuild.build({
         entryPoints: [`src/assets/js/index.js`, `src/assets/css/index.css`],
         bundle: true,
         treeShaking: true,
         outdir: `_site/assets/`,
-        target
+        target,
       });
     }
   });
 
   // JS inline minification
-  eleventyConfig.addNunjucksAsyncFilter(`jsmin`, async function (
-    code,
-    callback
-  ) {
+  eleventyConfig.addNunjucksAsyncFilter(`jsmin`, async (code, callback) => {
     try {
       const minified = await minify(code);
       callback(null, minified.code);
@@ -405,14 +395,14 @@ module.exports = async function(eleventyConfig) {
   });
 
   // HTML minification
-    eleventyConfig.addPlugin(eleventyPluginFilesMinifier);
+  eleventyConfig.addPlugin(eleventyPluginFilesMinifier);
 
   // Cache busting
-  if ( is_production ) {
+  if (is_production) {
     eleventyConfig.addPlugin(eleventyAutoCacheBuster, {
-      globstring: `**/*.{css,js,png,jpg,jpeg,gif,webp,svg,mp4,ico}`
+      globstring: `**/*.{css,js,png,jpg,jpeg,gif,webp,svg,mp4,ico}`,
     });
-  };
+  }
 
   /**
    * END minification & bundling
@@ -446,26 +436,26 @@ module.exports = async function(eleventyConfig) {
   eleventyConfig.addFilter(`toISOString`, toISOString);
 
   // Convert length to bytes
-  eleventyConfig.addAsyncFilter(`getImgSizeInBytes`, async function (value) {
-    const fileImg = await fetch(siteURL + value).then(r => r.blob());
+  eleventyConfig.addAsyncFilter(`getImgSizeInBytes`, async (value) => {
+    const fileImg = await fetch(siteURL + value).then((r) => r.blob());
 
     return fileImg.size;
   });
 
   // Sort blog entries
   function sortByPubDate(values) {
-    let vals = [...values];     // this *seems* to prevent collection mutation...
+    const vals = [...values]; // this *seems* to prevent collection mutation...
     return vals.sort((a, b) => Math.sign(a.data.pubdate - b.data.pubdate));
   }
 
   eleventyConfig.addFilter(`sortByPubDate`, sortByPubDate);
 
   // Tags index
-  eleventyConfig.addFilter(`taglist`, function(collection) {
+  eleventyConfig.addFilter(`taglist`, (collection) => {
     const ignoredTags = [`blog`, `all`, `ignore`];
     const tags = [];
-    collection.forEach(post => {
-        tags.push(...post.data.tags);
+    collection.forEach((post) => {
+      tags.push(...post.data.tags);
     });
     const sorted = [...new Set(tags)]
       .filter((tag) => !ignoredTags.includes(tag))
@@ -489,15 +479,18 @@ module.exports = async function(eleventyConfig) {
    */
 
   // Copy assets to build directory
-  [`src/assets/files/`, `src/assets/fonts/`, `src/assets/images/`, `src/assets/media/`].forEach(path =>
-    eleventyConfig.addPassthroughCopy(path)
-  );
+  [
+    `src/assets/files/`,
+    `src/assets/fonts/`,
+    `src/assets/images/`,
+    `src/assets/media/`,
+  ].forEach((path) => eleventyConfig.addPassthroughCopy(path));
 
   eleventyConfig.addPassthroughCopy({
     // Copy files from site root to `_site/` (Don't use backticks around key)
     'src/assets/images/site/favicon/*': `/`,
-    '_redirects': `/`,
-    'dislike404-verification.txt': `/`
+    _redirects: `/`,
+    'dislike404-verification.txt': `/`,
   });
 
   // Watch directories for changes

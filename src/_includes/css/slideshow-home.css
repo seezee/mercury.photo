@@ -1,9 +1,9 @@
 /**
-  * PURE RESPONSIVE CSS3 SLIDESHOW GALLERY adapted from Roko C. buljan
-  * http://stackoverflow.com/a/34696029/383904
-  * https://codepen.io/rokobuljan/pen/XXzqKQ
-  *
-  */
+ * PURE RESPONSIVE CSS3 SLIDESHOW GALLERY adapted from Roko C. buljan
+ * http://stackoverflow.com/a/34696029/383904
+ * https://codepen.io/rokobuljan/pen/XXzqKQ
+ *
+ */
 
 /* SLIDER */
 
@@ -51,34 +51,33 @@
   vertical-align: middle;
 }
 
-.slider-wrapper .prevNext > div+div {
+.slider-wrapper .prevNext > div + div {
   visibility: hidden; /* Hide all but first P/N container */
 }
 
 @media (prefers-reduced-motion) {
-
   .slider-wrapper .prevNext a {
-  -webkit-transition: 0s;
-          transition: 0s;
+    -webkit-transition: 0s;
+    transition: 0s;
   }
 }
 
 .slider-wrapper .prevNext a {
   background-color: #fff;
   position: absolute;
-  width:       3.75rem;
-  height:      3.75rem;
+  width: 3.75rem;
+  height: 3.75rem;
   line-height: 3.75rem; /* If you want to place numbers */
   text-align: center;
   opacity: 0.7;
   -webkit-transition: 0.3s;
-          transition: 0.3s;
+  transition: 0.3s;
   -webkit-transform: translateY(-50%);
-          transform: translateY(-50%);
+  transform: translateY(-50%);
   inset-inline-start: 0;
 }
 
-[data-theme='dark']  .slider-wrapper .prevNext a {
+[data-theme="dark"] .slider-wrapper .prevNext a {
   background-color: #000;
 }
 
@@ -86,7 +85,7 @@
   opacity: 1;
 }
 
-.slider-wrapper .prevNext a+a {
+.slider-wrapper .prevNext a + a {
   inset-inline-start: auto;
   inset-inline-end: 0;
 }
@@ -105,17 +104,17 @@
 
 .slider-wrapper .bullets > a {
   display: inline-block;
-  width:       2rem;
-  height:      2rem;
+  width: 2rem;
+  height: 2rem;
   line-height: 2rem;
   text-decoration: none;
   text-align: center;
   background: rgba(255, 255, 255, 1);
   -webkit-transition: 0.3s;
-          transition: 0.3s;
+  transition: 0.3s;
 }
 
-.slider-wrapper .bullets > a+a,
+.slider-wrapper .bullets > a + a,
 .slider-wrapper .bullets > a:first-child {
   background: rgba(255, 255, 255, 0.5); /* Dim all but first */
 }
@@ -158,16 +157,16 @@
 }
 
 /* ACTIVE: */
-#s0:target  ~ .prevNext > *:nth-child(1),
-#s1:target  ~ .prevNext > *:nth-child(2),
-#s2:target  ~ .prevNext > *:nth-child(3),
-#s3:target  ~ .prevNext > *:nth-child(4),
-#s4:target  ~ .prevNext > *:nth-child(5),
-#s5:target  ~ .prevNext > *:nth-child(6),
-#s6:target  ~ .prevNext > *:nth-child(7),
-#s7:target  ~ .prevNext > *:nth-child(8),
-#s8:target  ~ .prevNext > *:nth-child(9),
-#s9:target  ~ .prevNext > *:nth-child(10),
+#s0:target ~ .prevNext > *:nth-child(1),
+#s1:target ~ .prevNext > *:nth-child(2),
+#s2:target ~ .prevNext > *:nth-child(3),
+#s3:target ~ .prevNext > *:nth-child(4),
+#s4:target ~ .prevNext > *:nth-child(5),
+#s5:target ~ .prevNext > *:nth-child(6),
+#s6:target ~ .prevNext > *:nth-child(7),
+#s7:target ~ .prevNext > *:nth-child(8),
+#s8:target ~ .prevNext > *:nth-child(9),
+#s9:target ~ .prevNext > *:nth-child(10),
 #s10:target ~ .prevNext > *:nth-child(11),
 #s11:target ~ .prevNext > *:nth-child(12),
 #s12:target ~ .prevNext > *:nth-child(13),
@@ -261,7 +260,7 @@
 }
 /* More slides? Add here more rules */
 
-.slider-wrapper [id^='sw'] {
+.slider-wrapper [id^="sw"] {
   block-size: 100vh;
   background-repeat: no-repeat;
   background-position: center;
@@ -269,827 +268,810 @@
 }
 
 #sw0 {
-  background-image:
-    url('assets/images/site/slideshow/hero-00-640-1x.jpg');
+  background-image: url("assets/images/site/slideshow/hero-00-640-1x.jpg");
   background-image: image-set(
-    url('assets/images/site/slideshow/hero-00-640-1x.jpg') 1x,
-    url('assets/images/site/slideshow/hero-00-640-2x.jpg') 2x,
-    url('assets/images/site/slideshow/hero-00-640-1x.webp') 1x,
-    url('assets/images/site/slideshow/hero-00-640-2x.webp') 2x
+    url("assets/images/site/slideshow/hero-00-640-1x.jpg") 1x,
+    url("assets/images/site/slideshow/hero-00-640-2x.jpg") 2x,
+    url("assets/images/site/slideshow/hero-00-640-1x.webp") 1x,
+    url("assets/images/site/slideshow/hero-00-640-2x.webp") 2x
   );
 }
 
 #sw1 {
-  background-image:
-    url('assets/images/site/slideshow/hero-01-640-1x.jpg');
+  background-image: url("assets/images/site/slideshow/hero-01-640-1x.jpg");
   background-image: image-set(
-    url('assets/images/site/slideshow/hero-01-640-1x.jpg') 1x,
-    url('assets/images/site/slideshow/hero-01-640-2x.jpg') 2x,
-    url('assets/images/site/slideshow/hero-01-640-1x.webp') 1x,
-    url('assets/images/site/slideshow/hero-01-640-2x.webp') 2x
+    url("assets/images/site/slideshow/hero-01-640-1x.jpg") 1x,
+    url("assets/images/site/slideshow/hero-01-640-2x.jpg") 2x,
+    url("assets/images/site/slideshow/hero-01-640-1x.webp") 1x,
+    url("assets/images/site/slideshow/hero-01-640-2x.webp") 2x
   );
 }
 
 #sw2 {
-  background-image:
-    url('assets/images/site/slideshow/hero-02-640-1x.jpg');
+  background-image: url("assets/images/site/slideshow/hero-02-640-1x.jpg");
   background-image: image-set(
-    url('assets/images/site/slideshow/hero-02-640-1x.jpg') 1x,
-    url('assets/images/site/slideshow/hero-02-640-2x.jpg') 2x,
-    url('assets/images/site/slideshow/hero-02-640-1x.webp') 1x,
-    url('assets/images/site/slideshow/hero-02-640-2x.webp') 2x
+    url("assets/images/site/slideshow/hero-02-640-1x.jpg") 1x,
+    url("assets/images/site/slideshow/hero-02-640-2x.jpg") 2x,
+    url("assets/images/site/slideshow/hero-02-640-1x.webp") 1x,
+    url("assets/images/site/slideshow/hero-02-640-2x.webp") 2x
   );
 }
 
 #sw3 {
-  background-image:
-    url('assets/images/site/slideshow/hero-03-640-1x.jpg');
+  background-image: url("assets/images/site/slideshow/hero-03-640-1x.jpg");
   background-image: image-set(
-    url('assets/images/site/slideshow/hero-03-640-1x.jpg') 1x,
-    url('assets/images/site/slideshow/hero-03-640-2x.jpg') 2x,
-    url('assets/images/site/slideshow/hero-03-640-1x.webp') 1x,
-    url('assets/images/site/slideshow/hero-03-640-2x.webp') 2x
+    url("assets/images/site/slideshow/hero-03-640-1x.jpg") 1x,
+    url("assets/images/site/slideshow/hero-03-640-2x.jpg") 2x,
+    url("assets/images/site/slideshow/hero-03-640-1x.webp") 1x,
+    url("assets/images/site/slideshow/hero-03-640-2x.webp") 2x
   );
 }
 
 #sw4 {
-  background-image:
-    url('assets/images/site/slideshow/hero-04-640-1x.jpg');
+  background-image: url("assets/images/site/slideshow/hero-04-640-1x.jpg");
   background-image: image-set(
-    url('assets/images/site/slideshow/hero-04-640-1x.jpg') 1x,
-    url('assets/images/site/slideshow/hero-04-640-2x.jpg') 2x,
-    url('assets/images/site/slideshow/hero-04-640-1x.webp') 1x,
-    url('assets/images/site/slideshow/hero-04-640-2x.webp') 2x
+    url("assets/images/site/slideshow/hero-04-640-1x.jpg") 1x,
+    url("assets/images/site/slideshow/hero-04-640-2x.jpg") 2x,
+    url("assets/images/site/slideshow/hero-04-640-1x.webp") 1x,
+    url("assets/images/site/slideshow/hero-04-640-2x.webp") 2x
   );
 }
 
 #sw5 {
-  background-image:
-    url('assets/images/site/slideshow/hero-05-640-1x.jpg');
+  background-image: url("assets/images/site/slideshow/hero-05-640-1x.jpg");
   background-image: image-set(
-    url('assets/images/site/slideshow/hero-05-640-1x.jpg') 1x,
-    url('assets/images/site/slideshow/hero-05-640-2x.jpg') 2x,
-    url('assets/images/site/slideshow/hero-05-640-1x.webp') 1x,
-    url('assets/images/site/slideshow/hero-05-640-2x.webp') 2x
+    url("assets/images/site/slideshow/hero-05-640-1x.jpg") 1x,
+    url("assets/images/site/slideshow/hero-05-640-2x.jpg") 2x,
+    url("assets/images/site/slideshow/hero-05-640-1x.webp") 1x,
+    url("assets/images/site/slideshow/hero-05-640-2x.webp") 2x
   );
 }
 
 #sw6 {
-  background-image:
-    url('assets/images/site/slideshow/hero-06-640-1x.jpg');
+  background-image: url("assets/images/site/slideshow/hero-06-640-1x.jpg");
   background-image: image-set(
-    url('assets/images/site/slideshow/hero-06-640-1x.jpg') 1x,
-    url('assets/images/site/slideshow/hero-06-640-2x.jpg') 2x,
-    url('assets/images/site/slideshow/hero-06-640-1x.webp') 1x,
-    url('assets/images/site/slideshow/hero-06-640-2x.webp') 2x
+    url("assets/images/site/slideshow/hero-06-640-1x.jpg") 1x,
+    url("assets/images/site/slideshow/hero-06-640-2x.jpg") 2x,
+    url("assets/images/site/slideshow/hero-06-640-1x.webp") 1x,
+    url("assets/images/site/slideshow/hero-06-640-2x.webp") 2x
   );
 }
 
 #sw7 {
-  background-image:
-    url('assets/images/site/slideshow/hero-07-640-1x.jpg');
+  background-image: url("assets/images/site/slideshow/hero-07-640-1x.jpg");
   background-image: image-set(
-    url('assets/images/site/slideshow/hero-07-640-1x.jpg') 1x,
-    url('assets/images/site/slideshow/hero-07-640-2x.jpg') 2x,
-    url('assets/images/site/slideshow/hero-07-640-1x.webp') 1x,
-    url('assets/images/site/slideshow/hero-07-640-2x.webp') 2x
+    url("assets/images/site/slideshow/hero-07-640-1x.jpg") 1x,
+    url("assets/images/site/slideshow/hero-07-640-2x.jpg") 2x,
+    url("assets/images/site/slideshow/hero-07-640-1x.webp") 1x,
+    url("assets/images/site/slideshow/hero-07-640-2x.webp") 2x
   );
 }
 
 #sw8 {
-  background-image:
-    url('assets/images/site/slideshow/hero-08-640-1x.jpg');
+  background-image: url("assets/images/site/slideshow/hero-08-640-1x.jpg");
   background-image: image-set(
-    url('assets/images/site/slideshow/hero-08-640-1x.jpg') 1x,
-    url('assets/images/site/slideshow/hero-08-640-2x.jpg') 2x,
-    url('assets/images/site/slideshow/hero-08-640-1x.webp') 1x,
-    url('assets/images/site/slideshow/hero-08-640-2x.webp') 2x
+    url("assets/images/site/slideshow/hero-08-640-1x.jpg") 1x,
+    url("assets/images/site/slideshow/hero-08-640-2x.jpg") 2x,
+    url("assets/images/site/slideshow/hero-08-640-1x.webp") 1x,
+    url("assets/images/site/slideshow/hero-08-640-2x.webp") 2x
   );
 }
 
 #sw9 {
-  background-image:
-    url('assets/images/site/slideshow/hero-09-640-1x.jpg');
+  background-image: url("assets/images/site/slideshow/hero-09-640-1x.jpg");
   background-image: image-set(
-    url('assets/images/site/slideshow/hero-09-640-1x.jpg') 1x,
-    url('assets/images/site/slideshow/hero-09-640-2x.jpg') 2x,
-    url('assets/images/site/slideshow/hero-09-640-1x.webp') 1x,
-    url('assets/images/site/slideshow/hero-09-640-2x.webp') 2x
+    url("assets/images/site/slideshow/hero-09-640-1x.jpg") 1x,
+    url("assets/images/site/slideshow/hero-09-640-2x.jpg") 2x,
+    url("assets/images/site/slideshow/hero-09-640-1x.webp") 1x,
+    url("assets/images/site/slideshow/hero-09-640-2x.webp") 2x
   );
 }
 
 #sw10 {
-  background-image:
-    url('assets/images/site/slideshow/hero-10-640-1x.jpg');
+  background-image: url("assets/images/site/slideshow/hero-10-640-1x.jpg");
   background-image: image-set(
-    url('assets/images/site/slideshow/hero-10-640-1x.jpg') 1x,
-    url('assets/images/site/slideshow/hero-10-640-2x.jpg') 2x,
-    url('assets/images/site/slideshow/hero-10-640-1x.webp') 1x,
-    url('assets/images/site/slideshow/hero-10-640-2x.webp') 2x
+    url("assets/images/site/slideshow/hero-10-640-1x.jpg") 1x,
+    url("assets/images/site/slideshow/hero-10-640-2x.jpg") 2x,
+    url("assets/images/site/slideshow/hero-10-640-1x.webp") 1x,
+    url("assets/images/site/slideshow/hero-10-640-2x.webp") 2x
   );
 }
 
 #sw11 {
-  background-image:
-    url('assets/images/site/slideshow/hero-11-640-1x.jpg');
+  background-image: url("assets/images/site/slideshow/hero-11-640-1x.jpg");
   background-image: image-set(
-    url('assets/images/site/slideshow/hero-11-640-1x.jpg') 1x,
-    url('assets/images/site/slideshow/hero-11-640-2x.jpg') 2x,
-    url('assets/images/site/slideshow/hero-11-640-1x.webp') 1x,
-    url('assets/images/site/slideshow/hero-11-640-2x.webp') 2x
+    url("assets/images/site/slideshow/hero-11-640-1x.jpg") 1x,
+    url("assets/images/site/slideshow/hero-11-640-2x.jpg") 2x,
+    url("assets/images/site/slideshow/hero-11-640-1x.webp") 1x,
+    url("assets/images/site/slideshow/hero-11-640-2x.webp") 2x
   );
 }
 
 #sw12 {
-  background-image:
-    url('assets/images/site/slideshow/hero-12-640-1x.jpg');
+  background-image: url("assets/images/site/slideshow/hero-12-640-1x.jpg");
   background-image: image-set(
-    url('assets/images/site/slideshow/hero-12-640-1x.jpg') 1x,
-    url('assets/images/site/slideshow/hero-12-640-2x.jpg') 2x,
-    url('assets/images/site/slideshow/hero-12-640-1x.webp') 1x,
-    url('assets/images/site/slideshow/hero-12-640-2x.webp') 2x
+    url("assets/images/site/slideshow/hero-12-640-1x.jpg") 1x,
+    url("assets/images/site/slideshow/hero-12-640-2x.jpg") 2x,
+    url("assets/images/site/slideshow/hero-12-640-1x.webp") 1x,
+    url("assets/images/site/slideshow/hero-12-640-2x.webp") 2x
   );
 }
 
 #sw13 {
-  background-image:
-    url('assets/images/site/slideshow/hero-13-640-1x.jpg');
+  background-image: url("assets/images/site/slideshow/hero-13-640-1x.jpg");
   background-image: image-set(
-    url('assets/images/site/slideshow/hero-13-640-1x.jpg') 1x,
-    url('assets/images/site/slideshow/hero-13-640-2x.jpg') 2x,
-    url('assets/images/site/slideshow/hero-13-640-1x.webp') 1x,
-    url('assets/images/site/slideshow/hero-13-640-2x.webp') 2x
+    url("assets/images/site/slideshow/hero-13-640-1x.jpg") 1x,
+    url("assets/images/site/slideshow/hero-13-640-2x.jpg") 2x,
+    url("assets/images/site/slideshow/hero-13-640-1x.webp") 1x,
+    url("assets/images/site/slideshow/hero-13-640-2x.webp") 2x
   );
 }
 
 #sw14 {
-  background-image:
-    url('assets/images/site/slideshow/hero-14-640-1x.jpg');
+  background-image: url("assets/images/site/slideshow/hero-14-640-1x.jpg");
   background-image: image-set(
-    url('assets/images/site/slideshow/hero-14-640-1x.jpg') 1x,
-    url('assets/images/site/slideshow/hero-14-640-2x.jpg') 2x,
-    url('assets/images/site/slideshow/hero-14-640-1x.webp') 1x,
-    url('assets/images/site/slideshow/hero-14-640-2x.webp') 2x
+    url("assets/images/site/slideshow/hero-14-640-1x.jpg") 1x,
+    url("assets/images/site/slideshow/hero-14-640-2x.jpg") 2x,
+    url("assets/images/site/slideshow/hero-14-640-1x.webp") 1x,
+    url("assets/images/site/slideshow/hero-14-640-2x.webp") 2x
   );
 }
 
 #sw15 {
-  background-image:
-    url('assets/images/site/slideshow/hero-15-640-1x.jpg');
+  background-image: url("assets/images/site/slideshow/hero-15-640-1x.jpg");
   background-image: image-set(
-    url('assets/images/site/slideshow/hero-15-640-1x.jpg') 1x,
-    url('assets/images/site/slideshow/hero-15-640-2x.jpg') 2x,
-    url('assets/images/site/slideshow/hero-15-640-1x.webp') 1x,
-    url('assets/images/site/slideshow/hero-15-640-2x.webp') 2x
+    url("assets/images/site/slideshow/hero-15-640-1x.jpg") 1x,
+    url("assets/images/site/slideshow/hero-15-640-2x.jpg") 2x,
+    url("assets/images/site/slideshow/hero-15-640-1x.webp") 1x,
+    url("assets/images/site/slideshow/hero-15-640-2x.webp") 2x
   );
 }
 
 @media not print {
   @media (min-width: 641px) {
     #sw0 {
-      background-image: url('assets/images/site/slideshow/hero-00-768-1x.jpg');
+      background-image: url("assets/images/site/slideshow/hero-00-768-1x.jpg");
       background-image: image-set(
-        url('assets/images/site/slideshow/hero-00-768-1x.jpg') 1x,
-        url('assets/images/site/slideshow/hero-00-768-2x.jpg') 2x,
-        url('assets/images/site/slideshow/hero-00-768-1x.webp') 1x,
-        url('assets/images/site/slideshow/hero-00-768-2x.webp') 2x
+        url("assets/images/site/slideshow/hero-00-768-1x.jpg") 1x,
+        url("assets/images/site/slideshow/hero-00-768-2x.jpg") 2x,
+        url("assets/images/site/slideshow/hero-00-768-1x.webp") 1x,
+        url("assets/images/site/slideshow/hero-00-768-2x.webp") 2x
       );
     }
 
     #sw1 {
-      background-image: url('assets/images/site/slideshow/hero-01-768-1x.jpg');
+      background-image: url("assets/images/site/slideshow/hero-01-768-1x.jpg");
       background-image: image-set(
-        url('assets/images/site/slideshow/hero-01-768-1x.jpg') 1x,
-        url('assets/images/site/slideshow/hero-01-768-2x.jpg') 2x,
-        url('assets/images/site/slideshow/hero-01-768-1x.webp') 1x,
-        url('assets/images/site/slideshow/hero-01-768-2x.webp') 2x
+        url("assets/images/site/slideshow/hero-01-768-1x.jpg") 1x,
+        url("assets/images/site/slideshow/hero-01-768-2x.jpg") 2x,
+        url("assets/images/site/slideshow/hero-01-768-1x.webp") 1x,
+        url("assets/images/site/slideshow/hero-01-768-2x.webp") 2x
       );
     }
 
     #sw2 {
-      background-image: url('assets/images/site/slideshow/hero-02-768-1x.jpg');
+      background-image: url("assets/images/site/slideshow/hero-02-768-1x.jpg");
       background-image: image-set(
-        url('assets/images/site/slideshow/hero-02-768-1x.jpg') 1x,
-        url('assets/images/site/slideshow/hero-02-768-2x.jpg') 2x,
-        url('assets/images/site/slideshow/hero-02-768-1x.webp') 1x,
-        url('assets/images/site/slideshow/hero-02-768-2x.webp') 2x
+        url("assets/images/site/slideshow/hero-02-768-1x.jpg") 1x,
+        url("assets/images/site/slideshow/hero-02-768-2x.jpg") 2x,
+        url("assets/images/site/slideshow/hero-02-768-1x.webp") 1x,
+        url("assets/images/site/slideshow/hero-02-768-2x.webp") 2x
       );
     }
 
     #sw3 {
-      background-image: url('assets/images/site/slideshow/hero-03-768-1x.jpg');
+      background-image: url("assets/images/site/slideshow/hero-03-768-1x.jpg");
       background-image: image-set(
-        url('assets/images/site/slideshow/hero-03-768-1x.jpg') 1x,
-        url('assets/images/site/slideshow/hero-03-768-2x.jpg') 2x,
-        url('assets/images/site/slideshow/hero-03-768-1x.webp') 1x,
-        url('assets/images/site/slideshow/hero-03-768-2x.webp') 2x
+        url("assets/images/site/slideshow/hero-03-768-1x.jpg") 1x,
+        url("assets/images/site/slideshow/hero-03-768-2x.jpg") 2x,
+        url("assets/images/site/slideshow/hero-03-768-1x.webp") 1x,
+        url("assets/images/site/slideshow/hero-03-768-2x.webp") 2x
       );
     }
 
     #sw4 {
-      background-image: url('assets/images/site/slideshow/hero-04-768-1x.jpg');
+      background-image: url("assets/images/site/slideshow/hero-04-768-1x.jpg");
       background-image: image-set(
-        url('assets/images/site/slideshow/hero-04-768-1x.jpg') 1x,
-        url('assets/images/site/slideshow/hero-04-768-2x.jpg') 2x,
-        url('assets/images/site/slideshow/hero-04-768-1x.webp') 1x,
-        url('assets/images/site/slideshow/hero-04-768-2x.webp') 2x
+        url("assets/images/site/slideshow/hero-04-768-1x.jpg") 1x,
+        url("assets/images/site/slideshow/hero-04-768-2x.jpg") 2x,
+        url("assets/images/site/slideshow/hero-04-768-1x.webp") 1x,
+        url("assets/images/site/slideshow/hero-04-768-2x.webp") 2x
       );
     }
 
     #sw5 {
-      background-image: url('assets/images/site/slideshow/hero-05-768-1x.jpg');
+      background-image: url("assets/images/site/slideshow/hero-05-768-1x.jpg");
       background-image: image-set(
-        url('assets/images/site/slideshow/hero-05-768-1x.jpg') 1x,
-        url('assets/images/site/slideshow/hero-05-768-2x.jpg') 2x,
-        url('assets/images/site/slideshow/hero-05-768-1x.webp') 1x,
-        url('assets/images/site/slideshow/hero-05-768-2x.webp') 2x
+        url("assets/images/site/slideshow/hero-05-768-1x.jpg") 1x,
+        url("assets/images/site/slideshow/hero-05-768-2x.jpg") 2x,
+        url("assets/images/site/slideshow/hero-05-768-1x.webp") 1x,
+        url("assets/images/site/slideshow/hero-05-768-2x.webp") 2x
       );
     }
 
     #sw6 {
-      background-image: url('assets/images/site/slideshow/hero-07-768-1x.jpg');
+      background-image: url("assets/images/site/slideshow/hero-07-768-1x.jpg");
       background-image: image-set(
-        url('assets/images/site/slideshow/hero-06-768-1x.jpg') 1x,
-        url('assets/images/site/slideshow/hero-06-768-2x.jpg') 2x,
-        url('assets/images/site/slideshow/hero-06-768-1x.webp') 1x,
-        url('assets/images/site/slideshow/hero-06-768-2x.webp') 2x
+        url("assets/images/site/slideshow/hero-06-768-1x.jpg") 1x,
+        url("assets/images/site/slideshow/hero-06-768-2x.jpg") 2x,
+        url("assets/images/site/slideshow/hero-06-768-1x.webp") 1x,
+        url("assets/images/site/slideshow/hero-06-768-2x.webp") 2x
       );
     }
 
     #sw7 {
-      background-image: url('assets/images/site/slideshow/hero-07-768-1x.jpg');
+      background-image: url("assets/images/site/slideshow/hero-07-768-1x.jpg");
       background-image: image-set(
-        url('assets/images/site/slideshow/hero-07-768-1x.jpg') 1x,
-        url('assets/images/site/slideshow/hero-07-768-2x.jpg') 2x,
-        url('assets/images/site/slideshow/hero-07-768-1x.webp') 1x,
-        url('assets/images/site/slideshow/hero-07-768-2x.webp') 2x
+        url("assets/images/site/slideshow/hero-07-768-1x.jpg") 1x,
+        url("assets/images/site/slideshow/hero-07-768-2x.jpg") 2x,
+        url("assets/images/site/slideshow/hero-07-768-1x.webp") 1x,
+        url("assets/images/site/slideshow/hero-07-768-2x.webp") 2x
       );
     }
 
     #sw8 {
-      background-image: url('assets/images/site/slideshow/hero-08-768-1x.jpg');
+      background-image: url("assets/images/site/slideshow/hero-08-768-1x.jpg");
       background-image: image-set(
-        url('assets/images/site/slideshow/hero-08-768-1x.jpg') 1x,
-        url('assets/images/site/slideshow/hero-08-768-2x.jpg') 2x,
-        url('assets/images/site/slideshow/hero-08-768-1x.webp') 1x,
-        url('assets/images/site/slideshow/hero-08-768-2x.webp') 2x
+        url("assets/images/site/slideshow/hero-08-768-1x.jpg") 1x,
+        url("assets/images/site/slideshow/hero-08-768-2x.jpg") 2x,
+        url("assets/images/site/slideshow/hero-08-768-1x.webp") 1x,
+        url("assets/images/site/slideshow/hero-08-768-2x.webp") 2x
       );
     }
 
     #sw9 {
-      background-image: url('assets/images/site/slideshow/hero-09-768-1x.jpg');
+      background-image: url("assets/images/site/slideshow/hero-09-768-1x.jpg");
       background-image: image-set(
-        url('assets/images/site/slideshow/hero-09-768-1x.jpg') 1x,
-        url('assets/images/site/slideshow/hero-09-768-2x.jpg') 2x,
-        url('assets/images/site/slideshow/hero-09-768-1x.webp') 1x,
-        url('assets/images/site/slideshow/hero-09-768-2x.webp') 2x
+        url("assets/images/site/slideshow/hero-09-768-1x.jpg") 1x,
+        url("assets/images/site/slideshow/hero-09-768-2x.jpg") 2x,
+        url("assets/images/site/slideshow/hero-09-768-1x.webp") 1x,
+        url("assets/images/site/slideshow/hero-09-768-2x.webp") 2x
       );
     }
 
     #sw10 {
-      background-image: url('assets/images/site/slideshow/hero-10-768-1x.jpg');
+      background-image: url("assets/images/site/slideshow/hero-10-768-1x.jpg");
       background-image: image-set(
-        url('assets/images/site/slideshow/hero-10-768-1x.jpg') 1x,
-        url('assets/images/site/slideshow/hero-10-768-2x.jpg') 2x,
-        url('assets/images/site/slideshow/hero-10-768-1x.webp') 1x,
-        url('assets/images/site/slideshow/hero-10-768-2x.webp') 2x
+        url("assets/images/site/slideshow/hero-10-768-1x.jpg") 1x,
+        url("assets/images/site/slideshow/hero-10-768-2x.jpg") 2x,
+        url("assets/images/site/slideshow/hero-10-768-1x.webp") 1x,
+        url("assets/images/site/slideshow/hero-10-768-2x.webp") 2x
       );
     }
 
     #sw11 {
-      background-image: url('assets/images/site/slideshow/hero-11-768-1x.jpg');
+      background-image: url("assets/images/site/slideshow/hero-11-768-1x.jpg");
       background-image: image-set(
-        url('assets/images/site/slideshow/hero-11-768-1x.jpg') 1x,
-        url('assets/images/site/slideshow/hero-11-768-2x.jpg') 2x,
-        url('assets/images/site/slideshow/hero-11-768-1x.webp') 1x,
-        url('assets/images/site/slideshow/hero-11-768-2x.webp') 2x
+        url("assets/images/site/slideshow/hero-11-768-1x.jpg") 1x,
+        url("assets/images/site/slideshow/hero-11-768-2x.jpg") 2x,
+        url("assets/images/site/slideshow/hero-11-768-1x.webp") 1x,
+        url("assets/images/site/slideshow/hero-11-768-2x.webp") 2x
       );
     }
 
     #sw12 {
-      background-image: url('assets/images/site/slideshow/hero-12-768-1x.jpg');
+      background-image: url("assets/images/site/slideshow/hero-12-768-1x.jpg");
       background-image: image-set(
-        url('assets/images/site/slideshow/hero-12-768-1x.jpg') 1x,
-        url('assets/images/site/slideshow/hero-12-768-2x.jpg') 2x,
-        url('assets/images/site/slideshow/hero-12-768-1x.webp') 1x,
-        url('assets/images/site/slideshow/hero-12-768-2x.webp') 2x
+        url("assets/images/site/slideshow/hero-12-768-1x.jpg") 1x,
+        url("assets/images/site/slideshow/hero-12-768-2x.jpg") 2x,
+        url("assets/images/site/slideshow/hero-12-768-1x.webp") 1x,
+        url("assets/images/site/slideshow/hero-12-768-2x.webp") 2x
       );
     }
 
     #sw13 {
-      background-image: url('assets/images/site/slideshow/hero-13-768-1x.jpg');
+      background-image: url("assets/images/site/slideshow/hero-13-768-1x.jpg");
       background-image: image-set(
-        url('assets/images/site/slideshow/hero-13-768-1x.jpg') 1x,
-        url('assets/images/site/slideshow/hero-13-768-2x.jpg') 2x,
-        url('assets/images/site/slideshow/hero-13-768-1x.webp') 1x,
-        url('assets/images/site/slideshow/hero-13-768-2x.webp') 2x
+        url("assets/images/site/slideshow/hero-13-768-1x.jpg") 1x,
+        url("assets/images/site/slideshow/hero-13-768-2x.jpg") 2x,
+        url("assets/images/site/slideshow/hero-13-768-1x.webp") 1x,
+        url("assets/images/site/slideshow/hero-13-768-2x.webp") 2x
       );
     }
 
     #sw14 {
-      background-image: url('assets/images/site/slideshow/hero-14-768-1x.jpg');
+      background-image: url("assets/images/site/slideshow/hero-14-768-1x.jpg");
       background-image: image-set(
-        url('assets/images/site/slideshow/hero-14-768-1x.jpg') 1x,
-        url('assets/images/site/slideshow/hero-14-768-2x.jpg') 2x,
-        url('assets/images/site/slideshow/hero-14-768-1x.webp') 1x,
-        url('assets/images/site/slideshow/hero-14-768-2x.webp') 2x
+        url("assets/images/site/slideshow/hero-14-768-1x.jpg") 1x,
+        url("assets/images/site/slideshow/hero-14-768-2x.jpg") 2x,
+        url("assets/images/site/slideshow/hero-14-768-1x.webp") 1x,
+        url("assets/images/site/slideshow/hero-14-768-2x.webp") 2x
       );
     }
 
     #sw15 {
-      background-image: url('assets/images/site/slideshow/hero-15-768-1x.jpg');
+      background-image: url("assets/images/site/slideshow/hero-15-768-1x.jpg");
       background-image: image-set(
-        url('assets/images/site/slideshow/hero-15-768-1x.jpg') 1x,
-        url('assets/images/site/slideshow/hero-15-768-2x.jpg') 2x,
-        url('assets/images/site/slideshow/hero-15-768-1x.webp') 1x,
-        url('assets/images/site/slideshow/hero-15-768-2x.webp') 2x
+        url("assets/images/site/slideshow/hero-15-768-1x.jpg") 1x,
+        url("assets/images/site/slideshow/hero-15-768-2x.jpg") 2x,
+        url("assets/images/site/slideshow/hero-15-768-1x.webp") 1x,
+        url("assets/images/site/slideshow/hero-15-768-2x.webp") 2x
       );
     }
   }
 
   @media (min-width: 769px) {
-
     #sw-0 {
-      background-image: url('assets/images/site/slideshow/hero-00-1024-1x.jpg');
+      background-image: url("assets/images/site/slideshow/hero-00-1024-1x.jpg");
       background-image: image-set(
-        url('assets/images/site/slideshow/hero-00-1024-1x.jpg') 1x,
-        url('assets/images/site/slideshow/hero-00-1024-2x.jpg') 2x,
-        url('assets/images/site/slideshow/hero-00-1024-1x.webp') 1x,
-        url('assets/images/site/slideshow/hero-00-1024-2x.webp') 2x
+        url("assets/images/site/slideshow/hero-00-1024-1x.jpg") 1x,
+        url("assets/images/site/slideshow/hero-00-1024-2x.jpg") 2x,
+        url("assets/images/site/slideshow/hero-00-1024-1x.webp") 1x,
+        url("assets/images/site/slideshow/hero-00-1024-2x.webp") 2x
       );
     }
 
     #sw1 {
-      background-image: url('assets/images/site/slideshow/hero-01-1024-1x.jpg');
+      background-image: url("assets/images/site/slideshow/hero-01-1024-1x.jpg");
       background-image: image-set(
-        url('assets/images/site/slideshow/hero-01-1024-1x.jpg') 1x,
-        url('assets/images/site/slideshow/hero-01-1024-2x.jpg') 2x,
-        url('assets/images/site/slideshow/hero-01-1024-1x.webp') 1x,
-        url('assets/images/site/slideshow/hero-01-1024-2x.webp') 2x
+        url("assets/images/site/slideshow/hero-01-1024-1x.jpg") 1x,
+        url("assets/images/site/slideshow/hero-01-1024-2x.jpg") 2x,
+        url("assets/images/site/slideshow/hero-01-1024-1x.webp") 1x,
+        url("assets/images/site/slideshow/hero-01-1024-2x.webp") 2x
       );
     }
 
     #sw2 {
-      background-image: url('assets/images/site/slideshow/hero-02-1024-1x.jpg');
+      background-image: url("assets/images/site/slideshow/hero-02-1024-1x.jpg");
       background-image: image-set(
-        url('assets/images/site/slideshow/hero-02-1024-1x.jpg') 1x,
-        url('assets/images/site/slideshow/hero-02-1024-2x.jpg') 2x,
-        url('assets/images/site/slideshow/hero-02-1024-1x.webp') 1x,
-        url('assets/images/site/slideshow/hero-02-1024-2x.webp') 2x
+        url("assets/images/site/slideshow/hero-02-1024-1x.jpg") 1x,
+        url("assets/images/site/slideshow/hero-02-1024-2x.jpg") 2x,
+        url("assets/images/site/slideshow/hero-02-1024-1x.webp") 1x,
+        url("assets/images/site/slideshow/hero-02-1024-2x.webp") 2x
       );
     }
 
     #sw3 {
-      background-image: url('assets/images/site/slideshow/hero-03-1024-1x.jpg');
+      background-image: url("assets/images/site/slideshow/hero-03-1024-1x.jpg");
       background-image: image-set(
-        url('assets/images/site/slideshow/hero-03-1024-1x.jpg') 1x,
-        url('assets/images/site/slideshow/hero-03-1024-2x.jpg') 2x,
-        url('assets/images/site/slideshow/hero-03-1024-1x.webp') 1x,
-        url('assets/images/site/slideshow/hero-03-1024-2x.webp') 2x
+        url("assets/images/site/slideshow/hero-03-1024-1x.jpg") 1x,
+        url("assets/images/site/slideshow/hero-03-1024-2x.jpg") 2x,
+        url("assets/images/site/slideshow/hero-03-1024-1x.webp") 1x,
+        url("assets/images/site/slideshow/hero-03-1024-2x.webp") 2x
       );
     }
 
     #sw4 {
-      background-image: url('assets/images/site/slideshow/hero-04-1024-1x.jpg');
+      background-image: url("assets/images/site/slideshow/hero-04-1024-1x.jpg");
       background-image: image-set(
-        url('assets/images/site/slideshow/hero-04-1024-1x.jpg') 1x,
-        url('assets/images/site/slideshow/hero-04-1024-2x.jpg') 2x,
-        url('assets/images/site/slideshow/hero-04-1024-1x.webp') 1x,
-        url('assets/images/site/slideshow/hero-04-1024-2x.webp') 2x
+        url("assets/images/site/slideshow/hero-04-1024-1x.jpg") 1x,
+        url("assets/images/site/slideshow/hero-04-1024-2x.jpg") 2x,
+        url("assets/images/site/slideshow/hero-04-1024-1x.webp") 1x,
+        url("assets/images/site/slideshow/hero-04-1024-2x.webp") 2x
       );
     }
 
     #sw5 {
-      background-image: url('assets/images/site/slideshow/hero-05-1024-1x.jpg');
+      background-image: url("assets/images/site/slideshow/hero-05-1024-1x.jpg");
       background-image: image-set(
-        url('assets/images/site/slideshow/hero-05-1024-1x.jpg') 1x,
-        url('assets/images/site/slideshow/hero-05-1024-2x.jpg') 2x,
-        url('assets/images/site/slideshow/hero-05-1024-1x.webp') 1x,
-        url('assets/images/site/slideshow/hero-05-1024-2x.webp') 2x
+        url("assets/images/site/slideshow/hero-05-1024-1x.jpg") 1x,
+        url("assets/images/site/slideshow/hero-05-1024-2x.jpg") 2x,
+        url("assets/images/site/slideshow/hero-05-1024-1x.webp") 1x,
+        url("assets/images/site/slideshow/hero-05-1024-2x.webp") 2x
       );
     }
 
     #sw6 {
-       background-image: url('assets/images/site/slideshow/hero-06-1024-1x.jpg');
-     background-image: image-set(
-        url('assets/images/site/slideshow/hero-06-1024-1x.jpg') 1x,
-        url('assets/images/site/slideshow/hero-06-1024-2x.jpg') 2x,
-        url('assets/images/site/slideshow/hero-06-1024-1x.webp') 1x,
-        url('assets/images/site/slideshow/hero-06-1024-2x.webp') 2x
+      background-image: url("assets/images/site/slideshow/hero-06-1024-1x.jpg");
+      background-image: image-set(
+        url("assets/images/site/slideshow/hero-06-1024-1x.jpg") 1x,
+        url("assets/images/site/slideshow/hero-06-1024-2x.jpg") 2x,
+        url("assets/images/site/slideshow/hero-06-1024-1x.webp") 1x,
+        url("assets/images/site/slideshow/hero-06-1024-2x.webp") 2x
       );
     }
 
     #sw7 {
-      background-image: url('assets/images/site/slideshow/hero-07-1024-1x.jpg');
+      background-image: url("assets/images/site/slideshow/hero-07-1024-1x.jpg");
       background-image: image-set(
-        url('assets/images/site/slideshow/hero-07-1024-1x.jpg') 1x,
-        url('assets/images/site/slideshow/hero-07-1024-2x.jpg') 2x,
-        url('assets/images/site/slideshow/hero-07-1024-1x.webp') 1x,
-        url('assets/images/site/slideshow/hero-07-1024-2x.webp') 2x
+        url("assets/images/site/slideshow/hero-07-1024-1x.jpg") 1x,
+        url("assets/images/site/slideshow/hero-07-1024-2x.jpg") 2x,
+        url("assets/images/site/slideshow/hero-07-1024-1x.webp") 1x,
+        url("assets/images/site/slideshow/hero-07-1024-2x.webp") 2x
       );
     }
 
     #sw8 {
-      background-image: url('assets/images/site/slideshow/hero-08-1024-1x.jpg');
+      background-image: url("assets/images/site/slideshow/hero-08-1024-1x.jpg");
       background-image: image-set(
-        url('assets/images/site/slideshow/hero-08-1024-1x.jpg') 1x,
-        url('assets/images/site/slideshow/hero-08-1024-2x.jpg') 2x,
-        url('assets/images/site/slideshow/hero-08-1024-1x.webp') 1x,
-        url('assets/images/site/slideshow/hero-08-1024-2x.webp') 2x
+        url("assets/images/site/slideshow/hero-08-1024-1x.jpg") 1x,
+        url("assets/images/site/slideshow/hero-08-1024-2x.jpg") 2x,
+        url("assets/images/site/slideshow/hero-08-1024-1x.webp") 1x,
+        url("assets/images/site/slideshow/hero-08-1024-2x.webp") 2x
       );
     }
 
     #sw9 {
-      background-image: url('assets/images/site/slideshow/hero-09-1024-1x.jpg');
+      background-image: url("assets/images/site/slideshow/hero-09-1024-1x.jpg");
       background-image: image-set(
-        url('assets/images/site/slideshow/hero-09-1024-1x.jpg') 1x,
-        url('assets/images/site/slideshow/hero-09-1024-2x.jpg') 2x,
-        url('assets/images/site/slideshow/hero-09-1024-1x.webp') 1x,
-        url('assets/images/site/slideshow/hero-09-1024-2x.webp') 2x
+        url("assets/images/site/slideshow/hero-09-1024-1x.jpg") 1x,
+        url("assets/images/site/slideshow/hero-09-1024-2x.jpg") 2x,
+        url("assets/images/site/slideshow/hero-09-1024-1x.webp") 1x,
+        url("assets/images/site/slideshow/hero-09-1024-2x.webp") 2x
       );
     }
 
     #sw10 {
-      background-image: url('assets/images/site/slideshow/hero-10-1024-1x.jpg');
+      background-image: url("assets/images/site/slideshow/hero-10-1024-1x.jpg");
       background-image: image-set(
-        url('assets/images/site/slideshow/hero-10-1024-1x.jpg') 1x,
-        url('assets/images/site/slideshow/hero-10-1024-2x.jpg') 2x,
-        url('assets/images/site/slideshow/hero-10-1024-1x.webp') 1x,
-        url('assets/images/site/slideshow/hero-10-1024-2x.webp') 2x
+        url("assets/images/site/slideshow/hero-10-1024-1x.jpg") 1x,
+        url("assets/images/site/slideshow/hero-10-1024-2x.jpg") 2x,
+        url("assets/images/site/slideshow/hero-10-1024-1x.webp") 1x,
+        url("assets/images/site/slideshow/hero-10-1024-2x.webp") 2x
       );
     }
 
     #sw11 {
-      background-image: url('assets/images/site/slideshow/hero-11-1024-1x.jpg');
+      background-image: url("assets/images/site/slideshow/hero-11-1024-1x.jpg");
       background-image: image-set(
-        url('assets/images/site/slideshow/hero-11-1024-1x.jpg') 1x,
-        url('assets/images/site/slideshow/hero-11-1024-2x.jpg') 2x,
-        url('assets/images/site/slideshow/hero-11-1024-1x.webp') 1x,
-        url('assets/images/site/slideshow/hero-11-1024-2x.webp') 2x
+        url("assets/images/site/slideshow/hero-11-1024-1x.jpg") 1x,
+        url("assets/images/site/slideshow/hero-11-1024-2x.jpg") 2x,
+        url("assets/images/site/slideshow/hero-11-1024-1x.webp") 1x,
+        url("assets/images/site/slideshow/hero-11-1024-2x.webp") 2x
       );
     }
 
     #sw12 {
-      background-image: url('assets/images/site/slideshow/hero-12-1024-1x.jpg');
+      background-image: url("assets/images/site/slideshow/hero-12-1024-1x.jpg");
       background-image: image-set(
-        url('assets/images/site/slideshow/hero-12-1024-1x.jpg') 1x,
-        url('assets/images/site/slideshow/hero-12-1024-2x.jpg') 2x,
-        url('assets/images/site/slideshow/hero-12-1024-1x.webp') 1x,
-        url('assets/images/site/slideshow/hero-12-1024-2x.webp') 2x
+        url("assets/images/site/slideshow/hero-12-1024-1x.jpg") 1x,
+        url("assets/images/site/slideshow/hero-12-1024-2x.jpg") 2x,
+        url("assets/images/site/slideshow/hero-12-1024-1x.webp") 1x,
+        url("assets/images/site/slideshow/hero-12-1024-2x.webp") 2x
       );
     }
 
     #sw13 {
-      background-image: url('assets/images/site/slideshow/hero-13-1024-1x.jpg');
+      background-image: url("assets/images/site/slideshow/hero-13-1024-1x.jpg");
       background-image: image-set(
-        url('assets/images/site/slideshow/hero-13-1024-1x.jpg') 1x,
-        url('assets/images/site/slideshow/hero-13-1024-2x.jpg') 2x,
-        url('assets/images/site/slideshow/hero-13-1024-1x.webp') 1x,
-        url('assets/images/site/slideshow/hero-13-1024-2x.webp') 2x
+        url("assets/images/site/slideshow/hero-13-1024-1x.jpg") 1x,
+        url("assets/images/site/slideshow/hero-13-1024-2x.jpg") 2x,
+        url("assets/images/site/slideshow/hero-13-1024-1x.webp") 1x,
+        url("assets/images/site/slideshow/hero-13-1024-2x.webp") 2x
       );
     }
 
     #sw14 {
-      background-image: url('assets/images/site/slideshow/hero-14-1024-1x.jpg');
+      background-image: url("assets/images/site/slideshow/hero-14-1024-1x.jpg");
       background-image: image-set(
-        url('assets/images/site/slideshow/hero-14-1024-1x.jpg') 1x,
-        url('assets/images/site/slideshow/hero-14-1024-2x.jpg') 2x,
-        url('assets/images/site/slideshow/hero-14-1024-1x.webp') 1x,
-        url('assets/images/site/slideshow/hero-14-1024-2x.webp') 2x
+        url("assets/images/site/slideshow/hero-14-1024-1x.jpg") 1x,
+        url("assets/images/site/slideshow/hero-14-1024-2x.jpg") 2x,
+        url("assets/images/site/slideshow/hero-14-1024-1x.webp") 1x,
+        url("assets/images/site/slideshow/hero-14-1024-2x.webp") 2x
       );
     }
 
     #sw15 {
-      background-image: url('assets/images/site/slideshow/hero-15-1024-1x.jpg');
+      background-image: url("assets/images/site/slideshow/hero-15-1024-1x.jpg");
       background-image: image-set(
-        url('assets/images/site/slideshow/hero-15-1024-1x.jpg') 1x,
-        url('assets/images/site/slideshow/hero-15-1024-2x.jpg') 2x,
-        url('assets/images/site/slideshow/hero-15-1024-1x.webp') 1x,
-        url('assets/images/site/slideshow/hero-15-1024-2x.webp') 2x
+        url("assets/images/site/slideshow/hero-15-1024-1x.jpg") 1x,
+        url("assets/images/site/slideshow/hero-15-1024-2x.jpg") 2x,
+        url("assets/images/site/slideshow/hero-15-1024-1x.webp") 1x,
+        url("assets/images/site/slideshow/hero-15-1024-2x.webp") 2x
       );
     }
   }
 
   @media (min-width: 1025px) {
     #sw0 {
-      background-image: url('assets/images/site/slideshow/hero-00-1920-1x.jpg');
+      background-image: url("assets/images/site/slideshow/hero-00-1920-1x.jpg");
       background-image: image-set(
-        url('assets/images/site/slideshow/hero-00-1920-1x.jpg') 1x,
-        url('assets/images/site/slideshow/hero-00-1920-2x.jpg') 2x,
-        url('assets/images/site/slideshow/hero-00-1920-1x.webp') 1x,
-        url('assets/images/site/slideshow/hero-00-1920-2x.webp') 2x
+        url("assets/images/site/slideshow/hero-00-1920-1x.jpg") 1x,
+        url("assets/images/site/slideshow/hero-00-1920-2x.jpg") 2x,
+        url("assets/images/site/slideshow/hero-00-1920-1x.webp") 1x,
+        url("assets/images/site/slideshow/hero-00-1920-2x.webp") 2x
       );
     }
 
     #sw1 {
-      background-image: url('assets/images/site/slideshow/hero-01-1920-1x.jpg');
+      background-image: url("assets/images/site/slideshow/hero-01-1920-1x.jpg");
       background-image: image-set(
-        url('assets/images/site/slideshow/hero-01-1920-1x.jpg') 1x,
-        url('assets/images/site/slideshow/hero-01-1920-2x.jpg') 2x,
-        url('assets/images/site/slideshow/hero-01-1920-1x.webp') 1x,
-        url('assets/images/site/slideshow/hero-01-1920-2x.webp') 2x
+        url("assets/images/site/slideshow/hero-01-1920-1x.jpg") 1x,
+        url("assets/images/site/slideshow/hero-01-1920-2x.jpg") 2x,
+        url("assets/images/site/slideshow/hero-01-1920-1x.webp") 1x,
+        url("assets/images/site/slideshow/hero-01-1920-2x.webp") 2x
       );
     }
 
     #sw2 {
-      background-image: url('assets/images/site/slideshow/hero-02-1920-1x.jpg');
+      background-image: url("assets/images/site/slideshow/hero-02-1920-1x.jpg");
       background-image: image-set(
-        url('assets/images/site/slideshow/hero-02-1920-1x.jpg') 1x,
-        url('assets/images/site/slideshow/hero-02-1920-2x.jpg') 2x,
-        url('assets/images/site/slideshow/hero-02-1920-1x.webp') 1x,
-        url('assets/images/site/slideshow/hero-02-1920-2x.webp') 2x
+        url("assets/images/site/slideshow/hero-02-1920-1x.jpg") 1x,
+        url("assets/images/site/slideshow/hero-02-1920-2x.jpg") 2x,
+        url("assets/images/site/slideshow/hero-02-1920-1x.webp") 1x,
+        url("assets/images/site/slideshow/hero-02-1920-2x.webp") 2x
       );
     }
 
     #sw3 {
-      background-image: url('assets/images/site/slideshow/hero-03-1920-1x.jpg');
+      background-image: url("assets/images/site/slideshow/hero-03-1920-1x.jpg");
       background-image: image-set(
-        url('assets/images/site/slideshow/hero-03-1920-1x.jpg') 1x,
-        url('assets/images/site/slideshow/hero-03-1920-2x.jpg') 2x,
-        url('assets/images/site/slideshow/hero-03-1920-1x.webp') 1x,
-        url('assets/images/site/slideshow/hero-03-1920-2x.webp') 2x
+        url("assets/images/site/slideshow/hero-03-1920-1x.jpg") 1x,
+        url("assets/images/site/slideshow/hero-03-1920-2x.jpg") 2x,
+        url("assets/images/site/slideshow/hero-03-1920-1x.webp") 1x,
+        url("assets/images/site/slideshow/hero-03-1920-2x.webp") 2x
       );
     }
 
     #sw4 {
-      background-image: url('assets/images/site/slideshow/hero-04-1920-1x.jpg');
+      background-image: url("assets/images/site/slideshow/hero-04-1920-1x.jpg");
       background-image: image-set(
-        url('assets/images/site/slideshow/hero-04-1920-1x.jpg') 1x,
-        url('assets/images/site/slideshow/hero-04-1920-2x.jpg') 2x,
-        url('assets/images/site/slideshow/hero-04-1920-1x.webp') 1x,
-        url('assets/images/site/slideshow/hero-04-1920-2x.webp') 2x
+        url("assets/images/site/slideshow/hero-04-1920-1x.jpg") 1x,
+        url("assets/images/site/slideshow/hero-04-1920-2x.jpg") 2x,
+        url("assets/images/site/slideshow/hero-04-1920-1x.webp") 1x,
+        url("assets/images/site/slideshow/hero-04-1920-2x.webp") 2x
       );
     }
 
     #sw5 {
-      background-image: url('assets/images/site/slideshow/hero-05-1920-1x.jpg');
+      background-image: url("assets/images/site/slideshow/hero-05-1920-1x.jpg");
       background-image: image-set(
-        url('assets/images/site/slideshow/hero-05-1920-1x.jpg') 1x,
-        url('assets/images/site/slideshow/hero-05-1920-2x.jpg') 2x,
-        url('assets/images/site/slideshow/hero-05-1920-1x.webp') 1x,
-        url('assets/images/site/slideshow/hero-05-1920-2x.webp') 2x
+        url("assets/images/site/slideshow/hero-05-1920-1x.jpg") 1x,
+        url("assets/images/site/slideshow/hero-05-1920-2x.jpg") 2x,
+        url("assets/images/site/slideshow/hero-05-1920-1x.webp") 1x,
+        url("assets/images/site/slideshow/hero-05-1920-2x.webp") 2x
       );
     }
 
     #sw6 {
-      background-image: url('assets/images/site/slideshow/hero-06-1920-1x.jpg');
+      background-image: url("assets/images/site/slideshow/hero-06-1920-1x.jpg");
       background-image: image-set(
-        url('assets/images/site/slideshow/hero-06-1920-1x.jpg') 1x,
-        url('assets/images/site/slideshow/hero-06-1920-2x.jpg') 2x,
-        url('assets/images/site/slideshow/hero-06-1920-1x.webp') 1x,
-        url('assets/images/site/slideshow/hero-06-1920-2x.webp') 2x
+        url("assets/images/site/slideshow/hero-06-1920-1x.jpg") 1x,
+        url("assets/images/site/slideshow/hero-06-1920-2x.jpg") 2x,
+        url("assets/images/site/slideshow/hero-06-1920-1x.webp") 1x,
+        url("assets/images/site/slideshow/hero-06-1920-2x.webp") 2x
       );
     }
 
     #sw7 {
-      background-image: url('assets/images/site/slideshow/hero-07-1920-1x.jpg');
+      background-image: url("assets/images/site/slideshow/hero-07-1920-1x.jpg");
       background-image: image-set(
-        url('assets/images/site/slideshow/hero-07-1920-1x.jpg') 1x,
-        url('assets/images/site/slideshow/hero-07-1920-2x.jpg') 2x,
-        url('assets/images/site/slideshow/hero-07-1920-1x.webp') 1x,
-        url('assets/images/site/slideshow/hero-07-1920-2x.webp') 2x
+        url("assets/images/site/slideshow/hero-07-1920-1x.jpg") 1x,
+        url("assets/images/site/slideshow/hero-07-1920-2x.jpg") 2x,
+        url("assets/images/site/slideshow/hero-07-1920-1x.webp") 1x,
+        url("assets/images/site/slideshow/hero-07-1920-2x.webp") 2x
       );
     }
 
     #sw8 {
-      background-image: url('assets/images/site/slideshow/hero-08-1920-1x.jpg');
+      background-image: url("assets/images/site/slideshow/hero-08-1920-1x.jpg");
       background-image: image-set(
-        url('assets/images/site/slideshow/hero-08-1920-1x.jpg') 1x,
-        url('assets/images/site/slideshow/hero-08-1920-2x.jpg') 2x,
-        url('assets/images/site/slideshow/hero-08-1920-1x.webp') 1x,
-        url('assets/images/site/slideshow/hero-08-1920-2x.webp') 2x
+        url("assets/images/site/slideshow/hero-08-1920-1x.jpg") 1x,
+        url("assets/images/site/slideshow/hero-08-1920-2x.jpg") 2x,
+        url("assets/images/site/slideshow/hero-08-1920-1x.webp") 1x,
+        url("assets/images/site/slideshow/hero-08-1920-2x.webp") 2x
       );
     }
 
     #sw9 {
-      background-image: url('assets/images/site/slideshow/hero-09-1920-1x.jpg');
+      background-image: url("assets/images/site/slideshow/hero-09-1920-1x.jpg");
       background-image: image-set(
-        url('assets/images/site/slideshow/hero-09-1920-1x.jpg') 1x,
-        url('assets/images/site/slideshow/hero-09-1920-2x.jpg') 2x,
-        url('assets/images/site/slideshow/hero-09-1920-1x.webp') 1x,
-        url('assets/images/site/slideshow/hero-09-1920-2x.webp') 2x
+        url("assets/images/site/slideshow/hero-09-1920-1x.jpg") 1x,
+        url("assets/images/site/slideshow/hero-09-1920-2x.jpg") 2x,
+        url("assets/images/site/slideshow/hero-09-1920-1x.webp") 1x,
+        url("assets/images/site/slideshow/hero-09-1920-2x.webp") 2x
       );
     }
 
     #sw10 {
-      background-image: url('assets/images/site/slideshow/hero-10-1920-1x.jpg');
+      background-image: url("assets/images/site/slideshow/hero-10-1920-1x.jpg");
       background-image: image-set(
-        url('assets/images/site/slideshow/hero-10-1920-1x.jpg') 1x,
-        url('assets/images/site/slideshow/hero-10-1920-2x.jpg') 2x,
-        url('assets/images/site/slideshow/hero-10-1920-1x.webp') 1x,
-        url('assets/images/site/slideshow/hero-10-1920-2x.webp') 2x
+        url("assets/images/site/slideshow/hero-10-1920-1x.jpg") 1x,
+        url("assets/images/site/slideshow/hero-10-1920-2x.jpg") 2x,
+        url("assets/images/site/slideshow/hero-10-1920-1x.webp") 1x,
+        url("assets/images/site/slideshow/hero-10-1920-2x.webp") 2x
       );
     }
 
     #sw11 {
-      background-image: url('assets/images/site/slideshow/hero-11-1920-1x.jpg');
+      background-image: url("assets/images/site/slideshow/hero-11-1920-1x.jpg");
       background-image: image-set(
-        url('assets/images/site/slideshow/hero-11-1920-1x.jpg') 1x,
-        url('assets/images/site/slideshow/hero-11-1920-2x.jpg') 2x,
-        url('assets/images/site/slideshow/hero-11-1920-1x.webp') 1x,
-        url('assets/images/site/slideshow/hero-11-1920-2x.webp') 2x
+        url("assets/images/site/slideshow/hero-11-1920-1x.jpg") 1x,
+        url("assets/images/site/slideshow/hero-11-1920-2x.jpg") 2x,
+        url("assets/images/site/slideshow/hero-11-1920-1x.webp") 1x,
+        url("assets/images/site/slideshow/hero-11-1920-2x.webp") 2x
       );
     }
 
     #sw12 {
-      background-image: url('assets/images/site/slideshow/hero-12-1920-1x.jpg');
+      background-image: url("assets/images/site/slideshow/hero-12-1920-1x.jpg");
       background-image: image-set(
-        url('assets/images/site/slideshow/hero-12-1920-1x.jpg') 1x,
-        url('assets/images/site/slideshow/hero-12-1920-2x.jpg') 2x,
-        url('assets/images/site/slideshow/hero-12-1920-1x.webp') 1x,
-        url('assets/images/site/slideshow/hero-12-1920-2x.webp') 2x
+        url("assets/images/site/slideshow/hero-12-1920-1x.jpg") 1x,
+        url("assets/images/site/slideshow/hero-12-1920-2x.jpg") 2x,
+        url("assets/images/site/slideshow/hero-12-1920-1x.webp") 1x,
+        url("assets/images/site/slideshow/hero-12-1920-2x.webp") 2x
       );
     }
 
     #sw13 {
-      background-image: url('assets/images/site/slideshow/hero-13-1920-1x.jpg');
+      background-image: url("assets/images/site/slideshow/hero-13-1920-1x.jpg");
       background-image: image-set(
-        url('assets/images/site/slideshow/hero-13-1920-1x.jpg') 1x,
-        url('assets/images/site/slideshow/hero-13-1920-2x.jpg') 2x,
-        url('assets/images/site/slideshow/hero-13-1920-1x.webp') 1x,
-        url('assets/images/site/slideshow/hero-13-1920-2x.webp') 2x
+        url("assets/images/site/slideshow/hero-13-1920-1x.jpg") 1x,
+        url("assets/images/site/slideshow/hero-13-1920-2x.jpg") 2x,
+        url("assets/images/site/slideshow/hero-13-1920-1x.webp") 1x,
+        url("assets/images/site/slideshow/hero-13-1920-2x.webp") 2x
       );
     }
 
     #sw14 {
-      background-image: url('assets/images/site/slideshow/hero-14-1920-1x.jpg');
+      background-image: url("assets/images/site/slideshow/hero-14-1920-1x.jpg");
       background-image: image-set(
-        url('assets/images/site/slideshow/hero-14-1920-1x.jpg') 1x,
-        url('assets/images/site/slideshow/hero-14-1920-2x.jpg') 2x,
-        url('assets/images/site/slideshow/hero-14-1920-1x.webp') 1x,
-        url('assets/images/site/slideshow/hero-14-1920-2x.webp') 2x
+        url("assets/images/site/slideshow/hero-14-1920-1x.jpg") 1x,
+        url("assets/images/site/slideshow/hero-14-1920-2x.jpg") 2x,
+        url("assets/images/site/slideshow/hero-14-1920-1x.webp") 1x,
+        url("assets/images/site/slideshow/hero-14-1920-2x.webp") 2x
       );
     }
 
     #sw15 {
-      background-image: url('assets/images/site/slideshow/hero-15-1920-1x.jpg');
+      background-image: url("assets/images/site/slideshow/hero-15-1920-1x.jpg");
       background-image: image-set(
-        url('assets/images/site/slideshow/hero-15-1920-1x.jpg') 1x,
-        url('assets/images/site/slideshow/hero-15-1920-2x.jpg') 2x,
-        url('assets/images/site/slideshow/hero-15-1920-1x.webp') 1x,
-        url('assets/images/site/slideshow/hero-15-1920-2x.webp') 2x
+        url("assets/images/site/slideshow/hero-15-1920-1x.jpg") 1x,
+        url("assets/images/site/slideshow/hero-15-1920-2x.jpg") 2x,
+        url("assets/images/site/slideshow/hero-15-1920-1x.webp") 1x,
+        url("assets/images/site/slideshow/hero-15-1920-2x.webp") 2x
       );
     }
   }
 
   @media (min-width: 1921px) {
     #sw0 {
-      background-image: url('assets/images/site/slideshow/hero-00-1x.jpg');
+      background-image: url("assets/images/site/slideshow/hero-00-1x.jpg");
       background-image: image-set(
-        url('assets/images/site/slideshow/hero-00-1x.jpg') 1x,
-        url('assets/images/site/slideshow/hero-00-2x.jpg') 2x,
-        url('assets/images/site/slideshow/hero-00-1x.webp') 1x,
-        url('assets/images/site/slideshow/hero-00-2x.webp') 2x
+        url("assets/images/site/slideshow/hero-00-1x.jpg") 1x,
+        url("assets/images/site/slideshow/hero-00-2x.jpg") 2x,
+        url("assets/images/site/slideshow/hero-00-1x.webp") 1x,
+        url("assets/images/site/slideshow/hero-00-2x.webp") 2x
       );
     }
 
     #sw1 {
-      background-image: url('assets/images/site/slideshow/hero-01-1x.jpg');
+      background-image: url("assets/images/site/slideshow/hero-01-1x.jpg");
       background-image: image-set(
-        url('assets/images/site/slideshow/hero-01-1x.jpg') 1x,
-        url('assets/images/site/slideshow/hero-01-2x.jpg') 2x,
-        url('assets/images/site/slideshow/hero-01-1x.webp') 1x,
-        url('assets/images/site/slideshow/hero-01-2x.webp') 2x
+        url("assets/images/site/slideshow/hero-01-1x.jpg") 1x,
+        url("assets/images/site/slideshow/hero-01-2x.jpg") 2x,
+        url("assets/images/site/slideshow/hero-01-1x.webp") 1x,
+        url("assets/images/site/slideshow/hero-01-2x.webp") 2x
       );
     }
 
     #sw2 {
-      background-image: url('assets/images/site/slideshow/hero-02-1x.jpg');
+      background-image: url("assets/images/site/slideshow/hero-02-1x.jpg");
       background-image: image-set(
-        url('assets/images/site/slideshow/hero-02-1x.jpg') 1x,
-        url('assets/images/site/slideshow/hero-02-2x.jpg') 2x,
-        url('assets/images/site/slideshow/hero-02-1x.webp') 1x,
-        url('assets/images/site/slideshow/hero-02-2x.webp') 2x
+        url("assets/images/site/slideshow/hero-02-1x.jpg") 1x,
+        url("assets/images/site/slideshow/hero-02-2x.jpg") 2x,
+        url("assets/images/site/slideshow/hero-02-1x.webp") 1x,
+        url("assets/images/site/slideshow/hero-02-2x.webp") 2x
       );
     }
 
     #sw3 {
-      background-image: url('assets/images/site/slideshow/hero-03-1x.jpg');
+      background-image: url("assets/images/site/slideshow/hero-03-1x.jpg");
       background-image: image-set(
-        url('assets/images/site/slideshow/hero-03-1x.jpg') 1x,
-        url('assets/images/site/slideshow/hero-03-2x.jpg') 2x,
-        url('assets/images/site/slideshow/hero-03-1x.webp') 1x,
-        url('assets/images/site/slideshow/hero-03-2x.webp') 2x
+        url("assets/images/site/slideshow/hero-03-1x.jpg") 1x,
+        url("assets/images/site/slideshow/hero-03-2x.jpg") 2x,
+        url("assets/images/site/slideshow/hero-03-1x.webp") 1x,
+        url("assets/images/site/slideshow/hero-03-2x.webp") 2x
       );
     }
 
     #sw4 {
-      background-image: url('assets/images/site/slideshow/hero-04-1x.jpg');
+      background-image: url("assets/images/site/slideshow/hero-04-1x.jpg");
       background-image: image-set(
-        url('assets/images/site/slideshow/hero-04-1x.jpg') 1x,
-        url('assets/images/site/slideshow/hero-04-2x.jpg') 2x,
-        url('assets/images/site/slideshow/hero-04-1x.webp') 1x,
-        url('assets/images/site/slideshow/hero-04-2x.webp') 2x
+        url("assets/images/site/slideshow/hero-04-1x.jpg") 1x,
+        url("assets/images/site/slideshow/hero-04-2x.jpg") 2x,
+        url("assets/images/site/slideshow/hero-04-1x.webp") 1x,
+        url("assets/images/site/slideshow/hero-04-2x.webp") 2x
       );
     }
 
     #sw5 {
-      background-image: url('assets/images/site/slideshow/hero-05-1x.jpg');
+      background-image: url("assets/images/site/slideshow/hero-05-1x.jpg");
       background-image: image-set(
-        url('assets/images/site/slideshow/hero-05-1x.jpg') 1x,
-        url('assets/images/site/slideshow/hero-05-2x.jpg') 2x,
-        url('assets/images/site/slideshow/hero-05-1x.webp') 1x,
-        url('assets/images/site/slideshow/hero-05-2x.webp') 2x
+        url("assets/images/site/slideshow/hero-05-1x.jpg") 1x,
+        url("assets/images/site/slideshow/hero-05-2x.jpg") 2x,
+        url("assets/images/site/slideshow/hero-05-1x.webp") 1x,
+        url("assets/images/site/slideshow/hero-05-2x.webp") 2x
       );
     }
 
     #sw6 {
-      background-image: url('assets/images/site/slideshow/hero-06-1x.jpg');
+      background-image: url("assets/images/site/slideshow/hero-06-1x.jpg");
       background-image: image-set(
-        url('assets/images/site/slideshow/hero-06-1x.jpg') 1x,
-        url('assets/images/site/slideshow/hero-06-2x.jpg') 2x,
-        url('assets/images/site/slideshow/hero-06-1x.webp') 1x,
-        url('assets/images/site/slideshow/hero-06-2x.webp') 2x
+        url("assets/images/site/slideshow/hero-06-1x.jpg") 1x,
+        url("assets/images/site/slideshow/hero-06-2x.jpg") 2x,
+        url("assets/images/site/slideshow/hero-06-1x.webp") 1x,
+        url("assets/images/site/slideshow/hero-06-2x.webp") 2x
       );
     }
 
     #sw7 {
-      background-image: url('assets/images/site/slideshow/hero-07-1x.jpg');
+      background-image: url("assets/images/site/slideshow/hero-07-1x.jpg");
       background-image: image-set(
-        url('assets/images/site/slideshow/hero-07-1x.jpg') 1x,
-        url('assets/images/site/slideshow/hero-07-2x.jpg') 2x,
-        url('assets/images/site/slideshow/hero-07-1x.webp') 1x,
-        url('assets/images/site/slideshow/hero-07-2x.webp') 2x
+        url("assets/images/site/slideshow/hero-07-1x.jpg") 1x,
+        url("assets/images/site/slideshow/hero-07-2x.jpg") 2x,
+        url("assets/images/site/slideshow/hero-07-1x.webp") 1x,
+        url("assets/images/site/slideshow/hero-07-2x.webp") 2x
       );
     }
 
     #sw8 {
-      background-image: url('assets/images/site/slideshow/hero-08-1x.jpg');
+      background-image: url("assets/images/site/slideshow/hero-08-1x.jpg");
       background-image: image-set(
-        url('assets/images/site/slideshow/hero-08-1x.jpg') 1x,
-        url('assets/images/site/slideshow/hero-08-2x.jpg') 2x,
-        url('assets/images/site/slideshow/hero-08-1x.webp') 1x,
-        url('assets/images/site/slideshow/hero-08-2x.webp') 2x
+        url("assets/images/site/slideshow/hero-08-1x.jpg") 1x,
+        url("assets/images/site/slideshow/hero-08-2x.jpg") 2x,
+        url("assets/images/site/slideshow/hero-08-1x.webp") 1x,
+        url("assets/images/site/slideshow/hero-08-2x.webp") 2x
       );
     }
 
     #sw9 {
-      background-image: url('assets/images/site/slideshow/hero-09-1x.jpg');
+      background-image: url("assets/images/site/slideshow/hero-09-1x.jpg");
       background-image: image-set(
-        url('assets/images/site/slideshow/hero-09-1x.jpg') 1x,
-        url('assets/images/site/slideshow/hero-09-2x.jpg') 2x,
-        url('assets/images/site/slideshow/hero-09-1x.webp') 1x,
-        url('assets/images/site/slideshow/hero-09-2x.webp') 2x
+        url("assets/images/site/slideshow/hero-09-1x.jpg") 1x,
+        url("assets/images/site/slideshow/hero-09-2x.jpg") 2x,
+        url("assets/images/site/slideshow/hero-09-1x.webp") 1x,
+        url("assets/images/site/slideshow/hero-09-2x.webp") 2x
       );
     }
 
     #sw10 {
-      background-image: url('assets/images/site/slideshow/hero-10-1x.jpg');
+      background-image: url("assets/images/site/slideshow/hero-10-1x.jpg");
       background-image: image-set(
-        url('assets/images/site/slideshow/hero-10-1x.jpg') 1x,
-        url('assets/images/site/slideshow/hero-10-2x.jpg') 2x,
-        url('assets/images/site/slideshow/hero-10-1x.webp') 1x,
-        url('assets/images/site/slideshow/hero-10-2x.webp') 2x
+        url("assets/images/site/slideshow/hero-10-1x.jpg") 1x,
+        url("assets/images/site/slideshow/hero-10-2x.jpg") 2x,
+        url("assets/images/site/slideshow/hero-10-1x.webp") 1x,
+        url("assets/images/site/slideshow/hero-10-2x.webp") 2x
       );
     }
 
     #sw11 {
-      background-image: url('assets/images/site/slideshow/hero-11-1x.jpg');
+      background-image: url("assets/images/site/slideshow/hero-11-1x.jpg");
       background-image: image-set(
-        url('assets/images/site/slideshow/hero-11-1x.jpg') 1x,
-        url('assets/images/site/slideshow/hero-11-2x.jpg') 2x,
-        url('assets/images/site/slideshow/hero-11-1x.webp') 1x,
-        url('assets/images/site/slideshow/hero-11-2x.webp') 2x
+        url("assets/images/site/slideshow/hero-11-1x.jpg") 1x,
+        url("assets/images/site/slideshow/hero-11-2x.jpg") 2x,
+        url("assets/images/site/slideshow/hero-11-1x.webp") 1x,
+        url("assets/images/site/slideshow/hero-11-2x.webp") 2x
       );
     }
 
     #sw12 {
-      background-image: url('assets/images/site/slideshow/hero-12-1x.jpg');
+      background-image: url("assets/images/site/slideshow/hero-12-1x.jpg");
       background-image: image-set(
-        url('assets/images/site/slideshow/hero-12-1x.jpg') 1x,
-        url('assets/images/site/slideshow/hero-12-2x.jpg') 2x,
-        url('assets/images/site/slideshow/hero-12-1x.webp') 1x,
-        url('assets/images/site/slideshow/hero-12-2x.webp') 2x
+        url("assets/images/site/slideshow/hero-12-1x.jpg") 1x,
+        url("assets/images/site/slideshow/hero-12-2x.jpg") 2x,
+        url("assets/images/site/slideshow/hero-12-1x.webp") 1x,
+        url("assets/images/site/slideshow/hero-12-2x.webp") 2x
       );
     }
 
     #sw13 {
-      background-image: url('assets/images/site/slideshow/hero-13-1x.jpg');
+      background-image: url("assets/images/site/slideshow/hero-13-1x.jpg");
       background-image: image-set(
-        url('assets/images/site/slideshow/hero-13-1x.jpg') 1x,
-        url('assets/images/site/slideshow/hero-13-2x.jpg') 2x,
-        url('assets/images/site/slideshow/hero-13-1x.webp') 1x,
-        url('assets/images/site/slideshow/hero-13-2x.webp') 2x
+        url("assets/images/site/slideshow/hero-13-1x.jpg") 1x,
+        url("assets/images/site/slideshow/hero-13-2x.jpg") 2x,
+        url("assets/images/site/slideshow/hero-13-1x.webp") 1x,
+        url("assets/images/site/slideshow/hero-13-2x.webp") 2x
       );
     }
 
     #sw14 {
-      background-image: url('assets/images/site/slideshow/hero-14-1x.jpg');
+      background-image: url("assets/images/site/slideshow/hero-14-1x.jpg");
       background-image: image-set(
-        url('assets/images/site/slideshow/hero-14-1x.jpg') 1x,
-        url('assets/images/site/slideshow/hero-14-2x.jpg') 2x,
-        url('assets/images/site/slideshow/hero-14-1x.webp') 1x,
-        url('assets/images/site/slideshow/hero-14-2x.webp') 2x
+        url("assets/images/site/slideshow/hero-14-1x.jpg") 1x,
+        url("assets/images/site/slideshow/hero-14-2x.jpg") 2x,
+        url("assets/images/site/slideshow/hero-14-1x.webp") 1x,
+        url("assets/images/site/slideshow/hero-14-2x.webp") 2x
       );
     }
 
     #sw15 {
-      background-image: url('assets/images/site/slideshow/hero-15-1x.jpg');
+      background-image: url("assets/images/site/slideshow/hero-15-1x.jpg");
       background-image: image-set(
-        url('assets/images/site/slideshow/hero-15-1x.jpg') 1x,
-        url('assets/images/site/slideshow/hero-15-2x.jpg') 2x,
-        url('assets/images/site/slideshow/hero-15-1x.webp') 1x,
-        url('assets/images/site/slideshow/hero-15-2x.webp') 2x
+        url("assets/images/site/slideshow/hero-15-1x.jpg") 1x,
+        url("assets/images/site/slideshow/hero-15-2x.jpg") 2x,
+        url("assets/images/site/slideshow/hero-15-1x.webp") 1x,
+        url("assets/images/site/slideshow/hero-15-2x.webp") 2x
       );
     }
   }
@@ -1099,7 +1081,7 @@
 .slider-wrapper [id^="watermark"] {
   position: absolute;
   background-repeat: repeat;
-  opacity: .5;
+  opacity: 0.5;
 }
 
 .slider-wrapper #overlay {
@@ -1112,14 +1094,14 @@
 }
 
 .slider-wrapper #overlay {
-  background-image: url('assets/images/site/slideshow/overlay.svg');
+  background-image: url("assets/images/site/slideshow/overlay.svg");
   background-size: 12rem;
   inline-size: 1600%;
   block-size: 100vh;
 }
 
 .slider-wrapper [id^="watermark"] {
-  background-image: url('assets/images/site/slideshow/watermark.svg');
+  background-image: url("assets/images/site/slideshow/watermark.svg");
   background-position: center;
   background-repeat: no-repeat;
   background-size: 30vw;
@@ -1178,7 +1160,7 @@
 }
 
 #watermark14 {
-  inset-inline-start:1400%;
+  inset-inline-start: 1400%;
 }
 
 #watermark15 {
@@ -1188,7 +1170,7 @@
 .slider-wrapper a {
   border-radius: 50%;
   margin: 0 3px;
-  color: rgba(0,0,0,0.8);
+  color: rgba(0, 0, 0, 0.8);
   text-decoration: none;
 }
 

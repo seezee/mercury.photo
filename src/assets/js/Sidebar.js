@@ -13,12 +13,14 @@ export default class Sidebar extends HTMLElement {
     super();
     this.render = () => {
       if (!this.contentMin.includes('%')) {
-        console.warn('The value for each <sidebar-l> `contentMin` property should be a percentage. Otherwise overflow is likely to occur');
+        console.warn(
+          'The value for each <sidebar-l> `contentMin` property should be a percentage. Otherwise overflow is likely to occur',
+        );
       }
       this.i = `Sidebar-${[this.side, this.sideWidth, this.contentMin, this.space].join('')}`;
       this.dataset.i = this.i;
       if (!document.getElementById(this.i)) {
-        let styleEl = document.createElement('style');
+        const styleEl = document.createElement('style');
         styleEl.id = this.i;
         styleEl.innerHTML = `
           [data-i="${this.i}"] {
@@ -35,10 +37,12 @@ export default class Sidebar extends HTMLElement {
             flex-grow: 999;
             min-inline-size: ${this.contentMin};
           }
-        `.replace(/\s\s+/g, ' ').trim();
+        `
+          .replace(/\s\s+/g, ' ')
+          .trim();
         document.head.appendChild(styleEl);
       }
-    }
+    };
   }
 
   get side() {

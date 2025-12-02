@@ -11,29 +11,29 @@ export default class DialogImage extends HTMLElement {
 
   connectedCallback() {
     // Get elements, should be one of each only.
-    const image         = this.querySelector(`img`);
-    const altAttr       = image.getAttribute(`alt`);
-    const imageUrl      = image.getAttribute(`src`);
+    const image = this.querySelector(`img`);
+    const altAttr = image.getAttribute(`alt`);
+    const imageUrl = image.getAttribute(`src`);
 
-    let split           = imageUrl.split('.');
+    const split = imageUrl.split('.');
     split.pop();
-    let imageUrlTrimmed = split.join(".");
+    const imageUrlTrimmed = split.join('.');
 
-    const fig           = image.parentNode.parentNode;
-    const caption       = this.querySelector(`figcaption`);
-    const captionText   = caption.innerText;
+    const fig = image.parentNode.parentNode;
+    const caption = this.querySelector(`figcaption`);
+    const captionText = caption.innerText;
 
-    if(!image) {
+    if (!image) {
       console.warn(`mpb-dialog-img: No image found. Exiting.`);
       return; // Bail early.
     }
 
-    if(!altAttr) {
+    if (!altAttr) {
       alert(`Image is missing alt attribute!`);
     }
 
     // Create the dialog.
-    let modal = document.createElement(`dialog`);
+    const modal = document.createElement(`dialog`);
     modal.setAttribute(`class`, `image-modal`);
     modal.setAttribute(`closedby`, `any`);
     // `method="dialog"` captures the button click and closes the dialog.
@@ -61,7 +61,7 @@ export default class DialogImage extends HTMLElement {
     // but immediately after.
     fig.parentNode.insertBefore(modal, fig.nextSibling);
 
-    let closeButton = this.querySelector(`button`);
+    const closeButton = this.querySelector(`button`);
 
     // Add attribute for accessibility
     image.setAttribute(`tabindex`, `0`);
@@ -78,7 +78,9 @@ export default class DialogImage extends HTMLElement {
     });
 
     // Listen for the enter key click.
-    image.addEventListener(`keydown`, (e) => {
+    image.addEventListener(
+      `keydown`,
+      (e) => {
         switch (e.key) {
           case `Enter`:
             e.preventDefault();
@@ -105,7 +107,9 @@ export default class DialogImage extends HTMLElement {
     });
 
     // Listen for the escape key click.
-    window.addEventListener(`keydown`, (e) => {
+    window.addEventListener(
+      `keydown`,
+      (e) => {
         if (e.defaultPrevented) {
           return;
         }
@@ -127,7 +131,11 @@ export default class DialogImage extends HTMLElement {
       // Get the dialog boundaries
       const rect = modal.getBoundingClientRect();
       // Define dialog inner boundary.
-      const isInDialog = (rect.top <= e.clientY && e.clientY <= rect.top + rect.height && rect.left <= e.clientX && e.clientX <= rect.left + rect.width);
+      const isInDialog =
+        rect.top <= e.clientY &&
+        e.clientY <= rect.top + rect.height &&
+        rect.left <= e.clientX &&
+        e.clientX <= rect.left + rect.width;
 
       // If the click is not inside the boundary, close the dialog.
       if (!isInDialog) {
@@ -139,7 +147,7 @@ export default class DialogImage extends HTMLElement {
           return;
         } else {
           modal?.close();
-        };
+        }
       }
     });
   }

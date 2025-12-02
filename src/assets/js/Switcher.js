@@ -12,7 +12,7 @@ export default class Switcher extends HTMLElement {
       this.i = `Switcher-${[this.threshold, this.space, this.limit].join('')}`;
       this.dataset.i = this.i;
       if (!document.getElementById(this.i)) {
-        let styleEl = document.createElement('style');
+        const styleEl = document.createElement('style');
         styleEl.id = this.i;
         styleEl.innerHTML = `
           [data-i="${this.i}"] {
@@ -27,10 +27,12 @@ export default class Switcher extends HTMLElement {
           [data-i="${this.i}"] > :nth-last-child(n+${parseInt(this.limit) + 1}) ~ * {
             flex-basis: 100%;
           }
-        `.replace(/\s\s+/g, ' ').trim();
+        `
+          .replace(/\s\s+/g, ' ')
+          .trim();
         document.head.appendChild(styleEl);
       }
-    }
+    };
   }
   get threshold() {
     return this.getAttribute('threshold') || 'var(--measure)';
@@ -70,6 +72,5 @@ export default class Switcher extends HTMLElement {
 }
 
 if ('customElements' in window) {
-  
   customElements.define('switcher-l', Switcher);
 }

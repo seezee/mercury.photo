@@ -15,26 +15,34 @@ export default class Center extends HTMLElement {
       this.i = `Center-${[this.max, this.andText, this.gutters, this.intrinsic].join('')}`;
       this.dataset.i = this.i;
       if (!document.getElementById(this.i)) {
-        let styleEl = document.createElement('style');
+        const styleEl = document.createElement('style');
         styleEl.id = this.i;
         styleEl.innerHTML = `
           [data-i="${this.i}"] {
             max-width: ${this.max};
-            ${this.gutters ? `
+            ${
+              this.gutters
+                ? `
             padding-inline-start: ${this.gutters};
             padding-inline-end: ${this.gutters};`
-            : ''}
+                : ''
+            }
             ${this.andText ? `text-align: center;` : ''}
-            ${this.intrinsic ? `
+            ${
+              this.intrinsic
+                ? `
             display: flex;
             flex-direction: column;
             align-items: safe center;`
-            : ''}
+                : ''
+            }
           }
-        `.replace(/\s\s+/g, ' ').trim();
+        `
+          .replace(/\s\s+/g, ' ')
+          .trim();
         document.head.appendChild(styleEl);
       }
-    }
+    };
   }
 
   get max() {
@@ -91,6 +99,5 @@ export default class Center extends HTMLElement {
 }
 
 if ('customElements' in window) {
-
   customElements.define('center-l', Center);
 }

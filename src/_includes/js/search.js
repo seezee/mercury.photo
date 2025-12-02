@@ -1,15 +1,15 @@
 // /src/_includes/search.js
 
-(function (document) {
+((document) => {
   `use strict`;
 
-  const form         = document.querySelector(`.pagefind-ui__form`);
-  const label        = document.createElement(`label`);
-  const searchField  = document.querySelector(`.pagefind-ui__search-input`);
-  const hint         = document.createElement(`div`);
+  const form = document.querySelector(`.pagefind-ui__form`);
+  const label = document.createElement(`label`);
+  const searchField = document.querySelector(`.pagefind-ui__search-input`);
+  const hint = document.createElement(`div`);
   // const results      = document.querySelector(`.pagefind-ui__drawer`);
-  const clearButton  = document.querySelector(`.pagefind-ui__search-clear`);
-  const resLink      = document.getElementById(`results-link`);
+  const clearButton = document.querySelector(`.pagefind-ui__search-clear`);
+  const resLink = document.getElementById(`results-link`);
 
   form.setAttribute(`class`, `field`);
   form.insertBefore(label, form.children[0]);
@@ -30,8 +30,7 @@
   hint.setAttribute(`id`, `search-hint__wrapper`);
   hint.innerHTML = `<kbd>⌘</kbd><kbd>K</kbd>`;
 
-  clearButton.addEventListener(`click`, function() {
-
+  clearButton.addEventListener(`click`, () => {
     clearButton.classList.add(`hide`);
     clearButton.setAttribute(`aria-hidden`, `true`);
 
@@ -47,14 +46,14 @@
       const key = e.key;
       if (e.defaultPrevented) {
         return; // Do nothing if the event was already processed
-      };
+      }
 
-      if ((e.metaKey) && (key == `k`)) {
+      if (e.metaKey && key == `k`) {
         e.preventDefault();
         searchField.focus();
       } else {
         return;
-      };
+      }
 
       // Cancel the default action to avoid it being handled twice
       e.preventDefault();
@@ -62,27 +61,23 @@
     true,
   );
 
-  searchField.addEventListener(
-    `focusin`,
-    (e) => {
+  searchField.addEventListener(`focusin`, (e) => {
     hint.classList.add(`hide`);
     hint.setAttribute(`aria-hidden`, `true`);
     clearButton.classList.remove(`hide`);
     clearButton.removeAttribute(`aria-hidden`);
   });
 
-  searchField.addEventListener(
-    `focusout`,
-    (e) => {
+  searchField.addEventListener(`focusout`, (e) => {
     let clearButtonIsFocused = false;
     clearButton.addEventListener(`focusin`, (e) => {
       clearButtonIsFocused = true;
-      if ((searchField.value !== ``) || (clearButtonIsFocused === true)) {
+      if (searchField.value !== `` || clearButtonIsFocused === true) {
         return;
       } else {
         hint.classList.remove(`hide`);
         hint.removeAttribute(`aria-hidden`);
-      };
+      }
     });
   });
 })(document);

@@ -4,7 +4,7 @@
  * A custom element to be positioned absolutely over any element
  * @property {boolean} breakout=false Whether the element is allowed to break out of the container over which it is positioned
  * @property {string} margin=0 The minimum space between the element and the inside edges of the positioning container over which it is placed (where `breakout` is not applied)
-  * @property {boolean} fixed=false Whether to position the element relative to the viewport
+ * @property {boolean} fixed=false Whether to position the element relative to the viewport
  */
 export default class Imposter extends HTMLElement {
   constructor() {
@@ -12,25 +12,33 @@ export default class Imposter extends HTMLElement {
     this.render = () => {
       this.i = `Imposter-${[this.breakout, this.fixed, this.margin].join('')}`;
       this.dataset.i = this.i;
-      let margin = this.margin === '0' ? '0px' : this.margin;
+      const margin = this.margin === '0' ? '0px' : this.margin;
       if (!document.getElementById(this.i) && (!this.breakout || this.fixed)) {
-        let styleEl = document.createElement('style');
+        const styleEl = document.createElement('style');
         styleEl.id = this.i;
         styleEl.innerHTML = `
           [data-i="${this.i}"] {
-            ${!this.breakout ? `
+            ${
+              !this.breakout
+                ? `
               max-inline-size: calc(100% - (${margin} * 2));
               max-block-size: calc(100% - (${margin} * 2));
               overflow: auto;`
-            : ''}
-            ${this.fixed ? `
+                : ''
+            }
+            ${
+              this.fixed
+                ? `
               position: fixed;`
-            : ''}
+                : ''
+            }
           }
-        `.replace(/\s\s+/g, ' ').trim();
+        `
+          .replace(/\s\s+/g, ' ')
+          .trim();
         document.head.appendChild(styleEl);
       }
-    }
+    };
   }
 
   get breakout() {

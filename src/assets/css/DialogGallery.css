@@ -2,12 +2,12 @@
 
 :root {
   mpb-dialog-gallery {
-    dialog{
+    dialog {
       --mpb-shadow-color: var(--mpb-shadow-color-modal);
     }
   }
 
-  &[data-theme='dark'] {
+  &[data-theme="dark"] {
     --mpb-shadow-color-modal: 0deg 13% 0%;
 
     mpb-dialog-gallery {
@@ -29,9 +29,9 @@ mpb-dialog-gallery {
     border-radius: var(--mpb-radius-2x);
 
     &:hover {
-      opacity: .5;
+      opacity: 0.5;
     }
-   }
+  }
 
   dialog {
     /* Variables for animation;
@@ -66,7 +66,8 @@ mpb-dialog-gallery {
       backdrop-filter: blur(16px);
       /* End value for fade out. */
       opacity: 0;
-      transition: opacity var(--duration),
+      transition:
+        opacity var(--duration),
         overlay var(--duration) allow-discrete,
         display var(--duration) allow-discrete;
     }
@@ -93,10 +94,9 @@ mpb-dialog-gallery {
       box-shadow: var(--mpb-shadow-elevation-med);
 
       &.current {
-        filter: grayscale(.9);
-        opacity: .66;
-        outline:  var(--mpb-color-accent) dotted var(--s-5);
-
+        filter: grayscale(0.9);
+        opacity: 0.66;
+        outline: var(--mpb-color-accent) dotted var(--s-5);
       }
 
       &:focus-visible {
@@ -111,8 +111,6 @@ mpb-dialog-gallery {
         border: var(--s1) solid var(--mpb-photo-border-color);
       }
     }
-
-
 
     .gallery--img_main .gallery--thumbs,
     .gallery--thumbs img {
@@ -189,7 +187,7 @@ mpb-dialog-gallery {
     }
 
     /* Media Queries */
-    @media(max-width: 600px) {
+    @media (max-width: 600px) {
       .gallery--thumbs {
         grid-template-columns: repeat(4, 1fr);
       }

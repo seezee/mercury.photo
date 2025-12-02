@@ -14,17 +14,19 @@ export default class Frame extends HTMLElement {
       this.i = `Frame-${[this.ratio].join('')}`;
       this.dataset.i = this.i;
       if (!document.getElementById(this.i)) {
-        let ratio = this.ratio.split(':');
-        let styleEl = document.createElement('style');
+        const ratio = this.ratio.split(':');
+        const styleEl = document.createElement('style');
         styleEl.id = this.i;
         styleEl.innerHTML = `
           [data-i="${this.i}"] {
             aspect-ratio: ${ratio[0]} / ${ratio[1]};
           }
-        `.replace(/\s\s+/g, ' ').trim();
+        `
+          .replace(/\s\s+/g, ' ')
+          .trim();
         document.head.appendChild(styleEl);
       }
-    }
+    };
   }
 
   get ratio() {

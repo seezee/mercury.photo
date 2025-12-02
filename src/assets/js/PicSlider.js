@@ -10,72 +10,84 @@ export default class picSlider extends HTMLElement {
   }
 
   connectedCallback() {
-    let aspect             = this.getAttribute(`aspect`);
-    let color              = this.getAttribute(`color`);
-    let bgColor            = this.getAttribute(`bg-color`);
-    let alpha              = this.getAttribute(`alpha`);
+    const aspect = this.getAttribute(`aspect`);
+    let color = this.getAttribute(`color`);
+    let bgColor = this.getAttribute(`bg-color`);
+    let alpha = this.getAttribute(`alpha`);
     // Get the two images.
-    const image1           = this.querySelector(`img:nth-of-type(1)`);
-    const image2           = this.querySelector(`img:nth-of-type(2)`);
-    const container        = document.createElement(`div`);
+    const image1 = this.querySelector(`img:nth-of-type(1)`);
+    const image2 = this.querySelector(`img:nth-of-type(2)`);
+    const container = document.createElement(`div`);
     // <p> = parent to the images created by the Gov. U.K. plugin.
     const p = this.firstChild;
-    const containerInner   = document.createElement(`div`);
-    const picslider        = document.createElement(`input`);
-    const picsliderValue   = document.createElement(`output`);
-    const sliderLineTop    = document.createElement(`div`);
+    const containerInner = document.createElement(`div`);
+    const picslider = document.createElement(`input`);
+    const picsliderValue = document.createElement(`output`);
+    const sliderLineTop = document.createElement(`div`);
     const sliderLineBottom = document.createElement(`div`);
-    const sliderButton     = document.createElement(`div`);
+    const sliderButton = document.createElement(`div`);
     // Note the namespaced syntax for creating SVGs and their elements.
-    const sliderIcon       = document.createElementNS(`http://www.w3.org/2000/svg`, `svg`);
-    const sliderIconOld    = document.createElementNS(`http://www.w3.org/2000/svg`, `svg`);
-    const circle           = document.createElementNS(`http://www.w3.org/2000/svg`, `circle`);
-    const arrows           = document.createElementNS(`http://www.w3.org/2000/svg`, `path`);
+    const sliderIcon = document.createElementNS(
+      `http://www.w3.org/2000/svg`,
+      `svg`,
+    );
+    const sliderIconOld = document.createElementNS(
+      `http://www.w3.org/2000/svg`,
+      `svg`,
+    );
+    const circle = document.createElementNS(
+      `http://www.w3.org/2000/svg`,
+      `circle`,
+    );
+    const arrows = document.createElementNS(
+      `http://www.w3.org/2000/svg`,
+      `path`,
+    );
 
     // Bail early if either image is missing.
-    if(!image1 || !image2) {
+    if (!image1 || !image2) {
       console.warn(`mpb-dialog-img: Did not find two images. Exiting.`);
       return;
     }
 
     // Warn if one of the images is missing.
-    if(!image1.src || !image1.src) {
+    if (!image1.src || !image1.src) {
       alert(`Image is missing src attribute!`);
     }
 
     // Warn if alt attr is missing.
-    if(!image1.alt || !image1.alt) {
+    if (!image1.alt || !image1.alt) {
       alert(`Image is missing alt attribute!`);
-    };
+    }
 
     // Set the class if it is missing.
     if (!image1.classList) {
-      image1.setAttribute(`class`, ``)
+      image1.setAttribute(`class`, ``);
     } else if (!image1.classList) {
-      image2.setAttribute(`class`, ``)
-    };
+      image2.setAttribute(`class`, ``);
+    }
 
     // Add classes.
     image1.classList.add(`picslider-img`, `picslider-img-before`);
     image2.classList.add(`picslider-img`, `picslider-img-after`);
 
-    if(color) {
+    if (color) {
       color = color;
     } else {
       color = `#000`;
-    };
+    }
 
-    if(bgColor) {
+    if (bgColor) {
       bgColor = bgColor;
     } else {
       bgColor = `rgba(255 255 255 / .5)`;
-    };
+    }
 
-    if(alpha) {
+    if (alpha) {
       alpha = alpha;
     } else {
       alpha = `.5`;
-    };
+    }
 
     // Add the div to the custom element.
     container.setAttribute(`class`, `picslider-outer`);
@@ -84,7 +96,7 @@ export default class picSlider extends HTMLElement {
     // Create & render the inner div.
     containerInner.classList.add(`picslider-inner`);
     container.append(containerInner);
-    if(aspect) {
+    if (aspect) {
       containerInner.style.aspectRatio = aspect;
     } else {
       containerInner.style.aspectRatio = `1 / 1`;
@@ -123,12 +135,12 @@ export default class picSlider extends HTMLElement {
     // Create & render the vertical divider.
     sliderLineTop.classList.add(`picslider-line-top`);
     sliderLineTop.ariaHidden = true; // Boolean; note camelCase.
-    sliderLineTop.style.setProperty(`--bg-color`, `${bgColor}`)
-    sliderLineTop.style.setProperty(`--alpha`, `${alpha}`)
+    sliderLineTop.style.setProperty(`--bg-color`, `${bgColor}`);
+    sliderLineTop.style.setProperty(`--alpha`, `${alpha}`);
     sliderLineBottom.classList.add(`picslider-line-bottom`);
     sliderLineBottom.ariaHidden = true; // Boolean; note camelCase.
-    sliderLineBottom.style.setProperty(`--bg-color`, `${bgColor}`)
-    sliderLineBottom.style.setProperty(`--alpha`, `${alpha}`)
+    sliderLineBottom.style.setProperty(`--bg-color`, `${bgColor}`);
+    sliderLineBottom.style.setProperty(`--alpha`, `${alpha}`);
     containerInner.append(sliderLineTop);
     containerInner.append(sliderLineBottom);
 
@@ -142,7 +154,11 @@ export default class picSlider extends HTMLElement {
     // Create the icon. See
     // https://stackoverflow.com/questions/41975044/how-can-i-set-a-viewbox-on-an-svg-element-created-with-javascript &
     // https://stackoverflow.com/questions/52571125/setattributens-xmlns-of-svg-for-a-general-purpose-library
-    sliderIcon.setAttributeNS(`http://www.w3.org/2000/xmlns/`, `xmlns`, `http://www.w3.org/2000/svg`)
+    sliderIcon.setAttributeNS(
+      `http://www.w3.org/2000/xmlns/`,
+      `xmlns`,
+      `http://www.w3.org/2000/svg`,
+    );
     sliderIcon.setAttribute(`width`, `50`);
     sliderIcon.setAttribute(`height`, `50`);
     sliderIcon.setAttribute(`fill`, `none`);
@@ -157,7 +173,10 @@ export default class picSlider extends HTMLElement {
     sliderIcon.append(circle);
 
     // Render the icon arrows.
-    arrows.setAttribute(`d`, `M25 14.688v20.624M21.25 25h-9.375m3.75 3.75L11.875 25l3.75-3.75M28.75 25h9.375m-3.75-3.75 3.75 3.75-3.75 3.75`);
+    arrows.setAttribute(
+      `d`,
+      `M25 14.688v20.624M21.25 25h-9.375m3.75 3.75L11.875 25l3.75-3.75M28.75 25h9.375m-3.75-3.75 3.75 3.75-3.75 3.75`,
+    );
     arrows.setAttribute(`fill`, `none`);
     arrows.setAttribute(`stroke`, `${color}`);
     arrows.setAttribute(`stroke-linecap`, `round`);
@@ -170,7 +189,10 @@ export default class picSlider extends HTMLElement {
     // Listen for the changes to the range input.
     picslider.addEventListener(`input`, (e) => {
       container.style.setProperty(`--position`, `${e.target.value}%`);
-      this.querySelector(`.picslider-value`).setAttribute(`value`, `${e.target.value}%`);
+      this.querySelector(`.picslider-value`).setAttribute(
+        `value`,
+        `${e.target.value}%`,
+      );
       this.querySelector(`.picslider-value`).innerText = `${e.target.value}%`;
     });
   }

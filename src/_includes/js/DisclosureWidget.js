@@ -19,24 +19,24 @@ if (widgetWrapper) {
       <button class="widget__btn" id="btn-${
         idx + 1
       }" data-btn-idx="${idx}" aria-controls="panel-${idx + 1}">${
-      el.firstElementChild.textContent
-    }</button></h3>
+        el.firstElementChild.textContent
+      }</button></h3>
       <stack-l class="widget__panel" id="panel-${
         idx + 1
       }" data-panel-idx="${idx}" aria-labelledby="btn-${idx + 1}">${
-      el.lastElementChild.innerHTML
-    }</stack-l>`;
+        el.lastElementChild.innerHTML
+      }</stack-l>`;
   });
   baseHTML = `<div class="widget__controls-wrapper">${baseHTML}</div>`;
 
   widgetWrapper.innerHTML = ``;
   widgetWrapper.insertAdjacentHTML(`afterbegin`, baseHTML);
   const widgetControlsWrapper = widgetWrapper.querySelector(
-    `.widget__controls-wrapper`
+    `.widget__controls-wrapper`,
   );
   const widgetBtns = Array.from(widgetWrapper.querySelectorAll(`.widget__btn`));
   const widgetPanels = Array.from(
-    widgetWrapper.querySelectorAll(`.widget__panel`)
+    widgetWrapper.querySelectorAll(`.widget__panel`),
   );
 
   const createAccordions = () => {
@@ -55,11 +55,11 @@ if (widgetWrapper) {
       btn.removeAttribute(`aria-posinset`);
       btn.removeAttribute(`aria-selected`);
       btn.parentElement.after(
-        widgetWrapper.querySelector(`[aria-labelledby="${btn.id}"]`)
+        widgetWrapper.querySelector(`[aria-labelledby="${btn.id}"]`),
       );
     });
 
-    widgetPanels.forEach(panel => {
+    widgetPanels.forEach((panel) => {
       panel.setAttribute(`role`, `region`);
       panel.removeAttribute(`tabindex`);
       panel.removeAttribute(`hidden`);
@@ -87,7 +87,7 @@ if (widgetWrapper) {
         ? panel.setAttribute(`tabindex`, `0`)
         : panel.setAttribute(`hidden`, ``);
     });
-    widgetPanels.reverse().forEach(el => widgetControlsWrapper.after(el));
+    widgetPanels.reverse().forEach((el) => widgetControlsWrapper.after(el));
   };
 
   function handleClickOnBtns(evt) {
@@ -103,8 +103,8 @@ if (widgetWrapper) {
     }
   }
 
-  setActiveTab = activeTab => {
-    widgetBtns.forEach(tab => {
+  setActiveTab = (activeTab) => {
+    widgetBtns.forEach((tab) => {
       if (tab === activeTab) {
         tab.setAttribute(`aria-selected`, `true`);
         tab.removeAttribute(`tabindex`);
@@ -137,7 +137,9 @@ if (widgetWrapper) {
       evt.target.hasAttribute(`role`)
         ? (next = `ArrowRight`)
         : (next = `ArrowDown`);
-      evt.target.hasAttribute(`role`) ? (prev = `ArrowLeft`) : (prev = `ArrowUp`);
+      evt.target.hasAttribute(`role`)
+        ? (prev = `ArrowLeft`)
+        : (prev = `ArrowUp`);
 
       if (evt.key === next && currentIdx < widgetBtns.length - 1) {
         evt.target.hasAttribute(`role`)
@@ -160,11 +162,11 @@ if (widgetWrapper) {
     }
   }
 
-  window.addEventListener(`DOMContentLoaded`, evt => {
+  window.addEventListener(`DOMContentLoaded`, (evt) => {
     mq.matches ? createAccordions() : createTabs();
   });
 
-  mq.addEventListener(`change`, evt => {
+  mq.addEventListener(`change`, (evt) => {
     let currentFocus = document.activeElement;
 
     if (currentFocus.closest(`.widget__wrapper`)) {
@@ -175,7 +177,7 @@ if (widgetWrapper) {
         currentFocus = widgetWrapper.querySelector(`[data-btn-idx="${open}"]`);
       } else if (currentFocus.closest(`.widget__panel`)) {
         open = Number(
-          currentFocus.closest(`.widget__panel`).getAttribute(`data-panel-idx`)
+          currentFocus.closest(`.widget__panel`).getAttribute(`data-panel-idx`),
         );
       }
     }
