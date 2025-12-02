@@ -45,6 +45,8 @@ ___
 
 This site was hand-coded with the static site generator [Eleventy](https://www.11ty.dev/){target=_blank rel="external noopener"} on a foundation of HTML, CSS, and JavaScript. It was mostly authored in Markdown. The site templates make liberal use of Nunjucks.
 
+The layout as it appears wider screens is inspired by [Edward Tufte’s](https://www.edwardtufte.com/){target=_blank rel="external noopener"} sidenotes and margin notes.
+
 The body copy is set in [Merriweather](https://github.com/SorkinType/Merriweather){target=_blank rel="external noopener"}, a typeface designed by Eben Sorkin and released in <time time="2010">2010</time>. Sorkin describes the typeface as offering a Renaissance warmth while using space-saving proportions.
 
 Headings are set in [Playfair Display](https://github.com/clauseggers/Playfair-Display){target=_blank rel="external noopener"}, a transitional typeface designed by Claus Eggers Sørensen and released in <time time="2010">2011</time>. According to Sørensen, the typeface <q>takes influence from the designs of John Baskerville and from ‘Scotch Roman’ designs.</q>
