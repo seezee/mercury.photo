@@ -3,7 +3,7 @@
 
   background-color: var(--mpb-alert-color-background);
   border: 0 solid var(--mpb-alert-border-color);
-  border-left-width: var(--mpb-alert-border-width);
+  border-inline-start-width: var(--mpb-alert-border-width);
   border-radius: var(--mpb-radius-2x);
   box-shadow: var(--mpb-global-shadow-color);
 

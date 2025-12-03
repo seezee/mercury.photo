@@ -64,7 +64,7 @@ input.picslider {
   height: calc(50% - 24.5px);
   background-color: var(--bg-color);
   opacity: var(--alpha);
-  left: var(--position);
+  inset-inline-start: var(--position);
   transform: translateX(-50%);
   pointer-events: none;
 }
@@ -83,7 +83,7 @@ input.picslider {
   display: grid;
   place-items: center;
   top: 50%;
-  left: var(--position);
+  inset-inline-start: var(--position);
   transform: translate(-50%, -50%);
   width: 50px;
   pointer-events: none;

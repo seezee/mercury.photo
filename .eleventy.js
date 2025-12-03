@@ -45,12 +45,6 @@ module.exports = async (eleventyConfig) => {
 
   const { EleventyRenderPlugin } = await import(`@11ty/eleventy`);
 
-  if (is_production) {
-    console.log(`Running PRODUCTION ENVIRONMENT`);
-  } else {
-    console.log(`Running DEVELOPMENT ENVIRONMENT`);
-  }
-
   // Require layout file extensions; see
   // https://www.11ty.dev/docs/layouts/#omitting-the-layouts-file-extension
   eleventyConfig.setLayoutResolution(false);
@@ -184,14 +178,14 @@ module.exports = async (eleventyConfig) => {
     const inputPath = dir.output;
     const outputPath = path.join(dir.output, `pagefind`);
 
-    console.log(`Creating Pagefind index of %s`, inputPath);
+    console.info(`Creating Pagefind index of %s`, inputPath);
 
     const pagefind = await import(`pagefind`);
     const { index } = await pagefind.createIndex();
     const { page_count } = await index.addDirectory({ path: inputPath });
     await index.writeFiles({ outputPath });
 
-    console.log(
+    console.info(
       `Created Pagefind index of %i pages in %s`,
       page_count,
       outputPath,

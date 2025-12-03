@@ -23,6 +23,7 @@
  * 19. Wedding prices
  * 20. Social
  * 21. Comments
+ * 22. Type specimen
  */
 
 #home {
@@ -114,7 +115,7 @@ noscript div {
   align-items: safe center;
   display: flex;
   gap: 4px;
-  justify-content: right;
+  justify-content:end;
   pointer-events: none;
   position: absolute;
   inset-inline-start: 10.3rem;
@@ -297,7 +298,7 @@ https://web.dev/articles/building/a-theme-switch-component */
   display: flex;
   align-items: safe center;
   position: relative;
-  text-align: left;
+  text-align: start;
 }
 
 ul ul .navigation__item {
@@ -1211,4 +1212,26 @@ li[id^="mn:"] {
 #cusdis_thread iframe {
   block-size: 100vh;
   max-block-size: 600px;
+}
+
+/* Type specimen */
+
+.specimen {
+
+  p:first-of-type {
+  padding-block: var(--s2);
+  border: 1px solid currentColor;
+  font-size: var(--mpb-font-size-5);
+  letter-spacing: .3ch;
+  line-height: 1.1;
+  background-color: var(--mpb-color-textReverse);
+
+    span {
+      line-height: 1.4;
+    }
+  }
+
+  figcaption {
+    text-align: start;
+  }
 }

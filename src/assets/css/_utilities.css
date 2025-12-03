@@ -116,7 +116,7 @@ table .frac {
   font-family: "Playfair Display", serif;
   font-size: 5rem;
   color: var(--mpb-color-accent);
-  float: left;
+  float:left;
   line-height: 0.8;
   margin-inline-end: 0.05em;
   text-shadow:
