@@ -3,17 +3,18 @@
 ((window, document) => {
   `use strict`;
 
-  const navLinks = document.querySelectorAll('nav.header-footer a');
+  const navLinks = document.querySelectorAll(`nav.header-footer a`);
 
   let current = 0;
   let ariaCurrent = 0;
 
   for (let i = 0; i < navLinks.length; i++) {
     const str = navLinks[i].href;
-    if (document.URL.startsWith(str)) {
+    const url = document.URL;
+    if (url.startsWith(str)) {
       current = i;
     }
-    if (navLinks[i].href === document.URL) {
+    if (str === url) {
       ariaCurrent = i;
     }
   }
