@@ -1221,7 +1221,7 @@ li[id^="mn:"] {
   p:first-of-type {
   padding-block: var(--s2);
   border: 1px solid currentColor;
-  font-size: var(--mpb-font-size-5);
+  font-size: var(--mpb-font-size-3);
   letter-spacing: .3ch;
   line-height: 1.1;
   background-color: var(--mpb-color-textReverse);
