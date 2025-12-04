@@ -176,7 +176,7 @@ h4,
 h5,
 h6 {
   font-variant-numeric: lining-nums;
-  line-height: 1.1;
+  line-height: var(--line-height-sm);
   text-wrap: balance;
   break-after: avoid;
 }
@@ -302,14 +302,18 @@ blockquote,
 }
 
 .pullquote {
-  margin-block-start: 0 !important;
+  margin-block-start: 0;
   font-size: var(--mpb-font-size-3);
   line-height: var(--line-height-lg);
 
   &::before {
     inset-block-start: 2ex;
-    line-height: 1;
+    line-height: var(--line-height-xs);
   }
+}
+
+[data-i="Stack-var(--s1)false"] > * + .pullquote {
+  margin-block-start: 0;
 }
 
 /* ol, ul, dt */
@@ -324,7 +328,7 @@ dl {
 
 dt {
   font-family: var(--mpb-font-sans);
-  line-height: 1.1;
+  line-height: var(--line-height-sm);
   text-wrap: balance;
 }
 
@@ -543,7 +547,7 @@ select {
   }
 
   font-family: var(--mpb-font-mono);
-  line-height: 1.1;
+  line-height: var(--line-height-sm);
 
   color: var(--mpb-color-textPrimary);
   background-color: var(--mpb-color-textSecondary);
@@ -615,7 +619,7 @@ button,
   padding-block: var(--s-2);
 
   font-size: var(--mpb-font-size--1);
-  line-height: 1.1;
+  line-height: var(--line-height-sm);
   text-transform: uppercase;
   letter-spacing: 0.05ch;
 
@@ -693,7 +697,7 @@ label span,
 .required {
   color: var(--mpb-color-accent);
   font-size: 2em;
-  line-height: 1;
+  line-height: var(--line-height-xs);
   vertical-align: text-top;
 }
 
@@ -831,7 +835,7 @@ a[href^="https://"]:not([href*="mercury.photo"]):not([href*="localhost"]):not(
     content: "\2060" / "[Opens in new window]";
     background: var(--mpb-icon-external) no-repeat;
     vertical-align: middle;
-    line-height: 1;
+    line-height: var(--line-height-xs);
   }
 }
 
@@ -861,7 +865,7 @@ math {
 /* sub, sup */
 sub,
 sup {
-  line-height: 1;
+  line-height: var(--line-height-xs);
 }
 
 /* q, generated content */

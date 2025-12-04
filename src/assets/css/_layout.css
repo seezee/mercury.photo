@@ -90,7 +90,7 @@ noscript div {
 
   &:focus,
   &:active {
-    background-image: none !important;
+    background-image: none;
   }
 }
 
@@ -165,6 +165,22 @@ noscript div {
 
 /* Theme toggle based on
 https://web.dev/articles/building/a-theme-switch-component */
+
+.sun-and-moon {
+  > .sun-beams {
+    stroke: var(--mpb-color-textPrimary);
+    stroke-width: 2px;
+  }
+
+  > :is(.moon, .sun) {
+    fill: var(--mpb-color-textPrimary);
+  }
+
+  > :is(.moon, .sun, .sun-beams) {
+    transform-origin: center center;
+  }
+}
+
 #theme-toggle {
   margin-block-start: var(--toggle-margin-top);
   padding: 0;
@@ -196,21 +212,6 @@ https://web.dev/articles/building/a-theme-switch-component */
 
   &:hover .sun-and-moon > .sun-beams {
     stroke: var(--mpb-color-iconFillHover);
-  }
-}
-
-.sun-and-moon {
-  > :is(.moon, .sun, .sun-beams) {
-    transform-origin: center center;
-  }
-
-  > :is(.moon, .sun) {
-    fill: var(--mpb-color-textPrimary);
-  }
-
-  > .sun-beams {
-    stroke: var(--mpb-color-textPrimary);
-    stroke-width: 2px;
   }
 }
 
@@ -1051,9 +1052,6 @@ li[id^="mn:"] {
 
 #scroller {
   display: inline-block;
-  /* `fixed` is fallback */
-  position: fixed;
-  /* preferred positioning, requires prefixing for most support, and not supported on Safari @link https://caniuse.com/#search=position%3A%20sticky */
   position: sticky;
   /* reinstate clicks */
   pointer-events: all;
