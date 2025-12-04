@@ -31,8 +31,6 @@
 }
 
 :root {
-  --mpb-size-textDefault: 1.25em;
-
   --mpb-c-p-50: 95% 0 0;
   --mpb-c-p-100: 90% 0 0; /* Default dark theme */
   --mpb-c-p-200: 80% 0 0;
@@ -215,6 +213,10 @@
 
     --mpb-color-accent: var(--mpb-color-secondary-700);
     --mpb-color-accentReverse: oklch(48.5% 0.2332 28.05);
+
+    --normal: 300;
+    --bold: 500;
+    --xbold: 700;
   }
 
   --ratio: 1.4;
@@ -293,12 +295,10 @@
     clamp(1.383rem, 0.9239rem + 2.2957cqi, 2.703rem)
   );
 
+  --mpb-size-textDefault: var(--mpb-font-size-1);
+
   --mpb-masonry-width: min(13rem, 100%);
   --mpb-masonry-gap: var(--s-2);
-
-  --normal: 300;
-  --bold: 500;
-  --xbold: 700;
 
   /* How far of a scroll travel within <main> prior to the link appearing */
   --scrollLength: 100vh;
