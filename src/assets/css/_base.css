@@ -201,27 +201,22 @@ h6 {
 
 h1 {
   font-size: var(--mpb-font-size-5);
-  letter-spacing: -.03ch;
 }
 
 h2 {
   font-size: var(--mpb-font-size-4);
-  letter-spacing: -.025ch;
 }
 
 h3 {
   font-size: var(--mpb-font-size-3);
-  letter-spacing: -.02ch;
 }
 
 h4 {
   font-size: var(--mpb-font-size-2);
-  letter-spacing: -.015ch;
 }
 
 h5 {
   font-size: var(--mpb-font-size-1);
-  letter-spacing: -.01ch;
 }
 
 h6 {
@@ -235,7 +230,7 @@ hgroup {
   h4 + p,
   h5 + p,
   h6 + p {
-    font-size: var(--mpb-font-size-1);
+    font-size: var(--mpb-font-size-2);
     font-style: italic;
   }
 

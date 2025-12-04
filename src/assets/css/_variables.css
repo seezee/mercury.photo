@@ -252,7 +252,7 @@
     Cousine, ui-monospace, Cousine, "Cascadia Code", "Source Code Pro", Menlo,
     Consolas, "DejaVu Sans Mono", monospace;
 
-  --mpb-font-size-factor: 0.85;
+  --mpb-font-size-factor: 0.75;
 
   /* Step -2: 14.0537px → 18.963px */
   --mpb-font-size--2: calc(
@@ -295,7 +295,7 @@
     clamp(1.383rem, 0.9239rem + 2.2957cqi, 2.703rem)
   );
 
-  --mpb-size-textDefault: var(--mpb-font-size-0);
+  --mpb-size-textDefault: var(--mpb-font-size-1);
 
   --mpb-masonry-width: min(13rem, 100%);
   --mpb-masonry-gap: var(--s-2);
