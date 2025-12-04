@@ -6,24 +6,25 @@
  * 3.  Search
  * 3.  Theme toggle
  * 4.  #nav-primary-wrapper, #nav-secondary, .breadcrumbs-separator, #main-wrapper
- * 5.  .recent-posts
- * 6   blog-index
- * 7.  .masonry
- * 8.  Columns (.col-2, .col-3, .col-4, .col-5)
- * 9.  hgroup
- * 10.  <dd> styles: .dd-add-space, dd+br
- * 11. .after-icon spacer
- * 12. .recipe-index
- * 13. #mpb-logo (footer icon)
- * 14. Footnotes & sidenotes
- * 15. Pagination
- * 16. Comments, author info, support cta, & footer
- * 17. Scroller
- * 18. Staff, OKIE-X, Sitemap, Tags
- * 19. Wedding prices
- * 20. Social
- * 21. Comments
- * 22. Type specimen
+ * 5.  .hero-hed
+ * 6.  .recent-posts
+ * 7   blog-index
+ * 8.  .masonry
+ * 9.  Columns (.col-2, .col-3, .col-4, .col-5)
+ * 10.  hgroup
+ * 11.  <dd> styles: .dd-add-space, dd+br
+ * 12. .after-icon spacer
+ * 13. .recipe-index
+ * 14. #mpb-logo (footer icon)
+ * 15. Footnotes & sidenotes
+ * 16. Pagination
+ * 17. Comments, author info, support cta, & footer
+ * 18. Scroller
+ * 19. Staff, OKIE-X, Sitemap, Tags
+ * 10. Wedding prices
+ * 21. Social
+ * 22. Comments
+ * 23. Type specimen
  */
 
 #home {
@@ -381,6 +382,12 @@ ul ul .navigation__item {
 
 #main-wrapper {
   inline-size: 100%;
+}
+
+/* .hero-hed */
+.hero-hed {
+  font-size: calc(var(--mpb-font-size-5) * 2);
+  text-align: center;
 }
 
 /* .recent-posts */
