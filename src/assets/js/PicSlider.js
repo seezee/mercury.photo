@@ -31,10 +31,6 @@ export default class picSlider extends HTMLElement {
       `http://www.w3.org/2000/svg`,
       `svg`,
     );
-    const sliderIconOld = document.createElementNS(
-      `http://www.w3.org/2000/svg`,
-      `svg`,
-    );
     const circle = document.createElementNS(
       `http://www.w3.org/2000/svg`,
       `circle`,
