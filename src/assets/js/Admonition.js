@@ -133,8 +133,8 @@ export default class Admonition extends HTMLElement {
       }
 
       const content = this.innerHTML
-        .replace(/<script>/g, '')
-        .replace(/<\/script>/g, '');
+        .replace(/<script>/gi, '')
+        .replace(/<\/script>/gi, '');
 
       this.innerHTML = `<div class="admonition admonition-wrapper">
   <stack-l>
