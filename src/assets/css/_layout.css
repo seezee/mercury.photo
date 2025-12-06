@@ -94,12 +94,18 @@ noscript div {
   }
 }
 
+.fonts-stage-2 {
+
+   .pagefind-ui__search-input {
+    font-family: var(--mpb-font-mono);
+  }
+}
+
 .pagefind-ui__search-input {
   max-inline-size: min(66vw, 22ch);
   padding-inline: var(--s0);
   padding-block: var(--s-5);
 
-  font-family: var(--mpb-font-mono);
   line-height: 1.1;
 
   color: var(--mpb-color-textPrimary);
@@ -215,7 +221,7 @@ https://web.dev/articles/building/a-theme-switch-component */
   }
 }
 
-[data-theme="dark"] .sun-and-moon {
+html[data-theme="dark"] .sun-and-moon {
   > .sun {
     transform: scale(1.75);
   }
@@ -251,7 +257,7 @@ https://web.dev/articles/building/a-theme-switch-component */
     }
   }
 
-  [data-theme="dark"] .sun-and-moon {
+  html[data-theme="dark"] .sun-and-moon {
     > .sun {
       transition: transform 0.25s var(--ease-out-5) 0.5s;
     }
@@ -397,8 +403,21 @@ h3 {
 }
 
 /* .blog-index */
+
+.fonts-stage-2 {
+
+  .blog-index,
+  .tags-button {
+    font-family: var(--mpb-font-sans);
+
+    li p {
+      font-family: var(--mpb-font-default);
+    }
+  }
+}
+
 .blog-index {
-  font-family: var(--mpb-font-sans);
+
   display: grid;
   grid-template-columns: repeat(auto-fill, minmax(min(300px, 100%), 1fr));
   grid-gap: var(--s2);
@@ -416,10 +435,6 @@ h3 {
       flex-flow: column;
       block-size: 100%;
     }
-
-    p {
-      font-family: var(--mpb-font-default);
-    }
   }
 
   .tags-button-wrapper {
@@ -434,7 +449,6 @@ h3 {
     padding-block: 2px;
     border: 1px solid var(--mpb-color-textPrimary);
     border-radius: var(--mpb-radius-1x);
-    font-family: var(--mpb-font-sans);
     font-size: 14px;
     text-align: center;
   }
@@ -1152,6 +1166,22 @@ li[id^="mn:"] {
 }
 
 /* Wedding Pricelist */
+
+.fonts-stage-2 {
+
+  .header-pricelist .wedding-services-wrapper {
+
+    h2 {
+    font-family: var(--mpb-font-display-sc);
+    font-variant: normal;
+    }
+
+    li {
+      font-family: var(--mpb-font-sans);
+    }
+  }
+}
+
 .wedding-services-wrapper {
   background-color: var(--mpb-color-figureBG);
 
@@ -1160,8 +1190,6 @@ li[id^="mn:"] {
     padding: var(--s1);
 
     h2 {
-      font-family: var(--mpb-font-display-sc);
-      font-variant: normal;
       font-size: var(--mpb-font-size-1);
       text-align: center;
 
@@ -1177,7 +1205,6 @@ li[id^="mn:"] {
   }
 
   li {
-    font-family: var(--mpb-font-sans);
     font-size: var(--mpb-font-size--1);
 
     &:not(:last-of-type) {
@@ -1203,6 +1230,10 @@ li[id^="mn:"] {
     vertical-align: super;
     margin-inline-end: 0.25ch;
   }
+}
+
+.wedding-list {
+  margin-block-end: var(--s2);
 }
 
 /* Social */

@@ -107,9 +107,13 @@ html {
     scrollbar-color: var(--mpb-color-accent) transparent;
   }
 
-  font-family: var(--mpb-font-default);
-  font-weight: var(--normal, 500);
-  font-style: normal;
+  &.fonts-stage-2 {
+
+    font-family: var(--mpb-font-default);
+    font-weight: var(--normal, 500);
+    font-style: normal;
+  }
+
   font-variant: normal;
   font-size: var(--mpb-size-textDefault);
   /* Don't let Safari on iOS for phones resize text in landscape orientation */
@@ -127,6 +131,7 @@ html {
   &[data-theme="dark"] {
     color-scheme: dark;
   }
+
   transition:
     background-color 0.1s ease,
     color 0.1s ease;
@@ -181,15 +186,18 @@ h6 {
   break-after: avoid;
 }
 
-h1,
-h2,
-h3 {
-  font-family: var(--mpb-font-display);
-  font-weight: var(--bold, 700);
+.fonts-stage-2 {
 
-  .small-caps {
-    font-family: var(--mpb-font-display-sc);
-    font-variant: normal;
+  h1,
+  h2,
+  h3 {
+    font-family: var(--mpb-font-display);
+    font-weight: var(--bold, 700);
+
+    .small-caps {
+      font-family: var(--mpb-font-display-sc);
+      font-variant: normal;
+    }
   }
 }
 
@@ -326,10 +334,13 @@ dl {
   margin-block-start: 0;
 }
 
-dt {
-  font-family: var(--mpb-font-sans);
-  line-height: var(--line-height-sm);
-  text-wrap: balance;
+.fonts-stage-2 {
+
+  dt {
+    font-family: var(--mpb-font-sans);
+    line-height: var(--line-height-sm);
+    text-wrap: balance;
+  }
 }
 
 dt,
@@ -439,13 +450,19 @@ details {
   }
 }
 
+.fonts-stage-2 {
+
+  summary {
+    font-family: var(--mpb-font-sans);
+  }
+}
+
 summary {
   display: inline-flex;
   align-items: safe center;
   padding-block: var(--s-4);
   padding-inline: var(--s1);
 
-  font-family: var(--mpb-font-sans);
   text-transform: uppercase;
   text-wrap: balance;
 
@@ -472,8 +489,14 @@ summary {
 
 /* table */
 
+.fonts-stage-2 {
+
+  table {
+    font-family: var(--mpb-font-mono);
+  }
+}
+
 table {
-  font-family: var(--mpb-font-mono);
   border: 1px solid var(--mpb-color-textPrimary);
   border-collapse: collapse;
 }
@@ -531,6 +554,16 @@ td:not(:last-of-type),
 }
 
 /* form */
+
+.fonts-stage-2 {
+
+  input,
+  textarea,
+  select {
+      font-family: var(--mpb-font-mono);
+  }
+}
+
 input,
 textarea,
 select {
@@ -546,7 +579,7 @@ select {
     }
   }
 
-  font-family: var(--mpb-font-mono);
+
   line-height: var(--line-height-sm);
 
   color: var(--mpb-color-textPrimary);
@@ -596,19 +629,43 @@ fieldset {
   border-radius: var(--mpb-radius-1x);
 }
 
+.fonts-stage-2 {
+
+  legend {
+    font-family: var(--mpb-font-display);
+  }
+}
+
 legend {
-  font-family: var(--mpb-font-display);
   font-size: var(--mpb-font-size-2);
+}
+
+.fonts-stage-2{
+
+  button,
+  .button,
+  label {
+      font-family: var(--mpb-font-sans);
+  }
 }
 
 button,
 .button,
 label {
-  font-family: var(--mpb-font-sans);
   font-variant-numeric: tabular-nums lining-nums slashed-zero;
 
   & a {
     text-decoration: none;
+  }
+}
+
+.fonts-stage-2 {
+
+  button,
+  .button {
+    a {
+      font-family: var(--mpb-font-sans);
+    }
   }
 }
 
@@ -644,7 +701,6 @@ button,
 
     a {
       color: var(--mpb-color-textSecondary);
-      font-family: var(--mpb-font-sans);
       text-decoration: none;
 
       &:hover,
@@ -854,9 +910,17 @@ blockquote
 }
 
 /* code, math */
+
+.fonts-stage-2 {
+
+  code,
+  math {
+      font-family: var(--mpb-font-mono);
+  }
+}
+
 code,
 math {
-  font-family: var(--mpb-font-mono);
   font-variant-numeric: tabular-nums lining-nums slashed-zero;
   -webkit-hyphens: manual;
   hyphens: manual;
@@ -916,15 +980,8 @@ q {
 }
 
 mark {
-  color: rgba(255, 255, 0, 1);
-  background-color: var(--mpb-color-textPrimary);
-}
-
-[data-theme="dark"] {
-  mark {
-    color: var(--mpb-color-textSecondary);
-    background-color: rgba(255, 255, 0, 1);
-  }
+  color: var(--mpb-color-textReverse);
+  background-color: var(--mpb-color-accent);
 }
 
 @media (forced-colors: active) {
@@ -1010,8 +1067,13 @@ main {
 }
 
 /* nav */
+.fonts-stage-2 {
+  nav {
+      font-family: var(--mpb-font-sans);
+  }
+}
+
 nav {
-  font-family: var(--mpb-font-sans);
 
   & a {
     text-decoration: none;

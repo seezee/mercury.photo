@@ -1,6 +1,6 @@
 {
   "name": "mercury.photo",
-  "version": "1.0.312",
+  "version": "1.0.313",
   "description": "Rangefinder + Mirrorless Digital + Large Format Film Photography + Music, Arts, & News",
   "main": "index.js",
   "bugs": {
@@ -57,7 +57,7 @@
     "pagefind": "^1.4.0",
     "rimraf": "^6.1.2",
     "terser": "^5.44.1",
-    "wrangler": "^4.52.1"
+    "wrangler": "^4.53.0"
   },
   "browserslist": {
     "production": [

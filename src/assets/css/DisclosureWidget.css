@@ -15,7 +15,6 @@ h3:has(> .widget__btn[role="tab"]) {
   padding-block-end: var(--s1);
   margin: 0;
 
-  font-family: var(--mpb-font-sans);
   font-size: var(--mpb-font-size-0);
   font-weight: bold;
   text-transform: unset;
@@ -24,6 +23,12 @@ h3:has(> .widget__btn[role="tab"]) {
   background-color: var(--mpb-color-textPrimary);
 
   cursor: pointer;
+}
+
+.fonts-stage-2 {
+  .widget__btn {
+    font-family: var(--mpb-font-sans);
+  }
 }
 
 .widget__btn[aria-expanded] {

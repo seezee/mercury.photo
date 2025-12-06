@@ -34,11 +34,15 @@
 }
 
 .admonition-heading {
-  font-family: var(--mpb-font-sans);
-  font-weight: var(--bold, 700);
   font-size: var(--mpb-font-size-1);
   letter-spacing: 0.05ch;
   font-variant: all-small-caps;
+}
+
+.fonts-stage-2 {
+  .admonition-heading {
+    font-family: var(--mpb-font-sans);
+  }
 }
 
 .admonition-icon {

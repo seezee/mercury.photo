@@ -25,7 +25,10 @@ All prices subject to state and local sales taxes. Prices are in $USD.
 * **USB flash drive** & print release*
 * **Wedding & reception** coverage
 * **Photographer** & assistant
+{.wedding-list}
+
   </center-l>
+
 </stack-l><switcher-l limit="2"><stack-l class="wedding-services-wrapper"><div class="header-pricelist">
 
 ## Value
@@ -91,7 +94,10 @@ All prices subject to state and local sales taxes. Prices are in $USD.
 * **11″×14″ print** with archival frame, matte, & glazing, $700
 * **Fine art photo book**, 28 × 21 cm (11″ × 8¼″), 26 pp.‡ $1320.
 * **Fine art photo book**, 38 × 29 cm (15″ × 11½″), 26 pp.‡ $1835.
+{.wedding-list}
+
   </center-l>
+
 </stack-l>
 
 *Up to 100 images provided. Files sized for web output & 4″×6″ prints. Print images will feature small, discreet watermark, removable for fee. Web images will feature larger watermark. Some usage restrictions may apply.

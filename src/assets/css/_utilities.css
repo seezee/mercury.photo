@@ -113,7 +113,6 @@ table .frac {
 /* Drop caps */
 
 .drop-cap:first-letter {
-  font-family: "Playfair Display", serif;
   font-size: 5rem;
   color: var(--mpb-color-accent);
   float:left;
@@ -131,7 +130,6 @@ table .frac {
 h1,
 hgroup:has(stack-l h1) {
   ~ p:not(:empty):first-of-type::first-letter {
-    font-family: "Playfair Display", serif;
     font-size: 5rem;
     color: var(--mpb-color-accent);
     float: left;
@@ -150,6 +148,20 @@ hgroup:has(stack-l h1) {
   &:after {
     content: "";
     display: block;
+  }
+}
+
+.fonts-stage-2 {
+
+  .drop-cap:first-letter {
+    font-family: "Playfair Display", serif;
+  }
+
+  h1,
+  hgroup:has(stack-l h1) {
+    ~ p:not(:empty):first-of-type::first-letter {
+      font-family: "Playfair Display", serif;
+    }
   }
 }
 
@@ -231,9 +243,8 @@ figcaption {
 }
 
 /* Interviews */
+
 .spkr {
-  font-family: var(--mpb-font-display-sc);
-  font-variant: normal;
   font-weight: 900;
   letter-spacing: 0.06667rem;
   text-transform: lowercase;
@@ -245,7 +256,15 @@ figcaption {
   }
 }
 
-[data-theme="dark"] {
+.fonts-stage-2 {
+
+  .spkr {
+    font-family: var(--mpb-font-display-sc);
+    font-variant: normal;
+  }
+}
+
+html[data-theme="dark"] {
   .spkr {
     font-weight: 800;
   }
