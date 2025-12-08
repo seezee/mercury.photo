@@ -17,12 +17,28 @@
   <script src="/assets/js/index.js" type="module"></script>
   <script type="speculationrules">
     {
-      "prerender": [
+      `prerender`: [
         {
-          "where": {
-            "href_matches": "/*"
+          `where`: {
+            `and`: [
+              { `href_matches`: `/*` },
+              { `not`: { `selector_matches`: `[rel~=nofollow]` } },
+              { `not`: { `selector_matches`: `[rel~=external]` } },
+            ]
           },
-          "eagerness": "eager"
+          `eagerness`: `moderate`
+        }
+      ],
+      `prefetch`: [
+        {
+          `where`: {
+            `and`: [
+              { `href_matches`: `/*` },
+              { `not`: { `selector_matches`: `[rel~=nofollow]` } },
+              { `not`: { `selector_matches`: `[rel~=external]` } },
+            ]
+          },
+          `eagerness`: `eager`
         }
       ]
     }

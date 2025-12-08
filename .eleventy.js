@@ -66,15 +66,15 @@ module.exports = async (eleventyConfig) => {
   const siteDesc = `Rangefinder + Mirrorless Digital + Large Format Film Photography + Music, Arts, & News`;
 
   const arr = [
-    `"_SITEURL_": siteURL`,
-    `"_AUTHOR_": siteAuthor`,
-    `"_SITENAME_": siteName`,
-    `"_SITEDESC_": siteDesc`,
+    `_SITEURL_: siteURL`,
+    `_AUTHOR_: siteAuthor`,
+    `_SITENAME_: siteName`,
+    `_SITEDESC_: siteDesc`,
   ];
 
-  arr.forEach((globalVar) => eleventyConfig.addGlobalData(globalVar));
+  arr.forEach((globalKey, globalVal) => eleventyConfig.addGlobalData(globalKey, globalVal));
 
-  arr.forEach((globalVar) => eleventyConfig.addNunjucksGlobal(globalVar));
+  arr.forEach((globalKey, globalVal) => eleventyConfig.addNunjucksGlobal(globalKey, globalVal));
 
   /**
    * END global data
