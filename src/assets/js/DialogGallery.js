@@ -62,13 +62,12 @@ export default class DialogGallery extends HTMLElement {
             <div class="gallery--img_main">
               <figure>
                 <stack-l>
-                  <img src="${defaultSrc}" alt="${defaultAlt}" id="current" loading="lazy">
+                  <img class="modal-current" id="current" loading="lazy">
                   <figcaption></figcaption>
                 </stack-l>
               </figure>
             </div>
             <div class="gallery--thumbs">
-              ${imgListHtml}
             </div>
           </div>
           <div class="aligncenter">
@@ -93,6 +92,13 @@ export default class DialogGallery extends HTMLElement {
 
     // Add the dialog.
     this.append(modal);
+
+    const img         = modal.getElementsByClassName(`modal-current`)[0];
+    const modalThumbs = modal.getElementsByClassName(`gallery--thumbs`)[0];
+
+    img.setAttribute(`src`, defaultSrc);
+    img.setAttribute(`alt`, defaultAlt);
+    modalThumbs.innerHTML = imgListHtml;
 
     // <dialog> variables.
     const current = modal.querySelector(`#current`);
