@@ -38,23 +38,23 @@ export default class DialogImage extends HTMLElement {
     modal.setAttribute(`closedby`, `any`);
     // `method="dialog"` captures the button click and closes the dialog.
     modal.innerHTML = `
-  <form method="dialog">
-    <stack-l>
-      <figure>
-        <picture>
-          <stack-l>
-            <source srcset="${imageUrlTrimmed}.webp" type="image/webp"/>
-            <source srcset="${imageUrlTrimmed}.jpeg" type="image/jpeg"/>
-            <img src="${imageUrl}" alt="${altAttr}" loading="lazy" decoding="async" />
-            <figcaption>${captionText}</figcaption>
-          </stack-l>
-        </picture>
-      </figure>
-      <div class="aligncenter">
-        <button autofocus class="button button-primary" type="submit">Close</button>
-      </div>
-    </stack-l>
-  </form>
+<form method="dialog">
+  <stack-l>
+    <figure>
+      <picture>
+        <stack-l class="modal-wrapper-inner">
+          <source type="image/webp"/>
+          <source type="image/jpeg"/>
+          <img loading="lazy" decoding="async" />
+          <figcaption></figcaption>
+        </stack-l>
+      </picture>
+    </figure>
+    <div class="aligncenter">
+      <button autofocus class="button button-primary" type="submit">Close</button>
+    </div>
+  </stack-l>
+</form>
     `;
 
     // Add the dialog outside of the figure tag (which is parent),
@@ -62,6 +62,18 @@ export default class DialogImage extends HTMLElement {
     fig.parentNode.insertBefore(modal, fig.nextSibling);
 
     const closeButton = this.querySelector(`button`);
+
+    const wrapInner = this.getElementsByClassName(`modal-wrapper-inner`)[0];
+    const src1      = wrapInner.getElementsByTagName(`source`)[0];
+    const src2      = wrapInner.getElementsByTagName(`source`)[1];
+    const imgTag    = wrapInner.getElementsByTagName(`img`)[0];
+    const modalCap  = wrapInner.getElementsByTagName(`figcaption`)[0];
+
+    src1.setAttribute(`srcset`, `${imageUrlTrimmed}.webp`);
+    src2.setAttribute(`srcset`, `${imageUrlTrimmed}.jpg`);
+    imgTag.setAttribute(`src`, imageUrl);
+    imgTag.setAttribute(`alt`, altAttr);
+    modalCap.innerHTML = captionText;
 
     // Add attribute for accessibility
     image.setAttribute(`tabindex`, `0`);
