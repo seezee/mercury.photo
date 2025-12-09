@@ -13,7 +13,7 @@ class Container extends HTMLElement {
       if (!document.getElementById(this.i)) {
         let styleEl = document.createElement('style');
         styleEl.id = this.i;
-        styleEl.innerHTML = `
+        styleEl.innerText = `
             [data-i="${this.i}"] {
               display: block;
               container-type: inline-size;
