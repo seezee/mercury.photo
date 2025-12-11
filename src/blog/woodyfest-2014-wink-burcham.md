@@ -17,7 +17,7 @@ tags:
 date: Last Modified
 pubdate: 2021-07-12T21:36:31+00:00
 image: /assets/images/blog/2021-07-12-woodyfest-wink-burcham/czahller-20140711-12-40-43.jpg
-excerpt: Wink Burcham will return to Woodyfest for the seventh time in 2021. His previous appearance was in 2019, which we’ve previously written about.
+excerpt: Wink Burcham will return to Woodyfest for the seventh time in 2021. His previous appearance, which we’ve previously written about, was in 2019.
 ---
 <!-- markdownlint-disable MD025 -->
 # {{ title }}
@@ -28,7 +28,7 @@ excerpt: Wink Burcham will return to Woodyfest for the seventh time in 2021. His
 
 <mpb-callout type="notice">
 
-Wink Burcham will return to Woodyfest for the seventh time in 2021. His previous appearance was in 2019, which we’ve [previously written about](/blog/woodyfest-2019-wink-burcham/).
+Wink Burcham will return to Woodyfest for the seventh time in 2021. His previous appearance, which we’ve [previously written about](/blog/woodyfest-2019-wink-burcham/), was in <time datetime="2019-07-11">2019</time>.
 </mpb-callout>
 
 ## Gallery: Wink Burcham

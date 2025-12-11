@@ -66,7 +66,7 @@ export default class DialogImage extends HTMLElement {
     const modalCap = wrapInner.getElementsByTagName(`figcaption`)[0];
 
     src1.setAttribute(`srcset`, `${imageUrlTrimmed}.webp`);
-    src2.setAttribute(`srcset`, `${imageUrlTrimmed}.jpg`);
+    src2.setAttribute(`srcset`, `${imageUrlTrimmed}.jpeg`);
     imgTag.setAttribute(`src`, imageUrl);
     imgTag.setAttribute(`alt`, altAttr);
     modalCap.innerText = captionText;
