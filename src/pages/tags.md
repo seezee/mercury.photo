@@ -42,7 +42,7 @@ View [all tags](/blog/tags/) &rarr;{.no-drop-cap}
 
 <ol class="taglist" data-pagefind-ignore>
 {% set taglist = collections[ tag ] %}
-{% for post in taglist | sortByPubDate %}
+{% for post in taglist | sortByPubDate | reverse %}
   <li>
     <stack-l>
       <h2 class="tag-header"><a href="{{ post.url }}">{{ post.data.title | safe }}</a></h2>
