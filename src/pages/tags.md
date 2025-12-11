@@ -42,12 +42,12 @@ View [all tags](/blog/tags/) &rarr;{.no-drop-cap}
 
 <ol class="taglist" data-pagefind-ignore>
 {% set taglist = collections[ tag ] %}
-{% for post in taglist | reverse %}
+{% for post in taglist | sortByPubDate %}
   <li>
     <stack-l>
       <h2 class="tag-header"><a href="{{ post.url }}">{{ post.data.title | safe }}</a></h2>
       <switcher-l limit="2">
-        <a href="{{ post.url }}"><img class="tag-thumbnail tag-thumbnail-medium" src="{{ post.data.image | safe }}" alt="Read “{{ post.data.title | safe }}”" loading="lazy" /></a>
+        <a href="{{ post.url }}"><img class="tag-thumbnail" src="{{ post.data.image | safe }}" alt="Read “{{ post.data.title | safe }}”" loading="lazy" /></a>
         <div class="tag-post-excerpt">
           <small>
             {% if post.data.pubdate %}
