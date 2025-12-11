@@ -20,11 +20,12 @@
  * 16. Pagination
  * 17. Comments, author info, support cta, & footer
  * 18. Scroller
- * 19. Staff, OKIE-X, Sitemap, Tags
- * 10. Wedding prices
- * 21. Social
- * 22. Comments
- * 23. Type specimen
+ * 19. Tag post excerpt
+ * 20. Staff, OKIE-X, Sitemap, Tags
+ * 21. Wedding prices
+ * 22. Social
+ * 23. Comments
+ * 24. Type specimen
  */
 
 #home {
@@ -1087,6 +1088,20 @@ li[id^="mn:"] {
     text-align: center;
     vertical-align: text-top;
   }
+}
+
+/* Tag post excerpt */
+.tag-header {
+  margin-block-end: var(--s1);
+}
+
+.tag-thumbnail {
+  display: inline-block;
+  max-inline-size: 35ch;
+}
+
+.tag-post-excerpt {
+  max-inline-size: 70ch;
 }
 
 /* Staff, OKIE-X, Sitemap, Tags */

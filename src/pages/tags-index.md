@@ -1,5 +1,5 @@
 ---
-layout: _main.njk
+layout: _tag-index.njk
 title: Tags
 filter: ["blog", "all"]
 permalink: /blog/tags/
@@ -23,7 +23,7 @@ Find articles by tag
 <div class="col-3 allow-break">
   <ul data-pagefind-ignore>
     {% for tag in sortedTags %}
-      <li><a href="/blog/tags/{{ tag | slugify }}">{{ tag }}</a></li>
+      <li><a href="/blog/tags/{{ tag | slugify }}">{{ tag }}</a>{% if collections[tag].length > 1 %} ({{ collections[tag].length }} articles){% else %} ({{ collections[tag].length }} article){% endif %}</li>
     {% endfor %}
   </ul>
 </div>

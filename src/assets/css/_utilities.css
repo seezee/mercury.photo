@@ -299,8 +299,3 @@ html[data-theme="dark"] {
 .aspect-16x9 {
   aspect-ratio: 16 / 9;
 }
-
-.tag-thumbnail {
-  display: inline-block;
-  max-inline-size: 300px;
-}
