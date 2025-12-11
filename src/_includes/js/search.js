@@ -48,7 +48,7 @@
         return; // Do nothing if the event was already processed
       }
 
-      if (e.metaKey && key == `k`) {
+      if (e.metaKey && key === `k`) {
         e.preventDefault();
         searchField.focus();
       } else {

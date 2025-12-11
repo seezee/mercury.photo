@@ -56,32 +56,19 @@ export default class picSlider extends HTMLElement {
       alert(`Image is missing alt attribute!`);
     }
 
-    // Set the class if it is missing.
-    if (!image1.classList) {
-      image1.setAttribute(`class`, ``);
-    } else if (!image1.classList) {
-      image2.setAttribute(`class`, ``);
-    }
-
     // Add classes.
     image1.classList.add(`picslider-img`, `picslider-img-before`);
     image2.classList.add(`picslider-img`, `picslider-img-after`);
 
-    if (color) {
-      color = color;
-    } else {
+    if (!color) {
       color = `#000`;
     }
 
-    if (bgColor) {
-      bgColor = bgColor;
-    } else {
+    if (!bgColor) {
       bgColor = `rgba(255 255 255 / .5)`;
     }
 
-    if (alpha) {
-      alpha = alpha;
-    } else {
+    if (!alpha) {
       alpha = `.5`;
     }
 

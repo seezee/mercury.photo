@@ -182,3 +182,4 @@ _site
 
 # Dev
 .nvmrc
+biome.json

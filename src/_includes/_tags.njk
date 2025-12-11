@@ -1,10 +1,11 @@
 <h3>Tags</h3>
 <div id="tags-wrapper" data-pagefind-ignore>
-<p id="tags-inner">
-  {% for tag in tags -%}
-    {% if tag !== 'blog' %}
-      <a href="/blog/tags/{{ tag | slugify | safe }}" class="tag-link" data-pagefind-weight="0.5">{{ tag | safe }}</a>
-    {% endif %}
-  {%- endfor %}</p>
+  <p id="tags-inner">
+    {% for tag in tags -%}
+      {% if tag !== 'blog' %}
+        <a href="/blog/tags/{{ tag | slugify | safe }}" class="tag-link" data-pagefind-weight="0.5">{{ tag | safe }}</a>
+      {% endif %}
+    {%- endfor %}
+  </p>
 </div>
 <hr />

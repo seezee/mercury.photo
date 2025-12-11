@@ -45,32 +45,23 @@ export default class ThemeSwitcher extends HTMLElement {
   // Create the click handler
   handleEvent() {
     const themeAttr = document.documentElement.getAttribute(`data-theme`);
-    let dataTheme;
-    const themeButton = document.getElementById(`theme-toggle`);
-    //   let buttonTitle        = themeButton.getAttribute(`title`);
     const themeVal = document.getElementById(`theme-value`);
     const themeStatus = document.getElementById(`theme-status`);
 
     if (themeAttr !== `dark`) {
-      dataTheme = this.button.setAttribute(`data-theme`, `dark`);
+      this.button.setAttribute(`data-theme`, `dark`);
       document.documentElement.setAttribute(`data-theme`, `dark`);
       localStorage.setItem(`theme-preference`, `dark`);
       themeVal.innerHTML = `light`;
       themeStatus.innerHTML = `dark`;
-      buttonTitle = this.button.setAttribute(
-        `title`,
-        `Dodge me! (Switch to light theme)`,
-      );
+      this.button.setAttribute(`title`, `Dodge me! (Switch to light theme)`);
     } else {
-      dataTheme = this.button.setAttribute(`data-theme`, `light`);
+      this.button.setAttribute(`data-theme`, `light`);
       document.documentElement.setAttribute(`data-theme`, `light`);
       localStorage.setItem(`theme-preference`, `light`); // reset theme selection
       themeVal.innerHTML = `dark`;
       themeStatus.innerHTML = `light`;
-      buttonTitle = this.button.setAttribute(
-        `title`,
-        `Burn me! (Switch to dark theme)`,
-      );
+      this.button.setAttribute(`title`, `Burn me! (Switch to dark theme)`);
     }
   }
 

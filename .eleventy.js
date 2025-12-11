@@ -72,9 +72,13 @@ module.exports = async (eleventyConfig) => {
     `_SITEDESC_: siteDesc`,
   ];
 
-  arr.forEach((globalKey, globalVal) => eleventyConfig.addGlobalData(globalKey, globalVal));
+  arr.forEach((globalKey, globalVal) =>
+    eleventyConfig.addGlobalData(globalKey, globalVal),
+  );
 
-  arr.forEach((globalKey, globalVal) => eleventyConfig.addNunjucksGlobal(globalKey, globalVal));
+  arr.forEach((globalKey, globalVal) =>
+    eleventyConfig.addNunjucksGlobal(globalKey, globalVal),
+  );
 
   /**
    * END global data

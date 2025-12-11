@@ -267,6 +267,7 @@
   background-size: cover;
 }
 
+/* biome-ignore-start lint: Duplicate rule for future support */
 #sw0 {
   background-image: url("assets/images/site/slideshow/hero-00-640-1x.jpg");
   background-image: image-set(
@@ -1076,6 +1077,7 @@
     }
   }
 }
+/* biome-ignore-end lint: Duplicate rule for future support */
 
 .slider-wrapper #overlay,
 .slider-wrapper [id^="watermark"] {

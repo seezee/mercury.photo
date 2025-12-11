@@ -52,6 +52,20 @@ input.picslider {
   padding: 0;
 }
 
+.picslider-button {
+  position: absolute;
+  border-radius: 100vw;
+  display: grid;
+  place-items: center;
+  top: 50%;
+  inset-inline-start: var(--position);
+  transform: translate(-50%, -50%);
+  width: 50px;
+  pointer-events: none;
+  background-color: transparent;
+  box-shadow: 1px 1px 1px oklch(var(--mpb-c-p-800) / 0.5);
+}
+
 .picslider:focus-visible ~ .picslider-button {
   outline: 5px solid var(--bg-color);
   outline-offset: 3px;
@@ -75,18 +89,4 @@ input.picslider {
 
 .picslider-line-bottom {
   inset-block-end: 0;
-}
-
-.picslider-button {
-  position: absolute;
-  border-radius: 100vw;
-  display: grid;
-  place-items: center;
-  top: 50%;
-  inset-inline-start: var(--position);
-  transform: translate(-50%, -50%);
-  width: 50px;
-  pointer-events: none;
-  background-color: transparent;
-  box-shadow: 1px 1px 1px oklch(var(--mpb-c-p-800) / 0.5);
 }

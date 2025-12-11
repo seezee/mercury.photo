@@ -76,7 +76,6 @@ h3:has(> .widget__btn[role="tab"]) {
   inset-block-start: calc(var(--s-5) * -1);
   padding: var(--s1);
 
-  border-width: var(--s-5);
   border: solid var(--mpb-color-textPrimary) var(--s-5);
   border-start-end-radius: var(--mpb-radius-1x);
   border-end-start-radius: var(--mpb-radius-1x);

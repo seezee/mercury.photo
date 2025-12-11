@@ -95,8 +95,7 @@ noscript div {
 }
 
 .fonts-stage-2 {
-
-   .pagefind-ui__search-input {
+  .pagefind-ui__search-input {
     font-family: var(--mpb-font-mono);
   }
 }
@@ -122,7 +121,7 @@ noscript div {
   align-items: safe center;
   display: flex;
   gap: 4px;
-  justify-content:end;
+  justify-content: end;
   pointer-events: none;
   position: absolute;
   inset-inline-start: 10.3rem;
@@ -405,7 +404,6 @@ h3 {
 /* .blog-index */
 
 .fonts-stage-2 {
-
   .blog-index,
   .tags-button {
     font-family: var(--mpb-font-sans);
@@ -417,7 +415,6 @@ h3 {
 }
 
 .blog-index {
-
   display: grid;
   grid-template-columns: repeat(auto-fill, minmax(min(300px, 100%), 1fr));
   grid-gap: var(--s2);
@@ -1168,12 +1165,10 @@ li[id^="mn:"] {
 /* Wedding Pricelist */
 
 .fonts-stage-2 {
-
   .header-pricelist .wedding-services-wrapper {
-
     h2 {
-    font-family: var(--mpb-font-display-sc);
-    font-variant: normal;
+      font-family: var(--mpb-font-display-sc);
+      font-variant: normal;
     }
 
     li {
@@ -1253,14 +1248,13 @@ li[id^="mn:"] {
 /* Type specimen */
 
 .specimen {
-
   p:first-of-type {
-  padding-block: var(--s2);
-  border: 1px solid currentColor;
-  font-size: var(--mpb-font-size-3);
-  letter-spacing: .3ch;
-  line-height: 1.1;
-  background-color: var(--mpb-color-textReverse);
+    padding-block: var(--s2);
+    border: 1px solid currentColor;
+    font-size: var(--mpb-font-size-3);
+    letter-spacing: 0.3ch;
+    line-height: 1.1;
+    background-color: var(--mpb-color-textReverse);
 
     span {
       line-height: 1.4;

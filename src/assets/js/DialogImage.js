@@ -5,20 +5,19 @@
  */
 
 export default class DialogImage extends HTMLElement {
-
   connectedCallback() {
     // Get elements, should be one of each only.
-    const image    = this.querySelector(`img`);
-    const altAttr  = image.getAttribute(`alt`);
+    const image = this.querySelector(`img`);
+    const altAttr = image.getAttribute(`alt`);
     const imageUrl = image.getAttribute(`src`);
-    const split    = imageUrl.split('.');
+    const split = imageUrl.split('.');
 
     split.pop();
 
     const imageUrlTrimmed = split.join('.');
-    const fig             = image.parentNode.parentNode;
-    const caption         = this.querySelector(`figcaption`);
-    const captionText     = caption.innerText;
+    const fig = image.parentNode.parentNode;
+    const caption = this.querySelector(`figcaption`);
+    const captionText = caption.innerText;
 
     if (!image) {
       console.warn(`mpb-dialog-img: No image found. Exiting.`);
@@ -61,10 +60,10 @@ export default class DialogImage extends HTMLElement {
     const closeButton = this.querySelector(`button`);
 
     const wrapInner = this.getElementsByClassName(`modal-wrapper-inner`)[0];
-    const src1      = wrapInner.getElementsByTagName(`source`)[0];
-    const src2      = wrapInner.getElementsByTagName(`source`)[1];
-    const imgTag    = wrapInner.getElementsByTagName(`img`)[0];
-    const modalCap  = wrapInner.getElementsByTagName(`figcaption`)[0];
+    const src1 = wrapInner.getElementsByTagName(`source`)[0];
+    const src2 = wrapInner.getElementsByTagName(`source`)[1];
+    const imgTag = wrapInner.getElementsByTagName(`img`)[0];
+    const modalCap = wrapInner.getElementsByTagName(`figcaption`)[0];
 
     src1.setAttribute(`srcset`, `${imageUrlTrimmed}.webp`);
     src2.setAttribute(`srcset`, `${imageUrlTrimmed}.jpg`);

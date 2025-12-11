@@ -1,9 +1,12 @@
 `use strict`;
 
 const list = document.querySelector(`#tags-inner`);
+const collator = new Intl.Collator(`en`);
 
 if (list && list.children) {
-  [...list.children]
-    .sort((a, b) => (a.innerText > b.innerText ? 1 : -1))
-    .forEach((node) => list.appendChild(node));
-}
+[...list.children]
+  // Case-insensitive sort; see https://stackoverflow.com/questions/8996963/how-to-perform-case-insensitive-sorting-array-of-string-in-javascript
+  .sort(collator.compare)
+  .forEach(
+    node => list.appendChild(node));
+};

@@ -1,57 +1,57 @@
-const menuItems = document.querySelectorAll('.js-has-submenu');
+const menuItems = document.querySelectorAll(`.js-has-submenu`);
 
 let expandedItem = null;
 
 const expandSubMenu = (item) => {
-  const subMenu = item.querySelector('ul');
-  const button = item.querySelector('button');
+  const subMenu = item.querySelector(`ul`);
+  const button = item.querySelector(`button`);
   expandedItem = item;
 
-  subMenu.setAttribute('aria-hidden', 'false');
-  button.setAttribute('aria-expanded', 'true');
-  item.dataset.expanded = 'true';
+  subMenu.setAttribute(`aria-hidden`, `false`);
+  button.setAttribute(`aria-expanded`, `true`);
+  item.dataset.expanded = `true`;
 };
 
 const collapseSubMenu = (item) => {
-  const subMenu = item.querySelector('ul');
-  const button = item.querySelector('button');
+  const subMenu = item.querySelector(`ul`);
+  const button = item.querySelector(`button`);
   expandedItem = null;
 
-  subMenu.setAttribute('aria-hidden', 'true');
-  button.setAttribute('aria-expanded', 'false');
-  item.dataset.expanded = 'false';
+  subMenu.setAttribute(`aria-hidden`, `true`);
+  button.setAttribute(`aria-expanded`, `false`);
+  item.dataset.expanded = `false`;
 };
 
 menuItems.forEach((item) => {
-  const button = item.querySelector('button');
+  const button = item.querySelector(`button`);
 
-  button.addEventListener('click', (event) => {
-    if (button.ariaExpanded === 'false') {
+  button.addEventListener(`click`, (event) => {
+    if (button.ariaExpanded === `false`) {
       expandSubMenu(item);
     } else {
       collapseSubMenu(item);
     }
   });
 
-  item.addEventListener('mouseenter', () => {
+  item.addEventListener(`mouseenter`, () => {
     expandSubMenu(item);
   });
-  item.addEventListener('mouseleave', () => {
+  item.addEventListener(`mouseleave`, () => {
     collapseSubMenu(item);
   });
 });
 
-document.addEventListener('keydown', (event) => {
-  if (event.key === 'Tab') {
+document.addEventListener(`keydown`, (event) => {
+  if (event.key === `Tab`) {
     if (!expandedItem) {
       return;
     }
 
-    const subMenu = expandedItem.querySelector('ul');
+    const subMenu = expandedItem.querySelector(`ul`);
 
-    const focusedElement = expandedItem.querySelector(':focus');
-    const firstFocusableElement = expandedItem.querySelector('a');
-    const lastFocusableElement = subMenu.lastElementChild.querySelector('a');
+    const focusedElement = expandedItem.querySelector(`:focus`);
+    const firstFocusableElement = expandedItem.querySelector(`a`);
+    const lastFocusableElement = subMenu.lastElementChild.querySelector(`a`);
 
     if (!event.shiftKey && focusedElement === lastFocusableElement) {
       collapseSubMenu(expandedItem);
@@ -64,7 +64,11 @@ document.addEventListener('keydown', (event) => {
     }
   }
 
-  if (event.key == 'Escape') {
-    collapseSubMenu(expandedItem);
+  if (event.key === `Escape`) {
+    if (!expandedItem) {
+      return;
+    } else {
+      collapseSubMenu(expandedItem);
+    }
   }
 });

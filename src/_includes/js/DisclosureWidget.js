@@ -162,11 +162,17 @@ if (widgetWrapper) {
     }
   }
 
-  window.addEventListener(`DOMContentLoaded`, (evt) => {
+  function ready() {
     mq.matches ? createAccordions() : createTabs();
-  });
+  }
 
-  mq.addEventListener(`change`, (evt) => {
+  window.addEventListener(`DOMContentLoaded`, ready);
+
+  // window.addEventListener(`DOMContentLoaded`, (evt) => {
+  //   mq.matches ? createAccordions() : createTabs();
+  // });
+
+  function change() {
     let currentFocus = document.activeElement;
 
     if (currentFocus.closest(`.widget__wrapper`)) {
@@ -183,7 +189,28 @@ if (widgetWrapper) {
     }
     mq.matches ? createAccordions() : createTabs();
     currentFocus.focus();
-  });
+  }
+
+  mq.addEventListener(`change`, change);
+
+  // mq.addEventListener(`change`, (evt) => {
+  //   let currentFocus = document.activeElement;
+
+  //   if (currentFocus.closest(`.widget__wrapper`)) {
+  //     if (currentFocus.classList.contains(`widget__btn`)) {
+  //       open = Number(currentFocus.getAttribute(`data-btn-idx`));
+  //     } else if (currentFocus.classList.contains(`widget__panel`)) {
+  //       open = Number(currentFocus.getAttribute(`data-panel-idx`));
+  //       currentFocus = widgetWrapper.querySelector(`[data-btn-idx="${open}"]`);
+  //     } else if (currentFocus.closest(`.widget__panel`)) {
+  //       open = Number(
+  //         currentFocus.closest(`.widget__panel`).getAttribute(`data-panel-idx`),
+  //       );
+  //     }
+  //   }
+  //   mq.matches ? createAccordions() : createTabs();
+  //   currentFocus.focus();
+  // });
 
   widgetWrapper.addEventListener(`click`, handleClickOnBtns);
   widgetWrapper.addEventListener(`keydown`, handleKeyboardInteraction);
