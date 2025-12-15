@@ -26,6 +26,7 @@
  * 22. Social
  * 23. Comments
  * 24. Type specimen
+ * 25. Fancy horizontal rules (<hr>)
  */
 
 #home {
@@ -277,8 +278,6 @@ html[data-theme="dark"] .sun-and-moon {
 /* #nav-primary-wrapper, .breadcrumbs-separator, #main-wrapper */
 #nav-primary-wrapper {
   padding-block-end: var(--s1);
-
-  border-block-end: 1px solid var(--mpb-color-textPrimary);
 }
 
 #nav-secondary {
@@ -1278,5 +1277,51 @@ li[id^="mn:"] {
 
   figcaption {
     text-align: start;
+  }
+}
+
+/* Horizontal rules (<hr>)
+.box:has(+ .circle) */
+
+.hr-fancy,
+.hr-fancy:before,
+hr:has(+ #footnotes-wrapper),
+hr:has(+ #footnotes-wrapper):before {
+  --hr-border-height: .1em;
+
+  block-size: var(--hr-border-height);
+
+  border-style: solid;
+  border-width: 0;
+  border-color: var(--mpb-color-textPrimary);
+  /* border-radius: calc(var(--hr-border-height) * 2 / 3); */
+
+}
+
+.hr-fancy,
+hr:has(+ #footnotes-wrapper) {
+  position: relative;
+  inset-block-start: calc(var(--hr-border-height) * .5);
+  overflow: visible;
+  border-top-width: 1px;
+  text-align: center;
+
+   &:before {
+    display: block;
+    content: "";
+    margin-block-start: calc(((var(--hr-border-height) + 1px)) * -1);
+    border-bottom-width: 1px;
+  }
+
+  &:after {
+    background-color: var(--mpb-color-textReverse);
+    content: "☿" / "";
+    display: inline-block;
+    position: relative;
+    inset-block-start: calc(-1 * var(--s-1));
+    padding-block: 0;
+    padding-inline: .25em;
+    font-size: var(--mpb-font-size-5);
+    font-weight: var(--xbold);
   }
 }

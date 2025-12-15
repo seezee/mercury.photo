@@ -56,7 +56,7 @@ View [all tags](/blog/tags/) &rarr;{.no-drop-cap}
           </small>
           <p>{{ post.data.excerpt | safe }}</p>
         </div></switcher-l>
-      <hr />
+      <hr  class="hr-fancy"/>
     </stack-l>
   </li>
 {% endfor %}

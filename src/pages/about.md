@@ -39,7 +39,7 @@ After that, I inherited a couple of [my brother’s](https://www.facebook.com/mu
   <span class="sr-only" id="label-about-site">About this site</span>
   <stack-l>
 
-___
+___{.hr-fancy}
 
 ## What’s This Site About?
 

@@ -34,12 +34,9 @@ function moveFootnote() {
   const boxFlexedClass = `flex_box-flexed`;
   const boxSwitchedClass = `flex_box-switched`;
   const itemWrappedClass = `flex_item-wrapped`;
+
   const newRule = document.createElement(`hr`);
-  newRule.classList.add(
-    `govuk-section-break`,
-    `govuk-section-break--l`,
-    `govuk-section-break--visible`,
-  );
+  newRule.classList.add(`hr-fancy`);
 
   // Rounded for inline-flex sub-pixel discrepancies:
   const getTop = (item) => Math.round(item.getBoundingClientRect().top);
@@ -89,7 +86,10 @@ function moveFootnote() {
       } else {
         flexBox.classList.add(boxWrappedClass);
         flexBox.classList.remove(boxFlexedClass);
-        sidenotes.prepend(newRule);
+
+        if ((list.length) || (list2.length)) {
+          sidenotes.prepend(newRule);
+        }
       }
     });
   };
