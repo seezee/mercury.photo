@@ -183,7 +183,7 @@ h1 ~ p.no-drop-cap:not(:empty):first-of-type:first-letter {
 
 /* .small-caps, #breadcrumbs */
 .small-caps,
-#breadcrumbs {
+#breadcrumbs * {
   font-variant: all-small-caps;
   letter-spacing: 0.05ch;
 }

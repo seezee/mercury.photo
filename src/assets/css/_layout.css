@@ -392,7 +392,7 @@ ul ul .navigation__item {
 
 /* .hero-hed */
 .hero-hed {
-  font-size: calc(var(--mpb-font-size-5) * 2);
+  font-size: calc(var(--mpb-font-size-5) * 2.3);
   text-align: center;
 }
 

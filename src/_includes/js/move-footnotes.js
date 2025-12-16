@@ -87,7 +87,7 @@ function moveFootnote() {
         flexBox.classList.add(boxWrappedClass);
         flexBox.classList.remove(boxFlexedClass);
 
-        if ((list.length) || (list2.length)) {
+        if (list.length || list2.length) {
           sidenotes.prepend(newRule);
         }
       }
