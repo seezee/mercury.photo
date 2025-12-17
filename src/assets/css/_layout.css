@@ -29,7 +29,7 @@
  * 25. Fancy horizontal rules (<hr>)
  */
 
-#home {
+#home #main {
   overflow-x: hidden;
 }
 
@@ -1067,7 +1067,7 @@ li[id^="mn:"] {
   /* reinstate clicks */
   pointer-events: all;
   /* achieves desired positioning within the viewport relative to the top of the viewport once `sticky` takes over, or always if `fixed` fallback is used */
-  inset-block-start: calc(100vh - 5rem);
+  inset-block-start: calc(var(--scrollLength) - 5rem);
   text-decoration: none;
   font-size: 2rem;
   line-height: 3rem;

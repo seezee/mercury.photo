@@ -687,7 +687,7 @@ button,
   }
 
   &.button-primary {
-    color: var(--mpb-color-textSecondary);
+    color: var(--mpb-color-textReverse);
     background-color: var(--mpb-color-textPrimary);
 
     &:hover,
@@ -697,7 +697,7 @@ button,
     }
 
     a {
-      color: var(--mpb-color-textSecondary);
+      color: var(--mpb-color-textReverse);
       text-decoration: none;
 
       &:hover,

@@ -4,7 +4,8 @@
  * 3. :focus-visible styles
  */
 
-.header-footer > ul > li {
+.header-footer > ul > li,
+[role="listitem"] {
   > a.current,
   > a.current:visited {
     text-decoration-line: underline;
