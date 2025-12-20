@@ -3,7 +3,7 @@
  * @description Light/dark theme switcher.
  */
 
-import styles from "/assets/css/themeSwitcher.css" with { type: "css" }
+// import styles from "/assets/css/themeSwitcher.css" with { type: "css" }
 
 export default class ThemeSwitcher extends HTMLElement {
 
@@ -11,7 +11,7 @@ export default class ThemeSwitcher extends HTMLElement {
    * Call this method when the element is added to the document
    */
   connectedCallback() {
-    document.adoptedStyleSheets = [styles];
+    // document.adoptedStyleSheets = [styles];
     this.button = this.querySelector(`button`);
     const themeAttr = document.documentElement.getAttribute(`data-theme`);
     let themeMessage;
