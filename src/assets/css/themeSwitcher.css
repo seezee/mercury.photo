@@ -1,0 +1,104 @@
+/* Theme toggle based on
+https://web.dev/articles/building/a-theme-switch-component */
+
+.sun-and-moon {
+  > .sun-beams {
+    stroke: var(--mpb-color-textPrimary);
+    stroke-width: 2px;
+  }
+
+  > :is(.moon, .sun) {
+    fill: var(--mpb-color-textPrimary);
+  }
+
+  > :is(.moon, .sun, .sun-beams) {
+    transform-origin: center center;
+  }
+}
+
+#theme-toggle {
+  margin-block-start: var(--toggle-margin-top);
+  padding: 0;
+  inline-size: var(--toggle-size);
+  block-size: var(--toggle-size);
+  min-inline-size: var(--toggle-min-size);
+  min-block-size: var(--toggle-min-size);
+  aspect-ratio: 1;
+
+  -webkit-tap-highlight-color: transparent;
+  background: none;
+  border: none;
+  border-radius: 50%;
+  outline-offset: 5px;
+  cursor: pointer;
+
+  touch-action: manipulation;
+
+  > svg {
+    inline-size: 100%;
+    block-size: 100%;
+
+    stroke-linecap: round;
+  }
+
+  &:hover > .sun-and-moon > :is(.moon, .sun) {
+    fill: var(--mpb-color-iconFillHover);
+  }
+
+  &:hover .sun-and-moon > .sun-beams {
+    stroke: var(--mpb-color-iconFillHover);
+  }
+}
+
+html[data-theme="dark"] .sun-and-moon {
+  > .sun {
+    transform: scale(1.75);
+  }
+
+  > .sun-beams {
+    opacity: 0;
+  }
+
+  > .moon > circle {
+    transform: translate(-7px);
+
+    @supports (cx: 1px) {
+      transform: translateX(0);
+      cx: 17px;
+    }
+  }
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .sun-and-moon {
+    > .sun {
+      transition: transform 0.5s var(--ease-elastic-3) 0.5s;
+    }
+
+    > .sun-beams {
+      transition:
+        transform 0.5s var(--ease-elastic-4),
+        opacity 0.5s var(--ease-3) 0.5s;
+    }
+
+    .moon > circle {
+      transition: cx 0.25s var(--ease-out-5) 0.5s;
+    }
+  }
+
+  html[data-theme="dark"] .sun-and-moon {
+    > .sun {
+      transition: transform 0.25s var(--ease-out-5) 0.5s;
+    }
+
+    > .sun-beams {
+      transform: rotate(-25deg);
+      transition-duration: 0.15s;
+    }
+
+    > .moon > circle {
+      transition-delay: 0.25s;
+      transition-duration: 0.5s;
+    }
+  }
+}

@@ -182,6 +182,12 @@
   --bold: 600;
   --xbold: 800;
 
+  --snowfall-color-lightness: 30%;
+
+  --snow-fall-color:  oklch(
+    var(--snowfall-color-lightness) var(--mpb-alert-color-chroma) 221.42 / .5
+  );
+
   &[data-theme="dark"] {
     --mpb-c-p-50: 10% 0 0;
     --mpb-c-p-100: 20% 0 0;
@@ -217,6 +223,8 @@
     --normal: 300;
     --bold: 500;
     --xbold: 700;
+
+    --snowfall-color-lightness: 95%;
   }
 
   --ratio: 1.4;

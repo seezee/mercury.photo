@@ -478,6 +478,9 @@ module.exports = async (eleventyConfig) => {
 
   // Copy assets to build directory
   [
+    // Snowfall. Comment next line out after the winter holidays.
+    `src/assets/css/snow-fall.css`,
+    `src/assets/css/themeSwitcher.css`,
     `src/assets/files/`,
     `src/assets/fonts/`,
     `src/assets/images/`,
@@ -489,6 +492,8 @@ module.exports = async (eleventyConfig) => {
     'src/assets/images/site/favicon/*': `/`,
     _redirects: `/`,
     'dislike404-verification.txt': `/`,
+    // Snowfall. Comment next line out after the winter holidays.
+    'node_modules/@zachleat/snow-fall/snow-fall.js': `assets/js/snow-fall.js`,
   });
 
   // Watch directories for changes

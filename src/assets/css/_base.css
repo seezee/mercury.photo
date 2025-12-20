@@ -810,6 +810,9 @@ picture {
 img {
   margin-inline: auto;
   object-fit: cover;
+  font-size: var(--mpb-font-size-0);
+  font-style: italic;
+  text-wrap: pretty;
 }
 
 img[width][height] {

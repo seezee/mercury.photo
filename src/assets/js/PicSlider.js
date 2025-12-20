@@ -5,9 +5,6 @@
  */
 
 export default class picSlider extends HTMLElement {
-  constructor() {
-    super();
-  }
 
   connectedCallback() {
     const aspect = this.getAttribute(`aspect`);

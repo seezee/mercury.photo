@@ -61,6 +61,8 @@
     if (document.querySelector('switcher-l')) {
       import('/assets/js/Switcher.js');
     };
+    // Load for every page.
+    import('/assets/js/themeSwitcher.js');
   </script>
   <script
     src="/pagefind/pagefind-ui.js"
@@ -95,6 +97,7 @@
     {% include "js/search.js" %}
     {% include "js/sortTags.js" %}
   {% endset %}
+  <script type="module" src="/assets/js/snow-fall.js"></script>
   <script>
     {% if env.env == 'production' %}
       /* Feed it through our Terser `jsmin` filter to minify */

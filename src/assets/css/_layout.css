@@ -173,7 +173,7 @@ noscript div {
 /* Theme toggle based on
 https://web.dev/articles/building/a-theme-switch-component */
 
-.sun-and-moon {
+/* .sun-and-moon {
   > .sun-beams {
     stroke: var(--mpb-color-textPrimary);
     stroke-width: 2px;
@@ -273,7 +273,7 @@ html[data-theme="dark"] .sun-and-moon {
       transition-duration: 0.5s;
     }
   }
-}
+} */
 
 /* #nav-primary-wrapper, .breadcrumbs-separator, #main-wrapper */
 #nav-primary-wrapper {

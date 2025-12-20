@@ -1,0 +1,12 @@
+:root {
+  --snowfall-color-lightness: 30%;
+
+  --snow-fall-color:  oklch(
+    var(--snowfall-color-lightness) var(--mpb-alert-color-chroma) 221.42 / .5
+  );
+
+  &[data-theme="dark"] {
+
+    --snowfall-color-lightness: 95%;
+  }
+}

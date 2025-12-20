@@ -108,8 +108,9 @@ That’s it; other tools we frequently use are the Graduated Filter and the Lens
 ## Before & After Comparison
 
 <figure>
-  <mpb-picslider aspect="3 / 2" color="var(--mpb-color-textReverse)" bg-color="var(--mpb-color-accent)">
-    <stack-l>
+  <stack-l>
+    <mpb-picslider aspect="3 / 2" color="var(--mpb-color-textReverse)" bg-color="var(--mpb-color-accent)">
+      <stack-l>
 
   ![Cropped image before other adjustments. A small group of people gathered for Band Camp at the Okemah Fairgrounds during the Woody Guthrie Folk Festival. The image is in color, shot in low light, and is very noisy.](/assets/images/blog/2012-09-04-lr-tut/czahller-20120715-01-55-12-crop.jpg)![The same image after adjustments. It has been converted to black & white and has been edited to emphasize a single person’s face: A man named Richard. He is gaunt, elderly man with long hair, a long beard, and piercing eyes sitting in the dark, his face illuminated by a torch.](/assets/images/blog/2012-09-04-lr-tut/czahller-20120715-01-55-12-final.jpg)
     </stack-l>
@@ -118,6 +119,7 @@ That’s it; other tools we frequently use are the Graduated Filter and the Lens
 
     Cropped image before & after adjustments
   </figcaption>
+  </stack-l>
 </figure>
 
 ## Further Reading
