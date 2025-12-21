@@ -480,7 +480,7 @@ module.exports = async (eleventyConfig) => {
   [
     // Snowfall. Comment next line out after the winter holidays.
     `src/assets/css/snow-fall.css`,
-    `src/assets/css/themeSwitcher.css`,
+    // `src/assets/css/themeSwitcher.css`,
     `src/assets/files/`,
     `src/assets/fonts/`,
     `src/assets/images/`,
@@ -492,7 +492,8 @@ module.exports = async (eleventyConfig) => {
     'src/assets/images/site/favicon/*': `/`,
     _redirects: `/`,
     'dislike404-verification.txt': `/`,
-    // Snowfall. Comment next line out after the winter holidays.
+    // Snowfall. Comment next 2 lines out after the winter holidays.
+    'node_modules/@11ty/is-land/is-land.js': `assets/js/is-land.js`,
     'node_modules/@zachleat/snow-fall/snow-fall.js': `assets/js/snow-fall.js`,
   });
 

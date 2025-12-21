@@ -1,6 +1,6 @@
 {
   "name": "mercury.photo",
-  "version": "1.0.333",
+  "version": "1.0.334",
   "description": "Rangefinder + Mirrorless Digital + Large Format Film Photography + Music, Arts, & News",
   "main": "index.js",
   "bugs": {
@@ -34,6 +34,7 @@
   "dependencies": {
     "@11ty/eleventy": "^3.1.2",
     "@11ty/eleventy-img": "^6.0.4",
+    "@11ty/is-land": "^5.0.1",
     "@zachleat/snow-fall": "^1.0.3",
     "eleventy-plugin-seo": "^0.5.2"
   },
