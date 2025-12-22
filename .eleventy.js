@@ -359,14 +359,25 @@ module.exports = async (eleventyConfig) => {
   // JS  & CSS bundling, tree-shaking, & minification
 
   eleventyConfig.on(`eleventy.before`, async () => {
+    if (is_production) {
       await esbuild.build({
         entryPoints: [`src/assets/js/index.js`, `src/assets/css/index.css`],
         bundle: true,
         treeShaking: true,
         outdir: `_site/assets/`,
         sourcemap: true,
+        minify: true,
         target, // From our constant, set at top of file
       });
+    } else {
+      await esbuild.build({
+        entryPoints: [`src/assets/js/index.js`, `src/assets/css/index.css`],
+        bundle: true,
+        treeShaking: true,
+        outdir: `_site/assets/`,
+        target,
+      });
+    }
   });
 
   // JS inline minification
