@@ -368,6 +368,18 @@ module.exports = async (eleventyConfig) => {
       });
   });
 
+  // JS inline minification
+  eleventyConfig.addNunjucksAsyncFilter(`jsmin`, async (code, callback) => {
+    try {
+      const minified = await minify(code);
+      callback(null, minified.code);
+    } catch (err) {
+      console.error(`Terser error: `, err);
+      // Fail gracefully.
+      callback(null, code);
+    }
+  });
+
   // HTML minification
   eleventyConfig.addTransform(`htmlmin`, async function(content) {
     if (this.page.outputPath && this.page.outputPath.endsWith(`.html`)) {
