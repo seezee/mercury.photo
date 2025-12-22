@@ -12,6 +12,7 @@ const mdAttrs = require('markdown-it-attrs');
 const mdAnchor = require('markdown-it-anchor');
 const mdDL = require('markdown-it-deflist');
 const mdFN = require('markdown-it-footnote');
+const { minify } = require('terser');
 const outdent = require('outdent');
 const path = require('path');
 const pluginSEO = require('eleventy-plugin-seo');
