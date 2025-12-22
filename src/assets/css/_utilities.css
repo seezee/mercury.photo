@@ -1,7 +1,7 @@
 /**
  * Utilities CSS
  *
- * 1. .alignleft, .alignright, .aligncenter
+ * 1. .alignstart, .alignend, .aligncenter
  * 2. .no-break
  * 3. .no-wrap
  * 4. .sr-only, .keywords
@@ -10,12 +10,12 @@
  * 7. .short-work
  */
 
-/* .alignleft, .alignright, .aligncenter */
-.alignleft {
+/* .alignstart, .alignend, .aligncenter */
+.alignstart {
   text-align: start;
 }
 
-.alignright {
+.alignend {
   text-align: end;
 }
 

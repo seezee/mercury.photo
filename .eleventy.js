@@ -2,9 +2,9 @@
 
 const browserslist = require('browserslist');
 const eleventyAutoCacheBuster = require('eleventy-auto-cache-buster');
-const eleventyPluginFilesMinifier = require('@codestitchofficial/eleventy-plugin-minify');
 const esbuild = require('esbuild');
 const { feedPlugin } = require('@11ty/eleventy-plugin-rss');
+const htmlmin = require('html-minifier-next');
 const Image = require('@11ty/eleventy-img');
 // const { eleventyImageTransformPlugin } = require('@11ty/eleventy-img');
 const markdownIt = require('markdown-it');
@@ -12,7 +12,6 @@ const mdAttrs = require('markdown-it-attrs');
 const mdAnchor = require('markdown-it-anchor');
 const mdDL = require('markdown-it-deflist');
 const mdFN = require('markdown-it-footnote');
-const { minify } = require('terser');
 const outdent = require('outdent');
 const path = require('path');
 const pluginSEO = require('eleventy-plugin-seo');
@@ -359,41 +358,38 @@ module.exports = async (eleventyConfig) => {
   // JS  & CSS bundling, tree-shaking, & minification
 
   eleventyConfig.on(`eleventy.before`, async () => {
-    if (is_production) {
       await esbuild.build({
         entryPoints: [`src/assets/js/index.js`, `src/assets/css/index.css`],
         bundle: true,
         treeShaking: true,
         outdir: `_site/assets/`,
         sourcemap: true,
-        minify: true,
         target, // From our constant, set at top of file
       });
-    } else {
-      await esbuild.build({
-        entryPoints: [`src/assets/js/index.js`, `src/assets/css/index.css`],
-        bundle: true,
-        treeShaking: true,
-        outdir: `_site/assets/`,
-        target,
-      });
-    }
-  });
-
-  // JS inline minification
-  eleventyConfig.addNunjucksAsyncFilter(`jsmin`, async (code, callback) => {
-    try {
-      const minified = await minify(code);
-      callback(null, minified.code);
-    } catch (err) {
-      console.error(`Terser error: `, err);
-      // Fail gracefully.
-      callback(null, code);
-    }
   });
 
   // HTML minification
-  eleventyConfig.addPlugin(eleventyPluginFilesMinifier);
+  eleventyConfig.addTransform(`htmlmin`, async function(content) {
+    if (this.page.outputPath && this.page.outputPath.endsWith(`.html`)) {
+      let minified = await htmlmin.minify(content, {
+        // Options: https://github.com/j9t/html-minifier-next?tab=readme-ov-file#options-quick-reference
+        caseSensitive: true,
+        collapseBooleanAttributes: true,
+        collapseWhitespace: true,
+        decodeEntities: true,
+        minifyCSS: true,
+        minifyJS: true,
+        preventAttributesEscaping: true,
+        removeComments: true,
+        removeOptionalTags: true,
+        removeRedundantAttributes: true,
+        sortAttributes: true,
+        sortClassName: true
+      });
+      return minified;
+    }
+    return content;
+  });
 
   // Cache busting
   if (is_production) {

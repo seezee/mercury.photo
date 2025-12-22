@@ -543,7 +543,7 @@ td:not(:last-of-type),
   }
 
   td {
-    &:not(.alignleft) {
+    &:not(.alignstart) {
       text-align: end;
     }
 
