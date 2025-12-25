@@ -25,7 +25,7 @@ Photographer <span class="h-card p-name">Paige S. Wilson</span> recently dropped
 
 Wilson was in born Los Angeles and raised in Oklahoma City. After taking a photography class at Harding Charter Preparatory High School, she enrolled at the University of Central Oklahoma (UCO), where she took a darkroom class. Unlike her darkroom time in high school, which she describes as spent <q>goofing off,</q> she ended up really loving it this time&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;enough to minor in photography. She began shooting professionally during her junior year at UCO.
 
-After graduation, Wilson completed an internship with Los Angeles fashion photographer and videographer <span class="h-card p-name">[Tamar Levine](https://www.tamarlevine.com/){target=_blank rel="external noopener"}</span> before returning to teach high school-level photography at her alma mater. Outside the classroom, she is much in demand as a commercial photographer, working principally in Los Angeles and Oklahoma. To see her portfolio or book a session, please visit [Paige Wilson Photography](https://www.paigeswilson.com){target=_blank rel="external noopener"}
+After graduation, Wilson completed an internship with Los Angeles fashion photographer and videographer <span class="h-card p-name">[Tamar Levine](https://www.tamarlevine.com/){target=_blank rel="external noopener"}</span> before returning to teach high school-level photography at her alma mater. Outside the classroom, she is much in demand as a commercial photographer, working principally in Los Angeles and Oklahoma. To see her portfolio or book a session, please visit [Paige Wilson Photography](https://www.facebook.com/PaigeSWilson){target=_blank rel="external noopener"}
 
 ## Technical
 
