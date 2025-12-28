@@ -151,10 +151,10 @@ module.exports = async (eleventyConfig) => {
 
   // RSS Feed
   eleventyConfig.addPlugin(feedPlugin, {
-    type: `atom`,
+    type: `rss`,
     outputPath: `/feed.xml`,
     collection: {
-      name: `posts`, // iterate over `collections.posts`
+      name: `blog`, // iterate over `collections.blog`
       limit: 0, // 0 means no limit
     },
     metadata: {
