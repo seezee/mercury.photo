@@ -20,6 +20,7 @@ User-agent: *
 Content-Signal: search=yes, ai-train=no
 Allow: /
 Sitemap: {{ env.siteURL }}/rss.xml
+Disallow: _redirects
 Disallow: /assets/
 Disallow: /blog/tags/
 Disallow: /pagefind/
@@ -30,7 +31,11 @@ Disallow: /manifest.webmanifest
 
 User-agent: Googlebot
 Allow: /
-Disallow: /assets/
+Sitemap: {{ env.siteURL }}/rss.xml
+Disallow: _redirects
+Disallow: /assets/css/
+Disallow: /assets/fonts/
+Disallow: /assets/js/
 Disallow: /blog/tags/
 Disallow: /pagefind/
 Disallow: /404.html
