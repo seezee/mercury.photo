@@ -1,36 +1,38 @@
 /**
  * Layout
  *
- * 1.  noscript
- * 2.  #skip-link, #skip-slideshow-link
- * 3.  Search
- * 3.  Theme toggle
- * 4.  #nav-primary-wrapper, #nav-secondary, .breadcrumbs-separator, #main-wrapper
- * 5.  .hero-hed
- * 6.  .recent-posts
- * 7   blog-index
- * 8.  .masonry
- * 9.  Columns (.col-2, .col-3, .col-4, .col-5)
- * 10.  hgroup
- * 11.  <dd> styles: .dd-add-space, dd+br
- * 12. .after-icon spacer
- * 13. .recipe-index
- * 14. #mpb-logo (footer icon)
- * 15. Footnotes & sidenotes
- * 16. Pagination
- * 17. Comments, author info, support cta, & footer
- * 18. Scroller
- * 19. Tag post excerpt
- * 20. Staff, OKIE-X, Sitemap, Tags
- * 21. Wedding prices
- * 22. Social
- * 23. Comments
- * 24. Type specimen
- * 25. Fancy horizontal rules (<hr>)
+ * 1.  #home
+ * 2.  noscript
+ * 3.  #skip-link, #skip-slideshow-link
+ * 4.  Search
+ * 5.  Theme toggle
+ * 6.  #nav-primary-wrapper, #nav-secondary, .breadcrumbs-separator, #main-wrapper
+ * 7.  .hero-hed
+ * 8.  .recent-posts
+ * 9   blog-index
+ * 10.  .masonry
+ * 11.  Columns (.col-2, .col-3, .col-4, .col-5)
+ * 12.  hgroup
+ * 13.  <dd> styles: .dd-add-space, dd+br
+ * 14. .after-icon spacer
+ * 15. .recipe-index
+ * 16. #mpb-logo (footer icon)
+ * 17. Footnotes & sidenotes
+ * 18. Pagination
+ * 19. Comments, author info, support cta, & footer
+ * 20. Scroller
+ * 21. Tag post excerpt
+ * 22. Staff, OKIE-X, Sitemap, Tags
+ * 23. Wedding prices
+ * 24. Social
+ * 25. Comments
+ * 26. Type specimen
+ * 27. Fancy horizontal rules (<hr>)
  */
 
-#home #main {
-  overflow-x: hidden;
+#home {
+  max-width: 100dvw;
+  overflow-x: clip;
 }
 
 /* No script */
