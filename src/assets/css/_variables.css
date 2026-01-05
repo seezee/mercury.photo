@@ -180,11 +180,11 @@
 
   --normal: 400;
   --bold: 600;
-  --xbold: 800;
+  --x-bold: 800;
 
   --snowfall-color-lightness: 30%;
 
-  --snow-fall-color:  oklch(
+  --snow-fall-color: oklch(
     var(--snowfall-color-lightness) var(--mpb-alert-color-chroma) 221.42 / .5
   );
 
@@ -222,7 +222,7 @@
 
     --normal: 300;
     --bold: 500;
-    --xbold: 700;
+    --x-bold: 700;
 
     --snowfall-color-lightness: 95%;
   }
@@ -317,7 +317,7 @@
 
 /* biome-ignore-start lint: Valid rule */
 @media (prefers-reduced-transparency: no-preference) {
-  /* biome-ignore-end lint: Valid rule */
+/* biome-ignore-end lint: Valid rule */
   :root {
     --mpb-color-figureBG: oklch(var(--mpb-c-p-200) / 0.5);
     --mpb-color-imgBG: oklch(var(--mpb-c-p-100) / 0.5);

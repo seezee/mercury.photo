@@ -1324,6 +1324,6 @@ hr:has(+ #footnotes-wrapper) {
     padding-block: 0;
     padding-inline: .25em;
     font-size: var(--mpb-font-size-5);
-    font-weight: var(--xbold);
+    font-weight: var(--x-bold);
   }
 }

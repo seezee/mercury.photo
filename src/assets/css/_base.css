@@ -273,7 +273,7 @@ strong {
   h1,
   h2,
   h3 {
-    font-weight: var(--xbold, 900);
+    font-weight: var(--x-bold, 900);
   }
 }
 

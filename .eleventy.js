@@ -8,8 +8,8 @@ const htmlmin = require('html-minifier-next');
 const Image = require('@11ty/eleventy-img');
 // const { eleventyImageTransformPlugin } = require('@11ty/eleventy-img');
 const markdownIt = require('markdown-it');
-const mdAttrs = require('markdown-it-attrs');
 const mdAnchor = require('markdown-it-anchor');
+const mdAttrs = require('markdown-it-attrs');
 const mdDL = require('markdown-it-deflist');
 const mdFN = require('markdown-it-footnote');
 const { minify } = require('terser');
@@ -26,7 +26,7 @@ const is_production =
 const mdOpts = {
   html: true,
   breaks: true,
-  linkify: true,
+  linkify: true
 };
 
 const mdAnchorOpts = {
@@ -397,15 +397,24 @@ module.exports = async (eleventyConfig) => {
     if (this.page.outputPath && this.page.outputPath.endsWith(`.html`)) {
       let minified = await htmlmin.minify(content, {
         // Options: https://github.com/j9t/html-minifier-next?tab=readme-ov-file#options-quick-reference
-        caseSensitive: true,
+        // Don't set removeOptionalTags: true;
+        // it messes up custom elements!
         collapseBooleanAttributes: true,
         collapseWhitespace: true,
+        caseSensitive: true,
         decodeEntities: true,
         minifyCSS: true,
         minifyJS: true,
+        minifySVG: true,
         preventAttributesEscaping: true,
         removeComments: true,
-        removeOptionalTags: true,
+        removeEmptyElements: true,
+        removeEmptyElementsExcept: [
+          '<div class="search" id="search"></div>',
+          '<button id="theme-toggle"></button>',
+          '<div class="pagination-spacer"></div>',
+          '<snow-fall></snow-fall>'
+        ],
         removeRedundantAttributes: true,
         sortAttributes: true,
         sortClassName: true
@@ -418,7 +427,7 @@ module.exports = async (eleventyConfig) => {
   // Cache busting
   if (is_production) {
     eleventyConfig.addPlugin(eleventyAutoCacheBuster, {
-      globstring: `**/*.{css,js,png,jpg,jpeg,gif,webp,svg,mp4,ico}`,
+      globstring: `**/*.{css,js,png,jpg,jpeg,gif,webp,svg,mp4,m4a,mp3,ogg,ico}`,
     });
   }
 
