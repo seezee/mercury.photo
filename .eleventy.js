@@ -412,6 +412,7 @@ module.exports = async (eleventyConfig) => {
         removeEmptyElementsExcept: [
           '<div class="search" id="search"></div>',
           '<button id="theme-toggle"></button>',
+          '<div id="space-occupier"></div>',
           '<div class="pagination-spacer"></div>',
           '<snow-fall></snow-fall>'
         ],
