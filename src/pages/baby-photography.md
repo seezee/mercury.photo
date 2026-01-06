@@ -12,7 +12,7 @@ permalink: "/services/baby-photography/"
 
 {% image "featured", "img-constrained", "A baby asleep on her belly, her little butt in the air and her mouth ajar. She is dressed in a white smock with a bow on the back. She sleeps on a star-dusted blue cushion. A cloudy blue sky print forms the background", "Baby Butt!", "eager" %}</mpb-dialog-img>
 
-Pictured: newborn portrait session of Alicia and David Goad’s first daughter, Jazz Marie, photographed on film and digital.<a href="#mn:1" id="mnref:1"><span class="sr-only"> [See note]</span></a>
+Pictured: newborn portrait session of Alicia and David Goad’s first daughter, Jazz Marie, photographed on film and digital.<a href="#mn1" id="mnref1"><span class="sr-only"> [See note]</span></a>
 
 <mpb-dialog-gallery hint rel cols="8">
 
@@ -32,9 +32,9 @@ Pictured: newborn portrait session of Alicia and David Goad’s first daughter, 
 <footer class="marginnotes" aria-labelledby="#label-marginnotes">
   <span class="sr-only" id="label-margin-notes">Notes</span>
   <ul class="marginnotes-list" role="list">
-    <li id="mn:1" role="listitem">
+    <li id="mn1" role="listitem">
 
-Like what you see? [Schedule your portrait](/contact) or get a quote today!
+Like what you see? [Schedule your portrait](/contact) or get a quote today!&nbsp;<a href="#mnref1" a><span class="sr-only">Back to content&nbsp;</span>↩︎</a>
     </li>
   </ul>
 

@@ -24,7 +24,7 @@ excerpt: Today we present candid images from my first year as a volunteer photog
 
 {% image "featured", "img-constrained", "Giovanni “Nooch” Carnuccio & Friend — Backstage Area, Pastures of Plenty, Woody Guthrie Folk Festival 16", "Giovanni “Nooch” Carnuccio & Friend&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;Backstage Area, Pastures of Plenty, Woody Guthrie Folk Festival 16", "eager" %}</mpb-dialog-img>
 
-Today we present candid images from my first year as a volunteer photographer for the <span class="h-card p-org"><span class="p-name"><span class="p-nickname">Woody</span> Guthrie</span> Folk Festival</span>.<a href="#mn:1" id="mnref:1"><span class="sr-only"> [See note]</span></a> I was still learning to use my newly-acquired Leica digital rangefinder camera when I shot the <time datetime="2012-07">2012</time> festival from the audience.  A <time datetime="2013-07">year later</time> I had shot numerous musical performances and festivals, so I was feeling much more confident as I documented the <time datetime="2013-07">2013</time> Woodyfest.
+Today we present candid images from my first year as a volunteer photographer for the <span class="h-card p-org"><span class="p-name"><span class="p-nickname">Woody</span> Guthrie</span> Folk Festival</span>.<a href="#mn1" id="mnref1"><span class="sr-only"> [See note]</span></a> I was still learning to use my newly-acquired Leica digital rangefinder camera when I shot the <time datetime="2012-07">2012</time> festival from the audience.  A <time datetime="2013-07">year later</time> I had shot numerous musical performances and festivals, so I was feeling much more confident as I documented the <time datetime="2013-07">2013</time> Woodyfest.
 
 <time datetime="2013-07">2013</time> was also my first year to camp at the festival. The campgrounds are located at the Okemah rodeo grounds. I was camped with a group of Woodyfest regulars who always set up under the trees near the campground entrance. They call themselves “Band Camp” and are just one of several clans to host a song-circle during the festival evenings.
 
@@ -53,9 +53,9 @@ As a volunteer I have access to various backstage areas that are off-limits to t
 <footer class="marginnotes" aria-labelledby="#label-marginnotes">
   <span class="sr-only" id="label-margin-notes">Notes</span>
   <ul class="marginnotes-list" role="list">
-    <li id="mn:1" role="listitem">
+    <li id="mn1" role="listitem">
 
-While we’re all hunkered down riding out <abbr class="noscaps">SARS-CoV-2</abbr>, <abbr>a.k.a.</abbr> the <time datetime="2019">2019</time> novel coronavirus, Mercury Photo Bureau will be bringing you a mix of stories on the Woody Guthrie Folk Festival old and new. We dedicate today’s story to the memories of <span class="h-card p-name">Gordon Bradley “<span class="p-nickname">Brad</span>” James <abbr>Jr</abbr>.</span> (<time datetime="1966">1966&NoBreak;&hairsp;&NoBreak;&ndash;&NoBreak;&hairsp;&NoBreak;<time datetime="2015-12">2015</time>) and <span class="h-card p-name">Jimmy LaFave</span> (<time datetime="1955-07-12">1955&NoBreak;&hairsp;&NoBreak;&ndash;&NoBreak;&hairsp;&NoBreak;<time datetime="2017-05-21">2017</time>).&nbsp;<a href="#mnref:1" a><span class="sr-only">Back to content </span>↩︎</a>
+While we’re all hunkered down riding out <abbr class="noscaps">SARS-CoV-2</abbr>, <abbr>a.k.a.</abbr> the <time datetime="2019">2019</time> novel coronavirus, Mercury Photo Bureau will be bringing you a mix of stories on the Woody Guthrie Folk Festival old and new. We dedicate today’s story to the memories of <span class="h-card p-name">Gordon Bradley “<span class="p-nickname">Brad</span>” James <abbr>Jr</abbr>.</span> (<time datetime="1966">1966&NoBreak;&hairsp;&NoBreak;&ndash;&NoBreak;&hairsp;&NoBreak;<time datetime="2015-12">2015</time>) and <span class="h-card p-name">Jimmy LaFave</span> (<time datetime="1955-07-12">1955&NoBreak;&hairsp;&NoBreak;&ndash;&NoBreak;&hairsp;&NoBreak;<time datetime="2017-05-21">2017</time>).&nbsp;<a href="#mnref1" a><span class="sr-only">Back to content </span>↩︎</a>
     </li>
   </ul>
 

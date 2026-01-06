@@ -150,7 +150,7 @@ That’s just what holds people back, you know, <q>I’m worried about what the 
 
 ## Gallery: <cite>Exposition</cite> Recording Sessions
 
-Before we interviewed Easton we took some pictures of him tracking songs for the album.<a href="#mn:1" id="mnref:1"><span class="sr-only"> [See note]</span></a> Afterward he art-directed an impromptu photo shoot taking advantage of the unusual surroundings. Who know the Okfuskee Historical Society had a basketball court upstairs?
+Before we interviewed Easton we took some pictures of him tracking songs for the album.<a href="#mn1" id="mnref1"><span class="sr-only"> [See note]</span></a> Afterward he art-directed an impromptu photo shoot taking advantage of the unusual surroundings. Who know the Okfuskee Historical Society had a basketball court upstairs?
 
 <mpb-dialog-gallery hint rel cols="8">
   
@@ -175,11 +175,11 @@ Before we interviewed Easton we took some pictures of him tracking songs for the
 <footer class="marginnotes" aria-labelledby="#label-marginnotes">
   <span class="sr-only" id="label-margin-notes">Notes</span>
   <ul class="marginnotes-list" role="list">
-    <li id="mn:1" role="listitem"><stack-l><mpb-dialog-img>
+    <li id="mn1" role="listitem"><stack-l><mpb-dialog-img>
 
 {% image "./src/assets/images/blog/2018-12-19-tim-easton-exposition/tim-easton-exposition-lp-jacket-front.png", "img-constrained", "Tim Easton — Exposition Album Front Jacket", "Tim Easton&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;Exposition Album Front Jacket" %}</mpb-dialog-img>
 
-After the bureau published this article, Easton licensed several of the images from the shoot for the <cite>Exposition</cite> LP and CD, which he commissioned us to design. We also designed a promotional poster. [You can see the final designs here](https://messengerwebdesign.com/portfolio/tim-easton-exposition-album-design-package/){target=_blank rel="external me noopener"}.&nbsp;<a href="#mnref:1" a><span class="sr-only">Back to content </span>↩︎</a>
+After the bureau published this article, Easton licensed several of the images from the shoot for the <cite>Exposition</cite> LP and CD, which he commissioned us to design. We also designed a promotional poster. [You can see the final designs here](https://messengerwebdesign.com/portfolio/tim-easton-exposition-album-design-package/){target=_blank rel="external me noopener"}.&nbsp;<a href="#mnref1" a><span class="sr-only">Back to content </span>↩︎</a>
 
   </stack-l></li>
   </ul>

@@ -92,7 +92,7 @@ Thanks for reading,
   ![Crab Eyes — Charon’s Garden Wilderness Area, Wichita Mountains Wildlife Refuge](/assets/images/blog/2018-09-23-wichita-reserve/czahller-20180819-19-06-47.jpg)
 </mpb-dialog-gallery>
 
-## Technical<a href="#mn:1" id="mnref:1"><span class="sr-only"> [See note]</span></a>
+## Technical<a href="#mn1" id="mnref1"><span class="sr-only"> [See note]</span></a>
 
 Tripod:
 : Ries J100, maplewood with optional bronze knobs
@@ -145,11 +145,11 @@ Software:
 <footer class="marginnotes" aria-labelledby="#label-marginnotes">
   <span class="sr-only" id="label-margin-notes">Notes</span>
   <ul class="marginnotes-list" role="list">
-    <li id="mn:1" role="listitem">
+    <li id="mn1" role="listitem">
 
 <mpb-dialog-img>
 
-{% image "./src/assets/images/okie-x/czahller-20160313-10-43-55.jpg", "img-constrained", "Wista 45DX 4×5 field camera, extended, with Schneider Kreuznach Symmar-S ƒ5.6/150 & Copal No. 0 shutter", "Wista 45DX 4×5 field camera. This is the same camera I use for <a href=\"/okie-x/\">OKIE-X</a>." %}</mpb-dialog-img>
+{% image "./src/assets/images/okie-x/czahller-20160313-10-43-55.jpg", "img-constrained", "Wista 45DX 4×5 field camera, extended, with Schneider Kreuznach Symmar-S ƒ5.6/150 & Copal No. 0 shutter", "Wista 45DX 4×5 field camera. This is the same camera I use for <a href=\"/okie-x/\">OKIE-X</a>.&nbsp;<a href=\"#mnref1\" a><span class=\"sr-only\">Back to content&nbsp;</span>↩︎</a>" %}</mpb-dialog-img>
     </li>
   </ul>
 </footer>

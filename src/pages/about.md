@@ -16,7 +16,7 @@ My brief life as a photographer
   </stack-l>
 </hgroup>
 
-My name is <span class="h-card"><span class="p-given-name">[Chris J. Zähller](https://chris.zahller.me/){target=_blank rel="external me noopener"}</span></span>, <a href="#mn:1" id="mnref:1"><span class="sr-only"> [See note]</span></a> and my first camera was a mail-order [Kodak Instamatic](https://camera-wiki.org/wiki/Instamatic#110_pocket_cassette_film){target=_blank rel="external noopener"} pocket film camera with a “stick” flash, purchased by saving proofs-of-purchase from my mom’s feminine hygiene products. My second camera was my mom’s hand-me-down [Polaroid Land](https://en.wikipedia.org/wiki/Land_Camera){target=_blank rel="external noopener"} camera.<a href="#mn:2" id="mnref:2"><span class="sr-only"> [See note]</span></a> I used a film SLR for a class assignment in the early 1980s. After that I didn’t pick up another camera for a decade-and-a-half, when I bought a [Canon Elph](https://camera-wiki.org/wiki/Canon_IXUS){target=_blank rel="external noopener"} <abbr title="Advanced Photo System">APS</abbr> camera in the 1990s.{.drop-cap}
+My name is <span class="h-card"><span class="p-given-name">[Chris J. Zähller](https://chris.zahller.me/){target=_blank rel="external me noopener"}</span></span>, <a href="#mn1" id="mnref1"><span class="sr-only"> [See note]</span></a> and my first camera was a mail-order [Kodak Instamatic](https://camera-wiki.org/wiki/Instamatic#110_pocket_cassette_film){target=_blank rel="external noopener"} pocket film camera with a “stick” flash, purchased by saving proofs-of-purchase from my mom’s feminine hygiene products. My second camera was my mom’s hand-me-down [Polaroid Land](https://en.wikipedia.org/wiki/Land_Camera){target=_blank rel="external noopener"} camera.<a href="#mn2" id="mnref2"><span class="sr-only"> [See note]</span></a> I used a film SLR for a class assignment in the early 1980s. After that I didn’t pick up another camera for a decade-and-a-half, when I bought a [Canon Elph](https://camera-wiki.org/wiki/Canon_IXUS){target=_blank rel="external noopener"} <abbr title="Advanced Photo System">APS</abbr> camera in the 1990s.{.drop-cap}
 
 After that, I inherited a couple of [my brother’s](https://www.facebook.com/musicsantacruz){target=_blank rel="external noopener"} cast-off digital point & shoots. They were okay, but they didn’t me want to spend my vacation with a camera in front of my face. Not when I could be enjoying the sights unencumbered.
 
@@ -26,12 +26,12 @@ After that, I inherited a couple of [my brother’s](https://www.facebook.com/mu
 <footer class="marginnotes" aria-labelledby="#label-marginnotes">
   <span class="sr-only" id="label-margin-notes">Notes</span>
   <ul class="marginnotes-list" role="list">
-    <li id="mn:1" role="listitem">
+    <li id="mn1" role="listitem">
 
-{% image "./src/assets/images/site/about/avatar-2016-short-hair-pencil-moustache.png", "img-constrained", "Avatar depicting the author. He is wearing a stingy-brim hat set at a rakish angle. His pencil-thin moustache sets the ladies a-swooning.", "Your Humble Author: Publisher, correspondent, author, photographer, and <span class='tooltip' title='A junior officer of the British Royal Navy; someone who does drudge work.'>dogsbody</span>.&nbsp;<a href=\"#mnref:1\" a><span class=\"sr-only\">Back to content&nbsp;</span>↩︎</a>" %}</li>
-  <li id="mn:2" role="listitem">
+{% image "./src/assets/images/site/about/avatar-2016-short-hair-pencil-moustache.png", "img-constrained", "Avatar depicting the author. He is wearing a stingy-brim hat set at a rakish angle. His pencil-thin moustache sets the ladies a-swooning.", "Your Humble Author: Publisher, correspondent, author, photographer, and <span class='tooltip' title='A junior officer of the British Royal Navy; someone who does drudge work.'>dogsbody</span>.&nbsp;<a href=\"#mnref1\" a><span class=\"sr-only\">Back to content&nbsp;</span>↩︎</a>" %}</li>
+  <li id="mn2" role="listitem">
   
-  The Polaroid was a Christmas gift from my father to my mother. I suspect it was a [Homer’s bowling ball](https://simpsons.fandom.com/wiki/Homer_(bowling_ball)){target=_blank rel="external noopener"} situation.&nbsp;<a href="#mnref:2" a><span class="sr-only">Back to content&nbsp;</span>↩︎</a></li>
+  The Polaroid was a Christmas gift from my father to my mother. I suspect it was a [Homer’s bowling ball](https://simpsons.fandom.com/wiki/Homer_(bowling_ball)){target=_blank rel="external noopener"} situation.&nbsp;<a href="#mnref2" a><span class="sr-only">Back to content&nbsp;</span>↩︎</a></li>
 </ul>
 </footer>
 

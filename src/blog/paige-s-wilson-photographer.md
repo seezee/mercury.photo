@@ -21,7 +21,7 @@ excerpt: Photographer Paige S. Wilson recently dropped by Mercury Photo Bureau W
 
 {% image "featured", "img-constrained", "Paige S. Wilson monochrome studio portrait. She wears a horizontal-striped top. Her hair is short, except on top where she wears it in dreadlocks.", "Paige S. Wilson", "eager" %}</mpb-dialog-img>
 
-Photographer <span class="h-card p-name">Paige S. Wilson</span> recently dropped by Mercury Photo Bureau for a facilities tour. We traded places behind the camera to make one another’s portraits.<a href="#mn:1" id="mnref:1"><span class="sr-only"> [See note]</span></a>
+Photographer <span class="h-card p-name">Paige S. Wilson</span> recently dropped by Mercury Photo Bureau for a facilities tour. We traded places behind the camera to make one another’s portraits.<a href="#mn1" id="mnref1"><span class="sr-only"> [See note]</span></a>
 
 Wilson was in born Los Angeles and raised in Oklahoma City. After taking a photography class at Harding Charter Preparatory High School, she enrolled at the University of Central Oklahoma (UCO), where she took a darkroom class. Unlike her darkroom time in high school, which she describes as spent <q>goofing off,</q> she ended up really loving it this time&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;enough to minor in photography. She began shooting professionally during her junior year at UCO.
 
@@ -92,11 +92,11 @@ Digitization &amp; post-production
 <footer class="marginnotes" aria-labelledby="#label-marginnotes">
   <span class="sr-only" id="label-margin-notes">Notes</span>
   <ul class="marginnotes-list" role="list">
-    <li id="mn:1" role="listitem">
+    <li id="mn1" role="listitem">
 
 <mpb-dialog-img>
 
-{% image "./src/assets/images/blog/2017-03-13-paige/pwilson-20170226-11-27-12.jpg", "img-constrained", "Chris J. Zähller monochrome portrait. The subject wears an embroidered western snap-front shirt, rayon scarf, and vintage western hat.", "Chris J. Zähller&nbsp;<a href=\"#mnref:1\" class=\"govuk-link\"><span class=\"sr-only\">Back to content </span>↩︎</a>" %}</mpb-dialog-img>
+{% image "./src/assets/images/blog/2017-03-13-paige/pwilson-20170226-11-27-12.jpg", "img-constrained", "Chris J. Zähller monochrome portrait. The subject wears an embroidered western snap-front shirt, rayon scarf, and vintage western hat.", "Chris J. Zähller&nbsp;<a href=\"#mnref1\" class=\"govuk-link\"><span class=\"sr-only\">Back to content </span>↩︎</a>" %}</mpb-dialog-img>
     </li>
   </ul>
 </footer>

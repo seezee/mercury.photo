@@ -21,7 +21,7 @@ excerpt: An excerpt
 
 {% image "featured", "img-constrained", "Contact sheet featuring the third dozen OKIE-X subjects.", "", "eager" %}</mpb-dialog-img>
 
-Thank you for completing the OKIE-X Artists’ Survey.<a href="#mn:1" id="mnref:1"><span class="sr-only"> [See note]</span></a> Your answers will help me create the descriptive cards that will be displayed alongside your portrait in the OKIE-X project. Fields marked with <span class="required">*</span> are required.
+Thank you for completing the OKIE-X Artists’ Survey.<a href="#mn1" id="mnref1"><span class="sr-only"> [See note]</span></a> Your answers will help me create the descriptive cards that will be displayed alongside your portrait in the OKIE-X project. Fields marked with <span class="required">*</span> are required.
 
 {% include "_okie-x-artist-survey.njk" %}
 
@@ -29,9 +29,9 @@ Thank you for completing the OKIE-X Artists’ Survey.<a href="#mn:1" id="mnref:
 <footer class="marginnotes" aria-labelledby="#label-marginnotes">
   <span class="sr-only" id="label-margin-notes">Notes</span>
   <ul class="marginnotes-list" role="list">
-    <li id="mn:1" role="listitem">
+    <li id="mn1" role="listitem">
 
-We’ll contact our artists to coördinate their sittings and to follow up with them when the show is ready to hang, as well as to arrange furnishing each artist with a complimentary digital file of their portrait after the show has hung. We won’t spam you and we won’t share your contact information without your explicit consent.&nbsp;<a href="#mnref:1" a><span class="sr-only">Back to content&nbsp;</span>↩︎</a>
+We’ll contact our artists to coördinate their sittings and to follow up with them when the show is ready to hang, as well as to arrange furnishing each artist with a complimentary digital file of their portrait after the show has hung. We won’t spam you and we won’t share your contact information without your explicit consent.&nbsp;<a href="#mnref1" a><span class="sr-only">Back to content&nbsp;</span>↩︎</a>
     </li>
   </ul>
 

@@ -14,7 +14,7 @@ permalink: "/legal/photo-copyright/"
 </mpb-dialog-img>
 <p>You are viewing this page because you peeked at the exif/iptc metadata in one of my pictures. The image bearing this page’s URL is copyright ©2012{{ dateUtils.currentYear() | safe }} Mercury Photo Bureau dba Messenger Web Design LLC.</p>
 
-All rights to the photographic image are reserved. You may not copy, <a href="#mn:1" id="mnref:1"><span class="sr-only"> [See note]</span></a> share, or distribute the image without written permission from the copyright holder, nor may you alter it, nor create derivative works from it, nor remove nor alter the embedded metadata.
+All rights to the photographic image are reserved. You may not copy, <a href="#mn1" id="mnref1"><span class="sr-only"> [See note]</span></a> share, or distribute the image without written permission from the copyright holder, nor may you alter it, nor create derivative works from it, nor remove nor alter the embedded metadata.
 
 Mercury Photo Bureau vigorously protects its intellectual property rights. Violators can expect to bear the full legal and financial consequences of any such breach.
 
@@ -23,9 +23,9 @@ Remember: it’s not nice to steal!
 <footer class="marginnotes" aria-labelledby="#label-marginnotes">
   <span class="sr-only" id="label-margin-notes">Notes</span>
   <ul class="marginnotes-list" role="list">
-    <li id="mn:1" role="listitem">
+    <li id="mn1" role="listitem">
 
-Your computer or other connected devices automatically cache a copy of any image you view on the internet; of course, we make an exception for that.&nbsp;<a href="#mnref:1" a><span class="sr-only">Back to content&nbsp;</span>↩︎</a>
+Your computer or other connected devices automatically cache a copy of any image you view on the internet; of course, we make an exception for that.&nbsp;<a href="#mnref1" a><span class="sr-only">Back to content&nbsp;</span>↩︎</a>
     </li>
   </ul>
 </footer>

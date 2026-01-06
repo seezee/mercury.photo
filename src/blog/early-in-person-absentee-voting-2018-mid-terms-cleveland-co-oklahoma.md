@@ -47,7 +47,7 @@ In addition to voting to fill the positions of Governor, Lieutenant Governor, At
 * Establishment of a new State Trust Fund
 * Expanding permissible uses of Ad Valorem taxes for school districts. Currently, such taxes must typically be used only for district building funds
 
-Voters will also decide whether to retain sitting judges.<a href="#mn:1" id="mnref:1"><span class="sr-only"> [See note]</span></a> The Council on American-Islamic Relations (CAIR) Oklahoma Chapter has conducted thorough, non-partisan [research](https://www.cairoklahoma.com/blog/2018-overview-of-judge-retention-on-oklahoma-ballot/){target="_blank" rel="external noopener"} on all the judges. I urge you to read and draw your own conclusions. Remember to jot down the names of the judges for when you go to the polls.
+Voters will also decide whether to retain sitting judges.<a href="#mn1" id="mnref1"><span class="sr-only"> [See note]</span></a> The Council on American-Islamic Relations (CAIR) Oklahoma Chapter has conducted thorough, non-partisan [research](https://www.cairoklahoma.com/blog/2018-overview-of-judge-retention-on-oklahoma-ballot/){target="_blank" rel="external noopener"} on all the judges. I urge you to read and draw your own conclusions. Remember to jot down the names of the judges for when you go to the polls.
 
 ## Gallery: Early Voting
 
@@ -68,9 +68,9 @@ Voters will also decide whether to retain sitting judges.<a href="#mn:1" id="mnr
 <footer class="marginnotes" aria-labelledby="#label-marginnotes">
   <span class="sr-only" id="label-margin-notes">Notes</span>
   <ul class="marginnotes-list" role="list">
-    <li id="mn:1" role="listitem">
+    <li id="mn1" role="listitem">
 
-Readers, this writer has a confession to make. In past elections, I have been too busy (or too lazy) to research judges. I’ve always just ticked off the “Yes” box on judicial retention. The past two years have seen record numbers of judges appointed to important seats under the current administration. Some of those nominations have been controversial, to say the least. Others might have been as contentious, had they not slipped under the radar or been buried in the news cycle by a certain Twitter account. This year I researched the justices before voting and it became clear there were some I’d rather not see keep their seats. I&rsquo;m especially troubled by Justice <span class="h-card p-given-name">Wyrick</span>. The Leadership Conference have [written about him](https://civilrights.org/oppose-confirmation-patrick-wyrick-u-s-district-court-western-district-oklahoma/){target="_blank" rel="external noopener"}.
+Readers, this writer has a confession to make. In past elections, I have been too busy (or too lazy) to research judges. I’ve always just ticked off the “Yes” box on judicial retention. The past two years have seen record numbers of judges appointed to important seats under the current administration. Some of those nominations have been controversial, to say the least. Others might have been as contentious, had they not slipped under the radar or been buried in the news cycle by a certain Twitter account. This year I researched the justices before voting and it became clear there were some I’d rather not see keep their seats. I&rsquo;m especially troubled by Justice <span class="h-card p-given-name">Wyrick</span>. The Leadership Conference have [written about him](https://civilrights.org/oppose-confirmation-patrick-wyrick-u-s-district-court-western-district-oklahoma/){target="_blank" rel="external noopener"}.&nbsp;<a href="#mnref1" a><span class="sr-only">Back to content&nbsp;</span>↩︎</a>
     </li>
   </ul>
 </footer>

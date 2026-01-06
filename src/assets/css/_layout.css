@@ -604,7 +604,7 @@ hgroup h1 + p {
   list-style: none;
 }
 
-a[id^="fnref"] {
+a[id^=fnref] {
   color: var(--mpb-color-accent);
   text-decoration: none;
 }
@@ -689,93 +689,93 @@ a[id^="fnref"] {
   anchor-name: --fn-20;
 }
 
-#mnref\:1 {
+#mnref1 {
   anchor-name: --mn-1;
 }
 
-#mnref\:2 {
+#mnref2 {
   anchor-name: --mn-2;
 }
 
-#mnref\:3 {
+#mnref3 {
   anchor-name: --mn-3;
 }
 
-#mnref\:4 {
+#mnref4 {
   anchor-name: --mn-4;
 }
 
-#mnref\:5 {
+#mnref5 {
   anchor-name: --mn-5;
 }
 
-#mnref\:6 {
+#mnref6 {
   anchor-name: --mn-6;
 }
 
-#mnref\:7 {
+#mnref7 {
   anchor-name: --mn-7;
 }
 
-#mnref\:8 {
+#mnref8 {
   anchor-name: --mn-8;
 }
 
-#mnref\:9 {
+#mnref9 {
   anchor-name: --mn-9;
 }
 
-#mnref\:10 {
+#mnref10 {
   anchor-name: --mn-10;
 }
 
-#mnref\:11 {
+#mnref11 {
   anchor-name: --mn-11;
 }
 
-#mnref\:12 {
+#mnref12 {
   anchor-name: --mn-12;
 }
 
-#mnref\:13 {
+#mnref13 {
   anchor-name: --mn-13;
 }
 
-#mnref\:14 {
+#mnref14 {
   anchor-name: --mn-14;
 }
 
-#mnref\:15 {
+#mnref15 {
   anchor-name: --mn-15;
 }
 
-#mnref\:16 {
+#mnref16 {
   anchor-name: --mn-16;
 }
 
-#mnref\:17 {
+#mnref17 {
   anchor-name: --mn-17;
 }
 
-#mnref\:18 {
+#mnref18 {
   anchor-name: --mn-18;
 }
 
-#mnref\:19 {
+#mnref19 {
   anchor-name: --mn-19;
 }
 
-#mnref\:20 {
+#mnref20 {
   anchor-name: --mn-20;
 }
 
 /* Fixes notes being too wide on small mobile devices. */
-li[id^="fn"],
-li[id^="mn:"] {
+li[id^=fn],
+li[id^=mn] {
   max-inline-size: none;
 }
 
-[id^="mnref:"] { /* 24 px min target size */
+[id^=mnref] { /* 24 px min target size */
   min-inline-size: 1.5rem;
   min-block-size: 1.5rem;
 
@@ -800,14 +800,14 @@ li[id^="mn:"] {
     #share-wrapper,
     #tags-wrapper,
     #space-occupier,
-    li[id^="fn"],
-    li[id^="mn:"] {
+    li[id^=fn],
+    li[id^=mn] {
       /* Fit sidebar width when wrapped */
       max-inline-size: 30ch;
     }
   }
 
-  [id^="mnref:"]:not(.test)::after {
+  [id^=mnref]:not(.test)::after {
     &:not(:focus-visible) {
       position: absolute;
       display: inline-block;
@@ -830,8 +830,8 @@ li[id^="mn:"] {
     padding-inline-end: var(--s1);
   }
 
-  li[id^="fn"],
-  li[id^="mn:"] {
+  li[id^=fn],
+  li[id^=mn] {
     bottom: auto;
     anchor-name: --sidenote;
     /* inset-block-start: max(anchor(start) , calc(anchor(--sidenote bottom) + var(--s1))); /* Incompatible with css-anchor-positioning polyfill */
@@ -932,89 +932,89 @@ li[id^="mn:"] {
     position-anchor: --fn-20;
   }
 
-  #mn\:1 {
+  #mn1 {
     position-anchor: --mn-1;
     /* inset-block-start: calc(anchor(start) - var(--s1)); /* Incompatible with css-anchor-positioning polyfill */
     top: calc(anchor(start));
   }
 
-  #mn\:2 {
+  #mn2 {
     position-anchor: --mn-2;
   }
 
-  #mn\:3 {
+  #mn3 {
     position-anchor: --mn-3;
   }
 
-  #mn\:4 {
+  #mn4 {
     position-anchor: --mn-4;
   }
 
-  #mn\:5 {
+  #mn5 {
     position-anchor: --mn-5;
   }
 
-  #mn\:6 {
+  #mn6 {
     position-anchor: --mn-6;
   }
 
-  #mn\:7 {
+  #mn7 {
     position-anchor: --mn-6;
   }
 
-  #mn\:7 {
+  #mn7 {
     position-anchor: --mn-7;
   }
 
-  #mn\:8 {
+  #mn8 {
     position-anchor: --mn-8;
   }
 
-  #mn\:9 {
+  #mn9 {
     position-anchor: --mn-9;
   }
 
-  #mn\:10 {
+  #mn10 {
     position-anchor: --mn-10;
   }
 
-  #mn\:11 {
+  #mn11 {
     position-anchor: --mn-11;
   }
 
-  #mn\:12 {
+  #mn12 {
     position-anchor: --mn-12;
   }
 
-  #mn\:13 {
+  #mn13 {
     position-anchor: --mn-13;
   }
 
-  #mn\:14 {
+  #mn14 {
     position-anchor: --mn-14;
   }
 
-  #mn\:15 {
+  #mn15 {
     position-anchor: --mn-15;
   }
 
-  #mn\:16 {
+  #mn16 {
     position-anchor: --mn-16;
   }
 
-  #mn\:17 {
+  #mn17 {
     position-anchor: --mn-17;
   }
 
-  #mn\:18 {
+  #mn18 {
     position-anchor: --mn-18;
   }
 
-  #mn\:19 {
+  #mn19 {
     position-anchor: --mn-19;
   }
 
-  #mn\:20 {
+  #mn20 {
     position-anchor: --mn-20;
   }
 }

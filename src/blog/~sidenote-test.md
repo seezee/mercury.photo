@@ -14,19 +14,19 @@ permalink: /blog/sidenote-test/
 
 {% image "featured", "img-constrained", "A dog", "Foobar", "eager" %}</mpb-dialog-img>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis tortor odio, molestie quis pellentesque eleifend, dapibus in nunc. Quisque et augue nunc. Phasellus ut ligula vitae turpis iaculis faucibus. Nam fermentum maximus ligula, quis scelerisque magna tempus quis. Nam aliquet in nulla id ultricies. Cras facilisis nisl vel lacus posuere, in tempus enim fermentum. Fusce sem ipsum,<a href="#mn:1" class="test" id="mnref:1"><span class="sr-only"> [See note]</span></a> consectetur vel scelerisque nec, egestas vitae ipsum.[^1]
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis tortor odio, molestie quis pellentesque eleifend, dapibus in nunc. Quisque et augue nunc. Phasellus ut ligula vitae turpis iaculis faucibus. Nam fermentum maximus ligula, quis scelerisque magna tempus quis. Nam aliquet in nulla id ultricies. Cras facilisis nisl vel lacus posuere, in tempus enim fermentum. Fusce sem ipsum,<a href="#mn1" class="test" id="mnref1"><span class="sr-only"> [See note]</span></a> consectetur vel scelerisque nec, egestas vitae ipsum.[^1]
 
 [^1]: Cras facilisis nisl vel lacus posuere, in tempus enim fermentum.
 
 ## Heading H2
 
-Suspendisse bibendum cursus sem, id tempus turpis fringilla quis. Curabitur porttitor sapien mi, sed rutrum ipsum interdum at. Nulla sit amet eleifend dui, a convallis eros. Integer quis orci convallis, dapibus metus at, ullamcorper turpis.[^2] Aenean dictum ante non diam convallis tempus. Mauris volutpat, justo id efficitur feugiat, felis quam interdum orci, non vestibulum diam mauris eu diam. Quisque feugiat ac nunc at interdum. In et egestas erat. Maecenas at est vel mi laoreet fermentum.<a href="#mn:2" class="test" id="mnref:2"><span class="sr-only"> [See note]</span></a>
+Suspendisse bibendum cursus sem, id tempus turpis fringilla quis. Curabitur porttitor sapien mi, sed rutrum ipsum interdum at. Nulla sit amet eleifend dui, a convallis eros. Integer quis orci convallis, dapibus metus at, ullamcorper turpis.[^2] Aenean dictum ante non diam convallis tempus. Mauris volutpat, justo id efficitur feugiat, felis quam interdum orci, non vestibulum diam mauris eu diam. Quisque feugiat ac nunc at interdum. In et egestas erat. Maecenas at est vel mi laoreet fermentum.<a href="#mn2" class="test" id="mnref2"><span class="sr-only"> [See note]</span></a>
 
 [^2]: Curabitur porttitor sapien mi, sed rutrum ipsum interdum at. Nulla sit amet eleifend dui, a convallis eros.
 
 ### Heading H3
 
-Curabitur dui elit, tempor et bibendum at, bibendum id risus. Donec maximus dapibus elit id mattis.<a href="#mn:3" class="test" id="mnref:3"><span class="sr-only"> [See note]</span></a> In risus justo, vestibulum a suscipit a, mollis et dui. Phasellus ornare consequat justo ut sollicitudin. Suspendisse vel diam risus. Aliquam erat volutpat. Cras iaculis interdum arcu sed interdum. Fusce ut elit fringilla ipsum facilisis molestie eget quis ligula. Duis aliquet quis elit nec viverra. Morbi scelerisque facilisis fringilla. Donec nisi lectus, fermentum ut varius id, egestas ac ligula. Aenean bibendum vel nisi non molestie. Integer est arcu,[^3] posuere ac dui at,[^4] dignissim pretium neque. Sed enim nisi, pellentesque et venenatis at, maximus finibus ante. Suspendisse tempor neque orci, quis malesuada massa facilisis et. Sed ut enim luctus, auctor tellus id, commodo nulla.
+Curabitur dui elit, tempor et bibendum at, bibendum id risus. Donec maximus dapibus elit id mattis.<a href="#mn3" class="test" id="mnref3"><span class="sr-only"> [See note]</span></a> In risus justo, vestibulum a suscipit a, mollis et dui. Phasellus ornare consequat justo ut sollicitudin. Suspendisse vel diam risus. Aliquam erat volutpat. Cras iaculis interdum arcu sed interdum. Fusce ut elit fringilla ipsum facilisis molestie eget quis ligula. Duis aliquet quis elit nec viverra. Morbi scelerisque facilisis fringilla. Donec nisi lectus, fermentum ut varius id, egestas ac ligula. Aenean bibendum vel nisi non molestie. Integer est arcu,[^3] posuere ac dui at,[^4] dignissim pretium neque. Sed enim nisi, pellentesque et venenatis at, maximus finibus ante. Suspendisse tempor neque orci, quis malesuada massa facilisis et. Sed ut enim luctus, auctor tellus id, commodo nulla.
 
 [^3]: Cras iaculis interdum arcu sed interdum. Fusce ut elit fringilla ipsum facilisis molestie eget quis ligula.
 
@@ -60,16 +60,16 @@ Bar
 <footer class="marginnotes" aria-labelledby="#label-marginnotes">
   <span class="sr-only" id="label-margin-notes">Notes</span>
   <ul class="marginnotes-list" role="list">
-    <li id="mn:1" role="listitem">
-      <span class="foreign" lang="la">Morchella esculenta</span>, or yellow morels, are widely distributed, but especially common in eastern North America and the Midwest. They are the most common morel species found in Oklahoma. Despite the popular name, they can be pale brownish cream, yellow to tan or pale brown to grayish brown.&nbsp;<a href="#mnref:1" a><span class="sr-only">Back to content&nbsp;</span>↩︎</a>
+    <li id="mn1" role="listitem">
+      <span class="foreign" lang="la">Morchella esculenta</span>, or yellow morels, are widely distributed, but especially common in eastern North America and the Midwest. They are the most common morel species found in Oklahoma. Despite the popular name, they can be pale brownish cream, yellow to tan or pale brown to grayish brown.&nbsp;<a href="#mnref1" a><span class="sr-only">Back to content&nbsp;</span>↩︎</a>
     </li>
-    <li id="mn:2" role="listitem">
+    <li id="mn2" role="listitem">
 
-When choosing food to accompany morels, avoid strongly flavored ingredients. The delicate taste and aroma of the mushrooms is easily overwhelmed. Strong cheeses, raw or undercooked garlic, and highly aromatic spices are all no-nos. The simpler the better.&nbsp;<a href="#mnref:2" a><span class="sr-only">Back to content&nbsp;</span>↩︎</a>
+When choosing food to accompany morels, avoid strongly flavored ingredients. The delicate taste and aroma of the mushrooms is easily overwhelmed. Strong cheeses, raw or undercooked garlic, and highly aromatic spices are all no-nos. The simpler the better.&nbsp;<a href="#mnref2" a><span class="sr-only">Back to content&nbsp;</span>↩︎</a>
     </li>
-    <li id="mn:3" role="listitem">
+    <li id="mn3" role="listitem">
 
-The same conditions that produce bountiful morels also favor ticks. When foraging in the Oklahoma woods wear high boots, long pants, and a long-sleeved top. Apply insect repellent generously. The most effective tick-preventatives are DEET applied direct-to-skin and permethrin applied to clothing.&nbsp;<a href="#mnref:3" a><span class="sr-only">Back to content&nbsp;</span>↩︎</a>
+The same conditions that produce bountiful morels also favor ticks. When foraging in the Oklahoma woods wear high boots, long pants, and a long-sleeved top. Apply insect repellent generously. The most effective tick-preventatives are DEET applied direct-to-skin and permethrin applied to clothing.&nbsp;<a href="#mnref3" a><span class="sr-only">Back to content&nbsp;</span>↩︎</a>
     </li>
   </ul>
 </footer>

@@ -25,7 +25,7 @@ excerpt: Roosevelt is a small, all-but-abandoned town in western Oklahoma. Accor
 
 Roosevelt is a small, all-but-abandoned town in western Oklahoma. According to the latest census, the population numbers 248. Today it’s known as a massive automobile morgue: several auto salvage companies have set up shop there, and today the corpses of cars and trucks outnumber the living.
 
-<a href="#mn:1" id="mnref:1"><span class="sr-only"> [See note]</span>The town once boasted a beautiful Art Deco high school, and across the street, an identical building housing the Arts and Crafts school. Those buildings are now derelict and empty, apart from some salvage automobiles in temporary storage in the high school.
+<a href="#mn1" id="mnref1"><span class="sr-only"> [See note]</span>The town once boasted a beautiful Art Deco high school, and across the street, an identical building housing the Arts and Crafts school. Those buildings are now derelict and empty, apart from some salvage automobiles in temporary storage in the high school.
 
 The five buildings shown are a former bank, now occupied by city hall; the former Nash’s Department Store, which used to host the Masonic lodge upstairs; an unidentified building with a hand-scrawled sign reading <q>Moose and Squirrel</q>; another former bank which later housed a pharmacy; a former grocer’s; and a final unknown building.
 
@@ -77,9 +77,9 @@ Software
 <footer class="marginnotes" aria-labelledby="#label-marginnotes">
   <span class="sr-only" id="label-margin-notes">Notes</span>
   <ul class="marginnotes-list" role="list">
-    <li id="mn:1" role="listitem">
+    <li id="mn1" role="listitem">
 
-{% image "./src/assets/images/blog/2017-08-04-roosevelt/google-earth-roosevelt.jpg", "img-constrained", "Google Earth view of salvage yards, Roosevelt, Oklahoma", "Google Earth view of salvage yards, Roosevelt, Oklahoma&nbsp;<a href=\"#mnref:1\" class=\"govuk-link\"><span class=\"sr-only\">Back to content </span>↩︎" %}
+{% image "./src/assets/images/blog/2017-08-04-roosevelt/google-earth-roosevelt.jpg", "img-constrained", "Google Earth view of salvage yards, Roosevelt, Oklahoma", "Google Earth view of salvage yards, Roosevelt, Oklahoma&nbsp;<a href=\"#mnref1\" class=\"govuk-link\"><span class=\"sr-only\">Back to content </span>↩︎" %}
     </li>
   </ul>
 </footer>

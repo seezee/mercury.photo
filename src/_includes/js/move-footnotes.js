@@ -60,7 +60,7 @@ function moveFootnote() {
         const isSwitchedBoxWrapped =
           flexBox.classList.contains(boxSwitchedClass) &&
           firstItemTop < lastItemTop;
-        const links = document.querySelectorAll(`[id^="mnref:"]`);
+        const links = document.querySelectorAll(`[id^="mnref"]`);
 
         if (isItemWrapped || isSwitchedBoxWrapped) {
           flexItem.classList.add(itemWrappedClass);

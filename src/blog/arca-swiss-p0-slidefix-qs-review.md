@@ -144,7 +144,7 @@ Rating
 This review has been updated to reflect current prices as of <time datetime="2025">2025</time>.
 </mpb-callout>
 
-The Arca-Swiss Monoball <span class="lining">P0</span> Tripod Head, retailing for $328.<sup>44</sup> USD, features a knobless tripod head with a three-element geared locking system.<a href="#mn:1" id="mnref:1"><span class="sr-only"> [See note]</span></a> To tilt, rotate the knurled band counter-clockwise (as viewed from above) about a quarter turn. The more you loosen it, the less resistance the gears provide, allowing a tilt range of about 30° from horizontal in any direction. A slot on the side opposite the panoramic release lock allows a full 90° tilt from horizontal. The asymmetrical design of the gears prevents the head from flopping over by increasing resistance the farther the head travels from horizontal.{.drop-cap}
+The Arca-Swiss Monoball <span class="lining">P0</span> Tripod Head, retailing for $328.<sup>44</sup> USD, features a knobless tripod head with a three-element geared locking system.<a href="#mn1" id="mnref1"><span class="sr-only"> [See note]</span></a> To tilt, rotate the knurled band counter-clockwise (as viewed from above) about a quarter turn. The more you loosen it, the less resistance the gears provide, allowing a tilt range of about 30° from horizontal in any direction. A slot on the side opposite the panoramic release lock allows a full 90° tilt from horizontal. The asymmetrical design of the gears prevents the head from flopping over by increasing resistance the farther the head travels from horizontal.{.drop-cap}
 
 ## Size & Weight
 
@@ -156,7 +156,7 @@ The Monoball <span class="lining">P0</span> head is rated at 44.1&nbsp;lbs. (2
 
 ## Deployment
 
-<a href="#mn:2" id="mnref:2"><span class="sr-only"> [See note]</span></a>The Monoball <span class="lining">P0</span> head attaches to a standard 3/8″ (.375″ or 9.525&nbsp;mm) coarse thread (16&nbsp;<abbr title="threads per inch">tpi</abbr>) tripod screw. Our tripod has a reversible stud with the two standard sizes (.25″ and .375″), so to mount it we fit the head over the  appropriate stud-end and tighten clockwise. A single-bubble spirit level on top aids leveling; mounting a camera to the head partially blocks the the level’s visibility, limiting its usefulness.
+<a href="#mn2" id="mnref2"><span class="sr-only"> [See note]</span></a>The Monoball <span class="lining">P0</span> head attaches to a standard 3/8″ (.375″ or 9.525&nbsp;mm) coarse thread (16&nbsp;<abbr title="threads per inch">tpi</abbr>) tripod screw. Our tripod has a reversible stud with the two standard sizes (.25″ and .375″), so to mount it we fit the head over the  appropriate stud-end and tighten clockwise. A single-bubble spirit level on top aids leveling; mounting a camera to the head partially blocks the the level’s visibility, limiting its usefulness.
 
 Attaching a camera equipped with a compatible QS quick-release (QR) plate is simple. Assuming you’ve mounted the QS plate to the camera tripod socket with the dovetails facing the camera front and back:
 
@@ -179,7 +179,7 @@ Attaching a camera equipped with a compatible QS quick-release (QR) plate is sim
 You can mount an Arca-Swiss quick release-plate to your camera’s tripod socket either with the dovetails facing the camera’s front and back, or turn it 90° so the dovetails are facing left/right. In the former case, you can center the lens over the Monoball <span class="lining">P0</span> head by sliding laterally. In the latter, you can adjust the position of the lens’s rear nodal point by sliding back and forth.
 </mpb-callout>
 
-<a href="#mn:3" id="mnref:3"><span class="sr-only"> [See note]</span></a>
+<a href="#mn3" id="mnref3"><span class="sr-only"> [See note]</span></a>
 A small flip knob on the panoramic QS device unlocks it for panning. Flip up (counter-clockwise) to release, pan, then flip down to lock. Clearly marked indices aid setting a precise panning position. Because the panning plate is on top and the ball is on the bottom, you don’t have to level the tripod legs when shooting panoramas: Just level the head, then pan the camera.
 
 To tilt the Monoball <span class="lining">P0</span> head up to 30° in any direction, loosen the knurled locking ring (counter-clockwise), adjust tilt, then tighten the ring. As the tilt angle increases, the planetary gears increase resistance to prevent accidental movement from gravity.
@@ -238,17 +238,17 @@ The Monoball <span class="lining">P0</span> head is well built and designed, a
 <footer class="marginnotes" aria-labelledby="#label-marginnotes">
   <span class="sr-only" id="label-margin-notes">Notes</span>
   <ul class="marginnotes-list" role="list">
-    <li id="mn:1" role="listitem">
+    <li id="mn1" role="listitem">
 
 Since this article posted, Arca-Swiss have addressed some of the compatibility issues we noted, releasing the [Monoball <span class="lining">P0</span> Ballhead with Classic quick-release](https://bhpho.to/475u0C7){target=_blank rel="external noopener"} (MFR. <span class="ord">No.</span> 801-214, $587.<sup>86</sup> USD) and the [Monoball <span class="lining">P0</span> with Fliplock Quick Set Device](https://www.bhphotovideo.com/c/product/1029548-REG/arca_swiss_801215_monoball_p0_with_fliplock.html/BI/19462/KBID/11656/DFF/d10-v21-t1-x507006/SID/EZ){target=_blank rel="external noopener"} (MFR. <span class="ord">No.</span> 801-215, $483.<sup>60</sup> USD). **Our current recommendation is for either of these models in preference to the model reviewed here**.
 
-    <li id="mn:2" role="listitem">
+    <li id="mn2" role="listitem">
 
-{% image "./src/assets/images/blog/2012-08-29-arca-swiss/arca-swiss-p0-with-qs-clamp.jpg", "img-constrained", "Arca-Swiss Monoball P0 Tripod Head Panning System & SlideFix QS Quick Release", "Arca-Swiss Monoball <span class=\"lining\">P0</span> Tripod Head Panning System & SlideFix QS Quick Release&nbsp;<a href=\"#mnref:2\" class=\"govuk-link\"><span class=\"sr-only\">Back to content&nbsp;</span>↩︎</a>" %}
+{% image "./src/assets/images/blog/2012-08-29-arca-swiss/arca-swiss-p0-with-qs-clamp.jpg", "img-constrained", "Arca-Swiss Monoball P0 Tripod Head Panning System & SlideFix QS Quick Release", "Arca-Swiss Monoball <span class=\"lining\">P0</span> Tripod Head Panning System & SlideFix QS Quick Release&nbsp;<a href=\"#mnref2\" class=\"govuk-link\"><span class=\"sr-only\">Back to content&nbsp;</span>↩︎</a>" %}
 
-    <li id="mn:3" role="listitem">
+    <li id="mn3" role="listitem">
 
-{% image "./src/assets/images/blog/2012-08-29-arca-swiss/arca-swiss-p0-90-deg.jpg", "img-constrained", "Arca-Swiss Monoball P0 tilted 90°; shown w/o QS clamp", "Arca-Swiss Monoball <span class=\"lining\">P0</span> tilted 90°; shown w/o QS clamp&nbsp;<a href=\"#mnref:3\" class=\"govuk-link\"><span class=\"sr-only\">Back to content&nbsp;</span>↩︎</a>" %}
+{% image "./src/assets/images/blog/2012-08-29-arca-swiss/arca-swiss-p0-90-deg.jpg", "img-constrained", "Arca-Swiss Monoball P0 tilted 90°; shown w/o QS clamp", "Arca-Swiss Monoball <span class=\"lining\">P0</span> tilted 90°; shown w/o QS clamp&nbsp;<a href=\"#mnref3\" class=\"govuk-link\"><span class=\"sr-only\">Back to content&nbsp;</span>↩︎</a>" %}
 
 </ul>
 </footer>

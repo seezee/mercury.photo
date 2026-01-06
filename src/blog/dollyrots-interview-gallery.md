@@ -111,7 +111,7 @@ And so, it’s a house, with an indoor pool, but the thing is, the back wall, it
 
 <span class="spkr">MPB</span> Is there a song that you would consider emblematic of the whole album?
 
-<span class="spkr">Ogden</span> I feel like <cite class="short-work">Animal</cite>: it was the last song that we wrote.<a href="#mn:1" id="mnref:1"><span class="sr-only"> [See note]</span></a> We wrote it in the hotel room before we got to Fields’s studio the next morning. I still didn’t have all the lyrics and we actually had fans in the studio that morning [&hellip;]. It was 10 a.m.; I hadn’t eaten anything, I hadn’t had my freakin’ coffee, and I had to sing the most like, *loud*, *strong* song on the record. But it’s a song about freedom, and it’s a song that, as a mother, that&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;it’s totally *the Mom* song. It’s about just getting in your car, getting away for the night, and remembering who you are and where you come from. And so *obviously* I love that song. And I also love&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;all of them. Just all of them. It’s hard: <cite class="short-work">In Your Face</cite> is incredible; <cite class="short-work">Everything</cite> is incredible; uh, <cite class="short-work">Flippy in My Red Dress</cite> is the *weirdest* one. And it actually started out as a song for a side project that shall not be named until it happens.
+<span class="spkr">Ogden</span> I feel like <cite class="short-work">Animal</cite>: it was the last song that we wrote.<a href="#mn1" id="mnref1"><span class="sr-only"> [See note]</span></a> We wrote it in the hotel room before we got to Fields’s studio the next morning. I still didn’t have all the lyrics and we actually had fans in the studio that morning [&hellip;]. It was 10 a.m.; I hadn’t eaten anything, I hadn’t had my freakin’ coffee, and I had to sing the most like, *loud*, *strong* song on the record. But it’s a song about freedom, and it’s a song that, as a mother, that&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;it’s totally *the Mom* song. It’s about just getting in your car, getting away for the night, and remembering who you are and where you come from. And so *obviously* I love that song. And I also love&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;all of them. Just all of them. It’s hard: <cite class="short-work">In Your Face</cite> is incredible; <cite class="short-work">Everything</cite> is incredible; uh, <cite class="short-work">Flippy in My Red Dress</cite> is the *weirdest* one. And it actually started out as a song for a side project that shall not be named until it happens.
 
 <mpb-dialog-img>
 
@@ -225,11 +225,11 @@ Software
 <footer class="marginnotes" aria-labelledby="#label-marginnotes">
   <span class="sr-only" id="label-margin-notes">Notes</span>
   <ul class="marginnotes-list" role="list">
-    <li id="mn:1" role="listitem">
+    <li id="mn1" role="listitem">
 
 <mpb-dialog-img>
 
-{% image "./src/assets/images/blog/2019-04-03-dollyrots/czahller-20190322-23-39-19.jpg", "img-constrained", "Dollyrots Set List — Dollyrots at the 89th St Collective", "Dollyrots Set List&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;Dollyrots at the 89th St Collective&nbsp;<a href=\"#mnref:1\" class=\"govuk-link\"><span class=\"sr-only\">Back to content </span>↩︎</a>" %}</mpb-dialog-img>
+{% image "./src/assets/images/blog/2019-04-03-dollyrots/czahller-20190322-23-39-19.jpg", "img-constrained", "Dollyrots Set List — Dollyrots at the 89th St Collective", "Dollyrots Set List&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;Dollyrots at the 89th St Collective&nbsp;<a href=\"#mnref1\" class=\"govuk-link\"><span class=\"sr-only\">Back to content </span>↩︎</a>" %}</mpb-dialog-img>
     </li>
   </ul>
 </footer>

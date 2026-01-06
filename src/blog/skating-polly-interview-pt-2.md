@@ -45,7 +45,7 @@ We’ve also got pics from their <span class="h-card p-org">Record Store Day</sp
 
 <figure>
   <stack-l>
-    <a href="#mn:1" id="mnref:1"><span class="sr-only"> [See note]</span></a>
+    <a href="#mn1" id="mnref1"><span class="sr-only"> [See note]</span></a>
     <iframe class="aspect aspect-16x9" src="https://www.youtube.com/embed/XNbPwqNUkhk?si=jA8vok2uWLgPMrFN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
     <figcaption>Skating Polly&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;<cite>The Mercury Photo Bureau Interview</cite></figcaption>
   </stack-l>
@@ -256,8 +256,8 @@ Appearing on the Blackwatch Studios Stage for the sixth annual Norman Music Fest
 <footer class="marginnotes" aria-labelledby="#label-marginnotes">
   <span class="sr-only" id="label-margin-notes">Notes</span>
   <ul class="marginnotes-list" role="list">
-    <li id="mn:1" role="listitem">
+    <li id="mn1" role="listitem">
 
-Presenting a new, and, we hope, ongoing feature, <span class="h-card p-org">Mercury Photo Bureau</span> teamed up with director <span class="h-card p-name">Mike Walsh</span> to record the Skating Polly interview for his <cite>Rev Hi-Fi</cite> video series.
+Presenting a new, and, we hope, ongoing feature, <span class="h-card p-org">Mercury Photo Bureau</span> teamed up with director <span class="h-card p-name">Mike Walsh</span> to record the Skating Polly interview for his <cite>Rev Hi-Fi</cite> video series.&nbsp;<a href="#mnref1" a><span class="sr-only">Back to content&nbsp;</span>↩︎</a>
 </li></ul>
 </footer>

@@ -29,7 +29,7 @@ excerpt: Born in the Bronx under the name Elizabeth Gowan Berliner, Jaane Doe st
 
 {% image "featured", "img-constrained", "Jaane Doe (Behind the Drumkit) — 21st Annual Woody Guthrie Festival, 2018", "Jaane Doe (Behind the Drumkit)&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;21st Annual Woody Guthrie Festival, 2018", "eager" %}</mpb-dialog-img>
 
-Born in the Bronx under the name <span class="h-card p-name">Elizabeth Gowan Berliner</span>, <span class="h-card p-nickname">Jaane Doe</span><a href="#mn:1" id="mnref:1"><span class="sr-only"> [See note]</span></a> started her musical career at age eleven in Catholic School. There she would line up her classmates in the halls to teach them the popular folk music of the day&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;<cite class="short-work">Where Have All the Flowers Gone?</cite> <cite class="short-work">Blowin’ in the Wind,</cite> and <cite class="short-work">Turn! Turn! Turn!</cite>&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;so they could play them at the parish folk masses.{.drop-cap}
+Born in the Bronx under the name <span class="h-card p-name">Elizabeth Gowan Berliner</span>, <span class="h-card p-nickname">Jaane Doe</span><a href="#mn1" id="mnref1"><span class="sr-only"> [See note]</span></a> started her musical career at age eleven in Catholic School. There she would line up her classmates in the halls to teach them the popular folk music of the day&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;<cite class="short-work">Where Have All the Flowers Gone?</cite> <cite class="short-work">Blowin’ in the Wind,</cite> and <cite class="short-work">Turn! Turn! Turn!</cite>&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;so they could play them at the parish folk masses.{.drop-cap}
 
 <figure>
   <stack-l>
@@ -72,11 +72,11 @@ Her career went on hiatus when she found herself a widow raising three children.
 <footer class="marginnotes" aria-labelledby="#label-marginnotes">
   <span class="sr-only" id="label-margin-notes">Notes</span>
   <ul class="marginnotes-list" role="list">
-    <li id="mn:1" role="listitem">
+    <li id="mn1" role="listitem">
 
 <mpb-dialog-img>
 
-{% image "./src/assets/images/blog/2018-10-19-woodyfest-jaane-doe/czahller-20181025-18-12-12.jpg", "img-constrained", "Jaane Doe Set List — 21st Annual Woody Guthrie Festival, 2018", "Jaane Doe Set List&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;21st Annual Woody Guthrie Festival, 2018" %}</mpb-dialog-img>
+{% image "./src/assets/images/blog/2018-10-19-woodyfest-jaane-doe/czahller-20181025-18-12-12.jpg", "img-constrained", "Jaane Doe Set List — 21st Annual Woody Guthrie Festival, 2018", "Jaane Doe Set List&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;21st Annual Woody Guthrie Festival, 2018&nbsp;<a href=\"#mnref1\" a><span class=\"sr-only\">Back to content&nbsp;</span>↩︎</a>" %}</mpb-dialog-img>
     </li>
   </ul>
 </footer>
