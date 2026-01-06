@@ -179,7 +179,7 @@ Before we interviewed Easton we took some pictures of him tracking songs for the
 
 {% image "./src/assets/images/blog/2018-12-19-tim-easton-exposition/tim-easton-exposition-lp-jacket-front.png", "img-constrained", "Tim Easton — Exposition Album Front Jacket", "Tim Easton&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;Exposition Album Front Jacket" %}</mpb-dialog-img>
 
-After the bureau published this article, Easton licensed several of the images from the shoot for the <cite>Exposition</cite> LP and CD, which he commissioned us to design. We also designed a promotional poster. [You can see the final designs here](https://messengerwebdesign.com/portfolio/tim-easton-exposition-album-design-package/){target=_blank rel="external me noopener"}.&nbsp;<a href="#mnref:1" class="govuk-link" a><span class="sr-only">Back to content </span>↩︎</a>
+After the bureau published this article, Easton licensed several of the images from the shoot for the <cite>Exposition</cite> LP and CD, which he commissioned us to design. We also designed a promotional poster. [You can see the final designs here](https://messengerwebdesign.com/portfolio/tim-easton-exposition-album-design-package/){target=_blank rel="external me noopener"}.&nbsp;<a href="#mnref:1" a><span class="sr-only">Back to content </span>↩︎</a>
 
   </stack-l></li>
   </ul>

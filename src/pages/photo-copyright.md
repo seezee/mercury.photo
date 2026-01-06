@@ -25,7 +25,7 @@ Remember: it’s not nice to steal!
   <ul class="marginnotes-list" role="list">
     <li id="mn:1" role="listitem">
 
-Your computer or other connected devices automatically cache a copy of any image you view on the internet; of course, we make an exception for that.&nbsp;<a href="#mnref:1" class="govuk-link" a><span class="sr-only">Back to content&nbsp;</span>↩︎</a>
+Your computer or other connected devices automatically cache a copy of any image you view on the internet; of course, we make an exception for that.&nbsp;<a href="#mnref:1" a><span class="sr-only">Back to content&nbsp;</span>↩︎</a>
     </li>
   </ul>
 </footer>

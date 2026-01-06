@@ -775,19 +775,24 @@ li[id^="mn:"] {
   max-inline-size: none;
 }
 
-[id^="mnref:"]::after {
-  position: static;
-  display: inline-block;
-  margin: unset;
-  margin-inline-start: 0.5ch;
-  inline-size: 1rem;
-  block-size: 1rem;
-  clip: unset;
+[id^="mnref:"] { /* 24 px min target size */
+  min-inline-size: 1.5rem;
+  min-block-size: 1.5rem;
 
-  content: "";
-  background: var(--mpb-icon-stickynote) no-repeat;
-  line-height: 1;
-  vertical-align: middle;
+  &::after {
+    position: static;
+    display: inline-block;
+    margin: unset;
+    margin-inline-start: 0.5ch;
+    inline-size: 1rem;
+    block-size: 1rem;
+    clip: unset;
+
+    content: "";
+    background: var(--mpb-icon-stickynote) no-repeat;
+    line-height: 1;
+    vertical-align: middle;
+  }
 }
 
 @media screen and (min-width: 64rem) {

@@ -204,19 +204,19 @@ Software
   <span class="sr-only" id="label-margin-notes">Notes</span>
   <ul class="marginnotes-list" role="list">
     <li id="mn:1" role="listitem">
-      <span class="foreign" lang="la">Morchella esculenta</span>, or yellow morels, are widely distributed, but especially common in eastern North America and the Midwest. They are the most common morel species found in Oklahoma. Despite the popular name, they can be pale brownish cream, yellow to tan or pale brown to grayish brown.&nbsp;<a href="#mnref:1" class="govuk-link" a><span class="sr-only">Back to content&nbsp;</span>↩︎</a>
+      <span class="foreign" lang="la">Morchella esculenta</span>, or yellow morels, are widely distributed, but especially common in eastern North America and the Midwest. They are the most common morel species found in Oklahoma. Despite the popular name, they can be pale brownish cream, yellow to tan or pale brown to grayish brown.&nbsp;<a href="#mnref:1" a><span class="sr-only">Back to content&nbsp;</span>↩︎</a>
     </li>
     <li id="mn:2" role="listitem">
 
-When choosing food to accompany morels, avoid strongly flavored ingredients. The delicate taste and aroma of the mushrooms is easily overwhelmed. Strong cheeses, raw or undercooked garlic, and highly aromatic spices are all no-nos. The simpler the better.&nbsp;<a href="#mnref:2" class="govuk-link" a><span class="sr-only">Back to content&nbsp;</span>↩︎</a>
+When choosing food to accompany morels, avoid strongly flavored ingredients. The delicate taste and aroma of the mushrooms is easily overwhelmed. Strong cheeses, raw or undercooked garlic, and highly aromatic spices are all no-nos. The simpler the better.&nbsp;<a href="#mnref:2" a><span class="sr-only">Back to content&nbsp;</span>↩︎</a>
     </li>
     <li id="mn:3" role="listitem">
 
-The same conditions that produce bountiful morels also favor ticks. When foraging in the Oklahoma woods wear high boots, long pants, and a long-sleeved top. Apply insect repellent generously. The most effective tick-preventatives are DEET applied direct-to-skin and permethrin applied to clothing.&nbsp;<a href="#mnref:3" class="govuk-link" a><span class="sr-only">Back to content&nbsp;</span>↩︎</a>
+The same conditions that produce bountiful morels also favor ticks. When foraging in the Oklahoma woods wear high boots, long pants, and a long-sleeved top. Apply insect repellent generously. The most effective tick-preventatives are DEET applied direct-to-skin and permethrin applied to clothing.&nbsp;<a href="#mnref:3" a><span class="sr-only">Back to content&nbsp;</span>↩︎</a>
     </li>
     <li id="mn:4" role="listitem">
 
-For foraging mushrooms, I recommend a sharp carbon-steel knife and a mushroom brush. Some purpose-made mushroom knives have an integrated brush. The [Opinel <span class="ord">No.</span> 8](https://www.opinel-usa.com/collections/opinel-carbon-blades/products/opinel-no-8-carbon-steel-folding-knife){target=_blank rel="external noopener"} and the [Opinel mushroom](https://www.opinel-usa.com/products/opinel-mushroom-knife-no8){target=_blank rel="external noopener"} knives are classics.&nbsp;<a href="#mnref:4" class="govuk-link" a><span class="sr-only">Back to content&nbsp;</span>↩︎</a>
+For foraging mushrooms, I recommend a sharp carbon-steel knife and a mushroom brush. Some purpose-made mushroom knives have an integrated brush. The [Opinel <span class="ord">No.</span> 8](https://www.opinel-usa.com/collections/opinel-carbon-blades/products/opinel-no-8-carbon-steel-folding-knife){target=_blank rel="external noopener"} and the [Opinel mushroom](https://www.opinel-usa.com/products/opinel-mushroom-knife-no8){target=_blank rel="external noopener"} knives are classics.&nbsp;<a href="#mnref:4" a><span class="sr-only">Back to content&nbsp;</span>↩︎</a>
     </li>
     <li id="mn:5" role="listitem">
 

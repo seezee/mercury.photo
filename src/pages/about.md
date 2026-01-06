@@ -28,10 +28,10 @@ After that, I inherited a couple of [my brother’s](https://www.facebook.com/mu
   <ul class="marginnotes-list" role="list">
     <li id="mn:1" role="listitem">
 
-{% image "./src/assets/images/site/about/avatar-2016-short-hair-pencil-moustache.png", "img-constrained", "Avatar depicting the author. He is wearing a stingy-brim hat set at a rakish angle. His pencil-thin moustache sets the ladies a-swooning.", "Your Humble Author: Publisher, correspondent, author, photographer, and <span class='tooltip' title='A junior officer of the British Royal Navy; someone who does drudge work.'>dogsbody</span>." %}</li>
+{% image "./src/assets/images/site/about/avatar-2016-short-hair-pencil-moustache.png", "img-constrained", "Avatar depicting the author. He is wearing a stingy-brim hat set at a rakish angle. His pencil-thin moustache sets the ladies a-swooning.", "Your Humble Author: Publisher, correspondent, author, photographer, and <span class='tooltip' title='A junior officer of the British Royal Navy; someone who does drudge work.'>dogsbody</span>.&nbsp;<a href=\"#mnref:1\" a><span class=\"sr-only\">Back to content&nbsp;</span>↩︎</a>" %}</li>
   <li id="mn:2" role="listitem">
   
-  The Polaroid was a Christmas gift from my father to my mother. I suspect it was a [Homer’s bowling ball](https://simpsons.fandom.com/wiki/Homer_(bowling_ball)){target=_blank rel="external noopener"} situation.</li>
+  The Polaroid was a Christmas gift from my father to my mother. I suspect it was a [Homer’s bowling ball](https://simpsons.fandom.com/wiki/Homer_(bowling_ball)){target=_blank rel="external noopener"} situation.&nbsp;<a href="#mnref:2" a><span class="sr-only">Back to content&nbsp;</span>↩︎</a></li>
 </ul>
 </footer>
 
