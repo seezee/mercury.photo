@@ -97,7 +97,9 @@
     {% include "js/search.js" %}
     {% include "js/sortTags.js" %}
   {% endset %}
-  <script type="module" src="/assets/js/snow-fall.js"></script>
+  <!-- is-land loads in <head> -->
+  <!-- Comment out next item after winter holidays -->
+  <!--script type="module" src="/assets/js/snow-fall.js"></script-->
   <script>
     {% if env.env == 'production' %}
       /* Feed it through our Terser `jsmin` filter to minify */

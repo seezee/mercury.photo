@@ -29,35 +29,76 @@ export default class DialogImage extends HTMLElement {
     }
 
     // Create the dialog.
-    const modal = document.createElement(`dialog`);
+    const modal       = document.createElement(`dialog`);
+    const formWrapper = document.createElement(`div`);
+    const form        = document.createElement(`form`);
+
     modal.setAttribute(`class`, `image-modal`);
     modal.setAttribute(`closedby`, `any`);
+
+    formWrapper.classList.add(`modal-wrapper`);
+    formWrapper.setAttribute(`tabindex`, `0`);
+    formWrapper.setAttribute(`role`, `region`);
+    formWrapper.setAttribute(`aria-label`, captionText);
+
+    form.setAttribute(`method`, `dialog`);
+
+    modal.append(formWrapper);
+    formWrapper.append(form);
     // `method="dialog"` captures the button click and closes the dialog.
-    modal.innerHTML = `
-<form method="dialog">
-  <stack-l>
-    <figure>
-      <picture>
-        <stack-l class="modal-wrapper-inner">
-          <source type="image/webp"/>
-          <source type="image/jpeg"/>
-          <img loading="lazy" decoding="async" />
-          <figcaption></figcaption>
-        </stack-l>
-      </picture>
-    </figure>
-    <div class="aligncenter">
-      <button autofocus class="button button-primary" type="submit">Close</button>
-    </div>
-  </stack-l>
-</form>
+    form.innerHTML = `
+<figure>
+  <picture>
+    <stack-l class="modal-wrapper-inner">
+      <source type="image/webp"/>
+      <source type="image/jpeg"/>
+      <img loading="lazy" decoding="async" />
+      <figcaption></figcaption>
+    </stack-l>
+  </picture>
+</figure>
     `;
+
+    const closeButton   = document.createElement(`button`);
+    const closeText     = document.createElement(`span`);
+    const iconClose     = document.createElementNS(
+      `http://www.w3.org/2000/svg`,
+      `svg`,
+    );
+    const iconClosePath = document.createElementNS(
+      `http://www.w3.org/2000/svg`,
+      `path`,
+    );
+
+    iconClose.setAttributeNS(
+      `http://www.w3.org/2000/xmlns/`,
+      `xmlns`,
+      `http://www.w3.org/2000/svg`,
+    );
+    iconClose.setAttribute(`viewBox`, `0 0 512 512`);
+    iconClose.setAttribute(`width`, `34px`);
+    iconClose.setAttribute(`height`, `34px`);
+    iconClose.append(iconClosePath);
+
+    iconClosePath.setAttribute(`fill`, `var(--mpb-color-textPrimary)`);
+    iconClosePath.setAttribute(
+      `d`,
+      `M256 512a256 256 0 1 0 0-512 256 256 0 1 0 0 512zM167 167c9.4-9.4 24.6-9.4 33.9 0l55 55 55-55c9.4-9.4 24.6-9.4 33.9 0s9.4 24.6 0 33.9l-55 55 55 55c9.4 9.4 9.4 24.6 0 33.9s-24.6 9.4-33.9 0l-55-55-55 55c-9.4 9.4-24.6 9.4-33.9 0s-9.4-24.6 0-33.9l55-55-55-55c-9.4-9.4-9.4-24.6 0-33.9z`
+    );
+
+    form.prepend(closeButton);
+
+    closeButton.append(closeText);
+    closeButton.append(iconClose);
+    closeButton.classList.add(`modal-close`);
+    closeButton.setAttribute(`autofocus`, ``);
+    closeButton.setAttribute(`type`, `submit`);
+    closeText.setAttribute(`class`, `sr-only`);
+    closeText.append(`Close`);
 
     // Add the dialog outside of the figure tag (which is parent),
     // but immediately after.
     fig.parentNode.insertBefore(modal, fig.nextSibling);
-
-    const closeButton = this.querySelector(`button`);
 
     const wrapInner = this.getElementsByClassName(`modal-wrapper-inner`)[0];
     const src1 = wrapInner.getElementsByTagName(`source`)[0];
