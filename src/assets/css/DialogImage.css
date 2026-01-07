@@ -34,11 +34,11 @@ mpb-dialog-img {
     }
 
     .modal-close {
+      /* Minimum size to enclose a 24 pixel square tap target */
       --button-size: 34px;
       position: absolute;
-      /* 3.25px = .5 * border width */
-      inset-inline-end: calc(0px - 3.25px - (.5 * var(--button-size)));
-      inset-block-start: calc(0px - 3.25px - (.5 * var(--button-size)));
+      inset-inline-end: calc(0px - .5 * ((var(--border-thin)) + var(--button-size)));
+      inset-block-start: calc(0px - .5 * ((var(--border-thin)) + var(--button-size)));
       inline-size: var(--button-size);
       block-size: var(--button-size);
       padding: 0;
@@ -71,7 +71,7 @@ mpb-dialog-img {
 
     &::backdrop {
       background-color: var(--mpb-modal-background-color);
-      backdrop-filter: blur(16px);
+      backdrop-filter: blur(1rem);
       /* End value for fade out. */
       opacity: 0;
       transition:

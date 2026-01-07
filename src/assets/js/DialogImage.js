@@ -76,8 +76,6 @@ export default class DialogImage extends HTMLElement {
       `http://www.w3.org/2000/svg`,
     );
     iconClose.setAttribute(`viewBox`, `0 0 512 512`);
-    iconClose.setAttribute(`width`, `34px`);
-    iconClose.setAttribute(`height`, `34px`);
     iconClose.append(iconClosePath);
 
     iconClosePath.setAttribute(`fill`, `var(--mpb-color-textPrimary)`);
