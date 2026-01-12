@@ -9,7 +9,7 @@
  * 6.  #nav-primary-wrapper, #nav-secondary, .breadcrumbs-separator, #main-wrapper
  * 7.  .hero-hed
  * 8.  .recent-posts
- * 9   blog-index
+ * 9    blog-index
  * 10.  .masonry
  * 11.  Columns (.col-2, .col-3, .col-4, .col-5)
  * 12.  hgroup
@@ -464,21 +464,19 @@ main ul.blog-index li::marker {
  * see https://github.com/w3c/csswg-drafts/issues/9041 and also commented
  * example code below
  */
+
 .masonry {
   display: grid;
-  grid-template-columns: repeat(auto-fit, var(--mpb-masonry-width));
+  grid-template-columns: repeat(
+    auto-fit, minmax(var(--mpb-masonry-width), 1fr)
+  );
   grid-gap: var(--mpb-masonry-gap);
   justify-content: center;
   padding: var(--mpb-masonry-gap);
 
-  /* @supports (grid-template-rows: masonry) { */
-  grid-template-rows: masonry;
-  /* } */
-
-  @supports (display: masonry) {
-    /* Alternate syntax. */
-    display: masonry;
-    masonry-template-tracks: repeat(auto-fit, var(--mpb-masonry-width));
+  @supports (display: grid-lanes) {
+    display: grid-lanes;
+    grid-gap: revert;
     gap: var(--mpb-masonry-gap);
   }
 
@@ -486,45 +484,6 @@ main ul.blog-index li::marker {
     width: var(--mpb-masonry-width);
   }
 }
-
-/*
-* Masonry syntax after feature ships to browsers:
-*
-* `display: masonry`, fall back to Flexbox
-*
-* All of the rules for this class are in the same place
-*
-* .masonry {
-*   display: flex;
-*   flex-wrap: wrap;
-*   // The following lines will be ignored by browsers that don't understand
-*   // masonry and applied by browsers that understand masonry, overriding the
-*   // previous lines
-*   display: masonry;
-*   masonry-template: repeat(auto-fill, auto);
-* }
-*
-* Masonry as part of Grid, fall back to Flexbox
-*
-* Rules for the class are split across different layers/queries, resulting in
-* bulkier CSS and making it less efficient to update
-*
-* Media queries do not increase specificity, so make sure fallbacks are
-* de-prioritized
-*
-* @layer fallbacks {
-*   .masonry {
-*      display: flex;
-*      flex-wrap: wrap;
-*   }
-* }
-*
-* @supports (grid-template-rows: masonry) {
-*  .masonry {
-*      display: grid;
-*      grid-template-rows: masonry;
-*  }
-* } */
 
 /* Columns */
 .col-2,

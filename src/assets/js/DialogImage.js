@@ -41,11 +41,11 @@ export default class DialogImage extends HTMLElement {
     formWrapper.setAttribute(`role`, `region`);
     formWrapper.setAttribute(`aria-label`, captionText);
 
+    // `method="dialog"` captures the button click and closes the dialog.
     form.setAttribute(`method`, `dialog`);
 
     modal.append(formWrapper);
     formWrapper.append(form);
-    // `method="dialog"` captures the button click and closes the dialog.
     form.innerHTML = `
 <figure>
   <picture>
@@ -149,8 +149,7 @@ export default class DialogImage extends HTMLElement {
       e.stopPropagation();
       // Allow scrolling outside the modal.
       modal.removeAttribute(`data-disable-document-scroll`);
-      // Close the modal.
-      modal.close();
+      // modal.close() is not necessary; method=dialog takes care of this.
     });
 
     // Listen for the escape key click.
@@ -174,20 +173,13 @@ export default class DialogImage extends HTMLElement {
     );
 
     // Allow scrolling when ::backdrop is clicked.
-    modal.addEventListener(`click`, (e) => {
-      // Get the dialog boundaries
-      const rect = modal.getBoundingClientRect();
-      // Define dialog inner boundary.
-      const isInDialog =
-        rect.top <= e.clientY &&
-        e.clientY <= rect.top + rect.height &&
-        rect.left <= e.clientX &&
-        e.clientX <= rect.left + rect.width;
+    document.addEventListener(`click`, (e) => {
 
-      // If the click is not inside the boundary, close the dialog.
-      if (!isInDialog) {
-        modal.removeAttribute(`data-disable-document-scroll`);
+      if (!modal.open) return;
 
+      modal.removeAttribute(`data-disable-document-scroll`);
+
+      if (e.target === document.documentElement) {
         // modal.close() is handled by `closedby` attribute on <dialog>
         // except in Safari.
         if ('closedBy' in HTMLDialogElement.prototype) {

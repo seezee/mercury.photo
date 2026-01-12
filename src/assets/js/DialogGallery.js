@@ -46,45 +46,91 @@ export default class DialogGallery extends HTMLElement {
     imgWrapper.classList.add(`masonry`);
 
     // Create the dialog.
-    const modal = document.createElement(`dialog`);
+    const modal       = document.createElement(`dialog`);
+    const formWrapper = document.createElement(`stack-l`);
+    const form        = document.createElement(`form`);
+    const details     = document.createElement(`details`);
+
     modal.classList.add(`gallery-modal`);
     modal.setAttribute(`closedby`, `any`);
+
+    formWrapper.classList.add(`modal-wrapper`);
+    formWrapper.setAttribute(`tabindex`, `0`);
+    formWrapper.setAttribute(`role`, `region`);
+    formWrapper.setAttribute(`aria-label`, `Gallery`);
+
     // `method="dialog"` captures the button click and closes the dialog.
-    modal.innerHTML = `
-    <stack-l>
-      <form method="dialog">
+    form.setAttribute(`method`, `dialog`);
+
+    details.setAttribute(`id`, `gallery-keyboard-hint`);
+
+    modal.append(formWrapper);
+    formWrapper.append(form);
+    formWrapper.append(details);
+    form.innerHTML = `
+<stack-l>
+  <div class="container">
+    <div class="gallery--img_main">
+      <figure>
         <stack-l>
-          <div class="container">
-            <div class="gallery--img_main">
-              <figure>
-                <stack-l>
-                  <img class="modal-current" id="current" loading="lazy">
-                  <figcaption></figcaption>
-                </stack-l>
-              </figure>
-            </div>
-            <div class="gallery--thumbs">
-            </div>
-          </div>
-          <div class="aligncenter">
-            <button class="button button-primary" type="submit">Close</button>
-          </div>
+          <img class="modal-current" id="current" loading="lazy">
+          <figcaption></figcaption>
         </stack-l>
-      </form>
-      <details id="gallery-keyboard-hint">
-        <summary>KEYBOARD HINTS</summary>
-          <stack-l>
-            <dl>
-              <stack-l>
-                <dt>MacOS</dt>
-                <dd><pre><ul><li>Move forward     = <kbd>&rarr;</kbd> <em>or</em> <kbd>↹ Tab</kbd></li><li>Move backward    = <kbd>&larr;</kbd> <em>or</em> <kbd>⇧ Shift</kbd> + <kbd>↹ Tab</kbd></li><li>Move down        = <kbd>⇧ Shift</kbd> + <kbd>&uarr;</kbd></li><li>Move up          = <kbd>⇧ Shift</kbd> + <kbd>&darr;</kbd></li><li>Jump to end      = <kbd><span aria-hidden>⌘</span><span class="sr-only">Command key</span></kbd> + <kbd>&rarr;</kbd></li><li>Jump to start    = <kbd><span aria-hidden>⌘</span><span class="sr-only">Command key</span></kbd> + <kbd>&larr;</kbd></li><li>Display selected = <kbd>Enter</kbd></li></ul></pre>
-                </dd>
-                <dt>Windows</dt>
-                <dd><pre><ul><li>Move forward     = <kbd>&rarr;</kbd> <em>or</em> <kbd>↹ Tab</kbd></li><li>Move backward    = <kbd>&larr;</kbd> <em>or</em> <kbd>Shift</kbd> + <kbd>↹ Tab</kbd></li><li>Move down        = <kbd>⇧ Shift</kbd> + <kbd>&uarr;</kbd></li><li>Move up          = <kbd>⇧ Shift</kbd> + <kbd>&darr;</kbd></li><li>Jump to end      = <kbd><span aria-hidden>⊞ Windows</span><span class="sr-only">Windows key</span></kbd> + <kbd>&rarr;</kbd></li><li>Jump to start    = <kbd><span aria-hidden>⊞ Windows</span><span class="sr-only">Windows key</span></kbd> + <kbd>&larr;</kbd></li><li>Display selected = <kbd>Enter</kbd></li></ul></pre></details></stack-l></dd>
-              </stack-l>
-            </dl>
-          </stack-l>
+      </figure>
+    </div>
+    <div class="gallery--thumbs">
+    </div>
+  </div>
+</stack-l>
             `;
+    details.innerHTML = `
+<summary>KEYBOARD HINTS</summary>
+<stack-l class="hint-wrapper">
+  <dl>
+    <stack-l>
+      <dt>MacOS</dt>
+      <dd><pre><ul><li>Move forward     = <kbd>&rarr;</kbd> <em>or</em> <kbd>↹ Tab</kbd></li><li>Move backward    = <kbd>&larr;</kbd> <em>or</em> <kbd>⇧ Shift</kbd> + <kbd>↹ Tab</kbd></li><li>Move down        = <kbd>⇧ Shift</kbd> + <kbd>&uarr;</kbd></li><li>Move up          = <kbd>⇧ Shift</kbd> + <kbd>&darr;</kbd></li><li>Jump to end      = <kbd><span aria-hidden>⌘</span><span class="sr-only">Command key</span></kbd> + <kbd>&rarr;</kbd></li><li>Jump to start    = <kbd><span aria-hidden>⌘</span><span class="sr-only">Command key</span></kbd> + <kbd>&larr;</kbd></li><li>Display selected = <kbd>Enter</kbd></li></ul></pre>
+      </dd>
+      <dt>Windows</dt>
+      <dd><pre><ul><li>Move forward     = <kbd>&rarr;</kbd> <em>or</em> <kbd>↹ Tab</kbd></li><li>Move backward    = <kbd>&larr;</kbd> <em>or</em> <kbd>Shift</kbd> + <kbd>↹ Tab</kbd></li><li>Move down        = <kbd>⇧ Shift</kbd> + <kbd>&uarr;</kbd></li><li>Move up          = <kbd>⇧ Shift</kbd> + <kbd>&darr;</kbd></li><li>Jump to end      = <kbd><span aria-hidden>⊞ Windows</span><span class="sr-only">Windows key</span></kbd> + <kbd>&rarr;</kbd></li><li>Jump to start    = <kbd><span aria-hidden>⊞ Windows</span><span class="sr-only">Windows key</span></kbd> + <kbd>&larr;</kbd></li><li>Display selected = <kbd>Enter</kbd></li></ul></pre></details></stack-l></dd>
+    </stack-l>
+  </dl>
+</stack-l>
+    `
+    const closeButton   = document.createElement(`button`);
+    const closeText     = document.createElement(`span`);
+    const iconClose     = document.createElementNS(
+      `http://www.w3.org/2000/svg`,
+      `svg`,
+    );
+    const iconClosePath = document.createElementNS(
+      `http://www.w3.org/2000/svg`,
+      `path`,
+    );
+
+    iconClose.setAttributeNS(
+      `http://www.w3.org/2000/xmlns/`,
+      `xmlns`,
+      `http://www.w3.org/2000/svg`,
+    );
+    iconClose.setAttribute(`viewBox`, `0 0 512 512`);
+    iconClose.append(iconClosePath);
+
+    iconClosePath.setAttribute(`fill`, `var(--mpb-color-textPrimary)`);
+    iconClosePath.setAttribute(
+      `d`,
+      `M256 512a256 256 0 1 0 0-512 256 256 0 1 0 0 512zM167 167c9.4-9.4 24.6-9.4 33.9 0l55 55 55-55c9.4-9.4 24.6-9.4 33.9 0s9.4 24.6 0 33.9l-55 55 55 55c9.4 9.4 9.4 24.6 0 33.9s-24.6 9.4-33.9 0l-55-55-55 55c-9.4 9.4-24.6 9.4-33.9 0s-9.4-24.6 0-33.9l55-55-55-55c-9.4-9.4-9.4-24.6 0-33.9z`
+    );
+
+    form.prepend(closeButton);
+
+    closeButton.append(closeText);
+    closeButton.append(iconClose);
+    closeButton.classList.add(`modal-close`);
+    closeButton.setAttribute(`autofocus`, ``);
+    closeButton.setAttribute(`type`, `submit`);
+    closeText.setAttribute(`class`, `sr-only`);
+    closeText.append(`Close`);
 
     // Add the dialog.
     this.append(modal);
@@ -100,8 +146,6 @@ export default class DialogGallery extends HTMLElement {
     const current = modal.querySelector(`#current`);
     const thumbs = modal.querySelector(`.gallery--thumbs`);
     const thumbsList = modal.querySelectorAll(`.gallery--thumbs img`);
-    const closeButton = modal.querySelector(`button`);
-    const details = modal.getElementsByTagName(`details`)[0];
     const summary = details.firstElementChild;
     // Set this attribute if the image source path is relative.
     // The final gallery wins because its style rule is read last.
@@ -251,12 +295,9 @@ export default class DialogGallery extends HTMLElement {
     closeButton.addEventListener(`click`, (e) => {
       // Stop preventDefault() on parent elements from propagating to the button.
       e.stopPropagation();
-
       // Allow scrolling outside the modal.
       modal.removeAttribute(`data-disable-document-scroll`);
-
-      // Close the modal.
-      modal.close();
+      // modal.close() is not necessary; method=dialog takes care of this.
     });
 
     // Listen for the escape key click.
@@ -282,20 +323,13 @@ export default class DialogGallery extends HTMLElement {
     );
 
     // Allow scrolling when ::backdrop is clicked.
-    modal.addEventListener(`click`, (e) => {
-      // Get the dialog boundaries
-      const rect = modal.getBoundingClientRect();
-      // Define dialog inner boundary.
-      const isInDialog =
-        rect.top <= e.clientY &&
-        e.clientY <= rect.top + rect.height &&
-        rect.left <= e.clientX &&
-        e.clientX <= rect.left + rect.width;
+    document.addEventListener(`click`, (e) => {
 
-      // If the click is not inside the boundary, close the dialog.
-      if (!isInDialog) {
-        modal.removeAttribute(`data-disable-document-scroll`);
+      if (!modal.open) return;
 
+      modal.removeAttribute(`data-disable-document-scroll`);
+
+      if (e.target === document.documentElement) {
         // modal.close() is handled by `closedby` attribute on <dialog>
         // except in Safari.
         if ('closedBy' in HTMLDialogElement.prototype) {

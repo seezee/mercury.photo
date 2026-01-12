@@ -142,6 +142,14 @@ html {
       background-color 0s ease,
       color 0s ease;
   }
+
+  /* Dialog (modal) is open */
+  &:has(dialog[open]:modal) {
+    /* Poof! No more scrolling! */
+    overflow: hidden;
+    /* keep the scrollbar width */
+    scrollbar-gutter: stable;
+  }
 }
 
 /* `::-webkit-scrollbar-*` pseudo-elements for Safari */
@@ -836,6 +844,7 @@ dialog {
   color: var(--mpb-color-textPrimary);
 
   &::backdrop {
+    pointer-events: none;
     overscroll-behavior: contain;
   }
 }

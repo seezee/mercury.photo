@@ -39,6 +39,25 @@ mpb-dialog-gallery {
     --duration: 150ms;
     --start-opacity: 0.5;
 
+    /* Needed to position button */
+    .modal-wrapper {
+      overflow: auto;
+    }
+
+    .modal-close {
+      /* Minimum size to enclose a 24 pixel square tap target */
+      --button-size: 34px;
+      position: absolute;
+      inset-inline-end: calc(0px - .5 * ((var(--border-thin)) + var(--button-size)));
+      inset-block-start: calc(0px - .5 * ((var(--border-thin)) + var(--button-size)));
+      inline-size: var(--button-size);
+      block-size: var(--button-size);
+      padding: 0;
+      border: unset;
+      border-radius: 50%;
+      background-color: var(--mpb-color-textReverse);
+    }
+
     @media screen and (prefers-reduced-motion: no-preference) {
       --start-scale: scale(0.8);
     }
@@ -73,6 +92,13 @@ mpb-dialog-gallery {
     }
 
     &[open] {
+
+      /* Next 3 rules for positioning close button */
+      overflow: visible;
+
+      display: grid;
+      grid-template-rows: 1fr;
+
       pointer-events: inherit;
       /* End values for fade in; start values for fade out. */
       opacity: 1;
@@ -197,6 +223,14 @@ mpb-dialog-gallery {
       display: flex;
       justify-content: center;
       align-content: space-around;
+    }
+  }
+
+  .hint-wrapper {
+    background-color: var(--mpb-color-textReverse);
+
+    details {
+      font-weight: var(--bold, 700);
     }
   }
 }
