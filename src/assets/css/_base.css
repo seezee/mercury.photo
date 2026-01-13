@@ -99,9 +99,13 @@ html {
     scroll-behavior: smooth;
   }
 
+  /* Dialog (modal) is open */
   &:has([data-disable-document-scroll="true"]),
   &:has(dialog[open]:modal) {
+    /* Poof! No more scrolling! */
     overflow: hidden;
+    /* keep the scrollbar width */
+    scrollbar-gutter: stable;
   }
 
   /* For browsers that support `scrollbar-*` properties */
@@ -141,14 +145,6 @@ html {
     transition:
       background-color 0s ease,
       color 0s ease;
-  }
-
-  /* Dialog (modal) is open */
-  &:has(dialog[open]:modal) {
-    /* Poof! No more scrolling! */
-    overflow: hidden;
-    /* keep the scrollbar width */
-    scrollbar-gutter: stable;
   }
 }
 
@@ -856,6 +852,7 @@ icon-l {
 
   &::before,
   &::after {
+    display: flex;
     /* biome-ignore-start lint: Prevent removal of backslash */
     content: "\FEFF"; /* Word joiner */
     /* biome-ignore-end lint: Prevent removal of backslash */

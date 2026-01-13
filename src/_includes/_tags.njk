@@ -3,7 +3,7 @@
   <p id="tags-inner">
     {% for tag in tags -%}
       {% if tag !== 'blog' %}
-        <a href="/blog/tags/{{ tag | slugify | safe }}" class="tag-link" data-pagefind-weight="0.5">{{ tag | safe }}</a>
+        <span class="tags-sep"><a href="/blog/tags/{{ tag | slugify | safe }}" data-pagefind-weight="0.5">{{ tag | safe }}</a></span>
       {% endif %}
     {%- endfor %}
   </p>
