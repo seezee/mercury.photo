@@ -681,19 +681,6 @@ input {
   padding-block: var(--s-5);
 }
 
-/* .radio-wrapper,
-.checkbox-wrapper {
-  display: flex;
-
-  input {
-    margin-inline-end: var(--s-5);
-  }
-
-  label {
-    display: inline-block;
-  }
-} */
-
 select {
   min-block-size: 1.5rlh;
 }
