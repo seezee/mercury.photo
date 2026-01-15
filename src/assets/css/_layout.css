@@ -5,29 +5,28 @@
  * 2.  noscript
  * 3.  #skip-link, #skip-slideshow-link
  * 4.  Search
- * 5.  Theme toggle
- * 6.  #nav-primary-wrapper, #nav-secondary, .breadcrumbs-separator, #main-wrapper
- * 7.  .hero-hed
- * 8.  .recent-posts
- * 9    blog-index
- * 10.  .masonry
- * 11.  Columns (.col-2, .col-3, .col-4, .col-5)
- * 12.  hgroup
- * 13.  <dd> styles: .dd-add-space, dd+br
- * 14. .after-icon spacer
- * 15. .recipe-index
- * 16. #mpb-logo (footer icon)
- * 17. Footnotes & sidenotes
- * 18. Pagination
- * 19. Comments, author info, support cta, & footer
- * 20. Scroller
- * 21. Tag post excerpt
- * 22. Staff, OKIE-X, Sitemap, Tags
- * 23. Wedding prices
- * 24. Social
- * 25. Comments
- * 26. Type specimen
- * 27. Fancy horizontal rules (<hr>)
+ * 5.  #nav-primary-wrapper, #nav-secondary, .breadcrumbs-separator, #main-wrapper
+ * 6.  .hero-hed
+ * 7.  .recent-posts
+ * 8.  blog-index
+ * 9.  .masonry
+ * 10. Columns (.col-2, .col-3, .col-4, .col-5)
+ * 11. hgroup
+ * 12. <dd> styles: .dd-add-space, dd+br
+ * 13. .after-icon spacer
+ * 14. .recipe-index
+ * 15. #mpb-logo (footer icon)
+ * 16. Footnotes & sidenotes
+ * 17. Pagination
+ * 18. Comments, author info, support cta, & footer
+ * 19. Scroller
+ * 20. Tag post excerpt
+ * 21. Staff, OKIE-X, Sitemap, Tags
+ * 22. Wedding prices
+ * 23. Social
+ * 24. Comments
+ * 25. Type specimen
+ * 26. Fancy horizontal rules (<hr>)
  */
 
 #home {
@@ -112,7 +111,7 @@ noscript div {
   line-height: 1.1;
 
   color: var(--mpb-color-textPrimary);
-  background-color: var(--mpb-color-textSecondary);
+  background-color: var(--mpb-color-primary-200);
   border: solid 2px var(--mpb-color-textPrimary);
   border-radius: var(--mpb-radius-1x);
 }
@@ -132,9 +131,9 @@ noscript div {
   inset-block-start: 0.275rem;
 
   & kbd {
-    background-color: var(--mpb-color-textPrimary);
+    background-color: var(--mpb-color-accent);
     border: 1px solid var(--mpb-color-textSecondary);
-    color: var(--mpb-color-textSecondary);
+    color: var(--mpb-color-textReverse);
   }
 }
 
@@ -150,7 +149,7 @@ noscript div {
   inline-size: clamp(100%, 60ch, 77vw);
   padding: var(--s0);
 
-  background-color: var(--mpb-color-textSecondary);
+  background-color: var(--mpb-color-primary-200);
 
   * {
     text-align: start;
@@ -171,111 +170,6 @@ noscript div {
   margin-top: var(--s1);
   margin-inline: auto;
 }
-
-/* Theme toggle based on
-https://web.dev/articles/building/a-theme-switch-component */
-
-/* .sun-and-moon {
-  > .sun-beams {
-    stroke: var(--mpb-color-textPrimary);
-    stroke-width: 2px;
-  }
-
-  > :is(.moon, .sun) {
-    fill: var(--mpb-color-textPrimary);
-  }
-
-  > :is(.moon, .sun, .sun-beams) {
-    transform-origin: center center;
-  }
-}
-
-#theme-toggle {
-  margin-block-start: var(--toggle-margin-top);
-  padding: 0;
-  inline-size: var(--toggle-size);
-  block-size: var(--toggle-size);
-  min-inline-size: var(--toggle-min-size);
-  min-block-size: var(--toggle-min-size);
-  aspect-ratio: 1;
-
-  -webkit-tap-highlight-color: transparent;
-  background: none;
-  border: none;
-  border-radius: 50%;
-  outline-offset: 5px;
-  cursor: pointer;
-
-  touch-action: manipulation;
-
-  > svg {
-    inline-size: 100%;
-    block-size: 100%;
-
-    stroke-linecap: round;
-  }
-
-  &:hover > .sun-and-moon > :is(.moon, .sun) {
-    fill: var(--mpb-color-iconFillHover);
-  }
-
-  &:hover .sun-and-moon > .sun-beams {
-    stroke: var(--mpb-color-iconFillHover);
-  }
-}
-
-html[data-theme="dark"] .sun-and-moon {
-  > .sun {
-    transform: scale(1.75);
-  }
-
-  > .sun-beams {
-    opacity: 0;
-  }
-
-  > .moon > circle {
-    transform: translate(-7px);
-
-    @supports (cx: 1px) {
-      transform: translateX(0);
-      cx: 17px;
-    }
-  }
-}
-
-@media (prefers-reduced-motion: no-preference) {
-  .sun-and-moon {
-    > .sun {
-      transition: transform 0.5s var(--ease-elastic-3) 0.5s;
-    }
-
-    > .sun-beams {
-      transition:
-        transform 0.5s var(--ease-elastic-4),
-        opacity 0.5s var(--ease-3) 0.5s;
-    }
-
-    .moon > circle {
-      transition: cx 0.25s var(--ease-out-5) 0.5s;
-    }
-  }
-
-  html[data-theme="dark"] .sun-and-moon {
-    > .sun {
-      transition: transform 0.25s var(--ease-out-5) 0.5s;
-    }
-
-    > .sun-beams {
-      transform: rotate(-25deg);
-      transition-duration: 0.15s;
-    }
-
-    > .moon > circle {
-      transition-delay: 0.25s;
-      transition-duration: 0.5s;
-    }
-  }
-} */
 
 /* #nav-primary-wrapper, .breadcrumbs-separator, #main-wrapper */
 #nav-primary-wrapper {

@@ -17,6 +17,15 @@ https://web.dev/articles/building/a-theme-switch-component */
 }
 
 #theme-toggle {
+  --toggle-size: 1rem;
+  --toggle-min-size: 24px; /* Minimum WCAG target size */
+  --toggle-margin-top: 0.2em;
+
+  @media screen and (pointer: coarse) {
+    --toggle-size: 1.5rem;
+    --toggle-margin-top: unset;
+  }
+
   margin-block-start: var(--toggle-margin-top);
   padding: 0;
   inline-size: var(--toggle-size);
@@ -29,7 +38,6 @@ https://web.dev/articles/building/a-theme-switch-component */
   background: none;
   border: none;
   border-radius: 50%;
-  outline-offset: 5px;
   cursor: pointer;
 
   touch-action: manipulation;

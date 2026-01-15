@@ -144,7 +144,7 @@
     #000
   );
 
-  --mpb-alert-border-width: 0.325em;
+  --mpb-alert-border-width: 0.325rem;
   --mpb-radius-1x: 0.2em;
   --mpb-radius-2x: 0.4em;
 
@@ -326,16 +326,5 @@
       --mpb-color-figureBG: oklch(var(--mpb-c-p-200) / 0.5);
       --mpb-color-imgBG: oklch(var(--mpb-c-p-100) / 0.5);
     }
-  }
-}
-
-#theme-toggle {
-  --toggle-size: 1rem;
-  --toggle-min-size: 24px; /* Minimum WCAG target size */
-  --toggle-margin-top: 0.2em;
-
-  @media screen and (pointer: coarse) {
-    --toggle-size: 1.5rem;
-    --toggle-margin-top: unset;
   }
 }

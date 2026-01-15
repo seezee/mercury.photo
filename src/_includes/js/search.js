@@ -7,7 +7,6 @@
   const label = document.createElement(`label`);
   const searchField = document.querySelector(`.pagefind-ui__search-input`);
   const hint = document.createElement(`div`);
-  // const results      = document.querySelector(`.pagefind-ui__drawer`);
   const clearButton = document.querySelector(`.pagefind-ui__search-clear`);
   const resLink = document.getElementById(`results-link`);
 
@@ -26,6 +25,9 @@
   clearButton.classList.add(`button`);
   clearButton.setAttribute(`value`, `×`);
   clearButton.innerHTML = `<span class="sr-only">Clear search results</span><span aria-hidden="true">×</span>`;
+  clearButton.classList.add(`hide`);
+  clearButton.setAttribute(`aria-hidden`, `true`);
+
 
   hint.setAttribute(`id`, `search-hint__wrapper`);
   hint.innerHTML = `<kbd>⌘</kbd><kbd>K</kbd>`;

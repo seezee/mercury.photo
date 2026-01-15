@@ -171,6 +171,8 @@ body {
     padding-inline: 1rem;
   }
 
+  accent-color: var(--mpb-color-accent);
+
   font-optical-sizing: auto;
   font-variant-ligatures: common-ligatures discretionary-ligatures
     historical-ligatures contextual;
@@ -569,38 +571,117 @@ td:not(:last-of-type),
   }
 }
 
+.form-control { /* For custom checkboxes & radio buttons */
+  display: grid;
+  grid-template-columns: 1rem auto;
+  gap: var(--s0);
+
+  + .form-control {
+    margin-block-start: var(--s0);
+  }
+}
+
 input,
 textarea,
 select {
-  &:not(#searchField):not(.picslider) {
+  &:not(#searchField):not(.picslider):not[type=checkbox]:not[type=radio] {
     inline-size: fit-content;
     max-inline-size: 100%;
     field-sizing: content;
     min-inline-size: 24ch;
-
-    &[type="checkbox"],
-    &[type="radio"] {
-      min-inline-size: initial;
-    }
   }
 
   line-height: var(--line-height-sm);
 
   color: var(--mpb-color-textPrimary);
-  background-color: var(--mpb-color-textSecondary);
+  background-color: var(--mpb-color-primary-200);
   border: solid 2px var(--mpb-color-textPrimary);
   border-radius: var(--mpb-radius-1x);
 }
 
+/* Custom checkbox & radio styles based on Stephanie Eckles's work:
+ * https://moderncss.dev/pure-css-custom-styled-radio-buttons/
+ * https://moderncss.dev/pure-css-custom-styled-radio-buttons/
+ */
+
+input[type=checkbox],
+input[type=radio] {
+  display: grid;
+  place-content: center;
+  appearance: none;
+  background-color: var(--mpb-color-primary-200);
+  margin: 0;
+  padding: 0;
+  font: inherit;
+  color: currentColor;
+  inline-size: 1.5rem;
+  block-size: 1.5rem;
+  border: 0.15em solid currentColor;
+  transform: translateY(.1rem);
+
+  &::before {
+    content: "";
+    inline-size: .75rem;
+    block-size: .75rem;
+    transform: scale(0);
+    transition: 120ms transform var(--ease-in-out-3);
+
+    box-shadow: inset 1em 1em var(--mpb-color-accent);
+    background-color: CanvasText;
+  }
+
+  &:checked::before {
+    transform: scale(1);
+  }
+
+  &:focus {
+    outline: var(--mpb-alert-border-width) solid var(--mpb-color-accent);
+    outline-offset: var(--s-5);
+  }
+}
+
+input[type=radio] {
+  border-radius: 50%;
+
+  &::before {
+    border-radius: 50%;
+  }
+}
+
+input[type=checkbox] {
+  &:disabled {
+
+    opacity: 33%;
+    cursor: not-allowed;
+  }
+
+  &::before{
+    transform-origin: bottom left;
+    clip-path: polygon(14% 44%, 0 65%, 50% 100%, 100% 16%, 80% 0%, 43% 62%);
+  }
+}
+
+label:has(input[type=checkbox]:disabled) {
+  opacity: 50%;
+}
+
+@media screen and (prefers-reduced-motion) {
+  input[type=radio]::before,
+  input[type=checkbox]::before {
+    transition:none;
+  }
+}
+
 input {
-  &:not(.pagefind-ui__search-input):not(.picslider) {
+  &:not(.pagefind-ui__search-input):not(.picslider):not[type=checkbox
+]:not[type=radio] {
     padding-inline: var(--s0);
   }
 
   padding-block: var(--s-5);
 }
 
-.radio-wrapper,
+/* .radio-wrapper,
 .checkbox-wrapper {
   display: flex;
 
@@ -611,7 +692,7 @@ input {
   label {
     display: inline-block;
   }
-}
+} */
 
 select {
   min-block-size: 1.5rlh;
@@ -885,10 +966,10 @@ a:visited {
 }
 
 a[href^="http://"]:not([href*="mercury.photo"]):not([href*="localhost"]):not(
-    .social-link
+    .link-social
   ),
 a[href^="https://"]:not([href*="mercury.photo"]):not([href*="localhost"]):not(
-    .social-link
+    .link-social
   ) {
   &::after {
     display: inline-block;
@@ -906,12 +987,12 @@ a[href^="https://"]:not([href*="mercury.photo"]):not([href*="localhost"]):not(
 blockquote
   footer
   a[href^="http://"]:not([href*="mercury.photo"]):not([href*="localhost"]):not(
-    .social-link
+    .link-social
   ):after,
 blockquote
   footer
   a[href^="https://"]:not([href*="mercury.photo"]):not([href*="localhost"]):not(
-    .social-link
+    .link-social
   ):after {
   margin-inline-start: 1ch;
   margin-inline-end: -0.5ch;

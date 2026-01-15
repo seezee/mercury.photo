@@ -1,6 +1,6 @@
 {
   "name": "mercury.photo",
-  "version": "1.0.353",
+  "version": "1.0.354",
   "description": "Rangefinder + Mirrorless Digital + Large Format Film Photography + Music, Arts, & News",
   "main": "index.js",
   "bugs": {
@@ -21,7 +21,8 @@
     "start": "ELEVENTY_ENV=dev npm-run-all util:rimraf util:killdev && npx @11ty/eleventy --serve --incremental",
     "start:prod": "ELEVENTY_ENV=production npm-run-all util:rimraf util:killport 11ty:build --parallel 11ty:watch wrangler:dev",
     "wrangler:dev": "npx wrangler dev --live-reload",
-    "wrangler:deploy": "npx wrangler deploy"
+    "wrangler:deploy": "npx wrangler deploy",
+    "knip": "knip"
   },
   "keywords": [
     "photography",
@@ -34,20 +35,28 @@
   "dependencies": {
     "@11ty/eleventy": "^3.1.2",
     "@11ty/eleventy-img": "^6.0.4",
-    "@11ty/is-land": "^5.0.1",
-    "@zachleat/snow-fall": "^1.0.3",
     "eleventy-plugin-seo": "^0.5.2"
+  },
+  "//": {
+    "devDependenciesPlaceholder" :
+      [
+        "These dependencies are commented out",
+        "See https://bobbyhadz.com/blog/add-comments-to-package-json",
+        "\"@11ty/is-land\": \"^5.0.1\"",
+        "\"@zachleat/snow-fall\": \"^1.0.3\""
+      ]
   },
   "devDependencies": {
     "@11ty/eleventy-plugin-rss": "^2.0.4",
     "@biomejs/biome": "2.3.11",
-    "@types/node": "^25.0.8",
+    "@types/node": "^25.0.9",
     "browserslist": "^4.28.1",
     "eleventy-auto-cache-buster": "^0.8.3",
     "esbuild": "^0.27.2",
     "esbuild-plugin-browserslist": "^2.0.0",
-    "html-minifier-next": "^4.17.0",
+    "html-minifier-next": "^4.17.1",
     "kill-port": "2.0.1",
+    "knip": "^5.81.0",
     "markdown-it": "^14.1.0",
     "markdown-it-anchor": "^9.2.0",
     "markdown-it-attrs": "^4.3.1",
@@ -57,8 +66,9 @@
     "outdent": "^0.8.0",
     "pagefind": "^1.4.0",
     "rimraf": "^6.1.2",
-    "terser": "^5.44.1",
-    "wrangler": "^4.59.1"
+    "terser": "^5.46.0",
+    "typescript": "^5.9.3",
+    "wrangler": "^4.59.2"
   },
   "browserslist": {
     "production": [

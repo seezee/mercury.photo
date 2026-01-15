@@ -41,13 +41,14 @@ h6 {
   &:has(.header-anchor) {
     a {
       text-decoration: none;
+      display: inline-flex;
 
       &:after {
         display: inline-block;
         inline-size: 0.8em;
         margin-inline-start: 0.5ch;
         vertical-align: baseline;
-        content: var(--mpb-icon-link) / "";
+        content: var(--mpb-icon-link) / "[Permalink to this section]";
       }
     }
 
