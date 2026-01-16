@@ -13,8 +13,7 @@ document.addEventListener(`DOMContentLoaded`, () => {
     // Check for support using both of the proposed syntaxes;
     // see https://github.com/w3c/csswg-drafts/issues/9041
     if (
-      getComputedStyle(grids[0]).gridTemplateRows === `masonry` ||
-      getComputedStyle(grids[0]).display === `masonry`
+      getComputedStyle(grids[0]).display === `grid-lanes`
     ) {
       console.log(`Masonry supported, doing nothing`);
     } else {

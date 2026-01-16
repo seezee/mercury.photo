@@ -43,15 +43,13 @@
             id="phone"
             type="tel"
             name="phone"
-            minLength="16"
-            maxLength="16"
             autocapitalize="none"
             autocorrect="off"
             spellcheck="false"
             autocomplete="tel"
             pattern="([0-9]{3}) [0-9]{3}-[0-9]{4}"
             required
-          />
+          /><small>Example: (555) 555-5555</small>
         </div><div id="validation-error-phone" class="validation-error" hidden tabindex="-1"><icon-l class="bigger"><span class="with-icon icon-sprite"><svg><use xlink:href="#icon-error"/></svg></span> Please provide a valid telephone number, starting with the area code</icon-l></div>
       </stack-l>
     </fieldset>
@@ -242,7 +240,7 @@
           </textarea>
         </div>
 
-Maximum 4096 characters. Total Characters remaining: <span class="counter">4096</span>
+Maximum 4096 characters. Total Characters remaining: <span id="counter">4096</span>
       </stack-l>
     </fieldset>
     <stack-l><p><span class="required">*</span>By submitting this survey, I accept Mercury Photo Bureau’s [Privacy Policy](/legal/privacy/) and [Terms of Use](/legal/terms-of-use/), and I agree that the information I provide may be publicly displayed.</p><div><label for="acceptance" class="form-control"><input
@@ -252,22 +250,20 @@ Maximum 4096 characters. Total Characters remaining: <span class="counter">4096<
             value="I accept"
             required
           />I accept</label><div id="validation-error-terms" class="validation-error" hidden tabindex="-1"><icon-l class="bigger"><span class="with-icon icon-sprite"><svg><use xlink:href="#icon-error"/></svg></span> You must agree to our terms and privacy policy</icon-l></div>
-      </div></stack-l><input
+      </div></stack-l><button
       id="submit"
       name="submit"
-      type="submit"
       class="g-recaptcha button button-primary"
       data-sitekey="6Lekt4AUAAAAAPOg3FNiArnM5ky35MGBAxJujirj"
       data-callback="onSubmit"
-      data-action="submit"
-      value="Send it!">
+      data-action="submit">Send it!</button>
     </stack-l>
 </form>
 
 <script>
   const textarea   = document.getElementById(`message`);
-  const counter    = document.querySelector(`.counter`);
-  const submit     = document.getElementById(`submit`);
+  const counter    = document.getElementById(`counter`);
+  const form       = document.getElementById(`okie-x-artist-survey`);
   const name       = document.getElementById(`name`);
   const email      = document.getElementById(`email`);
   const phone      = document.getElementById(`phone`);
@@ -289,46 +285,55 @@ Maximum 4096 characters. Total Characters remaining: <span class="counter">4096<
       counter.innerText   = `${textRemaining}`;
   }
 
-  {# submit.addEventListener(`click`, function(event) {
+form.addEventListener(`submit`, function(event) {
+    let err;
     if (name.value == ``) {
-    nameError.removeAttribute(`hidden`);
+      err = true;
+      nameError.removeAttribute(`hidden`);
       nameError.classList.add(`invalid`);
-      event.preventDefault();
-    } else if (!nameError.hasAttribute(`hidden`)) {
+   } else if (!nameError.hasAttribute(`hidden`)) {
+      err = false;
       nameError.setAttribute(`hidden`, ``);
       nameError.classList.remove(`invalid`);
     };
 
     if ((email.value == ``) || (!emailRegex.test(email.value))) {
-    emailError.removeAttribute(`hidden`);
+      err = true;
+      emailError.removeAttribute(`hidden`);
       emailError.classList.add(`invalid`);
-      event.preventDefault();
-    } else {
+   } else {
+      err = false;
       emailError.setAttribute(`hidden`, ``);
       emailError.classList.remove(`invalid`);
     };
 
     if ((phone.value == ``) || (!phoneRegex.test(phone.value))) {
-    phoneError.removeAttribute(`hidden`);
+      err = true;
+      phoneError.removeAttribute(`hidden`);
       phoneError.classList.add(`invalid`);
-      event.preventDefault();
-    } else {
+   } else {
+      err = false;
       phoneError.setAttribute(`hidden`, ``);
       phoneError.classList.remove(`invalid`);
     };
 
     if (!terms.checked) {
+      err = true;
       termsError.removeAttribute(`hidden`);
       termsError.classList.add(`invalid`);
-      event.preventDefault();
-    } else if (!termsError.hasAttribute(`hidden`)) {
+   } else if (!termsError.hasAttribute(`hidden`)) {
+      err = false;
       termsError.setAttribute(`hidden`, ``);
       termsError.classList.remove(`invalid`);
+    };
+
+    if (err == true) {
+      event.preventDefault();
     };
 
     const invalid = document.getElementsByClassName(`invalid`)[0];
     if (invalid) {
       invalid.focus();
     };
-  }); #}
+  });
 </script>

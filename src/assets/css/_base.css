@@ -740,6 +740,7 @@ label {
 
 button,
 .button {
+  display: inline-block;
   inline-size: fit-content;
   padding-inline: var(--s0);
   padding-block: var(--s-2);
