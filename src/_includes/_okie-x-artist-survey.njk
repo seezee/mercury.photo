@@ -1,3 +1,11 @@
+<svg hidden xmlns="http://www.w3.org/2000/svg" id="icon-sprite">
+  <defs>
+    <symbol id="icon-error" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path fill="var(--mpb-color-textPrimary)" d="M256.5 0c14.7 0 28.2 8.1 35.2 21l216 400c6.7 12.4 6.4 27.4-.8 39.5S486.6 480 472.5 480l-432 0c-14.1 0-27.1-7.4-34.3-19.5s-7.5-27.1-.8-39.5l216-400c7-12.9 20.5-21 35.2-21zM53.9 432L459.1 432 256.5 56.8 53.9 432zm202.6-40a32 32 0 1 1 0-64 32 32 0 1 1 0 64zm0-208c18.6 0 33 16.1 31 34.6l-7.1 64.1C279 294.8 268.7 304 256.5 304s-22.5-9.2-23.8-21.3l-7.1-64.1c-2-18.5 12.4-34.6 31-34.6z"/></symbol>
+  </defs>
+</svg>
+
+
+
 <form action="https://formspree.io/f/mzzrblya" id="okie-x-artist-survey" method="POST" aria-labelledby="#okie-x-artist-s-survey">
   <stack-l>
     <fieldset><legend>Who are you?</legend>
@@ -11,9 +19,10 @@
             maxLength="256"
             autocorrect="off"
             spellcheck="false"
+            autocomplete="name"
             required
           />
-        </div>
+        </div><div id="validation-error-name" class="validation-error" hidden tabindex="-1"><icon-l class="bigger"><span class="with-icon icon-sprite"><svg><use xlink:href="#icon-error"/></svg></span> Please tell us your name</icon-l></div>
         <div>
           <label for="email">What is your email address?<span>*</span></label>
           <input
@@ -24,22 +33,26 @@
             autocapitalize="none"
             autocorrect="off"
             spellcheck="false"
+            autocomplete="email"
             required
           />
-        </div>
+        </div><div id="validation-error-email" class="validation-error" hidden tabindex="-1"><icon-l class="bigger"><span class="with-icon icon-sprite"><svg><use xlink:href="#icon-error"/></svg></span> Please provide a valid email address</icon-l></div>
         <div>
           <label for="phone">What is your mobile phone number?<span>*</span></label>
           <input
             id="phone"
             type="tel"
             name="phone"
+            minLength="16"
             maxLength="16"
             autocapitalize="none"
             autocorrect="off"
             spellcheck="false"
+            autocomplete="tel"
+            pattern="([0-9]{3}) [0-9]{3}-[0-9]{4}"
             required
           />
-        </div>
+        </div><div id="validation-error-phone" class="validation-error" hidden tabindex="-1"><icon-l class="bigger"><span class="with-icon icon-sprite"><svg><use xlink:href="#icon-error"/></svg></span> Please provide a valid telephone number, starting with the area code</icon-l></div>
       </stack-l>
     </fieldset>
     <fieldset><legend>Tell us a little about your musical self</legend>
@@ -220,8 +233,7 @@
             maxLength="64"
           />
         </div>
-        <div>
-          <label for="message">Type any additional comments or information here.</label>
+        <div><label for="message">Type any additional comments or information here.</label>
           <textarea
             id="message"
             name="message"
@@ -233,33 +245,41 @@
 Maximum 4096 characters. Total Characters remaining: <span class="counter">4096</span>
       </stack-l>
     </fieldset>
-    <stack-l>
-
-<span class="required">*</span>By submitting this survey, I accept Mercury Photo Bureau’s [Privacy Policy](/legal/privacy/) and [Terms of Use](/legal/terms-of-use/), and I agree that the information I provide may be publicly displayed.
-      <div>
-        <label for="acceptance" class="form-control"><input
+    <stack-l><p><span class="required">*</span>By submitting this survey, I accept Mercury Photo Bureau’s [Privacy Policy](/legal/privacy/) and [Terms of Use](/legal/terms-of-use/), and I agree that the information I provide may be publicly displayed.</p><div><label for="acceptance" class="form-control"><input
             id="acceptance"
             type="checkbox"
             name="acceptance"
             value="I accept"
             required
-          />I accept</label>
-      </div>
-    </stack-l>
-    <button
+          />I accept</label><div id="validation-error-terms" class="validation-error" hidden tabindex="-1"><icon-l class="bigger"><span class="with-icon icon-sprite"><svg><use xlink:href="#icon-error"/></svg></span> You must agree to our terms and privacy policy</icon-l></div>
+      </div></stack-l><input
+      id="submit"
+      name="submit"
+      type="submit"
       class="g-recaptcha button button-primary"
       data-sitekey="6Lekt4AUAAAAAPOg3FNiArnM5ky35MGBAxJujirj"
       data-callback="onSubmit"
-      data-action="submit">Send it!</button>
-  </stack-l>
+      data-action="submit"
+      value="Send it!">
+    </stack-l>
 </form>
 
 <script>
-  const textarea = document.getElementById(`message`);
-  const counter = document.querySelector(`.counter`);
+  const textarea   = document.getElementById(`message`);
+  const counter    = document.querySelector(`.counter`);
+  const submit     = document.getElementById(`submit`);
+  const name       = document.getElementById(`name`);
+  const email      = document.getElementById(`email`);
+  const phone      = document.getElementById(`phone`);
+  const terms      = document.getElementById(`acceptance`);
+  const nameError  = document.getElementById(`validation-error-name`);
+  const emailError = document.getElementById(`validation-error-email`);
+  const phoneError = document.getElementById(`validation-error-phone`);
+  const termsError = document.getElementById(`validation-error-terms`);
+  const phoneRegex = /(?:(?:\+?1\s*(?:[.-]\s*)?)?(?:(\s*([2-9]1[02-9]|[2-9][02-8]1|[2-9][02-8][02-9])\s*)|([2-9]1[02-9]|[2-9][02-8]1|[2-9][02-8][02-9]))\s*(?:[.-]\s*)?)([2-9]1[02-9]|[2-9][02-9]1|[2-9][02-9]{2})\s*(?:[.-]\s*)?([0-9]{4})/g
+  const emailRegex = /^(([^<>()\[\]\\.,;:\s@"]+(\.[^<>()\[\]\\.,;:\s@"]+)*)|(".+"))@((\[[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}])|(([a-zA-Z\-0-9]+\.)+[a-zA-Z]{2,}))$/g
 
   textarea.addEventListener(`keyup`, countCharacters, false);
-
 
   function countCharacters() {
       const text          = textarea.value;
@@ -268,4 +288,47 @@ Maximum 4096 characters. Total Characters remaining: <span class="counter">4096<
       const textRemaining = (textMax - textLength);
       counter.innerText   = `${textRemaining}`;
   }
+
+  {# submit.addEventListener(`click`, function(event) {
+    if (name.value == ``) {
+    nameError.removeAttribute(`hidden`);
+      nameError.classList.add(`invalid`);
+      event.preventDefault();
+    } else if (!nameError.hasAttribute(`hidden`)) {
+      nameError.setAttribute(`hidden`, ``);
+      nameError.classList.remove(`invalid`);
+    };
+
+    if ((email.value == ``) || (!emailRegex.test(email.value))) {
+    emailError.removeAttribute(`hidden`);
+      emailError.classList.add(`invalid`);
+      event.preventDefault();
+    } else {
+      emailError.setAttribute(`hidden`, ``);
+      emailError.classList.remove(`invalid`);
+    };
+
+    if ((phone.value == ``) || (!phoneRegex.test(phone.value))) {
+    phoneError.removeAttribute(`hidden`);
+      phoneError.classList.add(`invalid`);
+      event.preventDefault();
+    } else {
+      phoneError.setAttribute(`hidden`, ``);
+      phoneError.classList.remove(`invalid`);
+    };
+
+    if (!terms.checked) {
+      termsError.removeAttribute(`hidden`);
+      termsError.classList.add(`invalid`);
+      event.preventDefault();
+    } else if (!termsError.hasAttribute(`hidden`)) {
+      termsError.setAttribute(`hidden`, ``);
+      termsError.classList.remove(`invalid`);
+    };
+
+    const invalid = document.getElementsByClassName(`invalid`)[0];
+    if (invalid) {
+      invalid.focus();
+    };
+  }); #}
 </script>

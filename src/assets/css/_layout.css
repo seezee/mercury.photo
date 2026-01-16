@@ -27,6 +27,7 @@
  * 24. Comments
  * 25. Type specimen
  * 26. Fancy horizontal rules (<hr>)
+ * 27. .grecaptcha-badge
  */
 
 #home {
@@ -1188,4 +1189,9 @@ hr:has(+ #footnotes-wrapper) {
     font-size: var(--mpb-font-size-5);
     font-weight: var(--x-bold);
   }
+}
+
+/* .grecaptcha-badge */
+div:has(.grecaptcha-badge) {
+  margin-block-start: 0;
 }

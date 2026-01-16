@@ -4,7 +4,7 @@ title: OKIE-X Artist’s Survey
 image: /assets/images/okie-x/OKIE-X-Contact-Sheet-C.jpg
 permalink: "/okie-x/okie-x-artists-survey/"
 ogtype: website
-excerpt: An excerpt
+excerpt: Thank you for completing the OKIE-X Artists’ Survey. Your answers will help me create the descriptive cards that will be displayed alongside your portrait in the OKIE-X project.
 ---
 
 <script src="https://www.google.com/recaptcha/api.js"></script>

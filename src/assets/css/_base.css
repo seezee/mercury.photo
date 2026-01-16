@@ -808,7 +808,8 @@ button,
 }
 
 @supports (text-box: trim-both cap alphabetic) {
-  button {
+  button,
+  .button {
     padding-block: var(--s0);
     text-box: trim-both cap alphabetic;
   }

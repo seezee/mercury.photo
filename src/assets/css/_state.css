@@ -2,6 +2,7 @@
  * 1. Active nav links
  * 2. fadeout & fadein animation for hiding & showing stuff
  * 3. :focus-visible styles
+ * 4. Form validation
  */
 
 .header-footer > ul > li,
@@ -88,4 +89,28 @@
   outline: var(--mpb-alert-border-width) solid var(--mpb-color-accent);
   outline-offset: var(--s-5);
   border-radius: var(--mpb-radius-1x);
+}
+
+/* Form validation */
+.validation-error:not([hidden]) {
+  margin-block-start: var(--s2);
+  padding: var(--s1) var(--s2);
+
+  background-color: var(--mpb-alert-color-danger-background);
+  border: 0 solid var(--mpb-alert-danger-border-color);
+  border-inline-start-width: var(--mpb-alert-border-width);
+  border-radius: var(--mpb-radius-2x);
+  box-shadow: var(--mpb-global-shadow-color);
+
+  font-family: var(--mpb-font-sans);
+
+  icon-l {
+    display: inline-flex;
+  }
+
+  svg {
+    inline-size: 2cap;
+    block-size: 2cap;
+    margin-inline-end: .5ch;
+  }
 }

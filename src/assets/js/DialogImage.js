@@ -17,7 +17,11 @@ export default class DialogImage extends HTMLElement {
     const imageUrlTrimmed = split.join('.');
     const fig = image.parentNode.parentNode;
     const caption = this.querySelector(`figcaption`);
-    const captionText = caption.innerText;
+    let   captionText = ``;
+
+    if (caption) {
+      captionText = caption.innerText;
+    };
 
     if (!image) {
       console.warn(`mpb-dialog-img: No image found. Exiting.`);
