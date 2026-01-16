@@ -21,7 +21,7 @@ excerpt: Thank you for completing the OKIE-X Artists’ Survey. Your answers wil
 
 {% image "featured", "img-constrained", "Contact sheet featuring the third dozen OKIE-X subjects.", "", "eager" %}</mpb-dialog-img>
 
-Thank you for completing the OKIE-X Artists’ Survey.<a href="#mn1" id="mnref1"><span class="sr-only"> [See note]</span></a> Your answers will help me create the descriptive cards that will be displayed alongside your portrait in the OKIE-X project. Fields marked with <span class="required">*</span> are required.
+Thank you for completing the OKIE-X Artists’ Survey.<a href="#mn1" id="mnref1"><span class="sr-only"> [See note]</span></a> Your answers will help us to create the descriptive cards that will be displayed alongside your portrait in the OKIE-X project. Fields marked with <span class="required">*</span> are required.
 
 {% include "_okie-x-artist-survey.njk" %}
 
