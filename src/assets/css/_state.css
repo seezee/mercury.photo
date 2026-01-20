@@ -109,8 +109,8 @@
   }
 
   svg {
-    inline-size: 2cap;
-    block-size: 2cap;
-    margin-inline-end: .5ch;
+    inline-size: 8cap;
+    block-size: 4cap;
+    margin-inline-end: 1ch;
   }
 }
