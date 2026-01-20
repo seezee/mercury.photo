@@ -2,7 +2,7 @@
 
 * Contributors: Chris J. Zähller (seezee)
 * Author URI: <https://github.com/seezee>
-* Version: 1.0.364
+* Version: 1.0.365
 * License: [Kelp Commons License](https://github.com/seezee/mercury.photo/blob/main/LICENSE)
 * License URI: <https://github.com/seezee/mercury.photo/blob/main/LICENSE>
 * tags: photography, music, journalism
