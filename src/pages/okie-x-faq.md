@@ -961,7 +961,7 @@ Please use this form to request the studio location and my mobile phone number, 
 {% include "_okie-x-artist-inquiry.njk" %}
 
 <script>
-  ’use strict’;
+  'use strict';
   const artistCount = function artistCount() {
     window.addEventListener(`load`, (event) => {
     const list = document.getElementById(`artist-list`);
@@ -969,7 +969,7 @@ Please use this form to request the studio location and my mobile phone number, 
 
     const str = `<p>OKIE-X has photographed <strong>${artists} artists</strong> to date. Participants include:</p>`;
 
-    list.insertAdjacentHTML(’beforebegin’, str);
+    list.insertAdjacentHTML(`beforebegin`, str);
     })
   };
 

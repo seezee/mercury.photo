@@ -215,7 +215,7 @@
           <input
             type="text"
             id="udedhllduoox"
-            name="gotcha"
+            name="_gotcha"
             maxLength="64"
           />
         </div>
@@ -223,11 +223,10 @@
           <textarea
             id="message"
             name="message"
-            maxLength="4096"
             rows="10"></textarea>
         </stack-l>
 
-Maximum 4096 characters. Total Characters remaining: <span class="counter">4096</span>
+Maximum <span id="msg-max">$</span> characters. Total Characters remaining: <span id="msg-counter">$</span>
       </stack-l>
     </fieldset><stack-l><p><span class="required">*</span>By submitting this survey, I accept Mercury Photo Bureau’s [Privacy Policy](/legal/privacy/) and [Terms of Use](/legal/terms-of-use/), and I agree that the information I provide may be publicly displayed.</p><div><label for="acceptance" class="form-control"><input
             type="checkbox"
@@ -242,18 +241,6 @@ Maximum 4096 characters. Total Characters remaining: <span class="counter">4096<
         name="btnSubmit">Send it!</button>
     </stack-l>
 </form>
-<script src="<https://challenges.cloudflare.com/turnstile/v0/api.js>" async defer></script>
-<script>
-  const textarea   = document.getElementById(`message`);
-  const counter    = document.querySelector(`.counter`);
+<script src="https://challenges.cloudflare.com/turnstile/v0/api.js" async defer></script>
 
-  textarea.addEventListener(`keyup`, countCharacters, false);
-
-  function countCharacters() {
-      const text          = textarea.value;
-      const textLength    = text.length;
-      const textMax       = 4096;
-      const textRemaining = (textMax - textLength);
-      counter.innerText   = `${textRemaining}`;
-  }
-</script>
+<script src="/assets/js/message-counter.js"></script>
