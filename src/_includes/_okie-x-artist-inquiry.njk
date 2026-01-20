@@ -7,41 +7,45 @@
           <div>
             <label for="name">Name<span>*</span></label>
             <input
-              id="name"
               type="text"
+              id="name"
               name="name"
               maxLength="256"
               autocorrect="off"
               spellcheck="false"
+              autocomplete="name"
               required
             />
           </div>
           <div>
             <label for="email">Email<span>*</span></label>
             <input
-              id="email"
               type="email"
+              id="email"
               name="email"
               maxLength="256"
               autocapitalize="none"
               autocorrect="off"
               spellcheck="false"
+              autocomplete="email"
               required
             />
           </div>
           <div>
             <label for="phone">Mobile Phone<span>*</span></label>
             <input
-              id="phone"
               type="tel"
+              id="phone"
               name="phone"
-              maxLength="16"
               autocapitalize="none"
+              autocomplete="tel"
               autocorrect="off"
               spellcheck="false"
+              pattern="(1[\s\.\-]?)?([0-9]{3}|\([0-9]{3}\))[\s\.\-]?[0-9]{3}[\s\.\-]?[0-9]{4}"
+              title="Enter a 10 or 11–digit phone number with optional country code. Only numerals, spaces, periods, parentheses, and dashes are allowed."
               required
             />
-          </div>
+          </div><small>Enter a 10 or 11–digit phone number with optional country code. Only numerals, spaces, periods, parentheses, and dashes are allowed.</small>
         </stack-l>
       </fieldset>
       <fieldset><legend>What’s on your mind?</legend>
@@ -49,8 +53,8 @@
           <div>
             <label for="subject">Subject<span>*</span></label>
             <input
-              id="subject"
               type="text"
+              id="subject"
               name="subject"
               maxLength="256"
               required
