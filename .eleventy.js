@@ -414,7 +414,7 @@ module.exports = async (eleventyConfig) => {
           '<button id="theme-toggle"></button>',
           '<div id="space-occupier"></div>',
           '<div class="pagination-spacer"></div>',
-          '<div id="validation-error-phone" class="validation-error" hidden tabindex="-1"></div>',
+          '<div class="cf-turnstile" data-sitekey="0x4AAAAAACNtFDIpDzvzMXIR" data-callback="enableSubmit"></div>',
           '<snow-fall></snow-fall>'
         ],
         removeRedundantAttributes: true,
