@@ -3,6 +3,11 @@
     <stack-l>
       <fieldset><legend>Who are you?</legend>
         <stack-l>
+          <div
+            class="cf-turnstile"
+            data-sitekey="0x4AAAAAACNtFDIpDzvzMXIR"
+            data-callback="enableSubmit"
+          ></div>
           <div>
             <label for="name">Name<span>*</span></label>
             <input
@@ -79,14 +84,13 @@
         </stack-l>
       </fieldset>
       <button
-        class="g-recaptcha button button-primary"
-        data-sitekey="6Lekt4AUAAAAAPOg3FNiArnM5ky35MGBAxJujirj"
-        data-callback="onSubmit"
-        data-action="submit">Send it!</button>
+        class="button button-primary"
+        id="btnSubmit"
+        name="btnSubmit">Send it!</button>
     </stack-l>
   </fieldset>
 </form>
-
+<script src="<https://challenges.cloudflare.com/turnstile/v0/api.js>" async defer></script>
 <script>
   const textarea = document.getElementById(`message`);
   const counter = document.querySelector(`.counter`);

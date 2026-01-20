@@ -2,6 +2,11 @@
   <stack-l>
     <fieldset><legend>Who are you?</legend>
       <stack-l>
+        <div
+          class="cf-turnstile"
+          data-sitekey="0x4AAAAAACNtFDIpDzvzMXIR"
+          data-callback="enableSubmit"
+        ></div>
         <div>
           <label for="name">What is your name?<span>*</span></label>
           <input
@@ -81,8 +86,7 @@
             id="band-names"
             name="band-names"
             maxLength="4096"
-          >
-          </textarea>
+          ></textarea>
         </stack-l>
         <stack-l>
           <label for="former-bands">List any bands you have played with in the past (i.e., been a member of) (separate multiple items with commas)</label>
@@ -90,8 +94,7 @@
             id="former-bands"
             name="former-bands"
             maxLength="4096"
-          >
-          </textarea>
+          ></textarea>
         </stack-l>
         <stack-l>
           <label for="genres">What musical genre(s) do you perform (separate multiple items with commas)?</label>
@@ -99,8 +102,7 @@
             id="genres"
             name="genres"
             maxLength="4096"
-          >
-          </textarea>
+          ></textarea>
         </stack-l>
         <stack-l>
           <label for="instruments">What instrument(s) do you play (separate multiple items with commas)?</label>
@@ -108,8 +110,7 @@
             id="instruments"
             name="instruments"
             maxLength="4096"
-          >
-          </textarea>
+          ></textarea>
         </stack-l>
         <fieldset><legend>I am a (check all that apply):</legend>
           <label for="singer" class="form-control">
@@ -240,14 +241,12 @@ Maximum 4096 characters. Total Characters remaining: <span class="counter">4096<
             required
           />I accept</label><div id="validation-error-terms" class="validation-error" hidden tabindex="-1"><icon-l class="bigger"><span class="with-icon icon-sprite"><svg><use xlink:href="#icon-error"/></svg></span> You must agree to our terms and privacy policy</icon-l></div>
       </div></stack-l><button
-        id="submit"
-        name="submit"
-        class="g-recaptcha button button-primary"
-        data-sitekey="6Lekt4AUAAAAAPOg3FNiArnM5ky35MGBAxJujirj"
-        >Send it!</button>
+        id="btnSubmit"
+        class="button button-primary"
+        name="btnSubmit">Send it!</button>
     </stack-l>
 </form>
-
+<script src="<https://challenges.cloudflare.com/turnstile/v0/api.js>" async defer></script>
 <script>
   const textarea   = document.getElementById(`message`);
   const counter    = document.querySelector(`.counter`);

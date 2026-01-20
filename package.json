@@ -1,6 +1,6 @@
 {
   "name": "mercury.photo",
-  "version": "1.0.360",
+  "version": "1.0.361",
   "description": "Rangefinder + Mirrorless Digital + Large Format Film Photography + Music, Arts, & News",
   "main": "index.js",
   "bugs": {
@@ -17,7 +17,8 @@
     "lint:fix": "npx @biomejs/biome check --write",
     "util:rimraf": "npx rimraf _site",
     "util:killport": "npx kill-port --port 8787",
-    "start": "ELEVENTY_ENV=dev npm-run-all util:rimraf && npx @11ty/eleventy --serve --incremental",
+    "util:killdev": "npx kill-port --port 8080",
+    "start": "ELEVENTY_ENV=dev npm-run-all util:rimraf util:killdev && npx @11ty/eleventy --serve --incremental",
     "start:prod": "ELEVENTY_ENV=production npm-run-all util:rimraf util:killport 11ty:build --parallel 11ty:watch wrangler:dev",
     "wrangler:dev": "npx wrangler dev --live-reload",
     "wrangler:deploy": "npx wrangler deploy",
@@ -67,7 +68,7 @@
     "rimraf": "^6.1.2",
     "terser": "^5.46.0",
     "typescript": "^5.9.3",
-    "wrangler": "^4.59.2"
+    "wrangler": "^4.59.3"
   },
   "browserslist": {
     "production": [

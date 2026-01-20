@@ -1,6 +1,11 @@
 <form action="https://formspree.io/f/xblojvwr" id="contact-form" method="POST" aria-labelledby="#talk-to-me">
   <stack-l>
     <div>
+      <div
+        class="cf-turnstile"
+        data-sitekey="0x4AAAAAACNtFDIpDzvzMXIR"
+        data-callback="enableSubmit"
+      ></div>
       <label for="name">Name<span>*</span></label>
       <input
         id="name"
@@ -57,13 +62,12 @@
 Maximum 4096 characters. Total Characters remaining: <span class="counter">4096</span>
 
     <button
-      class="g-recaptcha button button-primary"
-      data-sitekey="6Lekt4AUAAAAAPOg3FNiArnM5ky35MGBAxJujirj"
-      data-callback="onSubmit"
-      data-action="submit">Send it!</button>
+      id="btnSubmit"
+      class="button button-primary"
+      name="btnSubmit">Send it!</button>
   </stack-l>
 </form>
-
+<script src="<https://challenges.cloudflare.com/turnstile/v0/api.js>" async defer></script>
 <script>
   const textarea = document.getElementById(`message`);
   const counter = document.querySelector(`.counter`);
