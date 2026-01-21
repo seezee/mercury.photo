@@ -922,7 +922,7 @@ icon-l {
 
   &::before,
   &::after {
-    display: flex;
+    display: inline-flex;
     /* biome-ignore-start lint: Prevent removal of backslash */
     content: "\FEFF"; /* Word joiner */
     /* biome-ignore-end lint: Prevent removal of backslash */
