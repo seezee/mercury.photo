@@ -119,8 +119,13 @@ html {
 
   &.fonts-stage-2 {
     font-family: var(--mpb-font-default);
-    font-weight: var(--normal, 500);
+    font-weight: var(--normal, 400);
     font-style: normal;
+
+    &[data-theme="dark"] {
+      color-scheme: dark;
+      font-variation-settings: "wdth" 105.1;
+    }
   }
 
   font-variant: normal;
@@ -136,10 +141,6 @@ html {
 
   color: var(--mpb-color-textPrimary);
   background-color: var(--mpb-color-textReverse);
-
-  &[data-theme="dark"] {
-    color-scheme: dark;
-  }
 
   transition:
     background-color 0.1s ease,

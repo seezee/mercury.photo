@@ -69,7 +69,7 @@
       font-family: Merriweather-Subset;
       src: url('/assets/fonts/Merriweather-Subset.woff2') format('woff2');
       font-display: eager;
-      font-weight: 500;
+      font-weight: 400;
       font-style: normal;
       unicode-range: U+30-U+39,U+41-U+5A, U+61-U+7A;
     }
@@ -78,7 +78,7 @@
       font-family: MerriweatherSans-Subset;
       src: url('/assets/fonts/MerriweatherSans-Subset.woff2') format('woff2');
       font-display: eager;
-      font-weight: 500;
+      font-weight: 400;
       font-style: normal;
       unicode-range: U+30-U+39,U+41-U+5A, U+61-U+7A;
     }
@@ -96,7 +96,7 @@
       font-family: Cousine-Subset;
       src: url('/assets/fonts/Cousine-Subset.woff2') format('woff2');
       font-display: eager;
-      font-weight: 500;
+      font-weight: 400;
       font-style: normal;
       unicode-range: U+30-U+39,U+41-U+5A, U+61-U+7A;
     }
@@ -105,8 +105,8 @@
       font-family: Merriweather;
       src: url('/assets/fonts/Merriweather-Variable.woff2') format('woff2-variations');
       font-display: swap;
-      font-weight: 100 1000;
-      font-variation-settings: "wdth" 25 250;
+      font-weight: 300 900;
+      font-stretch: 87% 112%;
       font-style: normal;
     }
 
@@ -114,8 +114,8 @@
       font-family: Merriweather;
       src: url('/assets/fonts/Merriweather-Italic-Variable.woff2') format('woff2-variations');
       font-display: swap;
-      font-weight: 100 1000;
-      font-variation-settings: "wdth" 25 250;
+      font-weight: 300 900;
+      font-stretch: 87% 112%;
       font-style: italic;
     }
 
@@ -123,7 +123,7 @@
       font-family: MerriweatherSans;
       src: url('/assets/fonts/MerriweatherSans-Variable.woff2') format('woff2-variations');
       font-display: swap;
-      font-weight: 100 1000;
+      font-weight: 300 800;
       font-style: normal;
     }
 
@@ -131,7 +131,7 @@
       font-family: MerriweatherSans;
       src: url('/assets/fonts/MerriweatherSans-Italic-Variable.woff2') format('woff2-variations');
       font-display: swap;
-      font-weight: 100 1000;
+      font-weight: 300 800;
       font-style: italic;
     }
 
@@ -140,7 +140,7 @@
       src: url('/assets/fonts/PlayfairDisplay-Variable.woff2') format('woff2-variations');
       font-display: swap;
       font-style: normal;
-      font-weight: 100 1000;
+      font-weight: 400 900;
       font-variant: normal;
     }
 
@@ -149,7 +149,7 @@
       src: url('/assets/fonts/PlayfairDisplay-Italic-Variable.woff2') format('woff2-variations');
       font-display: swap;
       font-style: italic;
-      font-weight: 100 1000;
+      font-weight: 400 900;
       font-variant: normal;
     }
 
@@ -159,16 +159,14 @@
       font-display: swap;
       font-weight: var(--normal, 400); /* Doesn't support 500 */
       font-style: normal;
-      font-variant: small-caps;
     }
 
     @font-face {
       font-family: PlayfairSC;
       src: url('/assets/fonts/PlayfairDisplaySC-Italic.woff2') format('woff2');
       font-display: swap;
-      font-weight: var(--normal, 500);
+      font-weight: var(--normal, 400); /* Doesn't support 500 */
       font-style: italic;
-      font-variant: small-caps;
     }
 
     @font-face {
@@ -177,7 +175,6 @@
       font-display: swap;
       font-weight: var(--bold, 700);
       font-style: normal;
-      font-variant: small-caps;
     }
 
     @font-face {
@@ -186,7 +183,6 @@
       font-display: swap;
       font-weight: var(--bold, 700);
       font-style: italic;
-      font-variant: small-caps;
     }
 
     @font-face {
@@ -245,8 +241,7 @@
       .wedding-services-wrapper h2,
       .spkr {
         font-family: PlayfairDisplay-Subset, serif;
-        font-variant: small-caps;
-      }
+        }
 
       dt,
       summary,
