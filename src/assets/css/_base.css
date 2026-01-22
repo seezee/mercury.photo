@@ -99,10 +99,14 @@ html {
     scroll-behavior: smooth;
   }
 
-  /* Dialog (modal) is open */
+  /* Dialog (modal) is open. First selector can be removed once
+   * overscroll-behavior:contain has full support
+   */
   &:has([data-disable-document-scroll="true"]),
   &:has(dialog[open]:modal) {
-    /* Poof! No more scrolling! */
+    /* Poof! No more scrolling! This can be removed once
+     * overscroll-behavior:contain has full support
+     */
     overflow: hidden;
     /* keep the scrollbar width */
     scrollbar-gutter: stable;
@@ -911,6 +915,7 @@ dialog {
 
   &::backdrop {
     pointer-events: none;
+    overflow: hidden;
     overscroll-behavior: contain;
   }
 }

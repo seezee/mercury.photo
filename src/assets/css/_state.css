@@ -22,7 +22,7 @@
   .navigation__link:has(+ .navigation__button + .navigation__submenu a.current),
 .header-footer
   .navigation__link:has(
-    + .navigatin__button + .navigation__submenu a.current:visited
+    + .navigation__button + .navigation__submenu a.current:visited
   ) {
   text-decoration-line: underline;
   text-decoration-style: solid;

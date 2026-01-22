@@ -123,6 +123,7 @@ export default class DialogImage extends HTMLElement {
       e.preventDefault();
       // Prevent scrolling outside the modal; see
       // https://www.joshwcomeau.com/css/has/#global-detection-6.
+      // This can be removed once overscroll-behavior:contain has full support
       modal.setAttribute(`data-disable-document-scroll`, true);
       // Open the modal.
       modal.showModal();

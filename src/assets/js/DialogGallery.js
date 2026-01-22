@@ -179,6 +179,7 @@ export default class DialogGallery extends HTMLElement {
 
         // Prevent scrolling outside the modal; see
         // https://www.joshwcomeau.com/css/has/#global-detection-6.
+        // This can be removed once overscroll-behavior:contain has full support
         modal.setAttribute(`data-disable-document-scroll`, true);
 
         // Get the clicked image alt.
