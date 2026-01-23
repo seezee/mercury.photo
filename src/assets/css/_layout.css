@@ -4,30 +4,31 @@
  * 1.  #home
  * 2.  noscript
  * 3.  #skip-link, #skip-slideshow-link
- * 4.  Search
- * 5.  #nav-primary-wrapper, #nav-secondary, .breadcrumbs-separator, #main-wrapper
- * 6.  .hero-hed
- * 7.  .recent-posts
- * 8.  blog-index
- * 9.  .masonry
- * 10. Columns (.col-2, .col-3, .col-4, .col-5)
- * 11. hgroup
- * 12. <dd> styles: .dd-add-space, dd+br
- * 13. .after-icon spacer
- * 14. .recipe-index
- * 15. #mpb-logo (footer icon)
- * 16. Footnotes & sidenotes
- * 17. Pagination
- * 18. Comments, author info, support cta, & footer
- * 19. Scroller
- * 20. Tag post excerpt
- * 21. Staff, OKIE-X, Sitemap, Tags
- * 22. Wedding prices
- * 23. Social
- * 24. Comments
- * 25. Type specimen
- * 26. Fancy horizontal rules (<hr>)
- * 27. .button > .icon-before::before
+ * 4.  #header-wrapper
+ *5.  Search
+ * 6.  #nav-primary-wrapper, #nav-secondary, .breadcrumbs-separator, #main-wrapper
+ * 7.  .hero-hed
+ * 8.  .recent-posts
+ * 9.  blog-index
+ * 10.  .masonry
+ * 11. Columns (.col-2, .col-3, .col-4, .col-5)
+ * 12. hgroup
+ * 13. <dd> styles: .dd-add-space, dd+br
+ * 14. .after-icon spacer
+ * 15. .recipe-index
+ * 16. #mpb-logo (footer icon)
+ * 17. Footnotes & sidenotes
+ * 18. Pagination
+ * 19. Comments, author info, support cta, & footer
+ * 20. Scroller
+ * 21. Tag post excerpt
+ * 22. Staff, OKIE-X, Sitemap, Tags
+ * 23. Wedding prices
+ * 24. Social
+ * 25. Comments
+ * 26. Type specimen
+ * 27. Fancy horizontal rules (<hr>)
+ * 28. .button > .icon-before::before
  */
 
 #home {
@@ -62,7 +63,7 @@ noscript div {
 
 /* #skip-link, #skip-slideshow-link */
 
-div:has(#skip-link:not(:focus-visible):not(:active)) {
+div:has( > #skip-link:not(:focus-visible):not(:active)) {
   position: absolute;
   display: inline-block;
   inline-size: 1px;
@@ -88,6 +89,21 @@ div:has(#skip-link:not(:focus-visible):not(:active)) {
 
 #skip-slideshow-link {
   inset-inline-start: var(--s2);
+}
+
+/* #header-wrapper */
+#header-wrapper {
+  position: sticky;
+  inset-block-start: 0;
+  background-color: var(--mpb-color-textReverse);
+  z-index: 1;
+}
+
+@media screen and (max-width: 640px) {
+
+  #header-wrapper {
+   inset-block-start: -3rem;
+  }
 }
 
 /* Header & Pagination Icons */
@@ -209,7 +225,7 @@ div:has(#skip-link:not(:focus-visible):not(:active)) {
 .navigation__list {
   display: flex;
   flex-wrap: wrap;
-  gap: var(--s1);
+  gap: var(--s-1);
   justify-content: flex-start;
   align-items: safe center;
   margin: 0;
@@ -218,12 +234,16 @@ div:has(#skip-link:not(:focus-visible):not(:active)) {
 
 .navigation__item {
   padding-inline-start: var(--s-1);
-  padding-inline-end: var(--s2);
+
   list-style-type: none;
   display: flex;
   align-items: safe center;
   position: relative;
   text-align: start;
+
+  &.js-has-submenu {
+    padding-inline-end: var(--s2);
+  }
 }
 
 ul ul .navigation__item {
