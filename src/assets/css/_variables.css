@@ -2,6 +2,10 @@
  * Variables CSS
  */
 
+@view-transition {
+  navigation: auto;
+}
+
 @property --mpb-color-primary-900 {
   syntax: "<color>";
   inherits: false;
@@ -24,10 +28,6 @@
   syntax: "<number>";
   inherits: false;
   initial-value: 0.1;
-}
-
-@view-transition {
-  navigation: auto;
 }
 
 :root {

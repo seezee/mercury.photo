@@ -919,13 +919,14 @@ li[id^=mn] {
 
 /* Pagination */
 #pagination {
-  #mpb-lettermark {
-    color: var(--mpb-color-accent);
-  }
 
   svg {
     inline-size: 3rem;
   }
+}
+
+#mpb-lettermark {
+  color: var(--mpb-color-accent);
 }
 
 /* Comments, author info, support cta, & footer */
