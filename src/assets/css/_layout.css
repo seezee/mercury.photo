@@ -84,7 +84,9 @@ div:has( > #skip-link:not(:focus-visible):not(:active)) {
 }
 
 #skip-link {
+  display: inline-block;
   inset-block-start: var(--s-5);
+  margin-block-end: var(--s1);
 }
 
 #skip-slideshow-link {
