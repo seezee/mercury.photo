@@ -5,5 +5,8 @@
     "directory": "_site",
     "not_found_handling": "404-page"
   },
+  "vars": {
+    "ELEVENTY_ENV": "production"
+  },
   "routes": [{ "pattern": "mercury.photo", "custom_domain": true }]
 }

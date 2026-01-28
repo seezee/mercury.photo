@@ -174,33 +174,6 @@ module.exports = async (eleventyConfig) => {
    */
 
   /**
-   * Search
-   */
-
-  // Pagefind config; runs AFTER build
-  eleventyConfig.on(`eleventy.after`, async ({ dir }) => {
-    const inputPath = dir.output;
-    const outputPath = path.join(dir.output, `pagefind`);
-
-    console.info(`Creating Pagefind index of %s`, inputPath);
-
-    const pagefind = await import(`pagefind`);
-    const { index } = await pagefind.createIndex();
-    const { page_count } = await index.addDirectory({ path: inputPath });
-    await index.writeFiles({ outputPath });
-
-    console.info(
-      `Created Pagefind index of %i pages in %s`,
-      page_count,
-      outputPath,
-    );
-  });
-
-  /**
-   * END search
-   */
-
-  /**
    * Image manipulation
    */
 
@@ -236,6 +209,7 @@ module.exports = async (eleventyConfig) => {
     alt,
     caption,
     loading,
+    fetchpriority,
     widths = [400, 800, 1200, `auto`],
     formats = [`webp`, `jpeg`],
     sizes = `(min-width: 24rem) 90vw, 100vw`,
@@ -311,6 +285,7 @@ module.exports = async (eleventyConfig) => {
         height: largestUnoptimizedImg.height,
         alt,
         loading,
+        fetchpriority: `high`,
         decoding: `async`,
       });
     }
@@ -435,6 +410,33 @@ module.exports = async (eleventyConfig) => {
 
   /**
    * END minification & bundling
+   */
+
+  /**
+   * Search
+   */
+
+  // Pagefind config; runs AFTER build
+  eleventyConfig.on(`eleventy.after`, async ({ dir }) => {
+    const inputPath = dir.output;
+    const outputPath = path.join(dir.output, `pagefind`);
+
+    console.info(`Creating Pagefind index of %s`, inputPath);
+
+    const pagefind = await import(`pagefind`);
+    const { index } = await pagefind.createIndex();
+    const { page_count } = await index.addDirectory({ path: inputPath });
+    await index.writeFiles({ outputPath });
+
+    console.info(
+      `Created Pagefind index of %i pages in %s`,
+      page_count,
+      outputPath,
+    );
+  });
+
+  /**
+   * END search
    */
 
   /**
