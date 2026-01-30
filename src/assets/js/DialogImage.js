@@ -112,6 +112,8 @@ export default class DialogImage extends HTMLElement {
     src2.setAttribute(`srcset`, `${imageUrlTrimmed}.jpeg`);
     imgTag.setAttribute(`src`, imageUrl);
     imgTag.setAttribute(`alt`, altAttr);
+    imgTag.setAttribute(`width`, imgTag.naturalWidth);
+    imgTag.setAttribute(`height`, imgTag.naturalHeight);
     modalCap.innerText = captionText;
 
     // Add attribute for accessibility

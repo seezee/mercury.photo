@@ -42,6 +42,7 @@
   inset-block-start: 50%;
   block-size: 0;
   inline-size: 100%;
+  color: var(--mpb-color-accent);
 }
 
 .slider-wrapper .prevNext svg {

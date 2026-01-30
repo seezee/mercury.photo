@@ -2,11 +2,13 @@
 
 const browserslist = require('browserslist');
 const eleventyAutoCacheBuster = require('eleventy-auto-cache-buster');
-const esbuild = require('esbuild');
+const esbuild = require(`esbuild`);
 const { feedPlugin } = require('@11ty/eleventy-plugin-rss');
 const htmlmin = require('html-minifier-next');
 const Image = require('@11ty/eleventy-img');
+const { imageSize } = require('image-size');
 // const { eleventyImageTransformPlugin } = require('@11ty/eleventy-img');
+const { JSDOM } = require('jsdom');
 const markdownIt = require('markdown-it');
 const mdAnchor = require('markdown-it-anchor');
 const mdAttrs = require('markdown-it-attrs');
@@ -15,8 +17,11 @@ const mdFN = require('markdown-it-footnote');
 const { minify } = require('terser');
 const outdent = require('outdent');
 const path = require('path');
-const pluginSEO = require('eleventy-plugin-seo');
+const pluginSEO = require('eleventy-plugin-seo')
+const { promisify } = require('util');
+const { readFile } = require('fs');
 const { resolveToEsbuildTarget } = require('esbuild-plugin-browserslist');
+const console = require('console');
 
 const is_production =
   typeof process.env.ELEVENTY_ENV === 'string' &&
@@ -174,6 +179,91 @@ module.exports = async (eleventyConfig) => {
    */
 
   /**
+   * Minification & bundling
+   */
+
+  // JS  & CSS bundling, tree-shaking, & minification
+
+  eleventyConfig.on(`eleventy.before`, async () => {
+    if (is_production) {
+      await esbuild.build({
+        entryPoints: [`src/assets/js/index.js`, `src/assets/css/index.css`],
+        bundle: true,
+        treeShaking: true,
+        outdir: `_site/assets/`,
+        sourcemap: true,
+        minify: true,
+        target, // From our constant, set at top of file
+      });
+    } else {
+      await esbuild.build({
+        entryPoints: [`src/assets/js/index.js`, `src/assets/css/index.css`],
+        bundle: true,
+        treeShaking: true,
+        outdir: `_site/assets/`,
+        target,
+      });
+    }
+  });
+
+  // JS inline minification
+  eleventyConfig.addNunjucksAsyncFilter(`jsmin`, async (code, callback) => {
+    try {
+      const minified = await minify(code);
+      callback(null, minified.code);
+    } catch (err) {
+      console.error(`Terser error: `, err);
+      // Fail gracefully.
+      callback(null, code);
+    }
+  });
+
+  // HTML minification
+  eleventyConfig.addTransform(`htmlmin`, async function(content) {
+    if (this.page.outputPath && this.page.outputPath.endsWith(`.html`)) {
+      let minified = await htmlmin.minify(content, {
+        // Options: https://github.com/j9t/html-minifier-next?tab=readme-ov-file#options-quick-reference
+        // Don't set removeOptionalTags: true;
+        // it messes up custom elements!
+        collapseBooleanAttributes: true,
+        collapseWhitespace: true,
+        caseSensitive: true,
+        decodeEntities: true,
+        minifyCSS: true,
+        minifyJS: true,
+        // minifySVG: true,
+        preventAttributesEscaping: true,
+        removeComments: true,
+        removeEmptyElements: true,
+        removeEmptyElementsExcept: [
+          '<div class="search" id="search"></div>',
+          '<button id="theme-toggle"></button>',
+          '<div id="space-occupier"></div>',
+          '<div class="pagination-spacer"></div>',
+          '<div class="cf-turnstile" data-sitekey="0x4AAAAAACNtFDIpDzvzMXIR" data-callback="enableSubmit"></div>',
+          '<snow-fall></snow-fall>'
+        ],
+        removeRedundantAttributes: true,
+        sortAttributes: true,
+        sortClassName: true
+      });
+      return minified;
+    }
+    return content;
+  });
+
+  // Cache busting
+  if (is_production) {
+    eleventyConfig.addPlugin(eleventyAutoCacheBuster, {
+      globstring: `**/*.{css,js,png,jpg,jpeg,gif,webp,svg,mp4,m4a,mp3,ogg,ico}`,
+    });
+  }
+
+  /**
+   * END minification & bundling
+   */
+
+  /**
    * Image manipulation
    */
 
@@ -324,92 +414,55 @@ module.exports = async (eleventyConfig) => {
   });
 
   /**
-   * END image manipulation
+   * Eleventy transform to add width and height to <img> tags
+   * See https://www.cantoni.org/2025/08/18/
+   * solving-my-image-dimension-problem-with-an-eleventy-transform/
+   *
+   * Must run *after* bundling & minification or it will mess up inline SVGs
    */
-
-  /**
-   * Minification & bundling
-   */
-
-  // JS  & CSS bundling, tree-shaking, & minification
-
-  eleventyConfig.on(`eleventy.before`, async () => {
-    if (is_production) {
-      await esbuild.build({
-        entryPoints: [`src/assets/js/index.js`, `src/assets/css/index.css`],
-        bundle: true,
-        treeShaking: true,
-        outdir: `_site/assets/`,
-        sourcemap: true,
-        minify: true,
-        target, // From our constant, set at top of file
-      });
-    } else {
-      await esbuild.build({
-        entryPoints: [`src/assets/js/index.js`, `src/assets/css/index.css`],
-        bundle: true,
-        treeShaking: true,
-        outdir: `_site/assets/`,
-        target,
-      });
-    }
-  });
-
-  // JS inline minification
-  eleventyConfig.addNunjucksAsyncFilter(`jsmin`, async (code, callback) => {
-    try {
-      const minified = await minify(code);
-      callback(null, minified.code);
-    } catch (err) {
-      console.error(`Terser error: `, err);
-      // Fail gracefully.
-      callback(null, code);
-    }
-  });
-
-  // HTML minification
-  eleventyConfig.addTransform(`htmlmin`, async function(content) {
-    if (this.page.outputPath && this.page.outputPath.endsWith(`.html`)) {
-      let minified = await htmlmin.minify(content, {
-        // Options: https://github.com/j9t/html-minifier-next?tab=readme-ov-file#options-quick-reference
-        // Don't set removeOptionalTags: true;
-        // it messes up custom elements!
-        collapseBooleanAttributes: true,
-        collapseWhitespace: true,
-        caseSensitive: true,
-        decodeEntities: true,
-        minifyCSS: true,
-        minifyJS: true,
-        minifySVG: true,
-        preventAttributesEscaping: true,
-        removeComments: true,
-        removeEmptyElements: true,
-        removeEmptyElementsExcept: [
-          '<div class="search" id="search"></div>',
-          '<button id="theme-toggle"></button>',
-          '<div id="space-occupier"></div>',
-          '<div class="pagination-spacer"></div>',
-          '<div class="cf-turnstile" data-sitekey="0x4AAAAAACNtFDIpDzvzMXIR" data-callback="enableSubmit"></div>',
-          '<snow-fall></snow-fall>'
-        ],
-        removeRedundantAttributes: true,
-        sortAttributes: true,
-        sortClassName: true
-      });
-      return minified;
-    }
-    return content;
-  });
-
-  // Cache busting
   if (is_production) {
-    eleventyConfig.addPlugin(eleventyAutoCacheBuster, {
-      globstring: `**/*.{css,js,png,jpg,jpeg,gif,webp,svg,mp4,m4a,mp3,ogg,ico}`,
-    });
-  }
+    eleventyConfig.addTransform(
+      `img-dimensions`,
+      async function (content, outputPath) {
+        if (!outputPath || !outputPath.endsWith(`.html`)) return content;
+
+        const dom = new JSDOM(content);
+        const imgs = dom.window.document.querySelectorAll(
+          `img[src]:not([width]):not([height])`,
+        );
+
+        // If no images, return the original content
+        if (imgs.length === 0) return content;
+
+        for (const img of imgs) {
+          try {
+            let src = img.getAttribute(`src`);
+            if ((src.startsWith(`http`)) || (img.namespaceURI === `http://www.w3.org/2000/svg`)) continue; // Skip remote images & SVGs
+
+            // Remove leading slash if present
+            let imgPath = src.replace(/^\//, ``);
+            let filePath = `./_site/${imgPath}`;
+            let buffer = await promisify(readFile)(filePath);
+            let dimensions = imageSize(buffer);
+
+            if (dimensions.width && dimensions.height) {
+              img.setAttribute(`width`, dimensions.width);
+              img.setAttribute(`height`, dimensions.height);
+            }
+          } catch (e) {
+            console.log(
+              `Error processing image ${img.getAttribute(`src`)}: ${e.message}`,
+            );
+          }
+        }
+
+        return dom.serialize();
+      },
+    );
+  };
 
   /**
-   * END minification & bundling
+   * END image manipulation
    */
 
   /**
@@ -493,11 +546,6 @@ module.exports = async (eleventyConfig) => {
       .sort((a, b) => a.localeCompare(b));
     return sorted;
   });
-
-  /* Limit collection size
-   * Usage, e.g. show the 8 most recent posts:
-   * {%- for post in collections.blog | sortByPubDate | reverse | limit(8) -%}
-   */
 
   eleventyConfig.addFilter(`limit`, (arr, limit) => arr.slice(0, limit));
 

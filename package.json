@@ -1,6 +1,6 @@
 {
   "name": "mercury.photo",
-  "version": "1.0.374",
+  "version": "1.0.375",
   "description": "Rangefinder + Mirrorless Digital + Large Format Film Photography + Music, Arts, & News",
   "main": "index.js",
   "bugs": {
@@ -38,23 +38,24 @@
     "eleventy-plugin-seo": "^0.5.2"
   },
   "//": {
-    "devDependenciesPlaceholder" :
-      [
-        "These dependencies are commented out",
-        "See https://bobbyhadz.com/blog/add-comments-to-package-json",
-        "\"@11ty/is-land\": \"^5.0.1\"",
-        "\"@zachleat/snow-fall\": \"^1.0.3\""
-      ]
+    "devDependenciesPlaceholder": [
+      "These dependencies are commented out",
+      "See https://bobbyhadz.com/blog/add-comments-to-package-json",
+      "\"@11ty/is-land\": \"^5.0.1\"",
+      "\"@zachleat/snow-fall\": \"^1.0.3\""
+    ]
   },
   "devDependencies": {
     "@11ty/eleventy-plugin-rss": "^2.0.4",
     "@biomejs/biome": "2.3.13",
-    "@types/node": "^25.0.10",
+    "@types/node": "^25.1.0",
     "browserslist": "^4.28.1",
     "eleventy-auto-cache-buster": "^0.8.3",
     "esbuild": "^0.27.2",
     "esbuild-plugin-browserslist": "^2.0.0",
-    "html-minifier-next": "^4.19.0",
+    "html-minifier-next": "^4.19.1",
+    "image-size": "^2.0.2",
+    "jsdom": "^27.4.0",
     "kill-port": "2.0.1",
     "knip": "^5.82.1",
     "markdown-it": "^14.1.0",
@@ -68,7 +69,7 @@
     "rimraf": "^6.1.2",
     "terser": "^5.46.0",
     "typescript": "^5.9.3",
-    "wrangler": "^4.61.0"
+    "wrangler": "^4.61.1"
   },
   "browserslist": {
     "production": [

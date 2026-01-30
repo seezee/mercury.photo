@@ -28,6 +28,15 @@
   align-items: baseline;
 }
 
+.trademark {
+  color: var(--mpb-color-accent);
+
+  svg.icon {
+    width: 3cap;
+    height: 3cap;
+  }
+}
+
 .with-icon .icon {
   margin-inline-start: 0.5ch;
 }

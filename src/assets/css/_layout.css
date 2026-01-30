@@ -5,30 +5,32 @@
  * 2.  noscript
  * 3.  #skip-link, #skip-slideshow-link
  * 4.  #header-wrapper
- *5.  Search
- * 6.  #nav-primary-wrapper, #nav-secondary, .breadcrumbs-separator, #main-wrapper
- * 7.  .hero-hed
- * 8.  .recent-posts
- * 9.  blog-index
- * 10.  .masonry
- * 11. Columns (.col-2, .col-3, .col-4, .col-5)
- * 12. hgroup
- * 13. <dd> styles: .dd-add-space, dd+br
- * 14. .after-icon spacer
- * 15. .recipe-index
- * 16. #mpb-logo (footer icon)
- * 17. Footnotes & sidenotes
- * 18. Pagination
- * 19. Comments, author info, support cta, & footer
- * 20. Scroller
- * 21. Tag post excerpt
- * 22. Staff, OKIE-X, Sitemap, Tags
- * 23. Wedding prices
- * 24. Social
- * 25. Comments
- * 26. Type specimen
- * 27. Fancy horizontal rules (<hr>)
- * 28. .button > .icon-before::before
+ * 5.  .mpb-lettermark
+ * 6.  Search
+ * 7.  #nav-primary-wrapper, #nav-secondary, .breadcrumbs-separator, #main-wrapper
+ * 8.  .hero-hed
+ * 9.  .recent-posts
+ * 10.  blog-index
+ * 11.  .masonry
+ * 12. Columns (.col-2, .col-3, .col-4, .col-5)
+ * 13. hgroup
+ * 14. <dd> styles: .dd-add-space, dd+br
+ * 15. .after-icon spacer
+ * 16. .recipe-index
+ * 17. #mpb-logo (footer icon)
+ * 18. Footnotes & sidenotes
+ * 19. Pagination
+ * 20. Comments, author info, support cta, & footer
+ * 21. Scroller
+ * 22. Tag post excerpt
+ * 23. Staff, OKIE-X, Sitemap, Tags
+ * 24. Wedding prices
+ * 25. Social
+ * 26. Comments
+ * 27. Type specimen
+ * 28. Fancy horizontal rules (<hr>)
+ * 29. .button > .icon-before::before
+ * 30. .staff-card
  */
 
 #home {
@@ -114,12 +116,15 @@ div:has( > #skip-link:not(:focus-visible):not(:active)) {
 
   a {
     display: inline-block;
-    border-radius: 50%;
   }
 
   svg {
     inline-size: 2rem;
   }
+}
+
+.mpb-lettermark {
+  color: var(--mpb-color-accent);
 }
 
 /* Search */
@@ -484,6 +489,7 @@ hgroup h1 + p {
 /* #mpb-logo (footer icon) */
 #mpb-logo-wrapper {
   margin-block: var(--s1);
+  color: var(--mpb-color-accent);
 
   svg {
     inline-size: 6rem;
@@ -982,9 +988,9 @@ li[id^=mn] {
   block-size: 2.5rem;
   border-radius: 50%;
   border: 0.1rem solid var(--mpb-color-textPrimary);
-  background-color: var(--mpb-color-textSecondary);
+  background-color: var(--mpb-color-accentReverse);
   /* emoji don't behave like regular fonts
-     so this helped position it correctly */
+     so this helps position it correctly */
   padding: 0.25rem;
 
   svg {
@@ -1234,4 +1240,11 @@ hr:has(+ #footnotes-wrapper) {
     font-size: var(--mpb-font-size-5);
     font-weight: var(--x-bold);
   }
+}
+
+.staff-card {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  row-gap: var(--s1);
 }
