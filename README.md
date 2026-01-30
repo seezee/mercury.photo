@@ -20,12 +20,12 @@ A site dedicated to photography, music, and news. Home of the OKIE-X portrait pr
 
 ## :notebook_with_decorative_cover: Table of Contents
 
-* [Mercury Photo Bureau](#mercury-photo-bureau)
-  * [:notebook\_with\_decorative\_cover: Table of Contents](#notebook_with_decorative_cover-table-of-contents)
-    * [:bulb: About the Project](#bulb-about-the-project)
-      * [Brand Mark](#brand-mark)
-    * [:pencil: License](#pencil-license)
-    * [:mailbox\_with\_mail: Contact](#mailbox_with_mail-contact)
+- [Mercury Photo Bureau](#mercury-photo-bureau)
+  - [:notebook\_with\_decorative\_cover: Table of Contents](#notebook_with_decorative_cover-table-of-contents)
+    - [:bulb: About the Project](#bulb-about-the-project)
+      - [Brand Mark](#brand-mark)
+    - [:pencil: License](#pencil-license)
+    - [:mailbox\_with\_mail: Contact](#mailbox_with_mail-contact)
 
 ### :bulb: About the Project
 
@@ -39,7 +39,7 @@ The brand mark is set in Funkydori Bold by Laura Worthington Type.
 
 Code distributed under the [Kelp Commons License](https://github.com/seezee/mercury.photo/blob/main/LICENSE).
 
-Content copyright ©2012&NoBreak;&hairsp;&NoBreak;–&NoBreak;&hairsp;&NoBreak;2025 Chris J. Zähller; all rights reserved.
+Content copyright ©2012&NoBreak;&hairsp;&NoBreak;–&NoBreak;&hairsp;&NoBreak;2026 Chris J. Zähller; all rights reserved.
 
 ### :mailbox_with_mail: Contact
 

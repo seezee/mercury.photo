@@ -1,8 +1,9 @@
 `use strict`;
 
 const browserslist = require('browserslist');
+const console = require('console');
 const eleventyAutoCacheBuster = require('eleventy-auto-cache-buster');
-const esbuild = require(`esbuild`);
+const esbuild = require('esbuild');
 const { feedPlugin } = require('@11ty/eleventy-plugin-rss');
 const htmlmin = require('html-minifier-next');
 const Image = require('@11ty/eleventy-img');
@@ -21,7 +22,6 @@ const pluginSEO = require('eleventy-plugin-seo')
 const { promisify } = require('util');
 const { readFile } = require('fs');
 const { resolveToEsbuildTarget } = require('esbuild-plugin-browserslist');
-const console = require('console');
 
 const is_production =
   typeof process.env.ELEVENTY_ENV === 'string' &&
@@ -240,8 +240,8 @@ module.exports = async (eleventyConfig) => {
           '<button id="theme-toggle"></button>',
           '<div id="space-occupier"></div>',
           '<div class="pagination-spacer"></div>',
-          '<div class="cf-turnstile" data-sitekey="0x4AAAAAACNtFDIpDzvzMXIR" data-callback="enableSubmit"></div>',
-          '<snow-fall></snow-fall>'
+          '<div class="cf-turnstile" data-sitekey="0x4AAAAAACNtFDIpDzvzMXIR" data-callback="enableSubmit"></div>'//,
+          // '<snow-fall></snow-fall>'
         ],
         removeRedundantAttributes: true,
         sortAttributes: true,
