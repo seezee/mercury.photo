@@ -9,7 +9,16 @@
                 <li role="listitem">
                   <stack-l>
                     <h3><a href="{{ post.url }}">{{ post.data.title | safe }}</a></h3>
-                    <a href="{{ post.url }}"><img src="{{ post.data.image | safe }}" alt="Read “{{ post.data.title | safe }}”" loading="lazy" /></a>
+                    <a href="{{ post.url }}">
+                      {%
+                        getThumbnail post.data.image, {
+                          outputDir: post.url,
+                          alt: post.data.title,
+                          loading: "lazy",
+                          fetchpriority: "auto"
+                        }
+                      %}
+                    </a>
                     <small>
                       {% if post.data.pubdate %}
                         <time datetime="{{ post.data.pubdate | toISOString | safe }}">{{ post.data.pubdate | dateUK | safe }}</time>
@@ -17,8 +26,7 @@
                         No publication date found.
                       {% endif %}
                     </small>
-                    <p>{{ post.data.excerpt | safe }}</p>
-                    {% include "_tags-buttons.njk" %}
+                    <p>{{ post.data.excerpt | safe }}</p><!-- No break here -->{% include "_tags-buttons.njk" %}
                   </stack-l>
                 </li>
               {%- endfor -%}

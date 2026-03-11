@@ -18,7 +18,7 @@ excerpt: The Cleveland County Farmers Market has changed its hours starting toda
 
 <!-- markdownlint-enable MD025 --><mpb-dialog-img>
 
-{% image "featured", "img-constrained", "A young girl carries a tray of tomato seedlings at the farmers market", "Buying Tomato Plants", "eager" %}</mpb-dialog-img>
+{% image "featured", "", "A young girl carries a tray of tomato seedlings at the farmers market", "Buying Tomato Plants", "eager" %}</mpb-dialog-img>
 
 <time datetime="2014-04-08">Today</time> marks the return of the Cleveland County Farmers Market. Hours have changed from the familiar Saturday and Wednesday morning times to a more convenient schedule for working families and individuals. The new hours are:
 
@@ -29,6 +29,6 @@ excerpt: The Cleveland County Farmers Market has changed its hours starting toda
 
 <mpb-dialog-img>
 
-{% image "./src/assets/images/blog/2014-04-08-farmers-market-new-hours/czahller-20140409-01-29-34.jpg", "img-constrained", "A child in a stroller at the farmers market", "The Cleveland County Farmers Market welcomes everyone from 1 to 100!" %}</mpb-dialog-img>
+{% image "./src/assets/images/blog/2014-04-08-farmers-market-new-hours/czahller-20140409-01-29-34.jpg", "", "A child in a stroller at the farmers market", "The Cleveland County Farmers Market welcomes everyone from 1 to 100!", "large" %}</mpb-dialog-img>
 
 The farmers market features dozens of vendors selling ornamental and edible plants and produce from the first Saturday in April until the final Tuesday or Saturday of October, whichever comes last. Much of the produce is grown locally by the vendor (indicated by a dark green sign; light green indicates an Oklahoma product and white indicates the produce was imported from outside Oklahoma).

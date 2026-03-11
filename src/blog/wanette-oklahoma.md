@@ -21,32 +21,32 @@ excerpt: This past Independence Day my best friend and photographic conspirator 
 
 <!-- markdownlint-enable MD025 --><mpb-dialog-img>
 
-{% image "featured", "img-constrained", "Former Bank Building, Wanette, Oklahoma (Rear, seen from North)", "Former Bank Building, Wanette, Oklahoma (Rear, seen from North)", "eager" %}</mpb-dialog-img>
+{% image "featured", "", "Former Bank Building, Wanette, Oklahoma (Rear, seen from North)", "Former Bank Building, Wanette, Oklahoma (Rear, seen from North)", "eager" %}</mpb-dialog-img>
 
 <time datetime="20170704">This past Independence Day</time> my best friend and photographic conspirator <span class="h-card p-name">Joe Crumley</span> and I drove to see the abandoned [Gandini Circus camp](https://www.atlasobscura.com/places/gandinis-circus){target=_blank rel="external noopener"} in Edmond. It was a great disappointment&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;most of the structures are gone, and overgrown greenery  obscured the rest, making it unsuitable to photograph.
 
 <mpb-dialog-img>
 
-{% image "./src/assets/images/blog/2017-08-14-wanette/czahller-20170704-12-34-24.jpg", "img-constrained", "Main Street: Wanette Beauty Shop, Rush Propane, Q-Teez, United States Post Office", "Main Street: Wanette Beauty Shop, Rush Propane, Q-Teez, United States Post Office" %}</mpb-dialog-img>
+{% image "./src/assets/images/blog/2017-08-14-wanette/czahller-20170704-12-34-24.jpg", "", "Main Street: Wanette Beauty Shop, Rush Propane, Q-Teez, United States Post Office", "Main Street: Wanette Beauty Shop, Rush Propane, Q-Teez, United States Post Office", "large" %}</mpb-dialog-img>
 
 We decided to go south to a ghost town in Pottawatamie County. We didn’t find it. Either that, or we drove right through it, but there was nothing to see. Joe remembered there was a small town nearby, so we headed to where he thought it was. That town was Wanette, population 350 (according to the <time datetime="2010">2010</time> census).
 
 <mpb-dialog-img>
 
-{% image "./src/assets/images/blog/2017-08-14-wanette/czahller-20170704-12-42-48.jpg", "img-constrained", "Site of former bank (1st National Bank, 1st State Bank, or Security State Bank?) located on the NW corner of Clarady & E. Main St in Wanette, Oklahoma", "Site of former bank (1st National Bank, 1st State Bank, or Security State Bank?) located on the northwest corner of Clarady & East Main Street in Wanette, Oklahoma" %}</mpb-dialog-img>
+{% image "./src/assets/images/blog/2017-08-14-wanette/czahller-20170704-12-42-48.jpg", "", "Site of former bank (1st National Bank, 1st State Bank, or Security State Bank?) located on the NW corner of Clarady & E. Main St in Wanette, Oklahoma", "Site of former bank (1st National Bank, 1st State Bank, or Security State Bank?) located on the northwest corner of Clarady & East Main Street in Wanette, Oklahoma", "large" %}</mpb-dialog-img>
   
 We had lunch at the local eatery, Cookie’s Café. Then we spent
 an hour or so photographing what’s left of the commercial district.
 
 <mpb-dialog-img>
 
-{% image "./src/assets/images/blog/2017-08-14-wanette/czahller-20170704-13-38-12.jpg", "img-constrained", "Abandoned Church, Wanette, Oklahoma", "Abandoned Church, Wanette, Oklahoma" %}</mpb-dialog-img>
+{% image "./src/assets/images/blog/2017-08-14-wanette/czahller-20170704-13-38-12.jpg", "", "Abandoned Church, Wanette, Oklahoma", "Abandoned Church, Wanette, Oklahoma", "large" %}</mpb-dialog-img>
 
 We also drove to the former Volkswagen salvage yard in Purcell, Oklahoma and stopped to photograph the famous VW spider. Built by <span class="h-card p-name">Monte Bodine</span> in <time datetime="1973">1973</time>&NoBreak;&hairsp;&NoBreak;&ndash;&NoBreak;&hairsp;&NoBreak;<time datetime="1973">1974</time>, the bug has suffered from years of neglect.
 
 <mpb-dialog-img>
 
-{% image "./src/assets/images/blog/2017-08-14-wanette/czahller-20170704-14-48-01.jpg", "img-constrained", "Volkswagen spider sculpture on the site of the former VW scrapyard in Lexington, Oklahoma.", "Volkswagen spider sculpture on the site of the former VW scrapyard in Lexington, Oklahoma." %}</mpb-dialog-img>
+{% image "./src/assets/images/blog/2017-08-14-wanette/czahller-20170704-14-48-01.jpg", "", "Volkswagen spider sculpture on the site of the former VW scrapyard in Lexington, Oklahoma.", "Volkswagen spider sculpture on the site of the former VW scrapyard in Lexington, Oklahoma.", "large" %}</mpb-dialog-img>
 
 ## Technical
 

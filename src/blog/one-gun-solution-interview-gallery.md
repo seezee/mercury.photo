@@ -18,7 +18,7 @@ excerpt: Neo-grunge outfit One Gun Solution drove down from Oklahoma City to spe
 
 <!-- markdownlint-enable MD025 --><mpb-dialog-img>
 
-{% image "featured", "img-constrained", "Raymond Dick (bass), Dave Washburn (vox), and Matt Francis (guitar) perform on the Blue Note stage.", "The Band", "eager" %}</mpb-dialog-img>
+{% image "featured", "", "Raymond Dick (bass), Dave Washburn (vox), and Matt Francis (guitar) perform on the Blue Note stage", "The Band", "eager" %}</mpb-dialog-img>
 
 Neo-grunge outfit <span class="h-card p-org">One Gun Solution</span> drove down from Oklahoma City to speak with us <time datetime="2013-01-13">earlier this month</time>. We met them <time datetime="2012-10-20">last October</time> at the CD release party for their freshman release <cite>Perceptions</cite>, after [Kill the Reflection](/blog/kill-reflection-interview-gallery/) singer <span class="h-card p-name">Matt Routt</span> invited us.
 
@@ -50,7 +50,7 @@ Paterson looks like he wants to kill his drums when he’s playing, but in the f
 
 <mpb-dialog-img>
 
-{% image "./src/assets/images/blog/2013-01-31-one-gun-solution/czahller-20121020-23-41-35.jpg", "img-constrained", "Ray plays bass; Dave sings. Dave holds the microphone, on the stand, in both hands.", "Raymond & Dave (III)" %}</mpb-dialog-img>
+{% image "./src/assets/images/blog/2013-01-31-one-gun-solution/czahller-20121020-23-41-35.jpg", "", "Ray plays bass; Dave sings. Dave holds the microphone, on the stand, in both hands.", "Raymond & Dave (III)", "large" %}</mpb-dialog-img>
 
 <span class="spkr">MPB</span> That might wind up in the interview [transcript], so be careful what you say.
 
@@ -80,7 +80,7 @@ Paterson looks like he wants to kill his drums when he’s playing, but in the f
 
 <mpb-dialog-img>
 
-{% image "./src/assets/images/blog/2013-01-31-one-gun-solution/czahller-20121020-23-40-11.jpg", "img-constrained", "Dave smiles and gestures.", "Dave (V)" %}</mpb-dialog-img>
+{% image "./src/assets/images/blog/2013-01-31-one-gun-solution/czahller-20121020-23-40-11.jpg", "", "Dave smiles and gestures.", "Dave (V)", "large" %}</mpb-dialog-img>
 
 <span class="spkr">MPB</span> How would you describe your musical genre before Dave?
 
@@ -112,7 +112,7 @@ I’d heard them before, but I’d never listened to them as a drummer. And that
 
 <mpb-dialog-img>
 
-{% image "./src/assets/images/blog/2013-01-31-one-gun-solution/czahller-20121020-23-01-22.jpg", "img-constrained", "Jim beats the skins", "Jim (III)" %}</mpb-dialog-img>
+{% image "./src/assets/images/blog/2013-01-31-one-gun-solution/czahller-20121020-23-01-22.jpg", "", "Jim beats the skins", "Jim (III)", "large" %}</mpb-dialog-img>
 
 <span class="spkr">MPB</span> Rush were known for oddball time signatures. Is that what appealed to you?
 
@@ -140,7 +140,7 @@ I’ve done so many things in my life, but I’ve always come back to music […
 
 <mpb-dialog-img>
 
-{% image "./src/assets/images/blog/2013-01-31-one-gun-solution/czahller-20121020-23-05-03.jpg", "img-constrained", "Dave leans back, microphone in both hands, grimacing as he sings.", "Dave (III)" %}</mpb-dialog-img>
+{% image "./src/assets/images/blog/2013-01-31-one-gun-solution/czahller-20121020-23-05-03.jpg", "", "Dave leans back, microphone in both hands, grimacing as he sings.", "Dave (III)", "large" %}</mpb-dialog-img>
 
 <span class="spkr">MPB</span> Dave, some of the lyrics are pretty straightforward; some of the lyrics are opaque. <cite class="short-work">Underneath the Skin</cite> is right out there; it’s about p&aelig;dophilia in the church, but some of the others might benefit from some exposition: I’m thinking of <cite class="short-work">The Fray</cite> and <cite class="short-work">Down the Rabbit Hole,</cite> which seems to be about a girl contemplating suicide.
 
@@ -188,7 +188,7 @@ But, it doesn’t matter who it is; whatever music I’m listening to, I try to 
 
 <mpb-dialog-img>
 
-{% image "./src/assets/images/blog/2013-01-31-one-gun-solution/czahller-20121020-23-00-27.jpg", "img-constrained", "Matt smiles as he plays guitar.", "Matt (I)" %}</mpb-dialog-img>
+{% image "./src/assets/images/blog/2013-01-31-one-gun-solution/czahller-20121020-23-00-27.jpg", "", "Matt smiles as he plays guitar.", "Matt (I)", "large" %}</mpb-dialog-img>
 
 <span class="spkr">Francis</span> [Guitarist] <span class="h-card p-name">Nuno Bettencourt</span> from <span class="h-card p-org">Extreme</span>; now he writes and plays with <span class="h-card p-name p-given-name">Rihanna</span>; he’s definitely a huge influence. <span class="h-card p-name">Jimi Hendrix</span>, <span class="h-card p-name">Steve Vai</span>, <span class="h-card p-name">Joe Satriani</span>, <span class="h-card p-name">Paul Gilbert</span>.
 
@@ -214,7 +214,7 @@ But, it doesn’t matter who it is; whatever music I’m listening to, I try to 
 
 <mpb-dialog-img>
 
-{% image "./src/assets/images/blog/2013-01-31-one-gun-solution/czahller-20130113-18-25-33.jpg", "img-constrained", "Jim, Raymond, Dave, & Matt seated on the Mercury Photo Bureau sofa. Jim raises his fist and pretends he is going to hit Raymond. Everyone is laughing.", "One Gun Solution" %}</mpb-dialog-img>
+{% image "./src/assets/images/blog/2013-01-31-one-gun-solution/czahller-20130113-18-25-33.jpg", "", "Jim, Raymond, Dave, & Matt seated on the Mercury Photo Bureau sofa. Jim raises his fist and pretends he is going to hit Raymond. Everyone is laughing.", "One Gun Solution", "large" %}</mpb-dialog-img>
 
 <span class="spkr">MPB</span> Could you walk me through the lyrics of <cite class="short-work">Needle and Thread</cite>?
 
@@ -292,41 +292,69 @@ I didn’t play guitar for several years, and finally ended up meeting these guy
 
 <mpb-dialog-img>
 
-{% image "./src/assets/images/blog/2013-01-31-one-gun-solution/czahller-20130113-18-28-32.jpg", "img-constrained", "One Gun Solution on the Bureau sofa. Matt displays his red and black bass guitar. Raymond also displays his electric guitar. The image is monochrome with a cool, blue tone except for the bass guitar.", "Red Bass" %}</mpb-dialog-img>
+{% image "./src/assets/images/blog/2013-01-31-one-gun-solution/czahller-20130113-18-28-32.jpg", "", "One Gun Solution on the Bureau sofa. Matt displays his red and black bass guitar. Raymond also displays his electric guitar. The image is monochrome with a cool, blue tone except for the bass guitar.", "Red Bass", "large" %}</mpb-dialog-img>
 
 ## Gallery: One Gun Solution
 
 <mpb-dialog-gallery hint rel cols="8">
 
-  ![Raymond & Dave during Soundcheck](/assets/images/blog/2013-01-31-one-gun-solution/czahller-20121020-22-46-17.jpg)
-  ![Set List](/assets/images/blog/2013-01-31-one-gun-solution/czahller-20121020-22-48-22.jpg)
-  ![Coffin-Shaped Guitar Case](/assets/images/blog/2013-01-31-one-gun-solution/czahller-20121020-22-56-25.jpg)
-  ![Dave (I)](/assets/images/blog/2013-01-31-one-gun-solution/czahller-20121020-22-56-44.jpg)
-  ![Jim (I)](/assets/images/blog/2013-01-31-one-gun-solution/czahller-20121020-22-57-04.jpg)
-  ![Raymond & Matt Confer](/assets/images/blog/2013-01-31-one-gun-solution/czahller-20121020-22-57-40.jpg)
-  ![Jim (II)](/assets/images/blog/2013-01-31-one-gun-solution/czahller-20121020-22-58-45.jpg)
-  ![Dave (II)](/assets/images/blog/2013-01-31-one-gun-solution/czahller-20121020-22-59-55.jpg)
-  ![Matt (I)](/assets/images/blog/2013-01-31-one-gun-solution/czahller-20121020-23-00-27.jpg)
-  ![Jim (III)](/assets/images/blog/2013-01-31-one-gun-solution/czahller-20121020-23-01-22.jpg)
-  ![The Band](/assets/images/blog/2013-01-31-one-gun-solution/czahller-20121020-23-03-03.jpg)
-  ![Dave & Matt (I)](/assets/images/blog/2013-01-31-one-gun-solution/czahller-20121020-23-04-46.jpg)
-  ![Dave (III)](/assets/images/blog/2013-01-31-one-gun-solution/czahller-20121020-23-05-03.jpg)
-  ![Raymond, Dave & Matt](/assets/images/blog/2013-01-31-one-gun-solution/czahller-20121020-23-05-41.jpg)
-  ![Matt's Guitar](/assets/images/blog/2013-01-31-one-gun-solution/czahller-20121020-23-07-22.jpg)
-  ![Dave (IV)](/assets/images/blog/2013-01-31-one-gun-solution/czahller-20121020-23-08-52.jpg)
-  ![Jim (IV)](/assets/images/blog/2013-01-31-one-gun-solution/czahller-20121020-23-09-38.jpg)
-  ![Matt's Pedal Board](/assets/images/blog/2013-01-31-one-gun-solution/czahller-20121020-23-11-38.jpg)
-  ![Dave Chills during Matt's Solo](/assets/images/blog/2013-01-31-one-gun-solution/czahller-20121020-23-12-47.jpg)
-  ![Dave & Matt (II)](/assets/images/blog/2013-01-31-one-gun-solution/czahller-20121020-23-17-30.jpg)
-  ![Zombie Hipster](/assets/images/blog/2013-01-31-one-gun-solution/czahller-20121020-23-18-51.jpg)
-  ![Audience](/assets/images/blog/2013-01-31-one-gun-solution/czahller-20121020-23-29-33.jpg)
-  ![Dave (V)](/assets/images/blog/2013-01-31-one-gun-solution/czahller-20121020-23-40-11.jpg)
-  ![Raymond & Dave (I)](/assets/images/blog/2013-01-31-one-gun-solution/czahller-20121020-23-40-11-2.jpg)
-  ![Raymond & Dave (II)](/assets/images/blog/2013-01-31-one-gun-solution/czahller-20121020-23-41-35.jpg)
-  ![Dave (VI)](/assets/images/blog/2013-01-31-one-gun-solution/czahller-20121020-23-43-41.jpg)
-  ![Smile!](/assets/images/blog/2013-01-31-one-gun-solution/czahller-20121021-00-13-20.jpg)
-  ![Dark Angels (Heathers)](/assets/images/blog/2013-01-31-one-gun-solution/czahller-20121021-00-21-01.jpg)
-  ![Matt & Lady Friend (I)](/assets/images/blog/2013-01-31-one-gun-solution/czahller-20121021-00-24-39.jpg)
-  ![Matt & Lady Friend (II)](/assets/images/blog/2013-01-31-one-gun-solution/czahller-20121021-00-24-41.jpg)
-  ![Snooker](/assets/images/blog/2013-01-31-one-gun-solution/czahller-20121021-00-49-47.jpg)
-</mpb-dialog-gallery>
+  {% image "./src/assets/images/blog/2013-01-31-one-gun-solution/czahller-20121020-22-46-17.jpg", "", "Dave confers with Raymond before their set starts", "Raymond & Dave during Soundcheck" %}
+
+  {% image "./src/assets/images/blog/2013-01-31-one-gun-solution/czahller-20121020-22-48-22.jpg", "", "One Gun Solution set list taped to guitar cabinet", "Set List" %}
+
+  {% image "./src/assets/images/blog/2013-01-31-one-gun-solution/czahller-20121020-22-56-25.jpg", "", "A guitar case shaped like a coffin", "Coffin-Shaped Guitar Case" %}
+
+  {% image "./src/assets/images/blog/2013-01-31-one-gun-solution/czahller-20121020-22-56-44.jpg", "", "Dave", "Dave (I)" %}
+
+  {% image "./src/assets/images/blog/2013-01-31-one-gun-solution/czahller-20121020-22-57-04.jpg", "", "Jim", "Jim (I)" %}
+
+  {% image "./src/assets/images/blog/2013-01-31-one-gun-solution/czahller-20121020-22-57-40.jpg", "", "Raymond & Matt Confer", "Raymond & Matt Confer" %}
+
+  {% image "./src/assets/images/blog/2013-01-31-one-gun-solution/czahller-20121020-22-58-45.jpg", "", "Jim", "Jim (II)" %}
+
+  {% image "./src/assets/images/blog/2013-01-31-one-gun-solution/czahller-20121020-22-59-55.jpg", "", "Dave", "Dave (II)" %}
+
+  {% image "./src/assets/images/blog/2013-01-31-one-gun-solution/czahller-20121020-23-00-27.jpg", "", "Matt", "Matt (I)" %}
+
+  {% image "./src/assets/images/blog/2013-01-31-one-gun-solution/czahller-20121020-23-01-22.jpg", "", "Jim", "Jim (III)" %}
+
+  {% image "featured", "", "Raymond Dick (bass), Dave Washburn (vox), and Matt Francis (guitar) perform on the Blue Note stage", "The Band" %}
+
+  {% image "./src/assets/images/blog/2013-01-31-one-gun-solution/czahller-20121020-23-04-46.jpg", "", "Dave & Matt", "Dave & Matt (I)" %}
+
+  {% image "./src/assets/images/blog/2013-01-31-one-gun-solution/czahller-20121020-23-05-03.jpg", "", "Dave", "Dave (III)" %}
+
+  {% image "./src/assets/images/blog/2013-01-31-one-gun-solution/czahller-20121020-23-05-41.jpg", "", "Raymond, Dave, & Matt", "Raymond, Dave, & Matt" %}
+  {% image "./src/assets/images/blog/2013-01-31-one-gun-solution/czahller-20121020-23-07-22.jpg", "", "Matt’s guitar", "Matt’s Guitar" %}
+
+  {% image "./src/assets/images/blog/2013-01-31-one-gun-solution/czahller-20121020-23-08-52.jpg", "", "Dave", "Dave (IV)" %}
+
+  {% image "./src/assets/images/blog/2013-01-31-one-gun-solution/czahller-20121020-23-09-38.jpg", "", "Jim", "Jim (IV)" %}
+
+  {% image "./src/assets/images/blog/2013-01-31-one-gun-solution/czahller-20121020-23-11-38.jpg", "", "Matt’s Pedal Board", "Matt’s Pedal Board" %}
+
+  {% image "./src/assets/images/blog/2013-01-31-one-gun-solution/czahller-20121020-23-12-47.jpg", "", "Dave chills during Matt’s solo", "Dave Chills during Matt’s Solo" %}
+
+  {% image "./src/assets/images/blog/2013-01-31-one-gun-solution/czahller-20121020-23-17-30.jpg", "", "Dave & Matt", "Dave & Matt (II)" %}
+
+  {% image "./src/assets/images/blog/2013-01-31-one-gun-solution/czahller-20121020-23-18-51.jpg", "", "Man wearing zombie makeup. He wears a n OU ballcap and a work shirt with a name tag. It is spattered with fake blood.", "Zombie Hipster" %}
+
+  {% image "./src/assets/images/blog/2013-01-31-one-gun-solution/czahller-20121020-23-29-33.jpg", "", "Audience", "Audience" %}
+
+  {% image "./src/assets/images/blog/2013-01-31-one-gun-solution/czahller-20121020-23-40-11.jpg", "", "Dave", "Dave (V)" %}
+
+  {% image "./src/assets/images/blog/2013-01-31-one-gun-solution/czahller-20121020-23-40-11-2.jpg", "", "Raymond & Dave", "Raymond & Dave (I)" %}
+
+  {% image "./src/assets/images/blog/2013-01-31-one-gun-solution/czahller-20121020-23-41-35.jpg", "", "Raymond & Dave", "Raymond & Dave (II)" %}
+
+  {% image "./src/assets/images/blog/2013-01-31-one-gun-solution/czahller-20121020-23-43-41.jpg", "", "Dave", "Dave (VI)" %}
+
+  {% image "./src/assets/images/blog/2013-01-31-one-gun-solution/czahller-20121021-00-13-20.jpg", "", "Dave smiling at Matt", "Smile!" %}
+
+  {% image "./src/assets/images/blog/2013-01-31-one-gun-solution/czahller-20121021-00-21-01.jpg", "", "Two goth women", "Dark Angels (Heathers)" %}
+
+  {% image "./src/assets/images/blog/2013-01-31-one-gun-solution/czahller-20121021-00-24-39.jpg", "", "Matt speaking with a sexy, witchy young lady after the set. She shades her eyes from the stage lights.", "Matt & Lady Friend (I)" %}
+
+  {% image "./src/assets/images/blog/2013-01-31-one-gun-solution/czahller-20121021-00-24-41.jpg", "", "Matt speaking with a sexy, witchy young lady", "Matt & Lady Friend (II)" %}
+
+  {% image "./src/assets/images/blog/2013-01-31-one-gun-solution/czahller-20121021-00-49-47.jpg", "", "A vertical snooker sign. Each letter comprises individual light bulbs.", "Snooker" %}</mpb-dialog-gallery>

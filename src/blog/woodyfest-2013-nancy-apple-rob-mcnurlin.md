@@ -29,7 +29,7 @@ Community 0utreach at the Okemah Nutrition Center
   </stack-l>
 </hgroup><mpb-dialog-img>
 
-{% image "featured", "img-constrained", "Nancy & Rob, seated & playing guitar. Nancy leans to her left and stares directly at the camera. She is wearing dark sunglasses; both musicians sport straw western hats.", "Nancy & Rob (II)", "eager" %}</mpb-dialog-img>
+{% image "featured", "", "Nancy & Rob, seated & playing guitar. Nancy leans to her left and stares directly at the camera. She is wearing dark sunglasses; both musicians sport straw western hats.", "Nancy & Rob (II)", "eager" %}</mpb-dialog-img>
 
 <span class="h-card p-name"><span class="p-nickname">Princess of Twang</span> [Nancy Apple](https://music.apple.com/us/artist/nancy-apple/id6228125?uo=4&at=10ldhk){target=_blank rel="external noopener"}</span> and country troubadour <span class="h-card p-name">[Rob M<sup>c</sup>Nurlin](https://music.apple.com/us/artist/rob-mcnurlin/199387813?uo=4&at=10ldhk){target=_blank rel="external noopener"}</span> are almost as familiar to Woody Guthrie Folk Festival regulars as festival house band the <span class="h-card p-org">Oklahoma Geniuses</span>; wherever you look, they seem to be there. Senior citizens at the Okemah Nutrition Center were serenaded by the pair during an afternoon concert this <time datetime="2013-07-12T11:00-5:00">past July</time> while the festival was in full swing. And swing this pair does, and rocks and rolls, and sweet-by-and-bys, with a repertoire deep and rich in American vernacular music.
 
@@ -41,13 +41,21 @@ Apple and M<sup>c</sup>Nurlin are used to playing with one another&NoBreak;&hair
 
 <mpb-dialog-gallery hint rel cols="8">
 
-  ![Dorothy & the Onions](/assets/images/blog/2013-10-09-apple-mcnurlin/czahller-20130712-11-05-01.jpg)
-  ![Nancy & Rob (I)](/assets/images/blog/2013-10-09-apple-mcnurlin/czahller-20130712-11-06-22.jpg)
-  ![Nancy & Rob (II)](/assets/images/blog/2013-10-09-apple-mcnurlin/czahller-20130712-11-06-23.jpg)
-  ![Rob McNurlin](/assets/images/blog/2013-10-09-apple-mcnurlin/czahller-20130712-11-07-51.jpg)
-  ![Unidentified Audience Member](/assets/images/blog/2013-10-09-apple-mcnurlin/czahller-20130712-11-09-25.jpg)
-  ![Three Ladies](/assets/images/blog/2013-10-09-apple-mcnurlin/czahller-20130712-11-10-40.jpg)
-  ![Nancy & Rob (III)](/assets/images/blog/2013-10-09-apple-mcnurlin/czahller-20130712-11-11-13.jpg)
-  ![Nancy & Rob (IV)](/assets/images/blog/2013-10-09-apple-mcnurlin/czahller-20130712-11-12-52.jpg)
-  ![Rummikub Players](/assets/images/blog/2013-10-09-apple-mcnurlin/czahller-20130712-11-13-45.jpg)
+  {% image "./src/assets/images/blog/2013-10-09-apple-mcnurlin/czahller-20130712-11-05-01.jpg", "", "Dorothy, an elderly woman, holding a bag of onions and smiling", "Dorothy & the Onions" %}
+
+  {% image "./src/assets/images/blog/2013-10-09-apple-mcnurlin/czahller-20130712-11-06-22.jpg", "", "Nancy & Rob", "Nancy & Rob (I)" %}
+
+  {% image "featured", "", "Nancy & Rob, seated & playing guitar. Nancy leans to her left and stares directly at the camera. She is wearing dark sunglasses; both musicians sport straw western hats.", "Nancy & Rob (II)" %}
+
+  {% image "./src/assets/images/blog/2013-10-09-apple-mcnurlin/czahller-20130712-11-07-51.jpg", "", "Rob McNurlin", "Rob McNurlin" %}
+
+  {% image "./src/assets/images/blog/2013-10-09-apple-mcnurlin/czahller-20130712-11-09-25.jpg", "", "An elderly woman seated at a long cafeteria table", "Unidentified Audience Member" %}
+
+  {% image "./src/assets/images/blog/2013-10-09-apple-mcnurlin/czahller-20130712-11-10-40.jpg", "", "3 ladies in the audience", "Three Ladies" %}
+
+  {% image "./src/assets/images/blog/2013-10-09-apple-mcnurlin/czahller-20130712-11-11-13.jpg", "", "Nancy & Rob", "Nancy & Rob (III)" %}
+
+  {% image "./src/assets/images/blog/2013-10-09-apple-mcnurlin/czahller-20130712-11-12-52.jpg", "", "Nancy & Rob", "Nancy & Rob (IV)" %}
+
+  {% image "./src/assets/images/blog/2013-10-09-apple-mcnurlin/czahller-20130712-11-13-45.jpg", "", "Two women play rummikub, a tile-based game combining elements of rummy and mahjong", "Rummikub Players" %}
 </mpb-dialog-gallery>

@@ -26,7 +26,7 @@ excerpt: At first glance, one could be forgiven for dismissing twenty-five-year-
 <p>A student of struggle</p></stack-l></hgroup>
 <!-- markdownlint-enable MD025 --><mpb-dialog-img>
 
-{% image "featured", "img-constrained", "Josh Okeefe — 21st Annual Woody Guthrie Festival, 2018", "Josh Okeefe&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;21st Annual Woody Guthrie Festival, 2018", "eager" %}</mpb-dialog-img>
+{% image "featured", "", "Josh Okeefe", "Josh Okeefe", "eager" %}</mpb-dialog-img>
 
 ## Derby Native and Music School Dropout a Rising Star
 
@@ -84,16 +84,27 @@ Okeefe’s Woodyfest set was decidedly quieter, but no less enthusiastically rec
 
 <mpb-dialog-gallery hint rel cols="8">
   
-  ![Josh Okeefe — 21st Annual Woody Guthrie Festival, 2018](/assets/images/blog/2019-01-25-woodyfest-josh-okeefe/czahller-20180714-16-03-46.jpg)
-  ![Josh Okeefe (Talking Blues) — 21st Annual Woody Guthrie Festival, 2018](/assets/images/blog/2019-01-25-woodyfest-josh-okeefe/czahller-20180714-16-03-55.jpg)
-  ![Play Your Harmonica, Son — 21st Annual Woody Guthrie Festival, 2018](/assets/images/blog/2019-01-25-woodyfest-josh-okeefe/czahller-20180714-16-05-14.jpg)
-  ![Josh Okeefe (I) — 21st Annual Woody Guthrie Festival, 2018](/assets/images/blog/2019-01-25-woodyfest-josh-okeefe/czahller-20180714-16-06-00.jpg)
-  ![Josh Okeefe (II) — 21st Annual Woody Guthrie Festival, 2018](/assets/images/blog/2019-01-25-woodyfest-josh-okeefe/czahller-20180714-16-06-07.jpg)
-  ![Josh Okeefe (III) — 21st Annual Woody Guthrie Festival, 2018](/assets/images/blog/2019-01-25-woodyfest-josh-okeefe/czahller-20180714-16-06-21.jpg)
-  ![Josh Okeefe (Upstage View) — 21st Annual Woody Guthrie Festival, 2018](/assets/images/blog/2019-01-25-woodyfest-josh-okeefe/czahller-20180714-16-07-06.jpg)
-  ![Josh Okeefe (IV) — 21st Annual Woody Guthrie Festival, 2018](/assets/images/blog/2019-01-25-woodyfest-josh-okeefe/czahller-20180714-16-13-08.jpg)
-  ![Josh Okeefe (Smiling) — 21st Annual Woody Guthrie Festival, 2018](/assets/images/blog/2019-01-25-woodyfest-josh-okeefe/czahller-20180714-16-34-49.jpg)
-  ![Josh Okeefe (V) — 21st Annual Woody Guthrie Festival, 2018](/assets/images/blog/2019-01-25-woodyfest-josh-okeefe/czahller-20180714-16-35-14.jpg)
-  ![Josh Okeefe & Cora Carpenter Sing “Jackson” — 21st Annual Woody Guthrie Festival, 2018](/assets/images/blog/2019-01-25-woodyfest-josh-okeefe/czahller-20180714-16-39-30.jpg)
-  ![Cora Carpenter — 21st Annual Woody Guthrie Festival, 2018](/assets/images/blog/2019-01-25-woodyfest-josh-okeefe/czahller-20180714-16-42-03.jpg)
+  {% image "featured", "", "Josh Okeefe", "Josh Okeefe" %}
+
+  {% image "./src/assets/images/blog/2019-01-25-woodyfest-josh-okeefe/czahller-20180714-16-03-55.jpg", "", "Josh Okeefe", "Josh Okeefe (Talking Blues)" %}
+
+  {% image "./src/assets/images/blog/2019-01-25-woodyfest-josh-okeefe/czahller-20180714-16-05-14.jpg", "", "Josh Okeefe plays harmonica", "Play Your Harmonica, Son" %}
+
+  {% image "./src/assets/images/blog/2019-01-25-woodyfest-josh-okeefe/czahller-20180714-16-06-00.jpg", "", "Josh Okeefe", "Josh Okeefe (I)" %}
+
+  {% image "./src/assets/images/blog/2019-01-25-woodyfest-josh-okeefe/czahller-20180714-16-06-07.jpg", "", "Josh Okeefe", "Josh Okeefe (II)" %}
+
+  {% image "./src/assets/images/blog/2019-01-25-woodyfest-josh-okeefe/czahller-20180714-16-06-21.jpg", "", "Josh Okeefe", "Josh Okeefe (III)" %}
+
+  {% image "./src/assets/images/blog/2019-01-25-woodyfest-josh-okeefe/czahller-20180714-16-07-06.jpg", "", "Josh Okeefe viewed from upstage", "Josh Okeefe (Upstage View)" %}
+
+  {% image "./src/assets/images/blog/2019-01-25-woodyfest-josh-okeefe/czahller-20180714-16-13-08.jpg", "", "Josh Okeefe", "Josh Okeefe (IV)" %}
+
+  {% image "./src/assets/images/blog/2019-01-25-woodyfest-josh-okeefe/czahller-20180714-16-34-49.jpg", "", "Josh Okeefe, smiling", "Josh Okeefe (Smiling)" %}
+
+  {% image "./src/assets/images/blog/2019-01-25-woodyfest-josh-okeefe/czahller-20180714-16-35-14.jpg", "", "Josh Okeefe", "Josh Okeefe (V)" %}
+
+  {% image "./src/assets/images/blog/2019-01-25-woodyfest-josh-okeefe/czahller-20180714-16-39-30.jpg", "", "Josh Okeefe & Cora Carpenter sing “Jackson”", "Josh Okeefe & Cora Carpenter Sing “Jackson”" %}
+
+  {% image "./src/assets/images/blog/2019-01-25-woodyfest-josh-okeefe/czahller-20180714-16-42-03.jpg", "", "Cora Carpenter", "Cora Carpenter" %}
 </mpb-dialog-gallery>

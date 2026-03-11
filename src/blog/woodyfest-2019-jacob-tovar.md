@@ -26,7 +26,7 @@ excerpt: Jacob Tovar didn’t set out to be a musician. The Tulsa-based musician
 
 <!-- markdownlint-enable MD025 --><mpb-dialog-img>
 
-{% image "./src/assets/images/blog/2020-10-16-woodyfest-jared-tyler/czahller-20190712-16-40-07.jpg", "img-constrained", "Jacob Tovar jamming with Terry “Buffalo” Ware and Stephen Lee", "So Much Jammin’&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;22nd Annual Woody Guthrie Festival, 2019", "eager" %}</mpb-dialog-img>
+{% image "featured", "", "Jacob Tovar jamming with Terry “Buffalo” Ware and Stephen Lee", "So Much Jammin’", "eager" %}</mpb-dialog-img>
 
 <span class="h-card p-name">Jacob</span> Tovar didn’t set out to be a musician. The Tulsa-based musician grew up with a deep, abiding love of classic country music, particularly from the <time datetime="1950">’50s</time> and <time datetime="1960">’60s</time>. In an interview in the <cite>Tulsa World</cite> he name-checked <span class="h-card p-name">Marty Robbins</span>, <span class="h-card p-name">Hank Thompson</span>, <span class="h-card p-name">Hank Williams</span>, and <span class="h-card p-name">Merle Haggard</span> as examples of "roots" country musicians he admires.&NoBreak;[^1]
 
@@ -48,28 +48,51 @@ Tovar is currently working on an album with producer <span class="h-card p-name"
 
 <mpb-dialog-gallery hint rel cols="8">
   
-  ![Gary Busey Drumhead — 22nd Annual Woody Guthrie Festival, 2019](/assets/images/blog/2020-04-05-woodyfest-jacob-tovar/czahller-20190711-21-06-09.jpg)
-  ![Jacob Tovar & the Saddle Tramps (I) — 22nd Annual Woody Guthrie Festival, 2019](/assets/images/blog/2020-04-05-woodyfest-jacob-tovar/czahller-20190711-21-11-34.jpg)
-  ![Jacob Tovar (I) — 22nd Annual Woody Guthrie Festival, 2019](/assets/images/blog/2020-04-05-woodyfest-jacob-tovar/czahller-20190711-21-12-18.jpg)
-  ![John Fullbright on Keys — 22nd Annual Woody Guthrie Festival, 2019](/assets/images/blog/2020-04-05-woodyfest-jacob-tovar/czahller-20190711-21-12-32.jpg)
-  ![Guitarist Terry “Buffalo” Ware — 22nd Annual Woody Guthrie Festival, 2019](/assets/images/blog/2020-04-05-woodyfest-jacob-tovar/czahller-20190711-21-12-50.jpg)
-  ![Guitarist Stephen Lee — 22nd Annual Woody Guthrie Festival, 2019](/assets/images/blog/2020-04-05-woodyfest-jacob-tovar/czahller-20190711-21-13-08.jpg)
-  ![Drummer Paddy Ryan — 22nd Annual Woody Guthrie Festival, 2019](/assets/images/blog/2020-04-05-woodyfest-jacob-tovar/czahller-20190711-21-13-32.jpg)
-  ![Bassist Paul Wilkes — 22nd Annual Woody Guthrie Festival, 2019](/assets/images/blog/2020-04-05-woodyfest-jacob-tovar/czahller-20190711-21-13-46.jpg)
-  ![Jacob Tovar & the Saddle Tramps (II) — 22nd Annual Woody Guthrie Festival, 2019](/assets/images/blog/2020-04-05-woodyfest-jacob-tovar/czahller-20190711-21-14-44.jpg)
-  ![Paul Wilkes, Jacob Tovar, & John Fullbright — 22nd Annual Woody Guthrie Festival, 2019](/assets/images/blog/2020-04-05-woodyfest-jacob-tovar/czahller-20190711-21-14-55.jpg)
-  ![Jacob Tovar (II) — 22nd Annual Woody Guthrie Festival, 2019](/assets/images/blog/2020-04-05-woodyfest-jacob-tovar/czahller-20190711-21-15-36.jpg)
-  ![Jacob Tovar (III) — 22nd Annual Woody Guthrie Festival, 2019](/assets/images/blog/2020-04-05-woodyfest-jacob-tovar/czahller-20190711-21-16-49.jpg)
-  ![Jacob Tovar (View from Upstage) — 22nd Annual Woody Guthrie Festival, 2019](/assets/images/blog/2020-04-05-woodyfest-jacob-tovar/czahller-20190711-21-21-40.jpg)
-  ![Drummer Jake Lynn — 22nd Annual Woody Guthrie Festival, 2019](/assets/images/blog/2020-04-05-woodyfest-jacob-tovar/czahller-20190711-21-23-21.jpg)
-  ![Jammin’ with Buffalo — 22nd Annual Woody Guthrie Festival, 2019](/assets/images/blog/2020-04-05-woodyfest-jacob-tovar/czahller-20190711-21-24-26.jpg)
-  ![More Jammin’ with Buffalo — 22nd Annual Woody Guthrie Festival, 2019](/assets/images/blog/2020-04-05-woodyfest-jacob-tovar/czahller-20190711-21-36-30.jpg)
-  ![So Much Jammin’ — 22nd Annual Woody Guthrie Festival, 2019](/assets/images/blog/2020-04-05-woodyfest-jacob-tovar/czahller-20190711-21-36-34.jpg)
-  ![The Saddle Tramps (View from Stage Right) — 22nd Annual Woody Guthrie Festival, 2019](/assets/images/blog/2020-04-05-woodyfest-jacob-tovar/czahller-20190711-21-36-43.jpg)
-  ![Jacob Tovar Finale (I) — 22nd Annual Woody Guthrie Festival, 2019](/assets/images/blog/2020-04-05-woodyfest-jacob-tovar/czahller-20190711-21-47-41.jpg)
-  ![Jacob Tovar Finale (II) — 22nd Annual Woody Guthrie Festival, 2019](/assets/images/blog/2020-04-05-woodyfest-jacob-tovar/czahller-20190711-21-47-44.jpg)
-  ![Stephen Lee, Jacob Tovar, & Paul Wilkes — 22nd Annual Woody Guthrie Festival, 201](/assets/images/blog/2020-04-05-woodyfest-jacob-tovar/czahller-20190711-21-49-12.jpg)
-  ![Jammin’ with the Drummers — 22nd Annual Woody Guthrie Festival, 2019](/assets/images/blog/2020-04-05-woodyfest-jacob-tovar/czahller-20190711-21-49-18.jpg)
-  ![The End? — 22nd Annual Woody Guthrie Festival, 2019](/assets/images/blog/2020-04-05-woodyfest-jacob-tovar/czahller-20190711-21-49-19.jpg)
-  ![The End! — 22nd Annual Woody Guthrie Festival, 2019](/assets/images/blog/2020-04-05-woodyfest-jacob-tovar/czahller-20190711-21-49-25.jpg)
+  {% image "./src/assets/images/blog/2020-04-05-woodyfest-jacob-tovar/czahller-20190711-21-06-09.jpg", "", "Actor Gary Busey’s portrait painted on a bass drum. He makes the “thumbs up” guesture and grins.", "Gary Busey Drumhead" %}
+
+  {% image "./src/assets/images/blog/2020-04-05-woodyfest-jacob-tovar/czahller-20190711-21-11-34.jpg", "", "Jacob Tovar & the Saddle Tramps", "Jacob Tovar & the Saddle Tramps (I)" %}
+
+  {% image "./src/assets/images/blog/2020-04-05-woodyfest-jacob-tovar/czahller-20190711-21-12-18.jpg", "", "Jacob Tovar", "Jacob Tovar (I)" %}
+
+  {% image "./src/assets/images/blog/2020-04-05-woodyfest-jacob-tovar/czahller-20190711-21-12-32.jpg", "", "John Fullbright on keys", "John Fullbright on Keys" %}
+
+  {% image "./src/assets/images/blog/2020-04-05-woodyfest-jacob-tovar/czahller-20190711-21-12-50.jpg", "", "Guitarist Terry “Buffalo” Ware", "Guitarist Terry “Buffalo” Ware" %}
+
+  {% image "./src/assets/images/blog/2020-04-05-woodyfest-jacob-tovar/czahller-20190711-21-13-08.jpg", "", "Guitarist Stephen Lee", "Guitarist Stephen Lee" %}
+
+  {% image "./src/assets/images/blog/2020-04-05-woodyfest-jacob-tovar/czahller-20190711-21-13-32.jpg", "", "Drummer Paddy Ryan", "Drummer Paddy Ryan" %}
+
+  {% image "./src/assets/images/blog/2020-04-05-woodyfest-jacob-tovar/czahller-20190711-21-13-46.jpg", "", "Bassist Paul Wilkes", "Bassist Paul Wilkes" %}
+
+  {% image "./src/assets/images/blog/2020-04-05-woodyfest-jacob-tovar/czahller-20190711-21-14-44.jpg", "", "Jacob Tovar & the Saddle Tramps", "Jacob Tovar & the Saddle Tramps (II)" %}
+
+  {% image "./src/assets/images/blog/2020-04-05-woodyfest-jacob-tovar/czahller-20190711-21-14-55.jpg", "", "Paul Wilkes, Jacob Tovar, & John Fullbright", "Paul Wilkes, Jacob Tovar, & John Fullbright" %}
+
+  {% image "./src/assets/images/blog/2020-04-05-woodyfest-jacob-tovar/czahller-20190711-21-15-36.jpg", "", "Jacob Tovar", "Jacob Tovar (II)" %}
+
+  {% image "./src/assets/images/blog/2020-04-05-woodyfest-jacob-tovar/czahller-20190711-21-16-49.jpg", "", "Jacob Tovar", "Jacob Tovar (III)" %}
+
+  {% image "./src/assets/images/blog/2020-04-05-woodyfest-jacob-tovar/czahller-20190711-21-21-40.jpg", "", "Jacob Tovar viewed from upstage", "Jacob Tovar (View from Upstage)" %}
+
+  {% image "./src/assets/images/blog/2020-04-05-woodyfest-jacob-tovar/czahller-20190711-21-23-21.jpg", "", "Drummer Jake Lynn", "Drummer Jake Lynn" %}
+
+  {% image "./src/assets/images/blog/2020-04-05-woodyfest-jacob-tovar/czahller-20190711-21-24-26.jpg", "", "Jacob and Terry jam, facing one another. Terry, seated on a stool, has his back to the camera.", "Jammin’ with Buffalo" %}
+
+  {% image "./src/assets/images/blog/2020-04-05-woodyfest-jacob-tovar/czahller-20190711-21-36-30.jpg", "", "Jacob and Terry jam, facing one another. Terry, seated on a stool, has his back to the camera.", "More Jammin’ with Buffalo" %}
+
+  {% image "featured", "", "Jacob Tovar turned to face Terry “Buffalo” Ware during a final jam", "So Much Jammin’" %}
+
+  {% image "./src/assets/images/blog/2020-04-05-woodyfest-jacob-tovar/czahller-20190711-21-36-43.jpg", "", "The band viewd from stage right", "The Saddle Tramps (View from Stage Right)" %}
+
+  {% image "./src/assets/images/blog/2020-04-05-woodyfest-jacob-tovar/czahller-20190711-21-47-41.jpg", "", "Jacob Tovar finale", "Jacob Tovar Finale (I)" %}
+
+  {% image "./src/assets/images/blog/2020-04-05-woodyfest-jacob-tovar/czahller-20190711-21-47-44.jpg", "", "Jacob Tovar finale", "Jacob Tovar Finale (II)" %}
+
+  {% image "./src/assets/images/blog/2020-04-05-woodyfest-jacob-tovar/czahller-20190711-21-49-12.jpg", "", "Stephen Lee, Jacob Tovar, & Paul Wilkes", "Stephen Lee, Jacob Tovar, & Paul Wilkes" %}
+
+  {% image "./src/assets/images/blog/2020-04-05-woodyfest-jacob-tovar/czahller-20190711-21-49-18.jpg", "", "Jacob Tovar raises his guitar while facing the drummers", "Jammin’ with the Drummers" %}
+
+  {% image "./src/assets/images/blog/2020-04-05-woodyfest-jacob-tovar/czahller-20190711-21-49-19.jpg", "", "Jacob Tovar leans over and faces the drum riser as he plays his acoustic guitar", "The End?" %}
+
+  {% image "./src/assets/images/blog/2020-04-05-woodyfest-jacob-tovar/czahller-20190711-21-49-25.jpg", "", "Stephen Lee, Jacob Tovar, and other moments before they play their final note", "The End!" %}
 </mpb-dialog-gallery>

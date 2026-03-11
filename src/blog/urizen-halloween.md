@@ -26,7 +26,7 @@ excerpt: Opening for Peelander-Z at Club Dada on Hallowe’en, local favorites U
 Keeping it simple</stack-l></hgroup>
 <!-- markdownlint-enable MD025 --><mpb-dialog-img>
 
-{% image "featured", "img-constrained", "Thomas Drinnen wearing a costume made from a cardboard box. He plays a flying-V guitar. He wears large red and white protective shoulder pads. The image is blurry from motion.", "Boxmen!", "eager" %}</mpb-dialog-img>
+{% image "featured", "", "Thomas Drinnen wearing a costume made from a cardboard box. He plays a flying-V guitar. He wears large red and white protective shoulder pads. The image is blurry from motion.", "Boxmen!", "eager" %}</mpb-dialog-img>
 
 Opening for [<span class="h-card p-org">Peelander-Z</span>](/blog/peelander-z-halloween/) at <span class="h-card p-org">Club Dada</span> on Hallowe’en, local favorites <span class="h-card p-org">Urizen</span> entertained the audience at the Deep Ellum nightspot with their heavy **hard rock** tempered with 8-bit Nintendo-style synth sounds. Dressed in science fiction-inspired “space suits“ and initially beaming lights from their goggles, the band beguiled the crowd their visual antics. These included
 
@@ -39,6 +39,7 @@ Guitarist and singer <span class="h-card p-name">Thomas Drinnen</span>, keyboard
 <mpb-callout type="note" title="Breaking News">
 
 Urizen have just sent exclusive audio for Mercury Photo Bureau readers only! The excerpt from <cite class="short-work">The Final Conflict,</cite> still in rough form, features a temporary sequenced percussion track and no vocals; we hope it will whet your appetite for the forthcoming album!
+
 </mpb-callout>
 
 <figure>
@@ -73,7 +74,7 @@ As for our buddy Rustin Luther, he and I started our relationship by textually b
 
 <mpb-dialog-img>
 
-{% image "./src/assets/images/blog/2013-01-14-urizen/czahller-20121031-20-17-52.jpg", "img-constrained", "A blurry shot of Daniel Drinnen playing keyboard.", "Daniel" %}</mpb-dialog-img>
+{% image "./src/assets/images/blog/2013-01-14-urizen/czahller-20121031-20-17-52.jpg", "", "A blurry shot of Daniel Drinnen playing keyboard.", "Daniel", "large" %}</mpb-dialog-img>
 
 <span class="spkr">D. Drinnen</span> We’ve always struggled with this part, and not in a <q>we’re too unique to be labeled, maaaan …</q> kind of way. Just in a <q>we’ve got a whole bunch of influences that don’t really fit together but still manage to work</q> kind of way.
 
@@ -89,7 +90,7 @@ Having been a part of the metal scene for many years, I have to say that I’m [
 
 <mpb-dialog-img>
 
-{% image "./src/assets/images/blog/2013-01-14-urizen/czahller-20121031-20-12-39.jpg", "img-constrained", "Thomas Drinnen wearing a costume consisting of plastic shoulder pads and forearm guards, possibly meant for contact sports; a metal colander helment; and light-up goggles.", "Thomas (I)" %}</mpb-dialog-img>
+{% image "./src/assets/images/blog/2013-01-14-urizen/czahller-20121031-20-12-39.jpg", "", "Thomas Drinnen wearing a costume consisting of plastic shoulder pads and forearm guards, possibly meant for contact sports; a metal colander helment; and light-up goggles.", "Thomas (I)", "large" %}</mpb-dialog-img>
 
 [Putting it plainly], we are a no-holds-barred kind of band. If we like it, we’ll touch on it. We get inspiration from everything: bands we like, video games we like, movies, books, sports … just anything. Some of the elements we like to use include:
 
@@ -190,20 +191,35 @@ I started liking the name for a few reasons: First, I just liked the look and so
 
 <mpb-dialog-gallery hint rel cols="8">
 
-  ![Thomas (I)](/assets/images/blog/2013-01-14-urizen/czahller-20121031-20-12-39.jpg)
-  ![Rustin (I)](/assets/images/blog/2013-01-14-urizen/czahller-20121031-20-13-03.jpg)
-  ![Thomas (II)](/assets/images/blog/2013-01-14-urizen/czahller-20121031-20-14-05.jpg)
-  ![Rustin (II)](/assets/images/blog/2013-01-14-urizen/czahller-20121031-20-17-41.jpg)
-  ![Daniel](/assets/images/blog/2013-01-14-urizen/czahller-20121031-20-17-52.jpg)
-  ![Julio](/assets/images/blog/2013-01-14-urizen/czahller-20121031-20-18-14.jpg)
-  ![Thomas (III)](/assets/images/blog/2013-01-14-urizen/czahller-20121031-20-19-04.jpg)
-  ![Boxmen!](/assets/images/blog/2013-01-14-urizen/czahller-20121031-20-23-02.jpg)
-  ![Men](/assets/images/blog/2013-01-14-urizen/czahller-20121031-20-30-58.jpg)
-  ![The Robot (Gabe)](/assets/images/blog/2013-01-14-urizen/czahller-20121031-20-32-50.jpg)
-  ![Urizen Rocks, Robot Waits](/assets/images/blog/2013-01-14-urizen/czahller-20121031-20-34-31.jpg)
-  ![The Robot Awakening](/assets/images/blog/2013-01-14-urizen/czahller-20121031-20-34-35.jpg)
-  ![Guitar Solo](/assets/images/blog/2013-01-14-urizen/czahller-20121031-20-34-42.jpg)
-  ![Only the Robot Can Save Us](/assets/images/blog/2013-01-14-urizen/czahller-20121031-20-38-47.jpg)
-  ![The Robot Fights the Space Slug; Chaos Ensues](/assets/images/blog/2013-01-14-urizen/czahller-20121031-20-42-02.jpg)
-  ![Robot Triumphant](/assets/images/blog/2013-01-14-urizen/czahller-20121031-20-42-19.jpg)
+  {% image "./src/assets/images/blog/2013-01-14-urizen/czahller-20121031-20-12-39.jpg", "", "Thomas Drinnen wearing lit up goggles and a helmet", "Thomas (I)" %}
+
+  {% image "./src/assets/images/blog/2013-01-14-urizen/czahller-20121031-20-13-03.jpg", "", "Rustin Luther", "Rustin (I)" %}
+
+  {% image "./src/assets/images/blog/2013-01-14-urizen/czahller-20121031-20-14-05.jpg", "", "Thomas Drinnen wearing lit up goggles and a helmet", "Thomas (II)" %}
+
+  {% image "./src/assets/images/blog/2013-01-14-urizen/czahller-20121031-20-17-41.jpg", "", "Rustin Luther", "Rustin (II)" %}
+
+  {% image "./src/assets/images/blog/2013-01-14-urizen/czahller-20121031-20-17-52.jpg", "", "Daniel Drinnen", "Daniel" %}
+
+  {% image "./src/assets/images/blog/2013-01-14-urizen/czahller-20121031-20-18-14.jpg", "", "Julio Escamilla", "Julio" %}
+
+  {% image "./src/assets/images/blog/2013-01-14-urizen/czahller-20121031-20-19-04.jpg", "", "Thomas Drinnen", "Thomas (III)" %}
+
+  {% image "featured", "", "Thomas Drinnen wearing a costume made from a cardboard box. He plays a flying-V guitar. He wears large red and white protective shoulder pads. The image is blurry from motion.", "Boxmen!" %}
+
+  {% image "./src/assets/images/blog/2013-01-14-urizen/czahller-20121031-20-30-58.jpg", "", "A detail of a handpainted sign with the word “MEN”", "Men" %}
+
+  {% image "./src/assets/images/blog/2013-01-14-urizen/czahller-20121031-20-32-50.jpg", "", "A man wearing a robot costume made of cardboard boxes", "The Robot (Gabe)" %}
+
+  {% image "./src/assets/images/blog/2013-01-14-urizen/czahller-20121031-20-34-31.jpg", "", "As the band plays, the robot stirs offstage", "Urizen Rocks, Robot Waits" %}
+
+  {% image "./src/assets/images/blog/2013-01-14-urizen/czahller-20121031-20-34-35.jpg", "", "The cardboard robot stirs offstage", "The Robot Awakening" %}
+
+  {% image "./src/assets/images/blog/2013-01-14-urizen/czahller-20121031-20-34-42.jpg", "", "Thomas playing a solo", "Guitar Solo" %}
+
+  {% image "./src/assets/images/blog/2013-01-14-urizen/czahller-20121031-20-38-47.jpg", "", "A robot made of cardboard boxes at teh stage edge. The rectangular eyehole is lit up.", "Only the Robot Can Save Us" %}
+
+  {% image "./src/assets/images/blog/2013-01-14-urizen/czahller-20121031-20-42-02.jpg", "", "The robot fighting the space slug while the audience shows excitement and confustion by their expresssions", "The Robot Fights the Space Slug; Chaos Ensues" %}
+
+  {% image "./src/assets/images/blog/2013-01-14-urizen/czahller-20121031-20-42-19.jpg", "", "The robot wins the fight", "Robot Triumphant" %}
 </mpb-dialog-gallery>

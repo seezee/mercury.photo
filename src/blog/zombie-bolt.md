@@ -1,6 +1,6 @@
 ---
 layout: _main-blog.njk
-title: Zombie Bolt 5K&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;Oklahoma’s Premier Zombie Run
+title: "Zombie Bolt 5K⁠ ⁠—⁠ ⁠Oklahoma’s Premier Zombie Run"
 tags: 
   - blog
   - photography, digital
@@ -21,13 +21,17 @@ excerpt: Billed as Oklahoma’s Premier Zombie Race, the 5K Zombie Run unleashed
 
 # {{ title }}
 
-Zombie event raises money for charity</stack-l></hgroup>
+Zombie event raises money for charity
+</stack-l></hgroup>
 <!-- markdownlint-enable MD025 -->
 <mpb-dialog-img>
 
 {% image "featured", "img-constrained", "Three zombies — mom, dad, and son — menace the photographer", "The Family That Eats Brains Together", "eager" %}</mpb-dialog-img>
 
-[GUTHRIE, Okla., 24 Oct 2012]&NoBreak;&hairsp;&NoBreak;&mdash;{.no-drop-cap}
+<div class="no-drop-cap">
+
+[GUTHRIE, Okla., 24 Oct 2012]&NoBreak;&hairsp;&NoBreak;&mdash;
+</div>
 
 Billed as Oklahoma’s Premier Zombie Race, the <span class="h-event p-name">5K Zombie Run</span> unleashed ravenous mobs of the undead onto sprinters in the streets of downtown Guthrie to raise money for [children’s disease research](https://www.tobykeithfoundation.org/){target=_blank rel="external nofollow noopener"}. The <time datetime="2012-10-06">6 October</time> dash featured runners navigating a 5&nbsp;kilometer (3.1&nbsp;miles) course obstructed by zombies determined to snatch the runners’ lives.[^1] The run was organized by promoter <span class="h-card p-org">Guthrie Entertainment LLC</span> in coördination with the <span class="h-card p-org">City of Guthrie</span>.{.drop-cap}
 
@@ -35,7 +39,7 @@ Billed as Oklahoma’s Premier Zombie Race, the <span class="h-event p-name">5K 
 
 <mpb-dialog-img>
 
-{% image "./src/assets/images/blog/2012-10-24-zombie-run/czahller-20121006-17-17-58.jpg", "img-constrained", "A zombie dressed as a U.S. Army airman. He wears green flightsuit coveralls torn above the left pocket.", "Zombie Airman (II)" %}</mpb-dialog-img>
+{% image "./src/assets/images/blog/2012-10-24-zombie-run/czahller-20121006-17-17-58.jpg", "", "A zombie dressed as a U.S. Army airman. He wears green flightsuit coveralls torn above the left pocket.", "Zombie Airman (II)", "large" %}</mpb-dialog-img>
 
 ## The Race
 
@@ -49,7 +53,7 @@ These zombies wandered the length of the course but ignored the runners. They po
 
 <mpb-dialog-img>
 
-{% image "./src/assets/images/blog/2012-10-24-zombie-run/czahller-20121006-16-34-49.jpg", "img-constrained", "A fast zombie girl about to catch up with a runner", "Fast Zombie Girl (Zig-Zag)" %}</mpb-dialog-img>
+{% image "./src/assets/images/blog/2012-10-24-zombie-run/czahller-20121006-16-34-49.jpg", "", "A fast zombie girl about to catch up with a runner", "Fast Zombie Girl (Zig-Zag)", "large" %}</mpb-dialog-img>
 
 #### Limpers
 
@@ -65,7 +69,7 @@ The runners who lost their “lives” had the opportunity to cure themselves by
 
 <mpb-dialog-img>
 
-{% image "./src/assets/images/blog/2012-10-24-zombie-run/czahller-20121006-17-45-20.jpg", "img-constrained", "A Jeep-like vehicle equipped with large off-road tires and a dummy machine gun. The vehicle is marked “ZOMBIEƸSLAYER“. A zombie is attacking the gunner.", "The Slayer (IV) (Zombie Attack)" %}</mpb-dialog-img>
+{% image "./src/assets/images/blog/2012-10-24-zombie-run/czahller-20121006-17-45-20.jpg", "", "A Jeep-like vehicle equipped with large off-road tires and a dummy machine gun. The vehicle is marked “ZOMBIEƸSLAYER“. A zombie is attacking the gunner.", "The Slayer (IV) (Zombie Attack)", "large" %}</mpb-dialog-img>
 
 ### Winners
 
@@ -77,7 +81,7 @@ Race participants and spectators later retired to Drexel Music Hall for good com
 
 <mpb-dialog-img>
 
-{% image "./src/assets/images/blog/2019-05-17-zombie-run-afterparty/czahller-20121006-18-22-35.jpg", "img-constrained", "A zombie with a classic “red cup,” that is, a red plastic Dixie cup.", "What Zombies Do in Their Leisure Hours" %}</mpb-dialog-img>
+{% image "./src/assets/images/blog/2019-05-17-zombie-run-afterparty/czahller-20121006-18-22-35.jpg", "", "A zombie with a classic “red cup,” that is, a red plastic Dixie cup.", "What Zombies Do in Their Leisure Hours", "large" %}</mpb-dialog-img>
 
 ### Party-Goers
 
@@ -91,7 +95,7 @@ Hailing from Tulsa, <span class="h-card p-org">The Secret Post</span> claim infl
 
 <mpb-dialog-img>
 
-{% image "./src/assets/images/blog/2019-05-20-zombie-run-secret-post/czahller-20121006-19-10-12.jpg", "img-constrained", "M plays a Fender electric bass. He wears a Bowie lightning bolt logo singlet (sleeveless shirt).", "M (II)" %}</mpb-dialog-img>
+{% image "./src/assets/images/blog/2019-05-20-zombie-run-secret-post/czahller-20121006-19-10-12.jpg", "", "M plays a Fender electric bass. He wears a Bowie lightning bolt logo singlet (sleeveless shirt).", "M (II)", "large" %}</mpb-dialog-img>
 
 ### Kill the Reflection
 
@@ -101,32 +105,52 @@ Oklahoma City’s <span class="h-card p-org">Kill the Reflection</span> are ofte
 
 <mpb-dialog-img>
 
-{% image "./src/assets/images/blog/2019-05-20-zombie-run-secret-post/czahller-20121006-21-02-54.jpg", "img-constrained", "Mark, Christopher, and Morgan from Kill the Reflection pose for the photographer. Christopher has his arms around Mark & Morgan. They are all smiling.", "Kill the Reflection" %}</mpb-dialog-img>
+{% image "./src/assets/images/blog/2019-05-20-zombie-run-secret-post/czahller-20121006-21-02-54.jpg", "", "Mark, Christopher, and Morgan from Kill the Reflection pose for the photographer. Christopher has his arms around Mark & Morgan. They are all smiling.", "Kill the Reflection", "large" %}</mpb-dialog-img>
 
 ## Gallery: The Zombie Bolt
 
 <br>
 <mpb-dialog-gallery hint rel cols="8">
   
-  ![Can't Get Any Bars](/assets/images/blog/2012-10-24-zombie-run/czahller-20121006-16-05-52.jpg)
-  ![Hospital Zombies (I)](/assets/images/blog/2012-10-24-zombie-run/czahller-20121006-16-26-44.jpg)
-  ![Runner (I)](/assets/images/blog/2012-10-24-zombie-run/czahller-20121006-16-31-15.jpg)
-  ![Fast Zombie Girl (Zig-Zag)](/assets/images/blog/2012-10-24-zombie-run/czahller-20121006-16-34-49.jpg)
-  ![Tweed-Wearing Zombie](/assets/images/blog/2012-10-24-zombie-run/czahller-20121006-16-37-14.jpg)
-  ![Toyota Man and His Spawn](/assets/images/blog/2012-10-24-zombie-run/czahller-20121006-16-40-26.jpg)
-  ![BFF, or at Least Until I Eat Your Brains (II)](/assets/images/blog/2012-10-24-zombie-run/czahller-20121006-16-43-43.jpg)
-  ![AC⚡️DC](/assets/images/blog/2012-10-24-zombie-run/czahller-20121006-16-48-00.jpg)
-  ![The Family That Eats Brains Together](/assets/images/blog/2012-10-24-zombie-run/czahller-20121006-16-49-17.jpg)
-  ![The Convict (I)](/assets/images/blog/2012-10-24-zombie-run/czahller-20121006-16-50-19.jpg)
-  ![The Convict (I)](/assets/images/blog/2012-10-24-zombie-run/czahller-20121006-16-51-21.jpg)
-  ![Blue Blazer Zombie](/assets/images/blog/2012-10-24-zombie-run/czahller-20121006-16-56-29.jpg)
-  ![Two Blond Zombies in Housecoats (I)](/assets/images/blog/2012-10-24-zombie-run/czahller-20121006-16-58-30.jpg)
-  ![Zombie Sheriff (I)](/assets/images/blog/2012-10-24-zombie-run/czahller-20121006-16-59-40.jpg)
-  ![Zombie with Orange Bandana](/assets/images/blog/2012-10-24-zombie-run/czahller-20121006-17-00-01.jpg)
-  ![Witchy Zombie](/assets/images/blog/2012-10-24-zombie-run/czahller-20121006-17-01-33.jpg)
-  ![Teenage Deliquent Zombies](/assets/images/blog/2012-10-24-zombie-run/czahller-20121006-17-07-21.jpg)
-  ![Zombie on 2nd Street](/assets/images/blog/2012-10-24-zombie-run/czahller-20121006-17-10-59.jpg)
-  ![Zombie Airman (II)](/assets/images/blog/2012-10-24-zombie-run/czahller-20121006-17-17-58.jpg)
-  ![The Priest (Bruce Nobles: Scariest Zombie Prize Winner)](/assets/images/blog/2012-10-24-zombie-run/czahller-20121006-17-30-40.jpg)
-  ![The Slayer (IV) (Zombie Attack)](/assets/images/blog/2012-10-24-zombie-run/czahller-20121006-17-45-20.jpg)
+  {% image "./src/assets/images/blog/2012-10-24-zombie-run/czahller-20121006-16-05-52.jpg", "", "Zombie looking at her phone screen", "Can't Get Any Bars" %}
+
+  {% image "./src/assets/images/blog/2012-10-24-zombie-run/czahller-20121006-16-26-44.jpg", "", "A zombie wearing scrubs, another wearing a lab coat, and a young girl zombie wearing a t-shirt covered in bloody hand prints", "Hospital Zombies (I)" %}
+
+  {% image "./src/assets/images/blog/2012-10-24-zombie-run/czahller-20121006-16-31-15.jpg", "", "Runner wearing a dark track suit", "Runner (I)" %}
+
+  {% image "./src/assets/images/blog/2012-10-24-zombie-run/czahller-20121006-16-34-49.jpg", "", "A fast zombie girl catching up with her prey", "Fast Zombie Girl (Zig-Zag)" %}
+
+  {% image "./src/assets/images/blog/2012-10-24-zombie-run/czahller-20121006-16-37-14.jpg", "", "Male zombie wearing a ragged tweed overcoat", "Tweed-Wearing Zombie" %}
+
+  {% image "./src/assets/images/blog/2012-10-24-zombie-run/czahller-20121006-16-40-26.jpg", "", "Bearded zombie wearing knit beanie and work jacket with Toyota logo and his daughter. The girl wears pajamas and a knit tassel hat.", "Toyota Man and His Spawn" %}
+
+  {% image "./src/assets/images/blog/2012-10-24-zombie-run/czahller-20121006-16-43-43.jpg", "", "Two pretty girls wearing cheerleader costumes hug one another", "BFF, or at Least Until I Eat Your Brains (II)" %}
+
+  {% image "./src/assets/images/blog/2012-10-24-zombie-run/czahller-20121006-16-48-00.jpg", "", "Zombie wearing AC/DC band t-shirt", "AC⚡️DC" %}
+
+  {% image "featured", "", "Three zombies — mom, dad, and son — menace the photographer", "The Family That Eats Brains Together" %}
+
+  {% image "./src/assets/images/blog/2012-10-24-zombie-run/czahller-20121006-16-50-19.jpg", "", "Zombie girl with red hair shows off a ribbon she has snatched", "Redhead Zombie" %}
+
+  {% image "./src/assets/images/blog/2012-10-24-zombie-run/czahller-20121006-16-51-21.jpg", "", "Zombie man wearing orange prison jumpsuit. A necklace of hands and feet hangs from his neck.", "The Convict (I)" %}
+
+  {% image "./src/assets/images/blog/2012-10-24-zombie-run/czahller-20121006-16-56-29.jpg", "", "Zombie wearing a blue blazer", "Blue Blazer Zombie" %}
+
+  {% image "./src/assets/images/blog/2012-10-24-zombie-run/czahller-20121006-16-58-30.jpg", "", "Two blond women zombies wearing Housecoats", "Two Blond Zombies in Housecoats (I)" %}
+
+  {% image "./src/assets/images/blog/2012-10-24-zombie-run/czahller-20121006-16-59-40.jpg", "", "Girl zombie with a sheriff badge pinned to her short dress", "Zombie Sheriff (I)" %}
+
+  {% image "./src/assets/images/blog/2012-10-24-zombie-run/czahller-20121006-17-00-01.jpg", "", "Zombie woman wearing an orange bandana tied around her hair", "Zombie with Orange Bandana" %}
+
+  {% image "./src/assets/images/blog/2012-10-24-zombie-run/czahller-20121006-17-01-33.jpg", "", "Zombie wearing a lace-front dress. Her dark hair is streaked white, reminiscent of Elsa Lanchester as the Bride of Frankenstein.", "Witchy Zombie" %}
+
+  {% image "./src/assets/images/blog/2012-10-24-zombie-run/czahller-20121006-17-07-21.jpg", "", "Teenage boys dressed as zombies", "Teenage Deliquent Zombies" %}
+
+  {% image "./src/assets/images/blog/2012-10-24-zombie-run/czahller-20121006-17-10-59.jpg", "", "A zombie wearing a knit hat and long sleeve t-shirt", "Zombie on 2nd Street" %}
+
+  {% image "./src/assets/images/blog/2012-10-24-zombie-run/czahller-20121006-17-17-58.jpg", "", "A zombie wearing an army green flight suit", "Zombie Airman (II)" %}
+
+  (Bruce Nobles: Scariest Zombie Prize Winner) {% image "./src/assets/images/blog/2012-10-24-zombie-run/czahller-20121006-17-30-40.jpg", "", "Bruce Nobles dressed as a zombie priest", "The Priest" %}
+
+  {% image "./src/assets/images/blog/2012-10-24-zombie-run/czahller-20121006-17-45-20.jpg", "", "A tricked-out Jeep with a machine gun mounted to the roof", "The Slayer (IV) (Zombie Attack)" %}
 </mpb-dialog-gallery>

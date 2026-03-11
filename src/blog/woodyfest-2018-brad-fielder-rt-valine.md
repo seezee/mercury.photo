@@ -27,7 +27,7 @@ excerpt: Oklahoma musicians Brad Fielder and R.T. Valine traded songs on the Hen
 
 <!-- markdownlint-enable MD025 --><mpb-dialog-img>
 
-{% image "featured", "img-constrained", "Brad & R.T. (Upstage View) — 21st Annual Woody Guthrie Festival, 2018", "Brad & R.T. (Upstage View)&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;21st Annual Woody Guthrie Festival, 2018", "eager" %}</mpb-dialog-img>
+{% image "featured", "", "Brad Fielder & R.T. Valine viewed from upstage", "Brad & R.T. (Upstage View)", "eager" %}</mpb-dialog-img>
 
 Oklahoma musicians Brad Fielder and R.T. Valine traded songs on the Hen House stage at the <time datetime="2018-07">2018</time> <span class="h-card p-organisation"><span class="p-name"><span class="p-nickname">Woody</span> Guthrie</span> Folk Festival</span>.
 
@@ -120,12 +120,19 @@ Valine credits artists such as <span class="h-card p-name">Johnny Cash</span>, <
 
 <mpb-dialog-gallery hint rel cols="8">
   
-  ![Brad Fielder & R.T. Valine — 21st Annual Woody Guthrie Festival, 2018](/assets/images/blog/2018-12-14-woodyfest-fielder-valine/czahller-20180713-16-00-54.jpg)
-  ![Brad Fielder](/assets/images/blog/2018-12-14-woodyfest-fielder-valine/czahller-20180713-16-05-06.jpg)
-  ![Brad (I)](/assets/images/blog/2018-12-14-woodyfest-fielder-valine/czahller-20180713-16-05-23.jpg)
-  ![Brad & R.T. (Upstage View) — 21st Annual Woody Guthrie Festival, 2018](/assets/images/blog/2018-12-14-woodyfest-fielder-valine/czahller-20180713-16-08-29.jpg)
-  ![Brad (II)](/assets/images/blog/2018-12-14-woodyfest-fielder-valine/czahller-20180713-16-08-55.jpg)
-  ![R.T. Valine — 21st Annual Woody Guthrie Festival, 2018](/assets/images/blog/2018-12-14-woodyfest-fielder-valine/czahller-20180713-16-10-56.jpg)
-  ![R.T. (I) — 21st Annual Woody Guthrie Festival, 2018](/assets/images/blog/2018-12-14-woodyfest-fielder-valine/czahller-20180713-16-34-29.jpg)
-  ![R.T. (II) — 21st Annual Woody Guthrie Festival, 2018](/assets/images/blog/2018-12-14-woodyfest-fielder-valine/czahller-20180713-16-35-55.jpg)
+  {% image "./src/assets/images/blog/2018-12-14-woodyfest-fielder-valine/czahller-20180713-16-00-54.jpg", "", "Brad Fielder & R.T. Valine", "Brad Fielder & R.T. Valine" %}
+
+  {% image "./src/assets/images/blog/2018-12-14-woodyfest-fielder-valine/czahller-20180713-16-05-06.jpg", "", "Brad Fielder", "Brad Fielder" %}
+
+  {% image "./src/assets/images/blog/2018-12-14-woodyfest-fielder-valine/czahller-20180713-16-05-23.jpg", "", "Brad Fielder", "Brad (I)" %}
+
+  {% image "featured", "", "Brad Fielder & R.T. Valine viewed from upstage", "Brad & R.T. (Upstage View)" %}
+
+  {% image "./src/assets/images/blog/2018-12-14-woodyfest-fielder-valine/czahller-20180713-16-08-55.jpg", "", "Brad Fielder", "Brad (II)" %}
+
+  {% image "./src/assets/images/blog/2018-12-14-woodyfest-fielder-valine/czahller-20180713-16-10-56.jpg", "", "R.T. Valine", "R.T. Valine" %}
+
+  {% image "./src/assets/images/blog/2018-12-14-woodyfest-fielder-valine/czahller-20180713-16-34-29.jpg", "", "R.T. Valine", "R.T. (I)" %}
+
+  {% image "./src/assets/images/blog/2018-12-14-woodyfest-fielder-valine/czahller-20180713-16-35-55.jpg", "", "R.T. Valine", "R.T. (II)" %}
 </mpb-dialog-gallery>

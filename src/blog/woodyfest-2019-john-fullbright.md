@@ -23,13 +23,13 @@ excerpt: I wasn’t assigned to photograph John Fullbright at last year’s fest
 
 <!-- markdownlint-enable MD025 --><mpb-dialog-img>
 
-{% image "featured", "img-constrained", "John Fullbright jamming with Terry “Buffalo” Ware and Stephen Lee", "John Fullbright&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;22nd Annual Woody Guthrie Festival, 2019", "eager" %}</mpb-dialog-img>
+{% image "featured", "", "John Fullbright jamming with Terry “Buffalo” Ware and Stephen Lee", "John Fullbright", "eager" %}</mpb-dialog-img>
 
 I wasn’t assigned to photograph <span class="h-card p-name">John Fullbright</span> at <time datetime="2019-07-11">last year</time>’s festival, but I did catch this shot of him jamming with guitarists <span class="h-card p-name">Terry <span class="p-nickname">“Buffalo”</span> Ware</span> and <span class="h-card p-name">Stephen Lee</span>.
 
 <mpb-dialog-img>
 
-{% image "./src/assets/images/blog/2020-04-07-woodyfest-john-fullbright/czahller-20190711-23-08-01-monochrome.jpg", "img-constrained", "John Fullbright jamming with Terry “Buffalo” Ware and Stephen Lee (monochrome)", "John Fullbright — 22nd Annual Woody Guthrie Festival, 2019" %}
+{% image "./src/assets/images/blog/2020-04-07-woodyfest-john-fullbright/czahller-20190711-23-08-01-monochrome.jpg", "", "John Fullbright jamming with Terry “Buffalo” Ware and Stephen Lee (monochrome)", "John Fullbright", "large" %}
 </mpb-dialog-img>
 
 I always supply the <span class="h-card p-org">Woody Guthrie Coalition</span> with three files for each image: a web-optimized version, a CMYK print-optimized version, and a greyscale version (also optimized for print).[^1] I've included a web version of the latter so you can compare the color and black-and-white images.

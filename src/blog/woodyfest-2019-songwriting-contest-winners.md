@@ -24,7 +24,7 @@ excerpt: Saturday night at Woodyfest 2019 kicked off, as in past years, with a s
 
 <!-- markdownlint-enable MD025 --><mpb-dialog-img>
 
-{% image "featured", "img-constrained", "Anna Larson (Accompanied by Jon-Michael Rogers) — 22nd Annual Woody Guthrie Festival, 2019", "Anna Larson (Accompanied by Jon-Michael Rogers)&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;22nd Annual Woody Guthrie Festival, 2019", "eager" %}</mpb-dialog-img>
+{% image "featured", "", "Anna Larson, accompanied by Jon-Michael Rogers", "Anna Larson (Accompanied by Jon-Michael Rogers)", "eager" %}</mpb-dialog-img>
 
 ## Anna Larson, Dan Weber Take 2<sup>nd</sup> &amp; 1<sup>st</sup> Place
 
@@ -53,12 +53,19 @@ Weber can be counted on to show up at the festival most years, whether he is per
 
 <mpb-dialog-gallery hint rel cols="8">
   
-  ![Anna Larson (Accompanied by Jon-Michael Rogers) — 22nd Annual Woody Guthrie Festival, 2019](/assets/images/blog/2021-06-21-woodyfest-songwriting-contest/czahller-20190712-19-18-22.jpg)
-  ![2nd Place Songwriting Contest Winner Anna Larson — 22nd Annual Woody Guthrie Festival, 2019](/assets/images/blog/2021-06-21-woodyfest-songwriting-contest/czahller-20190712-19-19-21.jpg)
-  ![Dan Weber (Viewed from Upstage Right) — 22nd Annual Woody Guthrie Festival, 2019](/assets/images/blog/2021-06-21-woodyfest-songwriting-contest/czahller-20190712-19-23-27.jpg)
-  ![1st Place Songwriting Contest Winner Dan Weber — 22nd Annual Woody Guthrie Festival, 2019](/assets/images/blog/2021-06-21-woodyfest-songwriting-contest/czahller-20190712-19-24-45.jpg)
-  ![Dan Weber performs “Ever Since Columbine” — 22nd Annual Woody Guthrie Festival, 2019](/assets/images/blog/2021-06-21-woodyfest-songwriting-contest/czahller-20190712-19-25-11.jpg)
-  ![Dan’s Signature Move — 22nd Annual Woody Guthrie Festival, 2019](/assets/images/blog/2021-06-21-woodyfest-songwriting-contest/czahller-20190712-19-25-23.jpg)
-  ![Dan Weber — 22nd Annual Woody Guthrie Festival, 2019](/assets/images/blog/2021-06-21-woodyfest-songwriting-contest/czahller-20190712-19-25-31.jpg)
-  ![Dan Weber performs “Oh Woody” — 22nd Annual Woody Guthrie Festival, 2019](/assets/images/blog/2021-06-21-woodyfest-songwriting-contest/czahller-20190712-19-27-12.jpg)
+  {% image "featured", "", "Anna Larson, accompanied by Jon-Michael Rogers", "Anna Larson (Accompanied by Jon-Michael Rogers)" %}
+
+  {% image "./src/assets/images/blog/2021-06-21-woodyfest-songwriting-contest/czahller-20190712-19-19-21.jpg", "", "2nd Place Songwriting Contest winner Anna Larson", "2nd Place Songwriting Contest Winner Anna Larson" %}
+
+  {% image "./src/assets/images/blog/2021-06-21-woodyfest-songwriting-contest/czahller-20190712-19-23-27.jpg", "", "Dan Weber, viewed from upstage right", "Dan Weber (Viewed from Upstage Right)" %}
+
+  {% image "./src/assets/images/blog/2021-06-21-woodyfest-songwriting-contest/czahller-20190712-19-24-45.jpg", "", "1st Place Songwriting Contest winner Dan Weber", "1st Place Songwriting Contest Winner Dan Weber" %}
+
+  {% image "./src/assets/images/blog/2021-06-21-woodyfest-songwriting-contest/czahller-20190712-19-25-11.jpg", "", "Dan Weber performs “Ever Since Columbine”", "Dan Weber performs “Ever Since Columbine”" %}
+
+  {% image "./src/assets/images/blog/2021-06-21-woodyfest-songwriting-contest/czahller-20190712-19-25-23.jpg", "", "Dan Weber leans back while playing his acoustic guitar", "Dan’s Signature Move" %}
+
+  {% image "./src/assets/images/blog/2021-06-21-woodyfest-songwriting-contest/czahller-20190712-19-25-31.jpg", "", "Dan Weber", "Dan Weber" %}
+
+  {% image "./src/assets/images/blog/2021-06-21-woodyfest-songwriting-contest/czahller-20190712-19-27-12.jpg", "", "Dan Weber performs “Oh Woody”", "Dan Weber performs “Oh Woody”" %}
 </mpb-dialog-gallery>

@@ -23,13 +23,13 @@ excerpt: This year’s second place songwriting contest title went to Charlie Mo
 
 <!-- markdownlint-enable MD025 --><mpb-dialog-img>
 
-{% image "featured", "img-constrained", "Charlie Mosbrook (I) — 21st Annual Woody Guthrie Festival, 2018", "Charlie Mosbrook (I)&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;21st Annual Woody Guthrie Festival, 2018", "eager" %}</mpb-dialog-img>
+{% image "featured", "", "Charlie Mosbrook (I)", "Charlie Mosbrook (I)", "eager" %}</mpb-dialog-img>
 
 <time datetime="2018">This year’s</time> second place songwriting contest title went to <span class="h-card p-name">Charlie Mosbrook</span> for his song <cite class="short-work">[Remember Who We Are](https://open.spotify.com/track/3QhBdOGEet9mS7UA4qhgtO){target=_blank rel="external noopener"}.</cite> Mosbrook performed the song as part of a short showcase kicking off evening performances on the Pastures of Plenty outdoor stage.{.drop-cap}
 
 Mosbrook’s decades-long career began on the streets; he started as a busker, performing originals and traditional folk songs in the Great Lakes region (Chicago, Cleveland, Madison). A musical anthropologist, he’s worked to preserve traditional American music, plying his rich baritone and superb guitar work to entice all who will lend an ear. His positions as president of Folknet (a Northeast Ohio folk music society) and vice-president of Folk Alliance Region Midwest (FARM) afford him a soapbox from which to preach the Folk Gospel.
 
-After suffering a spinal cord injury in <time datetime="2010">2010</time>, the former Ironman Triathlete had to reinvent his guitar technique to account for his newly limited mobility. In a flurry of creative energy, he released five CDs to considerable accolades, including features in <cite>No Depression</cite>, <cite>[Folk Alley](https://folkalley.com){target=_blank rel="external noopener"}</cite>, and WFMT’s <cite>Midnight Special</cite>, among others.
+After experiencing a spinal cord injury in <time datetime="2010">2010</time>, the former Ironman Triathlete had to reinvent his guitar technique to account for his newly limited mobility. In a flurry of creative energy, he released five CDs to considerable accolades, including features in <cite>No Depression</cite>, <cite>[Folk Alley](https://folkalley.com){target=_blank rel="external noopener"}</cite>, and WFMT’s <cite>Midnight Special</cite>, among others.
 
 Mosbrook is no stranger to <span class="h-card p-given-name p-nickname">Woody</span>, either. In <time datetime="1996">1996</time>, he performed at the Rock and Roll Hall of Fame’s conference <cite>Hard Travelin’: The Life and Legacy of Woody Guthrie</cite> where he shared the spotlight with a who’s who of folk, country, and rock stars.[^1] In his long career, Mosbrook has performed on bills featuring <span class="h-card p-family-name">Crosby</span>, <span class="h-card p-family-name">Stills</span>, and <span class="h-card p-family-name">Nash</span>; <span class="h-card p-nickname">Jewel</span>; <span class="h-card p-name">Iris Dement</span>; <span class="h-card p-name">David Bromberg</span>; <span class="h-card p-given-name">Suzzy</span> and <span class="h-card p-name">Lucy Wainwright Roche</span>; <span class="h-card p-name">Chris Whitley</span>; and <span class="h-card p-name">Dan Bern</span>.
 
@@ -41,10 +41,15 @@ In <time datetime="2011">2011</time> [<cite>Scene Magazine</cite>’s Cleveland,
 
 <mpb-dialog-gallery hint rel cols="8">
   
-  ![Charlie Mosbrook (2nd Place Songwriting Contest Winner) — 21st Annual Woody Guthrie Festival, 2018](/assets/images/blog/2018-11-09-woodyfest-charlie-mosbrook/czahller-20180712-19-06-17.jpg)
-  ![Charlie Mosbrook (Seen from Upstage) — 21st Annual Woody Guthrie Festival, 2018](/assets/images/blog/2018-11-09-woodyfest-charlie-mosbrook/czahller-20180712-19-09-13.jpg)
-  ![Charlie Mosbrook (I) — 21st Annual Woody Guthrie Festival, 2018](/assets/images/blog/2018-11-09-woodyfest-charlie-mosbrook/czahller-20180712-19-09-41.jpg)
-  ![Charlie Mosbrook (I) — 21st Annual Woody Guthrie Festival, 2018](/assets/images/blog/2018-11-09-woodyfest-charlie-mosbrook/czahller-20180712-19-09-49.jpg)
-  ![Charlie Mosbrook (III) — 21st Annual Woody Guthrie Festival, 2018](/assets/images/blog/2018-11-09-woodyfest-charlie-mosbrook/czahller-20180712-19-11-33.jpg)
-  ![Charlie Mosbrook (IV) — 21st Annual Woody Guthrie Festival, 2018](/assets/images/blog/2018-11-09-woodyfest-charlie-mosbrook/czahller-20180712-19-11-58.jpg)
+  {% image "./src/assets/images/blog/2018-11-09-woodyfest-charlie-mosbrook/czahller-20180712-19-06-17.jpg", "", "Charlie Mosbrook", "Charlie Mosbrook (2nd Place Songwriting Contest Winner)" %}
+
+  {% image "./src/assets/images/blog/2018-11-09-woodyfest-charlie-mosbrook/czahller-20180712-19-09-13.jpg", "", "Charlie Mosbrook viewed from upstage", "Charlie Mosbrook (Seen from Upstage)" %}
+
+  {% image "featured", "", "Charlie Mosbrook", "Charlie Mosbrook (I)" %}
+
+  {% image "./src/assets/images/blog/2018-11-09-woodyfest-charlie-mosbrook/czahller-20180712-19-09-49.jpg", "", "Charlie Mosbrook", "Charlie Mosbrook (II)" %}
+
+  {% image "./src/assets/images/blog/2018-11-09-woodyfest-charlie-mosbrook/czahller-20180712-19-11-33.jpg", "", "Charlie Mosbrook", "Charlie Mosbrook (III)" %}
+
+  {% image "./src/assets/images/blog/2018-11-09-woodyfest-charlie-mosbrook/czahller-20180712-19-11-58.jpg", "", "Charlie Mosbrook", "Charlie Mosbrook (IV)" %}
 </mpb-dialog-gallery>

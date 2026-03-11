@@ -20,7 +20,7 @@ excerpt: Kali Ra front man David Goad recently sat down with us to answer some q
 
 <!-- markdownlint-enable MD025 --><mpb-dialog-img>
 
-{% image "featured", "img-constrained", "David Goad lies on his back on the HiLo Club stage floor, grasping a microphone and singing. His eyes are closed, his head blurred from motion. The image is black-and-white.", "David Supine (II)", "eager" %}</mpb-dialog-img>
+{% image "featured", "", "David Goad lies on his back on the HiLo Club stage floor, grasping a microphone and singing. His eyes are closed, his head and hands blurred from motion. The image is black-and-white.", "David Supine (II)", "eager" %}</mpb-dialog-img>
 
 <span class="h-card p-org">[Kali Ra](http://officialkalira.com){target=_blank rel="external noopener"}</span> front man <span class="h-card p-name">David Goad</span> recently sat down with us to answer some questions.[^1] His lovely wife <span class="h-card p-name p-given-name">Alicia</span> was on hand to <del>call his bullshit</del> <ins>supplement his answers and fact-check</ins>. She also told us <cite class="short-work">10 Things You Didn’t Know about David Goad,</cite> which you can read in [Part 2](/blog/kali-ra-interview-pt-2/#ten-things-you-didn-t-know-about-david-goad){rel=next}.
 
@@ -40,7 +40,7 @@ excerpt: Kali Ra front man David Goad recently sat down with us to answer some q
 
 <mpb-dialog-img>
 
-{% image "./src/assets/images/blog/2012-11-27-kali-ra-pt-1/czahller-20121013-23-03-52.jpg", "img-constrained", "David walks onstage at the HiLo Club, expression stern. He is photographed from a low angle. The image is black-and-white.", "Enter David" %}</mpb-dialog-img>
+{% image "./src/assets/images/blog/2012-11-27-kali-ra-pt-1/czahller-20121013-23-03-52.jpg", "", "David walks onstage at the HiLo Club, expression stern. He is photographed from a low angle. The image is black-and-white.", "Enter David", "large" %}</mpb-dialog-img>
 
 <span class="spkr">MPB</span> You’ve had a couple of your compositions used in theatre and television.
 
@@ -72,7 +72,7 @@ I took my guitar approach and my singing from <span class="h-card p-name">Daniel
 
 <mpb-dialog-img>
 
-{% image "./src/assets/images/blog/2012-11-27-kali-ra-pt-1/czahller-20121013-23-05-33.jpg", "img-constrained", "David holds the microphone, free of the microphone stand, in his right hand. His left grips the stand. He is singing. The image is black-and-white.", "David (I)" %}</mpb-dialog-img>
+{% image "./src/assets/images/blog/2012-11-27-kali-ra-pt-1/czahller-20121013-23-05-33.jpg", "", "David holds the microphone, free of the microphone stand, in his right hand. His left grips the stand. He is singing. The image is black-and-white.", "David (I)", "large" %}</mpb-dialog-img>
 
 <span class="spkr">Alicia Goad</span> I really don’t think that [how they collaborated] was what broke [Of the Tower] up. I think it was more [a matter] of them not coming to practice and not wanting to move on and tour. It wasn’t because of creative differences.
 
@@ -94,7 +94,7 @@ My point is, we try to meld the two together and try not to rely too heavily [on
 
 <mpb-dialog-img>
 
-{% image "./src/assets/images/blog/2012-11-27-kali-ra-pt-1/czahller-20121013-23-09-56.jpg", "img-constrained", "David, seen from behind. His head is tilted back. He holds the microphone upside-down and above his head, pointed at his mouth. The image is black-and-white.", "David (II)" %}</mpb-dialog-img>
+{% image "./src/assets/images/blog/2012-11-27-kali-ra-pt-1/czahller-20121013-23-09-56.jpg", "", "David, seen from behind. His head is tilted back. He holds the microphone upside-down and above his head, pointed at his mouth. The image is black-and-white.", "David (II)", "large" %}</mpb-dialog-img>
 
 <span class="spkr">MPB</span> Something that really happened, not something that only occurred in the digital domain.
 
@@ -118,17 +118,29 @@ David’s ancestors are Irish, with the attendant “gift of the gab.” As he h
 
 <mpb-dialog-gallery hint rel cols="8">
 
-  ![Enter David](/assets/images/blog/2012-11-27-kali-ra-pt-1/czahller-20121013-23-03-52.jpg)
-  ![Justin's Guitar](/assets/images/blog/2012-11-27-kali-ra-pt-1/czahller-20121013-23-04-38.jpg)
-  ![David (I)](/assets/images/blog/2012-11-27-kali-ra-pt-1/czahller-20121013-23-05-33.jpg)
-  ![David (II)](/assets/images/blog/2012-11-27-kali-ra-pt-1/czahller-20121013-23-09-56.jpg)
-  ![David (III)](/assets/images/blog/2012-11-27-kali-ra-pt-1/czahller-20121013-23-14-44.jpg)
-  ![David (IV)](/assets/images/blog/2012-11-27-kali-ra-pt-1/czahller-20121013-23-15-01.jpg)
-  ![David Supine (I)](/assets/images/blog/2012-11-27-kali-ra-pt-1/czahller-20121013-23-26-30.jpg)
-  ![Audience with Projector](/assets/images/blog/2012-11-27-kali-ra-pt-1/czahller-20121013-23-32-39.jpg)
-  ![Pedal Board](/assets/images/blog/2012-11-27-kali-ra-pt-1/czahller-20121013-23-33-27.jpg)
-  ![Audience](/assets/images/blog/2012-11-27-kali-ra-pt-1/czahller-20121013-23-35-22.jpg)
-  ![David Supine (II)](/assets/images/blog/2012-11-27-kali-ra-pt-1/czahller-20121013-23-40-22.jpg)
-  ![David (V)](/assets/images/blog/2012-11-27-kali-ra-pt-1/czahller-20121013-23-42-04.jpg)
-  ![David (VI)](/assets/images/blog/2012-11-27-kali-ra-pt-1/czahller-20121013-23-44-59.jpg)
+   {% image "./src/assets/images/blog/2012-11-27-kali-ra-pt-1/czahller-20121013-23-03-52.jpg", "", "David, a pale, gaunt young man, walks onstage. He is seen from a low angle.", "Enter David" %}
+
+   {% image "./src/assets/images/blog/2012-11-27-kali-ra-pt-1/czahller-20121013-23-04-38.jpg", "", "Closeup of Justin's right hand as he plays his guitar", "Justin's Guitar" %}
+
+   {% image "./src/assets/images/blog/2012-11-27-kali-ra-pt-1/czahller-20121013-23-05-33.jpg", "", "David", "David (I)" %}
+
+   {% image "./src/assets/images/blog/2012-11-27-kali-ra-pt-1/czahller-20121013-23-09-56.jpg", "", "David", "David (II)" %}
+
+   {% image "./src/assets/images/blog/2012-11-27-kali-ra-pt-1/czahller-20121013-23-14-44.jpg", "", "David", "David (III)" %}
+
+   {% image "./src/assets/images/blog/2012-11-27-kali-ra-pt-1/czahller-20121013-23-15-01.jpg", "", "David", "David (IV)" %}
+
+   {% image "./src/assets/images/blog/2012-11-27-kali-ra-pt-1/czahller-20121013-23-26-30.jpg", "", "David lies on his back on the Hi-Lo stage with his legs tucked under his backside. He holds the microphone and sings.", "David, Supine (I)" %}
+
+   {% image "./src/assets/images/blog/2012-11-27-kali-ra-pt-1/czahller-20121013-23-32-39.jpg", "", "The audience at their tables. A beam of light from a projector shines overhead.", "Audience with Projector" %}
+
+   {% image "./src/assets/images/blog/2012-11-27-kali-ra-pt-1/czahller-20121013-23-33-27.jpg", "", "Pedal Board", "Pedal Board" %}
+
+   {% image "./src/assets/images/blog/2012-11-27-kali-ra-pt-1/czahller-20121013-23-35-22.jpg", "", "Audience", "Audience" %}
+
+   {% image "featured", "", "David Goad lies on his back on the HiLo Club stage floor, grasping a microphone and singing. His eyes are closed, his head and hands blurred from motion.", "David, Supine (II)" %}
+
+   {% image "./src/assets/images/blog/2012-11-27-kali-ra-pt-1/czahller-20121013-23-42-04.jpg", "", "David (V)", "David" %}
+
+   {% image "./src/assets/images/blog/2012-11-27-kali-ra-pt-1/czahller-20121013-23-44-59.jpg", "", "David", "David (VI)" %}
 </mpb-dialog-gallery>

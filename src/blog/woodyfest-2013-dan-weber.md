@@ -30,7 +30,7 @@ Singer-Songwriter takes third prize in Woody Guthrie Songwriting Contest
   </stack-l>
 </hgroup><mpb-dialog-img>
 
-{% image "featured", "img-constrained", "Dan Weber leans way back while playing a guitar solo", "Dan Weber (XII)", "eager" %}</mpb-dialog-img>
+{% image "featured", "", "Dan Weber leans way back while playing a guitar solo", "Dan Weber (XII)", "eager" %}</mpb-dialog-img>
 
 <blockquote cite="https://danwebermusic.com/about/index.html">
 
@@ -53,16 +53,27 @@ Weber’s even better performing live, where he exudes a genuine “aw shucks”
 
 <mpb-dialog-gallery hint rel cols="8">
 
-  ![Dan Weber (I)](/assets/images/blog/2013-10-04-woodyfest-dan-weber/czahller-20130713-10-40-20.jpg)
-  ![Dan Weber (II)](/assets/images/blog/2013-10-04-woodyfest-dan-weber/czahller-20130713-10-42-35.jpg)
-  ![Dan Weber (III)](/assets/images/blog/2013-10-04-woodyfest-dan-weber/czahller-20130713-10-43-39.jpg)
-  ![Dan Weber (IV)](/assets/images/blog/2013-10-04-woodyfest-dan-weber/czahller-20130713-10-44-10.jpg)
-  ![Dan Weber (V)](/assets/images/blog/2013-10-04-woodyfest-dan-weber/czahller-20130713-10-45-36.jpg)
-  ![Dan Weber (VI)](/assets/images/blog/2013-10-04-woodyfest-dan-weber/czahller-20130713-10-46-54.jpg)
-  ![Dan Weber (VII)](/assets/images/blog/2013-10-04-woodyfest-dan-weber/czahller-20130713-10-47-01.jpg)
-  ![Dan Weber (VIII)](/assets/images/blog/2013-10-04-woodyfest-dan-weber/czahller-20130713-10-48-36.jpg)
-  ![Dan Weber (IX)](/assets/images/blog/2013-10-04-woodyfest-dan-weber/czahller-20130713-10-49-09.jpg)
-  ![Dan Weber (X)](/assets/images/blog/2013-10-04-woodyfest-dan-weber/czahller-20130713-10-52-15.jpg)
-  ![Dan Weber (XI)](/assets/images/blog/2013-10-04-woodyfest-dan-weber/czahller-20130713-10-53-01.jpg)
-  ![Dan Weber (XII)](/assets/images/blog/2013-10-04-woodyfest-dan-weber/czahller-20130713-10-53-45.jpg)
+  {% image "./src/assets/images/blog/2013-10-04-woodyfest-dan-weber/czahller-20130713-10-40-20.jpg", "", "Dan Weber", "Dan Weber (I)" %}
+
+  {% image "./src/assets/images/blog/2013-10-04-woodyfest-dan-weber/czahller-20130713-10-42-35.jpg", "", "Dan Weber", "Dan Weber (II)" %}
+
+  {% image "./src/assets/images/blog/2013-10-04-woodyfest-dan-weber/czahller-20130713-10-43-39.jpg", "", "Dan Weber", "Dan Weber (III)" %}
+
+  {% image "./src/assets/images/blog/2013-10-04-woodyfest-dan-weber/czahller-20130713-10-44-10.jpg", "", "Dan Weber", "Dan Weber (IV)" %}
+
+  {% image "./src/assets/images/blog/2013-10-04-woodyfest-dan-weber/czahller-20130713-10-45-36.jpg", "", "Dan Weber", "Dan Weber (V)" %}
+
+  {% image "./src/assets/images/blog/2013-10-04-woodyfest-dan-weber/czahller-20130713-10-46-54.jpg", "", "Dan Weber", "Dan Weber (VI)" %}
+
+  {% image "./src/assets/images/blog/2013-10-04-woodyfest-dan-weber/czahller-20130713-10-47-01.jpg", "", "Dan Weber", "Dan Weber (VII)" %}
+
+  {% image "./src/assets/images/blog/2013-10-04-woodyfest-dan-weber/czahller-20130713-10-48-36.jpg", "", "Dan Weber", "Dan Weber (VIII)" %}
+
+  {% image "./src/assets/images/blog/2013-10-04-woodyfest-dan-weber/czahller-20130713-10-49-09.jpg", "", "Dan Weber", "Dan Weber (IX)" %}
+
+  {% image "./src/assets/images/blog/2013-10-04-woodyfest-dan-weber/czahller-20130713-10-52-15.jpg", "", "Dan Weber", "Dan Weber (X)" %}
+
+  {% image "./src/assets/images/blog/2013-10-04-woodyfest-dan-weber/czahller-20130713-10-53-01.jpg", "", "Dan Weber", "Dan Weber (XI)" %}
+
+  {% image "featured", "", "Dan Weber leans way back while playing a guitar solo", "Dan Weber (XII)" %}
 </mpb-dialog-gallery>

@@ -27,9 +27,9 @@ excerpt: On 26 May, central Oklahoma felt an earthquake. The vibrations were fro
 Phonograph needles and silver needle tea</stack-l></hgroup>
 <!-- markdownlint-enable MD025 --><mpb-dialog-img>
 
-{% image "featured", "img-constrained", "Black and white image of Tyson Meade made from a negative that was damaged during post-development drying", "Damaged", "eager" %}</mpb-dialog-img>
+{% image "featured", "", "Black and white image of Tyson Meade made from a negative that was damaged during post-development drying", "Damaged", "eager" %}</mpb-dialog-img>
 
-On <time datetime="2018-05-26">26 May</time>, central Oklahoma felt an earthquake. The vibrations were from the needle dropping on Godfather of Alt-Rock[^1] <span class="h-card p-name">Tyson Meade</span>’s new long player, <cite>Robbing the Nuclear Family</cite>. The 55-year-old rocker played piano and sang the entire album[^2] to an attentive audience at historic music venue VZD’s Restaurant and Bar. Before Meade took the stage, singer <span class="h-card p-name">Joe Hopkins</span> screened his new music video, a cover of Meade’s [Chainsaw Kittens](https://geo.itunes.apple.com/us/album/loneliest-china-place/34009922?i=34009930&mt=1&app=music&at=10ldhk){target=_blank rel="external noopener"}&NoBreak;&hairsp;&NoBreak;&ndash;&NoBreak;&hairsp;&NoBreak;era <cite>The Loneliest China Place,</cite> featuring footage of Meade himself. Meade performed that same song, as well as other Kittens’ favorites, in between songs from the new album.{.drop-cap}
+On <time datetime="2018-05-26">26 May</time>, central Oklahoma felt an earthquake. The vibrations were from the needle dropping on Godfather of Alt-Rock[^1] <span class="h-card p-name">Tyson Meade</span>’s new long player, <cite>Robbing the Nuclear Family</cite>. The 55-year-old rocker played piano and sang the entire album[^2] to an attentive audience at historic music venue VZD’s Restaurant and Bar. Before Meade took the stage, singer <span class="h-card p-name">Joe Hopkins</span> screened his new music video, a cover of Meade’s [Chainsaw Kittens](https://geo.itunes.apple.com/us/album/loneliest-china-place/34009922?i=34009930&mt=1&app=music&at=10ldhk){target=_blank rel="external noopener"}&NoBreak;&hairsp;&NoBreak;&ndash;&NoBreak;&hairsp;&NoBreak;era <cite class="short-work">The Loneliest China Place</cite> featuring footage of Meade himself. Meade performed that same song, as well as other Kittens’ favorites, in between songs from the new album.{.drop-cap}
 
 [^1]: I’ve not been able to track down the first print reference to this coinage. <cite>Spin</cite> magazine, <cite>Out</cite> magazine, <cite>AV Club</cite>, <cite>Brooklyn Vegan</cite>, and the <cite>Converse Shoe Blog</cite> all seem to have started using the moniker sometime in <time datetime="2014">2014</time>.
 
@@ -54,19 +54,19 @@ Meade hosted the Bureau at his <time datetime="1915">1915</time>-built Oklahoma 
 
 <span class="spkr">Tyson Meade</span> Yes I do! It’s called <cite>[Robbing the Nuclear Family](https://www.jettplasticrecordings.com/collections/featured/products/tyson-meade-robbing-the-nuclear-family-lp){target=_blank rel="external noopener"}</cite>.
 
-<span class="spkr">MPB</span> I listened to it again on the drive up here. We both grew up in the shadow of the Cold War; the first three songs reference anxiety over the prospect of nuclear destruction in one way or another, but the album takes a sudden hopeful turn on the fourth track, <cite>Confused 22.</cite>
+<span class="spkr">MPB</span> I listened to it again on the drive up here. We both grew up in the shadow of the Cold War; the first three songs reference anxiety over the prospect of nuclear destruction in one way or another, but the album takes a sudden hopeful turn on the fourth track, <cite class="short-work">Confused 22.</cite>
 
-<span class="spkr">Meade</span> <cite>Confused 22</cite> is an extremely hopeful song coming from the viewpoint of [a young person whose] innocence and euphoria are catching; they’re infectious for the person who is older and jaded and trying to tell the young person, <q>Oh, you don’t know what you’re talking about,</q> but, at the end of the day, maybe <q>You *do* know what you’re talking about; really stick to your guns.</q> But then there’s the outro where I think the older person is frustrated, and the frustration may not be coming from the 22-year-old, but from the frustration of being the older person.
+<span class="spkr">Meade</span> <cite class="short-work">Confused 22</cite> is an extremely hopeful song coming from the viewpoint of [a young person whose] innocence and euphoria are catching; they’re infectious for the person who is older and jaded and trying to tell the young person, <q>Oh, you don’t know what you’re talking about,</q> but, at the end of the day, maybe <q>You *do* know what you’re talking about; really stick to your guns.</q> But then there’s the outro where I think the older person is frustrated, and the frustration may not be coming from the 22-year-old, but from the frustration of being the older person.
 
 <span class="spkr">MPB</span> There are a lot of percussion parts that remind me of drum and bugle corps&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;a lot of march time,[^3] and also a lot of raga-like bits, but filtered through <span class="h-card p-name">George Martin</span> and <span class="h-card p-name">George Harrison</span>.
 
 [^3]: Modern march time or march tempo is generally agreed to be about 120 beats per minute.
 
-<span class="spkr">Meade</span> I know it’s on the list of greatest albums of all time, and people want to shoot it down, but <cite>Sergeant Pepper’s [Lonely Hearts Club Band]</cite> is part of my DNA. The outro of <cite>Strawberry Fields</cite>&NoBreak;&hairsp;&NoBreak;&mdash;
+<span class="spkr">Meade</span> I know it’s on the list of greatest albums of all time, and people want to shoot it down, but <cite>Sergeant Pepper’s [Lonely Hearts Club Band]</cite> is part of my DNA. The outro of <cite class="short-work">Strawberry Fields [Forever]</cite>&NoBreak;&hairsp;&NoBreak;&mdash;
 
-<span class="spkr">MPB</span> <cite>Daphne Come Out</cite>![^4]
+<span class="spkr">MPB</span> <cite class="short-work">Daphne Come Out</cite>![^4]
 
-[^4]: The outro on <cite>Robbing the Nuclear Family</cite>’s eighth track is modeled on the outro from the Beatles song.
+[^4]: The eighth track on <cite>Robbing the Nuclear Family</cite>.
 
 <span class="spkr">Meade</span> Yes, exactly.
 
@@ -121,7 +121,7 @@ I started with a real loose soundscape on <cite class="short-work">Candycanes an
 
 I feel as if they want us uneducated so they can continue fracking, they can tear up the environment, they can dismantle the EPA, all of these important things. I also feel we need to end the marijuana prohibition. I never thought I’d be quoting [former Speaker of the House] <span class="h-card p-name">John Boehner</span>, but he said it’s a 70-billion dollar industry and we need to legalize it[^6], and that’s coming from a conservative.
 
-[^6]: <cite class="cite-person">John Boehner</citr>, [Twitter status](https://twitter.com/speakerboehner/status/984022770752290818){target=_blank rel="external noopener"} (<time datetime="2018-04-11T05:58:00-5:00">11 April 2018, 5:58 a.m. CDT</time>)
+[^6]: <cite class="cite-person">John Boehner</cite>, [Twitter status](https://twitter.com/speakerboehner/status/984022770752290818){target=_blank rel="external noopener"} (<time datetime="2018-04-11T05:58:00-5:00">11 April 2018, 5:58 a.m. CDT</time>)
 
 And healthcare&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;single-payer healthcare for all. Medicare has worked for fifty years for 65-year-olds and older; we should make that available for everyone. Through the taxation of marijuana, we would solve a lot of fiscal problems immediately,[^7] one of them being healthcare, the other one being education funding. Yet we refused money that was *ours* for Medicaid; we shouldn’t have done that; that was ridiculous.
 
@@ -153,41 +153,70 @@ All of the pictures except for the color portrait were shot on Kodak Tri-X with 
 
 <mpb-dialog-gallery hint rel cols="8">
   
-  ![Tea with Tyson](/assets/images/blog/2018-06-01-tyson-meade/czahller-20180601-11-49-51.jpg)
-  ![Tyson Meade (I)](/assets/images/blog/2018-06-01-tyson-meade/czahller-20180526-21-05-02.jpg)
-  ![Maybe 22?](/assets/images/blog/2018-06-01-tyson-meade/czahller-20180526-21-05-34.jpg)
-  ![Should Have Brought His Reading Glasses](/assets/images/blog/2018-06-01-tyson-meade/czahller-20180526-21-08-14.jpg)
-  ![Tyson Meade (II)](/assets/images/blog/2018-06-01-tyson-meade/czahller-20180526-21-12-47.jpg)
-  ![He Can Still Rock](/assets/images/blog/2018-06-01-tyson-meade/czahller-20180526-21-14-40.jpg)
-  ![A Pensive Moment](/assets/images/blog/2018-06-01-tyson-meade/czahller-20180526-21-19-56.jpg)
-  ![Tyson Meade (III)](/assets/images/blog/2018-06-01-tyson-meade/czahller-20180526-21-20-42.jpg)
-  ![It’s Not All Sad Bastard Music](/assets/images/blog/2018-06-01-tyson-meade/czahller-20180526-21-21-45.jpg)
-  ![Creepy Dolls (I)](/assets/images/blog/2018-06-01-tyson-meade/czahller-20180526-21-24-07.jpg)
-  ![Creepy Dolls (II)](/assets/images/blog/2018-06-01-tyson-meade/czahller-20180526-21-24-56.jpg)
-  ![Box o' Merch](/assets/images/blog/2018-06-01-tyson-meade/czahller-20180526-21-28-26.jpg)
-  ![It’s Just Bitters and Water, Folks](/assets/images/blog/2018-06-01-tyson-meade/czahller-20180526-21-29-59.jpg)
-  ![Audience](/assets/images/blog/2018-06-01-tyson-meade/czahller-20180526-21-32-16.jpg)
-  ![A Ballad](/assets/images/blog/2018-06-01-tyson-meade/czahller-20180526-22-17-05.jpg)
-  ![You’ll Never Get Me, Copper, See?](/assets/images/blog/2018-06-01-tyson-meade/czahller-20180526-22-21-15.jpg)
-  ![Yeah!](/assets/images/blog/2018-06-01-tyson-meade/czahller-20180526-22-24-39.jpg)
-  ![Creepy Dolls (III)](/assets/images/blog/2018-06-01-tyson-meade/czahller-20180526-22-28-54.jpg)
-  ![Creepy Dolls (IV)](/assets/images/blog/2018-06-01-tyson-meade/czahller-20180526-22-31-54.jpg)
-  ![Yawp!](/assets/images/blog/2018-06-01-tyson-meade/czahller-20180526-22-40-12.jpg)
-  ![A Serious Moment](/assets/images/blog/2018-06-01-tyson-meade/czahller-20180526-22-44-11.jpg)
-  ![Seen from Upstage](/assets/images/blog/2018-06-01-tyson-meade/czahller-20180526-22-46-18.jpg)
-  ![Tyson Meade (IV)](/assets/images/blog/2018-06-01-tyson-meade/czahller-20180526-23-01-51.jpg)
-  ![Creepy Dolls (V) — Robbing the Nuclear Family Album Release Show](/assets/images/blog/2018-06-01-tyson-meade/czahller-20180526-23-07-28.jpg)
-  ![Damaged](/assets/images/blog/2018-06-01-tyson-meade/czahller-20180526-23-14-45.jpg)
-  ![Singing About His Muse](/assets/images/blog/2018-06-01-tyson-meade/czahller-20180526-23-23-49.jpg)
-  ![Hands on Keys (I)](/assets/images/blog/2018-06-01-tyson-meade/czahller-20180526-23-28-20.jpg)
-  ![Hands on Keys (II)](/assets/images/blog/2018-06-01-tyson-meade/czahller-20180526-23-32-02.jpg)
-  ![He’s Running for Congress, Folks](/assets/images/blog/2018-06-01-tyson-meade/czahller-20180526-23-43-35.jpg)
-  ![Audience (II)](/assets/images/blog/2018-06-01-tyson-meade/czahller-20180526-23-47-24.jpg)
+  {% image "./src/assets/images/blog/2018-06-01-tyson-meade/czahller-20180601-11-49-51.jpg", "", "Tyson sitting in his garden, wearing a t-shirt with a reproduction of Andy Warhol’s Marilyn Monroe portrait on the front", "Tea with Tyson" %}
+
+  {% image "./src/assets/images/blog/2018-06-01-tyson-meade/czahller-20180526-21-05-02.jpg", "", "Grainy black and white image of Tyson Meade performing at VZD’s", "Tyson Meade (I)" %}
+
+  {% image "./src/assets/images/blog/2018-06-01-tyson-meade/czahller-20180526-21-05-34.jpg", "", "Grainy black and white image of Tyson Meade performing at VZD’s", "Maybe 22?" %}
+
+  {% image "./src/assets/images/blog/2018-06-01-tyson-meade/czahller-20180526-21-08-14.jpg", "", "Tyson struggles to read his lyrics, which are on a music stand too far away", "Should Have Brought His Reading Glasses" %}
+
+  {% image "./src/assets/images/blog/2018-06-01-tyson-meade/czahller-20180526-21-12-47.jpg", "", "Grainy black and white image of Tyson Meade performing at VZD’s", "Tyson Meade (II)" %}
+
+  {% image "./src/assets/images/blog/2018-06-01-tyson-meade/czahller-20180526-21-14-40.jpg", "", "Tyson singing emphatically", "He Can Still Rock" %}
+
+  {% image "./src/assets/images/blog/2018-06-01-tyson-meade/czahller-20180526-21-19-56.jpg", "", "Tyson’s face upturned, eyes wide open", "A Pensive Moment" %}
+
+  {% image "./src/assets/images/blog/2018-06-01-tyson-meade/czahller-20180526-21-20-42.jpg", "", "Grainy black and white image of Tyson Meade performing at VZD’s", "Tyson Meade (III)" %}
+
+  {% image "./src/assets/images/blog/2018-06-01-tyson-meade/czahller-20180526-21-21-45.jpg", "", "Grainy black and white image of Tyson Meade performing at VZD’s", "It’s Not All Sad Bastard Music" %}
+
+  {% image "./src/assets/images/blog/2018-06-01-tyson-meade/czahller-20180526-21-24-07.jpg", "", "Grainy black and white image of creepy dolls arranged on the stage", "Creepy Dolls (I)" %}
+
+  {% image "./src/assets/images/blog/2018-06-01-tyson-meade/czahller-20180526-21-24-56.jpg", "", "Grainy black and white image of creepy dolls arranged on the stage", "Creepy Dolls (II)" %}
+
+  {% image "./src/assets/images/blog/2018-06-01-tyson-meade/czahller-20180526-21-28-26.jpg", "", "Tyson holds a cardboard box to his chest", "Box o' Merch" %}
+
+  {% image "./src/assets/images/blog/2018-06-01-tyson-meade/czahller-20180526-21-29-59.jpg", "", "Two beverage glasses on a small table next to the keyboard", "It’s Just Bitters and Water, Folks" %}
+
+  {% image "./src/assets/images/blog/2018-06-01-tyson-meade/czahller-20180526-21-32-16.jpg", "", "Audience", "Audience" %}
+
+  {% image "./src/assets/images/blog/2018-06-01-tyson-meade/czahller-20180526-22-17-05.jpg", "", "Grainy black and white image of Tyson Meade performing at VZD’s", "A Ballad" %}
+
+  {% image "./src/assets/images/blog/2018-06-01-tyson-meade/czahller-20180526-22-21-15.jpg", "", "Tyson’s mouth is turned down in sort of sneer, making him resemble Edward G. Robinson", "You’ll Never Get Me, Copper, See?" %}
+
+  {% image "./src/assets/images/blog/2018-06-01-tyson-meade/czahller-20180526-22-24-39.jpg", "", "Tyson smiling as he sings. His eyes are bright and fierce.", "Yeah!" %}
+
+  {% image "./src/assets/images/blog/2018-06-01-tyson-meade/czahller-20180526-22-28-54.jpg", "", "Grainy black and white image of creepy dolls arranged on the stage", "Creepy Dolls (III)" %}
+
+  {% image "./src/assets/images/blog/2018-06-01-tyson-meade/czahller-20180526-22-31-54.jpg", "", "Grainy black and white image of creepy dolls arranged on the stage", "Creepy Dolls (IV)" %}
+
+  {% image "./src/assets/images/blog/2018-06-01-tyson-meade/czahller-20180526-22-40-12.jpg", "", "Tyson’s mouth wide open as he sings. His eyes are closed tightly in concentration.", "Yawp!" %}
+
+  {% image "./src/assets/images/blog/2018-06-01-tyson-meade/czahller-20180526-22-44-11.jpg", ".", "Grainy black and white image of Tyson Meade. He wears a somber expression.", "A Serious Moment" %}
+
+  {% image "./src/assets/images/blog/2018-06-01-tyson-meade/czahller-20180526-22-46-18.jpg", "", "Grainy black and white image of Tyson Meade performing at VZD’s, shot from upstage", "Seen from Upstage" %}
+
+  {% image "./src/assets/images/blog/2018-06-01-tyson-meade/czahller-20180526-23-01-51.jpg", "", "Grainy black and white image of Tyson Meade performing at VZD’s", "Tyson Meade (IV)" %}
+
+  {% image "./src/assets/images/blog/2018-06-01-tyson-meade/czahller-20180526-23-07-28.jpg", "", "Grainy black and white image of creepy dolls arranged on the stage", "Creepy Dolls (V)" %}
+
+  {% image "featured", "", "Black and white image of Tyson Meade made from a negative that was damaged during post-development drying", "Damaged" %}
+
+  {% image "./src/assets/images/blog/2018-06-01-tyson-meade/czahller-20180526-23-23-49.jpg", "", "Grainy black and white image of Tyson Meade performing at VZD’s", "Singing About His Muse" %}
+
+  {% image "./src/assets/images/blog/2018-06-01-tyson-meade/czahller-20180526-23-28-20.jpg", "", "Detail of Tyson’s hands on the keyboard", "Hands on Keys (I)" %}
+
+  {% image "./src/assets/images/blog/2018-06-01-tyson-meade/czahller-20180526-23-32-02.jpg", "", "Detail of Tyson’s hands on the keyboard", "Hands on Keys (II)" %}
+
+  {% image "./src/assets/images/blog/2018-06-01-tyson-meade/czahller-20180526-23-43-35.jpg", "", "Grainy black and white image of Tyson Meade performing at VZD’s", "He’s Running for Congress, Folks" %}
+
+  {% image "./src/assets/images/blog/2018-06-01-tyson-meade/czahller-20180526-23-47-24.jpg", "", "Audience", "Audience (II)" %}
 </mpb-dialog-gallery>
 
 ## Technical
 
-<dt>Camera
+Camera
 : Leica MP Classic
 
 Lenses
@@ -219,5 +248,3 @@ Scanner
 
 Software
 : Adobe Lightroom and NIK Silver Efex Pro
-
-The set lists were photographed with a Leica M9-P and the “nifty fifty,” a Zeiss C Sonnar T* 50mm ƒ/1.5 ZM lens.

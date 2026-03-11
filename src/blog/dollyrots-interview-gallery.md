@@ -13,7 +13,7 @@ tags:
 date: Last Modified
 pubdate: 2019-04-03T12:00:46+00:00
 image: /assets/images/blog/2019-04-03-dollyrots/czahller-20190322-23-23-24.jpg
-excerpt: "It’s been years since the Dollyrots played Oklahoma City. But fortune finally favored the city’s denizens."
+excerpt: "It’s been years since the Dollyrots played Oklahoma City. But fortune finally favored the city."
 ---
 <!-- markdownlint-disable MD025 -->
 <hgroup><stack-l>
@@ -22,14 +22,15 @@ excerpt: "It’s been years since the Dollyrots played Oklahoma City. But fortun
 
 Kelly Ogden talks about innuendo, motherhood, and spaghetti
 </stack-l></hgroup>
-
-<!-- markdownlint-enable MD025 --><mpb-dialog-img>
-
-{% image "featured", "img-constrained", "Luis on stage right leaning forward in a rock ’n’ roll guitar stance; Kelly on stage left", "Punk Rock!&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;The Dollyrots at the 89th St Collective", "eager" %}</mpb-dialog-img>
+<!-- markdownlint-enable MD025 -->
 
 ## Dire Dollyrots Drought Done
 
-It’s been years since the Dollyrots played Oklahoma City. But fortune finally favored the city’s denizens: <time datetime="2018-04-22">last April</time> the band opened for <span class="h-card p-org"><a href="https://geo.itunes.apple.com/us/artist/bowling-for-soup/1650849?mt=1&app=music&at=10ldhk" target="_blank" rel="external noopener">Bowling for Soup</a></span>, an act they’ve long been associated with, at the Tower Theatre. <time datetime="2019-03-22">Eleven months later to-the-day</time>, the Dollyrots headlined at the <span class="h-card p-org">89<sup>th</sup> Street Collective</span>. The last time they played that club it was still called <span class="h-card p-org">The Conservatory</span>.{.drop-cap}
+<mpb-dialog-img>
+
+{% image "featured", "", "Luis on stage right leaning forward in a rock ’n’ roll guitar stance; Kelly on stage left", "Punk Rock!", "eager" %}</mpb-dialog-img>
+
+It’s been years since the Dollyrots played Oklahoma City. But fortune finally favored the city: <time datetime="2018-04-22">Last April</time> the band opened for <span class="h-card p-org">[Bowling for Soup](https://geo.itunes.apple.com/us/artist/bowling-for-soup/1650849?mt=1&app=music&at=10ldhk){target=_blank rel="external noopener"}</span>, an act they’ve long been associated with, at the Tower Theatre. <time datetime="2019-03-22">Eleven months later to-the-day</time>, the Dollyrots headlined at the <span class="h-card p-org">89<sup>th</sup> Street Collective</span>. The last time they played that club it was still called <span class="h-card p-org">The Conservatory</span>.{.drop-cap}
 
 Formed in <time datetime="2000">2000</time>, the band comprises vocalist and guitarist <span class="h-card p-name">Luis Cabezas</span> and singer and bassist <span class="h-card p-name">Kelly Ogden</span>. The married couple are currently touring with their children, six-year-old <span class="h-card p-name p-firstname">River</span>[^1] and two-year-old <span class="h-card p-name p-firstname">Daisy</span>. On tour with them is drummer <span class="h-card p-name">Justin M<sup>c</sup>Grath</span>. You can see their upcoming dates <a href="https://www.dollyrots.com/tour" target="_blank" rel="external noopener">on their website</a>.
 
@@ -45,11 +46,7 @@ Three local bands preceded the Dollyrots: Shawnee-based “all-girl” indie roc
 
 [^3]: The Dollyrots announced the album title and previewed the artwork early on <time datetime="2019-05007T09:52:00-5:00">7 May</time> to their <span class="h-card p-org">Patreon</span> supporters. <time datetime="2019-05007T23:08:00-5:00">That evening</time> they announced publicly that the album would be called <cite>Daydream Explosion</cite>. The album hits the street <time datetime="2019-07-12">12 July 2019</time>.
 
-    <figure>
-
-      ![The Dollyrots — Daydream Explosion front cover art, featuring a brightly colored x-ray of a human skull and spine seen from the side](/assets/images/blog/2019-04-03-dollyrots/ddexp.jpg)
-      <figcaption>The Dollyrots&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;Daydream Explosion front cover art</figcaption>
-    </figure>
+{% image "./src/assets/images/blog/2019-04-03-dollyrots/ddexp.jpg", "The Dollyrots — Daydream Explosion front cover art, featuring a brightly colored x-ray of a human skull and spine seen from the side", "Daydream Explosion", "large" %}
 
 <span class="spkr">MPB</span> I understand you recorded the forthcoming album in Minnesota.
 
@@ -57,7 +54,7 @@ Three local bands preceded the Dollyrots: Shawnee-based “all-girl” indie roc
 
 <mpb-dialog-img>
 
-{% image "./src/assets/images/blog/2019-04-03-dollyrots/czahller-20190322-22-57-57.jpg", "img-constrained", "The Dollyrots (I)  —  The Dollyrots at the 89th St Collective", "The Dollyrots (I)&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;The Dollyrots at the 89<sup>th</sup> St Collective" %}</mpb-dialog-img>
+{% image "./src/assets/images/blog/2019-04-03-dollyrots/czahller-20190322-22-57-57.jpg", "", "The Dollyrots (I)", "The Dollyrots (I)", "large" %}</mpb-dialog-img>
 
 We booked the time at [<span class="h-card p-org">Pachyderm</span>](https://www.pachyderm-studios.com/){target=_blank rel="external noopener"}, which is outside Minneapolis. We went to the project studio with John&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;it’s called <span class="h-card p-org">Criterion</span>; it’s the old <span class="h-card p-org">Hüsker Dü</span> studio&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;in the middle of Minneapolis for the first few days, and then we went to Pachyderm. But we booked Pachyderm, I think it was [for] <time datetime="2019-01-23">January 23<sup>rd</sup></time>, and we still hadn’t written as of <time datetime="2018-12">the beginning of December</time>.
 
@@ -91,7 +88,7 @@ The timing&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;going to Mi
 
 <mpb-dialog-img>
 
-{% image "./src/assets/images/blog/2019-04-03-dollyrots/czahller-20190322-23-14-18.jpg", "img-constrained", "Little girls from the audience sitting on stage left while the band plays  —  The Dollyrots at the 89th St Collective", "Girls on Stage Left&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;The Dollyrots at the 89<sup>th</sup> St Collective" %}</mpb-dialog-img>
+{% image "./src/assets/images/blog/2019-04-03-dollyrots/czahller-20190322-23-14-18.jpg", "", "Little girls from the audience sitting on stage left while the band plays", "Girls on Stage Left", "large" %}</mpb-dialog-img>
 
 <span class="spkr">MPB</span> Luis mentioned a <span class="h-card p-org">Nirvana</span> connection to Pachyderm?
 
@@ -115,7 +112,7 @@ And so, it’s a house, with an indoor pool, but the thing is, the back wall, it
 
 <mpb-dialog-img>
 
-{% image "./src/assets/images/blog/2019-04-03-dollyrots/czahller-20190322-23-05-56.jpg", "img-constrained", "Kelly (Smiling)  —  The Dollyrots at the 89th St Collective", "Kelly (Smiling)&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;The Dollyrots at the 89<sup>th</sup> St Collective" %}</mpb-dialog-img>
+{% image "./src/assets/images/blog/2019-04-03-dollyrots/czahller-20190322-23-05-56.jpg", "", "Kelly (Smiling)", "Kelly (Smiling)", "large" %}</mpb-dialog-img>
 
 It was the other band’s song, and it’s&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;I play drums, and I scream. And Luis plays guitar. It was one of *those* songs, and I brought it to John, and the thing is, <span class="h-card p-name">Noah Levy</span>[^6]&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;so we had this song, it was kinda weird, it wasn’t quite finished yet&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;anyway, we had this song, half-baked, and John was like, <q>Listen: let’s make it a <span class="h-card p-org">Stray Cats</span> song, and let’s make Noah play it.</q> And we’re like, <q>We can’t do *that*! We can’t *do* that!</q> And he’s like, <q>Yes, you *can*. We’re doing it right now.</q> And so it morphed into this incredible, jazzy, kinda rockabilly song that&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;it *may* be my absolute favorite.
 
@@ -145,42 +142,77 @@ I reached out to The Dollyrots weeks before the show to let them know I’d be u
 
 <mpb-dialog-gallery hint rel cols="8">
   
-  ![Audience (I) — The Dollyrots at the 89th St Collective](/assets/images/blog/2019-04-03-dollyrots/czahller-20190322-22-50-33.jpg)
-  ![Audience (II) — The Dollyrots at the 89th St Collective](/assets/images/blog/2019-04-03-dollyrots/czahller-20190322-22-51-43.jpg)
-  ![The Dollyrots (I) — The Dollyrots at the 89th St Collective](/assets/images/blog/2019-04-03-dollyrots/czahller-20190322-22-57-57.jpg)
-  ![Justin McGrath & Kelly Ogden — The Dollyrots at the 89th St Collective](/assets/images/blog/2019-04-03-dollyrots/czahller-20190322-22-58-13.jpg)
-  ![Luis Cabezas & Justin McGrath — The Dollyrots at the 89th St Collective](/assets/images/blog/2019-04-03-dollyrots/czahller-20190322-22-59-14.jpg)
-  ![From Stage Right — The Dollyrots at the 89th St Collective](/assets/images/blog/2019-04-03-dollyrots/czahller-20190322-23-00-46.jpg)
-  ![From Upstage Left — The Dollyrots at the 89th St Collective](/assets/images/blog/2019-04-03-dollyrots/czahller-20190322-23-02-51.jpg)
-  ![From Stage Right with Audience — The Dollyrots at the 89th St Collective](/assets/images/blog/2019-04-03-dollyrots/czahller-20190322-23-03-18.jpg)
-  ![Luis Cabezas — The Dollyrots at the 89th St Collective](/assets/images/blog/2019-04-03-dollyrots/czahller-20190322-23-04-42.jpg)
-  ![Kelly (Smiling) — The Dollyrots at the 89th St Collective](/assets/images/blog/2019-04-03-dollyrots/czahller-20190322-23-05-56.jpg)
-  ![Kelly Ogden — The Dollyrots at the 89th St Collective](/assets/images/blog/2019-04-03-dollyrots/czahller-20190322-23-06-50.jpg)
-  ![Kelly (I) — The Dollyrots at the 89th St Collective](/assets/images/blog/2019-04-03-dollyrots/czahller-20190322-23-07-07.jpg)
-  ![Luis (I) — The Dollyrots at the 89th St Collective](/assets/images/blog/2019-04-03-dollyrots/czahller-20190322-23-07-51.jpg)
-  ![Kelly (II) — The Dollyrots at the 89th St Collective](/assets/images/blog/2019-04-03-dollyrots/czahller-20190322-23-07-59.jpg)
-  ![Luis (II) — The Dollyrots at the 89th St Collective](/assets/images/blog/2019-04-03-dollyrots/czahller-20190322-23-08-30.jpg)
-  ![Justin McGrath — The Dollyrots at the 89th St Collective](/assets/images/blog/2019-04-03-dollyrots/czahller-20190322-23-09-08.jpg)
-  ![Set List on Stage Floor — The Dollyrots at the 89th St Collective](/assets/images/blog/2019-04-03-dollyrots/czahller-20190322-23-09-13.jpg)
-  ![Girl in Audience — The Dollyrots at the 89th St Collective](/assets/images/blog/2019-04-03-dollyrots/czahller-20190322-23-09-25.jpg)
-  ![Kelly (III) — The Dollyrots at the 89th St Collective](/assets/images/blog/2019-04-03-dollyrots/czahller-20190322-23-10-07.jpg)
-  ![Luis (III) — The Dollyrots at the 89th St Collective](/assets/images/blog/2019-04-03-dollyrots/czahller-20190322-23-10-18.jpg)
-  ![Luis (Smiling) — The Dollyrots at the 89th St Collective](/assets/images/blog/2019-04-03-dollyrots/czahller-20190322-23-10-28.jpg)
-  ![City of Angels (I) — The Dollyrots at the 89th St Collective](/assets/images/blog/2019-04-03-dollyrots/czahller-20190322-23-13-15.jpg)
-  ![City of Angels (II) — The Dollyrots at the 89th St Collective](/assets/images/blog/2019-04-03-dollyrots/czahller-20190322-23-13-20.jpg)
-  ![From Stage Right with Audience — The Dollyrots at the 89th St Collective](/assets/images/blog/2019-04-03-dollyrots/czahller-20190322-23-13-30.jpg)
-  ![Girl on Stage Left — The Dollyrots at the 89th St Collective](/assets/images/blog/2019-04-03-dollyrots/czahller-20190322-23-13-57.jpg)
-  ![Girls on Stage Left — The Dollyrots at the 89th St Collective](/assets/images/blog/2019-04-03-dollyrots/czahller-20190322-23-14-18.jpg)
-  ![Leopard Skin, Spandex®, & Doc Martins — The Dollyrots at the 89th St Collective](/assets/images/blog/2019-04-03-dollyrots/czahller-20190322-23-14-24.jpg)
-  ![Kelly talking to Kids on Stage — The Dollyrots at the 89th St Collective](/assets/images/blog/2019-04-03-dollyrots/czahller-20190322-23-14-34.jpg)
-  ![Audience (III) — The Dollyrots at the 89th St Collective](/assets/images/blog/2019-04-03-dollyrots/czahller-20190322-23-14-44.jpg)
-  ![Kelly talking to Audience — The Dollyrots at the 89th St Collective](/assets/images/blog/2019-04-03-dollyrots/czahller-20190322-23-17-06.jpg)
-  ![The Dollyrots (II) — The Dollyrots at the 89th St Collective](/assets/images/blog/2019-04-03-dollyrots/czahller-20190322-23-19-14.jpg)
-  ![The Dollyrots (III) — The Dollyrots at the 89th St Collective](/assets/images/blog/2019-04-03-dollyrots/czahller-20190322-23-19-20.jpg)
-  ![Luis Jumps — The Dollyrots at the 89th St Collective](/assets/images/blog/2019-04-03-dollyrots/czahller-20190322-23-20-59.jpg)
-  ![Guitar Moves — The Dollyrots at the 89th St Collective](/assets/images/blog/2019-04-03-dollyrots/czahller-20190322-23-22-27.jpg)
-  ![Punk Rock! — The Dollyrots at the 89th St Collective](/assets/images/blog/2019-04-03-dollyrots/czahller-20190322-23-23-24.jpg)
-  ![Because We’re Awesome! — The Dollyrots at the 89th St Collective](/assets/images/blog/2019-04-03-dollyrots/czahller-20190322-23-25-05.jpg)
+  {% image "./src/assets/images/blog/2019-04-03-dollyrots/czahller-20190322-22-50-33.jpg", "", "Audience (I)", "Audience (I)" %}
+
+  {% image "./src/assets/images/blog/2019-04-03-dollyrots/czahller-20190322-22-51-43.jpg", "", "Audience (II)", "Audience (II)" %}
+
+  {% image "./src/assets/images/blog/2019-04-03-dollyrots/czahller-20190322-22-57-57.jpg", "", "The Dollyrots (I)", "The Dollyrots (I)" %}
+
+  {% image "./src/assets/images/blog/2019-04-03-dollyrots/czahller-20190322-22-58-13.jpg", "", "Justin McGrath & Kelly Ogden", "Justin McGrath & Kelly Ogden" %}
+
+  {% image "./src/assets/images/blog/2019-04-03-dollyrots/czahller-20190322-22-59-14.jpg", "", "Luis Cabezas & Justin McGrath", "Luis Cabezas & Justin McGrath" %}
+
+  {% image "./src/assets/images/blog/2019-04-03-dollyrots/czahller-20190322-23-00-46.jpg", "", "Dollyrots seen from stage right", "From Stage Right" %}
+
+  {% image "./src/assets/images/blog/2019-04-03-dollyrots/czahller-20190322-23-02-51.jpg", "", "Dollyrots seen from Upstage Left", "From Upstage Left" %}
+
+  {% image "./src/assets/images/blog/2019-04-03-dollyrots/czahller-20190322-23-03-18.jpg", "", "Dollyrots seen from stage right; audience visible in front of stage", "From Stage Right with Audience" %}
+
+  {% image "./src/assets/images/blog/2019-04-03-dollyrots/czahller-20190322-23-04-42.jpg", "", "Luis Cabezas", "Luis Cabezas" %}
+
+  {% image "./src/assets/images/blog/2019-04-03-dollyrots/czahller-20190322-23-05-56.jpg", "", "Kelly (Smiling)", "Kelly (Smiling)" %}
+
+  {% image "./src/assets/images/blog/2019-04-03-dollyrots/czahller-20190322-23-06-50.jpg", "", "Kelly Ogden", "Kelly Ogden" %}
+
+  {% image "./src/assets/images/blog/2019-04-03-dollyrots/czahller-20190322-23-07-07.jpg", "", "Kelly (I)", "Kelly (I)" %}
+
+  {% image "./src/assets/images/blog/2019-04-03-dollyrots/czahller-20190322-23-07-51.jpg", "", "Luis (I)", "Luis (I)" %}
+
+  {% image "./src/assets/images/blog/2019-04-03-dollyrots/czahller-20190322-23-07-59.jpg", "", "Kelly (II)", "Kelly (II)" %}
+
+  {% image "./src/assets/images/blog/2019-04-03-dollyrots/czahller-20190322-23-08-30.jpg", "", "Luis (II)", "Luis (II)" %}
+
+  {% image "./src/assets/images/blog/2019-04-03-dollyrots/czahller-20190322-23-09-08.jpg", "", "Justin McGrath", "Justin McGrath" %}
+
+  {% image "./src/assets/images/blog/2019-04-03-dollyrots/czahller-20190322-23-09-13.jpg", "", "Set List on Stage Floor", "Set List on Stage Floor" %}
+
+  {% image "./src/assets/images/blog/2019-04-03-dollyrots/czahller-20190322-23-09-25.jpg", "", "Young girl in audience with her mother", "Girl in Audience" %}
+
+  {% image "./src/assets/images/blog/2019-04-03-dollyrots/czahller-20190322-23-10-07.jpg", "", "Kelly (III)", "Kelly (III)" %}
+
+  {% image "./src/assets/images/blog/2019-04-03-dollyrots/czahller-20190322-23-10-18.jpg", "", "Luis (III)", "Luis (III)" %}
+
+  {% image "./src/assets/images/blog/2019-04-03-dollyrots/czahller-20190322-23-10-28.jpg", "", "Luis (Smiling)", "Luis (Smiling)" %}
+
+  {% image "./src/assets/images/blog/2019-04-03-dollyrots/czahller-20190322-23-13-15.jpg", "", "Dollyrots performing “City of Angels”", "City of Angels (I)" %}
+
+  {% image "./src/assets/images/blog/2019-04-03-dollyrots/czahller-20190322-23-13-20.jpg", "", "Dollyrots performing “City of Angels”", "City of Angels (II)" %}
+
+  {% image "./src/assets/images/blog/2019-04-03-dollyrots/czahller-20190322-23-13-30.jpg", "", "Dollyrots seen from stage right; audience visible in front of stage", "From Stage Right with Audience" %}
+
+  {% image "./src/assets/images/blog/2019-04-03-dollyrots/czahller-20190322-23-13-57.jpg", "", "Girl on Stage Left", "Girl on Stage Left" %}
+
+  {% image "./src/assets/images/blog/2019-04-03-dollyrots/czahller-20190322-23-14-18.jpg", "", "Group of girls sit on the stage behind and to the right of the band", "Girls on Stage Left" %}
+
+  {% image "./src/assets/images/blog/2019-04-03-dollyrots/czahller-20190322-23-14-24.jpg", "", "Kelly wearing leopard skin print Spandex® tights, & Doc Martins boots", "Leopard Skin, Spandex®, & Doc Martins" %}
+
+  {% image "./src/assets/images/blog/2019-04-03-dollyrots/czahller-20190322-23-14-34.jpg", "", "Kelly talking to Kids on Stage", "Kelly talking to Kids on Stage" %}
+
+  {% image "./src/assets/images/blog/2019-04-03-dollyrots/czahller-20190322-23-14-44.jpg", "", "Audience (III)", "Audience (III)" %}
+
+  {% image "./src/assets/images/blog/2019-04-03-dollyrots/czahller-20190322-23-17-06.jpg", "", "Kelly talking to Audience", "Kelly talking to Audience" %}
+
+  {% image "./src/assets/images/blog/2019-04-03-dollyrots/czahller-20190322-23-19-14.jpg", "", "The Dollyrots (II)", "The Dollyrots (II)" %}
+
+  {% image "./src/assets/images/blog/2019-04-03-dollyrots/czahller-20190322-23-19-20.jpg", "", "The Dollyrots (III)", "The Dollyrots (III)" %}
+
+  {% image "./src/assets/images/blog/2019-04-03-dollyrots/czahller-20190322-23-20-59.jpg", "", "Luis caught mid-jump, about two inches above the stage floor", "Luis Jumps" %}
+
+  {% image "./src/assets/images/blog/2019-04-03-dollyrots/czahller-20190322-23-22-27.jpg", "", "Luis holds the guitar vertically and raises it high while shredding", "Guitar Moves" %}
+
+  {% image "featured", "", "Luis on stage right leaning forward in a rock ’n’ roll guitar stance; Kelly on stage left", "Punk Rock!" %}
+
+  {% image "./src/assets/images/blog/2019-04-03-dollyrots/czahller-20190322-23-25-05.jpg", "", "The band play their final number", "Because We’re Awesome!" %}
 </mpb-dialog-gallery>
 
 ## Technical
@@ -229,7 +261,7 @@ Software
 
 <mpb-dialog-img>
 
-{% image "./src/assets/images/blog/2019-04-03-dollyrots/czahller-20190322-23-39-19.jpg", "img-constrained", "Dollyrots Set List — Dollyrots at the 89th St Collective", "Dollyrots Set List&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;Dollyrots at the 89th St Collective&nbsp;<a href=\"#mnref1\" class=\"govuk-link\"><span class=\"sr-only\">Back to content </span>↩︎</a>" %}</mpb-dialog-img>
+{% image "./src/assets/images/blog/2019-04-03-dollyrots/czahller-20190322-23-39-19.jpg", "", "Dollyrots Set List", "Dollyrots Set List&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;Dollyrots at the 89th St Collective&nbsp;<a href=\"#mnref1\" class=\"govuk-link\"><span class=\"sr-only\">Back to content </span>↩︎</a>" %}</mpb-dialog-img>
     </li>
   </ul>
 </footer>

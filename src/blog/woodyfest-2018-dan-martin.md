@@ -25,10 +25,10 @@ excerpt: You know how sometimes you see a movie, and time passes, and you’re c
 
 # {{ title }}
 
-<p>I was a Dan Martin Fan and I didn’t know it</p></stack-l></hgroup>
+<p>I was a Dan Martin fan and I didn’t know it</p></stack-l></hgroup>
 <!-- markdownlint-enable MD025 --><mpb-dialog-img>
 
-{% image "featured", "img-constrained", "Dan (III) — 21st Annual Woody Guthrie Festival, 2018", "Dan (III)&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;21st Annual Woody Guthrie Festival, 2018", "eager" %}</mpb-dialog-img>
+{% image "featured", "", "Dan Martin on the Rocky Road Tavern outdoor stage", "Dan (III)", "eager" %}</mpb-dialog-img>
 
 You know how sometimes you see a movie, and time passes, and you’re convinced that a favorite actor appeared in it, only to learn it was someone else entirely? Well, something like that happened to this writer as regards Tulsa singer-songwriter <span class="h-card p-name">Dan Martin</span>.{.drop-cap}
 
@@ -43,7 +43,7 @@ I had created a SoundCloud playlist featuring Oklahoma musicians to stream on my
   </stack-l>
 </figure>
 
-At some point I forgot the song’s provenance and was convinced that it was a <span class="h-card p-name">Ryan Adams</span>-penned song from his band’s self-titled <cite>Whiskeytown</cite> album. I persisted in this error even after Martin sat for my [OKIE-X portrait series](/okie-x) <time datetime="2017-01-26T15:15:14-6:00">last year</time>. So when I heard Martin performing it as part of his Woodyfest set on <time datetime="2018-07-13T11:00:00-5:00">Friday morning</time>, I assumed he was performing a cover&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;a cover I was mighty glad to hear, mind you. I realized my mistake when I began the research for this article.
+At some point I forgot the song’s provenance and was convinced that it was a <span class="h-card p-name">Ryan Adams</span>&ndash;penned song from his band’s self-titled <cite>Whiskeytown</cite> album. I persisted in this error even after Martin sat for my [OKIE-X portrait series](/okie-x) <time datetime="2017-01-26T15:15:14-6:00">last year</time>. So when I heard Martin performing it as part of his Woodyfest set on <time datetime="2018-07-13T11:00:00-5:00">Friday morning</time>, I assumed he was performing a cover&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;a cover I was mighty glad to hear, mind you. I realized my mistake when I began the research for this article.
 
 <blockquote>
 
@@ -63,19 +63,28 @@ Martin was joined on the Lou’s Rocky Road Tavern stage by <span class="h-card 
 <mpb-callout type="note" title="Update">
 
   Since we published this article Martin has released his eponymous second album <cite>[Dan Martin](https://hortonrecords.bandcamp.com/album/dan-martin){target=_blank rel="external noopener"}</cite> on Tulsa’s Horton Records.
+
 </mpb-callout>
 
 ## Gallery: Dan Martin
 
 <mpb-dialog-gallery hint rel cols="8">
   
-  ![Gene Williams & Dan Martin — 21st Annual Woody Guthrie Festival, 2018](/assets/images/blog/2018-11-23-woodyfest-dan-martin/czahller-20180713-10-56-29.jpg)
-  ![Gene Williams — 21st Annual Woody Guthrie Festival, 2018](/assets/images/blog/2018-11-23-woodyfest-dan-martin/czahller-20180713-10-59-12.jpg)
-  ![Gene — 21st Annual Woody Guthrie Festival, 2018](/assets/images/blog/2018-11-23-woodyfest-dan-martin/czahller-20180713-10-59-24.jpg)
-  ![Dan Martin — 21st Annual Woody Guthrie Festival, 2018](/assets/images/blog/2018-11-23-woodyfest-dan-martin/czahller-20180713-11-00-15.jpg)
-  ![Dan (I) — 21st Annual Woody Guthrie Festival, 2018](/assets/images/blog/2018-11-23-woodyfest-dan-martin/czahller-20180713-11-00-26.jpg)
-  ![Gene & Dan — 21st Annual Woody Guthrie Festival, 2018](/assets/images/blog/2018-11-23-woodyfest-dan-martin/czahller-20180713-11-00-46.jpg)
-  ![Dan (II) — 21st Annual Woody Guthrie Festival, 2018](/assets/images/blog/2018-11-23-woodyfest-dan-martin/czahller-20180713-11-02-42.jpg)
-  ![Gene & Dan with Audience — 21st Annual Woody Guthrie Festival, 2018](/assets/images/blog/2018-11-23-woodyfest-dan-martin/czahller-20180713-11-02-57.jpg)
-  ![Dan (III) — 21st Annual Woody Guthrie Festival, 2018](/assets/images/blog/2018-11-23-woodyfest-dan-martin/czahller-20180713-11-18-00.jpg)
+  {% image "./src/assets/images/blog/2018-11-23-woodyfest-dan-martin/czahller-20180713-10-56-29.jpg", "", "Gene Williams & Dan Martin on the Rocky Road Tavern outdoor stage", "Gene Williams & Dan Martin" %}
+
+  {% image "./src/assets/images/blog/2018-11-23-woodyfest-dan-martin/czahller-20180713-10-59-12.jpg", "", "Gene Williams", "Gene Williams" %}
+
+  {% image "./src/assets/images/blog/2018-11-23-woodyfest-dan-martin/czahller-20180713-10-59-24.jpg", "", "Gene Williams", "Gene" %}
+
+  {% image "./src/assets/images/blog/2018-11-23-woodyfest-dan-martin/czahller-20180713-11-00-15.jpg", "", "Dan Martin", "Dan Martin" %}
+
+  {% image "./src/assets/images/blog/2018-11-23-woodyfest-dan-martin/czahller-20180713-11-00-26.jpg", "", "Dan Martin", "Dan (I)" %}
+
+  {% image "./src/assets/images/blog/2018-11-23-woodyfest-dan-martin/czahller-20180713-11-00-46.jpg", "", "Gene Williams & Dan Martin", "Gene & Dan" %}
+
+  {% image "./src/assets/images/blog/2018-11-23-woodyfest-dan-martin/czahller-20180713-11-02-42.jpg", "", "Dan Martin", "Dan (II)" %}
+
+  {% image "./src/assets/images/blog/2018-11-23-woodyfest-dan-martin/czahller-20180713-11-02-57.jpg", "", "Gene Williams & Dan Martin seen from the back of the beer garden, with audience visible at the picnic tables", "Gene & Dan with Audience" %}
+
+  {% image "featured", "", "Dan Martin on the Rocky Road Tavern outdoor stage", "Dan (III)" %}
 </mpb-dialog-gallery>

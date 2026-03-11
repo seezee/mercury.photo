@@ -21,7 +21,7 @@ excerpt: Local garage-rockers Shi++ty/Awesome formed on a whim in 2009, when Gue
 
 <!-- markdownlint-enable MD025 --><mpb-dialog-img>
 
-{% image "featured", "img-constrained", "Will Muir on New Year’s Eve at OPOLIS, wearing a dark dinner jacket, white shirt, and dark tie. He is screaming into the microphone. He has a tambourine around his neck.", "Will (II)", "eager" %}</mpb-dialog-img>
+{% image "featured", "", "Will Muir on New Year’s Eve at OPOLIS, wearing a dark dinner jacket, white shirt, and dark tie. He is screaming into the microphone. He has a tambourine around his neck.", "Will (II)", "eager" %}</mpb-dialog-img>
 
 <blockquote>
 
@@ -46,7 +46,7 @@ Shi++ty/Awesome dropped by the bureau for drinks and conversation <time datetime
 
 <mpb-dialog-img>
 
-{% image "./src/assets/images/blog/2013-08-14-shitty-awesome/czahller-20121231-22-42-38.jpg", "img-constrained", "Travis Searle plays drums on New Year’s Eve. He wears a dark tank-top a white sweatband, the latter on his head.", "Travis (V)" %}</mpb-dialog-img>
+{% image "./src/assets/images/blog/2013-08-14-shitty-awesome/czahller-20121231-22-42-38.jpg", "", "Travis Searle plays drums on New Year’s Eve. He wears a dark tank-top a white sweatband, the latter on his head.", "Travis (V)", "large" %}</mpb-dialog-img>
 
 <span class="spkr">Will Muir</span> Will Muir, and I play guitar and sing in Shi++ty/Awesome, and, I guess, musically, I’ve done a few tribute bands. I did a [<span class="h-card p-org">Smiths</span>](https://music.apple.com/us/artist/the-smiths/id829538?uo=4&at=10ldhk){target=_blank rel="external noopener"} tribute band, and Derek and I did a <a href="" target="itunes_store">[<span class="h-card p-org">New Order</span>](https://music.apple.com/us/artist/new-order/id176722?uo=4&at=10ldhk){target=_blank rel="external noopener"} tribute band together. I’ve lived in Norman for half my life, and that’s longer than I’ve lived anywhere. I moved here my *second* freshman year of college.
 
@@ -76,7 +76,7 @@ Shi++ty/Awesome dropped by the bureau for drinks and conversation <time datetime
 
 <mpb-dialog-img>
 
-{% image "./src/assets/images/blog/2013-08-14-shitty-awesome/czahller-20121231-22-25-00.jpg", "img-constrained", "Will Muir plays tambourine at OPOLIS, New Year’s Eve. Will wears a dinner jacket with a notched lapel, white shirt, and dark straight tie.", "Will (III) (Tambourine)" %}</mpb-dialog-img>
+{% image "./src/assets/images/blog/2013-08-14-shitty-awesome/czahller-20121231-22-25-00.jpg", "", "Will Muir plays tambourine at OPOLIS, New Year’s Eve. Will wears a dinner jacket with a notched lapel, white shirt, and dark straight tie.", "Will (III) (Tambourine)", "large" %}</mpb-dialog-img>
 
 <span class="spkr">MPB</span> Do you have any regrets over the name’s scatological character? Has it ever caused you problems with promoters or news media?
 
@@ -108,7 +108,7 @@ Shi++ty/Awesome dropped by the bureau for drinks and conversation <time datetime
 
 <mpb-dialog-img>
 
-{% image "./src/assets/images/blog/2013-08-14-shitty-awesome/czahller-20121231-22-25-13.jpg", "img-constrained", "Derek Lemke plays guitar at OPOLIS, New Year’s Eve", "Derek (II)" %}</mpb-dialog-img>
+{% image "./src/assets/images/blog/2013-08-14-shitty-awesome/czahller-20121231-22-25-13.jpg", "", "Derek Lemke plays guitar at OPOLIS, New Year’s Eve", "Derek (II)", "large" %}</mpb-dialog-img>
 
 I can’t think of any specific&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;I saw some band that called themselves the Beach Boys at Frontier City in <time datetime="1990">1990</time>, but if it had any members of the original Beach Boys, I couldn’t tell. I think <span class="h-card p-name">Mike Love</span> might have been in the band. I remember some band that called themselves the <span class="h-card p-org">Monkees</span>, and didn’t have <span class="h-card p-name">Davy Jones</span>, and I was like, <q>Okay …</q>
 
@@ -134,7 +134,7 @@ I used to listen to&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;my
 
 <mpb-dialog-img>
 
-{% image "./src/assets/images/blog/2013-08-14-shitty-awesome/czahller-20121231-22-23-31.jpg", "img-constrained", "Joey Powell sings into the microphone, New Year’s Eve at OPOLIS. He wears a full beard & sunglasses, a dark suit with a crisp white shirt, and a black tie with a vertical crimson stripe.", "Joey (I)" %}</mpb-dialog-img>
+{% image "./src/assets/images/blog/2013-08-14-shitty-awesome/czahller-20121231-22-23-31.jpg", "", "Joey Powell sings into the microphone, New Year’s Eve at OPOLIS. He wears a full beard & sunglasses, a dark suit with a crisp white shirt, and a black tie with a vertical crimson stripe.", "Joey (I)", "large" %}</mpb-dialog-img>
 
 <span class="spkr">Searle</span> I remember talking to [Tyvek frontman] <span class="h-card p-name">Kevin Boyer</span> at a show in Lawrence, Kansas, and confessing drunkenly that *we* had started a band that was […] a direct rip-off of Tyvek, and he was really happy about that, and then [he] blushed and said, <q>That’s funny, because our band was supposed to be a direct ripoff of the [<span class="h-card p-org">Motards</span>](https://music.apple.com/us/album/yo-love-mexico/id595928928?i=595929030&uo=4&at=10ldh){target=_blank rel="external noopener"}.</q>&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;er, not the Motards; the <span class="h-card p-org">Mummies</span>!
 
@@ -168,7 +168,7 @@ I used to listen to&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;my
 
 <mpb-dialog-img>
 
-{% image "./src/assets/images/blog/2013-08-14-shitty-awesome/czahller-20130812-19-53-38.jpg", "img-constrained", "Derek, Travis, & Will sit on the Bureau sofa during the interview. Travis is speaking while the others look at him.", "Shi++y/Awesome (II)&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;The Mercury Photo Bureau Interview" %}</mpb-dialog-img>
+{% image "./src/assets/images/blog/2013-08-14-shitty-awesome/czahller-20130812-19-53-38.jpg", "", "Derek, Travis, & Will sit on the Bureau sofa during the interview. Travis is speaking while the others look at him.", "Shi++y/Awesome (II)&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;The Mercury Photo Bureau Interview", "large" %}</mpb-dialog-img>
 
 <span class="spkr">MPB</span> Except for Travis, I think you all have previous or concurrent musical projects. Could you tell me about that, including Joey, since he’s not here?
 
@@ -256,7 +256,7 @@ The last record I listened to on my turntable was yesterday, and it was a Folkwa
 
 <span class="spkr">Muir</span> [That] was amazing. [Also]; I really liked playing with [<span class="h-card p-org">Bleached</span>](https://music.apple.com/us/artist/bleached/id479947369?uo=4&at=10ldhk){target=_blank rel="external noopener"}.
 
-<span class="spkr">Searle</span> The house show that we played at SXSW and there were only ten people in the audience, and it was <span class="h-card p-name">[<span class="p-nickname">Black Joe Lewis</span></span>](https://music.apple.com/us/artist/black-joe-lewis/id264480554?uo=4&at=10ldhk){target=_blank rel="external noopener"} and his band.
+<span class="spkr">Searle</span> The house show that we played at SXSW and there were only ten people in the audience, and it was <span class="h-card p-name">[<span class="p-nickname">Black Joe Lewis</span>](https://music.apple.com/us/artist/black-joe-lewis/id264480554?uo=4&at=10ldhk){target=_blank rel="external noopener"}</span> and his band.
 
 <span class="spkr">Muir</span> I looked up, and Black Joe Lewis was there! ’cause I kind of zone-out when I’m playing. [*laughter*] And then I looked and fuckin’ Black Joe Lewis is groovin’ out to&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;and like, for the whole thing; he only left when we had, like, two songs left; he had to go get ready [for his set]. But he totally fuckin’ rocked-out to our band! That was cool as shit.
 
@@ -264,52 +264,86 @@ The last record I listened to on my turntable was yesterday, and it was a Folkwa
 
 <mpb-dialog-img>
 
-{% image "./src/assets/images/blog/2013-08-14-shitty-awesome/czahller-20130812-19-53-10.jpg", "img-constrained", "Derek Lemke, Travis Searle, & Will Muir seated on the Mercury Photo Bureau sofa. They are embracing and laughing.", "Shi++y/Awesome (I)&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;The Mercury Photo Bureau Interview" %}</mpb-dialog-img>
+{% image "./src/assets/images/blog/2013-08-14-shitty-awesome/czahller-20130812-19-53-10.jpg", "", "Derek Lemke, Travis Searle, & Will Muir seated on the Mercury Photo Bureau sofa. They are embracing and laughing.", "Shi++y/Awesome (I)&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;The Mercury Photo Bureau Interview", "large" %}</mpb-dialog-img>
 
 ## Gallery: Shi++y/Awesome at OPOLIS, New Year’s Eve
 
 <mpb-dialog-gallery hint rel cols="8">
   
-  ![Derek (I)](/assets/images/blog/2013-08-14-shitty-awesome/czahller-20121231-22-22-56.jpg)
-  ![Will (I)](/assets/images/blog/2013-08-14-shitty-awesome/czahller-20121231-22-23-08.jpg)
-  ![Joey (I)](/assets/images/blog/2013-08-14-shitty-awesome/czahller-20121231-22-23-31.jpg)
-  ![Will (II)](/assets/images/blog/2013-08-14-shitty-awesome/czahller-20121231-22-23-45.jpg)
-  ![Travis (I)](/assets/images/blog/2013-08-14-shitty-awesome/czahller-20121231-22-23-45.jpg)
-  ![Joey (II)](/assets/images/blog/2013-08-14-shitty-awesome/czahller-20121231-22-24-05.jpg)
-  ![Will (III) (Tambourine)](/assets/images/blog/2013-08-14-shitty-awesome/czahller-20121231-22-24-34.jpg)
-  ![Derek (II)](/assets/images/blog/2013-08-14-shitty-awesome/czahller-20121231-22-25-00.jpg)
-  ![Travis (II)](/assets/images/blog/2013-08-14-shitty-awesome/czahller-20121231-22-25-13.jpg)
-  ![Derek, Will, & Joey](/assets/images/blog/2013-08-14-shitty-awesome/czahller-20121231-22-25-23.jpg)
-  ![Joey, Will, & Derek (I)](/assets/images/blog/2013-08-14-shitty-awesome/czahller-20121231-22-25-38.jpg)
-  ![Loosening the Tie](/assets/images/blog/2013-08-14-shitty-awesome/czahller-20121231-22-25-55.jpg)
-  ![Audience (I)](/assets/images/blog/2013-08-14-shitty-awesome/czahller-20121231-22-26-19.jpg)
-  ![Travis (III)](/assets/images/blog/2013-08-14-shitty-awesome/czahller-20121231-22-27-25.jpg)
-  ![Crêpe Paper Streamer](/assets/images/blog/2013-08-14-shitty-awesome/czahller-20121231-22-27-58.jpg)
-  ![Joey & Will (I)](/assets/images/blog/2013-08-14-shitty-awesome/czahller-20121231-22-28-12.jpg)
-  ![Joey (III)](/assets/images/blog/2013-08-14-shitty-awesome/czahller-20121231-22-29-29.jpg)
-  ![Audience (II)](/assets/images/blog/2013-08-14-shitty-awesome/czahller-20121231-22-31-22.jpg)
-  ![Audience (III)](/assets/images/blog/2013-08-14-shitty-awesome/czahller-20121231-22-31-59.jpg)
-  ![Saint Vitus](/assets/images/blog/2013-08-14-shitty-awesome/czahller-20121231-22-33-30.jpg)
-  ![Joey (IV)](/assets/images/blog/2013-08-14-shitty-awesome/czahller-20121231-22-36-32.jpg)
-  ![Travis, Will, & Derek](/assets/images/blog/2013-08-14-shitty-awesome/czahller-20121231-22-37-05.jpg)
-  ![Travis, Will, & Derek](/assets/images/blog/2013-08-14-shitty-awesome/czahller-20121231-22-37-12.jpg)
-  ![2013](/assets/images/blog/2013-08-14-shitty-awesome/czahller-20121231-22-40-13.jpg)
-  ![Travis (IV)](/assets/images/blog/2013-08-14-shitty-awesome/czahller-20121231-22-41-30.jpg)
-  ![Travis (V)](/assets/images/blog/2013-08-14-shitty-awesome/czahller-20121231-22-42-38.jpg)
-  ![Joey, Will, & Derek (II)](/assets/images/blog/2013-08-14-shitty-awesome/czahller-20121231-22-43-02.jpg)
+  {% image "./src/assets/images/blog/2013-08-14-shitty-awesome/czahller-20121231-22-22-56.jpg", "", "Derek", "Derek (I)" %}
+
+  {% image "./src/assets/images/blog/2013-08-14-shitty-awesome/czahller-20121231-22-23-08.jpg", "", "Will", "Will (I)" %}
+
+  {% image "./src/assets/images/blog/2013-08-14-shitty-awesome/czahller-20121231-22-23-31.jpg", "", "Joey", "Joey (I)" %}
+
+  {% image "./src/assets/images/blog/2013-08-14-shitty-awesome/czahller-20121231-22-23-45.jpg", "", "Will", "Will (II)" %}
+
+  {% image "./src/assets/images/blog/2013-08-14-shitty-awesome/czahller-20121231-22-24-05.jpg", "", "Travis", "Travis (I)" %}
+
+  {% image "./src/assets/images/blog/2013-08-14-shitty-awesome/czahller-20121231-22-24-34.jpg", "", "Joey", "Joey (II)" %}
+
+  {% image "./src/assets/images/blog/2013-08-14-shitty-awesome/czahller-20121231-22-25-00.jpg", "", "Will holding a tambourine, which forms a circle around his face", "Will (III) (Tambourine)" %}
+
+  {% image "./src/assets/images/blog/2013-08-14-shitty-awesome/czahller-20121231-22-25-13.jpg", "", "Derek", "Derek (II)" %}
+
+  {% image "./src/assets/images/blog/2013-08-14-shitty-awesome/czahller-20121231-22-25-23.jpg", "", "Travis", "Travis (II)" %}
+
+  {% image "./src/assets/images/blog/2013-08-14-shitty-awesome/czahller-20121231-22-25-38.jpg", "", "Derek, Will, & Joey", "Derek, Will, & Joey" %}
+
+  {% image "./src/assets/images/blog/2013-08-14-shitty-awesome/czahller-20121231-22-25-55.jpg", "", "Joey, Will, & Derek", "Joey, Will, & Derek (I)" %}
+
+  {% image "./src/assets/images/blog/2013-08-14-shitty-awesome/czahller-20121231-22-26-19.jpg", "", "Will loosens his black necktie", "Loosening the Tie" %}
+
+  {% image "./src/assets/images/blog/2013-08-14-shitty-awesome/czahller-20121231-22-27-25.jpg", "", "Audience", "Audience (I)" %}
+
+  {% image "./src/assets/images/blog/2013-08-14-shitty-awesome/czahller-20121231-22-27-58.jpg", "", "Travis", "Travis (III)" %}
+
+  {% image "./src/assets/images/blog/2013-08-14-shitty-awesome/czahller-20121231-22-28-12.jpg", "", "Crêpe paper streamer attached to Travis’s guitar neck", "Crêpe Paper Streamer" %}
+
+  {% image "./src/assets/images/blog/2013-08-14-shitty-awesome/czahller-20121231-22-29-02.jpg", "", "Joey & Will", "Joey & Will (I)" %}
+
+  {% image "./src/assets/images/blog/2013-08-14-shitty-awesome/czahller-20121231-22-29-29.jpg", "", "Joey", "Joey (III)" %}
+
+  {% image "./src/assets/images/blog/2013-08-14-shitty-awesome/czahller-20121231-22-31-22.jpg", "", "Audience obscured by colorful paper streamers hanging from the ceiling", "Audience (II)" %}
+
+  {% image "./src/assets/images/blog/2013-08-14-shitty-awesome/czahller-20121231-22-31-59.jpg", "", "Audience", "Audience (III)" %}
+
+  {% image "./src/assets/images/blog/2013-08-14-shitty-awesome/czahller-20121231-22-33-30.jpg", "", "Man wearing a red shirt, dancing. He is blurry from motion and looks a little creepy, like a ghost. His fingers appear unnaturally long.", "Saint Vitus" %}
+
+  {% image "./src/assets/images/blog/2013-08-14-shitty-awesome/czahller-20121231-22-36-32.jpg", "", "Joey", "Joey (IV)" %}
+
+  {% image "./src/assets/images/blog/2013-08-14-shitty-awesome/czahller-20121231-22-37-05.jpg", "", "Travis, Will, & Derek", "Travis, Will, & Derek" %}
+
+  {% image "./src/assets/images/blog/2013-08-14-shitty-awesome/czahller-20121231-22-37-12.jpg", "", "Travis, Will, & Derek", "Travis, Will, & Derek (II)" %}
+
+  {% image "./src/assets/images/blog/2013-08-14-shitty-awesome/czahller-20121231-22-40-13.jpg", "", "Lit up 2013 sign behind the band. Streamers hanging from the ceiling obscure the musicians.", "2013" %}
+
+  {% image "./src/assets/images/blog/2013-08-14-shitty-awesome/czahller-20121231-22-41-30.jpg", "", "Travis", "Travis (IV)" %}
+
+  {% image "./src/assets/images/blog/2013-08-14-shitty-awesome/czahller-20121231-22-42-38.jpg", "", "Travis", "Travis (V)" %}
+
+  {% image "./src/assets/images/blog/2013-08-14-shitty-awesome/czahller-20121231-22-43-02.jpg", "", "Joey, Will, & Derek", "Joey, Will, & Derek (II)" %}
 </mpb-dialog-gallery>
 
 ## Gallery: Shi++y/Awesome Final Show Rehearsal
 
 <mpb-dialog-gallery hint rel cols="8">
   
-  ![Final Band Rehearsal (I)](/assets/images/blog/2013-08-14-shitty-awesome/czahller-20130811-18-57-04.jpg)
-  ![Final Band Rehearsal (II)](/assets/images/blog/2013-08-14-shitty-awesome/czahller-20130811-18-57-43.jpg)
-  ![Final Band Rehearsal (III)](/assets/images/blog/2013-08-14-shitty-awesome/czahller-20130811-18-58-31.jpg)
-  ![Will](/assets/images/blog/2013-08-14-shitty-awesome/czahller-20130811-18-59-37.jpg)
-  ![Derek](/assets/images/blog/2013-08-14-shitty-awesome/czahller-20130811-18-59-54.jpg)
-  ![Joey](/assets/images/blog/2013-08-14-shitty-awesome/czahller-20130811-19-00-09.jpg)
-  ![Travis](/assets/images/blog/2013-08-14-shitty-awesome/czahller-20130811-19-00-53.jpg)
-  ![Final Band Rehearsal (IV)](/assets/images/blog/2013-08-14-shitty-awesome/czahller-20130811-19-02-38.jpg)
-  ![Rehearsal Break](/assets/images/blog/2013-08-14-shitty-awesome/czahller-20130811-19-03-43.jpg)
+  {% image "./src/assets/images/blog/2013-08-14-shitty-awesome/czahller-20130811-18-57-04.jpg", "", "Final Band Rehearsal", "Final Band Rehearsal (I)" %}
+
+  {% image "./src/assets/images/blog/2013-08-14-shitty-awesome/czahller-20130811-18-57-43.jpg", "", "Final Band Rehearsal", "Final Band Rehearsal (II)" %}
+
+  {% image "./src/assets/images/blog/2013-08-14-shitty-awesome/czahller-20130811-18-58-31.jpg", "", "Final Band Rehearsal", "Final Band Rehearsal (III)" %}
+
+  {% image "./src/assets/images/blog/2013-08-14-shitty-awesome/czahller-20130811-18-59-37.jpg", "", "Will", "Will" %}
+
+  {% image "./src/assets/images/blog/2013-08-14-shitty-awesome/czahller-20130811-18-59-54.jpg", "", "Derek", "Derek" %}
+
+  {% image "./src/assets/images/blog/2013-08-14-shitty-awesome/czahller-20130811-19-00-09.jpg", "", "Joey", "Joey" %}
+
+  {% image "./src/assets/images/blog/2013-08-14-shitty-awesome/czahller-20130811-19-00-53.jpg", "", "Travis", "Travis" %}
+
+  {% image "./src/assets/images/blog/2013-08-14-shitty-awesome/czahller-20130811-19-02-38.jpg", "", "Final Band Rehearsal", "Final Band Rehearsal (IV)" %}
+
+  {% image "./src/assets/images/blog/2013-08-14-shitty-awesome/czahller-20130811-19-03-43.jpg", "", "Rehearsal Break", "Rehearsal Break" %}
 </mpb-dialog-gallery>

@@ -25,7 +25,7 @@ excerpt: By his own recollection, Woodyfest regular Jared Tyler Frederick began 
 
 <!-- markdownlint-enable MD025 --><mpb-dialog-img>
 
-{% image "./src/assets/images/blog/2020-10-16-woodyfest-jared-tyler/czahller-20190712-16-40-07.jpg", "img-constrained", "Jared Tyler Band (II) — 22nd Annual Woody Guthrie Festival, 2019", "Jared Tyler Band (II)&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;22nd Annual Woody Guthrie Festival, 2019", "eager" %}</mpb-dialog-img>
+{% image "featured", "", "Jared Tyler Band", "Jared Tyler Band (II)", "eager" %}</mpb-dialog-img>
 
 ## The FAA Years
 
@@ -57,16 +57,27 @@ Tyler's <time datetime="2019-07-12T16:30:00-5:00">2019</time> band lineup compri
 
 <mpb-dialog-gallery hint rel cols="8">
   
-  ![Jared Tyler Band (I) — 22nd Annual Woody Guthrie Festival, 2019](/assets/images/blog/2020-10-16-woodyfest-jared-tyler/czahller-20190712-16-39-54.jpg)
-  ![Jared Tyler Band (II) — 22nd Annual Woody Guthrie Festival, 2019](/assets/images/blog/2020-10-16-woodyfest-jared-tyler/czahller-20190712-16-40-07.jpg)
-  ![Jared Tyler Band (III) — 22nd Annual Woody Guthrie Festival, 2019](/assets/images/blog/2020-10-16-woodyfest-jared-tyler/czahller-20190712-16-40-54.jpg)
-  ![Jared Tyler — 22nd Annual Woody Guthrie Festival, 2019](/assets/images/blog/2020-10-16-woodyfest-jared-tyler/czahller-20190712-16-41-32.jpg)
-  ![Seth Lee Jones — 22nd Annual Woody Guthrie Festival, 2019](/assets/images/blog/2020-10-16-woodyfest-jared-tyler/czahller-20190712-16-44-31.jpg)
-  ![Paddy Ryan — 22nd Annual Woody Guthrie Festival, 2019](/assets/images/blog/2020-10-16-woodyfest-jared-tyler/czahller-20190712-16-44-55.jpg)
-  ![Casey Van Beek — 22nd Annual Woody Guthrie Festival, 2019](/assets/images/blog/2020-10-16-woodyfest-jared-tyler/czahller-20190712-16-45-16.jpg)
-  ![Jared & Casey (I) — 22nd Annual Woody Guthrie Festival, 2019](/assets/images/blog/2020-10-16-woodyfest-jared-tyler/czahller-20190712-16-45-34.jpg)
-  ![Seth & Paddy — 22nd Annual Woody Guthrie Festival, 2019](/assets/images/blog/2020-10-16-woodyfest-jared-tyler/czahller-20190712-16-46-21.jpg)
-  ![Jared Tyler Band (View from Upstage Right) — 22nd Annual Woody Guthrie Festival, 2019](/assets/images/blog/2020-10-16-woodyfest-jared-tyler/czahller-20190712-16-46-53.jpg)
-  ![Kaden (Dancing Kid in Audience). Kaden is D. J. Burrup's grandson. — 22nd Annual Woody Guthrie Festival, 2019](/assets/images/blog/2020-10-16-woodyfest-jared-tyler/czahller-20190712-16-48-31.jpg)
-  ![Isai Mireles — 22nd Annual Woody Guthrie Festival, 2019](/assets/images/blog/2020-10-16-woodyfest-jared-tyler/czahller-20190712-16-51-46.jpg)
+  {% image "./src/assets/images/blog/2020-10-16-woodyfest-jared-tyler/czahller-20190712-16-39-54.jpg", "", "Jared Tyler Band", "Jared Tyler Band (I)" %}
+
+  {% image "featured", "", "Jared Tyler Band", "Jared Tyler Band (II)" %}
+
+  {% image "./src/assets/images/blog/2020-10-16-woodyfest-jared-tyler/czahller-20190712-16-40-54.jpg", "", "Jared Tyler Band", "Jared Tyler Band (III)" %}
+
+  {% image "./src/assets/images/blog/2020-10-16-woodyfest-jared-tyler/czahller-20190712-16-41-32.jpg", "", "Jared Tyler", "Jared Tyler" %}
+
+  {% image "./src/assets/images/blog/2020-10-16-woodyfest-jared-tyler/czahller-20190712-16-44-31.jpg", "", "Seth Lee Jones", "Seth Lee Jones" %}
+
+  {% image "./src/assets/images/blog/2020-10-16-woodyfest-jared-tyler/czahller-20190712-16-44-55.jpg", "", "Paddy Ryan", "Paddy Ryan" %}
+
+  {% image "./src/assets/images/blog/2020-10-16-woodyfest-jared-tyler/czahller-20190712-16-45-16.jpg", "", "Casey Van Beek", "Casey Van Beek" %}
+
+  {% image "./src/assets/images/blog/2020-10-16-woodyfest-jared-tyler/czahller-20190712-16-45-34.jpg", "", "Jared Tyler & Casey Van Beek", "Jared & Casey" %}
+
+  {% image "./src/assets/images/blog/2020-10-16-woodyfest-jared-tyler/czahller-20190712-16-46-21.jpg", "", "Seth Lee Jones & Paddy Ryan", "Seth & Paddy" %}
+
+  {% image "./src/assets/images/blog/2020-10-16-woodyfest-jared-tyler/czahller-20190712-16-46-53.jpg", "", "Jared Tyler Band, viewed from upstage right", "Jared Tyler Band (View from Upstage Right)" %}
+
+  {% image "./src/assets/images/blog/2020-10-16-woodyfest-jared-tyler/czahller-20190712-16-48-31.jpg", "", "Boy in audience dancing", "Kaden (Dancing Kid in Audience). Kaden is D. J. Burrup's grandson." %}
+
+  {% image "./src/assets/images/blog/2020-10-16-woodyfest-jared-tyler/czahller-20190712-16-51-46.jpg", "", "Isai Mireles", "Isai Mireles" %}
 </mpb-dialog-gallery>

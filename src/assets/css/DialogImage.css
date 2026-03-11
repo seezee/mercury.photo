@@ -2,7 +2,7 @@ mpb-dialog-img {
   figure,
   picture,
   figcaption {
-    color: var(--mpb-color-textPrimary);
+    color: var(--mpb-color-text-primary);
     cursor: default;
 
     img {
@@ -45,7 +45,7 @@ mpb-dialog-img {
       padding: 0;
       border: unset;
       border-radius: 50%;
-      background-color: var(--mpb-color-textReverse);
+      background-color: var(--mpb-color-text-reverse);
     }
 
     @media screen and (prefers-reduced-motion: no-preference) {
@@ -54,8 +54,8 @@ mpb-dialog-img {
 
     pointer-events: none;
     margin: auto;
-    background-color: var(--mpb-color-figureBG);
-    border: solid var(--border-thin) var(--mpb-color-textPrimary);
+    background-color: var(--mpb-color-figure-bg);
+    border: solid var(--border-thin) var(--mpb-color-text-primary);
     border-radius: var(--mpb-radius-2x);
 
     /* Don't use logical property on image */

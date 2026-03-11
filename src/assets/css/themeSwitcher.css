@@ -3,12 +3,12 @@ https://web.dev/articles/building/a-theme-switch-component */
 
 .sun-and-moon {
   > .sun-beams {
-    stroke: var(--mpb-color-textPrimary);
+    stroke: var(--mpb-color-text-primary);
     stroke-width: 2px;
   }
 
   > :is(.moon, .sun) {
-    fill: var(--mpb-color-textPrimary);
+    fill: var(--mpb-color-text-primary);
   }
 
   > :is(.moon, .sun, .sun-beams) {
@@ -50,11 +50,11 @@ https://web.dev/articles/building/a-theme-switch-component */
   }
 
   &:hover > .sun-and-moon > :is(.moon, .sun) {
-    fill: var(--mpb-color-iconFillHover);
+    fill: var(--mpb-color-icon-hover);
   }
 
   &:hover .sun-and-moon > .sun-beams {
-    stroke: var(--mpb-color-iconFillHover);
+    stroke: var(--mpb-color-icon-hover);
   }
 }
 

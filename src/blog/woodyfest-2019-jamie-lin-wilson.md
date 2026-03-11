@@ -24,7 +24,7 @@ excerpt: By some standards, Jamie Lin Wilson is a late bloomer. She was nineteen
 
 <!-- markdownlint-enable MD025 --><mpb-dialog-img>
 
-{% image "./src/assets/images/blog/2020-10-16-woodyfest-jared-tyler/czahller-20190712-16-40-07.jpg", "img-constrained", "Jamie Lin Wilson (Smile) — 22nd Annual Woody Guthrie Festival, 2019", "Jamie Lin Wilson (Smile)&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;22nd Annual Woody Guthrie Festival, 2019", "eager" %}</mpb-dialog-img>
+{% image "featured", "", "Jamie Lin Wilson, smiling", "Jamie Lin Wilson (Smile)", "eager" %}</mpb-dialog-img>
 
 By some standards, <span class="h-card p-name">Jamie Lin Wilson</span> is a late bloomer. She was nineteen when she heard <span class="h-card p-name">Natlie Maines</span> performing a solo during a <span class="h-card p-org">Dixie Chicks</span>[^1] concert. After she dropped a few casual remarks to her mother and a cousin she found herself unwrapping an acoustic guitar on Christmas morning.
 
@@ -42,16 +42,27 @@ Of the new artists this writer saw at the 2019 festival, Wilson stood out as a f
 
 <mpb-dialog-gallery hint rel cols="8">
   
-  ![Jamie Lin Wilson Band (I) — 22nd Annual Woody Guthrie Festival, 2019](/assets/images/blog/2020-04-05-woodyfest-jamie-lin-wilson/czahller-20190711-22-10-48.jpg)
-  ![Jamie Lin Wilson Band (II) — 22nd Annual Woody Guthrie Festival, 2019](/assets/images/blog/2020-04-05-woodyfest-jamie-lin-wilson/czahller-20190711-22-11-27.jpg)
-  ![Jamie Lin Wilson (I) — 22nd Annual Woody Guthrie Festival, 2019](/assets/images/blog/2020-04-05-woodyfest-jamie-lin-wilson/czahller-20190711-22-12-05.jpg)
-  ![Jamie Lin Wilson (II) — 22nd Annual Woody Guthrie Festival, 2019](/assets/images/blog/2020-04-05-woodyfest-jamie-lin-wilson/czahller-20190711-22-12-12.jpg)
-  ![Jamie Lin Wilson (III) — 22nd Annual Woody Guthrie Festival, 2019](/assets/images/blog/2020-04-05-woodyfest-jamie-lin-wilson/czahller-20190711-22-12-57.jpg)
-  ![Jamie Lin Wilson (IV) — 22nd Annual Woody Guthrie Festival, 2019](/assets/images/blog/2020-04-05-woodyfest-jamie-lin-wilson/czahller-20190711-22-13-00.jpg)
-  !![Jamie Lin Wilson (V) — 22nd Annual Woody Guthrie Festival, 2019](/assets/images/blog/2020-04-05-woodyfest-jamie-lin-wilson/czahller-20190711-22-14-55.jpg)
-  ![Jamie Lin Wilson (VI) — 22nd Annual Woody Guthrie Festival, 2019](/assets/images/blog/2020-04-05-woodyfest-jamie-lin-wilson/czahller-20190711-22-15-03.jpg)
-  ![amie Lin Wilson (VII) — 22nd Annual Woody Guthrie Festival, 2019](/assets/images/blog/2020-04-05-woodyfest-jamie-lin-wilson/czahller-20190711-22-15-15.jpg)
-  ![Jamie Lin Wilson (Harmonica) — 22nd Annual Woody Guthrie Festival, 2019](/assets/images/blog/2020-04-05-woodyfest-jamie-lin-wilson/czahller-20190711-22-15-42.jpg)
-  ![Jamie Lin Wilson (Smile) — 22nd Annual Woody Guthrie Festival, 2019](/assets/images/blog/2020-04-05-woodyfest-jamie-lin-wilson/czahller-20190711-22-16-03.jpg)
-  ![Audience, Jamie Lin Wilson — 22nd Annual Woody Guthrie Festival, 2019](/assets/images/blog/2020-04-05-woodyfest-jamie-lin-wilson/czahller-20190711-22-47-37.jpg)
+  {% image "./src/assets/images/blog/2020-04-05-woodyfest-jamie-lin-wilson/czahller-20190711-22-10-48.jpg", "", "Jamie Lin Wilson Band", "Jamie Lin Wilson Band (I)" %}
+
+  {% image "./src/assets/images/blog/2020-04-05-woodyfest-jamie-lin-wilson/czahller-20190711-22-11-27.jpg", "", "Jamie Lin Wilson Band", "Jamie Lin Wilson Band (II)" %}
+
+  {% image "./src/assets/images/blog/2020-04-05-woodyfest-jamie-lin-wilson/czahller-20190711-22-12-05.jpg", "", "Jamie Lin Wilson, a young woman with long, straight blond hair. She wears a green trucker cap and a red-and-white plaid shirt with a floor-length faded denim skirt.", "Jamie Lin Wilson (I)" %}
+
+  {% image "./src/assets/images/blog/2020-04-05-woodyfest-jamie-lin-wilson/czahller-20190711-22-12-12.jpg", "", "Jamie Lin Wilson", "Jamie Lin Wilson (II)" %}
+
+  {% image "./src/assets/images/blog/2020-04-05-woodyfest-jamie-lin-wilson/czahller-20190711-22-12-57.jpg", "", "Jamie Lin Wilson", "Jamie Lin Wilson (III)" %}
+
+  {% image "./src/assets/images/blog/2020-04-05-woodyfest-jamie-lin-wilson/czahller-20190711-22-13-00.jpg", "", "Jamie Lin Wilson", "Jamie Lin Wilson (IV)" %}
+
+  {% image "./src/assets/images/blog/2020-04-05-woodyfest-jamie-lin-wilson/czahller-20190711-22-14-55.jpg", "", "Jamie Lin Wilson", "Jamie Lin Wilson (V)" %}
+
+  {% image "./src/assets/images/blog/2020-04-05-woodyfest-jamie-lin-wilson/czahller-20190711-22-15-03.jpg", "", "Jamie Lin Wilson", "Jamie Lin Wilson (VI)" %}
+
+  {% image "./src/assets/images/blog/2020-04-05-woodyfest-jamie-lin-wilson/czahller-20190711-22-15-15.jpg", "", "Jamie Lin Wilson", "Jamie Lin Wilson (VII)" %}
+
+  {% image "./src/assets/images/blog/2020-04-05-woodyfest-jamie-lin-wilson/czahller-20190711-22-15-42.jpg", "", "Jamie Lin Wilson playing harmonica", "Jamie Lin Wilson (Harmonica)" %}
+
+  {% image "featured", "", "Jamie Lin Wilson, smiling", "Jamie Lin Wilson (Smile)" %}
+
+  {% image "./src/assets/images/blog/2020-04-05-woodyfest-jamie-lin-wilson/czahller-20190711-22-47-37.jpg", "", "Audience", "Audience, Jamie Lin Wilson" %}
 </mpb-dialog-gallery>

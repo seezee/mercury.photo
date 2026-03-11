@@ -15,22 +15,21 @@
  * 12. Columns (.col-2, .col-3, .col-4, .col-5)
  * 13. hgroup
  * 14. <dd> styles: .dd-add-space, dd+br
- * 15. .after-icon spacer
- * 16. .recipe-index
- * 17. #mpb-logo (footer icon)
- * 18. Footnotes & sidenotes
- * 19. Pagination
- * 20. Comments, author info, support cta, & footer
- * 21. Scroller
- * 22. Tag post excerpt
- * 23. Staff, OKIE-X, Sitemap, Tags
- * 24. Wedding prices
- * 25. Social
- * 26. Comments
- * 27. Type specimen
- * 28. Fancy horizontal rules (<hr>)
- * 29. .button > .icon-before::before
- * 30. .staff-card
+ * 15. .recipe-index
+ * 16. #mpb-logo (footer icon)
+ * 17. Footnotes & sidenotes
+ * 18. Pagination
+ * 19. Comments, author info, support cta, & footer
+ * 20. Scroller
+ * 21. Tag post excerpt
+ * 22. Staff, OKIE-X, Sitemap, Tags
+ * 23. Wedding prices
+ * 24. Social
+ * 25. Comments
+ * 26. Type specimen
+ * 27. Fancy horizontal rules (<hr>)
+ * 28. .button > .icon-before::before
+ * 29. .staff-card
  */
 
 #home {
@@ -44,6 +43,7 @@ noscript div {
   max-inline-size: 100ch;
   margin-inline: auto;
   padding: var(--s1);
+  margin-block-end: var(--s1);
 
   font-size: 2rem;
   font-weight: var(--bold, 700);
@@ -99,8 +99,9 @@ div:has( > #skip-link:not(:focus-visible):not(:active)) {
 #header-wrapper {
   position: sticky;
   inset-block-start: 0;
-  background-color: var(--mpb-color-textReverse);
-  z-index: 1;
+  inline-size: 100dvw;
+  background-color: var(--mpb-color-text-reverse);
+  z-index: 2;
 }
 
 @media screen and (max-width: 640px) {
@@ -128,6 +129,10 @@ div:has( > #skip-link:not(:focus-visible):not(:active)) {
 }
 
 /* Search */
+
+.search {
+  text-align: start;
+}
 .pagefind-ui__search-input {
   appearance: none;
   -webkit-appearance: none;
@@ -142,10 +147,8 @@ div:has( > #skip-link:not(:focus-visible):not(:active)) {
   }
 }
 
-.fonts-stage-2 {
-  .pagefind-ui__search-input {
-    font-family: var(--mpb-font-mono);
-  }
+.pagefind-ui__search-input {
+  font-family: var(--mpb-font-mono);
 }
 
 .pagefind-ui__search-input {
@@ -155,9 +158,9 @@ div:has( > #skip-link:not(:focus-visible):not(:active)) {
 
   line-height: 1.1;
 
-  color: var(--mpb-color-textPrimary);
+  color: var(--mpb-color-text-primary);
   background-color: var(--mpb-color-primary-200);
-  border: solid 2px var(--mpb-color-textPrimary);
+  border: solid 2px var(--mpb-color-text-primary);
   border-radius: var(--mpb-radius-1x);
 }
 
@@ -177,8 +180,8 @@ div:has( > #skip-link:not(:focus-visible):not(:active)) {
 
   & kbd {
     background-color: var(--mpb-color-accent);
-    border: 1px solid var(--mpb-color-textSecondary);
-    color: var(--mpb-color-textReverse);
+    border: 1px solid var(--mpb-color-text-secondary);
+    color: var(--mpb-color-text-reverse);
   }
 }
 
@@ -189,10 +192,11 @@ div:has( > #skip-link:not(:focus-visible):not(:active)) {
 }
 
 .pagefind-ui__drawer {
-  position: absolute;
+  position: relative;
   z-index: 99;
   inline-size: clamp(100%, 60ch, 77vw);
   padding: var(--s0);
+  margin-block-start: var(--s-1);
 
   background-color: var(--mpb-color-primary-200);
 
@@ -218,7 +222,7 @@ div:has( > #skip-link:not(:focus-visible):not(:active)) {
 
 /* #nav-primary-wrapper, .breadcrumbs-separator, #main-wrapper */
 #nav-primary-wrapper {
-  padding-block-end: var(--s1);
+  padding-block-end: var(--s-5);
 }
 
 #nav-secondary {
@@ -294,7 +298,7 @@ ul ul .navigation__item {
 }
 
 .navigation__submenu {
-  background-color: var(--mpb-color-textSecondary);
+  background-color: var(--mpb-color-text-secondary);
   position: absolute;
   padding: 0;
   inset-block-start: 100%;
@@ -309,7 +313,7 @@ ul ul .navigation__item {
 }
 
 .navigation__submenu > li:not(:last-child) {
-  border-block-end: 1px solid var(--mpb-color-textPrimary);
+  border-block-end: 1px solid var(--mpb-color-text-primary);
 }
 
 .submenu-indicator {
@@ -318,7 +322,7 @@ ul ul .navigation__item {
   }
 
   polyline {
-    color: var(--mpb-color-textPrimary);
+    color: var(--mpb-color-text-primary);
   }
 }
 
@@ -349,14 +353,12 @@ h3 {
 
 /* .blog-index */
 
-.fonts-stage-2 {
-  .blog-index,
-  .tags-button {
-    font-family: var(--mpb-font-sans);
+.blog-index,
+.tags-button {
+  font-family: var(--mpb-font-sans);
 
-    li p {
-      font-family: var(--mpb-font-default);
-    }
+  li p {
+    font-family: var(--mpb-font-default);
   }
 }
 
@@ -390,7 +392,7 @@ h3 {
     flex-grow: 1;
     padding-inline: var(--s-4);
     padding-block: 2px;
-    border: 1px solid var(--mpb-color-textPrimary);
+    border: 1px solid var(--mpb-color-text-primary);
     border-radius: var(--mpb-radius-1x);
     font-size: 14px;
     text-align: center;
@@ -404,9 +406,7 @@ main ul.blog-index li::marker {
 /**
  * Masonry layout
  *
- * This code may need different syntax when masonry ships to browsers;
- * see https://github.com/w3c/csswg-drafts/issues/9041 and also commented
- * example code below
+ * This code may need different syntax when masonry ships to browsers
  */
 
 .masonry {
@@ -415,8 +415,7 @@ main ul.blog-index li::marker {
     auto-fit, minmax(var(--mpb-masonry-width), 1fr)
   );
   grid-gap: var(--mpb-masonry-gap);
-  justify-content: center;
-  padding: var(--mpb-masonry-gap);
+  grid-auto-flow: dense;
 
   @supports (display: grid-lanes) {
     display: grid-lanes;
@@ -424,8 +423,13 @@ main ul.blog-index li::marker {
     gap: var(--mpb-masonry-gap);
   }
 
-  > * {
-    width: var(--mpb-masonry-width);
+  /* This will become obsolete when grid-lanes is fully supported */
+  @supports (grid-template-rows: masonry) {
+    grid-template-rows: masonry;
+  }
+
+  figcaption {
+    text-wrap: pretty;
   }
 }
 
@@ -478,12 +482,6 @@ hgroup h1 + p {
 
 [data-i="Stack-var(--s1)false"] > dd + br {
   margin-block-start: 0;
-}
-
-/* .after-icon spacer */
-.after-icon {
-  display: inline-block;
-  inline-size: 0.5ch;
 }
 
 /* #mpb-logo (footer icon) */
@@ -987,8 +985,8 @@ li[id^=mn] {
   inline-size: 2.5rem;
   block-size: 2.5rem;
   border-radius: 50%;
-  border: 0.1rem solid var(--mpb-color-textPrimary);
-  background-color: var(--mpb-color-accentReverse);
+  border: 0.1rem solid var(--mpb-color-accent);
+  background-color: var(--mpb-color-accent-reverse);
   /* emoji don't behave like regular fonts
      so this helps position it correctly */
   padding: 0.25rem;
@@ -1046,7 +1044,7 @@ li[id^=mn] {
 
 #sitemap {
   column-gap: var(--s2);
-  column-rule: 1px solid var(--mpb-color-textPrimary);
+  column-rule: 1px solid var(--mpb-color-text-primary);
 
   h2 {
     font-size: var(--mpb-font-size-1);
@@ -1089,25 +1087,22 @@ li[id^=mn] {
 }
 
 /* Wedding Pricelist */
+.header-pricelist .wedding-services-wrapper {
+  h2 {
+    font-family: var(--mpb-font-display-sc);
+    font-variant: normal;
+  }
 
-.fonts-stage-2 {
-  .header-pricelist .wedding-services-wrapper {
-    h2 {
-      font-family: var(--mpb-font-display-sc);
-      font-variant: normal;
-    }
-
-    li {
-      font-family: var(--mpb-font-sans);
-    }
+  li {
+    font-family: var(--mpb-font-sans);
   }
 }
 
 .wedding-services-wrapper {
-  background-color: var(--mpb-color-figureBG);
+  background-color: var(--mpb-color-figure-bg);
 
   .header-pricelist {
-    background-color: var(--mpb-color-textPrimary);
+    background-color: var(--mpb-color-text-primary);
     padding: var(--s1);
 
     h2 {
@@ -1116,7 +1111,7 @@ li[id^=mn] {
 
       a,
       a:visited {
-        color: var(--mpb-color-textReverse);
+        color: var(--mpb-color-text-reverse);
       }
 
       :after {
@@ -1184,7 +1179,7 @@ li[id^=mn] {
     font-size: var(--mpb-font-size-3);
     letter-spacing: 0.3ch;
     line-height: 1.1;
-    background-color: var(--mpb-color-textReverse);
+    background-color: var(--mpb-color-text-reverse);
 
     span {
       line-height: 1.4;
@@ -1209,7 +1204,7 @@ hr:has(+ #footnotes-wrapper):before {
 
   border-style: solid;
   border-width: 0;
-  border-color: var(--mpb-color-textPrimary);
+  border-color: var(--mpb-color-text-primary);
   /* border-radius: calc(var(--hr-border-height) * 2 / 3); */
 
 }
@@ -1230,7 +1225,7 @@ hr:has(+ #footnotes-wrapper) {
   }
 
   &:after {
-    background-color: var(--mpb-color-textReverse);
+    background-color: var(--mpb-color-text-reverse);
     content: "☿" / "";
     display: inline-block;
     position: relative;

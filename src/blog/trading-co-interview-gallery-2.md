@@ -21,7 +21,7 @@ excerpt: This concludes our interview with Joshua Griffin and Jonathan Eldridge 
 <p>Old Dog Records, one degree of separation, and more</p></stack-l></hgroup>
 <!-- markdownlint-enable MD025 --><mpb-dialog-img>
 
-{% image "featured", "img-constrained", "Josh Griffin and Jonathan Eldridge seated on the Mercury Photo Bureau sofa. Jonathan is attempting to lightly slap Josh, who leans way over to avoid this contact. Both are laughing.", "Joshua and Jonathan", "eager" %}</mpb-dialog-img>
+{% image "featured", "", "Josh Griffin and Jonathan Eldridge seated on the Mercury Photo Bureau sofa. Jonathan is attempting to lightly slap Josh, who leans way over to avoid this contact. Both are laughing.", "Joshua and Jonathan", "eager" %}</mpb-dialog-img>
 
 This concludes our interview with <span class="h-card p-name">Jonathan Eldridge</span> and <span class="h-card p-name">Joshua Griffin</span>, who comprise <span class="h-card p-org">The Trading Co.</span>, an Oklahoma City&ndash;based blues-rock duo. They visited us shortly before their <span class="h-card p-org">[Old Dog Records](https://www.facebook.com/olddogrecords){target="_blank" rel="external noopener noreferrer"}</span> showcase, which took place in late February at the <span class="h-card p-org">Route 66 Roadhouse</span>. Also on the ticket were label mates the [<span class="h-card p-org">Kamals</span>](/blog/kamals-interview-gallery/) and <span class="h-card p-org">Black Jack Gypsys</span>.
 
@@ -35,7 +35,7 @@ This concludes our interview with <span class="h-card p-name">Jonathan Eldridge<
 
 <mpb-dialog-img>
 
-{% image "./src/assets/images/blog/2013-03-27-trading-co/czahller-20130223-22-59-03.jpg", "img-constrained", "Jonathan seated behind the drums at the Route 66 Roadhouse.", "Jonathan (I)" %}</mpb-dialog-img>
+{% image "./src/assets/images/blog/2013-03-27-trading-co/czahller-20130223-22-59-03.jpg", "", "Jonathan seated behind the drums at the Route 66 Roadhouse.", "Jonathan (I)", "large" %}</mpb-dialog-img>
 
 <span class="spkr">Eldridge</span> We finished that, and a little bit of time [passed] and we got back together with a couple of the guys [from the Kamals], and we came up with this idea of <q>Let’s all work together; we’ve got everything we need to run a studio.</q> We had a bunch of equipment, mics, guitars, amps; <span itemscope="itemscope" itemtype="https://schema.org/Person" itemprop="additionalName">Zak</span> had a real nice 24-channel board, old tape machines, stuff like that.
 
@@ -49,7 +49,7 @@ We’d had an old <strong>Otari</strong> we’d used on [the EP], and it’s a n
 
 <mpb-dialog-img>
 
-{% image "./src/assets/images/blog/2013-03-27-trading-co/czahller-20130223-22-59-25.jpg", "img-constrained", "Josh plays a Fender electric guitar at the Route 66 Roadhouse. He wears a knit beanie and a Beatles t-shirt.", "Joshua (I)" %}</mpb-dialog-img>
+{% image "./src/assets/images/blog/2013-03-27-trading-co/czahller-20130223-22-59-25.jpg", "", "Josh plays a Fender electric guitar at the Route 66 Roadhouse. He wears a knit beanie and a Beatles t-shirt.", "Joshua (I)", "large" %}</mpb-dialog-img>
 
 <span class="spkr">MPB</span> You released your first full-length [album] as a vinyl LP.
 
@@ -93,7 +93,7 @@ So, the Black Jack Gypsys put out an EP[^2] on Old Dog about a year ago; I don�
 
 <mpb-dialog-img>
 
-{% image "./src/assets/images/blog/2013-03-27-trading-co/czahller-20130223-23-03-52.jpg", "img-constrained", "Jonathan drumming.", "Jonathan (II)" %}</mpb-dialog-img>
+{% image "./src/assets/images/blog/2013-03-27-trading-co/czahller-20130223-23-03-52.jpg", "", "Jonathan drumming.", "Jonathan (II)", "large" %}</mpb-dialog-img>
 
 <span class="spkr">MPB</span> Have you toured yet?
 
@@ -115,7 +115,7 @@ We talked about doing it; we really want to do it. We’re probably recording an
 
 <mpb-dialog-img>
 
-{% image "./src/assets/images/blog/2013-03-27-trading-co/czahller-20130223-23-03-11.jpg", "img-constrained", "Joshua seen over the drumkit playing his Fender electric guitar.", "Joshua (II)" %}</mpb-dialog-img>
+{% image "./src/assets/images/blog/2013-03-27-trading-co/czahller-20130223-23-03-11.jpg", "", "Joshua seen over the drumkit playing his Fender electric guitar.", "Joshua (II)", "large" %}</mpb-dialog-img>
 
 <span class="spkr">MPB</span> You mentioned during a break that you still need to promote your new album further. Please elaborate.
 
@@ -153,7 +153,7 @@ Josh mentioned the Black Crowes; I think they’re a big influence on us; I thin
 
 <mpb-dialog-img>
 
-{% image "./src/assets/images/blog/2013-03-27-trading-co/czahller-20130223-23-15-11.jpg", "img-constrained", "Joshua plays guitar and sings into a microphone.", "Joshua (IV)" %}</mpb-dialog-img>
+{% image "./src/assets/images/blog/2013-03-27-trading-co/czahller-20130223-23-15-11.jpg", "", "Joshua plays guitar and sings into a microphone.", "Joshua (IV)", "large" %}</mpb-dialog-img>
 
 <span class="spkr">Griffin</span> There’s a band called <span class="h-card p-org">The Trishas</span>. They’re a *great* band, but they’re *really* country. I love them; I think they’re great songwriters, but I can see somebody being surprised that I like them, knowing what kind of music I listen to. There’s a song called <cite class="short-work">[Trouble about My Soul](https://music.apple.com/us/album/trouble-about-my-soul/id387628085?i=387628090&uo=4&at=10ldhk){target=_blank rel="external noopener"}</cite>; it’s from their EP.[^5]
 
@@ -197,21 +197,37 @@ I kinda stumbled upon these girls; I went snow skiing a couple of years ago and 
 
 <mpb-dialog-gallery hint rel cols="8">
   
-  ![The Tradiing Co. Sets Up](/assets/images/blog/2013-03-27-trading-co/czahller-20130223-22-39-02.jpg)
-  ![Jonathan (I)](/assets/images/blog/2013-03-27-trading-co/czahller-20130223-22-59-03.jpg)
-  ![Joshua (I)](/assets/images/blog/2013-03-27-trading-co/czahller-20130223-22-59-25.jpg)
-  ![Joshua (II)](/assets/images/blog/2013-03-27-trading-co/czahller-20130223-23-03-11.jpg)
-  ![Jonathan (II)](/assets/images/blog/2013-03-27-trading-co/czahller-20130223-23-03-52.jpg)
-  ![Drumhead](/assets/images/blog/2013-03-27-trading-co/czahller-20130223-23-04-33.jpg)
-  ![Jonathan (III)](/assets/images/blog/2013-03-27-trading-co/czahller-20130223-23-08-33.jpg)
-  ![The Tradiing Co. (I)](/assets/images/blog/2013-03-27-trading-co/czahller-20130223-23-08-52.jpg)
-  ![Joshua (III)](/assets/images/blog/2013-03-27-trading-co/czahller-20130223-23-10-09.jpg)
-  ![Joshua (IV)](/assets/images/blog/2013-03-27-trading-co/czahller-20130223-23-15-11.jpg)
-  ![Joshua (V) (The Strangler)](/assets/images/blog/2013-03-27-trading-co/czahller-20130223-23-19-03.jpg)
-  ![Joshua (VI)](/assets/images/blog/2013-03-27-trading-co/czahller-20130223-23-19-13.jpg)
-  ![Jonathan (IV)](/assets/images/blog/2013-03-27-trading-co/czahller-20130223-23-19-29.jpg)
-  ![Jonathan (V)](/assets/images/blog/2013-03-27-trading-co/czahller-20130223-23-21-24.jpg)
-  ![Joshua (VII)](/assets/images/blog/2013-03-27-trading-co/czahller-20130223-23-22-56.jpg)
-  ![Joshua (VIII)](/assets/images/blog/2013-03-27-trading-co/czahller-20130223-23-26-45.jpg)
-  ![Joshua (IX)](/assets/images/blog/2013-03-27-trading-co/czahller-20130223-23-37-10.jpg)
+  {% image "./src/assets/images/blog/2013-03-27-trading-co/czahller-20130223-22-39-02.jpg", "", "The Tradiing Co. set up", "The Tradiing Co. Set Up" %}
+
+  {% image "./src/assets/images/blog/2013-03-27-trading-co/czahller-20130223-22-59-03.jpg", "", "Jonathan", "Jonathan (I)" %}
+
+  {% image "./src/assets/images/blog/2013-03-27-trading-co/czahller-20130223-22-59-25.jpg", "", "Joshua", "Joshua (I)" %}
+
+  {% image "./src/assets/images/blog/2013-03-27-trading-co/czahller-20130223-23-03-11.jpg", "", "Joshua", "Joshua (II)" %}
+
+  {% image "./src/assets/images/blog/2013-03-27-trading-co/czahller-20130223-23-03-52.jpg", "", "Jonathan", "Jonathan (II)" %}
+
+  {% image "./src/assets/images/blog/2013-03-27-trading-co/czahller-20130223-23-04-33.jpg", "", "Drumhead with Trading Co. logo", "Drumhead" %}
+
+  {% image "./src/assets/images/blog/2013-03-27-trading-co/czahller-20130223-23-08-33.jpg", "", "Jonathan", "Jonathan (III)" %}
+
+  {% image "./src/assets/images/blog/2013-03-27-trading-co/czahller-20130223-23-08-52.jpg", "", "The Tradiing Co.", "The Tradiing Co. (I)" %}
+
+  {% image "./src/assets/images/blog/2013-03-27-trading-co/czahller-20130223-23-10-09.jpg", "", "Joshua", "Joshua (III)" %}
+
+  {% image "./src/assets/images/blog/2013-03-27-trading-co/czahller-20130223-23-15-11.jpg", "", "Joshua", "Joshua (IV)" %}
+
+  {% image "./src/assets/images/blog/2013-03-27-trading-co/czahller-20130223-23-19-03.jpg", "", "Joshua playing guitar. The neck is moving up and down, so the headstock is blurred.", "Joshua (V) (The Strangler)" %}
+
+  {% image "./src/assets/images/blog/2013-03-27-trading-co/czahller-20130223-23-19-13.jpg", "", "Joshua", "Joshua (VI)" %}
+
+  {% image "./src/assets/images/blog/2013-03-27-trading-co/czahller-20130223-23-19-29.jpg", "", "Jonathan", "Jonathan (IV)" %}
+
+  {% image "./src/assets/images/blog/2013-03-27-trading-co/czahller-20130223-23-21-24.jpg", "", "Jonathan", "Jonathan (V)" %}
+
+  {% image "./src/assets/images/blog/2013-03-27-trading-co/czahller-20130223-23-22-56.jpg", "", "Joshua", "Joshua (VII)" %}
+
+  {% image "./src/assets/images/blog/2013-03-27-trading-co/czahller-20130223-23-26-45.jpg", "", "Joshua", "Joshua (VIII)" %}
+
+  {% image "./src/assets/images/blog/2013-03-27-trading-co/czahller-20130223-23-37-10.jpg", "", "Joshua", "Joshua (IX)" %}
 </mpb-dialog-gallery>

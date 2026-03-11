@@ -30,9 +30,9 @@ excerpt: We drove to Okemah in early December to see folk singer and songwriter 
 <p>Keeping it simple</p></stack-l></hgroup>
 <!-- markdownlint-enable MD025 --><mpb-dialog-img>
 
-{% image "featured", "img-constrained", "Tim Easton — Exposition Sessions", "Tim Easton&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;Exposition Sessions", "eager" %}</mpb-dialog-img>
+{% image "featured", "", "Studio portrait of Tim Easton on X-ray film — Exposition Sessions", "Tim Easton&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;Exposition Sessions", "eager" %}</mpb-dialog-img>
 
-We drove to Okemah in <time datetime="2018-12-07">early December</time> to see folk singer and songwriter <span class="h-card p-name">Tim Easton</span>. Easton was on the first leg of a multi-city recording tour for his new album <cite>Exposition</cite>. After we had lunch at the Hen House Café we took some pictures of him working in his makeshift studio at the <span class="h-card p-org">Okfuskee County History Center,</span> and then Easton very competently art-directed an impromptu photo shoot using the remaining frames on my roll of Tri-X.{.drop-cap}
+We drove to Okemah in <time datetime="2018-12-07">early December</time> to see folk singer and songwriter <span class="h-card p-name">Tim Easton</span>. Easton was on the first leg of a multi-city recording tour for his new album <cite>Exposition</cite>. After we had lunch at the Hen House Café we took some pictures of him working in his makeshift studio at the <span class="h-card p-org">Okfuskee County History Center,</span> and then Easton very competently art-directed an impromptu photo shoot using the remaining frames on our roll of Tri-X.{.drop-cap}
 
 We then sat down for a short interview, following which Easton sat for a formal portrait in the style of my [OKIE-X project](/okie-x/). The weather was threatening to turn bad, so we dismantled the photo studio while he continued tracking songs. Easton helped us schlep the gear to the car and we said our goodbyes, each wishing the other safe travels.
 
@@ -44,7 +44,7 @@ The interview transcript follows.
 
 <mpb-dialog-img>
 
-{% image "./src/assets/images/blog/2018-12-19-tim-easton-exposition/czahller-20181207-14-04-50.jpg", "img-constrained", "Trying Out a New Arrangement  —  Exposition Field Recording Session, Okemah, Oklahoma", "Trying Out a New Arrangement&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak; Exposition Field Recording Session, Okemah, Oklahoma" %}</mpb-dialog-img>
+{% image "./src/assets/images/blog/2018-12-19-tim-easton-exposition/czahller-20181207-14-04-50.jpg", "", "Tim Easton recording in a makeshift portable studio", "Trying Out a New Arrangement&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak; Exposition Field Recording Session, Okemah, Oklahoma", "large" %}</mpb-dialog-img>
 
 <span class="spkr ">MPB</span> Which brings me to my second question, why the heck are you recording an album here? Although I think you’ve already answered it.
 
@@ -66,7 +66,7 @@ The interview transcript follows.
 
 <mpb-dialog-img>
 
-{% image "./src/assets/images/blog/2018-12-19-tim-easton-exposition/czahller-20181207-14-25-15.jpg", "img-constrained", "Five Guitars, One Mandolin, and Tim  —  Exposition Field Recording Session, Okemah, Oklahoma", "Five Guitars, One Mandolin, and Tim&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak; Exposition Field Recording Session, Okemah, Oklahoma" %}</mpb-dialog-img>
+{% image "./src/assets/images/blog/2018-12-19-tim-easton-exposition/czahller-20181207-14-25-15.jpg", "", "Four Guitars, One Mandolin, and Tim easton lined up on a series of metal folding chairs", "Four Guitars, One Mandolin, and Tim&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak; Exposition Field Recording Session, Okemah, Oklahoma", "large" %}</mpb-dialog-img>
 
 <span class="spkr">MPB</span> You keep anticipating my questions. I was gonna ask about the creative fundraising you’ve done for this; you showed me some [disposable] cameras, earlier?
 
@@ -86,7 +86,7 @@ The interview transcript follows.
 
 <mpb-dialog-img>
 
-{% image "./src/assets/images/blog/2018-12-19-tim-easton-exposition/czahller-20181207-14-19-43.jpg", "img-constrained", "At the Piano with Hazel Jones  —  Exposition Field Recording Session, Okemah, Oklahoma", "At the Piano with Hazel Jones&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak; Exposition Field Recording Session, Okemah, Oklahoma" %}</mpb-dialog-img>
+{% image "./src/assets/images/blog/2018-12-19-tim-easton-exposition/czahller-20181207-14-19-43.jpg", "", "Tim at the grand piano. The bronze bust has been returned to its rightful spot on the piano lid", "At the Piano with Hazel Jones&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak; Exposition Field Recording Session, Okemah, Oklahoma", "large" %}</mpb-dialog-img>
 
 <span class="spkr">MPB</span> Any other songs you want to talk about?
 
@@ -154,21 +154,35 @@ Before we interviewed Easton we took some pictures of him tracking songs for the
 
 <mpb-dialog-gallery hint rel cols="8">
   
-  ![The Maestro Makes Coffee — Exposition Field Recording Session, Okemah, Oklahoma](/assets/images/blog/2018-12-19-tim-easton-exposition/czahller-20181207-13-57-04.jpg)
-  ![Capo Time](/assets/images/blog/2018-12-19-tim-easton-exposition/czahller-20181207-14-01-31.jpg)
-  ![Tracking — Exposition Field Recording Session, Okemah, Oklahoma](/assets/images/blog/2018-12-19-tim-easton-exposition/czahller-20181207-14-03-03.jpg)
-  ![Trying Out a New Arrangement — Exposition Field Recording Session, Okemah, Oklahoma](/assets/images/blog/2018-12-19-tim-easton-exposition/czahller-20181207-14-04-50.jpg)
-  ![More Tracking — Exposition Field Recording Session, Okemah, Oklahoma](/assets/images/blog/2018-12-19-tim-easton-exposition/czahller-20181207-14-05-34.jpg)
-  ![Some Guitar — Exposition Field Recording Session, Okemah, Oklahoma](/assets/images/blog/2018-12-19-tim-easton-exposition/czahller-20181207-14-06-08.jpg)
-  ![The Makeshift Studio — Exposition Field Recording Session, Okemah, Oklahoma](/assets/images/blog/2018-12-19-tim-easton-exposition/czahller-20181207-14-07-18.jpg)
-  ![Heavy Are the Arms that Bear the Bust — Exposition Field Recording Session, Okemah, Oklahoma](/assets/images/blog/2018-12-19-tim-easton-exposition/czahller-20181207-14-11-11.jpg)
-  ![Northern Light — Exposition Field Recording Session, Okemah, Oklahoma](/assets/images/blog/2018-12-19-tim-easton-exposition/czahller-20181207-14-16-33.jpg)
-  ![At the Piano with Hazel Jones — Exposition Field Recording Session, Okemah, Oklahoma](/assets/images/blog/2018-12-19-tim-easton-exposition/czahller-20181207-14-19-43.jpg)
-  ![Five Guitars, One Mandolin, and Tim — Exposition Field Recording Session, Okemah, Oklahoma](/assets/images/blog/2018-12-19-tim-easton-exposition/czahller-20181207-14-25-15.jpg)
-  ![The Secret Gymnasium — Exposition Field Recording Session, Okemah, Oklahoma](/assets/images/blog/2018-12-19-tim-easton-exposition/czahller-20181207-14-35-35.jpg)
-  ![Owl and Me — Exposition Field Recording Session, Okemah, Oklahoma](/assets/images/blog/2018-12-19-tim-easton-exposition/czahller-20181207-14-39-56.jpg)
-  ![The Door to Where? — Exposition Field Recording Session, Okemah, Oklahoma](/assets/images/blog/2018-12-19-tim-easton-exposition/czahller-20181207-14-44-18.jpg)
-  ![Tim Easton on X-Ray Film — Exposition Sessions](/assets/images/blog/2018-12-19-tim-easton-exposition/czahller-20181207-14-50-37.jpg)
+  {% image "./src/assets/images/blog/2018-12-19-tim-easton-exposition/czahller-20181207-13-57-04.jpg", "", "Tim Easton holds a french press and a bag of coffee", "The Maestro Makes Coffee&NoBreak;&hairsp;&NoBreak;—&NoBreak;&hairsp;&NoBreak;Exposition Field Recording Session, Okemah, Oklahoma" %}
+
+  {% image "./src/assets/images/blog/2018-12-19-tim-easton-exposition/czahller-20181207-14-01-31.jpg", "", "Tim Easton places a capo on his fingerboard", "Capo Time&NoBreak;&hairsp;&NoBreak;—&NoBreak;&hairsp;&NoBreak;Exposition Field Recording Session, Okemah, Oklahoma" %}
+
+  {% image "./src/assets/images/blog/2018-12-19-tim-easton-exposition/czahller-20181207-14-03-03.jpg", "", "Tim Easton tracks a song in his portable recording studio", "Tracking&NoBreak;&hairsp;&NoBreak;—&NoBreak;&hairsp;&NoBreak;Exposition Field Recording Session, Okemah, Oklahoma" %}
+
+  {% image "./src/assets/images/blog/2018-12-19-tim-easton-exposition/czahller-20181207-14-04-50.jpg", "", "Tim Easton tracks a song in his portable recording studio", "Trying Out a New Arrangement&NoBreak;&hairsp;&NoBreak;—&NoBreak;&hairsp;&NoBreak;Exposition Field Recording Session, Okemah, Oklahoma" %}
+
+  {% image "./src/assets/images/blog/2018-12-19-tim-easton-exposition/czahller-20181207-14-05-34.jpg", "", "Tim Easton tracks a song in his portable recording studio", "More Tracking&NoBreak;&hairsp;&NoBreak;—&NoBreak;&hairsp;&NoBreak;Exposition Field Recording Session, Okemah, Oklahoma" %}
+
+  {% image "./src/assets/images/blog/2018-12-19-tim-easton-exposition/czahller-20181207-14-06-08.jpg", "", "Tim Easton lays down a guitar track in his portable recording studio", "Some Guitar&NoBreak;&hairsp;&NoBreak;—&NoBreak;&hairsp;&NoBreak;Exposition Field Recording Session, Okemah, Oklahoma" %}
+
+  {% image "./src/assets/images/blog/2018-12-19-tim-easton-exposition/czahller-20181207-14-07-18.jpg", "", "Tim Easton tracks a song in his portable recording studio", "The Makeshift Studio&NoBreak;&hairsp;&NoBreak;—&NoBreak;&hairsp;&NoBreak;Exposition Field Recording Session, Okemah, Oklahoma" %}
+
+  {% image "./src/assets/images/blog/2018-12-19-tim-easton-exposition/czahller-20181207-14-11-11.jpg", "", "Tim clowns around, holding a heavy bronze bust to his chest as he bends over and walks away from a grand piano", "Heavy Are the Arms that Bear the Bust&NoBreak;&hairsp;&NoBreak;—&NoBreak;&hairsp;&NoBreak;Exposition Field Recording Session, Okemah, Oklahoma" %}
+
+  {% image "./src/assets/images/blog/2018-12-19-tim-easton-exposition/czahller-20181207-14-16-33.jpg", "", "Tim, recording a guitar part while sitting by a north-facing picture window near a grand piano.", "Northern Light&NoBreak;&hairsp;&NoBreak;—&NoBreak;&hairsp;&NoBreak;Exposition Field Recording Session, Okemah, Oklahoma" %}
+
+  {% image "./src/assets/images/blog/2018-12-19-tim-easton-exposition/czahller-20181207-14-19-43.jpg", "", "Tim at the grand piano. The bronze bust has been returned to its rightful spot on the piano lid", "At the Piano with Hazel Jones&NoBreak;&hairsp;&NoBreak;—&NoBreak;&hairsp;&NoBreak;Exposition Field Recording Session, Okemah, Oklahoma" %}
+
+  {% image "./src/assets/images/blog/2018-12-19-tim-easton-exposition/czahller-20181207-14-25-15.jpg", "", "Four guitars, one mandolin, and Tim lined up on a series of metal folding chairs", "Four Guitars, One Mandolin, and Tim&NoBreak;&hairsp;&NoBreak;—&NoBreak;&hairsp;&NoBreak;Exposition Field Recording Session, Okemah, Oklahoma" %}
+
+  {% image "./src/assets/images/blog/2018-12-19-tim-easton-exposition/czahller-20181207-14-35-35.jpg", "", "Tim and his guitar on the stage at one end of the hidden upstairs gymnasium", "The Secret Gymnasium&NoBreak;&hairsp;&NoBreak;—&NoBreak;&hairsp;&NoBreak;Exposition Field Recording Session, Okemah, Oklahoma" %}
+
+  {% image "./src/assets/images/blog/2018-12-19-tim-easton-exposition/czahller-20181207-14-39-56.jpg", "", "Tim and guitar, inside the hidden gymnasium, near a north-facing window. An owl sculpture rests on the windowsill.", "Owl and Me&NoBreak;&hairsp;&NoBreak;—&NoBreak;&hairsp;&NoBreak;Exposition Field Recording Session, Okemah, Oklahoma" %}
+
+  {% image "./src/assets/images/blog/2018-12-19-tim-easton-exposition/czahller-20181207-14-44-18.jpg", "", "Tim standing inside the stage door at the south end of the stage, inside the secret upstairs gymnasium.", "The Door to Where?&NoBreak;&hairsp;&NoBreak;—&NoBreak;&hairsp;&NoBreak;Exposition Field Recording Session, Okemah, Oklahoma" %}
+
+  {% image "featured", "", "Studio portrait of Tim Easton on X-ray film", "Tim Easton on X-Ray Film&NoBreak;&hairsp;&NoBreak;—&NoBreak;&hairsp;&NoBreak;Exposition Sessions" %}
 </mpb-dialog-gallery>
 
 <hr class="marginnotes-sep" />
@@ -177,7 +191,7 @@ Before we interviewed Easton we took some pictures of him tracking songs for the
   <ul class="marginnotes-list" role="list">
     <li id="mn1" role="listitem"><stack-l><mpb-dialog-img>
 
-{% image "./src/assets/images/blog/2018-12-19-tim-easton-exposition/tim-easton-exposition-lp-jacket-front.png", "img-constrained", "Tim Easton — Exposition Album Front Jacket", "Tim Easton&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;Exposition Album Front Jacket" %}</mpb-dialog-img>
+{% image "./src/assets/images/blog/2018-12-19-tim-easton-exposition/tim-easton-exposition-lp-jacket-front.png", "", "Tim Easton — Exposition Album Front Jacket", "Tim Easton&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;Exposition Album Front Jacket" %}</mpb-dialog-img>
 
 After the bureau published this article, Easton licensed several of the images from the shoot for the <cite>Exposition</cite> LP and CD, which he commissioned us to design. We also designed a promotional poster. [You can see the final designs here](https://messengerwebdesign.com/portfolio/tim-easton-exposition-album-design-package/){target=_blank rel="external me noopener"}.&nbsp;<a href="#mnref1" a><span class="sr-only">Back to content </span>↩︎</a>
 

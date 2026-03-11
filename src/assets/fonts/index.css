@@ -1,0 +1,113 @@
+@font-face {
+  font-family: Merriweather;
+  src: url('Merriweather-Variable.woff2') format('woff2-variations');
+  font-display: swap;
+  font-weight: 300 900;
+  font-stretch: 87% 112%;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: Merriweather;
+  src: url('Merriweather-Italic-Variable.woff2') format('woff2-variations');
+  font-display: swap;
+  font-weight: 300 900;
+  font-stretch: 87% 112%;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: MerriweatherSans;
+  src: url('MerriweatherSans-Variable.woff2') format('woff2-variations');
+  font-display: swap;
+  font-weight: 300 800;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: MerriweatherSans;
+  src: url('MerriweatherSans-Italic-Variable.woff2') format('woff2-variations');
+  font-display: swap;
+  font-weight: 300 800;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: Playfair;
+  src: url('PlayfairDisplay-Variable.woff2') format('woff2-variations');
+  font-display: swap;
+  font-style: normal;
+  font-weight: 400 900;
+}
+
+@font-face {
+  font-family: Playfair;
+  src: url('PlayfairDisplay-Italic-Variable.woff2') format('woff2-variations');
+  font-display: swap;
+  font-style: italic;
+  font-weight: 400 900;
+}
+
+@font-face {
+  font-family: PlayfairSC;
+  src: url('PlayfairDisplaySC-Regular.woff2') format('woff2');
+  font-display: swap;
+  font-weight: var(--normal, 400); /* Doesn't support 500 */
+  font-style: normal;
+}
+
+@font-face {
+  font-family: PlayfairSC;
+  src: url('PlayfairDisplaySC-Italic.woff2') format('woff2');
+  font-display: swap;
+  font-weight: var(--normal, 400); /* Doesn't support 500 */
+  font-style: italic;
+}
+
+@font-face {
+  font-family: PlayfairSC;
+  src: url('PlayfairDisplaySC-Bold.woff2') format('woff2');
+  font-display: swap;
+  font-weight: var(--bold, 700);
+  font-style: normal;
+}
+
+@font-face {
+  font-family: PlayfairSC;
+  src: url('PlayfairDisplaySC-BoldItalic.woff2') format('woff2');
+  font-display: swap;
+  font-weight: var(--bold, 700);
+  font-style: italic;
+}
+
+@font-face {
+  font-family: Cousine;
+  src: url('Cousine-Regular.woff2') format('woff2');
+  font-display: swap;
+  font-weight: var(--normal, 400); /* Doesn't support 500 */
+  font-style: normal;
+}
+
+@font-face {
+  font-family: Cousine;
+  src: url('Cousine-Italic.woff2') format('woff2');
+  font-display: swap;
+  font-weight: var(--normal, 400); /* Doesn't support 500 */
+  font-style: italic;
+}
+
+@font-face {
+  font-family: Cousine;
+  src: url('Cousine-Bold.woff2') format('woff2');
+  font-display: swap;
+  font-weight: var(--bold, 700);
+  font-style: normal;
+}
+
+@font-face {
+  font-family: Cousine;
+  src: url('Cousine-BoldItalic.woff2') format('woff2');
+  font-display: swap;
+  font-weight: var(--bold, 700);
+  font-style: italic;
+}

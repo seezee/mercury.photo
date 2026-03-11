@@ -91,7 +91,7 @@ review: '<script type="application/ld+json">
 
 <!-- markdownlint-enable MD025 --><mpb-dialog-img>
 
-{% image "featured", "img-constrained", "LumiQuest Softbox III", "LumiQuest Softbox III", "eager" %}</mpb-dialog-img>
+{% image "featured", "", "LumiQuest Softbox III", "LumiQuest Softbox III", "eager" %}</mpb-dialog-img>
 
 ## Overview
 
@@ -125,7 +125,7 @@ The softbox folds flat, so you can tuck it in your camera bag, backpack, purse, 
 
 <mpb-dialog-img>
 
-{% image "./src/assets/images/blog/2013-06-11-lumiquest/lumiquest-softbox-iii.jpg", "img-constrained", "LumiQuest Softbox III", "LumiQuest SoftBox III&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;Soft, Controlled Light in a Small Package" %}</mpb-dialog-img>
+{% image "./src/assets/images/blog/2013-06-11-lumiquest/lumiquest-softbox-iii.jpg", "", "LumiQuest Softbox III", "LumiQuest SoftBox III&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;Soft, Controlled Light in a Small Package", "large" %}</mpb-dialog-img>
 
 You’ll lose about 1¼ stops when using the LumiQuest SoftBox III; if you use gels, you’ll lose more accordingly. The large (approximately 20× the size of a typical speedlight flash head) surface area creates very soft shadows, although the light is still somewhat brighter in the center. It’s also big enough to block autofocus assist and interfere with auto-exposure, unless you employ TTL metering.
 
@@ -139,10 +139,10 @@ We recommend you purchase the LumiQuest [UltraStrap](https://bhpho.to/4lMIVGK){t
 
 <mpb-dialog-img>
 
-{% image "./src/assets/images/blog/2013-06-11-lumiquest/lumiquest-compare-direct.jpg", "img-constrained", "Portrait taken with direct light. The shadows are harsher and the contrast is higher.", "Without the LumiQuest SoftBox III (Direct Light)" %}</mpb-dialog-img>
+{% image "./src/assets/images/blog/2013-06-11-lumiquest/lumiquest-compare-direct.jpg", "", "Portrait taken with direct light. The shadows are harsher and the contrast is higher.", "Without the LumiQuest SoftBox III (Direct Light)", "large" %}</mpb-dialog-img>
 <mpb-dialog-img>
 
-{% image "./src/assets/images/blog/2013-06-11-lumiquest/lumiquest-compare-softbox.jpg", "img-constrained", "Portrait taken with LumiQuest Softbox III. The shadows are softer and the contrast is lower.", "With the LumiQuest SoftBox III" %}</mpb-dialog-img>
+{% image "./src/assets/images/blog/2013-06-11-lumiquest/lumiquest-compare-softbox.jpg", "", "Portrait taken with LumiQuest Softbox III. The shadows are softer and the contrast is lower.", "With the LumiQuest SoftBox III", "large" %}</mpb-dialog-img>
 </switcher-l>
 
 ## Care & Maintenance
@@ -187,9 +187,11 @@ We like the size, weight, and ease-of-use of the LumiQuest SoftBox III, getting 
 <mpb-callout type="note">
 
 Since we published this review LumiQuest has raised the price of the softbox, but included in the price is the UltraStrap we mentioned in the article.
+
 </mpb-callout>
 
 <mpb-callout type="info" title="Disclosure">
 
 LumiQuest provided our review copy of the LumiQuest SoftBox III <span class="foreign" lang="la">gratis</span>.
+
 </mpb-callout>

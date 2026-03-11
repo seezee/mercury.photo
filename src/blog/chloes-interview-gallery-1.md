@@ -94,7 +94,7 @@ recipe: '<script type="application/ld+json">
 
 <!-- markdownlint-enable MD025 --><mpb-dialog-img>
 
-{% image "featured", "img-constrained", "The Chloës pose on the steps of Wesley Church across the street from Kamp’s 1310 Lounge", "Tiffany, Lysandra, Brandie, April, & Leila", "eager" %}</mpb-dialog-img>
+{% image "featured", "", "The Chloës pose on the steps of Wesley Church across the street from Kamp’s 1310 Lounge", "Tiffany, Lysandra, Brandie, April, & Leila", "eager" %}</mpb-dialog-img>
 
 We spent most of [<abbr title="Norman Music Festival 6">NMF6</abbr>](https://normanmusicfestival.com){target=_blank rel="external noopener"} running from venue to venue photographing bands, but managed to squeeze in some time with the <span class="h-card p-org">Chloës</span> at their RV on Saturday afternoon. Present were keyboardist <span class="h-card p-name">Lysandra Chapman</span>, bassist <span class="h-card p-name">Brandie Dawson</span>, lead guitarist <span class="h-card p-name">Tiffany Byrd,</span> and drummer <span class="h-card p-name">Leila Wright</span>. Singer and writer <span class="h-card p-name">April Wenzel</span> was off recharging her psychic batteries[^1] following her scorching performance at Bill and Dee’s Tavern the previous evening&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;a performance that ended with most of the audience&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;men and women alike&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;pogoing and chanting the refrain from <cite class="short-work">[Put that Dick Away](https://music.apple.com/us/album/put-that-dick-away/1289963239?i=1289963247&uo=4&at=10ldhk){target=_blank rel="external noopener"}</cite>&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;more on that song in [part three](/blog/chloes-interview-gallery-3/){rel=next}.
 
@@ -114,7 +114,7 @@ After setting up our equipment and mixing up some tasty martinis for the band, w
 
 <mpb-dialog-img>
 
-{% image "./src/assets/images/blog/2013-05-13-chloes-kamps/czahller-20121201-23-09-45.jpg", "img-constrained", "April Wenzel seen from a. low angle. She is singing into a microphone. Her right hand is extended; she is pointing with her index finger.", "April (III)" %}</mpb-dialog-img>
+{% image "./src/assets/images/blog/2013-05-13-chloes-kamps/czahller-20121201-23-09-45.jpg", "", "April Wenzel seen from a. low angle. She is singing into a microphone. Her right hand is extended; she is pointing with her index finger.", "April (III)", "large" %}</mpb-dialog-img>
 
 So I re-met her, and got to be friends with her again, ten years later, maybe twelve years later. She was kind of at a point in her [marriage] that, <q>We’re settled in, and I’m gonna start […] taking lessons, and I want to do this band thing; I’m gonna do it.</q> And I really admired that, ’cause I knew that she was a good guitarist, but she was taking guitar lessons! And I had grown up in band, and I was, like, <q>Wow! Someone actually […] takes lessons when they’re an adult&#8253; What is **that**?</q> […] I didn’t get that. But she did, and when she was in piano lessons, she met Roxanne, and Roxanne wrote some great stuff, and, yeah, life got in the way, and she couldn’t do it; she couldn’t be there, and so [April] asked me to be in the band, and I said&NoBreak;&hairsp;&NoBreak;&mdash;
 
@@ -142,7 +142,7 @@ So I re-met her, and got to be friends with her again, ten years later, maybe tw
 
 <mpb-dialog-img>
 
-{% image "./src/assets/images/blog/2013-05-13-chloes-kamps/czahller-20121201-23-03-37.jpg", "img-constrained", "Brandie Dawson plays a Fender bass. Her eyes are closed. She has long, straight, dark hair and wears a leather jacket.", "Brandie (I)" %}</mpb-dialog-img>
+{% image "./src/assets/images/blog/2013-05-13-chloes-kamps/czahller-20121201-23-03-37.jpg", "", "Brandie Dawson plays a Fender bass. Her eyes are closed. She has long, straight, dark hair and wears a leather jacket.", "Brandie (I)", "large" %}</mpb-dialog-img>
 
 We really don’t fight; I mean, we fight, but it’s kinda ridic-&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;I mean, we fought last week&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;[*Chapman’s husband, <span class="h-card p-name"><span class="p-given-name">Kevin</span></span>, imitates cat screech*]&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;to be perfectly honest; and then, immediately&NoBreak;&hairsp;&NoBreak;&mdash;
 
@@ -162,7 +162,7 @@ We really don’t fight; I mean, we fight, but it’s kinda ridic-&NoBreak;&hair
 
 <mpb-dialog-img>
 
-{% image "./src/assets/images/blog/2013-05-13-chloes-kamps/czahller-20121201-23-42-06.jpg", "img-constrained", "Leila Wright smiles while she plays the drums. She wears a scoop-neck sleeveless singlet (tank-top) and a short, plaid skirt.", "Leila (VI)" %}</mpb-dialog-img>
+{% image "./src/assets/images/blog/2013-05-13-chloes-kamps/czahller-20121201-23-42-06.jpg", "", "Leila Wright smiles while she plays the drums. She wears a scoop-neck sleeveless singlet (tank-top) and a short, plaid skirt.", "Leila (VI)", "large" %}</mpb-dialog-img>
 
 <span class="spkr">Dawson</span> I’m responsible. I’m the one who says, <q>No! We should not do this!</q>
 
@@ -184,7 +184,7 @@ The funny thing is, April knows that track. April knows where she wants us to go
 
 <mpb-dialog-img>
 
-{% image "./src/assets/images/blog/2013-05-13-chloes-kamps/czahller-20121201-23-38-24.jpg", "img-constrained", "Lysandra Chapman stands behind a keyboard. Her red hair is pinned up. She sings into a microphone, which she cradles in one hand. She wears a leather jacket.", "Lysandra (IV)" %}</mpb-dialog-img>
+{% image "./src/assets/images/blog/2013-05-13-chloes-kamps/czahller-20121201-23-38-24.jpg", "", "Lysandra Chapman stands behind a keyboard. Her red hair is pinned up. She sings into a microphone, which she cradles in one hand. She wears a leather jacket.", "Lysandra (IV)", "large" %}</mpb-dialog-img>
 
 <span class="spkr">Wright</span> I love all this crazy shit; I love foam swords and piñata heads and I love the toys and the flash and making a joyful experience&NoBreak;&hairsp;&NoBreak;&mdash;
 
@@ -226,7 +226,7 @@ So there is *some* resistance, because we know where we want to go, we know the 
 
 <mpb-dialog-img>
 
-{% image "./src/assets/images/blog/2013-05-13-chloes-kamps/czahller-20121201-23-04-19.jpg", "img-constrained", "Tiffany Bird plays electrick guitar. She wears a trilby hat. Her eyes are outlined with thick, dark eyeliner.", "Tiffany (III)" %}</mpb-dialog-img>
+{% image "./src/assets/images/blog/2013-05-13-chloes-kamps/czahller-20121201-23-04-19.jpg", "", "Tiffany Bird plays electrick guitar. She wears a trilby hat. Her eyes are outlined with thick, dark eyeliner.", "Tiffany (III)", "large" %}</mpb-dialog-img>
 
 <span class="spkr">Byrd</span> It comes out a little more with each show. We played my first show after, like, a week of practice.
 
@@ -267,49 +267,91 @@ So there is *some* resistance, because we know where we want to go, we know the 
 
 <mpb-dialog-gallery hint rel cols="8">
 
-  ![Chloës Play List](/assets/images/blog/2013-05-13-chloes-kamps/czahller-20121202-15-56-23.jpg)
-  ![Tapestry Introduces the Band](/assets/images/blog/2013-05-13-chloes-kamps/czahller-20121201-23-02-14.jpg)
-  ![Lysandra (I)](/assets/images/blog/2013-05-13-chloes-kamps/czahller-20121201-23-02-44.jpg)
-  ![Leila (I)](/assets/images/blog/2013-05-13-chloes-kamps/czahller-20121201-23-03-02.jpg)
-  ![Tiffany (I)](/assets/images/blog/2013-05-13-chloes-kamps/czahller-20121201-23-03-18.jpg)
-  ![Tiffany (II)](/assets/images/blog/2013-05-13-chloes-kamps/czahller-20121201-23-03-26.jpg)
-  ![Brandie (I)](/assets/images/blog/2013-05-13-chloes-kamps/czahller-20121201-23-03-37.jpg)
-  ![Brandie (II)](/assets/images/blog/2013-05-13-chloes-kamps/czahller-20121201-23-03-42.jpg)
-  ![April (Sunglasses & Fur)](/assets/images/blog/2013-05-13-chloes-kamps/czahller-20121201-23-04-03.jpg)
-  ![Tiffany (III)](/assets/images/blog/2013-05-13-chloes-kamps/czahller-20121201-23-04-19.jpg)
-  ![Lysandra (II)](/assets/images/blog/2013-05-13-chloes-kamps/czahller-20121201-23-04-24.jpg)
-  ![April (Sunglasses & Fur II)](/assets/images/blog/2013-05-13-chloes-kamps/czahller-20121201-23-04-34.jpg)
-  ![Brandie (III)](/assets/images/blog/2013-05-13-chloes-kamps/czahller-20121201-23-04-48.jpg)
-  ![April (I)](/assets/images/blog/2013-05-13-chloes-kamps/czahller-20121201-23-05-35.jpg)
-  ![Lysandra & Tiffany (I)](/assets/images/blog/2013-05-13-chloes-kamps/czahller-20121201-23-06-58.jpg)
-  ![April (II) (Crazy Eye)](/assets/images/blog/2013-05-13-chloes-kamps/czahller-20121201-23-07-37.jpg)
-  ![Brandie (IV)](/assets/images/blog/2013-05-13-chloes-kamps/czahller-20121201-23-08-06.jpg)
-  ![Leila (II)](/assets/images/blog/2013-05-13-chloes-kamps/czahller-20121201-23-08-51.jpg)
-  ![April (III)](/assets/images/blog/2013-05-13-chloes-kamps/czahller-20121201-23-09-45.jpg)
-  ![April (IV)](/assets/images/blog/2013-05-13-chloes-kamps/czahller-20121201-23-10-30.jpg)
-  ![Lysandra (III)](/assets/images/blog/2013-05-13-chloes-kamps/czahller-20121201-23-10-41.jpg)
-  ![The Chloës (I)](/assets/images/blog/2013-05-13-chloes-kamps/czahller-20121201-23-12-30.jpg)
-  ![The Chloës (II)](/assets/images/blog/2013-05-13-chloes-kamps/czahller-20121201-23-13-10.jpg)
-  ![The Chloës (III)](/assets/images/blog/2013-05-13-chloes-kamps/czahller-20121201-23-14-34.jpg)
-  ![The Chloës (IV)](/assets/images/blog/2013-05-13-chloes-kamps/czahller-20121201-23-15-15.jpg)
-  ![April, Brandie, & Leila](/assets/images/blog/2013-05-13-chloes-kamps/czahller-20121201-23-15-50.jpg)
-  ![April (Salute)](/assets/images/blog/2013-05-13-chloes-kamps/czahller-20121201-23-17-42.jpg)
-  ![April (V)](/assets/images/blog/2013-05-13-chloes-kamps/czahller-20121201-23-17-46.jpg)
-  ![April (VI)](/assets/images/blog/2013-05-13-chloes-kamps/czahller-20121201-23-23-39.jpg)
-  ![Lysandra & Tiffany (II)](/assets/images/blog/2013-05-13-chloes-kamps/czahller-20121201-23-23-58.jpg)
-  ![Leila (IV)](/assets/images/blog/2013-05-13-chloes-kamps/czahller-20121201-23-25-22.jpg)
-  ![Tiffany & Lysandra](/assets/images/blog/2013-05-13-chloes-kamps/czahller-20121201-23-36-41.jpg)
-  ![Leila (V) (Laughing)](/assets/images/blog/2013-05-13-chloes-kamps/czahller-20121201-23-37-35.jpg)
-  ![Lysandra (IV)](/assets/images/blog/2013-05-13-chloes-kamps/czahller-20121201-23-38-24.jpg)
-  ![April (Brandie Laughing)](/assets/images/blog/2013-05-13-chloes-kamps/czahller-20121201-23-39-09.jpg)
-  ![April (VIII)](/assets/images/blog/2013-05-13-chloes-kamps/czahller-20121201-23-41-50.jpg)
-  ![Leila (VI)](/assets/images/blog/2013-05-13-chloes-kamps/czahller-20121201-23-42-06.jpg)
-  ![Lysandra (V)](/assets/images/blog/2013-05-13-chloes-kamps/czahller-20121201-23-42-31.jpg)
-  ![Leila (VII)](/assets/images/blog/2013-05-13-chloes-kamps/czahller-20121201-23-43-19.jpg)
-  ![April (IX)](/assets/images/blog/2013-05-13-chloes-kamps/czahller-20121201-23-43-42.jpg)
-  ![Brandie (V)](/assets/images/blog/2013-05-13-chloes-kamps/czahller-20121201-23-43-51.jpg)
-  ![Leila (VIII)](/assets/images/blog/2013-05-13-chloes-kamps/czahller-20121201-23-44-00.jpg)
-  ![Lysandra (Boots)](/assets/images/blog/2013-05-13-chloes-kamps/czahller-20121201-23-45-06.jpg)
+  {% image "./src/assets/images/blog/2013-05-13-chloes-kamps/czahller-20121202-15-56-23.jpg", "", "Chloës Play List", "Chloës Play   List" %}
+
+  {% image "./src/assets/images/blog/2013-05-13-chloes-kamps/czahller-20121201-23-02-14.jpg", "", "Tapestry Introduces the Band", "Tapestry Introduces the Band" %}
+
+  {% image "./src/assets/images/blog/2013-05-13-chloes-kamps/czahller-20121201-23-02-44.jpg", "", "Lysandra", "Lysandra (I)" %}
+
+  {% image "./src/assets/images/blog/2013-05-13-chloes-kamps/czahller-20121201-23-03-02.jpg", "", "Leila", "Leila (I)" %}
+
+  {% image "./src/assets/images/blog/2013-05-13-chloes-kamps/czahller-20121201-23-03-18.jpg", "", "Tiffany", "Tiffany (I)" %}
+
+  {% image "./src/assets/images/blog/2013-05-13-chloes-kamps/czahller-20121201-23-03-26.jpg", "", "Tiffany", "Tiffany (II)" %}
+
+  {% image "./src/assets/images/blog/2013-05-13-chloes-kamps/czahller-20121201-23-03-37.jpg", "", "Brandie", "Brandie (I)" %}
+
+  {% image "./src/assets/images/blog/2013-05-13-chloes-kamps/czahller-20121201-23-03-42.jpg", "", "Brandie", "Brandie (II)" %}
+
+  {% image "./src/assets/images/blog/2013-05-13-chloes-kamps/czahller-20121201-23-04-03.jpg", "", "April wearing mirrored aviator shades", "April (Sunglasses & Fur)" %}
+
+  {% image "./src/assets/images/blog/2013-05-13-chloes-kamps/czahller-20121201-23-04-19.jpg", "", "Tiffany", "Tiffany (III)" %}
+
+  {% image "./src/assets/images/blog/2013-05-13-chloes-kamps/czahller-20121201-23-04-24.jpg", "", "Lysandra", "Lysandra (II)" %}
+
+  {% image "./src/assets/images/blog/2013-05-13-chloes-kamps/czahller-20121201-23-04-34.jpg", "", "April wearing mirrored aviator shades", "April (Sunglasses & Fur II)" %}
+
+  {% image "./src/assets/images/blog/2013-05-13-chloes-kamps/czahller-20121201-23-04-48.jpg", "", "Brandie", "Brandie (III)" %}
+
+  {% image "./src/assets/images/blog/2013-05-13-chloes-kamps/czahller-20121201-23-05-35.jpg", "", "April", "April (I)" %}
+
+  {% image "./src/assets/images/blog/2013-05-13-chloes-kamps/czahller-20121201-23-06-58.jpg", "", "Lysandra & Tiffany", "Lysandra & Tiffany (I)" %}
+
+  {% image "./src/assets/images/blog/2013-05-13-chloes-kamps/czahller-20121201-23-07-37.jpg", "", "April sings “Crazy Eye”", "April (II) (Crazy Eye)" %}
+
+  {% image "./src/assets/images/blog/2013-05-13-chloes-kamps/czahller-20121201-23-08-06.jpg", "", "Brandie", "Brandie (IV)" %}
+
+  {% image "./src/assets/images/blog/2013-05-13-chloes-kamps/czahller-20121201-23-08-51.jpg", "", "Leila", "Leila (II)" %}
+
+  {% image "./src/assets/images/blog/2013-05-13-chloes-kamps/czahller-20121201-23-09-45.jpg", "", "April", "April (III)" %}
+
+  {% image "./src/assets/images/blog/2013-05-13-chloes-kamps/czahller-20121201-23-10-30.jpg", "", "April", "April (IV)" %}
+
+  {% image "./src/assets/images/blog/2013-05-13-chloes-kamps/czahller-20121201-23-10-41.jpg", "", "Lysandra", "Lysandra (III)" %}
+
+  {% image "./src/assets/images/blog/2013-05-13-chloes-kamps/czahller-20121201-23-12-30.jpg", "", "The Chloës", "The Chloës (I)" %}
+
+  {% image "./src/assets/images/blog/2013-05-13-chloes-kamps/czahller-20121201-23-13-10.jpg", "", "The Chloës", "The Chloës (II)" %}
+
+  {% image "./src/assets/images/blog/2013-05-13-chloes-kamps/czahller-20121201-23-14-34.jpg", "", "The Chloës", "The Chloës (III)" %}
+
+  {% image "./src/assets/images/blog/2013-05-13-chloes-kamps/czahller-20121201-23-15-15.jpg", "", "The Chloës", "The Chloës (IV)" %}
+
+  {% image "./src/assets/images/blog/2013-05-13-chloes-kamps/czahller-20121201-23-15-50.jpg", "", "April, Brandie, & Leila", "April, Brandie, & Leila" %}
+
+  {% image "./src/assets/images/blog/2013-05-13-chloes-kamps/czahller-20121201-23-17-42.jpg", "", "April saluting the audience", "April (Salute)" %}
+
+  {% image "./src/assets/images/blog/2013-05-13-chloes-kamps/czahller-20121201-23-17-46.jpg", "", "April", "April (V)" %}
+
+  {% image "./src/assets/images/blog/2013-05-13-chloes-kamps/czahller-20121201-23-23-39.jpg", "", "April", "April (VI)" %}
+
+  {% image "./src/assets/images/blog/2013-05-13-chloes-kamps/czahller-20121201-23-23-58.jpg", "", "Lysandra & Tiffany", "Lysandra & Tiffany (II)" %}
+
+  {% image "./src/assets/images/blog/2013-05-13-chloes-kamps/czahller-20121201-23-25-22.jpg", "", "Leila", "Leila (IV)" %}
+
+  {% image "./src/assets/images/blog/2013-05-13-chloes-kamps/czahller-20121201-23-36-41.jpg", "", "Tiffany & Lysandra", "Tiffany & Lysandra" %}
+
+  {% image "./src/assets/images/blog/2013-05-13-chloes-kamps/czahller-20121201-23-37-35.jpg", "", "Leila laughing from the drum throne", "Leila (V) (Laughing)" %}
+
+  {% image "./src/assets/images/blog/2013-05-13-chloes-kamps/czahller-20121201-23-38-24.jpg", "", "Lysandra", "Lysandra (IV)" %}
+
+  {% image "./src/assets/images/blog/2013-05-13-chloes-kamps/czahller-20121201-23-39-09.jpg", "", "April & Brandie. Brandie is laughing", "April (Brandie Laughing)" %}
+
+  {% image "./src/assets/images/blog/2013-05-13-chloes-kamps/czahller-20121201-23-41-50.jpg", "", "April", "April (VIII)" %}
+
+  {% image "./src/assets/images/blog/2013-05-13-chloes-kamps/czahller-20121201-23-42-06.jpg", "", "Leila", "Leila (VI)" %}
+
+  {% image "./src/assets/images/blog/2013-05-13-chloes-kamps/czahller-20121201-23-42-31.jpg", "", "Lysandra", "Lysandra (V)" %}
+
+  {% image "./src/assets/images/blog/2013-05-13-chloes-kamps/czahller-20121201-23-43-19.jpg", "", "Leila", "Leila (VII)" %}
+
+  {% image "./src/assets/images/blog/2013-05-13-chloes-kamps/czahller-20121201-23-43-42.jpg", "", "April", "April (IX)" %}
+
+  {% image "./src/assets/images/blog/2013-05-13-chloes-kamps/czahller-20121201-23-43-51.jpg", "", "Brandie", "Brandie (V)" %}
+
+  {% image "./src/assets/images/blog/2013-05-13-chloes-kamps/czahller-20121201-23-44-00.jpg", "", "Leila", "Leila (VIII)" %}
+
+  {% image "./src/assets/images/blog/2013-05-13-chloes-kamps/czahller-20121201-23-45-06.jpg", "", "Lysandra’s high-heeled voots", "Lysandra (Boots)" %}
 </mpb-dialog-gallery>
 
 ## Recipe: The Chloës Martini

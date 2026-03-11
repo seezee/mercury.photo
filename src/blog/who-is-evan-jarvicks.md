@@ -20,7 +20,7 @@ excerpt: Jarvix. The man. The musician. The mystery. Evan Jarvicks came by the s
 
 <!-- markdownlint-enable MD025 --><mpb-dialog-img>
 
-{% image "featured", "img-constrained", "Evan Jarvicks plays a ukelele solo during the Norman Music Festival", "Uke Solo", "eager" %}</mpb-dialog-img>
+{% image "featured", "", "Evan Jarvicks plays a ukelele solo during the Norman Music Festival", "Uke Solo", "eager" %}</mpb-dialog-img>
 
 <div class="drop-cap descender">
 
@@ -98,28 +98,51 @@ This gallery features images of <span class="h-card p-name p-nickname">Jarvix</s
 <mpb-dialog-gallery hint rel cols="8">
 </div>
   
-  ![McClane Daniels Awaits the Start of JARVIX's Set with His Didgeridoo](/assets/images/blog/2016-09-04-jarvix/czahller-20151120-21-25-45.jpg)
-  ![JARVIX Enters](/assets/images/blog/2016-09-04-jarvix/czahller-20151120-21-26-29.jpg)
-  ![Who Is the Man under the Hat? JARVIX!](/assets/images/blog/2016-09-04-jarvix/czahller-20151120-21-32-08.jpg)
-  ![Temporary Island Life with JARVIX](/assets/images/blog/2016-09-04-jarvix/czahller-20151120-21-52-51.jpg)
-  ![Flamingo (JARVIX)](/assets/images/blog/2016-09-04-jarvix/czahller-20160421-18-33-05.jpg)
-  ![JARVIX Bass Loop](/assets/images/blog/2016-09-04-jarvix/czahller-20160421-18-33-49.jpg)
-  ![JARVIX Speaks](/assets/images/blog/2016-09-04-jarvix/czahller-20160421-18-34-01.jpg)
-  ![Uke Solo](/assets/images/blog/2016-09-04-jarvix/czahller-20160421-18-34-57.jpg)
-  ![Farewell from JARVIX](/assets/images/blog/2016-09-04-jarvix/czahller-20160421-18-35-32.jpg)
-  ![Introït](/assets/images/blog/2016-09-04-jarvix/czahller-20160421-18-36-36.jpg)
-  ![JARVIX (I)](/assets/images/blog/2016-09-04-jarvix/czahller-20160421-18-37-35.jpg)
-  ![JARVIX (II)](/assets/images/blog/2016-09-04-jarvix/czahller-20160421-18-42-58.jpg)
-  ![JARVIX (Closeup)](/assets/images/blog/2016-09-04-jarvix/czahller-20160421-18-44-12.jpg)
-  ![JARVIX (III)](/assets/images/blog/2016-09-04-jarvix/czahller-20160806-22-16-43.jpg)
-  ![JARVIX (IV)](/assets/images/blog/2016-09-04-jarvix/czahller-20160806-22-18-22.jpg)
-  ![JARVIX (V)](/assets/images/blog/2016-09-04-jarvix/czahller-20160806-22-19-02.jpg)
-  ![Strange Percussion Loops](/assets/images/blog/2016-09-04-jarvix/czahller-20160806-22-22-19.jpg)
-  ![Melodica Loop](/assets/images/blog/2016-09-04-jarvix/czahller-20160806-22-23-45.jpg)
-  ![Recorder Loop](/assets/images/blog/2016-09-04-jarvix/czahller-20160806-22-24-21.jpg)
-  ![Bass Loop](/assets/images/blog/2016-09-04-jarvix/czahller-20160806-22-24-35.jpg)
-  ![JARVIX (I)](/assets/images/blog/2016-09-04-jarvix/czahller-20160806-22-41-03.jpg)
-  ![JARVIX (II)](/assets/images/blog/2016-09-04-jarvix/czahller-20160806-22-41-43.jpg)
-  ![JARVIX & Kinsey Charles (I)](/assets/images/blog/2016-09-04-jarvix/czahller-20160806-22-43-35.jpg)
-  ![JARVIX & Kinsey Charles (II)](/assets/images/blog/2016-09-04-jarvix/czahller-20160806-22-50-37.jpg)
+  {% image "./src/assets/images/blog/2016-09-04-jarvix/czahller-20151120-21-25-45.jpg", "", "JARVIX", "JARVIX (I)" %}
+
+  {% image "./src/assets/images/blog/2016-09-04-jarvix/czahller-20151120-21-26-29.jpg", "", "JARVIX", "JARVIX (II)" %}
+
+  {% image "./src/assets/images/blog/2016-09-04-jarvix/czahller-20151120-21-32-08.jpg", "", "JARVIX & Kinsey Charles", "JARVIX & Kinsey Charles (I)" %}
+
+  {% image "./src/assets/images/blog/2016-09-04-jarvix/czahller-20151120-21-52-51.jpg", "", "JARVIX & Kinsey Charles", "JARVIX & Kinsey Charles (II)" %}
+
+  {% image "./src/assets/images/blog/2016-09-04-jarvix/czahller-20160421-18-33-05.jpg", "", "McClane Daniels sits on the stage floor, to one side, holding a didgeridoo", "McClane Daniels Awaits the Start of JARVIX's Set with His Didgeridoo" %}
+
+  {% image "./src/assets/images/blog/2016-09-04-jarvix/czahller-20160421-18-33-49.jpg", "", "Evan Jarvicks enters the stage", "JARVIX Enters" %}
+
+  {% image "./src/assets/images/blog/2016-09-04-jarvix/czahller-20160421-18-34-01.jpg", "", "Evan Jarvicks’s face obscured by a large, rustic straw hat", "Who Is the Man under the Hat? JARVIX!" %}
+
+  {% image "./src/assets/images/blog/2016-09-04-jarvix/czahller-20160421-18-34-57.jpg", "", "Evan Jarvicks onstage with various tropical props and decor", "Temporary Island Life with JARVIX" %}
+
+  {% image "./src/assets/images/blog/2016-09-04-jarvix/czahller-20160421-18-35-32.jpg", "", "An inflatable pink flamingo on the stage", "Flamingo (JARVIX)" %}
+
+  {% image "./src/assets/images/blog/2016-09-04-jarvix/czahller-20160421-18-36-36.jpg", "", "Evan Jarvicks plays an acoustic bass guitar", "JARVIX Bass Loop" %}
+
+  {% image "./src/assets/images/blog/2016-09-04-jarvix/czahller-20160421-18-37-35.jpg", "", "Evan Jarvicks speaks to the audience", "JARVIX speaks" %}
+
+  {% image "featured", "", "Evan Jarvicks plays a ukelele solo during the Norman Music Festival", "Uke Solo" %}
+
+  {% image "./src/assets/images/blog/2016-09-04-jarvix/czahller-20160421-18-44-12.jpg", "", "Evan Jarvicks plays his final song. He has swapped his island hat for a knit hat with eyes, ears, and braids", "Farewell" %}
+
+  {% image "./src/assets/images/blog/2016-09-04-jarvix/czahller-20160806-22-16-43.jpg", "", "Evan Jarvicks introduces himself", "Introït" %}
+
+  {% image "./src/assets/images/blog/2016-09-04-jarvix/czahller-20160806-22-18-22.jpg", "", "Evan Jarvicks", "JARVIX (I)" %}
+
+  {% image "./src/assets/images/blog/2016-09-04-jarvix/czahller-20160806-22-19-02.jpg", "", "Evan Jarvicks", "JARVIX (II)" %}
+
+  {% image "./src/assets/images/blog/2016-09-04-jarvix/czahller-20160806-22-22-19.jpg", "", "Closeup of Evan Jarvicks", "JARVIX (Closeup)" %}
+
+  {% image "./src/assets/images/blog/2016-09-04-jarvix/czahller-20160806-22-23-45.jpg", "", "Evan Jarvicks", "JARVIX (III)" %}
+
+  {% image "./src/assets/images/blog/2016-09-04-jarvix/czahller-20160806-22-24-21.jpg", "", "Evan Jarvicks", "JARVIX (IV)" %}
+
+  {% image "./src/assets/images/blog/2016-09-04-jarvix/czahller-20160806-22-24-35.jpg", "", "Evan Jarvicks", "JARVIX (V)" %}
+
+  {% image "./src/assets/images/blog/2016-09-04-jarvix/czahller-20160806-22-41-03.jpg", "",  "Evan Jarvicks turns everyday objects into percussion instruments", "Strange Percussion Loops" %}
+
+  {% image "./src/assets/images/blog/2016-09-04-jarvix/czahller-20160806-22-41-43.jpg", "", "Evan Jarvicks plays a melodica", "Melidica Loop" %}
+
+  {% image "./src/assets/images/blog/2016-09-04-jarvix/czahller-20160806-22-43-35.jpg", "", "Evan Jarvicks plays a plastic recorder", "Recorder Loop" %}
+
+  {% image "./src/assets/images/blog/2016-09-04-jarvix/czahller-20160806-22-50-37.jpg", "", "Evan Jarvicks plays bass guitar", "Bass Loop" %}
 </mpb-dialog-gallery>

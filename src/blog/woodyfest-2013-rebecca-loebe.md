@@ -31,7 +31,7 @@ Self-styled “post-brontosaurus indie folk/crunk” artist captivates audience
   </stack-l>
 </hgroup><mpb-dialog-img>
 
-{% image "featured", "img-constrained", "Rebecca Loebe seen from upstage. Her back is to the camera as she faces the empty auditorium during soundcheck. She wears a short blue dress and holds an acoustic guitar.", "Rebecca Loebe (V)", "eager" %}</mpb-dialog-img>
+{% image "featured", "", "Rebecca Loebe seen from upstage. Her back is to the camera as she faces the empty auditorium during soundcheck. She wears a short blue dress and holds an acoustic guitar.", "Rebecca Loebe (V)", "eager" %}</mpb-dialog-img>
 
 <blockquote cite="https://www.reverbnation.com/rebeccaloebe">
 
@@ -60,16 +60,27 @@ She’s also very funny&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBrea
 
 <mpb-dialog-gallery hint rel cols="8">
 
-  ![Rebecca Loebe (I) — Sound Check](/assets/images/blog/2013-10-23-woodyfest-rebecca-loebe/czahller-20130712-10-30-31.jpg)
-  ![Rebecca Loebe (II) — Sound Check](/assets/images/blog/2013-10-23-woodyfest-rebecca-loebe/czahller-20130712-10-31-02.jpg)
-  ![Rebecca Loebe (III) — Sound Check](/assets/images/blog/2013-10-23-woodyfest-rebecca-loebe/czahller-20130712-10-31-31.jpg)
-  ![Rebecca Loebe (IV) — Sound Check](/assets/images/blog/2013-10-23-woodyfest-rebecca-loebe/czahller-20130712-10-32-39.jpg)
-  ![Rebecca Loebe (V) — Sound Check](/assets/images/blog/2013-10-23-woodyfest-rebecca-loebe/czahller-20130712-10-34-00.jpg)
-  ![Rebecca Loebe (I)](/assets/images/blog/2013-10-23-woodyfest-rebecca-loebe/czahller-20130712-11-25-39.jpg)
-  ![Rebecca Loebe (II)](/assets/images/blog/2013-10-23-woodyfest-rebecca-loebe/czahller-20130712-11-26-13.jpg)
-  ![Rebecca Loebe (III)](/assets/images/blog/2013-10-23-woodyfest-rebecca-loebe/czahller-20130712-11-26-22.jpg)
-  ![Rebecca Loebe (IV)](/assets/images/blog/2013-10-23-woodyfest-rebecca-loebe/czahller-20130712-11-30-23.jpg)
-  ![Rebecca Loebe (V)](/assets/images/blog/2013-10-23-woodyfest-rebecca-loebe/czahller-20130712-11-47-06.jpg)
-  ![Rebecca Loebe (VI)](/assets/images/blog/2013-10-23-woodyfest-rebecca-loebe/czahller-20130712-11-47-09.jpg)
-  ![Rebecca Loebe (VII)](/assets/images/blog/2013-10-23-woodyfest-rebecca-loebe/czahller-20130712-11-48-19.jpg)
+  {% image "./src/assets/images/blog/2013-10-23-woodyfest-rebecca-loebe/czahller-20130712-10-30-31.jpg", "", "Rebecca Loebe", "Rebecca Loebe (I)&NoBreak;&hairsp;&NoBreak;—&NoBreak;&hairsp;&NoBreak;Sound Check" %}
+
+  {% image "./src/assets/images/blog/2013-10-23-woodyfest-rebecca-loebe/czahller-20130712-10-31-02.jpg", "", "Rebecca Loebe", "Rebecca Loebe (II)&NoBreak;&hairsp;&NoBreak;—&NoBreak;&hairsp;&NoBreak;Sound Check" %}
+
+  {% image "./src/assets/images/blog/2013-10-23-woodyfest-rebecca-loebe/czahller-20130712-10-31-31.jpg", "", "Rebecca Loebe", "Rebecca Loebe (III)&NoBreak;&hairsp;&NoBreak;—&NoBreak;&hairsp;&NoBreak;Sound Check" %}
+
+  {% image "./src/assets/images/blog/2013-10-23-woodyfest-rebecca-loebe/czahller-20130712-10-32-39.jpg", "", "Rebecca Loebe", "Rebecca Loebe (IV)&NoBreak;&hairsp;&NoBreak;—&NoBreak;&hairsp;&NoBreak;Sound Check" %}
+
+  {% image "featured", "", "Rebecca Loebe seen from upstage. Her back is to the camera as she faces the empty auditorium during soundcheck. She wears a short blue dress and holds an acoustic guitar.", "Rebecca Loebe (V)&NoBreak;&hairsp;&NoBreak;—&NoBreak;&hairsp;&NoBreak;Sound Check" %}
+
+  {% image "./src/assets/images/blog/2013-10-23-woodyfest-rebecca-loebe/czahller-20130712-11-25-39.jpg", "", "Rebecca Loebe", "Rebecca Loebe (I)" %}
+
+  {% image "./src/assets/images/blog/2013-10-23-woodyfest-rebecca-loebe/czahller-20130712-11-26-13.jpg", "", "Rebecca Loebe", "Rebecca Loebe (II)" %}
+
+  {% image "./src/assets/images/blog/2013-10-23-woodyfest-rebecca-loebe/czahller-20130712-11-26-22.jpg", "", "Rebecca Loebe", "Rebecca Loebe (III)" %}
+
+  {% image "./src/assets/images/blog/2013-10-23-woodyfest-rebecca-loebe/czahller-20130712-11-30-23.jpg", "", "Rebecca Loebe", "Rebecca Loebe (IV)" %}
+
+  {% image "./src/assets/images/blog/2013-10-23-woodyfest-rebecca-loebe/czahller-20130712-11-47-06.jpg", "", "Rebecca Loebe", "Rebecca Loebe (V)" %}
+
+  {% image "./src/assets/images/blog/2013-10-23-woodyfest-rebecca-loebe/czahller-20130712-11-47-09.jpg", "", "Rebecca Loebe", "Rebecca Loebe (VI)" %}
+
+  {% image "./src/assets/images/blog/2013-10-23-woodyfest-rebecca-loebe/czahller-20130712-11-48-19.jpg", "", "Rebecca Loebe", "Rebecca Loebe (VII)" %}
 </mpb-dialog-gallery>

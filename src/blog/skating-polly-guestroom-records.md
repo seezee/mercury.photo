@@ -23,7 +23,7 @@ excerpt: One of the most anticipated Oklahoma music releases of 2014 dropped las
 <p>Sensational show ends with crash landing</p></stack-l></hgroup>
 <!-- markdownlint-enable MD025 --><mpb-dialog-img>
 
-{% image "featured", "img-constrained", "Kelli playing a basitar solo. She is crouched over the instrument, standing on tiptoes, and wearing knee-high striped socks but no shoes. Her long blond hair covers her face.", "Kelli Finale (III)", "eager" %}</mpb-dialog-img>
+{% image "featured", "", "Kelli playing a basitar solo. She is crouched over the instrument, standing on tiptoes, and wearing knee-high striped socks but no shoes. Her long blond hair covers her face.", "Kelli Finale (III)", "eager" %}</mpb-dialog-img>
 
 One of the most anticipated Oklahoma music releases of <time datetime="2014">2014</time> dropped <time datetime="2014-02-23">last month</time>, with the release of <span class="h-card p-org">Skating Polly</span>’s third full-length album, <cite>Fuzz Steilacoom</cite>. The album is already getting many [favorable reviews](https://www.okgazette.com/music/skating-polly-fuzz-steilacoom-2964483){target=_blank rel="external noopener"}, and has been in heavy rotation here at the Bureau’s offices since we received our preview copy.{.drop-cap}
 
@@ -46,46 +46,87 @@ You can see more pictures of Skating Polly, read our exclusive interview, and se
 
 <mpb-dialog-gallery hint rel cols="8">
 
-  ![Skating Polly (I)](/assets/images/blog/2014-03-25-skating-polly-guestroom/czahller-20140322-14-13-02.jpg)
-  ![Peyton (I)](/assets/images/blog/2014-03-25-skating-polly-guestroom/czahller-20140322-14-13-43.jpg)
-  ![Kelli (I)](/assets/images/blog/2014-03-25-skating-polly-guestroom/czahller-20140322-14-14-50.jpg)
-  ![Peyton (II)](/assets/images/blog/2014-03-25-skating-polly-guestroom/czahller-20140322-14-15-26.jpg)
-  ![Skating Polly (II)](/assets/images/blog/2014-03-25-skating-polly-guestroom/czahller-20140322-14-17-29.jpg)
-  ![Skating Polly (III)](/assets/images/blog/2014-03-25-skating-polly-guestroom/czahller-20140322-14-17-53.jpg)
-  ![Skating Polly (IV)](/assets/images/blog/2014-03-25-skating-polly-guestroom/czahller-20140322-14-18-37.jpg)
-  ![Skating Polly (V)](/assets/images/blog/2014-03-25-skating-polly-guestroom/czahller-20140322-14-18-52.jpg)
-  ![Photographer Doug “Dougonious” Schwarz](/assets/images/blog/2014-03-25-skating-polly-guestroom/czahller-20140322-14-19-50.jpg)
-  ![Kelli (II)](/assets/images/blog/2014-03-25-skating-polly-guestroom/czahller-20140322-14-22-30.jpg)
-  ![Peyton (III)](/assets/images/blog/2014-03-25-skating-polly-guestroom/czahller-20140322-14-22-52.jpg)
-  ![Kelli (III)](/assets/images/blog/2014-03-25-skating-polly-guestroom/czahller-20140322-14-23-09.jpg)
-  ![Kelli (IV)](/assets/images/blog/2014-03-25-skating-polly-guestroom/czahller-20140322-14-23-11.jpg)
-  ![Skating Polly (VI)](/assets/images/blog/2014-03-25-skating-polly-guestroom/czahller-20140322-14-23-49.jpg)
-  ![Skating Polly (VII)](/assets/images/blog/2014-03-25-skating-polly-guestroom/czahller-20140322-14-24-04.jpg)
-  ![Skating Polly (VIII)](/assets/images/blog/2014-03-25-skating-polly-guestroom/czahller-20140322-14-24-47.jpg)
-  ![Skating Polly (IX)](/assets/images/blog/2014-03-25-skating-polly-guestroom/czahller-20140322-14-24-51.jpg)
-  ![Skating Polly (X)](/assets/images/blog/2014-03-25-skating-polly-guestroom/czahller-20140322-14-25-17.jpg)
-  ![Audience](/assets/images/blog/2014-03-25-skating-polly-guestroom/czahller-20140322-14-26-29.jpg)
-  ![Kelli (V)](/assets/images/blog/2014-03-25-skating-polly-guestroom/czahller-20140322-14-27-22.jpg)
-  ![Peyton (Barefoot, As Usual)](/assets/images/blog/2014-03-25-skating-polly-guestroom/czahller-20140322-14-27-43.jpg)
-  ![Kelli (VI)](/assets/images/blog/2014-03-25-skating-polly-guestroom/czahller-20140322-14-28-01.jpg)
-  ![Kelli (VII)](/assets/images/blog/2014-03-25-skating-polly-guestroom/czahller-20140322-14-28-02.jpg)
-  ![Kelli (VIII)](/assets/images/blog/2014-03-25-skating-polly-guestroom/czahller-20140322-14-28-09.jpg)
-  ![Kelli (IX)](/assets/images/blog/2014-03-25-skating-polly-guestroom/czahller-20140322-14-30-44.jpg)
-  ![Peyton (IV)](/assets/images/blog/2014-03-25-skating-polly-guestroom/czahller-20140322-14-30-59.jpg)
-  ![Kelli (X)](/assets/images/blog/2014-03-25-skating-polly-guestroom/czahller-20140322-14-32-56.jpg)
-  ![Peyton (V)](/assets/images/blog/2014-03-25-skating-polly-guestroom/czahller-20140322-14-33-21.jpg)
-  ![Skating Polly (XI)](/assets/images/blog/2014-03-25-skating-polly-guestroom/czahller-20140322-14-34-40.jpg)
-  ![Kelli Rocks Out](/assets/images/blog/2014-03-25-skating-polly-guestroom/czahller-20140322-14-40-46.jpg)
-  ![Kelli Climbing on Drum](/assets/images/blog/2014-03-25-skating-polly-guestroom/czahller-20140322-14-40-47.jpg)
-  ![Kelli Finale (I)](/assets/images/blog/2014-03-25-skating-polly-guestroom/czahller-20140322-14-42-50.jpg)
-  ![Kelli Finale (II)](/assets/images/blog/2014-03-25-skating-polly-guestroom/czahller-20140322-14-42-58.jpg)
-  ![Kelli Finale (III)](/assets/images/blog/2014-03-25-skating-polly-guestroom/czahller-20140322-14-43-02.jpg)
-  ![An Unplanned Stunt](/assets/images/blog/2014-03-25-skating-polly-guestroom/czahller-20140322-14-43-24.jpg)
-  ![Kelli Falls from Drum (I](/assets/images/blog/2014-03-25-skating-polly-guestroom/czahller-20140322-14-43-26.jpg)
-  ![Kelli Falls from Drum (II](/assets/images/blog/2014-03-25-skating-polly-guestroom/czahller-20140322-14-43-27.jpg)
-  ![Kelli Falls from Drum (III)](/assets/images/blog/2014-03-25-skating-polly-guestroom/czahller-20140322-14-43-32.jpg)
-  ![Kelli Falls from Drum (IV)](/assets/images/blog/2014-03-25-skating-polly-guestroom/czahller-20140322-14-43-33.jpg)
-  ![Kelli Falls from Drum (V)](/assets/images/blog/2014-03-25-skating-polly-guestroom/czahller-20140322-14-43-35.jpg)
-  ![Recovery](/assets/images/blog/2014-03-25-skating-polly-guestroom/czahller-20140322-14-43-36.jpg)
-  ![The End (Arse over Teakettle)](/assets/images/blog/2014-03-25-skating-polly-guestroom/czahller-20140322-14-43-37.jpg)
+  {% image "./src/assets/images/blog/2014-03-25-skating-polly-guestroom/czahller-20140322-14-13-02.jpg", "", "Skating Polly", "Skating Polly (I)" %}
+
+  {% image "./src/assets/images/blog/2014-03-25-skating-polly-guestroom/czahller-20140322-14-13-43.jpg", "", "Peyton", "Peyton (I)" %}
+
+  {% image "./src/assets/images/blog/2014-03-25-skating-polly-guestroom/czahller-20140322-14-14-50.jpg", "", "Kelli", "Kelli (I)" %}
+
+  {% image "./src/assets/images/blog/2014-03-25-skating-polly-guestroom/czahller-20140322-14-15-26.jpg", "", "Peyton", "Peyton (II)" %}
+
+  {% image "./src/assets/images/blog/2014-03-25-skating-polly-guestroom/czahller-20140322-14-17-29.jpg", "", "Skating Polly", "Skating Polly (II)" %}
+
+  {% image "./src/assets/images/blog/2014-03-25-skating-polly-guestroom/czahller-20140322-14-17-53.jpg", "", "Skating Polly", "Skating Polly (III)" %}
+
+  {% image "./src/assets/images/blog/2014-03-25-skating-polly-guestroom/czahller-20140322-14-18-37.jpg", "", "Skating Polly", "Skating Polly (IV)" %}
+
+  {% image "./src/assets/images/blog/2014-03-25-skating-polly-guestroom/czahller-20140322-14-18-52.jpg", "", "Skating Polly", "Skating Polly (V)" %}
+
+  {% image "./src/assets/images/blog/2014-03-25-skating-polly-guestroom/czahller-20140322-14-19-50.jpg", "", "Photographer Doug “Dougonious” Schwarz in the audience", "Photographer Doug “Dougonious” Schwarz" %}
+
+  {% image "./src/assets/images/blog/2014-03-25-skating-polly-guestroom/czahller-20140322-14-22-30.jpg", "", "Kelli", "Kelli (II)" %}
+
+  {% image "./src/assets/images/blog/2014-03-25-skating-polly-guestroom/czahller-20140322-14-22-52.jpg", "", "Peyton", "Peyton (III)" %}
+
+  {% image "./src/assets/images/blog/2014-03-25-skating-polly-guestroom/czahller-20140322-14-23-09.jpg", "", "Kelli", "Kelli (III)" %}
+
+  {% image "./src/assets/images/blog/2014-03-25-skating-polly-guestroom/czahller-20140322-14-23-11.jpg", "", "Kelli", "Kelli (IV)" %}
+
+  {% image "./src/assets/images/blog/2014-03-25-skating-polly-guestroom/czahller-20140322-14-23-49.jpg", "", "Skating Polly", "Skating Polly (VI)" %}
+
+  {% image "./src/assets/images/blog/2014-03-25-skating-polly-guestroom/czahller-20140322-14-24-04.jpg", "", "Skating Polly", "Skating Polly (VII)" %}
+
+  {% image "./src/assets/images/blog/2014-03-25-skating-polly-guestroom/czahller-20140322-14-24-47.jpg", "", "Skating Polly", "Skating Polly (VIII)" %}
+
+  {% image "./src/assets/images/blog/2014-03-25-skating-polly-guestroom/czahller-20140322-14-24-51.jpg", "", "Skating Polly", "Skating Polly (IX)" %}
+
+  {% image "./src/assets/images/blog/2014-03-25-skating-polly-guestroom/czahller-20140322-14-25-17.jpg", "", "Skating Polly", "Skating Polly (X)" %}
+
+  {% image "./src/assets/images/blog/2014-03-25-skating-polly-guestroom/czahller-20140322-14-26-29.jpg", "", "Audience", "Audience" %}
+
+  {% image "./src/assets/images/blog/2014-03-25-skating-polly-guestroom/czahller-20140322-14-27-22.jpg", "", "Kelli", "Kelli (V)" %}
+
+  {% image "./src/assets/images/blog/2014-03-25-skating-polly-guestroom/czahller-20140322-14-27-43.jpg", "", "Detail of Peyton’s feet. At the time of this show, she usually performed barefoot, whether drumming or singing & playing guitar.", "Peyton (Barefoot, As Usual)" %}
+
+  {% image "./src/assets/images/blog/2014-03-25-skating-polly-guestroom/czahller-20140322-14-28-01.jpg", "", "Kelli", "Kelli (VI)" %}
+
+  {% image "./src/assets/images/blog/2014-03-25-skating-polly-guestroom/czahller-20140322-14-28-02.jpg", "", "Kelli", "Kelli (VII)" %}
+
+  {% image "./src/assets/images/blog/2014-03-25-skating-polly-guestroom/czahller-20140322-14-28-09.jpg", "", "Kelli", "Kelli (VIII)" %}
+
+  {% image "./src/assets/images/blog/2014-03-25-skating-polly-guestroom/czahller-20140322-14-30-44.jpg", "", "Kelli", "Kelli (IX)" %}
+
+  {% image "./src/assets/images/blog/2014-03-25-skating-polly-guestroom/czahller-20140322-14-30-59.jpg", "", "Peyton", "Peyton (IV)" %}
+
+  {% image "./src/assets/images/blog/2014-03-25-skating-polly-guestroom/czahller-20140322-14-32-56.jpg", "", "Kelli", "Kelli (X)" %}
+
+  {% image "./src/assets/images/blog/2014-03-25-skating-polly-guestroom/czahller-20140322-14-33-21.jpg", "", "Peyton", "Peyton (V)" %}
+
+  {% image "./src/assets/images/blog/2014-03-25-skating-polly-guestroom/czahller-20140322-14-34-40.jpg", "", "Skating Polly", "Skating Polly (XI)" %}
+
+  {% image "./src/assets/images/blog/2014-03-25-skating-polly-guestroom/czahller-20140322-14-40-46.jpg", "", "Kelli prances about as she plays the asitar. Her hair flies about her head.", "Kelli Rocks Out" %}
+
+  {% image "./src/assets/images/blog/2014-03-25-skating-polly-guestroom/czahller-20140322-14-40-47.jpg", "", "Kelli kneels on the bass drum. Her back is arched, her basitar raised as she continues to play it.", "Kelli Climbing on Drum" %}
+
+  {% image "./src/assets/images/blog/2014-03-25-skating-polly-guestroom/czahller-20140322-14-42-50.jpg", "", "Kelli", "Kelli Finale (I)" %}
+
+  {% image "./src/assets/images/blog/2014-03-25-skating-polly-guestroom/czahller-20140322-14-42-58.jpg", "", "Kelli", "Kelli Finale (II)" %}
+
+  {% image "featured", "", "Kelli playing a basitar solo. She is crouched over the instrument, standing on tiptoes, and wearing knee-high striped socks but no shoes. Her long blond hair covers her face.", "Kelli Finale (III)" %}
+
+  {% image "./src/assets/images/blog/2014-03-25-skating-polly-guestroom/czahller-20140322-14-43-24.jpg", "", "Kelli climbs onto the bass drum while she continues to play her basitar", "An Unplanned Stunt" %}
+
+  {% image "./src/assets/images/blog/2014-03-25-skating-polly-guestroom/czahller-20140322-14-43-26.jpg", "", "Kelli loses her balance and starts to fall off of the bass drum", "Kelli Falls from Drum (I)" %}
+
+  {% image "./src/assets/images/blog/2014-03-25-skating-polly-guestroom/czahller-20140322-14-43-27.jpg", "", "Kelli tumbles off the bass drum", "Kelli Falls from Drum (II)" %}
+
+  {% image "./src/assets/images/blog/2014-03-25-skating-polly-guestroom/czahller-20140322-14-43-32.jpg", "", "Kelli tumbles off the bass drum", "Kelli Falls from Drum (III)" %}
+
+  {% image "./src/assets/images/blog/2014-03-25-skating-polly-guestroom/czahller-20140322-14-43-33.jpg", "", "Kelli tumbles off the bass drum. Peyton continues to play.", "Kelli Falls from Drum (IV)" %}
+
+  {% image "./src/assets/images/blog/2014-03-25-skating-polly-guestroom/czahller-20140322-14-43-35.jpg", "", "Kelli tumbles off the bass drum", "Kelli Falls from Drum (V)" %}
+
+  {% image "./src/assets/images/blog/2014-03-25-skating-polly-guestroom/czahller-20140322-14-43-36.jpg", "", "Kelli starts to recover from her fall. She has a dazed expression", "Recovery" %}
+
+  {% image "./src/assets/images/blog/2014-03-25-skating-polly-guestroom/czahller-20140322-14-43-37.jpg", "", "Kelli leans against a floor tom. Her eyes are closed. Peyton, seated at the drums, looks concerned.", "The End (Arse over Teakettle)" %}
 </mpb-dialog-gallery>

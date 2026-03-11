@@ -24,7 +24,7 @@ excerpt: We wrote about Woodyfest regular Sam Baker just over a year ago so we w
 
 <!-- markdownlint-enable MD025 --><mpb-dialog-img>
 
-{% image "featured", "img-constrained", "Fiddle Solo — Sam Baker at the Crystal Theatre, Woody Guthrie Folk Festival 16", "Fiddle Solo&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;Sam Baker at the Crystal Theatre, Woody Guthrie Folk Festival 16", "eager" %}</mpb-dialog-img>
+{% image "featured", "", "Fiddle Solo", "Fiddle Solo&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;Sam Baker at the Crystal Theatre, Woody Guthrie Folk Festival 16", "eager" %}</mpb-dialog-img>
 
 We [wrote about](/blog/woodyfest-2018-sam-baker/){target=_blank rel="external noopener"} Woodyfest regular <span class="h-card p-name">Sam Baker</span> just over a year ago, so we won’t repeat ourselves here. Baker has played Woodyfest a total of a dozen times as of <time datetime="2019-07-13T19:45:00-5:00">2019</time>.
 
@@ -36,13 +36,21 @@ I took these photos during Baker's ninth appearance at the festival in <time dat
 
 <mpb-dialog-gallery hint rel cols="8">
   
-  ![Megan Palmer & Sam Baker — Sam Baker at the Crystal Theatre, Woody Guthrie Folk Festival 16](/assets/images/blog/2020-10-02-woodyfest-sam-baker/czahller-20130713-17-19-20.jpg)
-  ![Sam Baker & Erik Alvar — Sam Baker at the Crystal Theatre, Woody Guthrie Folk Festival 16](/assets/images/blog/2020-10-02-woodyfest-sam-baker/czahller-20130713-17-19-49.jpg)
-  ![Erik — Sam Baker at the Crystal Theatre, Woody Guthrie Folk Festival 16](/assets/images/blog/2020-10-02-woodyfest-sam-baker/czahller-20130713-17-20-00.jpg)
-  ![Audrey Auld Joins In — Sam Baker at the Crystal Theatre, Woody Guthrie Folk Festival 16](/assets/images/blog/2020-10-02-woodyfest-sam-baker/czahller-20130713-17-24-19.jpg)
-  ![Bill McCloud Watches from Stage Right — Sam Baker at the Crystal Theatre, Woody Guthrie Folk Festival 16](/assets/images/blog/2020-10-02-woodyfest-sam-baker/czahller-20130713-17-30-25.jpg)
-  ![Sam Baker & Friends — Sam Baker at the Crystal Theatre, Woody Guthrie Folk Festival 16](/assets/images/blog/2020-10-02-woodyfest-sam-baker/czahller-20130713-17-38-38.jpg)
-  ![Fiddle Solo — Sam Baker at the Crystal Theatre, Woody Guthrie Folk Festival 16](/assets/images/blog/2020-10-02-woodyfest-sam-baker/czahller-20130713-17-52-12.jpg)
-  ![Audrey — Sam Baker at the Crystal Theatre, Woody Guthrie Folk Festival 16](/assets/images/blog/2020-10-02-woodyfest-sam-baker/czahller-20130713-17-54-09.jpg)
-  ![Jeannie and Marie Burns Join In — Sam Baker at the Crystal Theatre, Woody Guthrie Folk Festival 16](/assets/images/blog/2020-10-02-woodyfest-sam-baker/czahller-20130713-17-56-28.jpg)
+  {% image "./src/assets/images/blog/2020-10-02-woodyfest-sam-baker/czahller-20130713-17-19-20.jpg", "", "Megan Palmer & Sam Baker", "Megan Palmer & Sam Baker" %}
+
+  {% image "./src/assets/images/blog/2020-10-02-woodyfest-sam-baker/czahller-20130713-17-19-49.jpg", "", "Sam Baker & Erik Alvar", "Sam Baker & Erik Alvar" %}
+
+  {% image "./src/assets/images/blog/2020-10-02-woodyfest-sam-baker/czahller-20130713-17-20-00.jpg", "", "Erik Alvar", "Erik" %}
+
+  {% image "./src/assets/images/blog/2020-10-02-woodyfest-sam-baker/czahller-20130713-17-24-19.jpg", "", "Audrey Auld joins Sam & Megan on the Crystal Theatre stage", "Audrey Auld Joins In" %}
+
+  {% image "./src/assets/images/blog/2020-10-02-woodyfest-sam-baker/czahller-20130713-17-30-25.jpg", "", "Bill McCloud 2atches from stage right", "Bill McCloud Watches from Stage Right" %}
+
+  {% image "./src/assets/images/blog/2020-10-02-woodyfest-sam-baker/czahller-20130713-17-38-38.jpg", "", "Don Conoscenti, Megan Palmer, Audrey Auld, & Sam Baker", "Sam Baker & Friends" %}
+
+  {% image "featured", "Megan Palmer plays a fiddle solo", "Fiddle Solo", "" %}
+
+  {% image "./src/assets/images/blog/2020-10-02-woodyfest-sam-baker/czahller-20130713-17-54-09.jpg", "", "Audrey Auld", "Audrey" %}
+
+  {% image "./src/assets/images/blog/2020-10-02-woodyfest-sam-baker/czahller-20130713-17-56-28.jpg", "", "Jeannie and Marie Burns join Sam & Megan on the Crystal Theatre stage", "Jeannie and Marie Burns Join In" %}
 </mpb-dialog-gallery>

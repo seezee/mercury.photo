@@ -21,7 +21,7 @@ excerpt: We first met singer-songwriter Alex Culbreth at the Woody Guthrie Folk 
 
 <!-- markdownlint-enable MD025 --><mpb-dialog-img>
 
-{% image "featured", "img-constrained", "The author and Alex Culbreth seated on the sofa at Mercury Photo Bureau headquarters", "Alex & Me", "eager" %}</mpb-dialog-img>
+{% image "featured", "", "The author and Alex Culbreth seated on the sofa at Mercury Photo Bureau headquarters", "Alex & Me", "eager" %}</mpb-dialog-img>
 
 We first met singer-songwriter <span class="h-card p-name">Alex Culbreth</span> in <time datetime="2013-07-12T16:00-05:00">July</time>, when he was featured in a Woody Guthrie Folk Festival solo performance at the Brick Street Café. Although it was his first official showcase at the festival, he’d attended the four previous years, singing and playing around the campfires through the wee hours.
 
@@ -94,19 +94,32 @@ I was born in the back of a ’57 Chevy<br />With my daddy doing ninety, my mama
 Enjoy this gallery of photos from Alex Culbreth&rsquo;s Black Friday performance at the Bluebonnet Bar in Norman, Oklahoma. Also playing that night was local songwriter <span class="h-card p-name">Brad Fielder</span>, who can be seen in the audience in the eighth image.
 
 <mpb-dialog-gallery hint rel cols="8">
-  
-  ![Kick Drum & Tambourine](/assets/images/blog/2013-11-30-alex-culbreth/czahller-20131129-21-36-11.jpg)
-  ![Bar Patron](/assets/images/blog/2013-11-30-alex-culbreth/czahller-20131129-22-10-19.jpg)
-  ![Alex Culbreth (I)](/assets/images/blog/2013-11-30-alex-culbreth/czahller-20131129-22-17-00.jpg)
-  ![Alex Culbreth (II)](/assets/images/blog/2013-11-30-alex-culbreth/czahller-20131129-22-17-57.jpg)
-  ![One Man Band](/assets/images/blog/2013-11-30-alex-culbreth/czahller-20131129-22-19-52.jpg)
-  ![Alex Culbreth (III)](/assets/images/blog/2013-11-30-alex-culbreth/czahller-20131129-22-22-23.jpg)
-  ![Alex Culbreth (IV)](/assets/images/blog/2013-11-30-alex-culbreth/czahller-20131129-22-23-10.jpg)
-  ![Brad Fielder in Audience](/assets/images/blog/2013-11-30-alex-culbreth/czahller-20131129-22-28-43.jpg)
-  ![PBR](/assets/images/blog/2013-11-30-alex-culbreth/czahller-20131129-22-30-28.jpg)
-  ![Set List](/assets/images/blog/2013-11-30-alex-culbreth/czahller-20131129-22-31-28.jpg)
-  ![Alex Culbreth (V)](/assets/images/blog/2013-11-30-alex-culbreth/czahller-20131129-22-34-47.jpg)
-  ![Alex Culbreth (VI)](/assets/images/blog/2013-11-30-alex-culbreth/czahller-20131129-22-40-35.jpg)
-  ![Alex Culbreth (VII)](/assets/images/blog/2013-11-30-alex-culbreth/czahller-20131129-22-50-16.jpg)
-  ![Alex Culbreth (VIII)](/assets/images/blog/2013-11-30-alex-culbreth/czahller-20131129-22-51-29.jpg)
+
+  {% image "./src/assets/images/blog/2013-11-30-alex-culbreth/czahller-20131129-21-36-11.jpg", "", "Kick Drum & Tambourine", "Kick Drum & Tambourine" %}
+
+  {% image "./src/assets/images/blog/2013-11-30-alex-culbreth/czahller-20131129-22-10-19.jpg", "", "Bar Patron", "Bar Patron" %}
+
+  {% image "./src/assets/images/blog/2013-11-30-alex-culbreth/czahller-20131129-22-17-00.jpg", "", "Alex Culbreth (I)", "Alex Culbreth (I)" %}
+
+  {% image "./src/assets/images/blog/2013-11-30-alex-culbreth/czahller-20131129-22-17-57.jpg", "", "Alex Culbreth (II)", "Alex Culbreth (II)" %}
+
+  {% image "./src/assets/images/blog/2013-11-30-alex-culbreth/czahller-20131129-22-19-52.jpg", "", "One Man Band", "Alex Culbreth’s heels controlling the kickdrum pedals" %}
+
+  {% image "./src/assets/images/blog/2013-11-30-alex-culbreth/czahller-20131129-22-22-23.jpg", "", "Alex Culbreth (III)", "Alex Culbreth (III)" %}
+
+  {% image "./src/assets/images/blog/2013-11-30-alex-culbreth/czahller-20131129-22-23-10.jpg", "", "Alex Culbreth (IV)", "Alex Culbreth (IV)" %}
+
+  {% image "./src/assets/images/blog/2013-11-30-alex-culbreth/czahller-20131129-22-28-43.jpg", "", "Brad Fielder in Audience", "Brad Fielder in Audience" %}
+
+  {% image "./src/assets/images/blog/2013-11-30-alex-culbreth/czahller-20131129-22-30-28.jpg", "", "PBR", "Can of Pabst Blue Ribbon beer on bar counter" %}
+
+  {% image "./src/assets/images/blog/2013-11-30-alex-culbreth/czahller-20131129-22-31-28.jpg", "", "Set List", "Set List" %}
+
+  {% image "./src/assets/images/blog/2013-11-30-alex-culbreth/czahller-20131129-22-34-47.jpg", "", "Alex Culbreth (V)", "Alex Culbreth (V)" %}
+
+  {% image "./src/assets/images/blog/2013-11-30-alex-culbreth/czahller-20131129-22-40-35.jpg", "", "Alex Culbreth (VI)", "Alex Culbreth (VI)" %}
+
+  {% image "./src/assets/images/blog/2013-11-30-alex-culbreth/czahller-20131129-22-50-16.jpg", "", "Alex Culbreth (VII)", "Alex Culbreth (VII)" %}
+
+  {% image "./src/assets/images/blog/2013-11-30-alex-culbreth/czahller-20131129-22-51-29.jpg", "", "Alex Culbreth (VIII)", "Alex Culbreth (VIII)" %}
 </mpb-dialog-gallery>

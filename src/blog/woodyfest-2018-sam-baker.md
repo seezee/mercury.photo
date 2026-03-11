@@ -27,7 +27,7 @@ excerpt: Sam Baker has told the story of barely surviving a train bombing many t
 <!-- markdownlint-enable MD025 -->
 <mpb-dialog-img>
 
-{% image "featured", "img-constrained", "Sam Busts Me Sneaking an Upstage Shot — 21st Annual Woody Guthrie Festival, 2018", "Sam Busts Me Sneaking an Upstage Shot&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;21st Annual Woody Guthrie Festival, 2018", "eager" %}</mpb-dialog-img>
+{% image "featured", "", "Sam Baker facing upstage. He has spotted the photographer attempting to photograph him and is smiling broadly.", "Sam Busts Me Sneaking an Upstage Shot", "eager" %}</mpb-dialog-img>
 
 ## Hope from the Ashes
 
@@ -55,22 +55,39 @@ It was Baker’s ninth time to play Woodyfest; with the exception of <time datet
 
 <mpb-dialog-gallery hint rel cols="8">
 
-  ![Don Conoscenti, Sam Baker, & Radoslav “Rad” Lorković — 21st Annual Woody Guthrie Festival, 2018](/assets/images/blog/2018-12-31-woodyfest-sam-baker/czahller-20180713-19-43-50.jpg)
-  ![Sam & Rad (I) — 21st Annual Woody Guthrie Festival, 2018](/assets/images/blog/2018-12-31-woodyfest-sam-baker/czahller-20180713-19-45-21.jpg)
-  ![Sam Baker — 21st Annual Woody Guthrie Festival, 2018](/assets/images/blog/2018-12-31-woodyfest-sam-baker/czahller-20180713-19-45-51.jpg)
-  ![Radoslav “Rad” Lorković — 21st Annual Woody Guthrie Festival, 2018](/assets/images/blog/2018-12-31-woodyfest-sam-baker/czahller-20180713-19-46-27.jpg)
-  ![Rad (I) — 21st Annual Woody Guthrie Festival, 2018](/assets/images/blog/2018-12-31-woodyfest-sam-baker/czahller-20180713-19-46-56.jpg)
-  ![Sam (I) — 21st Annual Woody Guthrie Festival, 2018](/assets/images/blog/2018-12-31-woodyfest-sam-baker/czahller-20180713-19-47-35.jpg)
-  ![Sam & Rad (II) — 21st Annual Woody Guthrie Festival, 2018](/assets/images/blog/2018-12-31-woodyfest-sam-baker/czahller-20180713-19-48-49.jpg)
-  ![Rad & Sam (I) — 21st Annual Woody Guthrie Festival, 2018](/assets/images/blog/2018-12-31-woodyfest-sam-baker/czahller-20180713-19-49-47.jpg)
-  ![Sam & Rad (III) — 21st Annual Woody Guthrie Festival, 2018](/assets/images/blog/2018-12-31-woodyfest-sam-baker/czahller-20180713-19-54-27.jpg)
-  ![Sam (II) — 21st Annual Woody Guthrie Festival, 2018](/assets/images/blog/2018-12-31-woodyfest-sam-baker/czahller-20180713-19-54-31.jpg)
-  ![Sam (III) — 21st Annual Woody Guthrie Festival, 2018](/assets/images/blog/2018-12-31-woodyfest-sam-baker/czahller-20180713-19-54-35.jpg)
-  ![Rad (II) — 21st Annual Woody Guthrie Festival, 2018](/assets/images/blog/2018-12-31-woodyfest-sam-baker/czahller-20180713-19-57-44.jpg)
-  ![Sam & Rad (IV) — 21st Annual Woody Guthrie Festival, 2018](/assets/images/blog/2018-12-31-woodyfest-sam-baker/czahller-20180713-20-08-34.jpg)
-  ![Sam Busts Me Sneaking an Upstage Shot — 21st Annual Woody Guthrie Festival, 2018](/assets/images/blog/2018-12-31-woodyfest-sam-baker/czahller-20180713-20-12-32.jpg)
-  ![Rad, Sam, & Don — 21st Annual Woody Guthrie Festival, 2018](/assets/images/blog/2018-12-31-woodyfest-sam-baker/czahller-20180713-20-13-08.jpg)
-  ![Rad & Don — 21st Annual Woody Guthrie Festival, 2018](/assets/images/blog/2018-12-31-woodyfest-sam-baker/czahller-20180713-20-13-32.jpg)
-  ![Don, Sam, & Rad (I) — 21st Annual Woody Guthrie Festival, 2018](/assets/images/blog/2018-12-31-woodyfest-sam-baker/czahller-20180713-20-15-07.jpg)
-  ![Don, Sam, & Rad (II) — 21st Annual Woody Guthrie Festival, 2018](/assets/images/blog/2018-12-31-woodyfest-sam-baker/czahller-20180713-20-16-09.jpg)
+  {% image "./src/assets/images/blog/2018-12-31-woodyfest-sam-baker/czahller-20180713-19-43-50.jpg", "", "Don Conoscenti, Sam Baker, & Radoslav “Rad” Lorković", "Don Conoscenti, Sam Baker, & Radoslav “Rad” Lorković" %}
+
+  {% image "./src/assets/images/blog/2018-12-31-woodyfest-sam-baker/czahller-20180713-19-45-21.jpg", "", "Sam Baker & Radoslav Lorković", "Sam & Rad (I)" %}
+
+  {% image "./src/assets/images/blog/2018-12-31-woodyfest-sam-baker/czahller-20180713-19-45-51.jpg", "", "Sam Baker", "Sam Baker" %}
+
+  {% image "./src/assets/images/blog/2018-12-31-woodyfest-sam-baker/czahller-20180713-19-46-27.jpg", "", "Radoslav “Rad” Lorković", "Radoslav “Rad” Lorković" %}
+
+  {% image "./src/assets/images/blog/2018-12-31-woodyfest-sam-baker/czahller-20180713-19-46-56.jpg", "", "Radoslav Lorković", "Rad (I)" %}
+
+  {% image "./src/assets/images/blog/2018-12-31-woodyfest-sam-baker/czahller-20180713-19-47-35.jpg", "", "Sam Baker", "Sam (I)" %}
+
+  {% image "./src/assets/images/blog/2018-12-31-woodyfest-sam-baker/czahller-20180713-19-48-49.jpg", "", "Radoslav Lorković & Sam Baker", "Sam & Rad (II)" %}
+
+  {% image "./src/assets/images/blog/2018-12-31-woodyfest-sam-baker/czahller-20180713-19-49-47.jpg", "", "Sam Baker & ", "Rad & Sam (I)" %}
+
+  {% image "./src/assets/images/blog/2018-12-31-woodyfest-sam-baker/czahller-20180713-19-54-27.jpg", "", "Sam Baker & Radoslav Lorković", "Sam & Rad (III)" %}
+
+  {% image "./src/assets/images/blog/2018-12-31-woodyfest-sam-baker/czahller-20180713-19-54-31.jpg", "", "Sam Baker", "Sam (II)" %}
+
+  {% image "./src/assets/images/blog/2018-12-31-woodyfest-sam-baker/czahller-20180713-19-54-35.jpg", "", "Sam Baker", "Sam (III)" %}
+
+  {% image "./src/assets/images/blog/2018-12-31-woodyfest-sam-baker/czahller-20180713-19-57-44.jpg", "", "Radoslav Lorković", "Rad (II)" %}
+
+  {% image "./src/assets/images/blog/2018-12-31-woodyfest-sam-baker/czahller-20180713-20-08-34.jpg", "", "Sam Baker & Radoslav Lorković", "Sam & Rad (IV)" %}
+
+  {% image "featured", "", "Sam Baker facing upstage. He has spotted the photographer attempting to photograph him and is smiling broadly.", "Sam Busts Me Sneaking an Upstage Shot" %}
+
+  {% image "./src/assets/images/blog/2018-12-31-woodyfest-sam-baker/czahller-20180713-20-13-08.jpg", "", "Radoslav Lorković, Sam Baker, & Don Conoscenti", "Rad, Sam, & Don" %}
+
+  {% image "./src/assets/images/blog/2018-12-31-woodyfest-sam-baker/czahller-20180713-20-13-32.jpg", "", "Radoslav Lorković & Don Conoscenti", "Rad & Don" %}
+
+  {% image "./src/assets/images/blog/2018-12-31-woodyfest-sam-baker/czahller-20180713-20-15-07.jpg", "", "Don Conoscenti, Sam Baker, & Radoslav Lorković", "Don, Sam, & Rad (I)" %}
+
+  {% image "./src/assets/images/blog/2018-12-31-woodyfest-sam-baker/czahller-20180713-20-16-09.jpg", "", "Don Conoscenti, Sam Baker, & Radoslav Lorković", "Don, Sam, & Rad (II)" %}
 </mpb-dialog-gallery>

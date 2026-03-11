@@ -23,13 +23,13 @@ excerpt: Hailing from District Z on Planet Peelander, self-described Japanese ac
 
 <!-- markdownlint-enable MD025 --><mpb-dialog-img>
 
-{% image "featured", "img-constrained", "Peelander-Z in the green room. They are assuming “superhero” poses. They are moving so the image is blurry. Peelander Pink appears as a ghost image, with the wall behind her visible through her head and body.", "If You Can See Pink, Then You Are a Good Person", "eager" %}</mpb-dialog-img>
+{% image "featured", "", "Peelander-Z in the green room. They are assuming “superhero” poses. They are moving so the image is blurry. Peelander Pink appears as a ghost image, with the wall behind her visible through her head and body.", "If You Can See Pink, Then You Are a Good Person", "eager" %}</mpb-dialog-img>
 
 Hailing from District Z on Planet Peelander, self-described Japanese action comic punks <span class="h-card p-org">Peelander-Z</span> traveled across the galaxy to eat our smiles. They landed at [<span class="h-card p-org">Club Dada</span>](https://www.dadadallas.com/){target=_blank rel="external noopener"} in Dallas’s Deep Ellum this past <time datetime="2012-10-31">Hallowe’en</time>. Peelander-Z are currently touring the southern U.S. and the eastern seaboard with Japanese garage metal band [<span class="h-card p-org">Electric Eel Shock</span>](/blog/electric-eel-shock/).
 
 <mpb-dialog-img>
 
-{% image "./src/assets/images/blog/2012-11-07-peelander-z/czahller-20121031-22-21-26.jpg", "img-constrained", "Yumiko Kanazaki (Peelander Pink) wearing a space helmet and goggles. She is performing a robotic dance.", "Yumi Robot Dance (II)" %}</mpb-dialog-img>
+{% image "./src/assets/images/blog/2012-11-07-peelander-z/czahller-20121031-22-21-26.jpg", "", "Yumiko Kanazaki (Peelander Pink) wearing a space helmet and goggles. She is performing a robotic dance.", "Yumi Robot Dance (II)", "large" %}</mpb-dialog-img>
 
 The band rocked the house with their smile-inducing three-chord punk, zany antics, and brightly colored skins.[^1] Human bowling, a giant squid (or is it a giant guitar?) and songs about food are just some of the trademark elements audiences all over the world expect from the band.
 
@@ -37,7 +37,7 @@ The band rocked the house with their smile-inducing three-chord punk, zany antic
 
 <mpb-dialog-img>
 
-{% image "./src/assets/images/blog/2012-11-07-peelander-z/czahller-20121031-22-20-38.jpg", "img-constrained", "Kengu (Peelander Yellow) singing and playing guitar. He wears a shiny space-suit, helmet, and dark goggles. His hair and beard are dyed yellow.", "Kengu (Peelander Yellow) (II)" %}</mpb-dialog-img>
+{% image "./src/assets/images/blog/2012-11-07-peelander-z/czahller-20121031-22-20-38.jpg", "", "Kengu (Peelander Yellow) singing and playing guitar. He wears a shiny space-suit, helmet, and dark goggles. His hair and beard are dyed yellow.", "Kengu (Peelander Yellow) (II)", "large" %}</mpb-dialog-img>
 
 The audience were frequently enlisted as performers. With their simple lyrics, every song is a sing-along. <span class="h-card p-name" lang="ja-latn">Yumiko Kanazaki</span> (<span class="h-card p-name p-nickname">Peelander Pink</span>)[^2] distributed steel pet dishes and drumsticks as makeshift percussion and pulled us onto the stage. When the Peelanders played a game of “human bowling,” they handed their own instruments to audience members to play while the entire band left the stage. <span class="h-card p-name">Daniel Drinnen</span> (keyboard player for openers <span class="h-card p-org">[Urizen](/blog/urizen-halloween/)</span>) was enlisted as the substitute drummer.
 
@@ -56,13 +56,14 @@ We originally intended to record our telephone conversation with <span class="h-
 The second time we called, he asked for a few more minutes because he needed to do something you might have to do during any long trip (we’ll leave that to your imagination). So he wound up calling us back.
 
 Unfortunately, when we answered we forgot to press the record button. The following is therefore recreated from our notes.
+
 </mpb-callout>
 
 [^3]: View the [software setup](https://mtamsky.blogspot.com/2011/06/how-to-record-all-google-voice-calls-on.html){target=_blank rel="external noopener"} we would have used to record the interview.
 
 <mpb-dialog-img>
 
-{% image "./src/assets/images/blog/2012-11-07-peelander-z/czahller-20121031-22-32-59.jpg", "img-constrained", "Yumi (Peelander Pink) raises her fist triumphantly. Her expression is defiant.", "Yeah!" %}</mpb-dialog-img>
+{% image "./src/assets/images/blog/2012-11-07-peelander-z/czahller-20121031-22-32-59.jpg", "", "Yumi (Peelander Pink) raises her fist triumphantly. Her expression is defiant.", "Yeah!", "large" %}</mpb-dialog-img>
 
 <span class="spkr">Mercury Photo Bureau</span> Hello, <span lang="ja-latn">Kengu-san</span>. Thanks for taking my questions!
 
@@ -74,7 +75,7 @@ Unfortunately, when we answered we forgot to press the record button. The follow
 
 <mpb-dialog-img>
 
-{% image "./src/assets/images/blog/2012-11-07-peelander-z/czahller-20121031-22-37-27.jpg", "img-constrained", "Kotaro Tsukada (Peelander Red). He has his right hand raised, fingers splayed. He is singing into the microphone. He holds his bass with his left hand.", "Kotaro (Peelander Red) (IV)" %}</mpb-dialog-img>
+{% image "./src/assets/images/blog/2012-11-07-peelander-z/czahller-20121031-22-37-27.jpg", "", "Kotaro Tsukada (Peelander Red). He has his right hand raised, fingers splayed. He is singing into the microphone. He holds his bass with his left hand.", "Kotaro (Peelander Red) (IV)", "large" %}</mpb-dialog-img>
 
 <span class="spkr">MPB</span> Was there some sport or activity like Earth wrestling that you liked before you came to our planet, or were you always fans of Earth wrestling, even before the journey across space?
 
@@ -82,7 +83,7 @@ Unfortunately, when we answered we forgot to press the record button. The follow
 
 <mpb-dialog-img>
 
-{% image "./src/assets/images/blog/2012-11-07-peelander-z/czahller-20121031-22-37-20.jpg", "img-constrained", "Kengu (Peelander Yellow) wearing a tiger mask while he plays guitar and sings.", "Mad Tiger (IV)" %}</mpb-dialog-img>
+{% image "./src/assets/images/blog/2012-11-07-peelander-z/czahller-20121031-22-37-20.jpg", "", "Kengu (Peelander Yellow) wearing a tiger mask while he plays guitar and sings.", "Mad Tiger (IV)", "large" %}</mpb-dialog-img>
 
 <span class="spkr">MPB</span> Do Planet Peelander natives share your colors, or is each one unique? Is there a Peelander Fuschia-with-a-touch-of-orange-but-only-in-a-certain-light, or a Peelander Magenta-almost-maroon-but-not-quite?
 
@@ -94,7 +95,7 @@ Unfortunately, when we answered we forgot to press the record button. The follow
 
 <mpb-dialog-img>
 
-{% image "./src/assets/images/blog/2012-11-07-peelander-z/czahller-20121031-22-59-58.jpg", "img-constrained", "Akihiko Naruse (Peelander Black) holds a sign that says “Ninja High School.”", "Akihiko (Ninja High School) (III)" %}</mpb-dialog-img>
+{% image "./src/assets/images/blog/2012-11-07-peelander-z/czahller-20121031-22-59-58.jpg", "", "Akihiko Naruse (Peelander Black) holds a sign that says “Ninja High School.”", "Akihiko (Ninja High School) (III)", "large" %}</mpb-dialog-img>
 
 <span class="spkr">MPB</span> I used to watch <cite>Gigantor</cite> in the 1960s. Did any of you grow up with <cite lang="ja-latn">Tetsujin Nijūhachi-gō</cite> (<cite lang="ja-latn">Tetsujin 28-gō</cite>)?[^4]
 
@@ -114,7 +115,7 @@ Unfortunately, when we answered we forgot to press the record button. The follow
 
 <mpb-dialog-img>
 
-{% image "./src/assets/images/blog/2012-11-07-peelander-z/czahller-20121031-23-05-07.jpg", "img-constrained", "Akihiko (Peelander Black) holds a sign that says “S.T.E.A.K.”", "S.T.E.A.K. (Medium Rare)" %}</mpb-dialog-img>
+{% image "./src/assets/images/blog/2012-11-07-peelander-z/czahller-20121031-23-05-07.jpg", "", "Akihiko (Peelander Black) holds a sign that says “S.T.E.A.K.”", "S.T.E.A.K. (Medium Rare)", "large" %}</mpb-dialog-img>
 
 <span class="spkr">MPB</span> Speaking of which, *chili burgers, ice cream, riceball-z, s.t.e.a.k. steak, tacos, wasabi*. Any other food I should know about?
 
@@ -145,7 +146,7 @@ Unfortunately, when we answered we forgot to press the record button. The follow
 
 <mpb-dialog-img>
 
-{% image "./src/assets/images/blog/2012-11-07-peelander-z/czahller-20121031-22-52-56.jpg", "img-constrained", "Akihiko (Peelander Black) holds a sign featuring a drawing of thick, black eyeglasses. Only his hand and the sign are visible in the frame.", "Get Glasses (I)" %}</mpb-dialog-img>
+{% image "./src/assets/images/blog/2012-11-07-peelander-z/czahller-20121031-22-52-56.jpg", "", "Akihiko (Peelander Black) holds a sign featuring a drawing of thick, black eyeglasses. Only his hand and the sign are visible in the frame.", "Get Glasses (I)", "large" %}</mpb-dialog-img>
 
 <span class="spkr">MPB</span> I already have three pairs of glasses. Should I get more?
 
@@ -169,105 +170,205 @@ What you see below is the result of lots of manual correction in Adobe Lightroom
 
 <mpb-dialog-gallery hint rel cols="8">
 
-  ![Yumi at the Merch Table (I)](/assets/images/blog/2012-11-07-peelander-z/czahller-20121031-20-46-38.jpg)
-  ![Yumi at the Merch Table (II)](/assets/images/blog/2012-11-07-peelander-z/czahller-20121031-21-07-19.jpg)
-  ![Preparing to Take the Stage (I)](/assets/images/blog/2012-11-07-peelander-z/czahller-20121031-21-16-30.jpg)
-  ![Preparing to Take the Stage (II)](/assets/images/blog/2012-11-07-peelander-z/czahller-20121031-21-16-46.jpg)
-  ![Preparing to Take the Stage (III)](/assets/images/blog/2012-11-07-peelander-z/czahller-20121031-21-16-57.jpg)
-  ![If You Can See Pink, Then You Are a Good Person](/assets/images/blog/2012-11-07-peelander-z/czahller-20121031-21-18-50.jpg)
-  ![You Must Be a Good Person](/assets/images/blog/2012-11-07-peelander-z/czahller-20121031-21-19-41.jpg)
-  ![Kengu Watching Electric Eel Shock (I)](/assets/images/blog/2012-11-07-peelander-z/czahller-20121031-21-49-53.jpg)
-  ![Kengu Watching Electric Eel Shock (II)](/assets/images/blog/2012-11-07-peelander-z/czahller-20121031-21-50-09.jpg)
-  ![Kotaro Sets Up Yumi's Keyboard](/assets/images/blog/2012-11-07-peelander-z/czahller-20121031-21-59-44.jpg)
-  ![Kengu Sets Up His Amp (I)](/assets/images/blog/2012-11-07-peelander-z/czahller-20121031-21-59-59.jpg)
-  ![Akihiko Sets Up His Drums](/assets/images/blog/2012-11-07-peelander-z/czahller-20121031-22-00-40.jpg)
-  ![Kotaro Sets Up the Bass Amp](/assets/images/blog/2012-11-07-peelander-z/czahller-20121031-22-01-57.jpg)
-  ![Kengu Sets Up His Amp (II) (Detail)](/assets/images/blog/2012-11-07-peelander-z/czahller-20121031-22-03-11.jpg)
-  ![Kengu Sets Up His Amp (III) (Detail)](/assets/images/blog/2012-11-07-peelander-z/czahller-20121031-22-03-15.jpg)
-  ![Kengu Sets Up His Amp (IV) (Detail)](/assets/images/blog/2012-11-07-peelander-z/czahller-20121031-22-03-24.jpg)
-  ![Props](/assets/images/blog/2012-11-07-peelander-z/czahller-20121031-22-03-41.jpg)
-  ![Yumi Staying Limber](/assets/images/blog/2012-11-07-peelander-z/czahller-20121031-22-05-28.jpg)
-  ![Kengu Sound Check (I)](/assets/images/blog/2012-11-07-peelander-z/czahller-20121031-22-08-49.jpg)
-  ![Kengu Sound Check (II)](/assets/images/blog/2012-11-07-peelander-z/czahller-20121031-22-13-25.jpg)
-  ![Yumi Sound Check](/assets/images/blog/2012-11-07-peelander-z/czahller-20121031-22-13-45.jpg)
-  ![Kengu Announcement](/assets/images/blog/2012-11-07-peelander-z/czahller-20121031-22-16-19.jpg)
-  ![Kotaro (Peelander Red) (I)](/assets/images/blog/2012-11-07-peelander-z/czahller-20121031-22-19-52.jpg)
-  ![Yumi (Peelander Pink) (I)](/assets/images/blog/2012-11-07-peelander-z/czahller-20121031-22-20-05.jpg)
-  ![Kengu (Peelander Yellow) (I)](/assets/images/blog/2012-11-07-peelander-z/czahller-20121031-22-20-15.jpg)
-  ![Akihiko (Peelander Green) (I)](/assets/images/blog/2012-11-07-peelander-z/czahller-20121031-22-20-28.jpg)
-  ![Kengu (Peelander Yellow) (II)](/assets/images/blog/2012-11-07-peelander-z/czahller-20121031-22-20-38.jpg)
-  ![Yumi Robot Dance (I)](/assets/images/blog/2012-11-07-peelander-z/czahller-20121031-22-21-25.jpg)
-  ![Yumi Robot Dance (II)](/assets/images/blog/2012-11-07-peelander-z/czahller-20121031-22-21-26.jpg)
-  ![Yumi Robot Dance (III)](/assets/images/blog/2012-11-07-peelander-z/czahller-20121031-22-21-27.jpg)
-  ![Kengu (Peelander Yellow) (III)](/assets/images/blog/2012-11-07-peelander-z/czahller-20121031-22-21-36.jpg)
-  ![Akihiko (Peelander Green) (II)](/assets/images/blog/2012-11-07-peelander-z/czahller-20121031-22-22-14.jpg)
-  ![Rockin' Out (Space Vacation)](/assets/images/blog/2012-11-07-peelander-z/czahller-20121031-22-22-54.jpg)
-  ![Kengu (Peelander Yellow) (IV)](/assets/images/blog/2012-11-07-peelander-z/czahller-20121031-22-23-23.jpg)
-  ![So Many Mike](/assets/images/blog/2012-11-07-peelander-z/czahller-20121031-22-24-18.jpg)
-  ![Kotaro (Peelander Red) (II)](/assets/images/blog/2012-11-07-peelander-z/czahller-20121031-22-26-13.jpg)
-  ![Under Zero](/assets/images/blog/2012-11-07-peelander-z/czahller-20121031-22-26-45.jpg)
-  ![Smile, Kengu](/assets/images/blog/2012-11-07-peelander-z/czahller-20121031-22-27-04.jpg)
-  ![Kotaro (Peelander Red) (III)](/assets/images/blog/2012-11-07-peelander-z/czahller-20121031-22-27-26.jpg)
-  ![Akihiko (Peelander Green) (III)](/assets/images/blog/2012-11-07-peelander-z/czahller-20121031-22-27-51.jpg)
-  ![Akihiko (Peelander Green) (IV)](/assets/images/blog/2012-11-07-peelander-z/czahller-20121031-22-27-52.jpg)
-  ![Mad Tiger (I)](/assets/images/blog/2012-11-07-peelander-z/czahller-20121031-22-28-21.jpg)
-  ![Gumby Takes the Stage](/assets/images/blog/2012-11-07-peelander-z/czahller-20121031-22-28-59.jpg)
-  ![Kengu (Peelander Yellow) (V)](/assets/images/blog/2012-11-07-peelander-z/czahller-20121031-22-31-10.jpg)
-  ![Mad Tiger (II)](/assets/images/blog/2012-11-07-peelander-z/czahller-20121031-22-31-42.jpg)
-  ![Controlled Chaos](/assets/images/blog/2012-11-07-peelander-z/czahller-20121031-22-32-41.jpg)
-  ![Yeah!](/assets/images/blog/2012-11-07-peelander-z/czahller-20121031-22-32-59.jpg)
-  ![Audience on Stage (Mad Tiger) (I)](/assets/images/blog/2012-11-07-peelander-z/czahller-20121031-22-33-18.jpg)
-  ![Audience on Stage (Mad Tiger) (II)](/assets/images/blog/2012-11-07-peelander-z/czahller-20121031-22-33-24.jpg)
-  ![The Giant Squid and the Unicycle (I)](/assets/images/blog/2012-11-07-peelander-z/czahller-20121031-22-35-10.jpg)
-  ![Audience on Stage (Mad Tiger) (III)](/assets/images/blog/2012-11-07-peelander-z/czahller-20121031-22-35-31.jpg)
-  ![The Giant Squid and the Unicycle (II)](/assets/images/blog/2012-11-07-peelander-z/czahller-20121031-22-35-46.jpg)
-  ![Mad Tiger (III)](/assets/images/blog/2012-11-07-peelander-z/czahller-20121031-22-36-52.jpg)
-  ![Mad Tiger (IV)](/assets/images/blog/2012-11-07-peelander-z/czahller-20121031-22-37-20.jpg)
-  ![Kotaro (Peelander Red) (IV)](/assets/images/blog/2012-11-07-peelander-z/czahller-20121031-22-37-27.jpg)
-  ![Go Bowling (I)](/assets/images/blog/2012-11-07-peelander-z/czahller-20121031-22-39-11.jpg)
-  ![Go Bowling (II)](/assets/images/blog/2012-11-07-peelander-z/czahller-20121031-22-39-13.jpg)
-  ![Yumi (Calm before the Storm)](/assets/images/blog/2012-11-07-peelander-z/czahller-20121031-22-39-47.jpg)
-  ![Kotaro (Peelander Red) (V)](/assets/images/blog/2012-11-07-peelander-z/czahller-20121031-22-40-03.jpg)
-  ![Go Bowling (III)](/assets/images/blog/2012-11-07-peelander-z/czahller-20121031-22-40-13.jpg)
-  ![Go Go Go (Bowling)](/assets/images/blog/2012-11-07-peelander-z/czahller-20121031-22-42-49.jpg)
-  ![Go Bowling (IV)](/assets/images/blog/2012-11-07-peelander-z/czahller-20121031-22-43-39.jpg)
-  ![Yumi (Peelander Pink) (II)](/assets/images/blog/2012-11-07-peelander-z/czahller-20121031-22-43-54.jpg)
-  ![Kengu (Peelander Yellow) (VI)](/assets/images/blog/2012-11-07-peelander-z/czahller-20121031-22-44-41.jpg)
-  ![Conga Line](/assets/images/blog/2012-11-07-peelander-z/czahller-20121031-22-45-41.jpg)
-  ![Kengu (Peelander Yellow) (VII)](/assets/images/blog/2012-11-07-peelander-z/czahller-20121031-22-46-44.jpg)
-  ![Cocktail Master Kotaro (I)](/assets/images/blog/2012-11-07-peelander-z/czahller-20121031-22-47-30.jpg)
-  ![Cocktail Master Kotaro (II)](/assets/images/blog/2012-11-07-peelander-z/czahller-20121031-22-47-56.jpg)
-  ![Cocktail Master Kotaro (III)](/assets/images/blog/2012-11-07-peelander-z/czahller-20121031-22-47-59.jpg)
-  ![Hand Clap](/assets/images/blog/2012-11-07-peelander-z/czahller-20121031-22-49-35.jpg)
-  ![Akihiko (Peelander Green) (V)](/assets/images/blog/2012-11-07-peelander-z/czahller-20121031-22-50-25.jpg)
-  ![Kotaro (It's Hot under the Lights)](/assets/images/blog/2012-11-07-peelander-z/czahller-20121031-22-50-52.jpg)
-  ![Get Glasses (I)](/assets/images/blog/2012-11-07-peelander-z/czahller-20121031-22-52-56.jpg)
-  ![Get Glasses (II)](/assets/images/blog/2012-11-07-peelander-z/czahller-20121031-22-53-18.jpg)
-  ![Akihiko (Get Glasses)](/assets/images/blog/2012-11-07-peelander-z/czahller-20121031-22-53-40.jpg)
-  ![Audience Member Plays Guitar with Kengu (I)](/assets/images/blog/2012-11-07-peelander-z/czahller-20121031-22-55-45.jpg)
-  ![Audience Member Plays Guitar with Kengu (II)](/assets/images/blog/2012-11-07-peelander-z/czahller-20121031-22-55-52.jpg)
-  ![Audience (II)](/assets/images/blog/2012-11-07-peelander-z/czahller-20121031-22-56-55.jpg)
-  ![Akihiko (Ninja High School) (I)](/assets/images/blog/2012-11-07-peelander-z/czahller-20121031-22-59-03.jpg)
-  ![Akihiko (Ninja High School) (II)](/assets/images/blog/2012-11-07-peelander-z/czahller-20121031-22-59-47.jpg)
-  ![Akihiko (Ninja High School) (III)](/assets/images/blog/2012-11-07-peelander-z/czahller-20121031-22-59-58.jpg)
-  ![Kengu Is Excited](/assets/images/blog/2012-11-07-peelander-z/czahller-20121031-23-03-07.jpg)
-  ![Kotaro (Hand Clap)](/assets/images/blog/2012-11-07-peelander-z/czahller-20121031-23-03-14.jpg)
-  ![Kengu (Peelander Yellow) (VIII)](/assets/images/blog/2012-11-07-peelander-z/czahller-20121031-23-03-50.jpg)
-  ![Kengu (Peelander Yellow) (IX)](/assets/images/blog/2012-11-07-peelander-z/czahller-20121031-23-03-53.jpg)
-  ![S.T.E.A.K.](/assets/images/blog/2012-11-07-peelander-z/czahller-20121031-23-05-07.jpg)
-  ![Kotaro (Soulful Singer)](/assets/images/blog/2012-11-07-peelander-z/czahller-20121031-23-06-01.jpg)
-  ![Kengu Tears up the Guitar](/assets/images/blog/2012-11-07-peelander-z/czahller-20121031-23-06-18.jpg)
-  ![Guest Drummer Daniel Drinnen](/assets/images/blog/2012-11-07-peelander-z/czahller-20121031-23-08-31.jpg)
-  ![Human Bowling, a.k.a. Happiness Ceremony (I)](/assets/images/blog/2012-11-07-peelander-z/czahller-20121031-23-09-59.jpg)
-  ![Human Bowling, a.k.a. Happiness Ceremony (II)](/assets/images/blog/2012-11-07-peelander-z/czahller-20121031-23-10-45.jpg)
-  ![More Audience Participation](/assets/images/blog/2012-11-07-peelander-z/czahller-20121031-23-12-06.jpg)
-  ![Girls Just Wanna Have Fun (I)](/assets/images/blog/2012-11-07-peelander-z/czahller-20121031-23-12-37.jpg)
-  ![Girls Just Wanna Have Fun (II)](/assets/images/blog/2012-11-07-peelander-z/czahller-20121031-23-14-44.jpg)
-  ![Girls Just Wanna Have Fun (III)](/assets/images/blog/2012-11-07-peelander-z/czahller-20121031-23-14-59.jpg)
-  ![Goodnight, Everybody!](/assets/images/blog/2012-11-07-peelander-z/czahller-20121031-23-15-03.jpg)
-  ![Final Moments (Still Rockin’)](/assets/images/blog/2012-11-07-peelander-z/czahller-20121031-23-15-15.jpg)
-  ![Girls Just Wanna Have Fun (IV)](/assets/images/blog/2012-11-07-peelander-z/czahller-20121031-23-16-18.jpg)
-  ![The Squid, Deflated](/assets/images/blog/2012-11-07-peelander-z/czahller-20121031-23-16-37.jpg)
-  ![Girls Just Wanna Have Fun (V)](/assets/images/blog/2012-11-07-peelander-z/czahller-20121031-23-16-58.jpg)
-  ![Thank You All for Coming!](/assets/images/blog/2012-11-07-peelander-z/czahller-20121031-23-18-31.jpg)
+  {% image "./src/assets/images/blog/2012-11-07-peelander-z/czahller-20121031-20-46-38.jpg", "", "Yumi (Peelander Pink) and another young Japanese lady stand by the merch table. Yumi has short, pink hair and wears a hot-pink hoodie and t-shirt, pink-and-black striped leggings, silver hotpants with matching belt, and knee-high silver boots.", "Yumi at the Merch Table (I)" %}
+
+  {% image "./src/assets/images/blog/2012-11-07-peelander-z/czahller-20121031-21-07-19.jpg", "", "Yumi sticks her tongue out and waggles her fingers at me. She is sitting at the merch table.", "Yumi at the Merch Table (II)" %}
+
+  {% image "./src/assets/images/blog/2012-11-07-peelander-z/czahller-20121031-21-16-30.jpg", "", "Peelander Red in the green room, waiting go onstage.", "Preparing to Take the Stage (I)" %}
+
+  {% image "./src/assets/images/blog/2012-11-07-peelander-z/czahller-20121031-21-16-46.jpg", "", "A blurry Kengu in the green room.", "Preparing to Take the Stage (II)" %}
+
+  {% image "./src/assets/images/blog/2012-11-07-peelander-z/czahller-20121031-21-16-57.jpg", "", "The band poses in the green room. Kengu is moving and thus blurry.", "Preparing to Take the Stage (III)" %}
+
+  {% image "featured", "", "Peelander-Z in the green room. They are assuming “superhero” poses. They are moving so the image is blurry. Peelander Pink appears as a ghost image, with the wall behind her visible through her head and body.", "If You Can See Pink, Then You Are a Good Person" %}
+
+  {% image "./src/assets/images/blog/2012-11-07-peelander-z/czahller-20121031-21-19-41.jpg", "", "The band posing in the green room. Peelander Pink has stopped moving, her head held sideways over Peelander Yellow’s right shoulder.", "You Must Be a Good Person" %}
+
+  {% image "./src/assets/images/blog/2012-11-07-peelander-z/czahller-20121031-21-49-53.jpg", "", "Kengu in the audience watching Electric Eel Shock. His hair is dyed yellow. He wears a yellow ball cap and yellow hoodie over his stage costume.", "Kengu Watching Electric Eel Shock (I)" %}
+
+  {% image "./src/assets/images/blog/2012-11-07-peelander-z/czahller-20121031-21-50-09.jpg", "", "The back of Peelander Yellow’s hooodie, revealing a drawing of a bare-chested, muscular Black man and the partially obscured text “New York.”", "Kengu Watching Electric Eel Shock (II)" %}
+
+  {% image "./src/assets/images/blog/2012-11-07-peelander-z/czahller-20121031-21-59-44.jpg", "", "Kotaro setting up a keyboard", "Kotaro Sets Up Yumi's Keyboard" %}
+
+  {% image "./src/assets/images/blog/2012-11-07-peelander-z/czahller-20121031-21-59-59.jpg", "", "Kengu setting up a guitar amp", "Kengu Sets Up His Amp (I)" %}
+
+  {% image "./src/assets/images/blog/2012-11-07-peelander-z/czahller-20121031-22-00-40.jpg", "", "Akhiko setting up a drum kit", "Akihiko Sets Up His Drums" %}
+
+  {% image "./src/assets/images/blog/2012-11-07-peelander-z/czahller-20121031-22-01-57.jpg", "", "Kotaro setting up a bass amp", "Kotaro Sets Up the Bass Amp" %}
+
+  {% image "./src/assets/images/blog/2012-11-07-peelander-z/czahller-20121031-22-03-11.jpg", "", "Kengu setting up a guitar amp", "Kengu Sets Up His Amp (II) (Detail)" %}
+
+  {% image "./src/assets/images/blog/2012-11-07-peelander-z/czahller-20121031-22-03-15.jpg", "", "A Pikachu doll sitting on a guitar amp", "Kengu Sets Up His Amp (III) (Detail)" %}
+
+  {% image "./src/assets/images/blog/2012-11-07-peelander-z/czahller-20121031-22-03-24.jpg", "", "Kengu setting up a guitar amp. Various yellow plush figures from Japanese pop culture sit on the amp. A yellow bowling pin is attached to the cabinet.", "Kengu Sets Up His Amp (IV) (Detail)" %}
+
+  {% image "./src/assets/images/blog/2012-11-07-peelander-z/czahller-20121031-22-03-41.jpg", "", "Various props on the stage, including a utility belt, red plastic eyeglass frames, and a lucha libre mask", "Props" %}
+
+  {% image "./src/assets/images/blog/2012-11-07-peelander-z/czahller-20121031-22-05-28.jpg", "", "Yumi stretches her calves", "Yumi Staying Limber" %}
+
+  {% image "./src/assets/images/blog/2012-11-07-peelander-z/czahller-20121031-22-08-49.jpg", "", "Kengu with his guitar, standing by his amp", "Kengu Sound Check (I)" %}
+
+  {% image "./src/assets/images/blog/2012-11-07-peelander-z/czahller-20121031-22-13-25.jpg", "", "Kengu continues sound check", "Kengu Sound Check (II)" %}
+
+  {% image "./src/assets/images/blog/2012-11-07-peelander-z/czahller-20121031-22-13-45.jpg", "", "Yumi checking her keyboard sound levels", "Yumi Sound Check" %}
+
+  {% image "./src/assets/images/blog/2012-11-07-peelander-z/czahller-20121031-22-16-19.jpg", "", "Kengu addresses the audience", "Kengu Announcement" %}
+
+  {% image "./src/assets/images/blog/2012-11-07-peelander-z/czahller-20121031-22-19-52.jpg", "", "Kotaro (Peelander Red)", "Kotaro (Peelander Red) (I)" %}
+
+  {% image "./src/assets/images/blog/2012-11-07-peelander-z/czahller-20121031-22-20-05.jpg", "", "Yumi (Peelander Pink)", "Yumi (Peelander Pink) (I)" %}
+
+  {% image "./src/assets/images/blog/2012-11-07-peelander-z/czahller-20121031-22-20-15.jpg", "", "Kengu (Peelander Yellow)", "Kengu (Peelander Yellow) (I)" %}
+
+  {% image "./src/assets/images/blog/2012-11-07-peelander-z/czahller-20121031-22-20-28.jpg", "", "Akihiko (Peelander Green)", "Akihiko (Peelander Green) (I)" %}
+
+  {% image "./src/assets/images/blog/2012-11-07-peelander-z/czahller-20121031-22-20-38.jpg", "", "Kengu (Peelander Yellow)", "Kengu (Peelander Yellow) (II)" %}
+
+  {% image "./src/assets/images/blog/2012-11-07-peelander-z/czahller-20121031-22-21-25.jpg", "", "Yumi does the robot dance. She wears a flight helmet and goggles.", "Yumi Robot Dance (I)" %}
+
+  {% image "./src/assets/images/blog/2012-11-07-peelander-z/czahller-20121031-22-21-26.jpg", "", "Yumi does the robot dance", "Yumi Robot Dance (II)" %}
+
+  {% image "./src/assets/images/blog/2012-11-07-peelander-z/czahller-20121031-22-21-27.jpg", "", "Yumi does the robot dance", "Yumi Robot Dance (III)" %}
+
+  {% image "./src/assets/images/blog/2012-11-07-peelander-z/czahller-20121031-22-21-36.jpg", "", "Kengu (Peelander Yellow)", "Kengu (Peelander Yellow) (III)" %}
+
+  {% image "./src/assets/images/blog/2012-11-07-peelander-z/czahller-20121031-22-22-14.jpg", "", "Akihiko (Peelander Green)", "Akihiko (Peelander Green) (II)" %}
+
+  {% image "./src/assets/images/blog/2012-11-07-peelander-z/czahller-20121031-22-22-54.jpg", "", "Yumi and Kotaro both lean over as they play their respective instruments", "Rockin' Out (Space Vacation)" %}
+
+  {% image "./src/assets/images/blog/2012-11-07-peelander-z/czahller-20121031-22-23-23.jpg", "", "Kengu (Peelander Yellow)", "Kengu (Peelander Yellow) (IV)" %}
+
+  {% image "./src/assets/images/blog/2012-11-07-peelander-z/czahller-20121031-22-24-18.jpg", "", "Akihiko holds up the “So Many Mike” sign. It is hand-lettered with Kengu’s distinctive lettering style.", "So Many Mike" %}
+
+  {% image "./src/assets/images/blog/2012-11-07-peelander-z/czahller-20121031-22-26-13.jpg", "", "Kotaro (Peelander Red)", "Kotaro (Peelander Red) (II)" %}
+
+  {% image "./src/assets/images/blog/2012-11-07-peelander-z/czahller-20121031-22-26-45.jpg", "", "“Under Zero” sign on the stage floor", "Under Zero" %}
+
+  {% image "./src/assets/images/blog/2012-11-07-peelander-z/czahller-20121031-22-27-04.jpg", "", "Kengu smiling as he sings and plays", "Smile, Kengu" %}
+
+  {% image "./src/assets/images/blog/2012-11-07-peelander-z/czahller-20121031-22-27-26.jpg", "", "Kotaro (Peelander Red)", "Kotaro (Peelander Red) (III)" %}
+
+  {% image "./src/assets/images/blog/2012-11-07-peelander-z/czahller-20121031-22-27-51.jpg", "", "Akihiko (Peelander Green)", "Akihiko (Peelander Green) (III)" %}
+
+  {% image "./src/assets/images/blog/2012-11-07-peelander-z/czahller-20121031-22-27-52.jpg", "", "Akihiko (Peelander Green)", "Akihiko (Peelander Green) (IV)" %}
+
+  {% image "./src/assets/images/blog/2012-11-07-peelander-z/czahller-20121031-22-28-21.jpg", "", "Akihiko holds up the “Mad Tiger” sign", "Mad Tiger (I)" %}
+
+  {% image "./src/assets/images/blog/2012-11-07-peelander-z/czahller-20121031-22-28-59.jpg", "", "A man wearing a Gumby costume alights the stage for some audience participation", "Gumby Takes the Stage" %}
+
+  {% image "./src/assets/images/blog/2012-11-07-peelander-z/czahller-20121031-22-31-10.jpg", "", "Kengu (Peelander Yellow)", "Kengu (Peelander Yellow) (V)" %}
+
+  {% image "./src/assets/images/blog/2012-11-07-peelander-z/czahller-20121031-22-31-42.jpg", "", "Yumi holds the “Mad Tiger” sign", "Mad Tiger (II)" %}
+
+  {% image "./src/assets/images/blog/2012-11-07-peelander-z/czahller-20121031-22-32-41.jpg", "", "Audience members dance on stage while playing primitive percussion instruments (tambourine, steel pet bowls)", "Controlled Chaos" %}
+
+  {% image "./src/assets/images/blog/2012-11-07-peelander-z/czahller-20121031-22-32-59.jpg", "", "Yumi holds up her fist. She has a defiant look on her face.", "Yeah!" %}
+
+  {% image "./src/assets/images/blog/2012-11-07-peelander-z/czahller-20121031-22-33-18.jpg", "", "Audience, in their Hallowe’en costumes, play percussion on the stage", "Audience on Stage (Mad Tiger) (I)" %}
+
+  {% image "./src/assets/images/blog/2012-11-07-peelander-z/czahller-20121031-22-33-24.jpg", "", "Audience, in their Hallowe’en costumes, play percussion on the stage", "Audience on Stage (Mad Tiger) (II)" %}
+
+  {% image "./src/assets/images/blog/2012-11-07-peelander-z/czahller-20121031-22-35-10.jpg", "", "Kotaro wearing a squid costume while riding a unicycle", "The Giant Squid and the Unicycle (I)" %}
+
+  {% image "./src/assets/images/blog/2012-11-07-peelander-z/czahller-20121031-22-35-31.jpg", "", "Audience member holds the “Mad Tiger” sign while others stand onstage singing & beating steel dog bowls", "Audience on Stage (Mad Tiger) (III)" %}
+
+  {% image "./src/assets/images/blog/2012-11-07-peelander-z/czahller-20121031-22-35-46.jpg", "", "Kotaro wearing a squid costume while riding a unicycle", "The Giant Squid and the Unicycle (II)" %}
+
+  {% image "./src/assets/images/blog/2012-11-07-peelander-z/czahller-20121031-22-36-52.jpg", "", "The band plays “Mad Tiger”", "Mad Tiger (III)" %}
+
+  {% image "./src/assets/images/blog/2012-11-07-peelander-z/czahller-20121031-22-37-20.jpg", "", "The band plays “Mad Tiger”", "Mad Tiger (IV)" %}
+
+  {% image "./src/assets/images/blog/2012-11-07-peelander-z/czahller-20121031-22-37-27.jpg", "", "Kotaro (Peelander Red)", "Kotaro (Peelander Red) (IV)" %}
+
+  {% image "./src/assets/images/blog/2012-11-07-peelander-z/czahller-20121031-22-39-11.jpg", "", "Closeup of Kengu, his left arm raised", "Go Bowling (I)" %}
+
+  {% image "./src/assets/images/blog/2012-11-07-peelander-z/czahller-20121031-22-39-13.jpg", "", "Kengu exhorts the audience to go bowling", "Go Bowling (II)" %}
+
+  {% image "./src/assets/images/blog/2012-11-07-peelander-z/czahller-20121031-22-39-47.jpg", "", "Yumi standing calmly, waiting for her next cue", "Yumi (Calm before the Storm)" %}
+
+  {% image "./src/assets/images/blog/2012-11-07-peelander-z/czahller-20121031-22-40-03.jpg", "", "Kotaro (Peelander Red)", "Kotaro (Peelander Red) (V)" %}
+
+  {% image "./src/assets/images/blog/2012-11-07-peelander-z/czahller-20121031-22-40-13.jpg", "", "Yellow bowling pin tucked into Kengu’s belt", "Go Bowling (III)" %}
+
+  {% image "./src/assets/images/blog/2012-11-07-peelander-z/czahller-20121031-22-42-49.jpg", "", "A hand-lettered sign leaning against the drum kit which says “Go go go”", "Go Go Go (Bowling)" %}
+
+  {% image "./src/assets/images/blog/2012-11-07-peelander-z/czahller-20121031-22-43-39.jpg", "", "A sign on the stage floor which says “Go bowling”", "Go Bowling (IV)" %}
+
+  {% image "./src/assets/images/blog/2012-11-07-peelander-z/czahller-20121031-22-43-54.jpg", "", "Yumi (Peelander Pink)", "Yumi (Peelander Pink) (II)" %}
+
+  {% image "./src/assets/images/blog/2012-11-07-peelander-z/czahller-20121031-22-44-41.jpg", "", "Kengu (Peelander Yellow)", "Kengu (Peelander Yellow) (VI)" %}
+
+  {% image "./src/assets/images/blog/2012-11-07-peelander-z/czahller-20121031-22-45-41.jpg", "", "The audience forms a conga line", "Conga Line" %}
+
+  {% image "./src/assets/images/blog/2012-11-07-peelander-z/czahller-20121031-22-46-44.jpg", "", "Kengu (Peelander Yellow)", "Kengu (Peelander Yellow) (VII)" %}
+
+  {% image "./src/assets/images/blog/2012-11-07-peelander-z/czahller-20121031-22-47-30.jpg", "", "Kotaro stands on the bar holding a cocktail shaker", "Cocktail Master Kotaro (I)" %}
+
+  {% image "./src/assets/images/blog/2012-11-07-peelander-z/czahller-20121031-22-47-56.jpg", "", "Kotaro steps off the bar and sits on the shoulders of an audence member", "Cocktail Master Kotaro (II)" %}
+
+  {% image "./src/assets/images/blog/2012-11-07-peelander-z/czahller-20121031-22-47-59.jpg", "", "Still riding on an audence member’s shoulders, Kotaro points up and to his right", "Cocktail Master Kotaro (III)" %}
+
+  {% image "./src/assets/images/blog/2012-11-07-peelander-z/czahller-20121031-22-49-35.jpg", "", "Kengu leads the audience in rhythmic clapping", "Hand Clap" %}
+
+  {% image "./src/assets/images/blog/2012-11-07-peelander-z/czahller-20121031-22-50-25.jpg", "", "Akihiko (Peelander Green)", "Akihiko (Peelander Green) (V)" %}
+
+  {% image "./src/assets/images/blog/2012-11-07-peelander-z/czahller-20121031-22-50-52.jpg", "", "Closeup of Kotaro, sweat pouring from his face, hair drenched", "Kotaro (It's Hot under the Lights)" %}
+
+  {% image "./src/assets/images/blog/2012-11-07-peelander-z/czahller-20121031-22-52-56.jpg", "", "A hand holds up a sign with a drawing of a pair of thick, black eyeglasses", "Get Glasses (I)" %}
+
+  {% image "./src/assets/images/blog/2012-11-07-peelander-z/czahller-20121031-22-53-18.jpg", "", "A sign that says “Get glasses” leans against the drum kit", "Get Glasses (II)" %}
+
+  {% image "./src/assets/images/blog/2012-11-07-peelander-z/czahller-20121031-22-53-40.jpg", "", "Akhiko wearing a pair of thick-lensed catseye glasses", "Akihiko (Get Glasses)" %}
+
+  {% image "./src/assets/images/blog/2012-11-07-peelander-z/czahller-20121031-22-55-45.jpg", "", "Kengu guides an audience member’s finger over his guitar neckboard while Kengu strums with his free hand", "Audience Member Plays Guitar with Kengu (I)" %}
+
+  {% image "./src/assets/images/blog/2012-11-07-peelander-z/czahller-20121031-22-55-52.jpg", "", "Kengu guides an audience member’s finger over his guitar neckboard while Kengu strums with his free hand", "Audience Member Plays Guitar with Kengu (II)" %}
+
+  {% image "./src/assets/images/blog/2012-11-07-peelander-z/czahller-20121031-22-56-55.jpg", "", "Excited audience wearing costumes", "Audience (II)" %}
+
+  {% image "./src/assets/images/blog/2012-11-07-peelander-z/czahller-20121031-22-59-03.jpg", "", "Akhiko holds up the “Ninja high school” sign", "Akihiko (Ninja High School) (I)" %}
+
+  {% image "./src/assets/images/blog/2012-11-07-peelander-z/czahller-20121031-22-59-47.jpg", "", "Akihiko holds up the “Ninja high school” sign with one hand while he drums with the other", "Akihiko (Ninja High School) (II)" %}
+
+  {% image "./src/assets/images/blog/2012-11-07-peelander-z/czahller-20121031-22-59-58.jpg", "", "Akhiko holds the “Ninja high school” sign in front of himself", "Akihiko (Ninja High School) (III)" %}
+
+  {% image "./src/assets/images/blog/2012-11-07-peelander-z/czahller-20121031-23-03-07.jpg", "", "Kengu gesticulating wildly", "Kengu Is Excited" %}
+
+  {% image "./src/assets/images/blog/2012-11-07-peelander-z/czahller-20121031-23-03-14.jpg", "", "Kotaro clapping on the beat while singing", "Kotaro (Hand Clap)" %}
+
+  {% image "./src/assets/images/blog/2012-11-07-peelander-z/czahller-20121031-23-03-50.jpg", "", "Kengu (Peelander Yellow)", "Kengu (Peelander Yellow) (VIII)" %}
+
+  {% image "./src/assets/images/blog/2012-11-07-peelander-z/czahller-20121031-23-03-53.jpg", "", "Kengu (Peelander Yellow)", "Kengu (Peelander Yellow) (IX)" %}
+
+  {% image "./src/assets/images/blog/2012-11-07-peelander-z/czahller-20121031-23-05-07.jpg", "", "Akihiko holds up the “S.T.E.A.K.” sign", "S.T.E.A.K." %}
+
+  {% image "./src/assets/images/blog/2012-11-07-peelander-z/czahller-20121031-23-06-01.jpg", "", "Kotaro signing. His eyes implore the audience like a lovesick puppy", "Kotaro (Soulful Singer)" %}
+
+  {% image "./src/assets/images/blog/2012-11-07-peelander-z/czahller-20121031-23-06-18.jpg", "", "Kengu playing guitar", "Kengu Tears up the Guitar" %}
+
+  {% image "./src/assets/images/blog/2012-11-07-peelander-z/czahller-20121031-23-08-31.jpg", "", "Daniel Drinnen sits in on the drums", "Guest Drummer Daniel Drinnen" %}
+
+  {% image "./src/assets/images/blog/2012-11-07-peelander-z/czahller-20121031-23-09-59.jpg", "", "Yellow bowling pins. A hand right of fram sets up a final pin.", "Human Bowling, a.k.a. Happiness Ceremony (I)" %}
+
+  {% image "./src/assets/images/blog/2012-11-07-peelander-z/czahller-20121031-23-10-45.jpg", "", "Kengu & Kotaro (dressed as a squid) stand at the end of a clear path formed by the audience. Kengu’s left hand is raised", "Human Bowling, a.k.a. Happiness Ceremony (II)" %}
+
+  {% image "./src/assets/images/blog/2012-11-07-peelander-z/czahller-20121031-23-12-06.jpg", "", "Audience on the stage", "More Audience Participation" %}
+
+  {% image "./src/assets/images/blog/2012-11-07-peelander-z/czahller-20121031-23-12-37.jpg", "", "Yumi has donned a short cape and is singing “Girls Just Wanna Have Fun”", "Girls Just Wanna Have Fun (I)" %}
+
+  {% image "./src/assets/images/blog/2012-11-07-peelander-z/czahller-20121031-23-14-44.jpg", "", "Kengu leans back, left arm raised", "Girls Just Wanna Have Fun (II)" %}
+
+  {% image "./src/assets/images/blog/2012-11-07-peelander-z/czahller-20121031-23-14-59.jpg", "", "The band continues to play “Girls Just Wanna Have Fun”", "Girls Just Wanna Have Fun (III)" %}
+
+  {% image "./src/assets/images/blog/2012-11-07-peelander-z/czahller-20121031-23-15-03.jpg", "", "Peelander-Z", "Goodnight, Everybody!" %}
+
+  {% image "./src/assets/images/blog/2012-11-07-peelander-z/czahller-20121031-23-15-15.jpg", "", "Kotaro crouches while playing bass", "Final Moments (Still Rockin’)" %}
+
+  {% image "./src/assets/images/blog/2012-11-07-peelander-z/czahller-20121031-23-16-18.jpg", "", "Yumi smiling", "Girls Just Wanna Have Fun (IV)" %}
+
+  {% image "./src/assets/images/blog/2012-11-07-peelander-z/czahller-20121031-23-16-37.jpg", "", "Squid costume, now empty, on the stage floor", "The Squid, Deflated" %}
+
+  {% image "./src/assets/images/blog/2012-11-07-peelander-z/czahller-20121031-23-16-58.jpg", "", "The band finishing up their last song", "Girls Just Wanna Have Fun (V)" %}
+
+  {% image "./src/assets/images/blog/2012-11-07-peelander-z/czahller-20121031-23-18-31.jpg", "", "The band waving goodnight", "Thank You All for Coming!" %}
 </mpb-dialog-gallery>

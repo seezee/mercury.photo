@@ -27,7 +27,7 @@ excerpt: Born in the Bronx under the name Elizabeth Gowan Berliner, Jaane Doe st
 <p>Jaane Doe & the art of reinvention</p></stack-l></hgroup>
 <!-- markdownlint-enable MD025 --><mpb-dialog-img>
 
-{% image "featured", "img-constrained", "Jaane Doe (Behind the Drumkit) — 21st Annual Woody Guthrie Festival, 2018", "Jaane Doe (Behind the Drumkit)&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;21st Annual Woody Guthrie Festival, 2018", "eager" %}</mpb-dialog-img>
+{% image "featured", "", "Jaane Doe viewed from behind the drumkit", "Jaane Doe (Behind the Drumkit)&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;21st Annual Woody Guthrie Festival, 2018", "eager" %}</mpb-dialog-img>
 
 Born in the Bronx under the name <span class="h-card p-name">Elizabeth Gowan Berliner</span>, <span class="h-card p-nickname">Jaane Doe</span><a href="#mn1" id="mnref1"><span class="sr-only"> [See note]</span></a> started her musical career at age eleven in Catholic School. There she would line up her classmates in the halls to teach them the popular folk music of the day&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;<cite class="short-work">Where Have All the Flowers Gone?</cite> <cite class="short-work">Blowin’ in the Wind,</cite> and <cite class="short-work">Turn! Turn! Turn!</cite>&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;so they could play them at the parish folk masses.{.drop-cap}
 
@@ -57,15 +57,23 @@ Her career went on hiatus when she found herself a widow raising three children.
 
 <mpb-dialog-gallery hint rel cols="8">
 
-  ![Elizabeth Gowan Berliner (Jaane Doe) — 21st Annual Woody Guthrie Festival, 2018](/assets/images/blog/2018-10-19-woodyfest-jaane-doe/czahller-20180712-12-01-56.jpg)
-  ![Jaane Doe — 21st Annual Woody Guthrie Festival, 2018](/assets/images/blog/2018-10-19-woodyfest-jaane-doe/czahller-20180712-12-02-10.jpg)
-  ![Jaane Doe (I) — 21st Annual Woody Guthrie Festival, 2018](/assets/images/blog/2018-10-19-woodyfest-jaane-doe/czahller-20180712-12-05-39.jpg)
-  ![Jaane Doe (II) — 21st Annual Woody Guthrie Festival, 2018](/assets/images/blog/2018-10-19-woodyfest-jaane-doe/czahller-20180712-12-08-39.jpg)
-  ![Jaane Doe (Behind the Drumkit) — 21st Annual Woody Guthrie Festival, 2018](/assets/images/blog/2018-10-19-woodyfest-jaane-doe/czahller-20180712-12-18-05.jpg)
-  ![Jaane Doe (III) — 21st Annual Woody Guthrie Festival, 2018](/assets/images/blog/2018-10-19-woodyfest-jaane-doe/czahller-20180712-12-22-42.jpg)
-  ![Jaane Doe (IV) — 21st Annual Woody Guthrie Festival, 2018](/assets/images/blog/2018-10-19-woodyfest-jaane-doe/czahller-20180712-12-23-36.jpg)
-  ![Jaane Doe’s Guitar (Detail) — 21st Annual Woody Guthrie Festival, 2018](/assets/images/blog/2018-10-19-woodyfest-jaane-doe/czahller-20180712-12-28-59.jpg)
-  ![Jaane Doe (V) — 21st Annual Woody Guthrie Festival, 2018](/assets/images/blog/2018-10-19-woodyfest-jaane-doe/czahller-20180712-12-29-10.jpg)
+  {% image "./src/assets/images/blog/2018-10-19-woodyfest-jaane-doe/czahller-20180712-12-01-56.jpg", "", "Elizabeth Gowan Berliner (Jaane Doe)", "Elizabeth Gowan Berliner (Jaane Doe)" %}
+
+  {% image "./src/assets/images/blog/2018-10-19-woodyfest-jaane-doe/czahller-20180712-12-02-10.jpg", "", "Jaane Doe", "Jaane Doe" %}
+
+  {% image "./src/assets/images/blog/2018-10-19-woodyfest-jaane-doe/czahller-20180712-12-05-39.jpg", "", "Jaane Doe", "Jaane Doe (I)" %}
+
+  {% image "./src/assets/images/blog/2018-10-19-woodyfest-jaane-doe/czahller-20180712-12-08-39.jpg", "", "Jaane Doe", "Jaane Doe (II)" %}
+
+  {% image "featured", "", "Jaane Doe seen from behind the drumkit", "Jaane Doe (Behind the Drumkit)" %}
+
+  {% image "./src/assets/images/blog/2018-10-19-woodyfest-jaane-doe/czahller-20180712-12-22-42.jpg", "", "Jaane Doe", "Jaane Doe (III)" %}
+
+  {% image "./src/assets/images/blog/2018-10-19-woodyfest-jaane-doe/czahller-20180712-12-23-36.jpg", "", "Jaane Doe", "Jaane Doe (IV)" %}
+
+  {% image "./src/assets/images/blog/2018-10-19-woodyfest-jaane-doe/czahller-20180712-12-28-59.jpg", "", "Detail of Jaane Doe’s guitar, showing the black top with a tweed fabric pattern", "Jaane Doe’s Guitar (Detail)" %}
+
+  {% image "./src/assets/images/blog/2018-10-19-woodyfest-jaane-doe/czahller-20180712-12-29-10.jpg", "", "Jaane Doe", "Jaane Doe (V)" %}
 </mpb-dialog-gallery>
 
 <hr class="marginnotes-sep" />
@@ -76,7 +84,7 @@ Her career went on hiatus when she found herself a widow raising three children.
 
 <mpb-dialog-img>
 
-{% image "./src/assets/images/blog/2018-10-19-woodyfest-jaane-doe/czahller-20181025-18-12-12.jpg", "img-constrained", "Jaane Doe Set List — 21st Annual Woody Guthrie Festival, 2018", "Jaane Doe Set List&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;21st Annual Woody Guthrie Festival, 2018&nbsp;<a href=\"#mnref1\" a><span class=\"sr-only\">Back to content&nbsp;</span>↩︎</a>" %}</mpb-dialog-img>
+{% image "./src/assets/images/blog/2018-10-19-woodyfest-jaane-doe/czahller-20181025-18-12-12.jpg", "", "Jaane Doe Set List", "Jaane Doe Set List&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;21st Annual Woody Guthrie Festival, 2018&nbsp;<a href=\"#mnref1\" a><span class=\"sr-only\">Back to content&nbsp;</span>↩︎</a>" %}</mpb-dialog-img>
     </li>
   </ul>
 </footer>

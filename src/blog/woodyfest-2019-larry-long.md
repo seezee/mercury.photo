@@ -23,11 +23,12 @@ excerpt: In 1977, twenty-six-year-old vagabond singer Larry Long wrote <cite cla
 
 <!-- markdownlint-enable MD025 --><mpb-dialog-img>
 
-{% image "featured", "img-constrained", "Larry (I) — 22nd Annual Woody Guthrie Festival, 2019", "Larry (I)&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;22nd Annual Woody Guthrie Festival, 2019", "eager" %}</mpb-dialog-img>
+{% image "featured", "", "Larry Long", "Larry (I)", "eager" %}</mpb-dialog-img>
 
 <mpb-callout type="note">
 
 This article was expanded on <time datetime="2020-01-27">27 January 2020</time> after we reached out to Mr. Long with some questions.
+
 </mpb-callout>
 
 ## Larry Long: American Troubadour
@@ -63,7 +64,7 @@ So of course Long would eventually meet Guthrie contemporary <span class="h-card
 
 ## A Lifetime of Accomplishments
 
-<a href="#mn2" id="mnref2"><span class="sr-only"> [See note]</span></a>Long’s <span class="foreign" lang="la">curriculum vit&aelig; </span> is lengthy and impressive. A self-titled “Road Scholar,” Long organized and performed for Seeger’s ninetieth and ninety-fifth birthday celebrations. In <time datetime="1993">1993</time> Larry performed in Brazil as a <span class="h-card p-org">United States Consulate</span> cultural ambassador. In <time datetime="2000">2000</time> he traveled to South Africa through a grant from the U.S. State Department to hold a collective writing workshop with students, migrant workers and union stewards. He was inducted into the <span class="h-card p-org">America’s Old Time Music Hall of Fame</span> in <time datetime="2014">2014</time>.
+<a href="#mn1" id="mnref2"><span class="sr-only"> [See note]</span></a>Long’s <span class="foreign" lang="la">curriculum vit&aelig; </span> is lengthy and impressive. A self-titled “Road Scholar,” Long organized and performed for Seeger’s ninetieth and ninety-fifth birthday celebrations. In <time datetime="1993">1993</time> Larry performed in Brazil as a <span class="h-card p-org">United States Consulate</span> cultural ambassador. In <time datetime="2000">2000</time> he traveled to South Africa through a grant from the U.S. State Department to hold a collective writing workshop with students, migrant workers and union stewards. He was inducted into the <span class="h-card p-org">America’s Old Time Music Hall of Fame</span> in <time datetime="2014">2014</time>.
 
 Long organized the first tribute to Woody Guthrie in Okemah in <time datetime="1988">1988</time>, eleven years before Woodyfest’s birth. Long’s song, <cite class="short-work">Okemah Waltz,</cite> is the town’s official song. Long wrote it, collectively with Okemah schoolchildren, in <time datetime="1986">1986</time>. You can hear it, along with other songs from Long’s time in Okemah, on the Flying Fish <abbr>LP</abbr> <cite>It Takes a Lot of People (Tribute to Woody Guthrie)</cite>.
 
@@ -77,31 +78,43 @@ Long returned to Okemah for Woodyfest 2019, his tenth time to grace her stages. 
 
 <mpb-dialog-gallery hint rel cols="8">
   
-  ![Roger Osburn Introducing Larry Long & “Fiddlin’⁠ ⁠” Pete Watercott — 22nd Annual Woody Guthrie Festival, 2019](/assets/images/blog/2020-01-17-woodyfest-larry-long/czahller-20190711-11-02-02.jpg)
-  ![Pete & Larry — 22nd Annual Woody Guthrie Festival, 2019](/assets/images/blog/2020-01-17-woodyfest-larry-long/czahller-20190711-11-06-52.jpg)
-  ![Pete & Larry (I) — 22nd Annual Woody Guthrie Festival, 2019](/assets/images/blog/2020-01-17-woodyfest-larry-long/czahller-20190711-11-07-51.jpg)
-  ![Larry Long — 22nd Annual Woody Guthrie Festival, 2019](/assets/images/blog/2020-01-17-woodyfest-larry-long/czahller-20190711-11-09-30.jpg)
-  ![“Fiddlin’⁠ ⁠” Pete Watercott — 22nd Annual Woody Guthrie Festival, 2019](/assets/images/blog/2020-01-17-woodyfest-larry-long/czahller-20190711-11-12-07.jpg)
-  ![Larry (I) — 22nd Annual Woody Guthrie Festival, 2019](/assets/images/blog/2020-01-17-woodyfest-larry-long/czahller-20190711-11-12-16.jpg)
-  ![Pete & Larry (II) — 22nd Annual Woody Guthrie Festival, 2019](/assets/images/blog/2020-01-17-woodyfest-larry-long/czahller-20190711-11-13-49.jpg)
-  ![Larry & Pete, Seen from Upstage — 22nd Annual Woody Guthrie Festival, 2019](/assets/images/blog/2020-01-17-woodyfest-larry-long/czahller-20190711-11-16-15.jpg)
-  ![Larry & Pete (I) — 22nd Annual Woody Guthrie Festival, 2019](/assets/images/blog/2020-01-17-woodyfest-larry-long/czahller-20190711-11-17-04.jpg)
-  ![Larry (II) — 22nd Annual Woody Guthrie Festival, 2019](/assets/images/blog/2020-01-17-woodyfest-larry-long/czahller-20190711-11-20-15.jpg)
-  ![Pete (I) — 22nd Annual Woody Guthrie Festival, 2019](/assets/images/blog/2020-01-17-woodyfest-larry-long/czahller-20190711-11-21-10.jpg)
-  ![Pete (II) — 22nd Annual Woody Guthrie Festival, 2019](/assets/images/blog/2020-01-17-woodyfest-larry-long/czahller-20190711-11-23-03.jpg)
-  ![Larry (III) — 22nd Annual Woody Guthrie Festival, 2019](/assets/images/blog/2020-01-17-woodyfest-larry-long/czahller-20190711-11-38-04.jpg)
-  ![Pete & Larry (Larry Gets Down!) — 22nd Annual Woody Guthrie Festival, 2019](/assets/images/blog/2020-01-17-woodyfest-larry-long/czahller-20190711-11-43-49.jpg)
-  ![Larry Long & “Fiddlin’⁠ ⁠” Pete Watercott Set List — 22nd Annual Woody Guthrie Festival, 2019](/assets/images/blog/2020-01-17-woodyfest-larry-long/czahller-20190711-10-56-56.jpg)</mpb-dialog-gallery>
+  {% image "./src/assets/images/blog/2020-01-17-woodyfest-larry-long/czahller-20190711-11-02-02.jpg", "", "Roger Osburn introducing Larry Long & “Fiddlin’⁠ ⁠” Pete Watercott", "Roger Osburn Introducing Larry Long & “Fiddlin’⁠ ⁠” Pete Watercott" %}
+
+  {% image "./src/assets/images/blog/2020-01-17-woodyfest-larry-long/czahller-20190711-11-06-52.jpg", "", "Pete Watercott & Larry Long", "Pete & Larry" %}
+
+  {% image "./src/assets/images/blog/2020-01-17-woodyfest-larry-long/czahller-20190711-11-07-51.jpg", "", "Pete Watercott & Larry Long", "Pete & Larry (I)" %}
+
+  {% image "./src/assets/images/blog/2020-01-17-woodyfest-larry-long/czahller-20190711-11-09-30.jpg", "", "Larry Long", "Larry Long" %}
+
+  {% image "./src/assets/images/blog/2020-01-17-woodyfest-larry-long/czahller-20190711-11-12-07.jpg", "", "Pete Watercott", "“Fiddlin’⁠ ⁠” Pete Watercott" %}
+
+  {% image "featured", "", "Larry Long", "Larry (I)" %}
+
+  {% image "./src/assets/images/blog/2020-01-17-woodyfest-larry-long/czahller-20190711-11-13-49.jpg", "", "Pete Watercott & Larry Long", "Pete & Larry (II)" %}
+
+  {% image "./src/assets/images/blog/2020-01-17-woodyfest-larry-long/czahller-20190711-11-16-15.jpg", "", "Larry Long & Pete Watercott, seen from upstage", "Larry & Pete, Seen from Upstage" %}
+
+  {% image "./src/assets/images/blog/2020-01-17-woodyfest-larry-long/czahller-20190711-11-17-04.jpg", "", "Larry Long & Pete Watercott", "Larry & Pete (I)" %}
+
+  {% image "./src/assets/images/blog/2020-01-17-woodyfest-larry-long/czahller-20190711-11-20-15.jpg", "", "Larry Long", "Larry (II)" %}
+
+  {% image "./src/assets/images/blog/2020-01-17-woodyfest-larry-long/czahller-20190711-11-21-10.jpg", "", "Pete Watercott", "Pete (I)" %}
+
+  {% image "./src/assets/images/blog/2020-01-17-woodyfest-larry-long/czahller-20190711-11-23-03.jpg", "", "Pete Watercott", "Pete (II)" %}
+
+  {% image "./src/assets/images/blog/2020-01-17-woodyfest-larry-long/czahller-20190711-11-38-04.jpg", "", "Larry Long", "Larry (III)" %}
+
+  {% image "./src/assets/images/blog/2020-01-17-woodyfest-larry-long/czahller-20190711-11-43-49.jpg", "", "Pete Watercott & Larry Long", "Pete & Larry (Larry Gets Down!)" %}
+
+  {% image "./src/assets/images/blog/2020-01-17-woodyfest-larry-long/czahller-20190711-10-56-56.jpg", "", "Larry Long & “Fiddlin’⁠ ⁠” Pete Watercott set list", "Larry Long & “Fiddlin’⁠ ⁠” Pete Watercott Set List" %}
+</mpb-dialog-gallery>
 
 <hr class="marginnotes-sep" />
 <footer class="marginnotes" aria-labelledby="#label-marginnotes">
   <span class="sr-only" id="label-margin-notes">Notes</span>
   <ul class="marginnotes-list" role="list">
     <li id="mn1" role="listitem">
-      <iframe style="border: 0; width: 300px; height: 420px;" src="https://bandcamp.com/EmbeddedPlayer/album=94971717/size=large/bgcol=333333/linkcol=ffffff/tracklist=false/transparent=true/" seamless><a href="https://larrylong.bandcamp.com/album/slow-night">Slow Night by Larry Long | Produced by Cory Wong</a>&nbsp;<a href="#mnref1" a><span class="sr-only">Back to content </span>↩︎</a></iframe>
-    </li>
-    <li id="mn2" role="listitem">
-      {% image "./src/assets/images/blog/2020-01-17-woodyfest-larry-long/larry-long-studs-terkel-inscription.jpg", "img-constrained", "Frontispiece to Hard Times: An Oral History of the Great Depression, inscribed by author Studs Terkel to Larry Long.", "Frontispiece to <cite>Hard Times: An Oral History of the Great Depression</cite>, inscribed by author Studs Terkel to Larry Long. Terkel gave the book to Long after he interviewed him about his efforts to honor Woody Guthrie in Guthrie’s boyhood hometown, Okemah, circa <time datetime=\"1986\">1986</time>&NoBreak;&hairsp;&NoBreak;&ndash;&NoBreak;&hairsp;&NoBreak;<time datetime=\"1988\">1988</time>. The interview was recorded for <a href=\"https://web.archive.org/web/20220118230643/https://bringingwoodyhome.org/audio/\" target=\"_blank\" rel=\"external noopener\">Terkel’s radio show</a> in <time datetime=\"1986\">1989</time>. Photo by Larry Long. Copyright &copy; 1990 Larry Long. All Rights Reserved. Used by Permission.&nbsp;<a href=\"#mnref2\" class=\"govuk-link\"><span class=\"sr-only\">Back to content </span>↩︎</a>" %}
+      {% image "./src/assets/images/blog/2020-01-17-woodyfest-larry-long/larry-long-studs-terkel-inscription.jpg", "", "Frontispiece to Hard Times: An Oral History of the Great Depression, inscribed by author Studs Terkel to Larry Long.", "Frontispiece to <cite>Hard Times: An Oral History of the Great Depression</cite>, inscribed by author Studs Terkel to Larry Long. Terkel gave the book to Long after he interviewed him about his efforts to honor Woody Guthrie in Guthrie’s boyhood hometown, Okemah, circa <time datetime=\"1986\">1986</time>&NoBreak;&hairsp;&NoBreak;&ndash;&NoBreak;&hairsp;&NoBreak;<time datetime=\"1988\">1988</time>. The interview was recorded for <a href=\"https://web.archive.org/web/20220118230643/https://bringingwoodyhome.org/audio/\" target=\"_blank\" rel=\"external noopener\">Terkel’s radio show</a> in <time datetime=\"1986\">1989</time>. Photo by Larry Long. Copyright &copy; 1990 Larry Long. All Rights Reserved. Used by Permission.&nbsp;<a href=\"#mnref2\" class=\"govuk-link\"><span class=\"sr-only\">Back to content </span>↩︎</a>" %}
     </li>
   </ul>
 </footer>

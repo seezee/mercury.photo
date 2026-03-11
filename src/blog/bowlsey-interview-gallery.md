@@ -24,7 +24,7 @@ excerpt: Acoustic duo Bowlsey is moving fast. They granted Mercury Photo Bureau 
 <!-- markdownlint-enable MD025 -->
 We Are Bowlsey</stack-l></hgroup><mpb-dialog-img>
 
-{% image "featured", "img-constrained", "Cid & Shraz singing & rapping a duet. In the background, a colorful graffiti-style mural is visible.", "Duet (I)", "eager" %}</mpb-dialog-img>
+{% image "featured", "", "Cid & Shraz singing & rapping a duet. In the background, a colorful graffiti-style mural is visible.", "Duet (I)", "eager" %}</mpb-dialog-img>
 
 Acoustic duo <span class="h-card p-org">Bowlsey</span> is moving fast. They granted <span class="h-card p-org">Mercury Photo Bureau</span> an interview before their second public performance, and in the intervening weeks became the second interview subjects for <span class="h-card p-org">REV HiFi</span> before joining a contingent of Oklahoma bands featured at this year’s <span class="h-card p-org">SXSW</span>. This bears repeating: they went from their first public performance to joining the <span class="h-event">Buffalo Lounge SXSW Oklahoma Remix Showcase</span> in less than two months.{.drop-cap}
 
@@ -60,7 +60,7 @@ Singer-songwriter <span class="h-card p-name"><span class="p-given-name">Clariss
 
 <mpb-dialog-img>
 
-{% image "./src/assets/images/blog/2013-02-28-bowlsey/czahller-20130208-20-46-03.jpg", "img-constrained", "Cid smiling at Shraz during their Velvet Monkey show.", "Smile!" %}</mpb-dialog-img>
+{% image "./src/assets/images/blog/2013-02-28-bowlsey/czahller-20130208-20-46-03.jpg", "", "Cid smiling at Shraz during their Velvet Monkey show.", "Smile!", "large" %}</mpb-dialog-img>
 
 <span class="spkr">MPB</span> That eventually led you to being a musician?
 
@@ -78,7 +78,7 @@ That led to guitar, led to bass, led to electronic music, led to everything else
 
 <mpb-dialog-img>
 
-{% image "./src/assets/images/blog/2013-02-28-bowlsey/czahller-20130208-21-05-48.jpg", "img-constrained", "Cid & Shraz singing and rapping.", "We Are Bowlsey (V)" %}</mpb-dialog-img>
+{% image "./src/assets/images/blog/2013-02-28-bowlsey/czahller-20130208-21-05-48.jpg", "", "Cid & Shraz singing and rapping.", "We Are Bowlsey (V)", "large" %}</mpb-dialog-img>
 
 <span class="spkr">Castillo</span> My mom and dad were runaways when they met each other; my father is aboriginal Australian, and he was a […] punk kid when my mom met him. My mom was in a [Houston] gang&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;she was a <span class="foreign" lang="es">chola</span>. My grandmother on my dad’s side is full-blooded aborigine; my [paternal] grandfather is Australian; he took her and kinda “smuggled” her over to the U.S., and she acclimated to Louisiana. [My father] was mostly raised in Houston; [he was] a bit of a mud dog [and did] construction.
 
@@ -108,7 +108,7 @@ I gotta say that Shraz made me grow up [musically]; after a while, I started lis
 
 <mpb-dialog-img>
 
-{% image "./src/assets/images/blog/2013-02-28-bowlsey/czahller-20130208-20-35-01.jpg", "img-constrained", "Justin Hogan playing the electric organ.", "Justin Plays Little Kimmie (I)" %}</mpb-dialog-img>
+{% image "./src/assets/images/blog/2013-02-28-bowlsey/czahller-20130208-20-35-01.jpg", "", "Justin Hogan playing the electric organ.", "Justin Plays Little Kimmie (I)", "large" %}</mpb-dialog-img>
 
 <span class="spkr">MPB</span> Well, how did it happen?
 
@@ -134,7 +134,7 @@ I gotta say that Shraz made me grow up [musically]; after a while, I started lis
 
 <mpb-dialog-img>
 
-{% image "./src/assets/images/blog/2013-02-28-bowlsey/czahller-20130208-20-53-50.jpg", "img-constrained", "Shraz singing and playing acoustic guitar.", "Shraz (VII)" %}</mpb-dialog-img>
+{% image "./src/assets/images/blog/2013-02-28-bowlsey/czahller-20130208-20-53-50.jpg", "", "Shraz singing and playing acoustic guitar.", "Shraz (VII)", "large" %}</mpb-dialog-img>
 
 <span class="spkr">Castillo</span> He did a [school] project about us.[^2] [It was] a little slideshow about us, recorded on his phone, performing a song [while we were sitting] on the couch, and the [other] students […] loved it. He calls us and says, <q>Hey, you guys want to come to ACM[^3] and play for some kids in a class?</q>
 
@@ -179,7 +179,7 @@ After we were done playing, they critiqued us. Even though I don’t think we ha
 
 <mpb-dialog-img>
 
-{% image "./src/assets/images/blog/2013-02-28-bowlsey/czahller-20130208-20-51-53.jpg", "img-constrained", "Cid stands, looking pensive behind the microphone, fingers interlocked.", "Cid (VII)" %}</mpb-dialog-img>
+{% image "./src/assets/images/blog/2013-02-28-bowlsey/czahller-20130208-20-51-53.jpg", "", "Cid stands, looking pensive behind the microphone, fingers interlocked.", "Cid (VII)", "large" %}</mpb-dialog-img>
 
 <span class="spkr">MPB</span> I see you’ve acquired some new equipment; is it on loan, or do you own it?
 
@@ -209,7 +209,7 @@ After we were done playing, they critiqued us. Even though I don’t think we ha
 
 <mpb-dialog-img>
 
-{% image "./src/assets/images/blog/2013-02-28-bowlsey/czahller-20130208-18-37-14.jpg", "img-constrained", "Bowlsey’s Kimball organ.", "Little Kimmie" %}</mpb-dialog-img>
+{% image "./src/assets/images/blog/2013-02-28-bowlsey/czahller-20130208-18-37-14.jpg", "", "Bowlsey’s Kimball organ.", "Little Kimmie", "large" %}</mpb-dialog-img>
 
 <span class="spkr">Hogan</span> *Bastards!*
 
@@ -239,37 +239,69 @@ After we were done playing, they critiqued us. Even though I don’t think we ha
 
 <mpb-dialog-gallery hint rel cols="8">
 
-  ![A Rap (I)](/assets/images/blog/2013-02-28-bowlsey/czahller-20130208-20-35-18.jpg)
-  ![A Rap (II)](/assets/images/blog/2013-02-28-bowlsey/czahller-20130208-20-35-55.jpg)
-  ![Cid (I)](/assets/images/blog/2013-02-28-bowlsey/czahller-20130208-20-36-03.jpg)
-  ![Justin Plays Little Kimmie (II)](/assets/images/blog/2013-02-28-bowlsey/czahller-20130208-20-36-47.jpg)
-  ![Shraz (I)](/assets/images/blog/2013-02-28-bowlsey/czahller-20130208-20-38-57.jpg)
-  ![Cid (II)](/assets/images/blog/2013-02-28-bowlsey/czahller-20130208-20-39-06.jpg)
-  ![Cid (III)](/assets/images/blog/2013-02-28-bowlsey/czahller-20130208-20-39-19.jpg)
-  ![Shraz (II)](/assets/images/blog/2013-02-28-bowlsey/czahller-20130208-20-39-41.jpg)
-  ![Cid (IV)](/assets/images/blog/2013-02-28-bowlsey/czahller-20130208-20-40-02.jpg)
-  ![We Are Bowlsey (I)](/assets/images/blog/2013-02-28-bowlsey/czahller-20130208-20-40-33.jpg)
-  ![Shraz Raps, Cid Chills](/assets/images/blog/2013-02-28-bowlsey/czahller-20130208-20-40-51.jpg)
-  ![Desert Boot](/assets/images/blog/2013-02-28-bowlsey/czahller-20130208-20-41-50.jpg)
-  ![We Are Bowlsey (II)](/assets/images/blog/2013-02-28-bowlsey/czahller-20130208-20-43-25.jpg)
-  ![We Are Bowlsey (III)](/assets/images/blog/2013-02-28-bowlsey/czahller-20130208-20-44-13.jpg)
-  ![Smile!](/assets/images/blog/2013-02-28-bowlsey/czahller-20130208-20-46-03.jpg)
-  ![Shraz (III)](/assets/images/blog/2013-02-28-bowlsey/czahller-20130208-20-46-34.jpg)
-  ![Cid (V)](/assets/images/blog/2013-02-28-bowlsey/czahller-20130208-20-47-35.jpg)
-  ![Shraz (IV)](/assets/images/blog/2013-02-28-bowlsey/czahller-20130208-20-47-55.jpg)
-  ![Shraz (V)](/assets/images/blog/2013-02-28-bowlsey/czahller-20130208-20-48-09.jpg)
-  ![Cid (VI)](/assets/images/blog/2013-02-28-bowlsey/czahller-20130208-20-48-18.jpg)
-  ![Socks](/assets/images/blog/2013-02-28-bowlsey/czahller-20130208-20-49-55.jpg)
-  ![Cid (VII)](/assets/images/blog/2013-02-28-bowlsey/czahller-20130208-20-51-53.jpg)
-  ![Shraz (VI)](/assets/images/blog/2013-02-28-bowlsey/czahller-20130208-20-52-29.jpg)
-  ![Cid (Closeup)](/assets/images/blog/2013-02-28-bowlsey/czahller-20130208-20-52-45.jpg)
-  ![Shraz (Closeup)](/assets/images/blog/2013-02-28-bowlsey/czahller-20130208-20-53-37.jpg)
-  ![Shraz (VII)](/assets/images/blog/2013-02-28-bowlsey/czahller-20130208-20-53-50.jpg)
-  ![We Are Bowlsey (IV)](/assets/images/blog/2013-02-28-bowlsey/czahller-20130208-20-57-17.jpg)
-  ![Shraz at the Keys](/assets/images/blog/2013-02-28-bowlsey/czahller-20130208-21-01-45.jpg)
-  ![Shraz & Little Kimmie](/assets/images/blog/2013-02-28-bowlsey/czahller-20130208-21-01-55.jpg)
-  ![Singing and Rapping](/assets/images/blog/2013-02-28-bowlsey/czahller-20130208-21-03-30.jpg)
-  ![Duet (I)](/assets/images/blog/2013-02-28-bowlsey/czahller-20130208-21-05-09.jpg)
-  ![Duet (II)](/assets/images/blog/2013-02-28-bowlsey/czahller-20130208-21-05-15.jpg)
-  ![We Are Bowlsey (V)](/assets/images/blog/2013-02-28-bowlsey/czahller-20130208-21-05-48.jpg)
+  {% image "./src/assets/images/blog/2013-02-28-bowlsey/czahller-20130208-20-35-18.jpg", "", "Shraz rapping", "A Rap (I)" %}
+
+  {% image "./src/assets/images/blog/2013-02-28-bowlsey/czahller-20130208-20-35-55.jpg", "", "Shraz rapping", "A Rap (II)" %}
+
+  {% image "./src/assets/images/blog/2013-02-28-bowlsey/czahller-20130208-20-36-03.jpg", "", "Cid", "Cid (I)" %}
+
+  {% image "./src/assets/images/blog/2013-02-28-bowlsey/czahller-20130208-20-36-47.jpg", "", "Justin Plays Little Kimmie", "Justin Plays Little Kimmie (II)" %}
+
+  {% image "./src/assets/images/blog/2013-02-28-bowlsey/czahller-20130208-20-38-57.jpg", "", "Shraz", "Shraz (I)" %}
+
+  {% image "./src/assets/images/blog/2013-02-28-bowlsey/czahller-20130208-20-39-06.jpg", "", "Cid", "Cid (II)" %}
+
+  {% image "./src/assets/images/blog/2013-02-28-bowlsey/czahller-20130208-20-39-19.jpg", "", "Cid", "Cid (III)" %}
+
+  {% image "./src/assets/images/blog/2013-02-28-bowlsey/czahller-20130208-20-39-41.jpg", "", "Shraz", "Shraz (II)" %}
+
+  {% image "./src/assets/images/blog/2013-02-28-bowlsey/czahller-20130208-20-40-02.jpg", "", "Cid", "Cid (IV)" %}
+
+  {% image "./src/assets/images/blog/2013-02-28-bowlsey/czahller-20130208-20-40-33.jpg", "", "Bowlsey", "We Are Bowlsey (I)" %}
+
+  {% image "./src/assets/images/blog/2013-02-28-bowlsey/czahller-20130208-20-40-51.jpg", "", "Shraz Raps, Cid Chills", "Shraz Raps, Cid Chills" %}
+
+  {% image "./src/assets/images/blog/2013-02-28-bowlsey/czahller-20130208-20-41-50.jpg", "", "Desert boot sitting on Little Kimmie (the organ)", "Desert Boot" %}
+
+  {% image "./src/assets/images/blog/2013-02-28-bowlsey/czahller-20130208-20-43-25.jpg", "", "Bowlsey", "We Are Bowlsey (II)" %}
+
+  {% image "./src/assets/images/blog/2013-02-28-bowlsey/czahller-20130208-20-44-13.jpg", "", "Bowlsey", "We Are Bowlsey (III)" %}
+
+  {% image "./src/assets/images/blog/2013-02-28-bowlsey/czahller-20130208-20-46-03.jpg", "", "Cid smiling at Shraz", "Smile!" %}
+
+  {% image "./src/assets/images/blog/2013-02-28-bowlsey/czahller-20130208-20-46-34.jpg", "", "Shraz", "Shraz (III)" %}
+
+  {% image "./src/assets/images/blog/2013-02-28-bowlsey/czahller-20130208-20-47-35.jpg", "", "Cid", "Cid (V)" %}
+
+  {% image "./src/assets/images/blog/2013-02-28-bowlsey/czahller-20130208-20-47-55.jpg", "", "Shraz", "Shraz (IV)" %}
+
+  {% image "./src/assets/images/blog/2013-02-28-bowlsey/czahller-20130208-20-48-09.jpg", "", "Shraz", "Shraz (V)" %}
+
+  {% image "./src/assets/images/blog/2013-02-28-bowlsey/czahller-20130208-20-48-18.jpg", "", "Cid", "Cid (VI)" %}
+
+  {% image "./src/assets/images/blog/2013-02-28-bowlsey/czahller-20130208-20-49-55.jpg", "", "Shraz’s legs, crossed, guitar resting on the knees. He has taken his shoes off, exposing dark socks.", "Socks" %}
+
+  {% image "./src/assets/images/blog/2013-02-28-bowlsey/czahller-20130208-20-51-53.jpg", "", "Cid", "Cid (VII)" %}
+
+  {% image "./src/assets/images/blog/2013-02-28-bowlsey/czahller-20130208-20-52-29.jpg", "", "Shraz", "Shraz (VI)" %}
+
+  {% image "./src/assets/images/blog/2013-02-28-bowlsey/czahller-20130208-20-52-45.jpg", "", "Cid (Closeup)", "Cid (Closeup)" %}
+
+  {% image "./src/assets/images/blog/2013-02-28-bowlsey/czahller-20130208-20-53-37.jpg", "", "Shraz (Closeup)", "Shraz (Closeup)" %}
+
+  {% image "./src/assets/images/blog/2013-02-28-bowlsey/czahller-20130208-20-53-50.jpg", "", "Shraz", "Shraz (VII)" %}
+
+  {% image "./src/assets/images/blog/2013-02-28-bowlsey/czahller-20130208-20-57-17.jpg", "", "Bowlsey", "We Are Bowlsey (IV)" %}
+
+  {% image "./src/assets/images/blog/2013-02-28-bowlsey/czahller-20130208-21-01-45.jpg", "", "Shraz plays Little Kimmie", "Shraz at the Keys" %}
+
+  {% image "./src/assets/images/blog/2013-02-28-bowlsey/czahller-20130208-21-01-55.jpg", "", "Shraz plays Little Kimmie", "Shraz & Little Kimmie" %}
+
+  {% image "./src/assets/images/blog/2013-02-28-bowlsey/czahller-20130208-21-03-30.jpg", "", "Singing and Rapping", "Singing and Rapping" %}
+
+  {% image "featured", "", "Cid & Shraz dueting", "Duet (I)" %}
+
+  {% image "./src/assets/images/blog/2013-02-28-bowlsey/czahller-20130208-21-05-15.jpg", "", "Cid & Shraz dueting", "Duet (II)" %}
+
+  {% image "./src/assets/images/blog/2013-02-28-bowlsey/czahller-20130208-21-05-48.jpg", "", "Bowlsey", "We Are Bowlsey (V)" %}
 </mpb-dialog-gallery>

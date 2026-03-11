@@ -28,7 +28,7 @@ excerpt: As most Woodyfest supporters know, festival favorite Audrey Auld-Mezera
 <p>Mez perks up Pasture’s previous primitive provisions</p></stack-l></hgroup>
 <!-- markdownlint-enable MD025 --><mpb-dialog-img>
 
-{% image "featured", "img-constrained", "Ron Landis, Justin Easter, Becky Gragg, Opal Agafia, & Gary Hart in the Green Room — 21st Annual Woody Guthrie Festival, 2018", "Ron Landis, Justin Easter, Becky Gragg, Opal Agafia, & Gary Hart in the Green Room&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;21st Annual Woody Guthrie Festival, 2018", "eager" %}</mpb-dialog-img>
+{% image "featured", "", "Ron Landis, Justin Easter, Becky Gragg, Opal Agafia, & Gary Hart in the Green Room", "Ron Landis, Justin Easter, Becky Gragg, Opal Agafia, & Gary Hart in the Green Room", "eager" %}</mpb-dialog-img>
 
 As most Woodyfest supporters know, festival favorite <span class="h-card p-name">[Audrey Auld-Mezera](/blog/woodyfest-2013-audrey-auld/)</span> died of complications from cancer <time datetime="2015-08-09">three years ago</time>. The Tasmanian native was known for her flaming red hair, her wry humor, and her kind and boisterous personality. She hosted a series of songwriting workshops for inmates at San Quentin prison from <time datetime="2007">2007</time>&NoBreak;&hairsp;&NoBreak;&ndash;&NoBreak;&hairsp;&NoBreak;<time datetime="2013">2013</time>.
 
@@ -36,7 +36,7 @@ Auld-Mezera left behind grieving husband and friend of the festival <span class=
 
 When the festival coalition decided to erect a permanent stage, they agreed it would be best to locate it at the pasture’s north end, because, unlike the previous southern location, they had title to the land. Thus in <time datetime="2015">2015</time> began construction of a new, state-of-the-art stage. The concrete structure sports 50-foot tall girders hoisting permanent shade and lighting well above the performers. It’s lower than the original stage, so the audience gets a better view. Unfortunately, as I discovered in <time datetime="2017-07-15T23:14:52-5:00">2017</time> after snaking across the stage on my belly like some kind of Green Beret commando to photograph <span class="h-card p-name">Arlo Guthrie</span> from behind, there’s no place for a photographer to hide once the drum kits and amplifiers are cleared away.
 
-{% image "./src/assets/images/blog/2018-11-05-woodyfest-backstage-thursday/czahller-20180712-20-56-55.jpg", "img-constrained", "Nellie Marie Clay, Jason Scott, &amp; Ken Pomeroy Rehearsing (II) — 21st Annual Woody Guthrie Festival, 2018", "Nellie Marie Clay, Jason Scott, &amp; Ken Pomeroy Rehearsing (II)&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;21st Annual Woody Guthrie Festival, 2018" %}</mpb-dialog-img>
+{% image "./src/assets/images/blog/2018-11-05-woodyfest-backstage-thursday/czahller-20180712-20-56-55.jpg", "", "Nellie Marie Clay, Jason Scott, & Ken Pomeroy rehearsing vocal harmonies at the Pastures of Plenty", "Nellie Marie Clay, Jason Scott, &amp; Ken Pomeroy Rehearsing (II)", "large" %}</mpb-dialog-img>
 
 The move also meant losing the trees that shaded the original backstage area, but Mez and a posse of volunteers planted trees at the pasture <time datetime="2018-10-18">this autumn</time>, according to this [Facebook post](https://www.facebook.com/WoodyFest/posts/2011085638948644){target=_blank rel="external noopener"}.
 
@@ -54,15 +54,23 @@ Here are <time datetime="2018-07-12T18:16:50-5:00">the first night</time>’s pi
 
 <mpb-dialog-gallery hint rel cols="8">
   
-  ![Danna Primm, Beth Jones, Katie Anne Mitchell, Sandy Hill, & Radoslav “Rad” Lorković — Backstage at the 21st Annual Woody Guthrie Festival, 2018](/assets/images/blog/2018-11-05-woodyfest-backstage-thursday/czahller-20180712-18-16-50.jpg)
-  ![Abbie Gardner, Barry Ollman, & Terry “Buffalo” Ware — Backstage at the 21st Annual Woody Guthrie Festival, 2018](/assets/images/blog/2018-11-05-woodyfest-backstage-thursday/czahller-20180712-18-19-59.jpg)
-  ![Rachel Coats, Lucciana Costa, Amilia K. Spicer, & M. Tim Blake (I) — Backstage at the 21st Annual Woody Guthrie Festival, 2018](/assets/images/blog/2018-11-05-woodyfest-backstage-thursday/czahller-20180712-18-25-19.jpg)
-  ![Rachel Coats, Lucciana Costa, Amilia K. Spicer, & M. Tim Blake (II) — Backstage at the 21st Annual Woody Guthrie Festival, 2018](/assets/images/blog/2018-11-05-woodyfest-backstage-thursday/czahller-20180712-18-25-59.jpg)
-  ![Butch Hancock & Sam Baker — Backstage at the 21st Annual Woody Guthrie Festival, 2018](/assets/images/blog/2018-11-05-woodyfest-backstage-thursday/czahller-20180712-18-42-15.jpg)
-  ![Brad Lauretti, Christina Cavazos, Jaimee Harris, & Gabriel Marshall — Backstage at the 21st Annual Woody Guthrie Festival, 2018](/assets/images/blog/2018-11-05-woodyfest-backstage-thursday/czahller-20180712-18-44-16.jpg)
-  ![Dan Navarro & Kyle Reid — Backstage at the 21st Annual Woody Guthrie Festival, 2018](/assets/images/blog/2018-11-05-woodyfest-backstage-thursday/czahller-20180712-18-46-15.jpg)
-  ![Rachel Cline — Backstage at the 21st Annual Woody Guthrie Festival, 2018](/assets/images/blog/2018-11-05-woodyfest-backstage-thursday/czahller-20180712-18-47-52.jpg)
-  ![Ron Landis, Justin Easter, Becky Gragg, Opal Agafia, & Gary Hart in the Green Room — Backstage at the 21st Annual Woody Guthrie Festival, 2018](/assets/images/blog/2018-11-05-woodyfest-backstage-thursday/czahller-20180712-18-53-40.jpg)
+  {% image "./src/assets/images/blog/2018-11-05-woodyfest-backstage-thursday/czahller-20180712-18-16-50.jpg", "", "Danna Primm, Beth Jones, Katie Anne Mitchell, Sandy Hill, & Radoslav “Rad” Lorković in the canteen, backstage at the Pastures of Plenty", "Danna Primm, Beth Jones, Katie Anne Mitchell, Sandy Hill, & Radoslav “Rad” Lorković" %}
+
+  {% image "./src/assets/images/blog/2018-11-05-woodyfest-backstage-thursday/czahller-20180712-18-19-59.jpg", "", "Abbie Gardner, Barry Ollman, & Terry “Buffalo” Ware in the canteen, backstage at the Pastures of Plenty", "Abbie Gardner, Barry Ollman, & Terry “Buffalo” Ware" %}
+
+  {% image "./src/assets/images/blog/2018-11-05-woodyfest-backstage-thursday/czahller-20180712-18-25-19.jpg", "", "Rachel Coats, Lucciana Costa, Amilia K. Spicer, & M. Tim Blake backstage at the Pastures of Plenty", "Rachel Coats, Lucciana Costa, Amilia K. Spicer, & M. Tim Blake (I)" %}
+
+  {% image "./src/assets/images/blog/2018-11-05-woodyfest-backstage-thursday/czahller-20180712-18-25-59.jpg", "", "Rachel Coats, Lucciana Costa, Amilia K. Spicer, & M. Tim Blake backstage at the Pastures of Plenty", "Rachel Coats, Lucciana Costa, Amilia K. Spicer, & M. Tim Blake (II)" %}
+
+  {% image "./src/assets/images/blog/2018-11-05-woodyfest-backstage-thursday/czahller-20180712-18-42-15.jpg", "", "Butch Hancock & Sam Baker backstage at the Pastures of Plenty", "Butch Hancock & Sam Baker" %}
+
+  {% image "./src/assets/images/blog/2018-11-05-woodyfest-backstage-thursday/czahller-20180712-18-44-16.jpg", "", "Brad Lauretti, Christina Cavazos, Jaimee Harris, & Gabriel Marshall backstage at the Pastures of Plenty", "Brad Lauretti, Christina Cavazos, Jaimee Harris, & Gabriel Marshall" %}
+
+  {% image "./src/assets/images/blog/2018-11-05-woodyfest-backstage-thursday/czahller-20180712-18-46-15.jpg", "", "Dan Navarro & Kyle Reid backstage at the Pastures of Plenty", "Dan Navarro & Kyle Reid" %}
+
+  {% image "./src/assets/images/blog/2018-11-05-woodyfest-backstage-thursday/czahller-20180712-18-47-52.jpg", "", "Rachel Cline backstage at the Pastures of Plenty", "Rachel Cline" %}
+
+  {% image "featured", "", "Ron Landis, Justin Easter, Becky Gragg, Opal Agafia, & Gary Hart in the green room", "Ron Landis, Justin Easter, Becky Gragg, Opal Agafia, & Gary Hart in the Green Room" %}
 </mpb-dialog-gallery>
 
 ## Technical

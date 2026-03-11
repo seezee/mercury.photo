@@ -28,7 +28,7 @@ excerpt: Festival Friday proved to be uncomfortably hot in the beer garden attac
 <p>Americana artists share beer garden stage</p></stack-l></hgroup>
 <!-- markdownlint-enable MD025 --><mpb-dialog-img>
 
-{% image "featured", "img-constrained", "Erik “The Viking” Oftedahl & Blake Lankford — 21st Annual Woody Guthrie Festival, 2018", "Erik “The Viking” Oftedahl & Blake Lankford&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;21st Annual Woody Guthrie Festival, 2018", "eager" %}</mpb-dialog-img>
+{% image "featured", "", "Erik “The Viking” Oftedahl & Blake Lankford", "Erik “The Viking” Oftedahl & Blake Lankford", "eager" %}</mpb-dialog-img>
 
 Festival <time datetime="2018-07-13">Friday</time> proved to be uncomfortably hot in the beer garden attached to Lou’s Rocky Road Tavern. The <time datetime="2018-07-12">previous day</time>’s patio performances had been favored by a light breeze that made it feel even cooler than the air-conditioned Hen House, where the HVAC struggled with the radiant body heat of the packed-in audiences.{.drop-cap}
 
@@ -54,10 +54,15 @@ Oftedahl regularly plays Oklahoma City and Stillwater, with occasional dates in 
 
 <mpb-dialog-gallery hint rel cols="8">
   
-  ![Erik “The Viking” Oftedahl & Blake Lankford — 21st Annual Woody Guthrie Festival, 2018](/assets/images/blog/2018-12-07-woodyfest-erik-viking-blake-lankford/czahller-20180713-14-07-26.jpg)
-  ![Blake Lankford — 21st Annual Woody Guthrie Festival, 2018](/assets/images/blog/2018-12-07-woodyfest-erik-viking-blake-lankford/czahller-20180713-14-10-39.jpg)
-  ![Erik “The Viking” Oftedahl — 21st Annual Woody Guthrie Festival, 2018](/assets/images/blog/2018-12-07-woodyfest-erik-viking-blake-lankford/czahller-20180713-14-10-52.jpg)
-  ![Erik (I) — 21st Annual Woody Guthrie Festival, 2018](/assets/images/blog/2018-12-07-woodyfest-erik-viking-blake-lankford/czahller-20180713-14-11-16.jpg)
-  ![Erik (II) — 21st Annual Woody Guthrie Festival, 2018](/assets/images/blog/2018-12-07-woodyfest-erik-viking-blake-lankford/czahller-20180713-14-12-06.jpg)
-  ![Erik & Blake — 21st Annual Woody Guthrie Festival, 2018](/assets/images/blog/2018-12-07-woodyfest-erik-viking-blake-lankford/czahller-20180713-14-14-35.jpg)
+  {% image "featured", "", "Erik “The Viking” Oftedahl & Blake Lankford", "Erik “The Viking” Oftedahl & Blake Lankford" %}
+
+  {% image "./src/assets/images/blog/2018-12-07-woodyfest-erik-viking-blake-lankford/czahller-20180713-14-10-39.jpg", "", "Blake Lankford", "Blake Lankford" %}
+
+  {% image "./src/assets/images/blog/2018-12-07-woodyfest-erik-viking-blake-lankford/czahller-20180713-14-10-52.jpg", "", "Erik “The Viking” Oftedahl", "Erik “The Viking” Oftedahl" %}
+
+  {% image "./src/assets/images/blog/2018-12-07-woodyfest-erik-viking-blake-lankford/czahller-20180713-14-11-16.jpg", "", "Erik “The Viking” Oftedahl", "Erik (I)" %}
+
+  {% image "./src/assets/images/blog/2018-12-07-woodyfest-erik-viking-blake-lankford/czahller-20180713-14-12-06.jpg", "", "Erik “The Viking” Oftedahl", "Erik (II)" %}
+
+  {% image "./src/assets/images/blog/2018-12-07-woodyfest-erik-viking-blake-lankford/czahller-20180713-14-14-35.jpg", "", "Erik “The Viking” Oftedahl & Blake Lankford", "Erik & Blake" %}
 </mpb-dialog-gallery>

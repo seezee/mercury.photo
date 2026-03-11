@@ -22,7 +22,7 @@ excerpt: Concluding our Skating Polly interview, stepsisters Peyton Bighorse and
 
 <!-- markdownlint-enable MD025 --><mpb-dialog-img>
 
-{% image "featured", "img-constrained", "Peyton & Kelli sit behind a sidewalk lemonade stand. The stand is a grey typewriter stand. A silver metal pitcher and two pint glasses of lemonade adorn the stand. Peyton & Kelli smile broadly. A hand-made sign taped to the front of the stand declares “Lemonade 5¢.”", "Not Just a Lemonade Stand", "eager" %}</mpb-dialog-img>
+{% image "featured", "", "Peyton & Kelli sit behind a sidewalk lemonade stand. The stand is a grey typewriter stand. A silver metal pitcher and two pint glasses of lemonade sit on top. Peyton & Kelli smile broadly. A hand-made sign taped to the front of the stand declares “Lemonade 5¢.”", "Not Just a Lemonade Stand", "eager" %}</mpb-dialog-img>
 
 <blockquote>
 
@@ -57,7 +57,7 @@ We’ve also got pics from their <span class="h-card p-org">Record Store Day</sp
 
 <mpb-dialog-img>
 
-{% image "./src/assets/images/blog/2013-05-24-skating-polly-interview-2/czahller-20130421-04-17-17.jpg", "img-constrained", "Peyton Bighorse, a teenage girl with long dark hair, sings and plays a Fender electric guitar at the Norman Guestroom Records.", "Peyton (II)" %}</mpb-dialog-img>
+{% image "./src/assets/images/blog/2013-05-24-skating-polly-interview-2/czahller-20130421-04-17-17.jpg", "", "Peyton Bighorse, a teenage girl with long dark hair, sings and plays a Fender electric guitar at the Norman Guestroom Records.", "Peyton (II)", "large" %}</mpb-dialog-img>
 
 <span class="spkr">MPB</span> Your vocal production&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;your singing style. It takes a lot of energy to do that, but, if you don’t do it right, you can really wreck your voice. Are you guys taking any precautions to prevent blowing out your vocal cords when you sing, or are you just taking your chances? [*laughter*]
 
@@ -106,7 +106,7 @@ It’s been a long time since I heard really young musicians with such energy, a
 
 <mpb-dialog-img>
 
-{% image "./src/assets/images/blog/2013-05-24-skating-polly-interview-2/czahller-20130421-04-21-45.jpg", "img-constrained", "Kelli Mayo, a tween girl with short, asymmetrical hair dyed red, sings with her eyes closed. She plays a modified bass guitar.", "Kelli (III)" %}</mpb-dialog-img>
+{% image "./src/assets/images/blog/2013-05-24-skating-polly-interview-2/czahller-20130421-04-21-45.jpg", "", "Kelli Mayo, a tween girl with short, asymmetrical hair dyed red, sings with her eyes closed. She plays a modified bass guitar.", "Kelli (III)", "large" %}</mpb-dialog-img>
 
 You know, we try to make our lyrics interesting, and not typical&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;what you’d expect from a teen band or a kid band; we try to go more&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;we try to go beyond that, if we can. […] Sometimes, I really don’t know what I mean in my lyrics; sometimes I try to talk about what *other* people go through. […] And, then, other times, I don’t necessarily know what my lyrics mean until later, and then I’ll be like, <q>Oh, wow, I kind of understand this more; it could mean *this*; it could mean *that*.</q> I think it was <span class="h-card p-name">Kurt Cobain</span> who said his lyrics might mean one thing to him, and then something completely different to someone else.[^3] So, I guess [the lyric] was kind of a scene of, like, betrayal, but it wasn’t really like I knew exactly what I was talking about or like I was […] going through that.
 
@@ -158,7 +158,7 @@ I mean, it might seem weird that we’re saying this at such a young age&NoBreak
 
 <mpb-dialog-img>
 
-{% image "./src/assets/images/blog/2013-05-24-skating-polly-interview-2/czahller-20130426-06-40-34.jpg", "img-constrained", "Kelli Mayo steps on a guitar pedal at the Norman Music Festival. She wears boots, knee-high socks, and an mid-length skirt.", "Finale (I)" %}</mpb-dialog-img>
+{% image "./src/assets/images/blog/2013-05-24-skating-polly-interview-2/czahller-20130426-06-40-34.jpg", "", "Kelli Mayo steps on a guitar pedal at the Norman Music Festival. She wears boots, knee-high socks, and an mid-length skirt.", "Finale (I)", "large" %}</mpb-dialog-img>
 
 We don’t really have a lot of free time to just do what we want; like, we&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;we get out of the house sometimes, but most of the time we’re just at our house doing homework and Skating Polly […].
 
@@ -182,45 +182,77 @@ The show [was scheduled for] this Tuesday. We’re just gonna have a free day.
 
 <mpb-dialog-img>
 
-{% image "./src/assets/images/blog/2013-05-24-skating-polly-interview-2/czahller-20130422-00-44-20.jpg", "img-constrained", "Playlist from Skating Polly’s 2013 Record Store Day performance at Guestroom Records", "Playlist from Skating Polly’s 2013 Record Store Day performance at Guestroom Records" %}</mpb-dialog-img>
+{% image "./src/assets/images/blog/2013-05-24-skating-polly-interview-2/czahller-20130422-00-44-20.jpg", "", "Playlist from Skating Polly’s 2013 Record Store Day performance at Guestroom Records", "Playlist from Skating Polly’s 2013 Record Store Day performance at Guestroom Records", "large" %}</mpb-dialog-img>
 
-A week before the sixth annual Norman Music Festival Skating Polly performed a short but energetic set for >Record Store Day at the Norman Guestroom Records. Fans crowded into the long, narrow space for a glimpse of the high-spirited teenagers. Local activist and hip-hop artist <span class="h-card p-name">Jabee Williams</span> joined them for a couple of songs as they started, having just finished his own set.
+A week before the sixth annual Norman Music Festival Skating Polly performed a short but energetic set for Record Store Day at the Norman Guestroom Records. Fans crowded into the long, narrow space for a glimpse of the high-spirited teenagers. Local activist and hip-hop artist <span class="h-card p-name">Jabee Williams</span> joined them for a couple of songs as they started, having just finished his own set.
 
 <mpb-dialog-gallery hint rel cols="8">
 
-  ![Jabee + Skating Polly (I)](/assets/images/blog/2013-05-24-skating-polly-interview-2/czahller-20130421-03-53-29.jpg)
-  ![Jabee + Skating Polly (II)](/assets/images/blog/2013-05-24-skating-polly-interview-2/czahller-20130421-03-53-49.jpg)
-  ![Audience (I) (Peyton Takes the Stage)](/assets/images/blog/2013-05-24-skating-polly-interview-2/czahller-20130421-03-57-42.jpg)
-  ![Skating Polly (I)](/assets/images/blog/2013-05-24-skating-polly-interview-2/czahller-20130421-04-13-50.jpg)
-  ![Peyton (I)](/assets/images/blog/2013-05-24-skating-polly-interview-2/czahller-20130421-04-14-26.jpg)
-  ![Kelli (I)](/assets/images/blog/2013-05-24-skating-polly-interview-2/czahller-20130421-04-14-42.jpg)
-  ![Peyton (II)](/assets/images/blog/2013-05-24-skating-polly-interview-2/czahller-20130421-04-17-17.jpg)
-  ![Peyton (III)](/assets/images/blog/2013-05-24-skating-polly-interview-2/czahller-20130421-04-17-31.jpg)
-  ![Kelli (II)](/assets/images/blog/2013-05-24-skating-polly-interview-2/czahller-20130421-04-18-31.jpg)
-  ![Peyton (IV)](/assets/images/blog/2013-05-24-skating-polly-interview-2/czahller-20130421-04-18-41.jpg)
-  ![Skating Polly (II)](/assets/images/blog/2013-05-24-skating-polly-interview-2/czahller-20130421-04-20-50.jpg)
-  ![Kelli (III)](/assets/images/blog/2013-05-24-skating-polly-interview-2/czahller-20130421-04-21-45.jpg)
-  ![Kelli (IV)](/assets/images/blog/2013-05-24-skating-polly-interview-2/czahller-20130421-04-25-32.jpg)
-  ![Audience (II)](/assets/images/blog/2013-05-24-skating-polly-interview-2/czahller-20130421-04-28-04.jpg)
-  ![Skating Polly (III)](/assets/images/blog/2013-05-24-skating-polly-interview-2/czahller-20130421-04-31-21.jpg)
-  ![Kelli (V)](/assets/images/blog/2013-05-24-skating-polly-interview-2/czahller-20130421-04-32-20.jpg)
-  ![Peyton (V)](/assets/images/blog/2013-05-24-skating-polly-interview-2/czahller-20130421-04-32-42.jpg)
-  ![Kelli (VI)](/assets/images/blog/2013-05-24-skating-polly-interview-2/czahller-20130421-04-32-59.jpg)
-  ![Kelli (VII)](/assets/images/blog/2013-05-24-skating-polly-interview-2/czahller-20130421-04-33-53.jpg)
-  ![Kelli (VIII)](/assets/images/blog/2013-05-24-skating-polly-interview-2/czahller-20130421-04-34-55.jpg)
-  ![Skating Polly (IV)](/assets/images/blog/2013-05-24-skating-polly-interview-2/czahller-20130421-04-46-06.jpg)
-  ![Skating Polly (V)](/assets/images/blog/2013-05-24-skating-polly-interview-2/czahller-20130421-04-46-29.jpg)
-  ![Skating Polly (VI)](/assets/images/blog/2013-05-24-skating-polly-interview-2/czahller-20130421-04-51-19.jpg)
-  ![Finale (I) (Basitar Thrashing)](/assets/images/blog/2013-05-24-skating-polly-interview-2/czahller-20130421-04-53-56.jpg)
-  ![Finale (II) (Basitar Thrashing)](/assets/images/blog/2013-05-24-skating-polly-interview-2/czahller-20130421-04-53-57.jpg)
-  ![Finale (III) (Basitar Thrashing)](/assets/images/blog/2013-05-24-skating-polly-interview-2/czahller-20130421-04-55-31.jpg)
-  ![Finale (IV) (Basitar Thrashing)](/assets/images/blog/2013-05-24-skating-polly-interview-2/czahller-20130421-04-55-42.jpg)
-  ![Kelli Shreds (I)](/assets/images/blog/2013-05-24-skating-polly-interview-2/czahller-20130421-04-56-56.jpg)
-  ![Kelli Shreds (II)](/assets/images/blog/2013-05-24-skating-polly-interview-2/czahller-20130421-04-56-57.jpg)
-  ![Kelli Shreds (III)](/assets/images/blog/2013-05-24-skating-polly-interview-2/czahller-20130421-04-56-58.jpg)
-  ![Kelli Shreds (IV)](/assets/images/blog/2013-05-24-skating-polly-interview-2/czahller-20130421-04-56-58-2.jpg)
-  ![Kelli (IX)](/assets/images/blog/2013-05-24-skating-polly-interview-2/czahller-20130421-04-56-59.jpg)
-  ![The End](/assets/images/blog/2013-05-24-skating-polly-interview-2/czahller-20130421-04-57-05.jpg)
+  {% image "./src/assets/images/blog/2013-05-24-skating-polly-interview-2/czahller-20130421-03-53-29.jpg", "", "Rapper Jabee & Skating Polly performing together", "Jabee + Skating Polly (I)" %}
+
+  {% image "./src/assets/images/blog/2013-05-24-skating-polly-interview-2/czahller-20130421-03-53-49.jpg", "", "Jabee & Skating Polly performing together", "Jabee + Skating Polly (II)" %}
+
+  {% image "./src/assets/images/blog/2013-05-24-skating-polly-interview-2/czahller-20130421-03-57-42.jpg", "", "Peyton makes her way through the audience to area of the store set aside as a stage", "Audience (I) (Peyton Takes the Stage)" %}
+
+  {% image "./src/assets/images/blog/2013-05-24-skating-polly-interview-2/czahller-20130421-04-13-50.jpg", "", "Skating Polly", "Skating Polly (I)" %}
+
+  {% image "./src/assets/images/blog/2013-05-24-skating-polly-interview-2/czahller-20130421-04-14-26.jpg", "", "Peyton", "Peyton (I)" %}
+
+  {% image "./src/assets/images/blog/2013-05-24-skating-polly-interview-2/czahller-20130421-04-14-42.jpg", "", "Kelli", "Kelli (I)" %}
+
+  {% image "./src/assets/images/blog/2013-05-24-skating-polly-interview-2/czahller-20130421-04-17-17.jpg", "", "Peyton", "Peyton (II)" %}
+
+  {% image "./src/assets/images/blog/2013-05-24-skating-polly-interview-2/czahller-20130421-04-17-31.jpg", "", "Peyton", "Peyton (III)" %}
+
+  {% image "./src/assets/images/blog/2013-05-24-skating-polly-interview-2/czahller-20130421-04-18-31.jpg", "", "Kelli", "Kelli (II)" %}
+
+  {% image "./src/assets/images/blog/2013-05-24-skating-polly-interview-2/czahller-20130421-04-18-41.jpg", "", "Peyton", "Peyton (IV)" %}
+
+  {% image "./src/assets/images/blog/2013-05-24-skating-polly-interview-2/czahller-20130421-04-20-50.jpg", "", "Skating Polly", "Skating Polly (II)" %}
+
+  {% image "./src/assets/images/blog/2013-05-24-skating-polly-interview-2/czahller-20130421-04-21-45.jpg", "", "Kelli", "Kelli (III)" %}
+
+  {% image "./src/assets/images/blog/2013-05-24-skating-polly-interview-2/czahller-20130421-04-25-32.jpg", "", "Kelli", "Kelli (IV)" %}
+
+  {% image "./src/assets/images/blog/2013-05-24-skating-polly-interview-2/czahller-20130421-04-28-04.jpg", "", "Audience", "Audience (II)" %}
+
+  {% image "./src/assets/images/blog/2013-05-24-skating-polly-interview-2/czahller-20130421-04-31-21.jpg", "", "Skating Polly", "Skating Polly (III)" %}
+
+  {% image "./src/assets/images/blog/2013-05-24-skating-polly-interview-2/czahller-20130421-04-32-20.jpg", "", "Kelli", "Kelli (V)" %}
+
+  {% image "./src/assets/images/blog/2013-05-24-skating-polly-interview-2/czahller-20130421-04-32-42.jpg", "", "Peyton", "Peyton (V)" %}
+
+  {% image "./src/assets/images/blog/2013-05-24-skating-polly-interview-2/czahller-20130421-04-32-59.jpg", "", "Kelli", "Kelli (VI)" %}
+
+  {% image "./src/assets/images/blog/2013-05-24-skating-polly-interview-2/czahller-20130421-04-33-53.jpg", "", "Kelli", "Kelli (VII)" %}
+
+  {% image "./src/assets/images/blog/2013-05-24-skating-polly-interview-2/czahller-20130421-04-34-55.jpg", "", "Kelli", "Kelli (VIII)" %}
+
+  {% image "./src/assets/images/blog/2013-05-24-skating-polly-interview-2/czahller-20130421-04-46-06.jpg", "", "Skating Polly", "Skating Polly (IV)" %}
+
+  {% image "./src/assets/images/blog/2013-05-24-skating-polly-interview-2/czahller-20130421-04-46-29.jpg", "", "Skating Polly", "Skating Polly (V)" %}
+
+  {% image "./src/assets/images/blog/2013-05-24-skating-polly-interview-2/czahller-20130421-04-51-19.jpg", "", "Skating Polly", "Skating Polly (VI)" %}
+
+  {% image "./src/assets/images/blog/2013-05-24-skating-polly-interview-2/czahller-20130421-04-53-56.jpg", "", "Kelli thrashing about", "Finale (I) (Basitar Thrashing)" %}
+
+  {% image "./src/assets/images/blog/2013-05-24-skating-polly-interview-2/czahller-20130421-04-53-57.jpg", "", "Kelli thrashing about", "Finale (II) (Basitar Thrashing)" %}
+
+  {% image "./src/assets/images/blog/2013-05-24-skating-polly-interview-2/czahller-20130421-04-55-31.jpg", "", "Kelli thrashing about", "Finale (III) (Basitar Thrashing)" %}
+
+  {% image "./src/assets/images/blog/2013-05-24-skating-polly-interview-2/czahller-20130421-04-55-42.jpg", "", "Kelli thrashing about", "Finale (IV) (Basitar Thrashing)" %}
+
+  {% image "./src/assets/images/blog/2013-05-24-skating-polly-interview-2/czahller-20130421-04-56-56.jpg", "", "Kelli bouncing around and shredding her basitar", "Kelli Shreds (I)" %}
+
+  {% image "./src/assets/images/blog/2013-05-24-skating-polly-interview-2/czahller-20130421-04-56-57.jpg", "", "Kelli bouncing around and shredding her basitar", "Kelli Shreds (II)" %}
+
+  {% image "./src/assets/images/blog/2013-05-24-skating-polly-interview-2/czahller-20130421-04-56-58.jpg", "", "Kelli bouncing around and shredding her basitar", "Kelli Shreds (III)" %}
+
+  {% image "./src/assets/images/blog/2013-05-24-skating-polly-interview-2/czahller-20130421-04-56-58-2.jpg", "", "Kelli bouncing around and shredding her basitar", "Kelli Shreds (IV)" %}
+
+  {% image "./src/assets/images/blog/2013-05-24-skating-polly-interview-2/czahller-20130421-04-56-59.jpg", "", "Kelli, exhausted, sits on the floor with her basitar.", "Kelli (IX)" %}
+
+  {% image "./src/assets/images/blog/2013-05-24-skating-polly-interview-2/czahller-20130421-04-57-05.jpg", "", "Kelli, like a whirling dervish, has danced herself into exhaustion and sits on the floor with her instrument", "The End" %}
 </mpb-dialog-gallery>
 
 ## Gallery: Skating Polly at the Norman Music Festival
@@ -229,27 +261,47 @@ Appearing on the Blackwatch Studios Stage for the sixth annual Norman Music Fest
 
 <mpb-dialog-gallery hint rel cols="8">
   
-  ![Skating Polly (I)](/assets/images/blog/2013-05-24-skating-polly-interview-2/czahller-20130426-06-07-26.jpg)
-  ![Peyton (I)](/assets/images/blog/2013-05-24-skating-polly-interview-2/czahller-20130426-06-08-16.jpg)
-  ![Peyton (II)](/assets/images/blog/2013-05-24-skating-polly-interview-2/czahller-20130426-06-08-21.jpg)
-  ![Kelli (I)](/assets/images/blog/2013-05-24-skating-polly-interview-2/czahller-20130426-06-10-07.jpg)
-  ![Kelli (II)](/assets/images/blog/2013-05-24-skating-polly-interview-2/czahller-20130426-06-10-53.jpg)
-  ![Peyton (III)](/assets/images/blog/2013-05-24-skating-polly-interview-2/czahller-20130426-06-11-11.jpg)
-  ![Peyton (IV)](/assets/images/blog/2013-05-24-skating-polly-interview-2/czahller-20130426-06-13-49.jpg)
-  ![Peyton (V)](/assets/images/blog/2013-05-24-skating-polly-interview-2/czahller-20130426-06-14-30.jpg)
-  ![Peyton (VI)](/assets/images/blog/2013-05-24-skating-polly-interview-2/czahller-20130426-06-16-56.jpg)
-  ![Kelli (III)](/assets/images/blog/2013-05-24-skating-polly-interview-2/czahller-20130426-06-17-25.jpg)
-  ![Kelli (IV)](/assets/images/blog/2013-05-24-skating-polly-interview-2/czahller-20130426-06-18-25.jpg)
-  ![Peyton (VII)](/assets/images/blog/2013-05-24-skating-polly-interview-2/czahller-20130426-06-20-38.jpg)
-  ![Kelli (V)](/assets/images/blog/2013-05-24-skating-polly-interview-2/czahller-20130426-06-22-09.jpg)
-  ![Peyton (VIII)](/assets/images/blog/2013-05-24-skating-polly-interview-2/czahller-20130426-06-24-10.jpg)
-  ![Stage Right](/assets/images/blog/2013-05-24-skating-polly-interview-2/czahller-20130426-06-29-14.jpg)
-  ![Skating Polly (II)](/assets/images/blog/2013-05-24-skating-polly-interview-2/czahller-20130426-06-36-39.jpg)
-  ![Skating Polly (III)](/assets/images/blog/2013-05-24-skating-polly-interview-2/czahller-20130426-06-37-19.jpg)
-  ![Shred! (I)](/assets/images/blog/2013-05-24-skating-polly-interview-2/czahller-20130426-06-40-10.jpg)
-  ![Shred! (II)](/assets/images/blog/2013-05-24-skating-polly-interview-2/czahller-20130426-06-40-11.jpg)
-  ![Finale (I)](/assets/images/blog/2013-05-24-skating-polly-interview-2/czahller-20130426-06-40-34.jpg)
-  ![Finale (II)](/assets/images/blog/2013-05-24-skating-polly-interview-2/czahller-20130426-06-41-58.jpg)
+  {% image "./src/assets/images/blog/2013-05-24-skating-polly-interview-2/czahller-20130426-06-07-26.jpg", "", "Skating Polly", "Skating Polly (I)" %}
+
+  {% image "./src/assets/images/blog/2013-05-24-skating-polly-interview-2/czahller-20130426-06-08-16.jpg", "", "Peyton", "Peyton (I)" %}
+
+  {% image "./src/assets/images/blog/2013-05-24-skating-polly-interview-2/czahller-20130426-06-08-21.jpg", "", "Peyton", "Peyton (II)" %}
+
+  {% image "./src/assets/images/blog/2013-05-24-skating-polly-interview-2/czahller-20130426-06-10-07.jpg", "", "Kelli", "Kelli (I)" %}
+
+  {% image "./src/assets/images/blog/2013-05-24-skating-polly-interview-2/czahller-20130426-06-10-53.jpg", "", "Kelli", "Kelli (II)" %}
+
+  {% image "./src/assets/images/blog/2013-05-24-skating-polly-interview-2/czahller-20130426-06-11-11.jpg", "", "Peyton", "Peyton (III)" %}
+
+  {% image "./src/assets/images/blog/2013-05-24-skating-polly-interview-2/czahller-20130426-06-13-49.jpg", "", "Peyton", "Peyton (IV)" %}
+
+  {% image "./src/assets/images/blog/2013-05-24-skating-polly-interview-2/czahller-20130426-06-14-30.jpg", "", "Peyton", "Peyton (V)" %}
+
+  {% image "./src/assets/images/blog/2013-05-24-skating-polly-interview-2/czahller-20130426-06-16-56.jpg", "", "Peyton", "Peyton (VI)" %}
+
+  {% image "./src/assets/images/blog/2013-05-24-skating-polly-interview-2/czahller-20130426-06-17-25.jpg", "", "Kelli", "Kelli (III)" %}
+
+  {% image "./src/assets/images/blog/2013-05-24-skating-polly-interview-2/czahller-20130426-06-18-25.jpg", "", "Kelli", "Kelli (IV)" %}
+
+  {% image "./src/assets/images/blog/2013-05-24-skating-polly-interview-2/czahller-20130426-06-20-38.jpg", "", "Peyton", "Peyton (VII)" %}
+
+  {% image "./src/assets/images/blog/2013-05-24-skating-polly-interview-2/czahller-20130426-06-22-09.jpg", "", "Kelli", "Kelli (V)" %}
+
+  {% image "./src/assets/images/blog/2013-05-24-skating-polly-interview-2/czahller-20130426-06-24-10.jpg", "", "Peyton", "Peyton (VIII)" %}
+
+  {% image "./src/assets/images/blog/2013-05-24-skating-polly-interview-2/czahller-20130426-06-29-14.jpg", "", "The band seen from stage right", "Stage Right" %}
+
+  {% image "./src/assets/images/blog/2013-05-24-skating-polly-interview-2/czahller-20130426-06-36-39.jpg", "", "Skating Polly", "Skating Polly (II)" %}
+
+  {% image "./src/assets/images/blog/2013-05-24-skating-polly-interview-2/czahller-20130426-06-37-19.jpg", "", "Skating Polly", "Skating Polly (III)" %}
+
+  {% image "./src/assets/images/blog/2013-05-24-skating-polly-interview-2/czahller-20130426-06-40-10.jpg", "", "Kelli shreds on basitar", "Shred! (I)" %}
+
+  {% image "./src/assets/images/blog/2013-05-24-skating-polly-interview-2/czahller-20130426-06-40-11.jpg", "", "Kelli shreds on basitar", "Shred! (II)" %}
+
+  {% image "./src/assets/images/blog/2013-05-24-skating-polly-interview-2/czahller-20130426-06-40-34.jpg", "", "Skating Polly perform their final song", "Finale (I)" %}
+
+  {% image "./src/assets/images/blog/2013-05-24-skating-polly-interview-2/czahller-20130426-06-41-58.jpg", "", "Skating Polly perform their final song", "Finale (II)" %}
 </mpb-dialog-gallery>
 
 <hr class="marginnotes-sep" />

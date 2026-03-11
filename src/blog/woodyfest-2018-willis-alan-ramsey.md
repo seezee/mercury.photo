@@ -28,7 +28,7 @@ excerpt: In my sophomore high school year, my family moved from the house we had
 <p>Musical perfectionist plays the crystal</p></stack-l></hgroup>
 <!-- markdownlint-enable MD025 --><mpb-dialog-img>
 
-{% image "featured", "img-constrained", "Willis (XIII) — 21st Annual Woody Guthrie Festival, 2018", "Willis (XIII)&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;21st Annual Woody Guthrie Festival, 2018", "eager" %}</mpb-dialog-img>
+{% image "featured", "", "Willis Alan Ramsey", "Willis (XIII)", "eager" %}</mpb-dialog-img>
 
 ## Little Animals
 
@@ -77,31 +77,57 @@ Festival regular <span class="h-card p-name">Jared Tyler</span> accompanied Rams
 
 <mpb-dialog-gallery hint rel cols="8">
 
-  ![Willis Alan Ramsey Soundcheck (II) — 21st Annual Woody Guthrie Festival, 2018](/assets/images/blog/2019-01-28-woodyfest-willis-alan-ramsey/czahller-20180714-17-00-04.jpg)
-  ![Ready to Go! — 21st Annual Woody Guthrie Festival, 2018](/assets/images/blog/2019-01-28-woodyfest-willis-alan-ramsey/czahller-20180714-17-06-47.jpg)
-  ![Willis Alan Ramsey Addressing the Audience — 21st Annual Woody Guthrie Festival, 2018](/assets/images/blog/2019-01-28-woodyfest-willis-alan-ramsey/czahller-20180714-17-07-23.jpg)
-  ![Willis Alan Ramsey — 21st Annual Woody Guthrie Festival, 2018](/assets/images/blog/2019-01-28-woodyfest-willis-alan-ramsey/czahller-20180714-17-11-28.jpg)
-  ![Willis (I) — 21st Annual Woody Guthrie Festival, 2018](/assets/images/blog/2019-01-28-woodyfest-willis-alan-ramsey/czahller-20180714-17-13-40.jpg)
-  ![Willis (II) — 21st Annual Woody Guthrie Festival, 2018](/assets/images/blog/2019-01-28-woodyfest-willis-alan-ramsey/czahller-20180714-17-13-54.jpg)
-  ![Willis (III) — 21st Annual Woody Guthrie Festival, 2018](/assets/images/blog/2019-01-28-woodyfest-willis-alan-ramsey/czahller-20180714-17-14-03.jpg)
-  ![Willis (IV) — 21st Annual Woody Guthrie Festival, 2018](/assets/images/blog/2019-01-28-woodyfest-willis-alan-ramsey/czahller-20180714-17-15-14.jpg)
-  ![Willis (V) — 21st Annual Woody Guthrie Festival, 2018](/assets/images/blog/2019-01-28-woodyfest-willis-alan-ramsey/czahller-20180714-17-16-14.jpg)
-  ![Willis (VI) — 21st Annual Woody Guthrie Festival, 2018](/assets/images/blog/2019-01-28-woodyfest-willis-alan-ramsey/czahller-20180714-17-16-19.jpg)
-  ![Willis (VII) — 21st Annual Woody Guthrie Festival, 2018](/assets/images/blog/2019-01-28-woodyfest-willis-alan-ramsey/czahller-20180714-17-17-03.jpg)
-  ![Willis Alan Ramsey (Upstage View I) — 21st Annual Woody Guthrie Festival, 2018](/assets/images/blog/2019-01-28-woodyfest-willis-alan-ramsey/czahller-20180714-17-17-04.jpg)
-  ![Willis (VIII) — 21st Annual Woody Guthrie Festival, 2018](/assets/images/blog/2019-01-28-woodyfest-willis-alan-ramsey/czahller-20180714-17-18-14.jpg)
-  ![Willis Alan Ramsey (Upstage View II) — 21st Annual Woody Guthrie Festival, 2018](/assets/images/blog/2019-01-28-woodyfest-willis-alan-ramsey/czahller-20180714-17-18-43.jpg)
-  ![Willis (IX) — 21st Annual Woody Guthrie Festival, 2018](/assets/images/blog/2019-01-28-woodyfest-willis-alan-ramsey/czahller-20180714-17-19-35.jpg)
-  ![Audience, Willis Alan Ramsey — 21st Annual Woody Guthrie Festival, 2018](/assets/images/blog/2019-01-28-woodyfest-willis-alan-ramsey/czahller-20180714-17-27-16.jpg)
-  ![Willis (X) — 21st Annual Woody Guthrie Festival, 2018](/assets/images/blog/2019-01-28-woodyfest-willis-alan-ramsey/czahller-20180714-17-31-13.jpg)
-  ![Willis Alan Ramsey (Stage Left View) — 21st Annual Woody Guthrie Festival, 2018](/assets/images/blog/2019-01-28-woodyfest-willis-alan-ramsey/czahller-20180714-17-37-11.jpg)
-  ![Willis (XI) — 21st Annual Woody Guthrie Festival, 2018](/assets/images/blog/2019-01-28-woodyfest-willis-alan-ramsey/czahller-20180714-17-41-09.jpg)
-  ![Jared Tyler Joins Willis Alan Ramsey — 21st Annual Woody Guthrie Festival, 2018](/assets/images/blog/2019-01-28-woodyfest-willis-alan-ramsey/czahller-20180714-17-48-07.jpg)
-  ![Jared Tyler — 21st Annual Woody Guthrie Festival, 2018](/assets/images/blog/2019-01-28-woodyfest-willis-alan-ramsey/czahller-20180714-17-49-04.jpg)
-  ![Willis (XII) — 21st Annual Woody Guthrie Festival, 2018](/assets/images/blog/2019-01-28-woodyfest-willis-alan-ramsey/czahller-20180714-17-50-13.jpg)
-  ![Jared (I) — 21st Annual Woody Guthrie Festival, 2018](/assets/images/blog/2019-01-28-woodyfest-willis-alan-ramsey/czahller-20180714-17-51-25.jpg)
-  ![Jared & Willis (I) — 21st Annual Woody Guthrie Festival, 2018](/assets/images/blog/2019-01-28-woodyfest-willis-alan-ramsey/czahller-20180714-17-53-47.jpg)
-  ![Jared (II) — 21st Annual Woody Guthrie Festival, 2018](/assets/images/blog/2019-01-28-woodyfest-willis-alan-ramsey/czahller-20180714-17-55-02.jpg)
-  ![Jared & Willis (II) — 21st Annual Woody Guthrie Festival, 2018](/assets/images/blog/2019-01-28-woodyfest-willis-alan-ramsey/czahller-20180714-17-55-11.jpg)
-  ![Willis (XIII) — 21st Annual Woody Guthrie Festival, 2018](/assets/images/blog/2019-01-28-woodyfest-willis-alan-ramsey/czahller-20180714-17-57-07.jpg)
+  {% image "./src/assets/images/blog/2019-01-28-woodyfest-willis-alan-ramsey/czahller-20180714-17-00-04.jpg", "", "Willis Alan Ramsey photographed from behind with a fisheye lens as he conducts a soundcheck. He is half-turned so his face and guitar are plainly visible.", "Willis Alan Ramsey Soundcheck (II)" %}
+
+  {% image "./src/assets/images/blog/2019-01-28-woodyfest-willis-alan-ramsey/czahller-20180714-17-06-47.jpg", "", "Willis Alan Ramsey photographed from behind with a fisheye lens as he continues his soundcheck. He is smiling broadly.", "Ready to Go!" %}
+
+  {% image "./src/assets/images/blog/2019-01-28-woodyfest-willis-alan-ramsey/czahller-20180714-17-07-23.jpg", "", "Willis Alan Ramsey addressing the audience. The camera is behind him. The fisheye lens causes the image to be distorted.", "Willis Alan Ramsey Addressing the Audience" %}
+
+  {% image "./src/assets/images/blog/2019-01-28-woodyfest-willis-alan-ramsey/czahller-20180714-17-11-28.jpg", "", "Willis Alan Ramsey", "Willis Alan Ramsey" %}
+
+  {% image "./src/assets/images/blog/2019-01-28-woodyfest-willis-alan-ramsey/czahller-20180714-17-13-40.jpg", "", "Willis Alan Ramsey", "Willis (I)" %}
+
+  {% image "./src/assets/images/blog/2019-01-28-woodyfest-willis-alan-ramsey/czahller-20180714-17-13-54.jpg", "", "Willis Alan Ramsey", "Willis (II)" %}
+
+  {% image "./src/assets/images/blog/2019-01-28-woodyfest-willis-alan-ramsey/czahller-20180714-17-14-03.jpg", "", "Willis Alan Ramsey", "Willis (III)" %}
+
+  {% image "./src/assets/images/blog/2019-01-28-woodyfest-willis-alan-ramsey/czahller-20180714-17-15-14.jpg", "", "Willis Alan Ramsey", "Willis (IV)" %}
+
+  {% image "./src/assets/images/blog/2019-01-28-woodyfest-willis-alan-ramsey/czahller-20180714-17-16-14.jpg", "", "Willis Alan Ramsey", "Willis (V)" %}
+
+  {% image "./src/assets/images/blog/2019-01-28-woodyfest-willis-alan-ramsey/czahller-20180714-17-16-19.jpg", "", "Willis Alan Ramsey", "Willis (VI)" %}
+
+  {% image "./src/assets/images/blog/2019-01-28-woodyfest-willis-alan-ramsey/czahller-20180714-17-17-03.jpg", "", "Willis Alan Ramsey", "Willis (VII)" %}
+
+  {% image "./src/assets/images/blog/2019-01-28-woodyfest-willis-alan-ramsey/czahller-20180714-17-17-04.jpg", "", "Willis Alan Ramsey viewed from upstage", "Willis Alan Ramsey (Upstage View I)" %}
+
+  {% image "./src/assets/images/blog/2019-01-28-woodyfest-willis-alan-ramsey/czahller-20180714-17-18-14.jpg", "", "Willis Alan Ramsey", "Willis (VIII)" %}
+
+  {% image "./src/assets/images/blog/2019-01-28-woodyfest-willis-alan-ramsey/czahller-20180714-17-18-43.jpg", "", "Willis Alan Ramsey viewed from upstage", "Willis Alan Ramsey (Upstage View II)" %}
+
+  {% image "./src/assets/images/blog/2019-01-28-woodyfest-willis-alan-ramsey/czahller-20180714-17-19-35.jpg", "", "Willis Alan Ramsey", "Willis (IX)" %}
+
+  {% image "./src/assets/images/blog/2019-01-28-woodyfest-willis-alan-ramsey/czahller-20180714-17-27-16.jpg", "", "Audience", "Audience, Willis Alan Ramsey" %}
+
+  {% image "./src/assets/images/blog/2019-01-28-woodyfest-willis-alan-ramsey/czahller-20180714-17-31-13.jpg", "", "Willis Alan Ramsey", "Willis (X)" %}
+
+  {% image "./src/assets/images/blog/2019-01-28-woodyfest-willis-alan-ramsey/czahller-20180714-17-37-11.jpg", "", "Willis Alan Ramsey viewed from stage left", "Willis Alan Ramsey (Stage Left View)" %}
+
+  {% image "./src/assets/images/blog/2019-01-28-woodyfest-willis-alan-ramsey/czahller-20180714-17-41-09.jpg", "", "Willis Alan Ramsey", "Willis (XI)" %}
+
+  {% image "./src/assets/images/blog/2019-01-28-woodyfest-willis-alan-ramsey/czahller-20180714-17-48-07.jpg", "", "Jared Tyler joins Willis Alan Ramsey on the Crystal Theatre stage", "Jared Tyler Joins Willis Alan Ramsey" %}
+
+  {% image "./src/assets/images/blog/2019-01-28-woodyfest-willis-alan-ramsey/czahller-20180714-17-49-04.jpg", "", "Jared Tyler", "Jared Tyler" %}
+
+  {% image "./src/assets/images/blog/2019-01-28-woodyfest-willis-alan-ramsey/czahller-20180714-17-50-13.jpg", "", "Willis Alan Ramsey", "Willis (XII)" %}
+
+  {% image "./src/assets/images/blog/2019-01-28-woodyfest-willis-alan-ramsey/czahller-20180714-17-51-25.jpg", "", "Jared Tyler", "Jared (I)" %}
+
+  {% image "./src/assets/images/blog/2019-01-28-woodyfest-willis-alan-ramsey/czahller-20180714-17-53-47.jpg", "", "Jared Tyler & Willis Alan Ramsey", "Jared & Willis (I)" %}
+
+  {% image "./src/assets/images/blog/2019-01-28-woodyfest-willis-alan-ramsey/czahller-20180714-17-55-02.jpg", "", "Jared Tyler", "Jared (II)" %}
+
+  {% image "./src/assets/images/blog/2019-01-28-woodyfest-willis-alan-ramsey/czahller-20180714-17-55-11.jpg", "", "Jared Tyler & Willis Alan Ramsey", "Jared & Willis (II)" %}
+
+  {% image "featured", "", "Willis Alan Ramsey", "Willis (XIII)" %}
 </mpb-dialog-gallery>

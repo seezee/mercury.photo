@@ -20,7 +20,7 @@ excerpt: Kite Flying Robot sprang from the singular vision of Nikolas “Kite”
 
 <!-- markdownlint-enable MD025 --><mpb-dialog-img>
 
-{% image "featured", "img-constrained", "Nikolas Thompson seen from the waist up. He wears a red “ringer” t-shirt. His eyes are closed, his right hand raised above his head. He holds a microphone in his raised hand. An orange light washes over the scene.", "Nikolas (IV)", "eager" %}</mpb-dialog-img>
+{% image "featured", "", "Nikolas Thompson seen from the waist up. He wears a red “ringer” t-shirt. His eyes are closed, his right hand raised above his head. He holds a microphone in his raised hand. An orange light washes over the scene.", "Nikolas (IV)", "eager" %}</mpb-dialog-img>
 
 <span aria-hidden="true">K</span><span class="h-card p-org"><span class="sr-only">K</span>ite Flying Robot</span> sprang from the singular vision of <span class="h-card p-name"><span class="p-given-name">Nikolas</span> <span class="p-nickname">"Kite"</span> <span class="p-family-name">Thompson</span></span>. The band itself has seen a rotating cast of players based on the exigencies of a nomadic lifestyle: There’s the **California** lineup (Thompson as solo artist), the **Oklahoma** lineup, and the lineup for **South Korea**. Thompson currently resides and plays in **Seoul**.
 
@@ -32,7 +32,7 @@ Thompson returned to Oklahoma for a short time in mid-February for a reunion con
 
 <mpb-dialog-img>
 
-{% image "./src/assets/images/blog/2013-04-23-kite-flying-robot/czahller-20130216-01-12-24.jpg", "img-constrained", "Nikolas Thompson playing a Fender electric guitar.", "Nikolas (V)" %}</mpb-dialog-img>
+{% image "./src/assets/images/blog/2013-04-23-kite-flying-robot/czahller-20130216-01-12-24.jpg", "", "Nikolas Thompson playing a Fender electric guitar.", "Nikolas (V)", "large" %}</mpb-dialog-img>
 
 <span class="spkr">MPB</span> What was your previous musical experience?
 
@@ -58,7 +58,7 @@ And I sort of learned my way, and I made my first Kite Flying Robot album, and i
 
 <mpb-dialog-img>
 
-{% image "./src/assets/images/blog/2013-04-23-kite-flying-robot/czahller-20130216-00-37-35.jpg", "img-constrained", "Tanya Felter plays electric viola. She wears high-waisted shorts which lace vertically like sneakers and a crop-top puffy vest.", "Tanya (III)" %}</mpb-dialog-img>
+{% image "./src/assets/images/blog/2013-04-23-kite-flying-robot/czahller-20130216-00-37-35.jpg", "", "Tanya Felter plays electric viola. She wears high-waisted shorts which lace vertically like sneakers and a crop-top puffy vest.", "Tanya (III)", "large" %}</mpb-dialog-img>
 
 <span class="spkr">MPB</span> If you live long enough, that’s gonna happen. It’s like cancer.
 
@@ -76,7 +76,7 @@ And I sort of learned my way, and I made my first Kite Flying Robot album, and i
 
 <mpb-dialog-img>
 
-{% image "./src/assets/images/blog/2013-04-23-kite-flying-robot/czahller-20130216-01-08-06.jpg", "img-constrained", "Christi Wans behind the keys. She grasps her face with her left hand, as if suppressing a laugh.", "Christi (I)" %}</mpb-dialog-img>
+{% image "./src/assets/images/blog/2013-04-23-kite-flying-robot/czahller-20130216-01-08-06.jpg", "", "Christi Wans behind the keys. She grasps her face with her left hand, as if suppressing a laugh.", "Christi (I)", "large" %}</mpb-dialog-img>
 
 <span class="spkr">MPB</span> You say Disney movies were kind of a big influence, so, how old are you and when was your childhood?
 
@@ -133,7 +133,7 @@ And I sort of learned my way, and I made my first Kite Flying Robot album, and i
 
 <mpb-dialog-img>
 
-{% image "./src/assets/images/blog/2013-04-23-kite-flying-robot/czahller-20130216-01-13-39.jpg", "img-constrained", "Todd Plunkett plays drums for Kite Flying Robot.", "Todd Plunkett" %}</mpb-dialog-img>
+{% image "./src/assets/images/blog/2013-04-23-kite-flying-robot/czahller-20130216-01-13-39.jpg", "", "Todd Plunkett plays drums for Kite Flying Robot.", "Todd Plunkett", "large" %}</mpb-dialog-img>
 
 <span class="spkr">MPB</span> Are you originally from Oklahoma?
 
@@ -163,7 +163,7 @@ And I sort of learned my way, and I made my first Kite Flying Robot album, and i
 
 <mpb-dialog-img>
 
-{% image "./src/assets/images/blog/2013-04-23-kite-flying-robot/czahller-20130216-00-36-26.jpg", "img-constrained", "Alex Larrea plays a Fender electric guitar", "Alex Larrea (I)" %}</mpb-dialog-img>
+{% image "./src/assets/images/blog/2013-04-23-kite-flying-robot/czahller-20130216-00-36-26.jpg", "", "Alex Larrea plays a Fender electric guitar", "Alex Larrea (I)", "large" %}</mpb-dialog-img>
 
 <span class="spkr">MPB</span> I notice you’re using a lot of gated percussion sounds&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;pretty typical of 80s production.
 
@@ -177,7 +177,7 @@ And I sort of learned my way, and I made my first Kite Flying Robot album, and i
 
 <mpb-dialog-img>
 
-{% image "./src/assets/images/blog/2013-04-23-kite-flying-robot/czahller-20130216-00-40-48.jpg", "img-constrained", "Tanya plays the tambourine.", "More Tambourine" %}</mpb-dialog-img>
+{% image "./src/assets/images/blog/2013-04-23-kite-flying-robot/czahller-20130216-00-40-48.jpg", "", "Tanya plays the tambourine.", "More Tambourine", "large" %}</mpb-dialog-img>
 
 <span class="spkr">Felter</span> So, we were always looking for people to play with […]; I definitely liked what I heard [from Kite Flying Robot], so we played a show together at the HiLo [Lounge]. And that’s how we met.
 
@@ -215,7 +215,7 @@ I saw in a documentary that when that song came out, people were just […] blow
 
 <mpb-dialog-img>
 
-{% image "./src/assets/images/blog/2013-04-23-kite-flying-robot/czahller-20130216-01-21-40.jpg", "img-constrained", "Nikolas belts into the microphone, his face twisted into a grimace, his hands by his side.", "Nikolas (VII)" %}</mpb-dialog-img>
+{% image "./src/assets/images/blog/2013-04-23-kite-flying-robot/czahller-20130216-01-21-40.jpg", "", "Nikolas belts into the microphone, his face twisted into a grimace, his hands by his side.", "Nikolas (VII)", "large" %}</mpb-dialog-img>
 
 <span class="spkr">MPB</span> What are your future plans for Kite Flying Robot?
 
@@ -233,59 +233,106 @@ I do play as Kite Flying Robot in Korea; I have a guitarist […]; he’s Canadi
 
 <mpb-dialog-gallery hint rel cols="8">
 
-  ![Alex [I]](/assets/images/blog/2013-04-23-kite-flying-robot/czahller-20130215-19-34-50.jpg)
-  ![Alex [II]](/assets/images/blog/2013-04-23-kite-flying-robot/czahller-20130215-19-35-30.jpg)
-  ![Todd](/assets/images/blog/2013-04-23-kite-flying-robot/czahller-20130215-19-35-41.jpg)
-  ![Christi](/assets/images/blog/2013-04-23-kite-flying-robot/czahller-20130215-19-35-55.jpg)
-  ![Tanya](/assets/images/blog/2013-04-23-kite-flying-robot/czahller-20130215-19-36-19.jpg)
-  ![Nikolas](/assets/images/blog/2013-04-23-kite-flying-robot/czahller-20130215-19-36-40.jpg)
+  {% image "./src/assets/images/blog/2013-04-23-kite-flying-robot/czahller-20130215-19-34-50.jpg", "", "Alex", "Alex (I)" %}
+
+  {% image "./src/assets/images/blog/2013-04-23-kite-flying-robot/czahller-20130215-19-35-30.jpg", "", "Alex", "Alex (II)" %}
+
+  {% image "./src/assets/images/blog/2013-04-23-kite-flying-robot/czahller-20130215-19-35-41.jpg", "", "Todd", "Todd" %}
+
+  {% image "./src/assets/images/blog/2013-04-23-kite-flying-robot/czahller-20130215-19-35-55.jpg", "", "Christi", "Christi" %}
+
+  {% image "./src/assets/images/blog/2013-04-23-kite-flying-robot/czahller-20130215-19-36-19.jpg", "", "Tanya", "Tanya" %}
+
+  {% image "./src/assets/images/blog/2013-04-23-kite-flying-robot/czahller-20130215-19-36-40.jpg", "", "Nikolas", "Nikolas" %}
 </mpb-dialog-gallery>
 
 ## Gallery: Kite Flying Robot Reunion Show at the Blue Note Lounge
 
 <mpb-dialog-gallery hint rel cols="8">
 
-  ![Kite Flying Robot Set listen](/assets/images/blog/2013-04-23-kite-flying-robot/czahller-20130216-16-37-16.jpg)
-  ![Tanya, Alex & Nikolas](/assets/images/blog/2013-04-23-kite-flying-robot/czahller-20130216-00-34-47.jpg)
-  ![Tanya (I)](/assets/images/blog/2013-04-23-kite-flying-robot/czahller-20130216-00-36-03.jpg)
-  ![Tanya (II)](/assets/images/blog/2013-04-23-kite-flying-robot/czahller-20130216-00-36-10.jpg)
-  ![Alex (I)](/assets/images/blog/2013-04-23-kite-flying-robot/czahller-20130216-00-36-26.jpg)
-  ![Nikolas (I)](/assets/images/blog/2013-04-23-kite-flying-robot/czahller-20130216-00-36-46.jpg)
-  ![Alex (II)](/assets/images/blog/2013-04-23-kite-flying-robot/czahller-20130216-00-37-20.jpg)
-  ![Tanya (III)](/assets/images/blog/2013-04-23-kite-flying-robot/czahller-20130216-00-37-35.jpg)
-  ![Alex (III)](/assets/images/blog/2013-04-23-kite-flying-robot/czahller-20130216-00-37-52.jpg)
-  ![View from Stage Right](/assets/images/blog/2013-04-23-kite-flying-robot/czahller-20130216-00-38-34.jpg)
-  ![Tanya & Tambourine](/assets/images/blog/2013-04-23-kite-flying-robot/czahller-20130216-00-38-44.jpg)
-  ![Oh, Yeah?](/assets/images/blog/2013-04-23-kite-flying-robot/czahller-20130216-00-39-31.jpg)
-  ![I Think Nikolas Was Dancing](/assets/images/blog/2013-04-23-kite-flying-robot/czahller-20130216-00-40-05.jpg)
-  ![Nikolas (II)](/assets/images/blog/2013-04-23-kite-flying-robot/czahller-20130216-00-40-34.jpg)
-  ![More Tambourine](/assets/images/blog/2013-04-23-kite-flying-robot/czahller-20130216-00-40-48.jpg)
-  ![Tanya & Alex (I)](/assets/images/blog/2013-04-23-kite-flying-robot/czahller-20130216-00-41-12.jpg)
-  ![Awwrk!](/assets/images/blog/2013-04-23-kite-flying-robot/czahller-20130216-00-41-31.jpg)
-  ![She Also Chews Gum & Walks at the Same Time](/assets/images/blog/2013-04-23-kite-flying-robot/czahller-20130216-00-48-22.jpg)
-  ![Gangnam Style](/assets/images/blog/2013-04-23-kite-flying-robot/czahller-20130216-00-48-33.jpg)
-  ![Christi & Glockenspiel](/assets/images/blog/2013-04-23-kite-flying-robot/czahller-20130216-00-49-02.jpg)
-  ![Tanya (IV)](/assets/images/blog/2013-04-23-kite-flying-robot/czahller-20130216-00-51-15.jpg)
-  ![Stop!](/assets/images/blog/2013-04-23-kite-flying-robot/czahller-20130216-01-01-04.jpg)
-  ![Christi (I)](/assets/images/blog/2013-04-23-kite-flying-robot/czahller-20130216-01-08-06.jpg)
-  ![Christi (II)](/assets/images/blog/2013-04-23-kite-flying-robot/czahller-20130216-01-08-40.jpg)
-  ![Nikolas (III)](/assets/images/blog/2013-04-23-kite-flying-robot/czahller-20130216-01-08-50.jpg)
-  ![Alex’s Pedal Board](/assets/images/blog/2013-04-23-kite-flying-robot/czahller-20130216-01-09-57.jpg)
-  ![Nikolas (IV)](/assets/images/blog/2013-04-23-kite-flying-robot/czahller-20130216-01-11-46.jpg)
-  ![Nikolas (V)](/assets/images/blog/2013-04-23-kite-flying-robot/czahller-20130216-01-12-24.jpg)
-  ![Alex on Keys](/assets/images/blog/2013-04-23-kite-flying-robot/czahller-20130216-01-13-03.jpg)
-  ![Todd](/assets/images/blog/2013-04-23-kite-flying-robot/czahller-20130216-01-13-39.jpg)
-  ![Nikolas & Alex](/assets/images/blog/2013-04-23-kite-flying-robot/czahller-20130216-01-13-51.jpg)
-  ![Snarl!](/assets/images/blog/2013-04-23-kite-flying-robot/czahller-20130216-01-14-15.jpg)
-  ![Christi, Trumpet Solo](/assets/images/blog/2013-04-23-kite-flying-robot/czahller-20130216-01-14-38.jpg)
-  ![Nikolas (VI)](/assets/images/blog/2013-04-23-kite-flying-robot/czahller-20130216-01-18-46.jpg)
-  ![Tanya, Fiddling](/assets/images/blog/2013-04-23-kite-flying-robot/czahller-20130216-01-21-03.jpg)
-  ![Tanya & Alex (II)](/assets/images/blog/2013-04-23-kite-flying-robot/czahller-20130216-01-21-32.jpg)
-  ![Nikolas (VII)](/assets/images/blog/2013-04-23-kite-flying-robot/czahller-20130216-01-21-40.jpg)
-  ![Nikolas (VIII)](/assets/images/blog/2013-04-23-kite-flying-robot/czahller-20130216-01-21-54.jpg)
-  ![Alex (Handclap)](/assets/images/blog/2013-04-23-kite-flying-robot/czahller-20130216-01-30-54.jpg)
-  ![Nikolas (Handclap)](/assets/images/blog/2013-04-23-kite-flying-robot/czahller-20130216-01-31-53.jpg)
-  ![Audience on Stage (I)](/assets/images/blog/2013-04-23-kite-flying-robot/czahller-20130216-01-32-53.jpg)
-  ![Audience on Stage (II)](/assets/images/blog/2013-04-23-kite-flying-robot/czahller-20130216-01-33-21.jpg)
-  ![This Guy Sure Looks Happy](/assets/images/blog/2013-04-23-kite-flying-robot/czahller-20130216-01-34-06.jpg)
+  {% image "./src/assets/images/blog/2013-04-23-kite-flying-robot/czahller-20130216-16-37-16.jpg", "", "Kite Flying Robot Set List", "Kite Flying Robot Set List" %}
+
+  {% image "./src/assets/images/blog/2013-04-23-kite-flying-robot/czahller-20130216-00-34-47.jpg", "", "Tanya, Alex & Nikolas", "Tanya, Alex & Nikolas" %}
+
+  {% image "./src/assets/images/blog/2013-04-23-kite-flying-robot/czahller-20130216-00-36-03.jpg", "", "Tanya", "Tanya (I)" %}
+
+  {% image "./src/assets/images/blog/2013-04-23-kite-flying-robot/czahller-20130216-00-36-10.jpg", "", "Tanya", "Tanya (II)" %}
+
+  {% image "./src/assets/images/blog/2013-04-23-kite-flying-robot/czahller-20130216-00-36-26.jpg", "", "Alex", "Alex (I)" %}
+
+  {% image "./src/assets/images/blog/2013-04-23-kite-flying-robot/czahller-20130216-00-36-46.jpg", "", "Nikolas", "Nikolas (I)" %}
+
+  {% image "./src/assets/images/blog/2013-04-23-kite-flying-robot/czahller-20130216-00-37-20.jpg", "", "Alex", "Alex (II)" %}
+
+  {% image "./src/assets/images/blog/2013-04-23-kite-flying-robot/czahller-20130216-00-37-35.jpg", "", "Tanya", "Tanya (III)" %}
+
+  {% image "./src/assets/images/blog/2013-04-23-kite-flying-robot/czahller-20130216-00-37-52.jpg", "", "Alex", "Alex (III)" %}
+
+  {% image "./src/assets/images/blog/2013-04-23-kite-flying-robot/czahller-20130216-00-38-34.jpg", "", "Nikolas seen from stage right. An out-of-focus Alex fills the foreground to frame right.", "View from Stage Right" %}
+
+  {% image "./src/assets/images/blog/2013-04-23-kite-flying-robot/czahller-20130216-00-38-44.jpg", "", "Tanya plays the tambourine", "Tanya & Tambourine" %}
+
+  {% image "./src/assets/images/blog/2013-04-23-kite-flying-robot/czahller-20130216-00-39-31.jpg", "", "Nikolas has a questioning look on his face", "Oh, Yeah?" %}
+
+  {% image "./src/assets/images/blog/2013-04-23-kite-flying-robot/czahller-20130216-00-40-05.jpg", "", "Nikolas dances while Alex plays guitar", "I Think Nikolas Was Dancing" %}
+
+  {% image "./src/assets/images/blog/2013-04-23-kite-flying-robot/czahller-20130216-00-40-34.jpg", "", "Nikolas", "Nikolas (II)" %}
+
+  {% image "./src/assets/images/blog/2013-04-23-kite-flying-robot/czahller-20130216-00-40-48.jpg", "", "Tanya plays tambourine", "More Tambourine" %}
+
+  {% image "./src/assets/images/blog/2013-04-23-kite-flying-robot/czahller-20130216-00-41-12.jpg", "", "Tanya & Alex", "Tanya & Alex (I)" %}
+
+  {% image "./src/assets/images/blog/2013-04-23-kite-flying-robot/czahller-20130216-00-41-31.jpg", "", "Nikolas squints while singing", "Awwrk!" %}
+
+  {% image "./src/assets/images/blog/2013-04-23-kite-flying-robot/czahller-20130216-00-48-22.jpg", "", "Tanya plays viola while she sings", "She Also Chews Gum & Walks at the Same Time" %}
+
+  {% image "./src/assets/images/blog/2013-04-23-kite-flying-robot/czahller-20130216-00-48-33.jpg", "", "Detail of Tanya’s socks, which feature cartoon portraits of K-Pop star Sy", "Gangnam Style" %}
+
+  {% image "./src/assets/images/blog/2013-04-23-kite-flying-robot/czahller-20130216-00-49-02.jpg", "", "Christi plays the glockenspiel", "Christi & Glockenspiel" %}
+
+  {% image "./src/assets/images/blog/2013-04-23-kite-flying-robot/czahller-20130216-00-51-15.jpg", "", "Tanya", "Tanya (IV)" %}
+
+  {% image "./src/assets/images/blog/2013-04-23-kite-flying-robot/czahller-20130216-01-01-04.jpg", "", "Nikolas extends his left hand, palm out, fingers splayed", "Stop!" %}
+
+  {% image "./src/assets/images/blog/2013-04-23-kite-flying-robot/czahller-20130216-01-08-06.jpg", "", "Christi", "Christi (I)" %}
+
+  {% image "./src/assets/images/blog/2013-04-23-kite-flying-robot/czahller-20130216-01-08-40.jpg", "", "Christi", "Christi (II)" %}
+
+  {% image "./src/assets/images/blog/2013-04-23-kite-flying-robot/czahller-20130216-01-08-50.jpg", "", "Nikolas", "Nikolas (III)" %}
+
+  {% image "./src/assets/images/blog/2013-04-23-kite-flying-robot/czahller-20130216-01-09-57.jpg", "", "Alex’s Pedal Board", "Alex’s Pedal Board" %}
+
+  {% image "featured", "", "Nikolas Thompson seen from the waist up. He wears a red “ringer” t-shirt. His eyes are closed, his right hand raised above his head. He holds a microphone in his raised hand. An orange light washes over the scene.", "Nikolas (IV)" %}
+
+  {% image "./src/assets/images/blog/2013-04-23-kite-flying-robot/czahller-20130216-01-12-24.jpg", "", "Nikolas", "Nikolas (V)" %}
+
+  {% image "./src/assets/images/blog/2013-04-23-kite-flying-robot/czahller-20130216-01-13-03.jpg", "", "Alex on Keys", "Alex on Keys" %}
+
+  {% image "./src/assets/images/blog/2013-04-23-kite-flying-robot/czahller-20130216-01-13-39.jpg", "", "Todd", "Todd" %}
+
+  {% image "./src/assets/images/blog/2013-04-23-kite-flying-robot/czahller-20130216-01-13-51.jpg", "", "Nikolas & Alex", "Nikolas & Alex" %}
+
+  {% image "./src/assets/images/blog/2013-04-23-kite-flying-robot/czahller-20130216-01-14-15.jpg", "", "Nikolas has a fierce expression on his face. His eyes are wide open and very bright.", "Snarl!" %}
+
+  {% image "./src/assets/images/blog/2013-04-23-kite-flying-robot/czahller-20130216-01-14-38.jpg", "", "Christi plays a trumpet solo", "Christi, Trumpet Solo" %}
+
+  {% image "./src/assets/images/blog/2013-04-23-kite-flying-robot/czahller-20130216-01-18-46.jpg", "", "Nikolas", "Nikolas (VI)" %}
+
+  {% image "./src/assets/images/blog/2013-04-23-kite-flying-robot/czahller-20130216-01-21-03.jpg", "", "Tanya plays a white electric viola", "Tanya, Fiddling" %}
+
+  {% image "./src/assets/images/blog/2013-04-23-kite-flying-robot/czahller-20130216-01-21-32.jpg", "", "Tanya & Alex", "Tanya & Alex (II)" %}
+
+  {% image "./src/assets/images/blog/2013-04-23-kite-flying-robot/czahller-20130216-01-21-40.jpg", "", "Nikolas", "Nikolas (VII)" %}
+
+  {% image "./src/assets/images/blog/2013-04-23-kite-flying-robot/czahller-20130216-01-21-54.jpg", "", "Nikolas", "Nikolas (VIII)" %}
+
+  {% image "./src/assets/images/blog/2013-04-23-kite-flying-robot/czahller-20130216-01-30-54.jpg", "", "Alex clapping his hands", "Alex (Handclap)" %}
+
+  {% image "./src/assets/images/blog/2013-04-23-kite-flying-robot/czahller-20130216-01-31-53.jpg", "", "Nikolas leads the audience to clap rhythmically", "Nikolas (Handclap)" %}
+
+  {% image "./src/assets/images/blog/2013-04-23-kite-flying-robot/czahller-20130216-01-32-53.jpg", "", "Audience on Stage", "Audience on Stage (I)" %}
+
+  {% image "./src/assets/images/blog/2013-04-23-kite-flying-robot/czahller-20130216-01-33-21.jpg", "", "Audience on Stage", "Audience on Stage (II)" %}
+
+  {% image "./src/assets/images/blog/2013-04-23-kite-flying-robot/czahller-20130216-01-34-06.jpg", "", "Smiling man in audience", "This Guy Sure Looks Happy" %}
 </mpb-dialog-gallery>

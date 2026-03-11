@@ -26,7 +26,7 @@ excerpt: Returning to the scene of their very first public show, former Okies Sk
 <p>Ugly pop trio returns to old stomping grounds</p></stack-l></hgroup>
 <!-- markdownlint-enable MD025 --><mpb-dialog-img>
 
-{% image "featured", "img-constrained", "Kelli kicks her left leg out. Both women are singing. Peyton is on the left; Kelli is on the right.", "Kick!", "eager" %}</mpb-dialog-img>
+{% image "featured", "", "Kelli kicks her left leg out. Both women are singing. Peyton is on the left; Kelli is on the right.", "Kick!", "eager" %}</mpb-dialog-img>
 
 Returning to the scene of their very first public show, former Okies <span class="h-card p-org">Skating Polly</span> played to a sold-out house at <span class="h-card p-org">OPOLIS</span> on <time datetime="2018-06-01">Saturday</time>. The show was the first stop in a 15-city tour promoting the release of their fifth full-length album <cite>The Make It All Show</cite>. <cite>[Vice Magazine](https://www.vice.com/en/article/stream-skating-pollys-rip-roaring-new-lp-the-make-it-all-show/){target=_blank rel="external noopener"}</cite> calls it <q>rip-roaring,</q> saying the album will <q>knock your socks clean off, and into the nearest oncoming traffic.</q>{.drop-cap}
 
@@ -71,33 +71,59 @@ Opening for the band were local favorites Poolboy and L.A.-based punk rockers Po
 
 <mpb-dialog-gallery hint rel cols="8">
 
-  ![Set Lists: Poolboy, Potty Mouth, Skatiing Polly](/assets/images/blog/2018-06-08-skating-polly/czahller-20180608-12-08-31.jpg)
-  ![Potty Mouth (I)](/assets/images/blog/2018-06-08-skating-polly/czahller-20180601-22-02-00.jpg)
-  ![Potty Mouth (II)](/assets/images/blog/2018-06-08-skating-polly/czahller-20180601-22-02-34.jpg)
-  ![Potty Mouth (III)](/assets/images/blog/2018-06-08-skating-polly/czahller-20180601-22-10-57.jpg)
-  ![“Pretective Boy” (I)](/assets/images/blog/2018-06-08-skating-polly/czahller-20180601-23-02-09.jpg)
-  ![“Pretective Boy” (II)](/assets/images/blog/2018-06-08-skating-polly/czahller-20180601-23-02-45.jpg)
-  ![“Pretective Boy” (III)](/assets/images/blog/2018-06-08-skating-polly/czahller-20180601-23-06-31.jpg)
-  ![Kurtis (I)](/assets/images/blog/2018-06-08-skating-polly/czahller-20180601-23-07-04.jpg)
-  ![Kelli (I)](/assets/images/blog/2018-06-08-skating-polly/czahller-20180601-23-11-38.jpg)
-  ![Kelli (II)](/assets/images/blog/2018-06-08-skating-polly/czahller-20180601-23-12-41.jpg)
-  ![Peyton (I)](/assets/images/blog/2018-06-08-skating-polly/czahller-20180601-23-16-57.jpg)
-  ![Kelli (III)](/assets/images/blog/2018-06-08-skating-polly/czahller-20180601-23-19-54.jpg)
-  ![Kurtis (II)](/assets/images/blog/2018-06-08-skating-polly/czahller-20180601-23-21-35.jpg)
-  ![Peyton (II)](/assets/images/blog/2018-06-08-skating-polly/czahller-20180601-23-26-25.jpg)
-  ![Upstage view (I)](/assets/images/blog/2018-06-08-skating-polly/czahller-20180601-23-33-20.jpg)
-  ![Upstage view (II)](/assets/images/blog/2018-06-08-skating-polly/czahller-20180601-23-33-41.jpg)
-  ![Peyton, Upstage View (I)](/assets/images/blog/2018-06-08-skating-polly/czahller-20180601-23-34-46.jpg)
-  ![Upstage view (III)](/assets/images/blog/2018-06-08-skating-polly/czahller-20180601-23-36-03.jpg)
-  ![Upstage view (IV)](/assets/images/blog/2018-06-08-skating-polly/czahller-20180601-23-36-36.jpg)
-  ![Audience with Kids](/assets/images/blog/2018-06-08-skating-polly/czahller-20180601-23-40-35.jpg)
-  ![“Flatwound String”](/assets/images/blog/2018-06-08-skating-polly/czahller-20180601-23-42-58.jpg)
-  ![Peyton’s Knee (Heart Tatoo)](/assets/images/blog/2018-06-08-skating-polly/czahller-20180601-23-45-21.jpg)
-  ![Kurtis (III)](/assets/images/blog/2018-06-08-skating-polly/czahller-20180601-23-47-40.jpg)
-  ![Kelli’s Basitar (Ugly Pop)](/assets/images/blog/2018-06-08-skating-polly/czahller-20180601-23-49-50.jpg)
-  ![Kick!](/assets/images/blog/2018-06-08-skating-polly/czahller-20180601-23-52-06.jpg)
-  ![“Camelot” (I)](/assets/images/blog/2018-06-08-skating-polly/czahller-20180601-23-52-47.jpg)
-  ![“Camelot” (II)](/assets/images/blog/2018-06-08-skating-polly/czahller-20180601-23-53-29.jpg)
+  {% image "./src/assets/images/blog/2018-06-08-skating-polly/czahller-20180608-12-08-31.jpg", "", "Set lists: Poolboy, Potty Mouth, Skatiing Polly", "Set Lists: Poolboy, Potty Mouth, Skatiing Polly" %}
+
+  {% image "./src/assets/images/blog/2018-06-08-skating-polly/czahller-20180601-22-02-00.jpg", "", "Potty Mouth", "Potty Mouth (I)" %}
+
+  {% image "./src/assets/images/blog/2018-06-08-skating-polly/czahller-20180601-22-02-34.jpg", "", "Potty Mouth", "Potty Mouth (II)" %}
+
+  {% image "./src/assets/images/blog/2018-06-08-skating-polly/czahller-20180601-22-10-57.jpg", "", "Potty Mouth", "Potty Mouth (III)" %}
+
+  {% image "./src/assets/images/blog/2018-06-08-skating-polly/czahller-20180601-23-02-09.jpg", "", "Skating Polly perform “Pretective Boy”", "“Pretective Boy” (I)" %}
+
+  {% image "./src/assets/images/blog/2018-06-08-skating-polly/czahller-20180601-23-02-45.jpg", "", "Skating Polly perform “Pretective Boy”", "“Pretective Boy” (II)" %}
+
+  {% image "./src/assets/images/blog/2018-06-08-skating-polly/czahller-20180601-23-06-31.jpg", "", "Skating Polly perform “Pretective Boy”", "“Pretective Boy” (III) " %}
+
+  {% image "./src/assets/images/blog/2018-06-08-skating-polly/czahller-20180601-23-07-04.jpg", "", "Kurtis", "Kurtis (I)" %}
+
+  {% image "./src/assets/images/blog/2018-06-08-skating-polly/czahller-20180601-23-11-38.jpg", "", "Kelli", "Kelli (I)" %}
+
+  {% image "./src/assets/images/blog/2018-06-08-skating-polly/czahller-20180601-23-12-41.jpg", "", "Kelli", "Kelli (II)" %}
+
+  {% image "./src/assets/images/blog/2018-06-08-skating-polly/czahller-20180601-23-16-57.jpg", "", "Peyton", "Peyton (I)" %}
+
+  {% image "./src/assets/images/blog/2018-06-08-skating-polly/czahller-20180601-23-19-54.jpg", "", "Kelli", "Kelli (III)" %}
+
+  {% image "./src/assets/images/blog/2018-06-08-skating-polly/czahller-20180601-23-21-35.jpg", "", "Kurtis", "Kurtis (II)" %}
+
+  {% image "./src/assets/images/blog/2018-06-08-skating-polly/czahller-20180601-23-26-25.jpg", "", "Peyton", "Peyton (II)" %}
+
+  {% image "./src/assets/images/blog/2018-06-08-skating-polly/czahller-20180601-23-33-20.jpg", "", "Upstage view of the band", "Upstage view (I)" %}
+
+  {% image "./src/assets/images/blog/2018-06-08-skating-polly/czahller-20180601-23-33-41.jpg", "", "Upstage view of the band", "Upstage view (II)" %}
+
+  {% image "./src/assets/images/blog/2018-06-08-skating-polly/czahller-20180601-23-34-46.jpg", "", "Peyton seen from upstage", "Peyton, Upstage View (I)" %}
+
+  {% image "./src/assets/images/blog/2018-06-08-skating-polly/czahller-20180601-23-36-03.jpg", "", "Upstage view of the band", "Upstage view (III)" %}
+
+  {% image "./src/assets/images/blog/2018-06-08-skating-polly/czahller-20180601-23-36-36.jpg", "", "Upstage view of the band", "Upstage view (IV)" %}
+
+  {% image "./src/assets/images/blog/2018-06-08-skating-polly/czahller-20180601-23-40-35.jpg", "", "Young girls in the audience", "Audience with Kids" %}
+
+  {% image "./src/assets/images/blog/2018-06-08-skating-polly/czahller-20180601-23-42-58.jpg", "", "Skating Polly play “Flatwound String”", "“Flatwound String”" %}
+
+  {% image "./src/assets/images/blog/2018-06-08-skating-polly/czahller-20180601-23-45-21.jpg", "", "Peyton’s right knee, with a simple heart tattoo on it", "Peyton’s Knee (Heart Tatoo)" %}
+
+  {% image "./src/assets/images/blog/2018-06-08-skating-polly/czahller-20180601-23-47-40.jpg", "", "Kurtis", "Kurtis (III)" %}
+
+  {% image "./src/assets/images/blog/2018-06-08-skating-polly/czahller-20180601-23-49-50.jpg", "", "Detail of Kelli’s basitar, with the phrase “Ugly Pop” scrawled across it in permanent marker", "Ugly Pop" %}
+
+  {% image "featured", "", "Kelli kicks her left leg out. Both women are singing. Peyton is on the left; Kelli is on the right.", "Kick!" %}
+
+  {% image "./src/assets/images/blog/2018-06-08-skating-polly/czahller-20180601-23-52-47.jpg", "", "Skating Polly perform “Camelot”", "“Camelot” (I)" %}
+
+  {% image "./src/assets/images/blog/2018-06-08-skating-polly/czahller-20180601-23-53-29.jpg", "", "Skating Polly perform “Camelot”", "“Camelot” (II)" %}
 </mpb-dialog-gallery>
 
 ## Technical

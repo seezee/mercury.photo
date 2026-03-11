@@ -17,7 +17,7 @@ excerpt: We bought a used Paul C. Buff “Einstein” (model E640) studio strobe
 
 <!-- markdownlint-enable MD025 --><mpb-dialog-img>
 
-{% image "featured", "img-constrained", "Medium portrait of the author. He wears vintage two-tone eyeglass frames and a porkpie hat, a vintage rayon scarf, a green plaid flannel shirt, and a bulky green cable-knit fisherman’s cardigan. He sports an inverted handlebar moustache, also known as a biker ’stache.", "Lighting Test", "eager" %}</mpb-dialog-img>
+{% image "featured", "", "Medium portrait of the author. He wears vintage two-tone eyeglass frames and a porkpie hat, a vintage rayon scarf, a green plaid flannel shirt, and a bulky green cable-knit fisherman’s cardigan. He sports an inverted handlebar moustache, also known as a biker ’stache.", "Lighting Test", "eager" %}</mpb-dialog-img>
 
 We bought a used Paul C. Buff “Einstein” (model E640) studio strobe just before Christmas; the package arrived on New Year’s Eve. So far we really like it; we’ve been trying different settings, modifiers, distances and so forth. We took this portrait with two lights: the Einstein, plus an inexpensive speedlight. Here’s the setup:
 
@@ -51,6 +51,6 @@ We made basic tonal adjustments on the image in Adobe Lightroom.
 
 <mpb-dialog-img>
 
-{% image "./src/assets/images/blog/2015-01-02-lighting-test-pcb/czahller-20150102-16-13-16-crop.jpg", "img-constrained", "Detail from lighting test. A crop of the author’s right eye and eyeglass frame.", "Lighting Test (100% crop; may appear smaller on some devices)" %}</mpb-dialog-img>
+{% image "./src/assets/images/blog/2015-01-02-lighting-test-pcb/czahller-20150102-16-13-16-crop.jpg", "", "Detail from lighting test. A crop of the author’s right eye and eyeglass frame.", "Lighting Test (100% crop; may appear smaller on some devices)", "large" %}</mpb-dialog-img>
 
 We don’t have a power pack or Paul C. Buff triggers or transceivers yet, so the light ran on AC power and we fired the flash with a Yongnuo transmitter and two Yongnuo receivers. We have [previously reviewed](/blog/lumiquest-softbox-3-review/) the LumiQuest Softbox III.

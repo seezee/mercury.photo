@@ -27,7 +27,7 @@ excerpt: Third place in the 2018 Woody Guthrie Folk Festival Songwriting Contest
 <p>Third time’s a charm</p></stack-l></hgroup>
 <!-- markdownlint-enable MD025 --><mpb-dialog-img>
 
-{% image "featured", "img-constrained", "Alice & Robert Thatcher — 21st Annual Woody Guthrie Festival, 2018", "Alice & Robert Thatcher&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;21st Annual Woody Guthrie Festival, 2018", "eager" %}</mpb-dialog-img>
+{% image "featured", "", "Alice & Robert Thatcher", "Alice & Robert Thatcher", "eager" %}</mpb-dialog-img>
 
 Third place in the  <time datetime="2018">2018</time> <span class="h-card p-org"><span class="p-name"><span class="p-nickname">Woody</span> Guthrie</span> Folk Festival</span> Songwriting Contest went to <span class="h-card p-name">Robert Thatcher</span> and <span class="h-card p-name">Tom Brown</span>. Thatcher and his wife and musical partner <span class="h-card p-name">Alice Thatcher</span> performed the winning song, <cite class="short-work">On the Wings of a Song,</cite> as part of a short showcase on the Pastures of Plenty Stage on festival <time datetime="2018-07-13T19:02:46-5:00">Friday</time>. Thatcher and Brown had previously received honorable mention in the contest for their <time datetime="2017">2017</time> entry, <cite class="short-work">Would I Be Welcome,</cite> and Thatcher’s song <cite class="short-work">Woody</cite> received the same honor in <time datetime="2007">2007</time>.[^1]{.drop-cap}
 
@@ -47,9 +47,13 @@ Although not present to perform the winning song with the Thatchers, Brown does 
 
 <mpb-dialog-gallery hint rel cols="8">
   
-  ![Alice & Robert Thatcher — 21st Annual Woody Guthrie Festival, 2018](/assets/images/blog/2018-12-24-woodyfest-robt-thatcher/czahller-20180713-19-02-46.jpg)
-  ![Robert Thatcher (3rd Place Songwriting Contest Winner) — 21st Annual Woody Guthrie Festival, 2018](/assets/images/blog/2018-12-24-woodyfest-robt-thatcher/czahller-20180713-19-03-02.jpg)
-  ![Alice Thatcher — 21st Annual Woody Guthrie Festival, 2018](/assets/images/blog/2018-12-24-woodyfest-robt-thatcher/czahller-20180713-19-03-25.jpg)
-  ![Alice — 21st Annual Woody Guthrie Festival, 2018](/assets/images/blog/2018-12-24-woodyfest-robt-thatcher/czahller-20180713-19-05-39.jpg)
-  ![Robert — 21st Annual Woody Guthrie Festival, 2018](/assets/images/blog/2018-12-24-woodyfest-robt-thatcher/czahller-20180713-19-05-57.jpg)
+  {% image "featured", "", "Alice & Robert Thatcher", "Alice & Robert Thatcher" %}
+
+  {% image "./src/assets/images/blog/2018-12-24-woodyfest-robt-thatcher/czahller-20180713-19-03-02.jpg", "", "Robert Thatcher", "Robert Thatcher (3rd Place Songwriting Contest Winner)" %}
+
+  {% image "./src/assets/images/blog/2018-12-24-woodyfest-robt-thatcher/czahller-20180713-19-03-25.jpg", "", "Alice Thatcher", "Alice Thatcher" %}
+
+  {% image "./src/assets/images/blog/2018-12-24-woodyfest-robt-thatcher/czahller-20180713-19-05-39.jpg", "", "Alice Thatcher", "Alice" %}
+
+  {% image "./src/assets/images/blog/2018-12-24-woodyfest-robt-thatcher/czahller-20180713-19-05-57.jpg", "", "Robert Thatcher", "Robert" %}
 </mpb-dialog-gallery>

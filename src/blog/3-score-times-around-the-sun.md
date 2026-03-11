@@ -18,7 +18,7 @@ excerpt: This weekend I celebrated my sixtieth birthday surrounded by friends an
 
 <!-- markdownlint-enable MD025 --><mpb-dialog-img>
 
-{% image "featured", "img-constrained", "Rita, Terry, & Jean", "Rita, Terry, & Jean&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;Chris J. Zähller Birthday Celebration", "eager" %}</mpb-dialog-img>
+{% image "featured", "", "Rita, Terry, & Jean", "Rita, Terry, & Jean&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;Chris J. Zähller Birthday Celebration", "eager" %}</mpb-dialog-img>
 
 <time datetime="2021-04-03">This weekend</time> I celebrated my sixtieth birthday surrounded by friends and family. If you had told me I would be doing so weeks earlier, I wouldn't have believed you. But thanks to an accelerating COVID-19 vaccination rollout, everyone had had at least one of the two-dose vaccines, with most of us having received both.
 
@@ -27,19 +27,30 @@ My wonderful sister <span class="h-card p-name">Kim V. Zähller</span> and her h
 I took most of the pictures shown here, except for the group photo, made by my dear friend [Joe Crumley](/blog/circle-confusion-pt-1/). I hope you enjoy them.
 
 <mpb-dialog-gallery hint rel cols="8">
-  
-  ![Rita, Terry, & Jean](/assets/images/blog/2021-04-06-three-score-times/czahller-20210403-13-49-37.jpg)
-  ![Jean & Katie](/assets/images/blog/2021-04-06-three-score-times/czahller-20210403-13-53-43.jpg)
-  ![Andy, Kim, & Kimberly](/assets/images/blog/2021-04-06-three-score-times/czahller-20210403-13-57-38.jpg)
-  ![Kimberly & Nate](/assets/images/blog/2021-04-06-three-score-times/czahller-20210403-14-01-32.jpg)
-  ![Andy](/assets/images/blog/2021-04-06-three-score-times/czahller-20210403-14-06-29.jpg)
-  ![Kimberly](/assets/images/blog/2021-04-06-three-score-times/czahller-20210403-14-10-14.jpg)
-  ![Rita](/assets/images/blog/2021-04-06-three-score-times/czahller-20210403-14-13-47.jpg)
-  ![Terry & Jean](/assets/images/blog/2021-04-06-three-score-times/czahller-20210403-14-17-02.jpg)
-  ![Kim & Andy](/assets/images/blog/2021-04-06-three-score-times/czahller-20210403-14-21-18.jpg)
-  ![Katie](/assets/images/blog/2021-04-06-three-score-times/czahller-20210403-14-25-27.jpg)
-  ![Joe](/assets/images/blog/2021-04-06-three-score-times/czahller-20210403-15-35-46.jpg)
-  ![Group Portrait](/assets/images/blog/2021-04-06-three-score-times/czahller-20210403-15-45-45.jpg)
+
+  {% image "featured", "", "Rita, Terry, & Jean", "Rita, Terry, & Jean" %}
+
+  {% image "./src/assets/images/blog/2021-04-06-three-score-times/czahller-20210403-13-53-43.jpg", "", "Jean & Katie", "Jean & Katie" %}
+
+  {% image "./src/assets/images/blog/2021-04-06-three-score-times/czahller-20210403-13-57-38.jpg", "", "Andy, Kim, & Kimberly", "Andy, Kim, & Kimberly" %}
+
+  {% image "./src/assets/images/blog/2021-04-06-three-score-times/czahller-20210403-14-01-32.jpg", "", "Kimberly & Nate", "Kimberly & Nate" %}
+
+  {% image "./src/assets/images/blog/2021-04-06-three-score-times/czahller-20210403-14-06-29.jpg", "", "Andy", "Andy" %}
+
+  {% image "./src/assets/images/blog/2021-04-06-three-score-times/czahller-20210403-14-10-14.jpg", "", "Kimberly", "Kimberly" %}
+
+  {% image "./src/assets/images/blog/2021-04-06-three-score-times/czahller-20210403-14-13-47.jpg", "", "Rita", "Rita" %}
+
+  {% image "./src/assets/images/blog/2021-04-06-three-score-times/czahller-20210403-14-17-02.jpg", "", "Terry & Jean", "Terry & Jean" %}
+
+  {% image "./src/assets/images/blog/2021-04-06-three-score-times/czahller-20210403-14-21-18.jpg", "", "Kim & Andy", "Kim & Andy" %}
+
+  {% image "./src/assets/images/blog/2021-04-06-three-score-times/czahller-20210403-14-25-27.jpg", "", "Katie", "Katie" %}
+
+  {% image "./src/assets/images/blog/2021-04-06-three-score-times/czahller-20210403-15-35-46.jpg", "", "Joe", "Joe" %}
+
+  {% image "./src/assets/images/blog/2021-04-06-three-score-times/czahller-20210403-15-45-45.jpg", "", "Group Portrait", "Group Portrait" %}
 </mpb-dialog-gallery>
 
 ## Technical

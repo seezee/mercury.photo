@@ -24,7 +24,7 @@ excerpt: On 3 May 2013 at approximately 2:46 p.m., a tornado touched ground near
 <!-- markdownlint-enable MD025 -->
 <mpb-dialog-img>
 
-{% image "featured", "img-constrained", "Ramsay Midwood. He wears a trucker cap and plaid shirt. His right hand grasps a Shure SM58 microphone which is still mounted in its stand. His left hand is draped over an acoustic guitar. He is speaking to the audience.", "Ramsay (II)", "eager" %}</mpb-dialog-img>
+{% image "featured", "", "Ramsay Midwood. He wears a trucker cap and plaid shirt. His right hand grasps a Shure SM58 microphone which is still mounted in its stand. His left hand is draped over an acoustic guitar. He is speaking to the audience.", "Ramsay (II)", "eager" %}</mpb-dialog-img>
 
 ## The Tornado
 
@@ -58,19 +58,33 @@ When I bumped into Music4Moore organizer Steven White at the Gourds’ [Summer B
 
 <mpb-dialog-gallery hint rel cols="8">
 
-  ![Ramsay Takes the Stage (I)](/assets/images/blog/2013-06-12-m4m-ramsay-midwood/czahller-20130529-21-54-07.jpg)
-  ![Ramsay Takes the Stage (II)](/assets/images/blog/2013-06-12-m4m-ramsay-midwood/czahller-20130529-21-54-24.jpg)
-  ![Bill (I)](/assets/images/blog/2013-06-12-m4m-ramsay-midwood/czahller-20130529-21-54-56.jpg)
-  ![Ramsay (I)](/assets/images/blog/2013-06-12-m4m-ramsay-midwood/czahller-20130529-21-55-01.jpg)
-  ![Jeff & Daniel (I)](/assets/images/blog/2013-06-12-m4m-ramsay-midwood/czahller-20130529-21-55-24.jpg)
-  ![Scott (I)](/assets/images/blog/2013-06-12-m4m-ramsay-midwood/czahller-20130529-21-56-04.jpg)
-  ![Ramsay (II)](/assets/images/blog/2013-06-12-m4m-ramsay-midwood/czahller-20130529-21-56-30.jpg)
-  ![Ramsay’s Guitar (Spit, Baling Wire & Duct Tape)](/assets/images/blog/2013-06-12-m4m-ramsay-midwood/czahller-20130529-21-56-35.jpg)
-  ![Bill (II)](/assets/images/blog/2013-06-12-m4m-ramsay-midwood/czahller-20130529-21-57-05.jpg)
-  ![Ramsay (III)](/assets/images/blog/2013-06-12-m4m-ramsay-midwood/czahller-20130529-21-57-34.jpg)
-  ![Jeff & Daniel (II)](/assets/images/blog/2013-06-12-m4m-ramsay-midwood/czahller-20130529-21-59-26.jpg)
-  ![Bill (IV)](/assets/images/blog/2013-06-12-m4m-ramsay-midwood/czahller-20130529-22-00-48.jpg)
-  ![Scott (II)](/assets/images/blog/2013-06-12-m4m-ramsay-midwood/czahller-20130529-22-01-01.jpg)
-  ![Ramsay (Looking at Scott)](/assets/images/blog/2013-06-12-m4m-ramsay-midwood/czahller-20130529-22-02-20.jpg)
-  ![Audience](/assets/images/blog/2013-06-12-m4m-ramsay-midwood/czahller-20130529-22-05-34.jpg)
+  {% image "./src/assets/images/blog/2013-06-12-m4m-ramsay-midwood/czahller-20130529-21-54-07.jpg", "", "Ramsay takes the stage", "Ramsay Takes the Stage (I)" %}
+
+  {% image "./src/assets/images/blog/2013-06-12-m4m-ramsay-midwood/czahller-20130529-21-54-24.jpg", "", "Ramsay takes the stage", "Ramsay Takes the Stage (II)" %}
+
+  {% image "./src/assets/images/blog/2013-06-12-m4m-ramsay-midwood/czahller-20130529-21-54-56.jpg", "", "Bill", "Bill (I)" %}
+
+  {% image "./src/assets/images/blog/2013-06-12-m4m-ramsay-midwood/czahller-20130529-21-55-01.jpg", "", "Ramsay", "Ramsay (I)" %}
+
+  {% image "./src/assets/images/blog/2013-06-12-m4m-ramsay-midwood/czahller-20130529-21-55-24.jpg", "", "Jeff & Daniel", "Jeff & Daniel (I)" %}
+
+  {% image "./src/assets/images/blog/2013-06-12-m4m-ramsay-midwood/czahller-20130529-21-56-04.jpg", "", "Scott", "Scott (I)" %}
+
+  {% image "featured", "", "Ramsay Midwood. He wears a trucker cap and plaid shirt. His right hand grasps a Shure SM58 microphone which is still mounted in its stand. His left hand is draped over an acoustic guitar. He is speaking to the audience.", "Ramsay (II)" %}
+
+  {% image "./src/assets/images/blog/2013-06-12-m4m-ramsay-midwood/czahller-20130529-21-56-35.jpg", "", "Ramsay’s hollow-body amplified acoustic guitar. The top is held in place by strips of blue duct tape.", "Ramsay’s Guitar (Spit, Baling Wire & Duct Tape)" %}
+
+  {% image "./src/assets/images/blog/2013-06-12-m4m-ramsay-midwood/czahller-20130529-21-57-05.jpg", "", "Bill", "Bill (II)" %}
+
+  {% image "./src/assets/images/blog/2013-06-12-m4m-ramsay-midwood/czahller-20130529-21-57-34.jpg", "", "Ramsay", "Ramsay (III)" %}
+
+  {% image "./src/assets/images/blog/2013-06-12-m4m-ramsay-midwood/czahller-20130529-21-59-26.jpg", "", "Jeff & Daniel", "Jeff & Daniel (II)" %}
+
+  {% image "./src/assets/images/blog/2013-06-12-m4m-ramsay-midwood/czahller-20130529-22-00-48.jpg", "", "Bill", "Bill (IV)" %}
+
+  {% image "./src/assets/images/blog/2013-06-12-m4m-ramsay-midwood/czahller-20130529-22-01-01.jpg", "", "Scott", "Scott (II)" %}
+
+  {% image "./src/assets/images/blog/2013-06-12-m4m-ramsay-midwood/czahller-20130529-22-02-20.jpg", "", "Ramsay looks at Scott, who is out of frame. Ramsey is mostly obscured by Bill’s plaid shirt, which dominates the right foreground.", "Ramsay (Looking at Scott)" %}
+
+  {% image "./src/assets/images/blog/2013-06-12-m4m-ramsay-midwood/czahller-20130529-22-05-34.jpg", "", "Audience", "Audience" %}
 </mpb-dialog-gallery>

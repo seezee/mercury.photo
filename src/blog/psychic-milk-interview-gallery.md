@@ -1,6 +1,6 @@
 ---
 layout: _main-blog.njk
-title: Psychic Milk at the HiLo Club
+title: Psychic Milk at the HiLo Club (Interview & Gallery)
 tags: 
   - blog
   - photography, digital
@@ -19,7 +19,7 @@ excerpt: We interviewed youthful neo-psychedelic rockers Psychic Milk after they
 
 <!-- markdownlint-enable MD025 --><mpb-dialog-img>
 
-{% image "featured", "img-constrained", "Leon goes full “scream-o” mode at the HiLo Club, singing/screaming while playing electric guitar. The image is black-and-white.", "Leon (V)", "eager" %}</mpb-dialog-img>
+{% image "featured", "", "Leon goes full “scream-o” mode at the HiLo Club, singing/screaming while playing electric guitar. The image is black-and-white.", "Leon (V)", "eager" %}</mpb-dialog-img>
 
 We interviewed neo-psychedelic rockers <span class="h-card p-org">Psychic Milk</span> after after they opened for <span class="h-card p-org">[Kill the Reflection](/blog/kill-reflection-interview-gallery)</span> at Oklahoma City’s HiLo Club. Guitar players <span class="h-card p-name">Leon Manson</span> and <span class="h-card p-name">Justin Hogan</span>, bassist <span class="h-card p-name">Brandon Wilson</span>, and drummer <span class="h-card p-name">Charlie Marsel</span> drove down to the Bureau after classes&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;all of the band members attend <abbr title="University of Central Oklahoma">OCU</abbr>’s Academy of Contemporary Music (ACM)&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;to answer a few questions.
 
@@ -27,7 +27,7 @@ Also in this interview we feature an exclusive first listen to <cite class="shor
 
 <mpb-dialog-img>
 
-{% image "./src/assets/images/blog/2012-11-12-psychic-milk/czahller-20121013-22-04-04.jpg", "img-constrained", "Leon plays guitar while thrashing his head side-to-side. The energy of his movement forces his mouth open in a grimace and causes his long hair to fly outward.", "Leon (I)" %}</mpb-dialog-img>
+{% image "./src/assets/images/blog/2012-11-12-psychic-milk/czahller-20121013-22-04-04.jpg", "", "Leon plays guitar while thrashing his head side-to-side. The energy of his movement forces his mouth open in a grimace and causes his long hair to fly outward.", "Leon (I)", "large" %}</mpb-dialog-img>
 
 <span class="spkr">Mercury Photo Bureau</span> Who started the band?
 
@@ -39,7 +39,7 @@ Also in this interview we feature an exclusive first listen to <cite class="shor
 
 <mpb-dialog-img>
 
-{% image "./src/assets/images/blog/2012-11-12-psychic-milk/czahller-20121013-22-20-53.jpg", "img-constrained", "Brandons screams/sings while playing bass. His eyes are closed. The image is black-and-white.", "Brandon (II)" %}</mpb-dialog-img>
+{% image "./src/assets/images/blog/2012-11-12-psychic-milk/czahller-20121013-22-20-53.jpg", "", "Brandons screams/sings while playing bass. His eyes are closed. The image is black-and-white.", "Brandon (II)", "large" %}</mpb-dialog-img>
 
 <span class="spkr">Brandon Wilson</span> I don’t think we could be in a band together, if we didn’t like each other.
 
@@ -63,7 +63,7 @@ Also in this interview we feature an exclusive first listen to <cite class="shor
 
 <mpb-dialog-img>
 
-{% image "./src/assets/images/blog/2012-11-12-psychic-milk/czahller-20121013-22-22-04.jpg", "img-constrained", "Charlie stares straight ahead while he plays the drums. His posture is very straight. The image is black-and-white.", "Charlie (IV)" %}</mpb-dialog-img>
+{% image "./src/assets/images/blog/2012-11-12-psychic-milk/czahller-20121013-22-22-04.jpg", "", "Charlie stares straight ahead while he plays the drums. His posture is very straight. The image is black-and-white.", "Charlie (IV)", "large" %}</mpb-dialog-img>
 
 <span class="spkr">Marsel</span> Every little kid sings. Every one of us was a singer before, but none of us was singing in a band&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;most of us played instruments. Psychic Milk meant learning how to sing again.
 
@@ -83,7 +83,7 @@ Also in this interview we feature an exclusive first listen to <cite class="shor
 
 <mpb-dialog-img>
 
-{% image "./src/assets/images/blog/2012-11-12-psychic-milk/czahller-20121013-22-02-01.jpg", "img-constrained", "Justin concentrates on his guitar. His chin is down and his eyes are closed. The image is black-and-white.", "Justin (I)" %}</mpb-dialog-img>
+{% image "./src/assets/images/blog/2012-11-12-psychic-milk/czahller-20121013-22-02-01.jpg", "", "Justin concentrates on his guitar. His chin is down and his eyes are closed. The image is black-and-white.", "Justin (I)", "large" %}</mpb-dialog-img>
 
 <span class="spkr">Hogan</span>  It’s fun, because there’re times when everybody’ll bring something, and it just transforms into something completely different than what I thought of, or what you guys might have thought of […]. You give off something, and it echoes around everybody, and it comes back and it’s this better thing [that] I wouldn’t have thought to do in a million years […].
 
@@ -123,7 +123,7 @@ Also in this interview we feature an exclusive first listen to <cite class="shor
 
 <mpb-dialog-img>
 
-{% image "./src/assets/images/blog/2012-11-12-psychic-milk/czahller-20121013-22-11-27.jpg", "img-constrained", "Leon bends down while he plays a solo. His hair drapes down nearly to the ground. The image is black-and-white.", "Leon (VI) (Thrashing)" %}</mpb-dialog-img>
+{% image "./src/assets/images/blog/2012-11-12-psychic-milk/czahller-20121013-22-11-27.jpg", "", "Leon bends down while he plays a solo. His hair drapes down nearly to the ground. The image is black-and-white.", "Leon (VI) (Thrashing)", "large" %}</mpb-dialog-img>
 
 <span class="spkr">Manson</span>  I really hate the term “psychedelic rock,” because it’s so played out, and it’s such a thing for bands from Oklahoma to be categorized with the <span class="h-card p-org">Flaming Lips</span>. When we talked to A&R guys [in the past], it’s like, <q>Oh, psychedelic rock, Oklahoma, Flaming Lips,</q> that jump happens so quickly, I hate to even throw that out there, but it’s kind of the only thing that works. I like to think of it as just rock & roll music […]. It’s like if <span class="h-card p-name">Brian Eno</span> and <span class="h-card p-name">David Bowie</span> had some weird, fucked up space-child, and then that kid grew up listening to nothing but the <span class="h-card p-org">Who</span> and <span class="h-card p-org">Dinosaur Jr</span>. And <span class="h-card p-org">Black Sabbath</span>.
 
@@ -139,7 +139,7 @@ Also in this interview we feature an exclusive first listen to <cite class="shor
 
 <mpb-dialog-img>
 
-{% image "./src/assets/images/blog/2012-11-12-psychic-milk/czahller-20121013-22-13-21.jpg", "img-constrained", "Justin screams/sings into the microphone. His eyes are closed. He wears a stingy-brim trilby hat. The image is black-and-white.", "Justin (IV)" %}</mpb-dialog-img>
+{% image "./src/assets/images/blog/2012-11-12-psychic-milk/czahller-20121013-22-13-21.jpg", "", "Justin screams/sings into the microphone. His eyes are closed. He wears a stingy-brim trilby hat. The image is black-and-white.", "Justin (IV)", "large" %}</mpb-dialog-img>
 
 <span class="spkr">Hogan</span> It’s different than with Goad, because then it’s *his* vision, it’s *his* direction, but with this, it’s every direction. It’s like a hadron collider.
 
@@ -165,7 +165,7 @@ Moving on, I’d like you to pick a song and redeem it. By that, I mean: Choose 
 
 <mpb-dialog-img>
 
-{% image "./src/assets/images/blog/2012-11-12-psychic-milk/czahller-20121013-22-05-44.jpg", "img-constrained", "Charlie holds both drumsticks, crossing one another, in his right hand above his head. He has just finished playing a complicated riff. The image is black-and-white.", "Charlie (III)" %}</mpb-dialog-img>
+{% image "./src/assets/images/blog/2012-11-12-psychic-milk/czahller-20121013-22-05-44.jpg", "", "Charlie holds both drumsticks, crossing one another, in his right hand above his head. He has just finished playing a complicated riff. The image is black-and-white.", "Charlie (III)", "large" %}</mpb-dialog-img>
 
 <span class="spkr">Marsel</span>  I grew up listening to a lot of 60s pop-rock; I really dig the accessibility of it. I understand a lot of modern pop, but it’s hard for me to relate to it. I’ve been drawn to, mainly, Scandinavian bands, being straight pop, but I can’t understand it, so it’s just sounds I can relate to, like another instrument.
 
@@ -181,7 +181,7 @@ Moving on, I’d like you to pick a song and redeem it. By that, I mean: Choose 
 
 <mpb-dialog-img>
 
-{% image "./src/assets/images/blog/2012-11-12-psychic-milk/czahller-20121013-22-06-08.jpg", "img-constrained", "Brandon concentrates on a bassline, eyes closed, mouth agape. The image is black-and-white.", "Brandon (I)" %}</mpb-dialog-img>
+{% image "./src/assets/images/blog/2012-11-12-psychic-milk/czahller-20121013-22-06-08.jpg", "", "Brandon concentrates on a bassline, eyes closed, mouth agape. The image is black-and-white.", "Brandon (I)", "large" %}</mpb-dialog-img>
 
 <span class="spkr">Wilson</span>  I approach lyrics writing from a couplet-based, rhyming stanzas, formalist viewpoint. I’ve got, or I had, this weird obsession with symmetry and engineering.
 
@@ -211,30 +211,55 @@ Moving on, I’d like you to pick a song and redeem it. By that, I mean: Choose 
 
 <mpb-dialog-gallery hint rel cols="8">
 
-  ![Justin Checks His Equipment](/assets/images/blog/2012-11-12-psychic-milk/czahller-20121013-21-13-01.jpg)
-  ![Justin & Stage Manager](/assets/images/blog/2012-11-12-psychic-milk/czahller-20121013-21-23-07.jpg)
-  ![Drum with Set List](/assets/images/blog/2012-11-12-psychic-milk/czahller-20121013-21-41-47.jpg)
-  ![Tuxedo Man (man wearing white shawl-collar dinner jacket and black tie)](/assets/images/blog/2012-11-12-psychic-milk/czahller-20121013-21-47-31.jpg)
-  ![Audience](/assets/images/blog/2012-11-12-psychic-milk/czahller-20121013-21-54-06.jpg)
-  ![Justin, Charlie, Brandon, & Leon](/assets/images/blog/2012-11-12-psychic-milk/czahller-20121013-21-58-08.jpg)
-  ![Charlie, Justin, Brandon, & Leon](/assets/images/blog/2012-11-12-psychic-milk/czahller-20121013-21-58-52.jpg)
-  ![Charlie (I)](/assets/images/blog/2012-11-12-psychic-milk/czahller-20121013-22-00-15.jpg)
-  ![Charlie Plays Keyboard](/assets/images/blog/2012-11-12-psychic-milk/czahller-20121013-22-01-47.jpg)
-  ![Justin (I)](/assets/images/blog/2012-11-12-psychic-milk/czahller-20121013-22-02-01.jpg)
-  ![Charlie (II)](/assets/images/blog/2012-11-12-psychic-milk/czahller-20121013-22-03-19.jpg)
-  ![Leon (I)](/assets/images/blog/2012-11-12-psychic-milk/czahller-20121013-22-04-04.jpg)
-  ![Charlie (III)](/assets/images/blog/2012-11-12-psychic-milk/czahller-20121013-22-05-44.jpg)
-  ![Brandon (I)](/assets/images/blog/2012-11-12-psychic-milk/czahller-20121013-22-06-08.jpg)
-  ![Leon (II)](/assets/images/blog/2012-11-12-psychic-milk/czahller-20121013-22-06-25.jpg)
-  ![Justin (II)](/assets/images/blog/2012-11-12-psychic-milk/czahller-20121013-22-06-51.jpg)
-  ![Leon (III)](/assets/images/blog/2012-11-12-psychic-milk/czahller-20121013-22-07-57.jpg)
-  ![Brandon Plays Keyboard](/assets/images/blog/2012-11-12-psychic-milk/czahller-20121013-22-08-21.jpg)
-  ![Leon (IV)](/assets/images/blog/2012-11-12-psychic-milk/czahller-20121013-22-09-49.jpg)
-  ![Justin (III) (Smiling)](/assets/images/blog/2012-11-12-psychic-milk/czahller-20121013-22-10-12.jpg)
-  ![Leon (V)](/assets/images/blog/2012-11-12-psychic-milk/czahller-20121013-22-11-14.jpg)
-  ![Leon (VI) (Thrashing)](/assets/images/blog/2012-11-12-psychic-milk/czahller-20121013-22-11-27.jpg)
-  ![Leon (VII)](/assets/images/blog/2012-11-12-psychic-milk/czahller-20121013-22-12-32.jpg)
-  ![Justin (IV)](/assets/images/blog/2012-11-12-psychic-milk/czahller-20121013-22-13-21.jpg)
-  ![Brandon (II)](/assets/images/blog/2012-11-12-psychic-milk/czahller-20121013-22-20-53.jpg)
-  ![Charlie (IV)](/assets/images/blog/2012-11-12-psychic-milk/czahller-20121013-22-22-04.jpg)
+  {% image "./src/assets/images/blog/2012-11-12-psychic-milk/czahller-20121013-21-13-01.jpg", "", "Justin Checks His Equipment", "Justin Checks His Equipment" %}
+
+  {% image "./src/assets/images/blog/2012-11-12-psychic-milk/czahller-20121013-21-23-07.jpg", "", "Justin & Stage Manager", "Justin & Stage Manager" %}
+
+  {% image "./src/assets/images/blog/2012-11-12-psychic-milk/czahller-20121013-21-41-47.jpg", "", "Set list taped to snare drum head", "Drum with Set List" %}
+
+  {% image "./src/assets/images/blog/2012-11-12-psychic-milk/czahller-20121013-21-47-31.jpg", "", "Man in audience wearing white shawl-collar dinner jacket and black tie", "Tuxedo Man" %}
+
+  {% image "./src/assets/images/blog/2012-11-12-psychic-milk/czahller-20121013-21-54-06.jpg", "", "Audience", "Audience" %}
+
+  {% image "./src/assets/images/blog/2012-11-12-psychic-milk/czahller-20121013-21-58-08.jpg", "", "Justin, Charlie, Brandon, & Leon", "Justin, Charlie, Brandon, & Leon" %}
+
+  {% image "./src/assets/images/blog/2012-11-12-psychic-milk/czahller-20121013-21-58-52.jpg", "", "Charlie, Justin, Brandon, & Leon", "Charlie, Justin, Brandon, & Leon" %}
+
+  {% image "./src/assets/images/blog/2012-11-12-psychic-milk/czahller-20121013-22-00-15.jpg", "", "Charlie", "Charlie (I)" %}
+
+  {% image "./src/assets/images/blog/2012-11-12-psychic-milk/czahller-20121013-22-01-47.jpg", "", "Charlie plays keyboard", "Charlie Plays Keyboard" %}
+
+  {% image "./src/assets/images/blog/2012-11-12-psychic-milk/czahller-20121013-22-02-01.jpg", "", "Justin", "Justin (I)" %}
+
+  {% image "./src/assets/images/blog/2012-11-12-psychic-milk/czahller-20121013-22-03-19.jpg", "", "Charlie", "Charlie (II)" %}
+
+  {% image "./src/assets/images/blog/2012-11-12-psychic-milk/czahller-20121013-22-04-04.jpg", "", "Leon, a small, pale, feral looking young man with wild long hair and wilder eyes. He the scruffy facial hair of an adolescent.", "Leon (I)" %}
+
+  {% image "./src/assets/images/blog/2012-11-12-psychic-milk/czahller-20121013-22-05-44.jpg", "", "Charlie", "Charlie (III)" %}
+
+  {% image "./src/assets/images/blog/2012-11-12-psychic-milk/czahller-20121013-22-06-08.jpg", "", "Brandon", "Brandon (I)" %}
+
+  {% image "./src/assets/images/blog/2012-11-12-psychic-milk/czahller-20121013-22-06-25.jpg", "", "Leon", "Leon (II)" %}
+
+  {% image "./src/assets/images/blog/2012-11-12-psychic-milk/czahller-20121013-22-06-51.jpg", "", "Justin", "Justin (II)" %}
+
+  {% image "./src/assets/images/blog/2012-11-12-psychic-milk/czahller-20121013-22-07-57.jpg", "", "Leon", "Leon (III)" %}
+
+  {% image "./src/assets/images/blog/2012-11-12-psychic-milk/czahller-20121013-22-08-21.jpg", "", "Brandon plays keyboard", "Brandon Plays Keyboard" %}
+
+  {% image "./src/assets/images/blog/2012-11-12-psychic-milk/czahller-20121013-22-09-49.jpg", "", "Leon", "Leon (IV)" %}
+
+  {% image "./src/assets/images/blog/2012-11-12-psychic-milk/czahller-20121013-22-10-12.jpg", "", "Justin, smiling", "Justin (III) (Smiling)" %}
+
+  {% image "featured", "", "Leon goes full “scream-o” mode at the HiLo Club, singing/screaming while playing electric guitar. The image is black-and-white.", "Leon (V)" %}
+
+  {% image "./src/assets/images/blog/2012-11-12-psychic-milk/czahller-20121013-22-11-27.jpg", "", "Leon leans over while frenetically playing guitar. His hair falls down over the guitar.", "Leon (VI) (Thrashing)" %}
+
+  {% image "./src/assets/images/blog/2012-11-12-psychic-milk/czahller-20121013-22-12-32.jpg", "", "Leon", "Leon (VII)" %}
+
+  {% image "./src/assets/images/blog/2012-11-12-psychic-milk/czahller-20121013-22-13-21.jpg", "", "Justin", "Justin (IV)" %}
+
+  {% image "./src/assets/images/blog/2012-11-12-psychic-milk/czahller-20121013-22-20-53.jpg", "", "Brandon", "Brandon (II)" %}
+
+  {% image "./src/assets/images/blog/2012-11-12-psychic-milk/czahller-20121013-22-22-04.jpg", "", "Charlie", "Charlie (IV)" %}
 </mpb-dialog-gallery>

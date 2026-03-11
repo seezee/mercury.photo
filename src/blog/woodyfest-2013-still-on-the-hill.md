@@ -28,7 +28,7 @@ Arkansas duo brings Ozarks energy to Okemah
   </stack-l>
 </hgroup><mpb-dialog-img>
 
-{% image "featured", "img-constrained", "Donna — Still on the Hill at the Brick Café, Woody Guthrie Folk Festival 16", "Donna&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;Still on the Hill at the Brick Café, Woody Guthrie Folk Festival 16", "eager" %}</mpb-dialog-img>
+{% image "featured", "", "Donna Mulhollan", "Donna&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;Still on the Hill at the Brick Café, Woody Guthrie Folk Festival 16", "eager" %}</mpb-dialog-img>
 
 Bringing their “low-tech” PowerPoint to the Brick Street Café in <time datetime="2013-0712T15:00-5:00">2013</time>, musical duo <span class="h-card p-org">Still on the Hill</span> had the audience in stitches. Quilting stitches, that is; the PowerPoint slides consisted of text and images on handmade quilts, displayed as storytelling aids.
 
@@ -54,22 +54,39 @@ The duo have created numerous Ozark-centric documentary projects, including <tim
 
 <mpb-dialog-gallery hint rel cols="8">
 
-  ![Still on the Hill (I) — at the Brick Café, Woody Guthrie Folk Festival 16](/assets/images/blog/2020-03-31-woodyfest-still-hill/czahller-20130712-14-57-49.jpg)
-  ![Still on the Hill (II) — at the Brick Café, Woody Guthrie Folk Festival 16](/assets/images/blog/2020-03-31-woodyfest-still-hill/czahller-20130712-15-00-31.jpg)
-  ![Still on the Hill (III) — at the Brick Café, Woody Guthrie Folk Festival 16](/assets/images/blog/2020-03-31-woodyfest-still-hill/czahller-20130712-15-01-49.jpg)
-  ![Still on the Hill (IV) — at the Brick Café, Woody Guthrie Folk Festival 16](/assets/images/blog/2020-03-31-woodyfest-still-hill/czahller-20130712-15-02-16.jpg)
-  ![Kelly (I) — Still on the Hill at the Brick Café, Woody Guthrie Folk Festival 16](/assets/images/blog/2020-03-31-woodyfest-still-hill/czahller-20130712-15-04-05.jpg)
-  ![Still on the Hill (V) — at the Brick Café, Woody Guthrie Folk Festival 16](/assets/images/blog/2020-03-31-woodyfest-still-hill/czahller-20130712-15-04-28.jpg)
-  ![Still on the Hill (VI) — at the Brick Café, Woody Guthrie Folk Festival 16](/assets/images/blog/2020-03-31-woodyfest-still-hill/czahller-20130712-15-05-05.jpg)
-  ![Still on the Hill (VII) — at the Brick Café, Woody Guthrie Folk Festival 16](/assets/images/blog/2020-03-31-woodyfest-still-hill/czahller-20130712-15-05-15.jpg)
-  ![Still on the Hill (VIII) — at the Brick Café, Woody Guthrie Folk Festival 16](/assets/images/blog/2020-03-31-woodyfest-still-hill/czahller-20130712-15-06-05.jpg)
-  ![Donna — Still on the Hill at the Brick Café, Woody Guthrie Folk Festival 16](/assets/images/blog/2020-03-31-woodyfest-still-hill/czahller-20130712-15-07-26.jpg)
-  ![Still on the Hill (IX) — at the Brick Café, Woody Guthrie Folk Festival 16](/assets/images/blog/2020-03-31-woodyfest-still-hill/czahller-20130712-15-08-48.jpg)
-  ![Kelly (II) — at the Brick Café, Woody Guthrie Folk Festival 16](/assets/images/blog/2020-03-31-woodyfest-still-hill/czahller-20130712-15-13-10.jpg)
-  ![Still on the Hill (X) — at the Brick Café, Woody Guthrie Folk Festival 16](/assets/images/blog/2020-03-31-woodyfest-still-hill/czahller-20130712-15-16-25.jpg)
-  ![Homemade Instruments (I) — Still on the Hill at the Brick Café, Woody Guthrie Folk Festival 16](/assets/images/blog/2020-03-31-woodyfest-still-hill/czahller-20130712-15-17-09.jpg)
-  ![Homemade Instruments (II) — Still on the Hill at the Brick Café, Woody Guthrie Folk Festival 16](/assets/images/blog/2020-03-31-woodyfest-still-hill/czahller-20130712-15-17-22.jpg)
-  ![Homemade Instruments (III) — Still on the Hill at the Brick Café, Woody Guthrie Folk Festival 16](/assets/images/blog/2020-03-31-woodyfest-still-hill/czahller-20130712-15-18-58.jpg)
-  ![Homemade Instruments (IV) — Still on the Hill at the Brick Café, Woody Guthrie Folk Festival 16](/assets/images/blog/2020-03-31-woodyfest-still-hill/czahller-20130712-15-21-18.jpg)
-  ![Homemade Instruments (V) — Still on the Hill at the Brick Café, Woody Guthrie Folk Festival 16](/assets/images/blog/2020-03-31-woodyfest-still-hill/czahller-20130712-15-21-44.jpg)
+  {% image "./src/assets/images/blog/2020-03-31-woodyfest-still-hill/czahller-20130712-14-57-49.jpg", "", "Still on the Hill", "Still on the Hill (I)" %}
+
+  {% image "./src/assets/images/blog/2020-03-31-woodyfest-still-hill/czahller-20130712-15-00-31.jpg", "", "Still on the Hill", "Still on the Hill (II)" %}
+
+  {% image "./src/assets/images/blog/2020-03-31-woodyfest-still-hill/czahller-20130712-15-01-49.jpg", "", "Still on the Hill", "Still on the Hill (III)" %}
+
+  {% image "./src/assets/images/blog/2020-03-31-woodyfest-still-hill/czahller-20130712-15-02-16.jpg", "", "Still on the Hill", "Still on the Hill (IV)" %}
+
+  {% image "./src/assets/images/blog/2020-03-31-woodyfest-still-hill/czahller-20130712-15-04-05.jpg", "", "Kelly", "Kelly (I)" %}
+
+  {% image "./src/assets/images/blog/2020-03-31-woodyfest-still-hill/czahller-20130712-15-04-28.jpg", "", "Still on the Hill", "Still on the Hill (V)" %}
+
+  {% image "./src/assets/images/blog/2020-03-31-woodyfest-still-hill/czahller-20130712-15-05-05.jpg", "", "Still on the Hill", "Still on the Hill (VI)" %}
+
+  {% image "./src/assets/images/blog/2020-03-31-woodyfest-still-hill/czahller-20130712-15-05-15.jpg", "", "Still on the Hill", "Still on the Hill (VII)" %}
+
+  {% image "./src/assets/images/blog/2020-03-31-woodyfest-still-hill/czahller-20130712-15-06-05.jpg", "", "Still on the Hill", "Still on the Hill (VIII)" %}
+
+  {% image "featured", "", "Donna Mulhollan", "Donna" %}
+
+  {% image "./src/assets/images/blog/2020-03-31-woodyfest-still-hill/czahller-20130712-15-08-48.jpg", "", "Still on the Hill", "Still on the Hill (IX)" %}
+
+  {% image "./src/assets/images/blog/2020-03-31-woodyfest-still-hill/czahller-20130712-15-13-10.jpg", "", "Kelly Mulhollan", "Kelly (II)" %}
+
+  {% image "./src/assets/images/blog/2020-03-31-woodyfest-still-hill/czahller-20130712-15-16-25.jpg", "", "Still on the Hill", "Still on the Hill (X)" %}
+
+  {% image "./src/assets/images/blog/2020-03-31-woodyfest-still-hill/czahller-20130712-15-17-09.jpg", "", "Donna with her fiddle and Kelly with a large, homemade instrument resembling a three-lobed guitar", "Homemade Instruments (I)" %}
+
+  {% image "./src/assets/images/blog/2020-03-31-woodyfest-still-hill/czahller-20130712-15-17-22.jpg", "", "Donna with her fiddle and Kelly with a large, homemade instrument resembling a three-lobed guitar", "Homemade Instruments (II)" %}
+
+  {% image "./src/assets/images/blog/2020-03-31-woodyfest-still-hill/czahller-20130712-15-18-58.jpg", "", "Donna with her fiddle and Kelly with a large, homemade instrument resembling a three-lobed guitar", "Homemade Instruments (III)" %}
+
+  {% image "./src/assets/images/blog/2020-03-31-woodyfest-still-hill/czahller-20130712-15-21-18.jpg", "", "Donna with her fiddle and Kelly with a large, homemade instrument resembling a three-lobed guitar", "Homemade Instruments (IV)" %}
+
+  {% image "./src/assets/images/blog/2020-03-31-woodyfest-still-hill/czahller-20130712-15-21-44.jpg", "", "Donna with her fiddle and Kelly with a large, homemade instrument resembling a three-lobed guitar", "Homemade Instruments (V)" %}
 </mpb-dialog-gallery>

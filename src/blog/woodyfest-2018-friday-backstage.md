@@ -33,7 +33,7 @@ Playing paparazzo at the Pastures of Plenty
   </stack-l>
 </hgroup><mpb-dialog-img>
 
-{% image "featured", "img-constrained", "Nellie Marie Clay, John M. Cooper, & Carter Sampson — Backstage at the 21st Annual Woody Guthrie Festival, 2018", "Nellie Marie Clay, John M. Cooper, & Carter Sampson&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;Backstage at the 21st Annual Woody Guthrie Festival, 2018", "eager" %}</mpb-dialog-img>
+{% image "featured", "", "Nellie Marie Clay, John M. Cooper, & Carter Sampson backstage at the Pastures of Plenty", "Nellie Marie Clay, John M. Cooper, & Carter Sampson", "eager" %}</mpb-dialog-img>
 
 We took the same medium format gear to the Pastures of Plenty backstage on Woodyfest 2019 <time datetime="20180714">Saturday</time> as we had on <time datetime="2018-07-12T18:16:50-5:00">[Thursday](/blog/woodyfest-2018-thursday-backstage/)</time> and <time datetime="2018-07-14T19:08:35-5:00">[Saturday](/blog/woodyfest-2018-saturday-backstage/)</time>. We’ve [already written](/blog/woodyfest-2018-thursday-backstage/) about the facilities improvements to the outdoor venue, so [let’s get straight to the pictures](#gallery)!
 
@@ -49,14 +49,21 @@ Here are <time datetime="2018-07-13T18:46:57-5:00">the second night</time>’s p
 
 <mpb-dialog-gallery hint rel cols="8">
 
-  ![Wendy Thomas-Pomeroy, Skip Pomeroy, Ken Pomeroy, & Josh Pōlaschek — Backstage at the 21st Annual Woody Guthrie Festival, 2018](/assets/images/blog/2018-12-28-woodyfest-backstage-friday/czahller-20180713-18-46-57.jpg)
-  ![Bob Livingston, Rachel Cline, Annie Guthrie, Jacklyn Guthrie, & Jeannie Burns — Backstage at the 21st Annual Woody Guthrie Festival, 2018](/assets/images/blog/2018-12-28-woodyfest-backstage-friday/czahller-20180713-18-57-38.jpg)
-  ![Rachel Cline, Annie Guthrie, Jacklyn Guthrie, & Shivadas “Moe” Guthrie — Backstage at the 21st Annual Woody Guthrie Festival, 2018](/assets/images/blog/2018-12-28-woodyfest-backstage-friday/czahller-20180713-19-45-17.jpg)
-  ![Nellie Marie Clay, Butch Hancock, Buffalo Rogers, Angelica Baca, Kyle Reid, Sarah Clise Sampson, Chris Reed, Luke Mullinex, Amilia K. Spicer, & Becky Gragg — Backstage at the 21st Annual Woody Guthrie Festival, 2018](/assets/images/blog/2018-12-28-woodyfest-backstage-friday/czahller-20180713-20-40-52.jpg)
-  ![Nellie Marie Clay, John M. Cooper, & Carter Sampson — Backstage at the 21st Annual Woody Guthrie Festival, 2018](/assets/images/blog/2018-12-28-woodyfest-backstage-friday/czahller-20180713-20-50-02.jpg)
-  ![T.Z. Wright, Jeannie Burns, & Nancy Apple — Backstage at the 21st Annual Woody Guthrie Festival, 2018](/assets/images/blog/2018-12-28-woodyfest-backstage-friday/czahller-20180713-21-01-14.jpg)
-  ![Roberto Morales, Angelica Baca, Jason Scott, Nellie Marie Clay, Guy V. Zähller, Butch Hancock, & Jeff Hill — Backstage at the 21st Annual Woody Guthrie Festival, 2018](/assets/images/blog/2018-12-28-woodyfest-backstage-friday/czahller-20180713-21-12-56.jpg)
-  ![Joel Rafael’s Harmonica & Set List — Backstage at the 21st Annual Woody Guthrie Festival, 2018](/assets/images/blog/2018-12-28-woodyfest-backstage-friday/czahller-20180713-23-00-32.jpg)
+  {% image "./src/assets/images/blog/2018-12-28-woodyfest-backstage-friday/czahller-20180713-18-46-57.jpg", "", "Wendy Thomas-Pomeroy, Skip Pomeroy, Ken Pomeroy, & Josh Pōlaschek backstage at the Pastures of Plenty", "Wendy Thomas-Pomeroy, Skip Pomeroy, Ken Pomeroy, & Josh Pōlaschek" %}
+
+  {% image "./src/assets/images/blog/2018-12-28-woodyfest-backstage-friday/czahller-20180713-18-57-38.jpg", "", "Bob Livingston, Rachel Cline, Annie Guthrie, Jacklyn Guthrie, & Jeannie Burns backstage at the Pastures of Plenty", "Bob Livingston, Rachel Cline, Annie Guthrie, Jacklyn Guthrie, & Jeannie Burns" %}
+
+  {% image "./src/assets/images/blog/2018-12-28-woodyfest-backstage-friday/czahller-20180713-19-45-17.jpg", "", "Rachel Cline, Annie Guthrie, Jacklyn Guthrie, & Shivadas “Moe” Guthrie backstage at the Pastures of Plenty", "Rachel Cline, Annie Guthrie, Jacklyn Guthrie, & Shivadas “Moe” Guthrie" %}
+
+  {% image "./src/assets/images/blog/2018-12-28-woodyfest-backstage-friday/czahller-20180713-20-40-52.jpg", "", "Nellie Marie Clay, Butch Hancock, Buffalo Rogers, Angelica Baca, Kyle Reid, Sarah Clise Sampson, Chris Reed, Luke Mullinex, Amilia K. Spicer, & Becky Gragg backstage at the Pastures of Plenty", "Nellie Marie Clay, Butch Hancock, Buffalo Rogers, Angelica Baca, Kyle Reid, Sarah Clise Sampson, Chris Reed, Luke Mullinex, Amilia K. Spicer, & Becky Gragg" %}
+
+  {% image "featured", "", "Nellie Marie Clay, John M. Cooper, & Carter Sampson backstage at the Pastures of Plenty", "Nellie Marie Clay, John M. Cooper, & Carter Sampson" %}
+
+  {% image "./src/assets/images/blog/2018-12-28-woodyfest-backstage-friday/czahller-20180713-21-01-14.jpg", "", "T.Z. Wright, Jeannie Burns, & Nancy Apple backstage at the Pastures of Plenty", "T.Z. Wright, Jeannie Burns, & Nancy Apple" %}
+
+  {% image "./src/assets/images/blog/2018-12-28-woodyfest-backstage-friday/czahller-20180713-21-12-56.jpg", "", "Roberto Morales, Angelica Baca, Jason Scott, Nellie Marie Clay, Guy V. Zähller, Butch Hancock, & Jeff Hill backstage at the Pastures of Plenty", "Roberto Morales, Angelica Baca, Jason Scott, Nellie Marie Clay, Guy V. Zähller, Butch Hancock, & Jeff Hill" %}
+
+  {% image "./src/assets/images/blog/2018-12-28-woodyfest-backstage-friday/czahller-20180713-23-00-32.jpg", "", "Joel Rafael’s harmonica & set list", "Joel Rafael’s Harmonica & Set List" %}
 </mpb-dialog-gallery>
 
 ## Technical

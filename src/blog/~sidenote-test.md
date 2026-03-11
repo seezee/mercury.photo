@@ -12,7 +12,7 @@ permalink: /blog/sidenote-test/
 
 <!-- markdownlint-enable MD025 --><mpb-dialog-img>
 
-{% image "featured", "img-constrained", "A dog", "Foobar", "eager" %}</mpb-dialog-img>
+{% image "featured", "", "A dog", "Foobar", "eager" %}</mpb-dialog-img>
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis tortor odio, molestie quis pellentesque eleifend, dapibus in nunc. Quisque et augue nunc. Phasellus ut ligula vitae turpis iaculis faucibus. Nam fermentum maximus ligula, quis scelerisque magna tempus quis. Nam aliquet in nulla id ultricies. Cras facilisis nisl vel lacus posuere, in tempus enim fermentum. Fusce sem ipsum,<a href="#mn1" class="test" id="mnref1"><span class="sr-only"> [See note]</span></a> consectetur vel scelerisque nec, egestas vitae ipsum.[^1]
 

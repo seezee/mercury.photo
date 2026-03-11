@@ -42,6 +42,7 @@ mpb-dialog-gallery {
     /* Needed to position button */
     .modal-wrapper {
       overflow: auto;
+      padding-inline: var(--s-5);
     }
 
     .modal-close {
@@ -55,7 +56,12 @@ mpb-dialog-gallery {
       padding: 0;
       border: unset;
       border-radius: 50%;
-      background-color: var(--mpb-color-textReverse);
+      background-color: var(--mpb-color-text-reverse);
+
+      &:focus {
+        outline: var(--mpb-alert-border-width) solid var(--mpb-color-accent);
+        outline-offset: var(--s-5);
+      }
     }
 
     @media screen and (prefers-reduced-motion: no-preference) {
@@ -64,8 +70,8 @@ mpb-dialog-gallery {
 
     pointer-events: none;
     margin: auto;
-    background-color: var(--mpb-color-figureBG);
-    border: solid var(--border-thin) var(--mpb-color-textPrimary);
+    background-color: var(--mpb-color-figure-bg);
+    border: solid var(--border-thin) var(--mpb-color-text-primary);
     border-radius: var(--mpb-radius-2x);
 
     /* Don't use logical property on image */
@@ -134,6 +140,7 @@ mpb-dialog-gallery {
       }
 
       &#current {
+        inline-size: 100%;
         border: var(--s1) solid var(--mpb-photo-border-color);
       }
     }
@@ -152,6 +159,20 @@ mpb-dialog-gallery {
       display: grid;
       grid-template-columns: repeat(6, 1fr);
       grid-gap: var(--s-2);
+      padding-inline: var(--mpb-masonry-gap);
+
+      figure {
+        padding: 0;
+
+        picture {
+          margin-block: 0;
+        }
+      }
+
+
+      & figcaption {
+        display: none;
+      }
 
       &.gallery--thumbs_3 {
         grid-template-columns: repeat(3, 1fr);
@@ -227,7 +248,7 @@ mpb-dialog-gallery {
   }
 
   .hint-wrapper {
-    background-color: var(--mpb-color-textReverse);
+    background-color: var(--mpb-color-text-reverse);
 
     details {
       font-weight: var(--bold, 700);

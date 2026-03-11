@@ -22,7 +22,7 @@ excerpt: Peyton Bighorse and Kelli Mayo joined us for an interview during a thre
 
 <!-- markdownlint-enable MD025 --><mpb-dialog-img>
 
-{% image "featured", "img-constrained", "Skating Polly at Kamp’s 1310 Lounge. Kelli, a thirteen-year-old girl with a short, assymetric haircut and crocheted tassel beanie hat, stands stage right with her modified bass. Her stepsister Peyton, a seventeen-year-old girl with long dark hair, sits behind a drum kit stage left. The scene is lit with red & green lights. It is slighly hazy from the fog machine.", "Skating Polly", "eager" %}</mpb-dialog-img>
+{% image "featured", "", "Skating Polly at Kamp’s 1310 Lounge. Kelli, a thirteen-year-old girl with a short, asymmetric haircut and crocheted tassel beanie hat, stands stage right with her modified bass. Her stepsister Peyton, a seventeen-year-old girl with long dark hair, sits behind a drum kit stage left. The scene is lit with red & green lights. It is slighly hazy from the fog machine.", "Skating Polly", "eager" %}</mpb-dialog-img>
 
 <span class="h-card p-org">Skating Polly</span> have been busy. The youthful stepsister act performed seven shows at this year’s SXSW festival, knocked out audiences at the sixth annual <span class="h-card p-org">Norman Music Festival</span>, released their second full-length album, <cite>Lost Wonderfuls</cite> (produced by L.A. punk rock legend <span class="h-card p-name">Exene Cervenka</span> and mixed by <span class="h-card p-org">Flaming Lips</span> drummer <span class="h-card p-name">Kliph Scurlock</span>), and just finished their second tour in six months, opening for The Flaming Lips in Indianapolis. All while keeping up good grades in school and continually writing material for their next release. Did we mention that they’ve also released a steady stream of music videos in support of the new album?
 
@@ -34,7 +34,7 @@ excerpt: Peyton Bighorse and Kelli Mayo joined us for an interview during a thre
 
 <mpb-dialog-img>
 
-{% image "./src/assets/images/blog/2013-05-23-skating-polly-interview/czahller-20121201-20-55-57.jpg", "img-constrained", "Peyton sits, smiling and singing, behind the drum kit.", "Peyton (I)" %}</mpb-dialog-img>
+{% image "./src/assets/images/blog/2013-05-23-skating-polly-interview/czahller-20121201-20-55-57.jpg", "", "Peyton sits, smiling and singing, behind the drum kit.", "Peyton (I)", "large" %}</mpb-dialog-img>
 
 <span class="spkr">Peyton Bighorse</span> Yeah, we played with the [Flaming Lips](https://geo.itunes.apple.com/us/artist/the-flaming-lips/id156604?uo=4&at=10ldhk){target=_blank rel="external noopener"} in Indianapolis. It was a lot of fun […]; Kliph [Scurlock], actually, before we played, got on stage and introduced us to the crowd. It was really nerve-wracking; there were like, 2600 people there. So, it was the biggest show we ever played.
 
@@ -60,7 +60,7 @@ We met <span class="h-card p-name"><span class="p-given-name">Wayne</span> [<spa
 
 <mpb-dialog-img>
 
-{% image "./src/assets/images/blog/2013-05-23-skating-polly-interview/czahller-20121201-21-02-53.jpg", "img-constrained", "Kelli stands behind a keyboard, one hand holding a microphone while she gestures with the other hand. She is smiling.", "Kelli (III)" %}</mpb-dialog-img>
+{% image "./src/assets/images/blog/2013-05-23-skating-polly-interview/czahller-20121201-21-02-53.jpg", "", "Kelli stands behind a keyboard, one hand holding a microphone while she gestures with the other hand. She is smiling.", "Kelli (III)", "large" %}</mpb-dialog-img>
 
 <span class="spkr">Mayo</span> Whenever we first started our band, I couldn’t&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;I was, what? Nine? I think? And I would whine about how my fingers hurt from holding down the guitar strings […], so my dad made me this instrument called a basitar […], and the <span class="h-card p-org">Presidents of the United States of America</span> made one, and my dad, like, heard about it. And what it is, is like, you can hold down any two bass strings anywhere on it, and it creates a chord, and so that’s why I play it, because it was pretty simple, and I could come up with&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;well, I would try to come up with, you know, little simple melodies off of it.
 
@@ -88,7 +88,7 @@ On our first record, most of the songs would have only two or four chords in the
 
 <mpb-dialog-img>
 
-{% image "./src/assets/images/blog/2013-05-23-skating-polly-interview/czahller-20121201-22-20-21.jpg", "img-constrained", "Peyton plays guitar and sings", "Peyton (XIII)" %}</mpb-dialog-img>
+{% image "./src/assets/images/blog/2013-05-23-skating-polly-interview/czahller-20121201-22-20-21.jpg", "", "Peyton plays guitar and sings", "Peyton (XIII)", "large" %}</mpb-dialog-img>
 
 <span class="spkr">MPB</span> Are you workin’ on a third album?
 
@@ -106,7 +106,7 @@ On our first record, most of the songs would have only two or four chords in the
 
 <mpb-dialog-img>
 
-{% image "./src/assets/images/blog/2013-05-23-skating-polly-interview/czahller-20121201-22-08-25.jpg", "img-constrained", "Kelli plays the basitar and sings. The scene is lit hot-pink, with a slight haze from the fog machine.", "Kelli (XIII)" %}</mpb-dialog-img>
+{% image "./src/assets/images/blog/2013-05-23-skating-polly-interview/czahller-20121201-22-08-25.jpg", "", "Kelli plays the basitar and sings. The scene is lit hot-pink, with a slight haze from the fog machine.", "Kelli (XIII)", "large" %}</mpb-dialog-img>
 
 <span class="spkr">Mayo</span> We met Exene … <time datetime="2008">2008</time>? I still had red hair, so yeah. <time datetime="2008">2008</time>, we met her at one of her solo shows at the <span class="h-card p-org">Conservatory</span>. And, like, it was really just a dream come true for us, because we really really *really* loved <span class="h-card p-org">[X](https://music.apple.com/us/artist/x/1295432230?uo=4&at=10ldhk){target=_blank rel="external noopener"}</span>, and we really liked her solo work, and it was just, like, *crazy* meeting her, and the second we *did* meet her, we were just, like, you know, asking her all these *questions*, and just telling her, like, just how much we loved her music, and how much we loved X, and just how *awesome* she was, and maybe a little bit about our band.
 
@@ -135,7 +135,7 @@ Skating Polly opened for the [Chloës](/blog/chloes-interview-gallery-1/) at Kam
 
 <mpb-dialog-img>
 
-{% image "./src/assets/images/blog/2013-05-23-skating-polly-interview/czahller-20121202-15-54-53.jpg", "img-constrained", "Skating Polly play list from their December 2012 show at Kamp’s", "Play List" %}</mpb-dialog-img>
+{% image "./src/assets/images/blog/2013-05-23-skating-polly-interview/czahller-20121202-15-54-53.jpg", "", "Skating Polly play list from their December 2012 show at Kamp’s", "Play List", "large" %}</mpb-dialog-img>
 
 The lighting at Kamp’s wasn’t always friendly for color photography, so we present two galleries: black + white, and color.
 
@@ -143,55 +143,98 @@ The lighting at Kamp’s wasn’t always friendly for color photography, so we p
 
 <mpb-dialog-gallery hint rel cols="8">
 
-  ![Peyton (IV)](/assets/images/blog/2013-05-23-skating-polly-interview/czahller-20121201-22-01-15.jpg)
-  ![Kelli (VII)](/assets/images/blog/2013-05-23-skating-polly-interview/czahller-20121201-22-02-12.jpg)
-  ![Kelli (XII)](/assets/images/blog/2013-05-23-skating-polly-interview/czahller-20121201-22-08-11.jpg)
-  ![Kelli (XVII)](/assets/images/blog/2013-05-23-skating-polly-interview/czahller-20121201-22-16-36.jpg)
-  ![Peyton (X)](/assets/images/blog/2013-05-23-skating-polly-interview/czahller-20121201-22-17-25.jpg)
-  ![Peyton (XI)](/assets/images/blog/2013-05-23-skating-polly-interview/czahller-20121201-22-17-53.jpg)
-  ![Peyton (XII)](/assets/images/blog/2013-05-23-skating-polly-interview/czahller-20121201-22-18-55.jpg)
-  ![Peyton (XV)](/assets/images/blog/2013-05-23-skating-polly-interview/czahller-20121201-22-26-45.jpg)
-  ![Audience](/assets/images/blog/2013-05-23-skating-polly-interview/czahller-20121201-22-42-01.jpg)
+  {% image "./src/assets/images/blog/2013-05-23-skating-polly-interview/czahller-20121201-22-01-15.jpg", "", "Peyton", "Peyton (IV)" %}
+
+  {% image "./src/assets/images/blog/2013-05-23-skating-polly-interview/czahller-20121201-22-02-12.jpg", "", "Kelli", "Kelli (VII)" %}
+
+  {% image "./src/assets/images/blog/2013-05-23-skating-polly-interview/czahller-20121201-22-08-11.jpg", "", "Kelli", "Kelli (XII)" %}
+
+  {% image "./src/assets/images/blog/2013-05-23-skating-polly-interview/czahller-20121201-22-16-36.jpg", "", "Kelli", "Kelli (XVII)" %}
+
+  {% image "./src/assets/images/blog/2013-05-23-skating-polly-interview/czahller-20121201-22-17-25.jpg", "", "Peyton", "Peyton (X)" %}
+
+  {% image "./src/assets/images/blog/2013-05-23-skating-polly-interview/czahller-20121201-22-17-53.jpg", "", "Peyton", "Peyton (XI)" %}
+
+  {% image "./src/assets/images/blog/2013-05-23-skating-polly-interview/czahller-20121201-22-18-55.jpg", "", "Peyton", "Peyton (XII)" %}
+
+  {% image "./src/assets/images/blog/2013-05-23-skating-polly-interview/czahller-20121201-22-26-45.jpg", "", "Peyton", "Peyton (XV)" %}
+
+  {% image "./src/assets/images/blog/2013-05-23-skating-polly-interview/czahller-20121201-22-42-01.jpg", "", "Audience", "Audience" %}
 </mpb-dialog-gallery>
 
 ### Gallery: Skating Polly at Kamp’s (Color)
 
 <mpb-dialog-gallery hint rel cols="8">
   
-  ![Kelli (I)](/assets/images/blog/2013-05-23-skating-polly-interview/czahller-20121201-20-54-39.jpg)
-  ![Kelli (II)](/assets/images/blog/2013-05-23-skating-polly-interview/czahller-20121201-20-54-52.jpg)
-  ![Peyton (I)](/assets/images/blog/2013-05-23-skating-polly-interview/czahller-20121201-20-55-57.jpg)
-  ![Peyton (Barefoot Drummer)](/assets/images/blog/2013-05-23-skating-polly-interview/czahller-20121201-20-56-06.jpg)
-  ![Peyton (II)](/assets/images/blog/2013-05-23-skating-polly-interview/czahller-20121201-20-56-27.jpg)
-  ![Kelli (III)](/assets/images/blog/2013-05-23-skating-polly-interview/czahller-20121201-21-02-53.jpg)
-  ![Kelli (IV)](/assets/images/blog/2013-05-23-skating-polly-interview/czahller-20121201-21-02-56.jpg)
-  ![Peyton (III)](/assets/images/blog/2013-05-23-skating-polly-interview/czahller-20121201-21-04-24.jpg)
-  ![The Basitar (Pink Angora)](/assets/images/blog/2013-05-23-skating-polly-interview/czahller-20121201-21-04-35.jpg)
-  ![Skating Polly Drumhead](/assets/images/blog/2013-05-23-skating-polly-interview/czahller-20121201-21-04-44.jpg)
-  ![Kelli (Boots)](/assets/images/blog/2013-05-23-skating-polly-interview/czahller-20121201-21-05-00.jpg)
-  ![Kelli (V)](/assets/images/blog/2013-05-23-skating-polly-interview/czahller-20121201-21-05-13.jpg)
-  ![Kelli (VI)](/assets/images/blog/2013-05-23-skating-polly-interview/czahller-20121201-22-01-48.jpg)
-  ![Kelli (VIII)](/assets/images/blog/2013-05-23-skating-polly-interview/czahller-20121201-22-02-13.jpg)
-  ![Peyton (V)](/assets/images/blog/2013-05-23-skating-polly-interview/czahller-20121201-22-03-38.jpg)
-  ![Kelli (IX)](/assets/images/blog/2013-05-23-skating-polly-interview/czahller-20121201-22-03-52.jpg)
-  ![Peyton (VI)](/assets/images/blog/2013-05-23-skating-polly-interview/czahller-20121201-22-05-52.jpg)
-  ![Kelli (X)](/assets/images/blog/2013-05-23-skating-polly-interview/czahller-20121201-22-06-18.jpg)
-  ![Peyton (VII)](/assets/images/blog/2013-05-23-skating-polly-interview/czahller-20121201-22-06-29.jpg)
-  ![Kelli (XI)](/assets/images/blog/2013-05-23-skating-polly-interview/czahller-20121201-22-07-05.jpg)
-  ![Peyton (VIII)](/assets/images/blog/2013-05-23-skating-polly-interview/czahller-20121201-22-07-34.jpg)
-  ![Kelli (XIII)](/assets/images/blog/2013-05-23-skating-polly-interview/czahller-20121201-22-08-25.jpg)
-  ![Kelli (XIV)](/assets/images/blog/2013-05-23-skating-polly-interview/czahller-20121201-22-10-10.jpg)
-  ![Peyton (IX)](/assets/images/blog/2013-05-23-skating-polly-interview/czahller-20121201-22-10-40.jpg)
-  ![Kelli (XV)](/assets/images/blog/2013-05-23-skating-polly-interview/czahller-20121201-22-12-48.jpg)
-  ![Kelli (XVI)](/assets/images/blog/2013-05-23-skating-polly-interview/czahller-20121201-22-13-30.jpg)
-  ![Kelli (XVIII)](/assets/images/blog/2013-05-23-skating-polly-interview/czahller-20121201-22-17-39.jpg)
-  ![Peyton (XIII)](/assets/images/blog/2013-05-23-skating-polly-interview/czahller-20121201-22-20-21.jpg)
-  ![Peyton (XIV)](/assets/images/blog/2013-05-23-skating-polly-interview/czahller-20121201-22-25-15.jpg)
-  ![Kelli (XIX)](/assets/images/blog/2013-05-23-skating-polly-interview/czahller-20121201-22-26-29.jpg)
-  ![Kelli (XX)](/assets/images/blog/2013-05-23-skating-polly-interview/czahller-20121201-22-26-56.jpg)
-  ![Kelli (XXI)](/assets/images/blog/2013-05-23-skating-polly-interview/czahller-20121201-22-27-42.jpg)
-  ![Peyton (XVI)](/assets/images/blog/2013-05-23-skating-polly-interview/czahller-20121201-22-28-20.jpg)
-  ![Kelli (XXII)](/assets/images/blog/2013-05-23-skating-polly-interview/czahller-20121201-22-36-36.jpg)
-  ![Skating Polly](/assets/images/blog/2013-05-23-skating-polly-interview/czahller-20121201-22-38-04.jpg)
-  ![Peyton (XVII)](/assets/images/blog/2013-05-23-skating-polly-interview/czahller-20121201-22-43-43.jpg)
+  {% image "./src/assets/images/blog/2013-05-23-skating-polly-interview/czahller-20121201-20-54-39.jpg", "", "Kelli", "Kelli (I)" %}
+
+  {% image "./src/assets/images/blog/2013-05-23-skating-polly-interview/czahller-20121201-20-54-52.jpg", "", "Kelli", "Kelli (II)" %}
+
+  {% image "./src/assets/images/blog/2013-05-23-skating-polly-interview/czahller-20121201-20-55-57.jpg", "", "Peyton", "Peyton (I)" %}
+
+  {% image "./src/assets/images/blog/2013-05-23-skating-polly-interview/czahller-20121201-20-56-06.jpg", "", "Peyton’s legs and feet. She operates the bass drum & high hat pedals with her bare feet.", "Peyton (Barefoot Drummer)" %}
+
+  {% image "./src/assets/images/blog/2013-05-23-skating-polly-interview/czahller-20121201-20-56-27.jpg", "", "Peyton", "Peyton (II)" %}
+
+  {% image "./src/assets/images/blog/2013-05-23-skating-polly-interview/czahller-20121201-21-02-53.jpg", "", "Kelli", "Kelli (III)" %}
+
+  {% image "./src/assets/images/blog/2013-05-23-skating-polly-interview/czahller-20121201-21-02-56.jpg", "", "Kelli", "Kelli (IV)" %}
+
+  {% image "./src/assets/images/blog/2013-05-23-skating-polly-interview/czahller-20121201-21-04-24.jpg", "", "Peyton", "Peyton (III)" %}
+
+  {% image "./src/assets/images/blog/2013-05-23-skating-polly-interview/czahller-20121201-21-04-35.jpg", "", "Kelli’s basitar leaning against the drumkit", "The Basitar (Pink Angora)" %}
+
+  {% image "./src/assets/images/blog/2013-05-23-skating-polly-interview/czahller-20121201-21-04-44.jpg", "", "Skating Polly drumhead with the letters “SP” applied with tape", "Skating Polly Drumhead" %}
+
+  {% image "./src/assets/images/blog/2013-05-23-skating-polly-interview/czahller-20121201-21-05-00.jpg", "", "Kelli’s half-calf, black, lace-up boots", "Kelli (Boots)" %}
+
+  {% image "./src/assets/images/blog/2013-05-23-skating-polly-interview/czahller-20121201-21-05-13.jpg", "", "Kelli", "Kelli (V)" %}
+
+  {% image "./src/assets/images/blog/2013-05-23-skating-polly-interview/czahller-20121201-22-01-48.jpg", "", "Kelli", "Kelli (VI)" %}
+
+  {% image "./src/assets/images/blog/2013-05-23-skating-polly-interview/czahller-20121201-22-02-13.jpg", "", "Kelli", "Kelli (VIII)" %}
+
+  {% image "./src/assets/images/blog/2013-05-23-skating-polly-interview/czahller-20121201-22-03-38.jpg", "", "Peyton", "Peyton (V)" %}
+
+  {% image "./src/assets/images/blog/2013-05-23-skating-polly-interview/czahller-20121201-22-03-52.jpg", "", "Kelli", "Kelli (IX)" %}
+
+  {% image "./src/assets/images/blog/2013-05-23-skating-polly-interview/czahller-20121201-22-05-52.jpg", "", "Peyton", "Peyton (VI)" %}
+
+  {% image "./src/assets/images/blog/2013-05-23-skating-polly-interview/czahller-20121201-22-06-18.jpg", "", "Kelli", "Kelli (X)" %}
+
+  {% image "./src/assets/images/blog/2013-05-23-skating-polly-interview/czahller-20121201-22-06-29.jpg", "", "Peyton", "Peyton (VII)" %}
+
+  {% image "./src/assets/images/blog/2013-05-23-skating-polly-interview/czahller-20121201-22-07-05.jpg", "", "Kelli", "Kelli (XI)" %}
+
+  {% image "./src/assets/images/blog/2013-05-23-skating-polly-interview/czahller-20121201-22-07-34.jpg", "", "Peyton", "Peyton (VIII)" %}
+
+  {% image "./src/assets/images/blog/2013-05-23-skating-polly-interview/czahller-20121201-22-08-25.jpg", "", "Kelli", "Kelli (XIII)" %}
+
+  {% image "./src/assets/images/blog/2013-05-23-skating-polly-interview/czahller-20121201-22-10-10.jpg", "", "Kelli", "Kelli (XIV)" %}
+
+  {% image "./src/assets/images/blog/2013-05-23-skating-polly-interview/czahller-20121201-22-10-40.jpg", "", "Peyton", "Peyton (IX)" %}
+
+  {% image "./src/assets/images/blog/2013-05-23-skating-polly-interview/czahller-20121201-22-12-48.jpg", "", "Kelli", "Kelli (XV)" %}
+
+  {% image "./src/assets/images/blog/2013-05-23-skating-polly-interview/czahller-20121201-22-13-30.jpg", "", "Kelli", "Kelli (XVI)" %}
+
+  {% image "./src/assets/images/blog/2013-05-23-skating-polly-interview/czahller-20121201-22-17-39.jpg", "", "Kelli", "Kelli (XVIII)" %}
+
+  {% image "./src/assets/images/blog/2013-05-23-skating-polly-interview/czahller-20121201-22-20-21.jpg", "", "Peyton", "Peyton (XIII)" %}
+
+  {% image "./src/assets/images/blog/2013-05-23-skating-polly-interview/czahller-20121201-22-25-15.jpg", "", "Peyton", "Peyton (XIV)" %}
+
+  {% image "./src/assets/images/blog/2013-05-23-skating-polly-interview/czahller-20121201-22-26-29.jpg", "", "Kelli", "Kelli (XIX)" %}
+
+  {% image "./src/assets/images/blog/2013-05-23-skating-polly-interview/czahller-20121201-22-26-56.jpg", "", "Kelli", "Kelli (XX)" %}
+
+  {% image "./src/assets/images/blog/2013-05-23-skating-polly-interview/czahller-20121201-22-27-42.jpg", "", "Kelli", "Kelli (XXI)" %}
+
+  {% image "./src/assets/images/blog/2013-05-23-skating-polly-interview/czahller-20121201-22-28-20.jpg", "", "Peyton", "Peyton (XVI)" %}
+
+  {% image "./src/assets/images/blog/2013-05-23-skating-polly-interview/czahller-20121201-22-36-36.jpg", "", "Kelli", "Kelli (XXII)" %}
+
+  {% image "featured", "", "Skating Polly at Kamp’s 1310 Lounge. Kelli, a thirteen-year-old girl with a short, asymmetric haircut and crocheted tassel beanie hat, stands stage right with her modified bass. Her stepsister Peyton, a seventeen-year-old girl with long dark hair, sits behind a drum kit stage left. The scene is lit with red & green lights. It is slighly hazy from the fog machine.", "Skating Polly" %}
+
+  {% image "./src/assets/images/blog/2013-05-23-skating-polly-interview/czahller-20121201-22-43-43.jpg", "", "Peyton", "Peyton (XVII)" %}
 </mpb-dialog-gallery>

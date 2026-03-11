@@ -20,7 +20,7 @@ excerpt: This is a series of shots I made to work out the exposure characteristi
 
 <!-- markdownlint-enable MD025 --><mpb-dialog-img>
 
-{% image "featured", "img-constrained", "Black and white image of cranberries in a white enameled colander", "Detail from Exposure & Developer Test, Cranberries", "eager" %}</mpb-dialog-img>
+{% image "featured", "", "Black and white image of cranberries in a white enameled colander", "Detail from Exposure & Developer Test, Cranberries", "eager" %}</mpb-dialog-img>
 
 This is a series of shots I made to work out the exposure characteristics of Kodak Ektascan B/RA film. Ektascan is an orthochromatic[^1] x-ray film sold in 8&Prime;&times;10&Prime; sheets and larger. I cut it down to 4&Prime;&times;5&Prime; for use in my [Wista 45DX](https://www.bhphotovideo.com/c/product/63358-REG/Wista_214604_45DX_Rosewood_4x5_Wooden.html/BI/19462/KBID/11656/kw/WI45DXRW/DFF/d10-v2-t1-xWI45DXRW){target=_blank rel="external noopener"} wooden field camera kitted with a Schneider Symmar-S 5,6/150 lens. I used a yellow-green (X0) filter but made no allowance for a filter factor, bellows draw, or reciprocity.
 
@@ -32,9 +32,9 @@ The first image is an unaltered scan[^2] I made on a very old consumer-level fla
 
 <mpb-dialog-img>
 
-{% image "./src/assets/images/blog/2015-12-03-x-ray-test-cranberries/czahller-20151203-14-08-35.jpg", "img-constrained", "Four black and white images of cranberries in a white enameled colander, taken at different exposures", "Exposure & Developer Test, Cranberries" %}</mpb-dialog-img><mpb-dialog-img>
+{% image "featured", "", "Four black and white images of cranberries in a white enameled colander, taken at different exposures", "Exposure & Developer Test, Cranberries", "large" %}</mpb-dialog-img><mpb-dialog-img>
 
-{% image "./src/assets/images/blog/2015-12-03-x-ray-test-cranberries/czahller-20151203-14-08-35-tone-curve.jpg", "img-constrained", "Four black and white images of cranberries in a white enameled colander, taken at different exposures. The tone curves have been adjusted to increase contrast.", "Exposure & Developer Test, Cranberries, tone curve adjusted" %}</mpb-dialog-img>
+{% image "./src/assets/images/blog/2015-12-03-x-ray-test-cranberries/czahller-20151203-14-08-35-tone-curve.jpg", "", "Four black and white images of cranberries in a white enameled colander, taken at different exposures. The tone curves have been adjusted to increase contrast.", "Exposure & Developer Test, Cranberries, tone curve adjusted", "large" %}</mpb-dialog-img>
 
 ## Light Meter Readings
 

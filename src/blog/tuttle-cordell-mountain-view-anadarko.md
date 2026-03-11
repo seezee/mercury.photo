@@ -22,7 +22,7 @@ excerpt: On the same weekend that Joe and I traveled to Roosevelt, we stopped to
 
 <!-- markdownlint-enable MD025 --><mpb-dialog-img>
 
-{% image "featured", "img-constrained", "Washita County Courthouse", "Washita County Courthouse", "eager" %}</mpb-dialog-img>
+{% image "featured", "", "Washita County Courthouse", "Washita County Courthouse", "eager" %}</mpb-dialog-img>
 
 <time datetime="20170730">On the same weekend</time> that <span class="h-card p-given-name">Joe</span> and I traveled to [Roosevelt](/blog/downtown-roosevelt-oklahoma/), we stopped to photograph several other small towns. Our first stop was Tuttle, where I saw this granary next to the railroad tracks. I also took a shot of it with a Leica IIIf, but forgot to pull out the collapsible lens, so it’s probably no good. We’ll see when I develop the film.
 
@@ -38,16 +38,25 @@ Our final stop was just outside Anadarko at the Wichita Historical Center, which
 
 <mpb-dialog-gallery hint rel cols="8">
 
-  ![Tuttle Grain & Supply](/assets/images/blog/2017-08-11-tuttle-etc/czahller-20170730-08-29-22.jpg)
-  ![Washita County Courthouse](/assets/images/blog/2017-08-11-tuttle-etc/czahller-20170730-08-48-36.jpg)
-  ![Market Street Mural](/assets/images/blog/2017-08-11-tuttle-etc/czahller-20170730-10-30-19.jpg)
-  ![Washita Theatre](/assets/images/blog/2017-08-11-tuttle-etc/czahller-20170730-10-46-15.jpg)
-  ![Undertaking (Ghost Sign)](/assets/images/blog/2017-08-11-tuttle-etc/czahller-20170730-10-53-03.jpg)
-  ![Abandoned Cobblestone General Store (I)](/assets/images/blog/2017-08-11-tuttle-etc/czahller-20170730-11-09-24.jpg)
-  ![Abandoned Cobblestone General Store (II)](/assets/images/blog/2017-08-11-tuttle-etc/czahller-20170730-11-47-48.jpg)
-  ![](/assets/images/blog/2017-08-11-tuttle-etc/czahller-20170730-11-49-23.jpg)
-  ![Sweat Lodge & Grass Picnic Shelter, Wichita Historical Center](/assets/images/blog/2017-08-11-tuttle-etc/czahller-20170730-11-56-25.jpg)
-  ![Joe inside the sweat lodge, Wichita Historical Center, Anadarko, Oklahoma](/assets/images/blog/2017-08-11-tuttle-etc/czahller-20170730-12-06-42.jpg)
+  {% image "./src/assets/images/blog/2017-08-11-tuttle-etc/czahller-20170730-08-29-22.jpg", "", "Bank of Tuttle", "Bank of Tuttle" %}
+
+  {% image "./src/assets/images/blog/2017-08-11-tuttle-etc/czahller-20170730-08-48-36.jpg", "", "A granary along a railroad track", "Tuttle Grain & Supply" %}
+
+  {% image "featured", "", "Washita County Courthouse", "Washita County Courthouse", "Washita County Courthouse", "Washita County Courthouse" %}
+
+  {% image "./src/assets/images/blog/2017-08-11-tuttle-etc/czahller-20170730-10-46-15.jpg", "", "Market Street mural depicting the courthouse and other symbols of the town. The text says “Cordell, Oklahoma est. 1892”", "Market Street Mural" %}
+
+  {% image "./src/assets/images/blog/2017-08-11-tuttle-etc/czahller-20170730-10-53-03.jpg", "", "Washita Theatre", "Washita Theatre" %}
+
+  {% image "./src/assets/images/blog/2017-08-11-tuttle-etc/czahller-20170730-11-09-24.jpg", "", "A “ghost” sign for an undertaker’s business painted on an old brick building", "Undertaking (Ghost Sign)" %}
+
+  {% image "./src/assets/images/blog/2017-08-11-tuttle-etc/czahller-20170730-11-47-48.jpg", "", "Abandoned Cobblestone General Store", "Abandoned Cobblestone General Store (I)" %}
+
+  {% image "./src/assets/images/blog/2017-08-11-tuttle-etc/czahller-20170730-11-49-23.jpg", "", "Abandoned Cobblestone General Store", "Abandoned Cobblestone General Store (II)" %}
+
+  {% image "./src/assets/images/blog/2017-08-11-tuttle-etc/czahller-20170730-11-56-25.jpg", "", "Sweat Lodge & Grass Picnic Shelter, Wichita Historical Center", "Sweat Lodge & Grass Picnic Shelter, Wichita Historical Center" %}
+
+  {% image "./src/assets/images/blog/2017-08-11-tuttle-etc/czahller-20170730-12-06-42.jpg", "", "Joe leans playfully out of the door to a sweat lodge. The hemispherical lodge is constructed of native grasses.", "Joe inside the sweat lodge, Wichita Historical Center, Anadarko, Oklahoma" %}
 </mpb-dialog-gallery>
 
 ## Technical

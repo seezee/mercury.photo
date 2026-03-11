@@ -22,7 +22,7 @@ excerpt: We recently had the good fortune of documenting the Reverend Horton Hea
 
 <!-- markdownlint-enable MD025 --><mpb-dialog-img>
 
-{% image "featured", "img-constrained", "The band photographed from overhead while they play a song.", "Gallery View (II)", "eager" %}</mpb-dialog-img>
+{% image "featured", "", "The band photographed from overhead while they play a song.", "Gallery View (II)", "eager" %}</mpb-dialog-img>
 
 We <time datetime="2012-09-22">recently</time> had the good fortune of documenting the <span class="h-card p-name p-nickname">Reverend Horton Heat</span>’s performance at Oklahoma City’s Wormy Dog Saloon in Bricktown.[^1] <time datetime="2007-03-31">Five years ago</time> at a previous Horton Heat show we were pleased to discover the music of openers <span class="h-card p-org">The Tossers</span>, a Chicago-based band melding punk rock with Irish traditional music. This tour’s opening act was no less exciting. The <span class="h-card p-org">Goddamn Gallows</span>, who blend rockabilly, roots, folk, Americana, and country music <q>with just enough hardcore and punk […] to make your parents hate it,</q> poured out enough **sweat** and **snot** in their energetic set to fill buckets. The band’s biography is all over the inter-webs, so we won’t repeat it here.
 
@@ -30,13 +30,13 @@ We <time datetime="2012-09-22">recently</time> had the good fortune of documenti
 
 <mpb-dialog-img>
 
-{% image "./src/assets/images/blog/2012-10-01-goddamn-gallows/czahller-20120922-21-30-50.jpg", "img-constrained", "TV’s Avery, a small wiry man with dark dreadlocks, plays accordion and sings.", "TV’s Avery (III)" %}</mpb-dialog-img>
+{% image "./src/assets/images/blog/2012-10-01-goddamn-gallows/czahller-20120922-21-30-50.jpg", "", "TV’s Avery, a small wiry man with dark dreadlocks, plays accordion and sings.", "TV’s Avery (III)", "large" %}</mpb-dialog-img>
 
 In addition to the music, the audience were enthralled by the onstage antics of accordionist/washboard player <span class="h-card p-name p-nickname">TV’s Avery</span> as he tormented bassist <span class="h-card p-name p-nickname">Fish-gutzzz</span>, covering the bass player’s mouth while he struggled to sing, rubbing his dreadlocks in the bassist’s chest while Fish-gutzzz attempted a solo, and giving his hapless bandmate a “Wet Willie.”
 
 <mpb-dialog-img>
 
-{% image "./src/assets/images/blog/2012-10-01-goddamn-gallows/czahller-20120922-21-38-22.jpg", "img-constrained", "Fish-gutzzz & Mikey engage in a musical duel. They stand face-to-face and play double-bass and guitar, respectively.", "Throwdown!" %}</mpb-dialog-img>
+{% image "./src/assets/images/blog/2012-10-01-goddamn-gallows/czahller-20120922-21-38-22.jpg", "", "Fish-gutzzz & Mikey engage in a musical duel. They stand face-to-face and play double-bass and guitar, respectively.", "Throwdown!", "large" %}</mpb-dialog-img>
 
 First row audience were drenched as snot cannons launched and beverages spewed. Immediately following one such incident we ducked down from our position at the stage left corner lest Avery aim for us and our camera gear. He looked straight at us and nodded to acknowledge our prudent action.
 
@@ -52,7 +52,7 @@ Goddamn Gallows have a [website](https://goddamngallows.com){target=_blank rel="
 
 <mpb-dialog-img>
 
-{% image "./src/assets/images/blog/2012-10-01-goddamn-gallows/czahller-20120922-23-29-20.jpg", "img-constrained", "Mikey stands offstage behind a hand-lettered Goddamn Gallows sign and watches the Reverend Horton Heat’s set.", "Mikey Classic after the Show" %}</mpb-dialog-img>
+{% image "./src/assets/images/blog/2012-10-01-goddamn-gallows/czahller-20120922-23-29-20.jpg", "", "Mikey stands offstage behind a hand-lettered Goddamn Gallows sign and watches the Reverend Horton Heat’s set.", "Mikey Classic after the Show", "large" %}</mpb-dialog-img>
 
 <span class="spkr">MPB</span> Since the raccoon incident at the <span class="h-card p-org">Checkpoint Charlie’s</span> show[^2] in New Orleans, have there been any other particularly exciting or memorable gigs?
 
@@ -81,7 +81,7 @@ Goddamn Gallows have a [website](https://goddamngallows.com){target=_blank rel="
 
 <mpb-dialog-img>
 
-{% image "./src/assets/images/blog/2012-10-01-goddamn-gallows/czahller-20120922-21-29-57.jpg", "img-constrained", "Fish-gutzzz plays upright bass. He is tall and bald with a full beard.", "Fish-gutzzz (I)" %}</mpb-dialog-img>
+{% image "./src/assets/images/blog/2012-10-01-goddamn-gallows/czahller-20120922-21-29-57.jpg", "", "Fish-gutzzz plays upright bass. He is tall and bald with a full beard.", "Fish-gutzzz (I)", "large" %}</mpb-dialog-img>
 
 <span class="spkr">MPB</span> Uriah, did you ever fantasize about joining the circus when you were a kid?
 
@@ -93,7 +93,7 @@ Goddamn Gallows have a [website](https://goddamngallows.com){target=_blank rel="
 
 <mpb-dialog-img>
 
-{% image "./src/assets/images/blog/2012-10-01-goddamn-gallows/czahller-20120922-21-29-25.jpg", "img-constrained", "Baby Genius plays drums. He has tattoos on his face, neck, and arms.", "Baby Genius (II)" %}</mpb-dialog-img>
+{% image "./src/assets/images/blog/2012-10-01-goddamn-gallows/czahller-20120922-21-29-25.jpg", "", "Baby Genius plays drums. He has tattoos on his face, neck, and arms.", "Baby Genius (II)", "large" %}</mpb-dialog-img>
 
 <span class="spkr">MPB</span> Avery, did the “village idiot” routine exist from the start, or did it come about gradually? How have you refined it over time?
 
@@ -105,7 +105,7 @@ Goddamn Gallows have a [website](https://goddamngallows.com){target=_blank rel="
 
 <mpb-dialog-img>
 
-{% image "./src/assets/images/blog/2012-10-01-goddamn-gallows/czahller-20120922-21-37-48.jpg", "img-constrained", "TV’s Avery takes over the drumkit.", "TV’s Avery Does Drum Duty" %}</mpb-dialog-img>
+{% image "./src/assets/images/blog/2012-10-01-goddamn-gallows/czahller-20120922-21-37-48.jpg", "", "TV’s Avery takes over the drumkit.", "TV’s Avery Does Drum Duty", "large" %}</mpb-dialog-img>
 
 <span class="spkr">MPB</span> Jayke, you played an F-style mandolin at the Wormy Dog show, but I know that’s not the only mandolin you own. Which is your favorite, and why?
 
@@ -117,7 +117,7 @@ Goddamn Gallows have a [website](https://goddamngallows.com){target=_blank rel="
 
 <mpb-dialog-img>
 
-{% image "./src/assets/images/blog/2012-10-01-goddamn-gallows/czahller-20120922-21-27-32.jpg", "img-constrained", "Jake plays an F-style mandolin. He wears a ragged knit beanie and a plaid shirt. He has long dark hair and a short beard.", "Jayke Orvis (I)" %}</mpb-dialog-img>
+{% image "./src/assets/images/blog/2012-10-01-goddamn-gallows/czahller-20120922-21-27-32.jpg", "", "Jake plays an F-style mandolin. He wears a ragged knit beanie and a plaid shirt. He has long dark hair and a short beard.", "Jayke Orvis (I)", "large" %}</mpb-dialog-img>
 
 <span class="spkr">MPB</span> Joe, was the decision to inject more roots and Americana influence into the group’s compositions and performances an organic one? How did it come about?
 
@@ -127,7 +127,7 @@ Goddamn Gallows have a [website](https://goddamngallows.com){target=_blank rel="
 
 <mpb-dialog-img>
 
-{% image "./src/assets/images/blog/2012-10-01-goddamn-gallows/czahller-20120922-22-05-55.jpg", "img-constrained", "Joe Perreze kneels in front of TV’s Avery with a cigarette dangling from his lips. Avery is fastening a bandana blindfold around Joe’s face.", "Last Smoke" %}</mpb-dialog-img>
+{% image "./src/assets/images/blog/2012-10-01-goddamn-gallows/czahller-20120922-22-05-55.jpg", "", "Joe Perreze kneels in front of TV’s Avery with a cigarette dangling from his lips. Avery, acting as an executioner, is fastening a bandana blindfold around Joe’s face.", "Last Smoke", "large" %}</mpb-dialog-img>
 
 <span class="spkr">Perreze</span> It’s mainly clawhammer and frailing banjo, with bits of finger pickin’ and flat pickin’ mixed in. I would say I’m a clawhammer player who switches up every couple of songs.
 
@@ -135,47 +135,89 @@ Goddamn Gallows have a [website](https://goddamngallows.com){target=_blank rel="
 
 <mpb-dialog-gallery hint rel cols="8">
 
-  ![TV’s Avery (I)](/assets/images/blog/2012-10-01-goddamn-gallows/czahller-20120922-21-24-12.jpg)
-  ![TV’s Avery (II)](/assets/images/blog/2012-10-01-goddamn-gallows/czahller-20120922-21-24-36.jpg)
-  ![Mikey Classic (I)](/assets/images/blog/2012-10-01-goddamn-gallows/czahller-20120922-21-27-08.jpg)
-  ![Jayke Orvis (I)](/assets/images/blog/2012-10-01-goddamn-gallows/czahller-20120922-21-27-32.jpg)
-  ![Mikey, Jayke, and Joe](/assets/images/blog/2012-10-01-goddamn-gallows/czahller-20120922-21-28-38.jpg)
-  ![Fish-gutzzz and TV’s Avery](/assets/images/blog/2012-10-01-goddamn-gallows/czahller-20120922-21-28-58.jpg)
-  ![Baby Genius (I)](/assets/images/blog/2012-10-01-goddamn-gallows/czahller-20120922-21-29-21.jpg)
-  ![Baby Genius (II)](/assets/images/blog/2012-10-01-goddamn-gallows/czahller-20120922-21-29-25.jpg)
-  ![Fish-gutzzz (I)](/assets/images/blog/2012-10-01-goddamn-gallows/czahller-20120922-21-29-57.jpg)
-  ![Joe Perreze (I)](/assets/images/blog/2012-10-01-goddamn-gallows/czahller-20120922-21-30-29.jpg)
-  ![TV’s Avery (III)](/assets/images/blog/2012-10-01-goddamn-gallows/czahller-20120922-21-30-50.jpg)
-  ![Jayke Orvis (II)](/assets/images/blog/2012-10-01-goddamn-gallows/czahller-20120922-21-31-07.jpg)
-  ![Baby Genius (Drumhead)](/assets/images/blog/2012-10-01-goddamn-gallows/czahller-20120922-21-31-18.jpg)
-  ![Mikey Classic’s Boots](/assets/images/blog/2012-10-01-goddamn-gallows/czahller-20120922-21-32-09.jpg)
-  ![Fish-gutzzz (Dewrag on Bass Fiddle)](/assets/images/blog/2012-10-01-goddamn-gallows/czahller-20120922-21-32-27.jpg)
-  ![Fish-gutzzz, TV’s Avery, and Mikey Classic (I)](/assets/images/blog/2012-10-01-goddamn-gallows/czahller-20120922-21-34-38.jpg)
-  ![Fish-gutzzz, TV’s Avery, and Mikey Classic (II)](/assets/images/blog/2012-10-01-goddamn-gallows/czahller-20120922-21-34-44.jpg)
-  ![Mikey Classic (II)](/assets/images/blog/2012-10-01-goddamn-gallows/czahller-20120922-21-35-37.jpg)
-  ![TV’s Avery Torments Fish-gutzzz the Ignorant](/assets/images/blog/2012-10-01-goddamn-gallows/czahller-20120922-21-35-43.jpg)
-  ![TV’s Avery Does Drum Duty](/assets/images/blog/2012-10-01-goddamn-gallows/czahller-20120922-21-37-48.jpg)
-  ![Throwdown!](/assets/images/blog/2012-10-01-goddamn-gallows/czahller-20120922-21-38-22.jpg)
-  ![Fish-gutzzz, Mikey Classic, and Joe Perreze](/assets/images/blog/2012-10-01-goddamn-gallows/czahller-20120922-21-38-41.jpg)
-  ![Fish-gutzzz, TV’s Avery, Mikey Classic, and Baby Genius](/assets/images/blog/2012-10-01-goddamn-gallows/czahller-20120922-21-43-08.jpg)
-  ![TV’s Avery, Fish-gutzzz, Mikey Classic, and Baby Genius](/assets/images/blog/2012-10-01-goddamn-gallows/czahller-20120922-21-43-20.jpg)
-  ![Fish-gutzzz, TV’s Avery, and Mikey Classic](/assets/images/blog/2012-10-01-goddamn-gallows/czahller-20120922-21-47-54.jpg)
-  ![Joe Perreze (I)](/assets/images/blog/2012-10-01-goddamn-gallows/czahller-20120922-21-50-04.jpg)
-  ![Gallery View (I)](/assets/images/blog/2012-10-01-goddamn-gallows/czahller-20120922-21-54-20.jpg)
-  ![Gallery View (II)](/assets/images/blog/2012-10-01-goddamn-gallows/czahller-20120922-21-54-56.jpg)
-  ![Gallery View (III)](/assets/images/blog/2012-10-01-goddamn-gallows/czahller-20120922-21-55-53.jpg)
-  ![Gallery View (IV)](/assets/images/blog/2012-10-01-goddamn-gallows/czahller-20120922-21-57-35.jpg)
-  ![Fish-gutzzz, TV’s Avery, Mikey Classic, and Jayke Orvis](/assets/images/blog/2012-10-01-goddamn-gallows/czahller-20120922-21-59-10.jpg)
-  ![Joe Perreze (II)](/assets/images/blog/2012-10-01-goddamn-gallows/czahller-20120922-22-02-49.jpg)
-  ![TV’s Avery (from Behind Stage Left)](/assets/images/blog/2012-10-01-goddamn-gallows/czahller-20120922-22-02-57.jpg)
-  ![Last Smoke](/assets/images/blog/2012-10-01-goddamn-gallows/czahller-20120922-22-05-55.jpg)
-  ![Balancing Act](/assets/images/blog/2012-10-01-goddamn-gallows/czahller-20120922-22-06-47.jpg)
-  ![Harmony](/assets/images/blog/2012-10-01-goddamn-gallows/czahller-20120922-22-09-39.jpg)
-  ![Hail Satan! (Cookie Monster Vocals) (I)](/assets/images/blog/2012-10-01-goddamn-gallows/czahller-20120922-22-16-48.jpg)
-  ![Hail Satan! (Cookie Monster Vocals) (II)](/assets/images/blog/2012-10-01-goddamn-gallows/czahller-20120922-22-16-52.jpg)
-  ![Baby Genius, Front and Center](/assets/images/blog/2012-10-01-goddamn-gallows/czahller-20120922-22-18-46.jpg)
-  ![TV’s Avery plays Bass Fiddle](/assets/images/blog/2012-10-01-goddamn-gallows/czahller-20120922-22-20-38.jpg)
-  ![TV’s Avery and Mikey Classic](/assets/images/blog/2012-10-01-goddamn-gallows/czahller-20120922-22-20-43.jpg)
-  ![Mikey Classic Plays Bass Fiddle](/assets/images/blog/2012-10-01-goddamn-gallows/czahller-20120922-22-21-03.jpg)
-  ![Mikey Classic after the Show](/assets/images/blog/2012-10-01-goddamn-gallows/czahller-20120922-23-29-20.jpg)
+   {% image "./src/assets/images/blog/2012-10-01-goddamn-gallows/czahller-20120922-21-24-12.jpg", "", "TV’s Avery", "TV’s Avery (I)" %}
+
+   {% image "./src/assets/images/blog/2012-10-01-goddamn-gallows/czahller-20120922-21-24-36.jpg", "", "TV’s Avery", "TV’s Avery (II)" %}
+
+   {% image "./src/assets/images/blog/2012-10-01-goddamn-gallows/czahller-20120922-21-27-08.jpg", "", "Mikey Classic", "Mikey Classic (I)" %}
+
+   {% image "./src/assets/images/blog/2012-10-01-goddamn-gallows/czahller-20120922-21-27-32.jpg", "", "Jayke Orvis", "Jayke Orvis (I)" %}
+
+   {% image "./src/assets/images/blog/2012-10-01-goddamn-gallows/czahller-20120922-21-28-38.jpg", "", "Mikey, Jayke, and Joe", "Mikey, Jayke, and Joe" %}
+
+   {% image "./src/assets/images/blog/2012-10-01-goddamn-gallows/czahller-20120922-21-28-58.jpg", "", "Fish-gutzzz and TV’s Avery", "Fish-gutzzz and TV’s Avery" %}
+
+   {% image "./src/assets/images/blog/2012-10-01-goddamn-gallows/czahller-20120922-21-29-21.jpg", "", "Baby Genius", "Baby Genius (I)" %}
+
+   {% image "./src/assets/images/blog/2012-10-01-goddamn-gallows/czahller-20120922-21-29-25.jpg", "", "Baby Genius", "Baby Genius (II)" %}
+
+   {% image "./src/assets/images/blog/2012-10-01-goddamn-gallows/czahller-20120922-21-29-57.jpg", "", "Fish-gutzzz", "Fish-gutzzz (I)" %}
+
+   {% image "./src/assets/images/blog/2012-10-01-goddamn-gallows/czahller-20120922-21-30-29.jpg", "", "Joe Perreze", "Joe Perreze (I)" %}
+
+   {% image "./src/assets/images/blog/2012-10-01-goddamn-gallows/czahller-20120922-21-30-50.jpg", "", "TV’s Avery", "TV’s Avery (III)" %}
+
+   {% image "./src/assets/images/blog/2012-10-01-goddamn-gallows/czahller-20120922-21-31-07.jpg", "", "Jayke Orvis (II)", "Jayke Orvis (II)" %}
+
+   {% image "./src/assets/images/blog/2012-10-01-goddamn-gallows/czahller-20120922-21-31-18.jpg", "", "Bass drumhead with line drawing of a goat skull and various graffiti", "Baby Genius (Drumhead)" %}
+
+   {% image "./src/assets/images/blog/2012-10-01-goddamn-gallows/czahller-20120922-21-32-09.jpg", "", "Mikey Classic’s Boots", "Mikey Classic’s Boots" %}
+
+   {% image "./src/assets/images/blog/2012-10-01-goddamn-gallows/czahller-20120922-21-32-27.jpg", "", "Fish-gutzzz", "Fish-gutzzz (Dewrag on Bass Fiddle)" %}
+
+   {% image "./src/assets/images/blog/2012-10-01-goddamn-gallows/czahller-20120922-21-34-38.jpg", "", "Fish-gutzzz, TV’s Avery, and Mikey Classic", "Fish-gutzzz, TV’s Avery, and Mikey Classic (I)" %}
+
+   {% image "./src/assets/images/blog/2012-10-01-goddamn-gallows/czahller-20120922-21-34-44.jpg", "", "Fish-gutzzz, TV’s Avery, and Mikey Classic", "Fish-gutzzz, TV’s Avery, and Mikey Classic (II)" %}
+
+   {% image "./src/assets/images/blog/2012-10-01-goddamn-gallows/czahller-20120922-21-35-37.jpg", "", "Mikey Classic", "Mikey Classic (II)" %}
+
+   {% image "./src/assets/images/blog/2012-10-01-goddamn-gallows/czahller-20120922-21-35-43.jpg", "", "TV’s Avery Torments Fish-gutzzz the Ignorant", "TV’s Avery Torments Fish-gutzzz the Ignorant" %}
+
+   {% image "./src/assets/images/blog/2012-10-01-goddamn-gallows/czahller-20120922-21-37-48.jpg", "", "TV’s Avery playing the drums", "TV’s Avery Does Drum Duty" %}
+
+   {% image "./src/assets/images/blog/2012-10-01-goddamn-gallows/czahller-20120922-21-38-22.jpg", "", "Fish-gutzzz and Mikey Classic face off while Mikey plays a guitar solo", "Throwdown!" %}
+
+   {% image "./src/assets/images/blog/2012-10-01-goddamn-gallows/czahller-20120922-21-38-41.jpg", "", "Fish-gutzzz, Mikey Classic, and Joe Perreze", "Fish-gutzzz, Mikey Classic, and Joe Perreze" %}
+
+   {% image "./src/assets/images/blog/2012-10-01-goddamn-gallows/czahller-20120922-21-43-08.jpg", "", "Fish-gutzzz, TV’s Avery, Mikey Classic, and Baby Genius", "Fish-gutzzz, TV’s Avery, Mikey Classic, and Baby Genius" %}
+
+   {% image "./src/assets/images/blog/2012-10-01-goddamn-gallows/czahller-20120922-21-43-20.jpg", "", "TV’s Avery, Fish-gutzzz, Mikey Classic, and Baby Genius", "TV’s Avery, Fish-gutzzz, Mikey Classic, and Baby Genius" %}
+
+   {% image "./src/assets/images/blog/2012-10-01-goddamn-gallows/czahller-20120922-21-47-54.jpg", "", "Fish-gutzzz, TV’s Avery, and Mikey Classic", "Fish-gutzzz, TV’s Avery, and Mikey Classic" %}
+
+   {% image "./src/assets/images/blog/2012-10-01-goddamn-gallows/czahller-20120922-21-50-04.jpg", "", "Joe Perreze", "Joe Perreze (I)" %}
+
+   {% image "./src/assets/images/blog/2012-10-01-goddamn-gallows/czahller-20120922-21-54-20.jpg", "", "Overhead view of the band", "Gallery View (I)" %}
+
+   {% image "featured", "", "Overhead view of the band", "Gallery View (II)" %}
+
+   {% image "./src/assets/images/blog/2012-10-01-goddamn-gallows/czahller-20120922-21-55-53.jpg", "", "Overhead view of the band", "Gallery View (III)" %}
+
+   {% image "./src/assets/images/blog/2012-10-01-goddamn-gallows/czahller-20120922-21-57-35.jpg", "", "Overhead view of the band", "Gallery View (IV)" %}
+
+   {% image "./src/assets/images/blog/2012-10-01-goddamn-gallows/czahller-20120922-21-59-10.jpg", "", "Fish-gutzzz, TV’s Avery, Mikey Classic, and Jayke Orvis", "Fish-gutzzz, TV’s Avery, Mikey Classic, and Jayke Orvis" %}
+
+   {% image "./src/assets/images/blog/2012-10-01-goddamn-gallows/czahller-20120922-22-02-49.jpg", "", "Joe Perreze", "Joe Perreze (II)" %}
+
+   {% image "./src/assets/images/blog/2012-10-01-goddamn-gallows/czahller-20120922-22-02-57.jpg", "", "TV’s Avery (from Behind Stage Left)", "TV’s Avery (from Behind Stage Left)" %}
+
+   {% image "./src/assets/images/blog/2012-10-01-goddamn-gallows/czahller-20120922-22-05-55.jpg", "", "Joe Perreze kneels in front of TV’s Avery with a cigarette dangling from his lips. Avery, acting as an executioner, is fastening a bandana blindfold around Joe’s face.", "Last Smoke" %}
+
+   {% image "./src/assets/images/blog/2012-10-01-goddamn-gallows/czahller-20120922-22-06-47.jpg", "", "TV’s Avery acts as a physical support to Mikey Classic as Mikey leans far back while playing guitar", "Balancing Act" %}
+
+   {% image "./src/assets/images/blog/2012-10-01-goddamn-gallows/czahller-20120922-22-09-39.jpg", "", "Mikey and Jayke sing harmony", "Harmony" %}
+
+   {% image "./src/assets/images/blog/2012-10-01-goddamn-gallows/czahller-20120922-22-16-48.jpg", "", "Mikey Classic surrounded by his mates while he thrashes & sings", "Hail Satan! (Cookie Monster Vocals) (I)" %}
+
+   {% image "./src/assets/images/blog/2012-10-01-goddamn-gallows/czahller-20120922-22-16-52.jpg", "", "Mikey Classic surrounded by his mates while he thrashes & sings", "Hail Satan! (Cookie Monster Vocals) (II)" %}
+
+   {% image "./src/assets/images/blog/2012-10-01-goddamn-gallows/czahller-20120922-22-18-46.jpg", "", "Baby Genius moves his floor toms to the front and continues to play", "Baby Genius, Front and Center" %}
+
+   {% image "./src/assets/images/blog/2012-10-01-goddamn-gallows/czahller-20120922-22-20-38.jpg", "", "TV’s Avery plays Bass Fiddle", "TV’s Avery plays Bass Fiddle" %}
+
+   {% image "./src/assets/images/blog/2012-10-01-goddamn-gallows/czahller-20120922-22-20-43.jpg", "", "TV’s Avery and Mikey Classic", "TV’s Avery and Mikey Classic" %}
+
+   {% image "./src/assets/images/blog/2012-10-01-goddamn-gallows/czahller-20120922-22-21-03.jpg", "", "Mikey Classic Plays Bass Fiddle", "Mikey Classic Plays Bass Fiddle" %}
+
+   {% image "./src/assets/images/blog/2012-10-01-goddamn-gallows/czahller-20120922-23-29-20.jpg", "", "Mikey Classic watches The Reverend Horton Heat play from the soundboard", "Mikey Classic after the Show" %}
 </mpb-dialog-gallery>

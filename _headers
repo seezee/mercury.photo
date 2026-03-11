@@ -1,0 +1,10 @@
+# Override Cloudflare worker default cache control
+/*
+  Vary: Accept-Encoding
+  Accept-Encoding: br;q=1.0, *;q=0.5
+/assets/*
+  Cache-Control: public, max-age=1209600, immutable, must-revalidate
+/blog/*
+  Cache-Control: public, s-maxage=60, max-age=0, stale-while-revalidate=300, stale-if-error=600
+/pages/*
+  Cache-Control: public, s-maxage=60, max-age=0, stale-while-revalidate=300, stale-if-error=600

@@ -23,11 +23,12 @@ excerpt: Making his Woody Guthrie Folk Festival debut this past July, Alex Culbr
 
 <!-- markdownlint-enable MD025 --><mpb-dialog-img>
 
-{% image "featured", "img-constrained", "Alex Culbreth playing acoustic guitar. His face is pressed against a Shure SM58 microphone. He is smiling broadly.", "Alex Culbreth (II)", "eager" %}</mpb-dialog-img>
+{% image "featured", "", "Alex Culbreth playing acoustic guitar. His face is pressed against a Shure SM58 microphone. He is smiling broadly.", "Alex Culbreth (II)", "eager" %}</mpb-dialog-img>
 
 <mpb-callout type="note" title="update">
 
 Since this article originally posted, Culbreth visited the Bureau for a [lengthy interview](/blog/alex-culbreth-interview-gallery/){target=_blank rel="external noopener"}.
+
 </mpb-callout>
 
 Making his Woody Guthrie Folk Festival debut[^1] this <time datetime="2013-07-12T16:00-5:00">past July</time>, <span class="h-card p-name">Alex Culbreth</span> played a solo set in the basement of the Brick Street Café. Standing with the heels of his western boots over a pair of kick-pedals, the Fredericksburg, Virginia native kept time with a small bass drum while he performed his gritty country and blues set. Fans of <span class="h-card p-org">The Band</span>, <span class="h-card p-org">Drive-By Truckers</span>, and <span class="h-card p-org">The Civil Wars</span> would do well to check his [tour schedule](https://www.facebook.com/alex.culbreth.7/events){target=_blank rel="external noopener"} for upcoming shows; he is currently touring the southeastern United States.{.drop-cap}
@@ -40,16 +41,27 @@ In a recent podcast [interview](https://web.archive.org/web/20140227154417/http:
 
 <mpb-dialog-gallery hint rel cols="8">
   
-  ![(Alex Culbreth (I)](/assets/images/blog/2013-10-03-woodyfest-alex-culbreth/czahller-20130712-16-05-38.jpg)
-  ![(Alex Culbreth (II)](/assets/images/blog/2013-10-03-woodyfest-alex-culbreth/czahller-20130712-16-06-01.jpg)
-  ![(Alex Culbreth (III)](/assets/images/blog/2013-10-03-woodyfest-alex-culbreth/czahller-20130712-16-08-56.jpg)
-  ![(Alex Culbreth (IV)](/assets/images/blog/2013-10-03-woodyfest-alex-culbreth/czahller-20130712-16-09-39.jpg)
-  ![(Alex Culbreth (V)](/assets/images/blog/2013-10-03-woodyfest-alex-culbreth/czahller-20130712-16-10-39.jpg)
-  ![(Alex Culbreth (VI)](/assets/images/blog/2013-10-03-woodyfest-alex-culbreth/czahller-20130712-16-10-52.jpg)
-  ![(Alex Culbreth (VII)](/assets/images/blog/2013-10-03-woodyfest-alex-culbreth/czahller-20130712-16-24-45.jpg)
-  ![(Alex Culbreth (VIII)](/assets/images/blog/2013-10-03-woodyfest-alex-culbreth/czahller-20130712-16-25-03.jpg)
-  ![(Alex Culbreth (IX)](/assets/images/blog/2013-10-03-woodyfest-alex-culbreth/czahller-20130712-16-34-27.jpg)
-  ![(Alex Culbreth (X)](/assets/images/blog/2013-10-03-woodyfest-alex-culbreth/czahller-20130712-16-34-42.jpg)
-  ![(Alex Culbreth (XI)](/assets/images/blog/2013-10-03-woodyfest-alex-culbreth/czahller-20130712-16-38-59.jpg)
-  ![(Alex Culbreth (XII)](/assets/images/blog/2013-10-03-woodyfest-alex-culbreth/czahller-20130712-16-45-35.jpg)
+  {% image "./src/assets/images/blog/2013-10-03-woodyfest-alex-culbreth/czahller-20130712-16-05-38.jpg", "", "Alex Culbreth", "Alex Culbreth (I)" %}
+
+  {% image "featured", "", "Alex Culbreth playing acoustic guitar. His face is pressed against a Shure SM58 microphone. He is smiling broadly.", "Alex Culbreth (II)" %}
+
+  {% image "./src/assets/images/blog/2013-10-03-woodyfest-alex-culbreth/czahller-20130712-16-08-56.jpg", "", "Alex Culbreth", "Alex Culbreth (III)" %}
+
+  {% image "./src/assets/images/blog/2013-10-03-woodyfest-alex-culbreth/czahller-20130712-16-09-39.jpg", "", "Alex Culbreth", "Alex Culbreth (IV)" %}
+
+  {% image "./src/assets/images/blog/2013-10-03-woodyfest-alex-culbreth/czahller-20130712-16-10-39.jpg", "", "Alex Culbreth", "Alex Culbreth (V)" %}
+
+  {% image "./src/assets/images/blog/2013-10-03-woodyfest-alex-culbreth/czahller-20130712-16-10-52.jpg", "", "Alex Culbreth", "Alex Culbreth (VI)" %}
+
+  {% image "./src/assets/images/blog/2013-10-03-woodyfest-alex-culbreth/czahller-20130712-16-24-45.jpg", "", "Alex Culbreth", "Alex Culbreth (VII)" %}
+
+  {% image "./src/assets/images/blog/2013-10-03-woodyfest-alex-culbreth/czahller-20130712-16-25-03.jpg", "", "Alex Culbreth", "Alex Culbreth (VIII)" %}
+
+  {% image "./src/assets/images/blog/2013-10-03-woodyfest-alex-culbreth/czahller-20130712-16-34-27.jpg", "", "Alex Culbreth", "Alex Culbreth (IX)" %}
+
+  {% image "./src/assets/images/blog/2013-10-03-woodyfest-alex-culbreth/czahller-20130712-16-34-42.jpg", "", "Alex Culbreth", "Alex Culbreth (X)" %}
+
+  {% image "./src/assets/images/blog/2013-10-03-woodyfest-alex-culbreth/czahller-20130712-16-38-59.jpg", "", "Alex Culbreth", "Alex Culbreth (XI)" %}
+
+  {% image "./src/assets/images/blog/2013-10-03-woodyfest-alex-culbreth/czahller-20130712-16-45-35.jpg", "", "Alex Culbreth", "Alex Culbreth (XII)" %}
 </mpb-dialog-gallery>

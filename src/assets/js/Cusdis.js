@@ -19,43 +19,46 @@ const makeIframeContent = (target) => {
       html {
         /* For browsers that support scrollbar-* properties */
         @supports (scrollbar-color: auto) {
-          scrollbar-color: var(--mpb-color-accentReverse) transparent;
+          scrollbar-color: var(--mpb-color-accent-reverse) transparent;
         }
       }
 
       /* Otherwise, use ::-webkit-scrollbar-* pseudo-elements */
       @supports selector(::-webkit-scrollbar) {
         *::-webkit-scrollbar-thumb {
-          background-color: var(--mpb-color-accentReverse);
+          background-color: var(--mpb-color-accent-reverse);
         }
+      }
+
+      body {
+        padding-inline: 1rem;
+        padding-block: 0;
       }
 
       iframe {
         block-size: 100vh;
       }
-      iframe body {
-        padding: 0
-      }
+
       :root {
         color-scheme: light;
-        color: var(--mpb-color-textReverse);
-        background-color: var(--mpb-color-textPrimary);
+        color: var(--mpb-color-text-reverse);
+        background-color: var(--mpb-color-text-primary);
       }
       :focus-visible {
-        outline-color: var(--mpb-color-accentReverse);
+        outline-color: var(--mpb-color-accent-reverse);
       }
       input, textarea {
-        color: var(--mpb-color-textReverse);
+        color: var(--mpb-color-text-reverse);
       }
       .grid {
         display: unset!important;
       }
       .bg-gray-200 {
-        color: var(--mpb-color-textPrimary);
-        background-color: var(--mpb-color-textReverse);
+        color: var(--mpb-color-text-primary);
+        background-color: var(--mpb-color-text-reverse);
       }
       .text-gray-500 {
-        color: var(--mpb-color-textReverse);
+        color: var(--mpb-color-text-reverse);
       }
       .text-sm {
         font-size: var(--mpb-font-size--1);

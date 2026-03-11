@@ -20,7 +20,7 @@ excerpt: Last Sunday I drove out to the Wichita Mountains Wildlife Refuge near L
 
 <!-- markdownlint-enable MD025 --><mpb-dialog-img>
 
-{% image "featured", "img-constrained", "Crab Eyes [Crop]", "Crab Eyes [Crop]&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;Charon’s Garden Wilderness Area, Wichita Mountains Wildlife Refuge. The two boulders are each about the size of a minivan and are balanced on a narrow granite spine.", "eager" %}</mpb-dialog-img>
+{% image "featured", "", "Crab Eyes [Crop], showing two boulders, each about the size of a minivan. They balance on a narrow granite spine.", "Crab Eyes [Crop] — Charon’s Garden Wilderness Area, Wichita Mountains Wildlife Refuge. The two boulders are each about the size of a minivan and are balanced on a narrow granite spine.", "eager" %}</mpb-dialog-img>
 
 ## Shaggy Beasts, Three-Legged Beasts
 
@@ -34,7 +34,7 @@ After leaving the visitors center we turned back on the main road. We set up on 
 
 <mpb-dialog-img>
 
-{% image "./src/assets/images/blog/2018-09-23-wichita-reserve/czahller-20180819-11-41-46-crop.jpg", "img-constrained", "Crop from Bison, Grazing. Near the Wichita Mountains Wildlife Refuge Visitors Center", "Crop from Bison, Grazing. Near the Wichita Mountains Wildlife Refuge Visitors Center" %}</mpb-dialog-img>
+{% image "./src/assets/images/blog/2018-09-23-wichita-reserve/czahller-20180819-11-41-46-crop.jpg", "", "Crop from Bison, Grazing. Near the Wichita Mountains Wildlife Refuge Visitors Center", "Crop from Bison, Grazing. Near the Wichita Mountains Wildlife Refuge Visitors Center", "large" %}</mpb-dialog-img>
 
 Next we hiked the Kite Trail to Forty Foot Hole, a series of cascading pools on West Cache Creek. Lack of rain had reduced the sometimes impressive waterfall to a mere trickle, with storm debris and floatation devices left by careless hikers marring the otherwise picturesque view. A light breeze made the heat bearable and the burbling creek gave us a feeling of peaceful calm.
 
@@ -50,7 +50,7 @@ Next up, we drove to Osage lake, another of the numerous artificial reservoirs d
 
 <mpb-dialog-img>
 
-{% image "./src/assets/images/blog/2018-09-23-wichita-reserve/czahller-20180819-15-39-21.jpg", "img-constrained", "Forty Foot Hole, West Cache Creek, Wichita Mountains Wildlife Refuge", "Forty Foot Hole, West Cache Creek, Wichita Mountains Wildlife Refuge" %}</mpb-dialog-img>
+{% image "./src/assets/images/blog/2018-09-23-wichita-reserve/czahller-20180819-15-39-21.jpg", "", "Forty Foot Hole, West Cache Creek, Wichita Mountains Wildlife Refuge", "Forty Foot Hole, West Cache Creek, Wichita Mountains Wildlife Refuge", "large" %}</mpb-dialog-img>
 
 ## Crab Eyes & Good Night
 
@@ -64,7 +64,7 @@ I made three bracketed exposures (+1, 0, and -1 EV, or 2, 1, and ½ seconds, res
 
 <mpb-dialog-img>
 
-{% image "./src/assets/images/blog/2018-09-23-wichita-reserve/mparham-20180819-12-33-51.jpg", "img-constrained", "Chris Zähller carrying a 12-pound Ries tripod on the Kite Trail, Wichita Mountains Wildlife Refuge", "Author Chris Zähller carrying a 12-pound Ries tripod on the Kite Trail, Wichita Mountains Wildlife Refuge. Copyright © 2018 Michael Parham. All rights reserved. Used with permission." %}</mpb-dialog-img>
+{% image "./src/assets/images/blog/2018-09-23-wichita-reserve/mparham-20180819-12-33-51.jpg", "", "Chris Zähller carrying a 12-pound Ries tripod on the Kite Trail, Wichita Mountains Wildlife Refuge", "Author Chris Zähller carrying a 12-pound Ries tripod on the Kite Trail, Wichita Mountains Wildlife Refuge. Copyright © 2018 Michael Parham. All rights reserved. Used with permission.", "large" %}</mpb-dialog-img>
 
 From there we drove to Meers, hoping to grab a bison burger, but the restaurant had closed for the day. We opted to take the back roads home. Stopping in Elgin, we shared some mediocre spareribs at a franchise barbeque restaurant.[^5] It wasn’t good&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;soggy ribs, anyone?&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;but it filled our bellies. We arrived in Norman <time datetime="2018-08-19T23:00:00-05:00">late</time> and said goodbye, vowing to return.
 
@@ -82,14 +82,21 @@ Thanks for reading,
 
 <mpb-dialog-gallery hint rel cols="8">
   
-  ![Bison, grazing near the Wichita Mountains Wildlife Refuge Visitors’ Center](/assets/images/blog/2018-09-23-wichita-reserve/czahller-20180819-11-41-46.jpg)
-  ![Kite Trail (I) — Wichita Mountains Wildlife Refuge](/assets/images/blog/2018-09-23-wichita-reserve/czahller-20180819-12-13-56.jpg)
-  ![Kite Trail (II) — Wichita Mountains Wildlife Refuge](/assets/images/blog/2018-09-23-wichita-reserve/czahller-20180819-12-44-19.jpg)
-  ![Forty Foot Hole, W Cache Creek, Wichita Mountains Wildlife Refuge](/assets/images/blog/2018-09-23-wichita-reserve/czahller-20180819-15-39-21.jpg)
-  ![Lake Jed Johnson and decommissioned fire watch tower built by Civilian Conservation Corps (CCC) in 1941, Wichita Mountains Wildlife Refuge](/assets/images/blog/2018-09-23-wichita-reserve/czahller-20180819-16-01-13.jpg)
-  ![Looking north near the dam at Osage Lake, an artificial reservoir fed by Cow Creek in the Wichita Mountains Wildlife Refuge.](/assets/images/blog/2018-09-23-wichita-reserve/czahller-20180819-17-00-42.jpg)
-  ![Facing north-northeast near the dam at Osage Lake, an artificial reservoir in the Wichita Mountains Wildlife Refuge.](/assets/images/blog/2018-09-23-wichita-reserve/czahller-20180819-17-05-49.jpg)
-  ![Crab Eyes — Charon’s Garden Wilderness Area, Wichita Mountains Wildlife Refuge](/assets/images/blog/2018-09-23-wichita-reserve/czahller-20180819-19-06-47.jpg)
+  {% image "./src/assets/images/blog/2018-09-23-wichita-reserve/czahller-20180819-11-41-46.jpg", "", "Bison, grazing near the Wichita Mountains Wildlife Refuge Visitors’ Center", "Bison, grazing near the Wichita Mountains Wildlife Refuge Visitors’ Center" %}
+
+  {% image "./src/assets/images/blog/2018-09-23-wichita-reserve/czahller-20180819-12-13-56.jpg", "", "A rocky landscape dotted with scrub brush", "Kite Trail (I)&NoBreak;&hairsp;&NoBreak;—&NoBreak;&hairsp;&NoBreak;Wichita Mountains Wildlife Refuge" %}
+
+  {% image "./src/assets/images/blog/2018-09-23-wichita-reserve/czahller-20180819-12-44-19.jpg", "", "A rocky landscape with large pools of water in the low spots", "Kite Trail (II)&NoBreak;&hairsp;&NoBreak;—&NoBreak;&hairsp;&NoBreak;Wichita Mountains Wildlife Refuge" %}
+
+  {% image "./src/assets/images/blog/2018-09-23-wichita-reserve/czahller-20180819-15-39-21.jpg", "", "Two rocky cliffs converging where a waterfall, now dry, sometimes flows", "Forty Foot Hole, West Cache Creek, Wichita Mountains Wildlife Refuge" %}
+
+  {% image "./src/assets/images/blog/2018-09-23-wichita-reserve/czahller-20180819-16-01-13.jpg", "", "Lake Jed Johnson and decommissioned fire watch tower built by Civilian Conservation Corps (CCC) in 1941, Wichita Mountains Wildlife Refuge", "Lake Jed Johnson and decommissioned fire watch tower built by Civilian Conservation Corps (CCC) in 1941, Wichita Mountains Wildlife Refuge" %}
+
+  {% image "./src/assets/images/blog/2018-09-23-wichita-reserve/czahller-20180819-17-00-42.jpg", "", "A rocky landscape with a lake in the foreground", "Looking north near the dam at Osage Lake, an artificial reservoir fed by Cow Creek in the Wichita Mountains Wildlife Refuge" %}
+
+  {% image "./src/assets/images/blog/2018-09-23-wichita-reserve/czahller-20180819-17-05-49.jpg", "", "A rocky landscape with a lake in the foreground", "Facing north-northeast near the dam at Osage Lake, an artificial reservoir in the Wichita Mountains Wildlife Refuge" %}
+
+  {% image "./src/assets/images/blog/2018-09-23-wichita-reserve/czahller-20180819-19-06-47.jpg", "", "The scrub-covered landscape of Charon’s Garden rising to a distant granite cliff. Two minivan-sized boulders, one balanced on the cliff edge, its companion balanced atop a smaller boulder, are visible to the composition’s right edge.", "Crab Eyes&NoBreak;&hairsp;&NoBreak;—&NoBreak;&hairsp;&NoBreak;Charon’s Garden Wilderness Area, Wichita Mountains Wildlife Refuge" %}
 </mpb-dialog-gallery>
 
 ## Technical<a href="#mn1" id="mnref1"><span class="sr-only"> [See note]</span></a>
@@ -149,7 +156,7 @@ Software:
 
 <mpb-dialog-img>
 
-{% image "./src/assets/images/okie-x/czahller-20160313-10-43-55.jpg", "img-constrained", "Wista 45DX 4×5 field camera, extended, with Schneider Kreuznach Symmar-S ƒ5.6/150 & Copal No. 0 shutter", "Wista 45DX 4×5 field camera. This is the same camera I use for <a href=\"/okie-x/\">OKIE-X</a>.&nbsp;<a href=\"#mnref1\" a><span class=\"sr-only\">Back to content&nbsp;</span>↩︎</a>" %}</mpb-dialog-img>
+{% image "./src/assets/images/okie-x/czahller-20160313-10-43-55.jpg", "", "Wista 45DX 4×5 field camera, extended, with Schneider Kreuznach Symmar-S ƒ5.6/150 & Copal No. 0 shutter", "Wista 45DX 4×5 field camera. This is the same camera I use for <a href=\"/okie-x/\">OKIE-X</a>.&nbsp;<a href=\"#mnref1\" a><span class=\"sr-only\">Back to content&nbsp;</span>↩︎</a>" %}</mpb-dialog-img>
     </li>
   </ul>
 </footer>

@@ -23,7 +23,7 @@ excerpt: As of this writing the Woody Guthrie Poets have presented readings at f
 
 <!-- markdownlint-enable MD025 --><mpb-dialog-img>
 
-{% image "featured", "img-constrained", "Closeup of David Amram's hands on keyboard. His right pinkie and ring fingers are adorned with heavy silver rings.", "Accompanist David Amram (II)&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;Woody Guthrie Poets, Woody Guthrie Folk Festival 16", "eager" %}</mpb-dialog-img>
+{% image "featured", "", "Closeup of David Amram's hands on keyboard. His right pinkie and ring fingers are adorned with heavy silver rings.", "Accompanist David Amram (II)", "eager" %}</mpb-dialog-img>
 
 <time datetime="2020-04-06">As of this writing</time> the Woody Guthrie Poets have presented readings at fifteen consecutive Woody Guthrie Folk Festivals. They gave their first festival reading in <time datetime="2005-07">2005</time> at the <span class="h-card p-org">Okfuskee County Historical Society and Museum</span>, but as their audience grew, they moved to the <span class="h-card p-org">Okemah Methodist Church</span>. In <time datetime="2019-07-13">2019</time> they read selections from their latest anthology <cite>Speak Your Mind</cite>[^1] on the Bound for Glory Stage.
 
@@ -55,16 +55,27 @@ Woodyfest regular <span class="h-card p-name">David Amram</span> has accompanied
 
 <mpb-dialog-gallery hint rel cols="8">
   
-  ![Accompanist David Amram (I) — Woody Guthrie Poets, Woody Guthrie Folk Festival 16](/assets/images/blog/2020-04-06-woodyfest-poets/czahller-20130713-13-04-13.jpg)
-  ![Accompanist David Amram (II) — Woody Guthrie Poets, Woody Guthrie Folk Festival 16](/assets/images/blog/2020-04-06-woodyfest-poets/czahller-20130713-13-04-58.jpg)
-  ![Program Coördinator Dorothy Alexander Introduction — Woody Guthrie Poets, Woody Guthrie Folk Festival 16](/assets/images/blog/2020-04-06-woodyfest-poets/czahller-20130713-13-05-54.jpg)
-  ![2005 Texas Poet Laureate Alan Birkelbach — Woody Guthrie Poets, Woody Guthrie Folk Festival 16](/assets/images/blog/2020-04-06-woodyfest-poets/czahller-20130713-13-06-55.jpg)
-  ![Jenn Long — Woody Guthrie Poets, Woody Guthrie Folk Festival 16](/assets/images/blog/2020-04-06-woodyfest-poets/czahller-20130713-13-12-42.jpg)
-  ![Malpais Review Editor Gary L. Brower — Woody Guthrie Poets, Woody Guthrie Folk Festival 16](/assets/images/blog/2020-04-06-woodyfest-poets/czahller-20130713-13-18-16.jpg)
-  ![Robert Herman Broyles, a.k.a. Tumbleweed — Woody Guthrie Poets, Woody Guthrie Folk Festival 16](/assets/images/blog/2020-04-06-woodyfest-poets/czahller-20130713-13-29-40.jpg)
-  ![Professor Julie Chappell — Woody Guthrie Poets, Woody Guthrie Folk Festival 16](/assets/images/blog/2020-04-06-woodyfest-poets/czahller-20130713-13-36-24.jpg)
-  ![Jerry Faires — Woody Guthrie Poets, Woody Guthrie Folk Festival 16](/assets/images/blog/2020-04-06-woodyfest-poets/czahller-20130713-13-41-43.jpg)
-  ![Oklahoma Journalism Hall of Fame Inductee James Coburn — Woody Guthrie Poets, Woody Guthrie Folk Festival 16](/assets/images/blog/2020-04-06-woodyfest-poets/czahller-20130713-13-55-09.jpg)
-  ![Alice Collinsworth — Woody Guthrie Poets, Woody Guthrie Folk Festival 16](/assets/images/blog/2020-04-06-woodyfest-poets/czahller-20130713-14-00-26.jpg)
-  ![Award-Winning Haikuist Margaret Dornaus — Woody Guthrie Poets, Woody Guthrie Folk Festival 16](/assets/images/blog/2020-04-06-woodyfest-poets/czahller-20130713-14-03-30.jpg)
+  {% image "./src/assets/images/blog/2020-04-06-woodyfest-poets/czahller-20130713-13-04-13.jpg", "", "David Amraam at an upright piano", "Accompanist David Amram (I)" %}
+
+  {% image "featured", "", "Closeup of David Amram's hands on keyboard. His right pinkie and ring fingers are adorned with heavy silver rings.", "Accompanist David Amram (II)" %}
+
+  {% image "./src/assets/images/blog/2020-04-06-woodyfest-poets/czahller-20130713-13-05-54.jpg", "", "Dorothy Alexander introduces the program", "Program Coördinator Dorothy Alexander Introduction" %}
+
+  {% image "./src/assets/images/blog/2020-04-06-woodyfest-poets/czahller-20130713-13-06-55.jpg", "", "Alan Birkelbach ", "2005 Texas Poet Laureate Alan Birkelbach " %}
+
+  {% image "./src/assets/images/blog/2020-04-06-woodyfest-poets/czahller-20130713-13-12-42.jpg", "", "Jenn Long", "Jenn Long" %}
+
+  {% image "./src/assets/images/blog/2020-04-06-woodyfest-poets/czahller-20130713-13-18-16.jpg", "", "Gary L. Brower", "Malpais Review Editor Gary L. Brower" %}
+
+  {% image "./src/assets/images/blog/2020-04-06-woodyfest-poets/czahller-20130713-13-29-40.jpg", "", "Robert Herman Broyles", "Robert Herman Broyles, a.k.a. Tumbleweed" %}
+
+  {% image "./src/assets/images/blog/2020-04-06-woodyfest-poets/czahller-20130713-13-36-24.jpg", "", "Julie Chappell", "Professor Julie Chappell" %}
+
+  {% image "./src/assets/images/blog/2020-04-06-woodyfest-poets/czahller-20130713-13-41-43.jpg", "", "Jerry Faires", "Jerry Faires" %}
+
+  {% image "./src/assets/images/blog/2020-04-06-woodyfest-poets/czahller-20130713-13-55-09.jpg", "", "James Coburn", "Oklahoma Journalism Hall of Fame Inductee James Coburn" %}
+
+  {% image "./src/assets/images/blog/2020-04-06-woodyfest-poets/czahller-20130713-14-00-26.jpg", "", "Alice Collinsworth", "Alice Collinsworth" %}
+
+  {% image "./src/assets/images/blog/2020-04-06-woodyfest-poets/czahller-20130713-14-03-30.jpg", "", "Margaret Dornaus", "Award-Winning Haikuist Margaret Dornaus" %}
 </mpb-dialog-gallery>

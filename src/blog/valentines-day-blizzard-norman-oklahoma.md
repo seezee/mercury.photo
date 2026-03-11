@@ -22,7 +22,7 @@ excerpt: On Valentine's Day a massive winter storm pushed across the central and
 
 <!-- markdownlint-enable MD025 --><mpb-dialog-img>
 
-{% image "featured", "img-constrained", "Trees in Snow, University of Oklahoma, Valentine’s Day 2021", "Trees in Snow, University of Oklahoma, Valentine’s Day 2021", "eager" %}</mpb-dialog-img>
+{% image "featured", "", "Trees in Snow, University of Oklahoma, Valentine’s Day 2021", "Trees in Snow, University of Oklahoma, Valentine’s Day 2021", "eager" %}</mpb-dialog-img>
 
 On <time datetime="2021-02-14">Valentine's Day</time> a massive winter storm pushed across the central and southern U.S. plains, plunging temperatures to record-breaking lows and dumping significant snow over the affected areas. In the ensuing days, grid operators enacted rolling blackouts[^1] and power outages affected millions of Oklahoma and Texas residents. All 254 Texas counties were affected.
 
@@ -40,12 +40,17 @@ We scanned the negatives on <time datetime="2021-02-15">Monday</time>. We import
 
 <mpb-dialog-gallery hint rel cols="8">
   
-  ![Trees in Snow, University of Oklahoma, Valentine’s Day 2021](/assets/images/blog/2021-02-18-valentines-blizzard/czahller-20210214-13-35-33.jpg)
-  ![Main Street in Snow, Valentine’s Day 2021](/assets/images/blog/2021-02-18-valentines-blizzard/czahller-20210214-13-48-51.jpg)
-  ![James Garner Memorial in Snow, Valentine’s Day 2021](/assets/images/blog/2021-02-18-valentines-blizzard/czahller-20210214-14-05-48.jpg)
-  ![100 Block of East Main Street in Snow, Valentine’s Day 2021](/assets/images/blog/2021-02-18-valentines-blizzard/czahller-20210214-14-09-37.jpg)
-  ![Ellison Hall in Snow, University of Oklahoma, Valentine’s Day 2021](/assets/images/blog/2021-02-18-valentines-blizzard/czahller-20210214-14-13-59.jpg)
-  ![Sooner Theatre in Snow, Valentine’s Day 2021](/assets/images/blog/2021-02-18-valentines-blizzard/czahller-20210214-14-16-38.jpg)
+  {% image "featured", "", "Trees in Snow, University of Oklahoma, Valentine’s Day 2021", "Trees in Snow, University of Oklahoma" %}
+
+  {% image "./src/assets/images/blog/2021-02-18-valentines-blizzard/czahller-20210214-13-48-51.jpg", "", "Ellison Hall in Snow, University of Oklahoma", "Ellison Hall in Snow, University of Oklahoma, Valentine’s Day 2021" %}
+
+  {% image "./src/assets/images/blog/2021-02-18-valentines-blizzard/czahller-20210214-14-05-48.jpg", "", "100 Block of East Main Street in Snow", "100 Block of East Main Street in Snow, Valentine’s Day 2021" %}
+
+  {% image "./src/assets/images/blog/2021-02-18-valentines-blizzard/czahller-20210214-14-09-37.jpg", "", "James Garner Memorial in Snow", "James Garner Memorial in Snow, Valentine’s Day 2021" %}
+
+  {% image "./src/assets/images/blog/2021-02-18-valentines-blizzard/czahller-20210214-14-13-59.jpg", "", "Sooner Theatre in Snow", "Sooner Theatre in Snow, Valentine’s Day 2021" %}
+
+  {% image "./src/assets/images/blog/2021-02-18-valentines-blizzard/czahller-20210214-14-16-38.jpg", "", "Main Street in Snow", "Main Street in Snow, Valentine’s Day 2021" %}
 </mpb-dialog-gallery>
 
 ## Technical

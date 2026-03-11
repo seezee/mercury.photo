@@ -22,9 +22,12 @@ excerpt: Cleveland County residents may cast early in-person absentee ballots at
 <p>Early in-person absentee voting <time datetime="2018-11-01">Today</time> thru <time datetime="2018-01-03">Saturday</time></p></stack-l></hgroup>
 <!-- markdownlint-enable MD025 --><mpb-dialog-img>
 
-{% image "featured", "img-constrained", "Cleveland County Election Board Sign & Seal", "Cleveland County Election Board Sign & Seal", "eager" %}</mpb-dialog-img>
+{% image "featured", "", "Cleveland County Election Board Sign & Seal", "Cleveland County Election Board Sign & Seal", "eager" %}</mpb-dialog-img>
 
-[NORMAN, Okla., 1 November 2018]&NoBreak;&hairsp;&NoBreak;&mdash;{.no-drop-cap}
+<div class="no-drop-cap">
+
+[NORMAN, Okla., 1 November 2018]&NoBreak;&hairsp;&NoBreak;&mdash;
+</div>
 
 Cleveland County residents may cast early in-person absentee ballots at the Cleveland County Election Board at 641 East Robinson Street (just east of the fairgrounds) beginning today. Polls are open from <span class="no-break"><time datetime="8:00:00-5:00">8 a.m.</time>&NoBreak;&hairsp;&NoBreak;&ndash;&NoBreak;&hairsp;&NoBreak;<time datetime="18:00:00-5:00">6 p.m.</time></span> <time datetime="2018-11-01">today</time> and <time datetime="2018-11-02">Friday</time>, and again from <span class="no-break"><time datetime="9:00:00-5:00">9 a.m.</time>&NoBreak;&hairsp;&NoBreak;&ndash;&NoBreak;&hairsp;&NoBreak;<time datetime="14:00:00-5:00">2 p.m</time></span> on <time datetime="2018-01-03">Saturday</time>.{.drop-cap}
 
@@ -37,7 +40,7 @@ Voters should allow about a half-hour to vote, depending on what time of day the
 
 <mpb-dialog-img>
 
-{% image "./src/assets/images/blog/2018-11-01-mid-term-voting/czahller-20181101-11-20-39.jpg", "img-constrained", "Voters in Line (I) — Cleveland Co., Oklahoma 2018 Midterm Election Early In-Person Absentee Voting", "Voters in Line (I)&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;Cleveland Co., Oklahoma 2018 Midterm Election Early In-Person Absentee Voting" %}</mpb-dialog-img>
+{% image "./src/assets/images/blog/2018-11-01-mid-term-voting/czahller-20181101-11-20-39.jpg", "", "Voters in Line (I)", "Voters in Line (I)&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;Cleveland Co., Oklahoma 2018 Midterm Election Early In-Person Absentee Voting", "large" %}</mpb-dialog-img>
 
 In addition to voting to fill the positions of Governor, Lieutenant Governor, Attorney General, Auditor and Inspector, Treasurer, Superintendent of Public Construction, Labor Commissioner, an open State Senate seat, County Commissioner, and County Sheriff, voters will decide on five state questions:
 
@@ -53,15 +56,23 @@ Voters will also decide whether to retain sitting judges.<a href="#mn1" id="mnre
 
 <mpb-dialog-gallery hint rel cols="8">
   
-  ![Voters in Line (I) — Cleveland Co., Oklahoma 2018 Midterm Election Early In-Person Absentee Voting](/assets/images/blog/2018-11-01-mid-term-voting/czahller-20181101-11-20-39.jpg)
-  ![Waiting to Complete Ballot Request Forms — Cleveland Co., Oklahoma 2018 Midterm Election Early In-Person Absentee Voting](/assets/images/blog/2018-11-01-mid-term-voting/czahller-20181101-11-30-27.jpg)
-  ![Shirley — Cleveland Co., Oklahoma 2018 Midterm Election Early In-Person Absentee Voting](/assets/images/blog/2018-11-01-mid-term-voting/czahller-20181101-11-30-53.jpg)
-  ![Election Board Employee — Cleveland Co., Oklahoma 2018 Midterm Election Early In-Person Absentee Voting](/assets/images/blog/2018-11-01-mid-term-voting/czahller-20181101-11-34-47.jpg)
-  ![Poll Worker — Cleveland Co., Oklahoma 2018 Midterm Election Early In-Person Absentee Voting](/assets/images/blog/2018-11-01-mid-term-voting/czahller-20181101-11-41-09.jpg)
-  ![Poll Workers Processing Paperwork & Fetching Ballots — Cleveland Co., Oklahoma 2018 Midterm Election Early In-Person Absentee Voting](/assets/images/blog/2018-11-01-mid-term-voting/czahller-20181101-11-45-34.jpg)
-  ![Voters in Line (II) — Cleveland Co., Oklahoma 2018 Midterm Election Early In-Person Absentee Voting](/assets/images/blog/2018-11-01-mid-term-voting/czahller-20181101-11-51-01.jpg)
-  ![Lauren Linvell & Kyle Payne of the OU NIghtly on the Beat — Cleveland Co., Oklahoma 2018 Midterm Election Early In-Person Absentee Voting](/assets/images/blog/2018-11-01-mid-term-voting/czahller-20181101-11-51-20.jpg)
-  ![Cleveland County Election Board Sign & Seal](/assets/images/blog/2018-11-01-mid-term-voting/czahller-20181101-11-52-29.jpg)
+   {% image "./src/assets/images/blog/2018-11-01-mid-term-voting/czahller-20181101-11-20-39.jpg", "", "Voters in Line", "Voters in Line (I)" %}
+
+   {% image "./src/assets/images/blog/2018-11-01-mid-term-voting/czahller-20181101-11-30-27.jpg", "", "Waiting to Complete Ballot Request Forms", "Waiting to Complete Ballot Request Forms" %}
+
+   {% image "./src/assets/images/blog/2018-11-01-mid-term-voting/czahller-20181101-11-30-53.jpg", "", "Election official Shirley", "Shirley" %}
+
+   {% image "./src/assets/images/blog/2018-11-01-mid-term-voting/czahller-20181101-11-34-47.jpg", "", "Election Board Employee", "Election Board Employee" %}
+
+   {% image "./src/assets/images/blog/2018-11-01-mid-term-voting/czahller-20181101-11-41-09.jpg", "", "Poll Worker", "Poll Worker" %}
+
+   {% image "./src/assets/images/blog/2018-11-01-mid-term-voting/czahller-20181101-11-45-34.jpg", "", "Poll Workers Processing Paperwork & Fetching Ballots", "Poll Workers Processing Paperwork & Fetching Ballots" %}
+
+   {% image "./src/assets/images/blog/2018-11-01-mid-term-voting/czahller-20181101-11-51-01.jpg", "", "Voters in Line", "Voters in Line (II)" %}
+
+   {% image "./src/assets/images/blog/2018-11-01-mid-term-voting/czahller-20181101-11-51-20.jpg", "", "Lauren Linvell & Kyle Payne of the OU NIghtly on the Beat", "Lauren Linvell & Kyle Payne of the OU NIghtly on the Beat" %}
+
+   {% image "featured", "", "Cleveland County Election Board Sign & Seal", "Cleveland County Election Board Sign & Seal" %}
 </mpb-dialog-gallery>
 
 <hr class="marginnotes-sep" />

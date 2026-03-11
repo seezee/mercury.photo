@@ -117,19 +117,17 @@ html {
     scrollbar-color: var(--mpb-color-accent) transparent;
   }
 
-  &.fonts-stage-2 {
-    font-family: var(--mpb-font-default);
-    font-weight: var(--normal, 400);
-    font-style: normal;
+  font-family: var(--mpb-font-default);
+  font-weight: var(--normal, 400);
+  font-style: normal;
 
-    &[data-theme="dark"] {
-      color-scheme: dark;
-      font-variation-settings: "wdth" 105.1;
-    }
+  &[data-theme="dark"] {
+    color-scheme: dark;
+    font-variation-settings: "wdth" 105.1;
   }
 
   font-variant: normal;
-  font-size: var(--mpb-size-textDefault);
+  font-size: var(--mpb-size-text-default);
   /* Don't let Safari on iOS for phones resize text in landscape orientation */
   /* Modern browsers allow users to zoom text with these rule */
   -moz-text-size-adjust: none;
@@ -139,8 +137,8 @@ html {
   hyphens: auto;
   hyphenate-limit-chars: 6 3 3;
 
-  color: var(--mpb-color-textPrimary);
-  background-color: var(--mpb-color-textReverse);
+  color: var(--mpb-color-text-primary);
+  background-color: var(--mpb-color-text-reverse);
 
   transition:
     background-color 0.1s ease,
@@ -170,11 +168,6 @@ html {
 
 body {
   position: relative; /* Needed for sticky scroll position */
-  padding-inline: 0.5rem;
-
-  @media screen and (min-width: 42rem) {
-    padding-inline: 1rem;
-  }
 
   accent-color: var(--mpb-color-accent);
 
@@ -206,17 +199,15 @@ h6 {
   break-after: avoid;
 }
 
-.fonts-stage-2 {
-  h1,
-  h2,
-  h3 {
-    font-family: var(--mpb-font-display);
-    font-weight: var(--bold, 700);
+h1,
+h2,
+h3 {
+  font-family: var(--mpb-font-display);
+  font-weight: var(--bold, 700);
 
-    .small-caps {
-      font-family: var(--mpb-font-display-sc);
-      font-variant: normal;
-    }
+  .small-caps {
+    font-family: var(--mpb-font-display-sc);
+    font-variant: normal;
   }
 }
 
@@ -342,6 +333,10 @@ blockquote,
 
 /* ol, ul, dt */
 
+ul {
+  padding-inline-start: 1lh;
+}
+
 .search-instructions ol ol {
   list-style-type: upper-alpha;
 }
@@ -350,12 +345,10 @@ dl {
   margin-block-start: 0;
 }
 
-.fonts-stage-2 {
-  dt {
-    font-family: var(--mpb-font-sans);
-    line-height: var(--line-height-sm);
-    text-wrap: balance;
-  }
+dt {
+  font-family: var(--mpb-font-sans);
+  line-height: var(--line-height-sm);
+  text-wrap: balance;
 }
 
 dt,
@@ -377,14 +370,6 @@ dt {
     break-before: avoid;
   }
 
-  &:not(:first-child) {
-    margin-block-start: var(--s1);
-  }
-
-  & + dt:not(:first-child) {
-    margin-block-start: 0;
-  }
-
   & p:last-of-type {
     margin-block-end: 0;
   }
@@ -393,17 +378,16 @@ dt {
 dd {
   margin-inline-start: var(--s3);
 
-  &:last-of-type {
-    margin-block-end: var(--s1);
-  }
-
   p:last-of-type {
     margin-block-end: 0;
   }
 
+  &:has(+ dt) {
+    margin-block-end: var(--s1);
+  }
+
   & + dd {
     break-before: avoid;
-    margin-block-start: var(--s1);
   }
 }
 
@@ -412,8 +396,7 @@ details {
   block-size: 2.5rem;
   inline-size: fit-content;
   max-inline-size: 100%;
-  padding-inline: var(--s0);
-  padding-block: var(--s-4);
+  padding: var(--s0);
   margin-block-end: var(--s3);
 
   transition: block-size 0.5s ease;
@@ -427,7 +410,7 @@ details {
   > * {
     padding: var(--s1);
 
-    border: var(--s-5) solid var(--mpb-color-textPrimary);
+    border: var(--s-5) solid var(--mpb-color-text-primary);
     border-start-end-radius: var(--mpb-radius-1x);
     border-end-start-radius: var(--mpb-radius-1x);
     border-end-end-radius: var(--mpb-radius-1x);
@@ -465,10 +448,8 @@ details {
   }
 }
 
-.fonts-stage-2 {
-  summary {
-    font-family: var(--mpb-font-sans);
-  }
+summary {
+  font-family: var(--mpb-font-sans);
 }
 
 summary {
@@ -480,8 +461,8 @@ summary {
   text-transform: uppercase;
   text-wrap: balance;
 
-  color: var(--mpb-color-textSecondary);
-  background-color: var(--mpb-color-textPrimary);
+  color: var(--mpb-color-text-secondary);
+  background-color: var(--mpb-color-text-primary);
   border-radius: var(--mpb-radius-1x);
 
   list-style: none;
@@ -503,29 +484,27 @@ summary {
 
 /* table */
 
-.fonts-stage-2 {
-  table {
-    font-family: var(--mpb-font-mono);
-  }
+table {
+  font-family: var(--mpb-font-mono);
 }
 
 table {
-  border: 1px solid var(--mpb-color-textPrimary);
+  border: 1px solid var(--mpb-color-text-primary);
   border-collapse: collapse;
 }
 
 table,
 tr {
-  border-block-end: 1px solid var(--mpb-color-textPrimary);
+  border-block-end: 1px solid var(--mpb-color-text-primary);
 }
 
 th {
-  color: var(--mpb-color-textSecondary);
-  background-color: var(--mpb-color-textPrimary);
+  color: var(--mpb-color-text-secondary);
+  background-color: var(--mpb-color-text-primary);
 
   a,
   a:visited {
-    color: var(--mpb-color-textSecondary);
+    color: var(--mpb-color-text-secondary);
   }
 }
 
@@ -538,13 +517,13 @@ td {
 
 th:not(:last-of-type),
 th:first-of-type:not(.no-border) {
-  border-inline-end: 1px solid var(--mpb-color-textSecondary);
-  border-block-end: 1px solid var(--mpb-color-textSecondary);
+  border-inline-end: 1px solid var(--mpb-color-text-secondary);
+  border-block-end: 1px solid var(--mpb-color-text-secondary);
 }
 
 td:not(:last-of-type),
 .td-with-border {
-  border-inline-end: 1px solid var(--mpb-color-textPrimary);
+  border-inline-end: 1px solid var(--mpb-color-text-primary);
 }
 
 #measure-volume {
@@ -567,13 +546,10 @@ td:not(:last-of-type),
 }
 
 /* form */
-
-.fonts-stage-2 {
-  input,
-  textarea,
-  select {
-    font-family: var(--mpb-font-mono);
-  }
+input,
+textarea,
+select {
+  font-family: var(--mpb-font-mono);
 }
 
 .form-control { /* For custom checkboxes & radio buttons */
@@ -598,9 +574,9 @@ select {
 
   line-height: var(--line-height-sm);
 
-  color: var(--mpb-color-textPrimary);
+  color: var(--mpb-color-text-primary);
   background-color: var(--mpb-color-primary-200);
-  border: solid 2px var(--mpb-color-textPrimary);
+  border: solid 2px var(--mpb-color-text-primary);
   border-radius: var(--mpb-radius-1x);
 }
 
@@ -693,7 +669,7 @@ select {
 textarea {
   padding: var(--s0);
   min-block-size: 5rlh;
-  resize: both;
+  resize: vertical;
 }
 
 label {
@@ -706,22 +682,18 @@ fieldset {
   border-radius: var(--mpb-radius-1x);
 }
 
-.fonts-stage-2 {
-  legend {
-    font-family: var(--mpb-font-display);
-  }
+legend {
+  font-family: var(--mpb-font-display);
 }
 
 legend {
   font-size: var(--mpb-font-size-2);
 }
 
-.fonts-stage-2 {
-  button,
-  .button,
-  label {
-    font-family: var(--mpb-font-sans);
-  }
+button,
+.button,
+label {
+  font-family: var(--mpb-font-sans);
 }
 
 button,
@@ -734,12 +706,10 @@ label {
   }
 }
 
-.fonts-stage-2 {
-  button,
-  .button {
-    a {
-      font-family: var(--mpb-font-sans);
-    }
+button,
+.button {
+  a {
+    font-family: var(--mpb-font-sans);
   }
 }
 
@@ -765,35 +735,35 @@ button,
   }
 
   &.button-primary {
-    color: var(--mpb-color-textReverse);
-    background-color: var(--mpb-color-textPrimary);
+    color: var(--mpb-color-text-reverse);
+    background-color: var(--mpb-color-text-primary);
 
     &:hover,
     &:active {
-      color: var(--mpb-color-hoverSecondary);
-      background-color: var(--mpb-color-hoverPrimary);
+      color: var(--mpb-color-hover-secondary);
+      background-color: var(--mpb-color-hover-primary);
     }
 
     a {
-      color: var(--mpb-color-textReverse);
+      color: var(--mpb-color-text-reverse);
       text-decoration: none;
 
       &:hover,
       &:active {
-        color: var(--mpb-color-hoverSecondary);
+        color: var(--mpb-color-hover-secondary);
       }
     }
   }
 
   &.button-secondary {
-    color: var(--mpb-color-textPrimary);
-    background-color: var(--mpb-color-textSecondary);
-    border-color: var(--mpb-color-textPrimary);
+    color: var(--mpb-color-text-primary);
+    background-color: var(--mpb-color-text-secondary);
+    border-color: var(--mpb-color-text-primary);
 
     &:hover,
     &:active {
-      color: var(--mpb-color-hoverPrimary);
-      background-color: var(--mpb-color-hoverSecondary);
+      color: var(--mpb-color-hover-primary);
+      background-color: var(--mpb-color-hover-secondary);
     }
   }
 
@@ -804,7 +774,7 @@ button,
     margin-inline-end: -0.25em;
     min-inline-size: 24px;
     min-block-size: 24px;
-    color: var(--mpb-color-textPrimary);
+    color: var(--mpb-color-text-primary);
     background: transparent;
 
     &:hover {
@@ -839,11 +809,11 @@ kbd {
 
   font: 80% var(--mpb-font-mono);
 
-  color: var(--mpb-color-textPrimary);
-  background-color: var(--mpb-color-textSecondary);
-  border: 1px solid var(--mpb-color-textPrimary);
+  color: var(--mpb-color-text-primary);
+  background-color: var(--mpb-color-text-secondary);
+  border: 1px solid var(--mpb-color-text-primary);
   border-radius: var(--mpb-radius-1x);
-  box-shadow: inset 0 -1px 0 var(--mpb-color-textPrimary);
+  box-shadow: inset 0 -1px 0 var(--mpb-color-text-primary);
 }
 
 /* figure, picture, img, canvas, video, svg */
@@ -853,13 +823,21 @@ audio {
 }
 
 figure {
-  padding-block-start: var(--s-1);
-  padding-block-end: var(--s1);
-  padding-inline: var(--s-1);
-  background-color: var(--mpb-color-figureBG);
+  block-size: min-content;
+
+  &:has(figcaption) {
+    padding-block-start: var(--s-1);
+    padding-block-end: var(--s1);
+    padding-inline: var(--s-1);
+    background-color: var(--mpb-color-figure-bg);
+  }
 
   & img {
-    background-color: var(--mpb-color-imgBG);
+    background-color: var(--mpb-color-img-bg);
+  }
+
+  &:has(+ picture) {
+    margin-block-end: var(--s1);
   }
 }
 
@@ -879,11 +857,14 @@ figcaption {
 }
 
 dialog figure img {
-  --mpb-color-imgBG: oklch(var(--mpb-c-p-50));
+  --mpb-color-img-bg: oklch(var(--mpb-c-p-50));
 }
 
 picture {
-  margin-block-end: var(--s1);
+
+  &:has(+ figcaption) {
+    margin-block-end: var(--s1);
+  }
 }
 
 img {
@@ -912,7 +893,7 @@ svg.accent path {
 /* dialog */
 dialog {
   overscroll-behavior: contain;
-  color: var(--mpb-color-textPrimary);
+  color: var(--mpb-color-text-primary);
 
   &::backdrop {
     pointer-events: none;
@@ -957,7 +938,7 @@ a,
 a:visited {
   text-decoration-color: var(--mpb-color-accent);
   text-underline-offset: 0.2ex;
-  color: var(--mpb-color-textPrimary);
+  color: var(--mpb-color-text-primary);
 }
 
 a[href^="http://"]:not([href*="mercury.photo"]):not([href*="localhost"]):not(
@@ -972,6 +953,7 @@ a[href^="https://"]:not([href*="mercury.photo"]):not([href*="localhost"]):not(
     inline-size: 1ch;
     block-size: 1lh;
 
+    /* Word joiner */
     content: "\2060" / "[Opens in new window]";
     background: var(--mpb-icon-external) no-repeat;
     vertical-align: middle;
@@ -979,27 +961,10 @@ a[href^="https://"]:not([href*="mercury.photo"]):not([href*="localhost"]):not(
   }
 }
 
-blockquote
-  footer
-  a[href^="http://"]:not([href*="mercury.photo"]):not([href*="localhost"]):not(
-    .link-social
-  ):after,
-blockquote
-  footer
-  a[href^="https://"]:not([href*="mercury.photo"]):not([href*="localhost"]):not(
-    .link-social
-  ):after {
-  margin-inline-start: 1ch;
-  margin-inline-end: -0.5ch;
-}
-
 /* code, math */
-
-.fonts-stage-2 {
-  code,
-  math {
-    font-family: var(--mpb-font-mono);
-  }
+code,
+math {
+  font-family: var(--mpb-font-mono);
 }
 
 code,
@@ -1062,13 +1027,23 @@ q {
   }
 }
 
-mark {
-  color: var(--mpb-color-textReverse);
+small:empty {
+  display: none;
+}
+
+mark,
+::selection,
+::target-text,
+::search-text {
+  color: var(--mpb-color-text-reverse);
   background-color: var(--mpb-color-accent);
 }
 
 @media (forced-colors: active) {
-  :where(mark) {
+  :where(mark),
+  :where(::selection),
+  :where(::target-text),
+  :where(::search-text) {
     color: HighlightText;
     background-color: Highlight;
   }
@@ -1084,12 +1059,12 @@ ins {
   background:
     linear-gradient(
       180deg,
-      var(--mpb-color-textReverse) 65%,
+      var(--mpb-color-text-reverse) 65%,
       var(--mpb-color-highlight) 65%
     ),
     linear-gradient(
       180deg,
-      var(--mpb-color-textReverse) 65%,
+      var(--mpb-color-text-reverse) 65%,
       oklch(90% 0 0) 65%
     );
   text-decoration: none;
@@ -1150,10 +1125,8 @@ main {
 }
 
 /* nav */
-.fonts-stage-2 {
-  nav {
-    font-family: var(--mpb-font-sans);
-  }
+nav {
+  font-family: var(--mpb-font-sans);
 }
 
 nav {
@@ -1165,7 +1138,7 @@ nav {
 /* hr */
 
 hr {
-  border-color: var(--mpb-color-textPrimary);
+  border-color: var(--mpb-color-text-primary);
 }
 
 address,
@@ -1185,6 +1158,6 @@ main ul li::marker {
 /* :target-text */
 
 ::target-text {
-  color: var(--mpb-color-textSecondary);
-  background-color: var(--mpb-color-textPrimary);
+  color: var(--mpb-color-text-secondary);
+  background-color: var(--mpb-color-text-primary);
 }

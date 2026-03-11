@@ -6,15 +6,23 @@
 
 export default class DialogImage extends HTMLElement {
   connectedCallback() {
+
+    function generateUniqueId(length) {
+        let result = ``;
+        const characters = 'abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789-_';
+
+        // Loop to generate characters for the specified length
+        for (let i = 0; i < length; i++) {
+            const randomInd = Math.floor(Math.random() * characters.length);
+            result += characters.charAt(randomInd);
+        }
+        return result;
+    }
+
     // Get elements, should be one of each only.
     const image = this.querySelector(`img`);
     const altAttr = image.getAttribute(`alt`);
-    const imageUrl = image.getAttribute(`src`);
-    const split = imageUrl.split('.');
 
-    split.pop();
-
-    const imageUrlTrimmed = split.join('.');
     const fig = image.parentNode.parentNode;
     const caption = this.querySelector(`figcaption`);
     let   captionText = ``;
@@ -34,11 +42,14 @@ export default class DialogImage extends HTMLElement {
 
     // Create the dialog.
     const modal       = document.createElement(`dialog`);
+    const uniqueID    = generateUniqueId(24);
     const formWrapper = document.createElement(`div`);
     const form        = document.createElement(`form`);
 
     modal.setAttribute(`class`, `image-modal`);
     modal.setAttribute(`closedby`, `any`);
+    modal.setAttribute(`id`, `img-modal-${uniqueID}`)
+
 
     formWrapper.classList.add(`modal-wrapper`);
     formWrapper.setAttribute(`tabindex`, `0`);
@@ -52,14 +63,7 @@ export default class DialogImage extends HTMLElement {
     formWrapper.append(form);
     form.innerHTML = `
 <figure>
-  <picture>
-    <stack-l class="modal-wrapper-inner">
-      <source type="image/webp"/>
-      <source type="image/jpeg"/>
-      <img loading="lazy" decoding="async" />
-      <figcaption></figcaption>
-    </stack-l>
-  </picture>
+  <figcaption></figcaption>
 </figure>
     `;
 
@@ -82,11 +86,14 @@ export default class DialogImage extends HTMLElement {
     iconClose.setAttribute(`viewBox`, `0 0 512 512`);
     iconClose.append(iconClosePath);
 
-    iconClosePath.setAttribute(`fill`, `var(--mpb-color-textPrimary)`);
+    iconClosePath.setAttribute(`fill`, `var(--mpb-color-text-primary)`);
     iconClosePath.setAttribute(
       `d`,
       `M256 512a256 256 0 1 0 0-512 256 256 0 1 0 0 512zM167 167c9.4-9.4 24.6-9.4 33.9 0l55 55 55-55c9.4-9.4 24.6-9.4 33.9 0s9.4 24.6 0 33.9l-55 55 55 55c9.4 9.4 9.4 24.6 0 33.9s-24.6 9.4-33.9 0l-55-55-55 55c-9.4 9.4-24.6 9.4-33.9 0s-9.4-24.6 0-33.9l55-55-55-55c-9.4-9.4-9.4-24.6 0-33.9z`
     );
+
+    closeButton.setAttribute(`command`, `close`);
+    closeButton.setAttribute(`commandfor`, `img-modal-${uniqueID}`);
 
     form.prepend(closeButton);
 
@@ -102,20 +109,6 @@ export default class DialogImage extends HTMLElement {
     // but immediately after.
     fig.parentNode.insertBefore(modal, fig.nextSibling);
 
-    const wrapInner = this.getElementsByClassName(`modal-wrapper-inner`)[0];
-    const src1 = wrapInner.getElementsByTagName(`source`)[0];
-    const src2 = wrapInner.getElementsByTagName(`source`)[1];
-    const imgTag = wrapInner.getElementsByTagName(`img`)[0];
-    const modalCap = wrapInner.getElementsByTagName(`figcaption`)[0];
-
-    src1.setAttribute(`srcset`, `${imageUrlTrimmed}.webp`);
-    src2.setAttribute(`srcset`, `${imageUrlTrimmed}.jpeg`);
-    imgTag.setAttribute(`src`, imageUrl);
-    imgTag.setAttribute(`alt`, altAttr);
-    imgTag.setAttribute(`width`, imgTag.naturalWidth);
-    imgTag.setAttribute(`height`, imgTag.naturalHeight);
-    modalCap.innerText = captionText;
-
     // Add attribute for accessibility
     image.setAttribute(`tabindex`, `0`);
     image.setAttribute(`aria-haspopup`, `dialog`);
@@ -127,6 +120,18 @@ export default class DialogImage extends HTMLElement {
       // https://www.joshwcomeau.com/css/has/#global-detection-6.
       // This can be removed once overscroll-behavior:contain has full support
       modal.setAttribute(`data-disable-document-scroll`, true);
+
+      const img             = e.target;
+      const figure          = img.parentNode.parentNode;
+      const figClone        = figure.cloneNode(true);
+      const figCloneImg     = figClone.getElementsByTagName(`img`)[0];
+      const currentFig      = modal.getElementsByTagName(`figure`)[0];
+
+      figCloneImg.removeAttribute(`tabindex`);
+      figCloneImg.removeAttribute(`aria-haspopup`);
+
+      currentFig?.replaceWith(figClone);
+
       // Open the modal.
       modal.showModal();
     });
@@ -135,12 +140,24 @@ export default class DialogImage extends HTMLElement {
     image.addEventListener(
       `keydown`,
       (e) => {
+        const img        = e.target;
+        const figure     = img.parentNode.parentNode;
+        const figClone   = figure.cloneNode(true);
+        const figCloneImg     = figClone.getElementsByTagName(`img`)[0];
+        const currentFig = modal.getElementsByTagName(`figure`)[0];
+
         switch (e.key) {
           case `Enter`:
             e.preventDefault();
             // Prevent scrolling outside the modal.
             modal.setAttribute(`data-disable-document-scroll`, true);
-            // Open the modal.
+
+            figCloneImg.removeAttribute(`tabindex`);
+            figCloneImg.removeAttribute(`aria-haspopup`);
+
+            currentFig?.replaceWith(figClone);
+
+           // Open the modal.
             modal.showModal();
             break;
           default:

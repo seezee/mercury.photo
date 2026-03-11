@@ -29,7 +29,7 @@ excerpt: We first met singer and songwriter Ken Pomeroy on New Year’s Eve, 201
 <p>Prodigy’s Woodyfest debut</p></stack-l></hgroup>
 <!-- markdownlint-enable MD025 --><mpb-dialog-img>
 
-{% image "featured", "img-constrained", "Kyle Reid & Ken Pomeroy — 21st Annual Woody Guthrie Festival, 2018", "Kyle Reid & Ken Pomeroy&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;21st Annual Woody Guthrie Festival, 2018", "eager" %}</mpb-dialog-img>
+{% image "featured", "", "Kyle Reid & Ken Pomeroy", "Kyle Reid & Ken Pomeroy", "eager" %}</mpb-dialog-img>
 
 We first met singer and songwriter <span class="h-card p-name">Ken Pomeroy</span> on <time datetime="2015-12-21T22:35:59-6:00">New Year’s Eve, 2015</time>. Her father, <span class="h-card p-name p-given-name">Skippy</span>, builds racing motorcycles in the large shop behind the family home and occasionally hosts concerts on the small stage inside.[^1] <span class="h-card p-org"><span class="p-name">Kyle Reid</span> and the Low-Swinging Chariots</span> headlined the end-of-year celebration. Before Reid’s set, Pomeroy played a short set of covers and original songs to a receptive audience.{.drop-cap}
 
@@ -60,16 +60,27 @@ Pomeroy has been appearing on the unofficial stage at <span class="h-card p-org"
 
 <mpb-dialog-gallery hint rel cols="8">
 
-  ![Kyle Reid & Ken Pomeroy — 21st Annual Woody Guthrie Festival, 2018](/assets/images/blog/2019-02-01-woodyfest-ken-pomeroy/czahller-20180714-18-12-35.jpg)
-  ![Ken Pomeroy — 21st Annual Woody Guthrie Festival, 2018](/assets/images/blog/2019-02-01-woodyfest-ken-pomeroy/czahller-20180714-18-14-27.jpg)
-  ![Kyle & Ken — 21st Annual Woody Guthrie Festival, 2018](/assets/images/blog/2019-02-01-woodyfest-ken-pomeroy/czahller-20180714-18-14-51.jpg)
-  ![Ken (I) — 21st Annual Woody Guthrie Festival, 2018](/assets/images/blog/2019-02-01-woodyfest-ken-pomeroy/czahller-20180714-18-15-15.jpg)
-  ![Ken (II) — 21st Annual Woody Guthrie Festival, 2018](/assets/images/blog/2019-02-01-woodyfest-ken-pomeroy/czahller-20180714-18-15-26.jpg)
-  ![Kyle Reid — 21st Annual Woody Guthrie Festival, 2018](/assets/images/blog/2019-02-01-woodyfest-ken-pomeroy/czahller-20180714-18-15-59.jpg)
-  ![Ken Pomeroy & Kyle Reid (Upstage View) — 21st Annual Woody Guthrie Festival, 2018](/assets/images/blog/2019-02-01-woodyfest-ken-pomeroy/czahller-20180714-18-16-31.jpg)
-  ![Kyle & Ken (I) — 21st Annual Woody Guthrie Festival, 2018](/assets/images/blog/2019-02-01-woodyfest-ken-pomeroy/czahller-20180714-18-16-52.jpg)
-  ![Kyle & Ken (II) — 21st Annual Woody Guthrie Festival, 2018](/assets/images/blog/2019-02-01-woodyfest-ken-pomeroy/czahller-20180714-18-18-07.jpg)
-  ![Kyle — 21st Annual Woody Guthrie Festival, 2018](/assets/images/blog/2019-02-01-woodyfest-ken-pomeroy/czahller-20180714-18-26-09.jpg)
-  ![Ken (III) — 21st Annual Woody Guthrie Festival, 2018](/assets/images/blog/2019-02-01-woodyfest-ken-pomeroy/czahller-20180714-18-27-54.jpg)
-  ![Embroidered Denim Jumpsuit — 21st Annual Woody Guthrie Festival, 2018](/assets/images/blog/2019-02-01-woodyfest-ken-pomeroy/czahller-20180714-18-36-08.jpg)
+  {% image "featured", "", "Kyle Reid & Ken Pomeroy", "Kyle Reid & Ken Pomeroy" %}
+
+  {% image "./src/assets/images/blog/2019-02-01-woodyfest-ken-pomeroy/czahller-20180714-18-14-27.jpg", "", "Ken Pomeroy", "Ken Pomeroy" %}
+
+  {% image "./src/assets/images/blog/2019-02-01-woodyfest-ken-pomeroy/czahller-20180714-18-14-51.jpg", "", "Kyle Reid & Ken Pomeroy", "Kyle & Ken" %}
+
+  {% image "./src/assets/images/blog/2019-02-01-woodyfest-ken-pomeroy/czahller-20180714-18-15-15.jpg", "", "Ken Pomeroy", "Ken (I)" %}
+
+  {% image "./src/assets/images/blog/2019-02-01-woodyfest-ken-pomeroy/czahller-20180714-18-15-26.jpg", "", "Ken Pomeroy", "Ken (II)" %}
+
+  {% image "./src/assets/images/blog/2019-02-01-woodyfest-ken-pomeroy/czahller-20180714-18-15-59.jpg", "", "Kyle Reid", "Kyle Reid" %}
+
+  {% image "./src/assets/images/blog/2019-02-01-woodyfest-ken-pomeroy/czahller-20180714-18-16-31.jpg", "", "Ken Pomeroy & Kyle Reid viewed fromm upstage", "Ken Pomeroy & Kyle Reid (Upstage View)" %}
+
+  {% image "./src/assets/images/blog/2019-02-01-woodyfest-ken-pomeroy/czahller-20180714-18-16-52.jpg", "", "Kyle Reid & Ken Pomeroy", "Kyle & Ken (I)" %}
+
+  {% image "./src/assets/images/blog/2019-02-01-woodyfest-ken-pomeroy/czahller-20180714-18-18-07.jpg", "", "Kyle Reid & Ken Pomeroy", "Kyle & Ken (II)" %}
+
+  {% image "./src/assets/images/blog/2019-02-01-woodyfest-ken-pomeroy/czahller-20180714-18-26-09.jpg", "", "Kyle Reid", "Kyle" %}
+
+  {% image "./src/assets/images/blog/2019-02-01-woodyfest-ken-pomeroy/czahller-20180714-18-27-54.jpg", "", "Ken Pomeroy", "Ken (III)" %}
+
+  {% image "./src/assets/images/blog/2019-02-01-woodyfest-ken-pomeroy/czahller-20180714-18-36-08.jpg", "", "Detail of Ken Pomeroy’s embroidered denim jumpsuit", "Embroidered Denim Jumpsuit" %}
 </mpb-dialog-gallery>

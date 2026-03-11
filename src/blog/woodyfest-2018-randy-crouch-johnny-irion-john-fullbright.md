@@ -25,7 +25,7 @@ excerpt: This writer had only one official assignment at the big outdoor stage o
 <!-- markdownlint-enable MD025 -->
 <mpb-dialog-img>
 
-{% image "featured", "img-constrained", "John Fullbright at the Keyboard — 21st Annual Woody Guthrie Festival, 2018", "John Fullbright at the Keyboard — 21st Annual Woody Guthrie Festival, 2018", "eager" %}</mpb-dialog-img>
+{% image "featured", "", "John Fullbright at the Keyboard", "John Fullbright at the Keyboard", "eager" %}</mpb-dialog-img>
 
 ## Closing Night
 
@@ -69,26 +69,47 @@ We imagine greater things to come.
 
 <mpb-dialog-gallery hint rel cols="8">
 
-  ![Annie Payne, David Teegarden, Randy Crouch, Morgan Reynolds, Scott Evans, Kurt “Frenchie” Nielsen, Michael Schembre, & Don Morris — 21st Annual Woody Guthrie Festival, 2018](/assets/images/blog/2019-02-11-woodyfest-crouch-irion-fullbright/czahller-20180714-20-41-03.jpg)
-  ![David Teegarden, Randy Crouch, Morgan Reynolds, Scott Evans, Kurt “Frenchie” Nielsen, & Michael Schembre — 21st Annual Woody Guthrie Festival, 2018](/assets/images/blog/2019-02-11-woodyfest-crouch-irion-fullbright/czahller-20180714-20-41-16.jpg)
-  ![Michael Schembre — 21st Annual Woody Guthrie Festival, 2018](/assets/images/blog/2019-02-11-woodyfest-crouch-irion-fullbright/czahller-20180714-21-48-12.jpg)
-  ![Michael Schembre Fiddle Solo — 21st Annual Woody Guthrie Festival, 2018](/assets/images/blog/2019-02-11-woodyfest-crouch-irion-fullbright/czahller-20180714-21-48-15.jpg)
-  ![Johnny Irion Guitar Solo (I) — 21st Annual Woody Guthrie Festival, 2018](/assets/images/blog/2019-02-11-woodyfest-crouch-irion-fullbright/czahller-20180714-22-27-02.jpg)
-  ![Johnny Irion Guitar Solo (II) — 21st Annual Woody Guthrie Festival, 2018](/assets/images/blog/2019-02-11-woodyfest-crouch-irion-fullbright/czahller-20180714-22-27-05.jpg)
-  ![Johnny Irion on the Drum Podium — 21st Annual Woody Guthrie Festival, 2018](/assets/images/blog/2019-02-11-woodyfest-crouch-irion-fullbright/czahller-20180714-22-35-39.jpg)
-  ![Johnny Irion Guitar Solo (III) — 21st Annual Woody Guthrie Festival, 2018](/assets/images/blog/2019-02-11-woodyfest-crouch-irion-fullbright/czahller-20180714-22-35-43.jpg)
-  ![John Fullbright at the Keyboard — 21st Annual Woody Guthrie Festival, 2018](/assets/images/blog/2019-02-11-woodyfest-crouch-irion-fullbright/czahller-20180714-23-08-16.jpg)
-  ![Willis Alan Ramsey, Jared Tyler, Aaron Boehler, Stephen Lee, & John Fullbright — 21st Annual Woody Guthrie Festival, 2018](/assets/images/blog/2019-02-11-woodyfest-crouch-irion-fullbright/czahller-20180714-23-09-26.jpg)
-  ![John Fullbright Audience (I) — 21st Annual Woody Guthrie Festival, 2018](/assets/images/blog/2019-02-11-woodyfest-crouch-irion-fullbright/czahller-20180714-23-09-38.jpg)
-  ![Willis, Terry, & Jake — 21st Annual Woody Guthrie Festival, 2018](/assets/images/blog/2019-02-11-woodyfest-crouch-irion-fullbright/czahller-20180714-23-09-48.jpg)
-  ![Willis Alan Ramsey, Jared Tyler, Terry “Buffalo” Ware, Jake Lynn, John Fullbright, Aaron Boehler, & Stephen Lee (Fisheye) — 21st Annual Woody Guthrie Festival, 2018](/assets/images/blog/2019-02-11-woodyfest-crouch-irion-fullbright/czahller-20180714-23-11-40.jpg)
-  ![John Fullbright Looking Back at Drummer Jake Lynn — 21st Annual Woody Guthrie Festival, 2018](/assets/images/blog/2019-02-11-woodyfest-crouch-irion-fullbright/czahller-20180714-23-29-56.jpg)
-  ![John & Terry (Guitar Break) — 21st Annual Woody Guthrie Festival, 2018](/assets/images/blog/2019-02-11-woodyfest-crouch-irion-fullbright/czahller-20180714-23-45-53.jpg)
-  ![John Looking Back at Aaron Boehler [off-camera] — 21st Annual Woody Guthrie Festival, 2018](/assets/images/blog/2019-02-11-woodyfest-crouch-irion-fullbright/czahller-20180714-23-46-04.jpg)
-  ![John Fullbright with Guitar — 21st Annual Woody Guthrie Festival, 2018](/assets/images/blog/2019-02-11-woodyfest-crouch-irion-fullbright/czahller-20180714-23-46-42.jpg)
-  ![John Playing Harmonica — 21st Annual Woody Guthrie Festival, 2018](/assets/images/blog/2019-02-11-woodyfest-crouch-irion-fullbright/czahller-20180714-23-46-52.jpg)
-  ![John Fullbright (I) — 21st Annual Woody Guthrie Festival, 2018](/assets/images/blog/2019-02-11-woodyfest-crouch-irion-fullbright/czahller-20180714-23-47-19.jpg)
-  ![John Fullbright (I) — 21st Annual Woody Guthrie Festival, 2018](/assets/images/blog/2019-02-11-woodyfest-crouch-irion-fullbright/czahller-20180714-23-56-39.jpg)
-  ![Behind the Throne — 21st Annual Woody Guthrie Festival, 2018](/assets/images/blog/2019-02-11-woodyfest-crouch-irion-fullbright/czahller-20180715-00-03-58.jpg)
-  ![John Fullbright Audience (II) — 21st Annual Woody Guthrie Festival, 2018](/assets/images/blog/2019-02-11-woodyfest-crouch-irion-fullbright/czahller-20180715-00-12-15.jpg)
+  {% image "./src/assets/images/blog/2019-02-11-woodyfest-crouch-irion-fullbright/czahller-20180714-20-41-03.jpg", "", "Annie Payne, David Teegarden, Randy Crouch, Morgan Reynolds, Scott Evans, Kurt “Frenchie” Nielsen, Michael Schembre, & Don Morris", "Annie Payne, David Teegarden, Randy Crouch, Morgan Reynolds, Scott Evans, Kurt “Frenchie” Nielsen, Michael Schembre, & Don Morris" %}
+
+  {% image "./src/assets/images/blog/2019-02-11-woodyfest-crouch-irion-fullbright/czahller-20180714-20-41-16.jpg", "", "David Teegarden, Randy Crouch, Morgan Reynolds, Scott Evans, Kurt “Frenchie” Nielsen, & Michael Schembre", "David Teegarden, Randy Crouch, Morgan Reynolds, Scott Evans, Kurt “Frenchie” Nielsen, & Michael Schembre" %}
+
+  {% image "./src/assets/images/blog/2019-02-11-woodyfest-crouch-irion-fullbright/czahller-20180714-21-48-12.jpg", "", "Michael Schembre", "Michael Schembre" %}
+
+  {% image "./src/assets/images/blog/2019-02-11-woodyfest-crouch-irion-fullbright/czahller-20180714-21-48-15.jpg", "", "Michael Schembre playing a fiddle solo", "Michael Schembre Fiddle Solo" %}
+
+  {% image "./src/assets/images/blog/2019-02-11-woodyfest-crouch-irion-fullbright/czahller-20180714-22-27-02.jpg", "", "Johnny Irion playing a guitar solo", "Johnny Irion Guitar Solo (I)" %}
+
+  {% image "./src/assets/images/blog/2019-02-11-woodyfest-crouch-irion-fullbright/czahller-20180714-22-27-05.jpg", "", "Johnny Irion playing a guitar solo", "Johnny Irion Guitar Solo (II)" %}
+
+  {% image "./src/assets/images/blog/2019-02-11-woodyfest-crouch-irion-fullbright/czahller-20180714-22-35-39.jpg", "", "Johnny Irion playing a guitar solo from the drum riser", "Johnny Irion on the Drum Podium" %}
+
+  {% image "./src/assets/images/blog/2019-02-11-woodyfest-crouch-irion-fullbright/czahller-20180714-22-35-43.jpg", "", "Johnny Irion playing a guitar solo", "Johnny Irion Guitar Solo (III)" %}
+
+  {% image "featured", "", "John Fullbright at the keyboard", "John Fullbright at the Keyboard" %}
+
+  {% image "./src/assets/images/blog/2019-02-11-woodyfest-crouch-irion-fullbright/czahller-20180714-23-09-26.jpg", "", "Willis Alan Ramsey, Jared Tyler, Aaron Boehler, Stephen Lee, & John Fullbright", "Willis Alan Ramsey, Jared Tyler, Aaron Boehler, Stephen Lee, & John Fullbright" %}
+
+  {% image "./src/assets/images/blog/2019-02-11-woodyfest-crouch-irion-fullbright/czahller-20180714-23-09-38.jpg", "", "John Fullbright Audience", "John Fullbright Audience (I)" %}
+
+  {% image "./src/assets/images/blog/2019-02-11-woodyfest-crouch-irion-fullbright/czahller-20180714-23-09-48.jpg", "", "Willis Alan Ramsey, Terry “Buffalo” Ware & Jake Lynn", "Willis, Terry, & Jake" %}
+
+  {% image "./src/assets/images/blog/2019-02-11-woodyfest-crouch-irion-fullbright/czahller-20180714-23-11-40.jpg", "", "Willis Alan Ramsey, Jared Tyler, Terry “Buffalo” Ware, Jake Lynn, John Fullbright, Aaron Boehler, & Stephen Lee", "Willis Alan Ramsey, Jared Tyler, Terry “Buffalo” Ware, Jake Lynn, John Fullbright, Aaron Boehler, & Stephen Lee (Fisheye)" %}
+
+  {% image "./src/assets/images/blog/2019-02-11-woodyfest-crouch-irion-fullbright/czahller-20180714-23-29-56.jpg", "", "John Fullbright at the keyboard, looking back at drummer Jake Lynn, who is upstage from him", "John Fullbright Looking Back at Drummer Jake Lynn" %}
+
+  {% image "./src/assets/images/blog/2019-02-11-woodyfest-crouch-irion-fullbright/czahller-20180714-23-45-53.jpg", "", "John Fullbright & Terry “Buffalo” Ware", "John & Terry (Guitar Break)" %}
+
+  {% image "./src/assets/images/blog/2019-02-11-woodyfest-crouch-irion-fullbright/czahller-20180714-23-46-04.jpg", "", "John looking back at Aaron Boehler, who is out of frame", "John Looking Back at Aaron Boehler" %}
+
+  {% image "./src/assets/images/blog/2019-02-11-woodyfest-crouch-irion-fullbright/czahller-20180714-23-46-42.jpg", "", "John Fullbright with acoustic guitar", "John Fullbright with Guitar" %}
+
+  {% image "./src/assets/images/blog/2019-02-11-woodyfest-crouch-irion-fullbright/czahller-20180714-23-46-52.jpg", "", "John Fullbright playing harmonica and guitar", "John Playing Harmonica" %}
+
+  {% image "./src/assets/images/blog/2019-02-11-woodyfest-crouch-irion-fullbright/czahller-20180714-23-47-19.jpg", "", "John Fullbright with acoustic guitar", "John Fullbright (I)" %}
+
+  {% image "./src/assets/images/blog/2019-02-11-woodyfest-crouch-irion-fullbright/czahller-20180714-23-56-39.jpg", "", "John Fullbright and Terry “Buffalo” Ware face one another as Terry plays a guitar solo", "John Fullbright (I)" %}
+
+  {% image "./src/assets/images/blog/2019-02-11-woodyfest-crouch-irion-fullbright/czahller-20180715-00-03-58.jpg", "", "John Fullbright’s band photographed from behind the drum riser. Drummer Jake Lynn dominates the frame due to fisheye lens “barrel” distortion.", "Behind the Throne" %}
+
+  {% image "./src/assets/images/blog/2019-02-11-woodyfest-crouch-irion-fullbright/czahller-20180715-00-12-15.jpg", "", "John Fullbright Audience", "John Fullbright Audience (II)" %}
 </mpb-dialog-gallery>

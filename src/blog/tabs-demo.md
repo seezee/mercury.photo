@@ -9,7 +9,7 @@ date: 1900-01-01
 # {{ title }}
 <!-- markdownlint-enable MD025 -->
 
-![A placeholder](https://placehold.co/600x400)
+A placeholder](https://placehold.co/600x400)
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.[^1] Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 

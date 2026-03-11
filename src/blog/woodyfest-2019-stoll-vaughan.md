@@ -24,7 +24,7 @@ excerpt: "Two-time chart-topper Stoll Vaughan made his Woodyfest debut in 2019. 
 
 <!-- markdownlint-enable MD025 --><mpb-dialog-img>
 
-{% image "featured", "img-constrained", "Stoll Vaughan (Upstage View) — 22nd Annual Woody Guthrie Festival, 2019", "Stoll Vaughan (Upstage View)&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;22nd Annual Woody Guthrie Festival, 2019", "eager" %}</mpb-dialog-img>
+{% image "featured", "", "Stoll’s hat hanging from the microphone stand", "Hat", "eager" %}</mpb-dialog-img>
 
 Two-time chart-topper <span class="h-card p-name">Stoll Vaughan</span>[^1] made his Woodyfest debut in <time datetime="20">2019</time>. Vaughan took the Crystal Theatre stage <time datetime="2019-07-12T-15:30:005:00">mid-afternoon on festival Friday</time>.
 
@@ -47,11 +47,17 @@ Vaughan's latest release, <cite>[Desire’s Shape](https://geo.music.apple.com/u
 
 <mpb-dialog-gallery hint rel cols="8">
   
-  ![Stoll Vaughan (Upstage View} — 22nd Annual Woody Guthrie Festival, 2019](/assets/images/blog/2020-10-05-woodyfest-stoll-vaughan/czahller-20190712-15-37-17.jpg)
-  ![Stoll Vaughan (I) — 22nd Annual Woody Guthrie Festival, 2019](/assets/images/blog/2020-10-05-woodyfest-stoll-vaughan/czahller-20190712-15-45-43.jpg)
-  ![Stoll Vaughan (II) — 22nd Annual Woody Guthrie Festival, 2019](/assets/images/blog/2020-10-05-woodyfest-stoll-vaughan/czahller-20190712-15-46-16.jpg)
-  ![Stoll Vaughan (Upstage Left View) — 22nd Annual Woody Guthrie Festival, 2019](/assets/images/blog/2020-10-05-woodyfest-stoll-vaughan/czahller-20190712-15-47-51.jpg)
-  ![Stoll Vaughan (III) — 22nd Annual Woody Guthrie Festival, 2019](/assets/images/blog/2020-10-05-woodyfest-stoll-vaughan/czahller-20190712-15-48-30.jpg)
-  ![Stoll Vaughan (IV) — 22nd Annual Woody Guthrie Festival, 2019](/assets/images/blog/2020-10-05-woodyfest-stoll-vaughan/czahller-20190712-16-01-33.jpg)
-  ![Stoll's hat hanging from the microphone stand — 22nd Annual Woody Guthrie Festival, 2019](/assets/images/blog/2020-10-05-woodyfest-stoll-vaughan/czahller-20190712-16-03-31.jpg)
+  {% image "./src/assets/images/blog/2020-10-05-woodyfest-stoll-vaughan/czahller-20190712-15-37-17.jpg", "", "Stoll Vaughan, viewed from upstage", "Stoll Vaughan (Upstage View)" %}
+
+  {% image "./src/assets/images/blog/2020-10-05-woodyfest-stoll-vaughan/czahller-20190712-15-45-43.jpg", "", "Stoll Vaughan", "Stoll Vaughan (I)" %}
+
+  {% image "./src/assets/images/blog/2020-10-05-woodyfest-stoll-vaughan/czahller-20190712-15-46-16.jpg", "", "Stoll Vaughan", "Stoll Vaughan (II)" %}
+
+  {% image "./src/assets/images/blog/2020-10-05-woodyfest-stoll-vaughan/czahller-20190712-15-47-51.jpg", "", "Stoll Vaughan", "Stoll Vaughan (Upstage Left View)" %}
+
+  {% image "./src/assets/images/blog/2020-10-05-woodyfest-stoll-vaughan/czahller-20190712-15-48-30.jpg", "", "Stoll Vaughan", "Stoll Vaughan (III)" %}
+
+  {% image "./src/assets/images/blog/2020-10-05-woodyfest-stoll-vaughan/czahller-20190712-16-01-33.jpg", "", "Stoll Vaughan", "Stoll Vaughan (IV)" %}
+
+  {% image "featured", "", "Stoll’s hat hanging from the microphone stand", "Hat" %}
 </mpb-dialog-gallery>

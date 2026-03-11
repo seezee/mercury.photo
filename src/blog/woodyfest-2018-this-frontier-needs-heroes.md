@@ -23,7 +23,7 @@ excerpt: Brad Lauretti has been wandering. Originally from Brooklyn, then based 
 
 <!-- markdownlint-enable MD025 --><mpb-dialog-img>
 
-{% image "featured", "img-constrained", "Road Case (Ammo Box) — 21st Annual Woody Guthrie Festival, 2018", "Road Case (Ammo Box)&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;21st Annual Woody Guthrie Festival, 2018", "eager" %}</mpb-dialog-img>
+{% image "featured", "", "Army green ammo box covered in band stickers", "Road Case (Ammo Box)", "eager" %}</mpb-dialog-img>
 
 <span class="h-card p-name">Brad Lauretti</span> has been wandering. Originally from Brooklyn, then based in Florida,[^1] now calling Nashville home, Lauretti rarely sleeps in his own bed. The frontman for <span class="h-card p-org">This Frontier Needs Heroes</span> tours constantly: in the last three years he’s played 226 shows, ranging from one end of the continental United States to the other along with much of western Europe. The venues range in size from small dive bars to mid-sized clubs to festival stages.
 
@@ -48,12 +48,19 @@ Lauretti opened <time datetime="2018-07-14T11:00:00-5:00">festival Saturday</tim
 
 <mpb-dialog-gallery hint rel cols="8">
   
-  ![This Frontier Needs Heroes (Brad Lauretti) — 21st Annual Woody Guthrie Festival, 2018](/assets/images/blog/2019-01-07-woodyfest-this-frontier/czahller-20180714-11-01-53.jpg)
-  ![This Frontier Needs Heroes (I) — 21st Annual Woody Guthrie Festival, 2018](/assets/images/blog/2019-01-07-woodyfest-this-frontier/czahller-20180714-11-02-07.jpg)
-  ![This Frontier Needs Heroes (II) — 21st Annual Woody Guthrie Festival, 2018](/assets/images/blog/2019-01-07-woodyfest-this-frontier/czahller-20180714-11-02-59.jpg)
-  ![Brad Playing Harmonica — 21st Annual Woody Guthrie Festival, 2018](/assets/images/blog/2019-01-07-woodyfest-this-frontier/czahller-20180714-11-03-16.jpg)
-  ![This Frontier Needs Heroes (III) — 21st Annual Woody Guthrie Festival, 2018](/assets/images/blog/2019-01-07-woodyfest-this-frontier/czahller-20180714-11-03-37.jpg)
-  ![Harmonica, Rag, and Mobile Phone — 21st Annual Woody Guthrie Festival, 2018](/assets/images/blog/2019-01-07-woodyfest-this-frontier/czahller-20180714-11-30-53.jpg)
-  ![Road Case (Ammo Box) — 21st Annual Woody Guthrie Festival, 2018](/assets/images/blog/2019-01-07-woodyfest-this-frontier/czahller-20180714-11-31-03.jpg)
-  ![Butch (Hancock) and Miss Nellie (Clay) — 21st Annual Woody Guthrie Festival, 2018](/assets/images/blog/2019-01-07-woodyfest-this-frontier/czahller-20180714-11-31-26.jpg)
+  {% image "./src/assets/images/blog/2019-01-07-woodyfest-this-frontier/czahller-20180714-11-01-53.jpg", "", "Brad Lauretti", "This Frontier Needs Heroes (Brad Lauretti)" %}
+
+  {% image "./src/assets/images/blog/2019-01-07-woodyfest-this-frontier/czahller-20180714-11-02-07.jpg", "", "Brad Lauretti", "This Frontier Needs Heroes (I)" %}
+
+  {% image "./src/assets/images/blog/2019-01-07-woodyfest-this-frontier/czahller-20180714-11-02-59.jpg", "", "Brad Lauretti", "This Frontier Needs Heroes (II)" %}
+
+  {% image "./src/assets/images/blog/2019-01-07-woodyfest-this-frontier/czahller-20180714-11-03-16.jpg", "", "Brad Lauretti playing harmonica", "Brad Playing Harmonica" %}
+
+  {% image "./src/assets/images/blog/2019-01-07-woodyfest-this-frontier/czahller-20180714-11-03-37.jpg", "", "Brad Lauretti", "This Frontier Needs Heroes (III)" %}
+
+  {% image "./src/assets/images/blog/2019-01-07-woodyfest-this-frontier/czahller-20180714-11-30-53.jpg", "", "Harmonica, rag, and mobile phone", "Harmonica, Rag, and Mobile Phone" %}
+
+  {% image "featured", "", "Army green ammo box covered in band stickers", "Road Case (Ammo Box)" %}
+
+  {% image "./src/assets/images/blog/2019-01-07-woodyfest-this-frontier/czahller-20180714-11-31-26.jpg", "", "Butch Hancock and Nellie Clay pose in the beer garden", "Butch and Miss Nellie" %}
 </mpb-dialog-gallery>

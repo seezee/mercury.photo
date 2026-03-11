@@ -15,12 +15,12 @@ excerpt: The most essential item in any photographer’s bag is a relatively ine
 
 <!-- markdownlint-enable MD025 --><mpb-dialog-img>
 
-{% image "featured", "img-constrained", "A roll of gaffer tape", "Gaffer Tape (I)", "eager" %}</mpb-dialog-img>
+{% image "featured", "", "A roll of gaffer tape", "Gaffer Tape (I)", "eager" %}</mpb-dialog-img>
 
 The most essential item in any photographer’s bag is a relatively inexpensive item, often overlooked&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;the humble roll of tape. The best tape for making temporary repairs, securing cables, or fastening a wireless trigger to a light stand is not electricians tape, nor is it duct tape&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;it’s gaffer tape (also known as “gaffers” tape or “gaff” tape). In this post, We’ll discuss a hack to make it easier for you to always have this miracle tape handy.
 <mpb-dialog-img>
 
-{% image "./src/assets/images/blog/2015-07-27-gaff-tape/czahller-20150727-16-38-06.jpg", "img-constrained", "Two rolls of gaffer tape, one large, one small, with a penny to show scale", "Gaffer Tape (II)" %}</mpb-dialog-img>
+{% image "./src/assets/images/blog/2015-07-27-gaff-tape/czahller-20150727-16-38-06.jpg", "", "Two rolls of gaffer tape, one large, one small, with a penny to show scale", "Gaffer Tape (II)", "large" %}</mpb-dialog-img>
 
 Gaffer tape is a heavy, cloth-backed, pressure sensitive tape commonly used in the motion picture, television, and theatrical industries. It is strong and reusable, resists heat, and doesn’t ordinarily leave behind adhesive residue when removed (unlike electricians and duct tapes). It’s made in various colors, for either high or low&NoBreak;&hairsp;&NoBreak;&ndash;&NoBreak;&hairsp;&NoBreak;visibility applications, and is manufactured in many widths and lengths.
 
@@ -33,7 +33,7 @@ We recently started shooting with a Fujifilm X-T1, and on its first major outing
 Unfortunately, gaffer tape is sold on very large rolls&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;typically 55 yards, but We’ve seen it in 30-yard rolls as well. The core (the cardboard ring around which the tape is wound) is usually large enough to put an adult person’s arm through, further adding to the tape’s bulk. Having just acquired a 30-yard roll of 1&Prime; wide tape, we needed to reduce its size and weight.
 <mpb-dialog-img>
 
-{% image "./src/assets/images/blog/2015-07-27-gaff-tape/czahller-20150727-16-39-09.jpg", "img-constrained", "Two rolls of gaffer tape, one large, one small, with a penny to show scale", "Gaffer Tape (III)" %}</mpb-dialog-img>
+{% image "./src/assets/images/blog/2015-07-27-gaff-tape/czahller-20150727-16-39-09.jpg", "", "Two rolls of gaffer tape, one large, one small, with a penny to show scale", "Gaffer Tape (III)", "large" %}</mpb-dialog-img>
 
 Looking around the garage, we saw a length of PVC pipe, saved from a previous home-improvement project. We clamped it to a sawhorse and used a scribe to mark it to the width of the tape. Then we cut off a piece with a hacksaw. The cut wasn’t quite straight, so we smoothed it down on a sheet of coarse sandpaper. Finally, we removed the burrs with a reamer.
 

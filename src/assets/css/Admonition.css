@@ -9,7 +9,7 @@
 
   svg,
   path {
-    fill: var(--mpb-color-textPrimary);
+    fill: var(--mpb-color-text-primary);
   }
 }
 
@@ -39,10 +39,8 @@
   font-variant: all-small-caps;
 }
 
-.fonts-stage-2 {
-  .admonition-heading {
-    font-family: var(--mpb-font-sans);
-  }
+.admonition-heading {
+  font-family: var(--mpb-font-sans);
 }
 
 .admonition-icon {

@@ -17,9 +17,11 @@ ogtype: website
 
 <mpb-callout type="note">
 
-This information is from 2012 and is out-of-date. I’ll eventually update it and archive the old info for posterity, but in the meantime, here it is. If you want to know when I update this page, [why not sign up for the newsletter](/contact/newsletter/)?
+  This information is from 2012 and is out-of-date. I’ll eventually update it and archive the old info for posterity, but in the meantime, here it is. If you want to know when I update this page, [why not sign up for the newsletter](/contact/newsletter/)?
+
 </mpb-callout>
-<p class="drop-cap">Here’s my full kit. Everything fits in the bag, except the tripod + head and the Leica M9-P with a lens, usually the 50mm, attached, which I wear across 1 shoulder, along with the WhiBal card and a press ID.</p>
+
+Here’s my full kit. Everything fits in the bag, except the tripod + head and the Leica M9-P with a lens, usually the 50mm, attached, which I wear across 1 shoulder, along with the WhiBal card and a press ID.{.drop-cap}
 
 * Billingham Hadley Small camera bag in khaki Fibrenyte waterproof nylon fabric
 * Billingham luggage tally &amp; Billingham SP-40 shoulder pad

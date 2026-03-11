@@ -26,7 +26,7 @@ excerpt: Making their Woodyfest debut, Gypsy Twang played the Hen House stage Fr
 
 <!-- markdownlint-enable MD025 --><mpb-dialog-img>
 
-{% image "featured", "img-constrained", "Gypsy Twang (I) — 21st Annual Woody Guthrie Festival, 2018", "Gypsy Twang (I)&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;21st Annual Woody Guthrie Festival, 2018", "eager" %}</mpb-dialog-img>
+{% image "featured", "", "Gypsy Twang", "Gypsy Twang (I)", "eager" %}</mpb-dialog-img>
 
 Making their Woodyfest debut, <span class="h-card p-org">Gypsy Twang</span> played the Hen House stage <time datetime="2018-07-13T12:00:00-5:00">Friday afternoon</time>. Husband and wife <span class="h-card p-name">Steve Huhn</span> (bass) and <span class="h-card p-name">Sarah Barker-Huhn</span> (guitar, vocals), along with <span class="h-card p-name">John Williams</span> (guitar, harmonica, voice) shared the stage with guests <span class="h-card p-name">George Barton</span> (mandolin) and <span class="h-card p-name">Kurt <span class="p-nickname">“Frenchie”</span> Nielson</span>. They played a mix of originals, penned mostly by Barker-Huhn and Williams, traditional folk and country tunes, Red Dirt, country-swing, alt-country, and Americana numbers.
 
@@ -42,20 +42,35 @@ Gypsy Twang were established in <time datetime="2009-05">May of 2009</time>. The
 
 <mpb-dialog-gallery hint rel cols="8">
   
-  ![Emcee Cattie Lesley Introduces Gypsy Twang — 21st Annual Woody Guthrie Festival, 2018](/assets/images/blog/2018-11-26-woodyfest-gypsy-twang/czahller-20180713-11-53-52.jpg)
-  ![Gypsy Twang — 21st Annual Woody Guthrie Festival, 2018](/assets/images/blog/2018-11-26-woodyfest-gypsy-twang/czahller-20180713-12-10-22.jpg)
-  ![Gypsy Twang (I) — 21st Annual Woody Guthrie Festival, 2018](/assets/images/blog/2018-11-26-woodyfest-gypsy-twang/czahller-20180713-12-10-38.jpg)
-  ![Gypsy Twang (II) — 21st Annual Woody Guthrie Festival, 2018](/assets/images/blog/2018-11-26-woodyfest-gypsy-twang/czahller-20180713-12-11-01.jpg)
-  ![teve Huhn — 21st Annual Woody Guthrie Festival, 2018](/assets/images/blog/2018-11-26-woodyfest-gypsy-twang/czahller-20180713-12-13-33.jpg)
-  ![Kurt “Frenchy” Nielson — 21st Annual Woody Guthrie Festival, 2018](/assets/images/blog/2018-11-26-woodyfest-gypsy-twang/czahller-20180713-12-13-56.jpg)
-  ![George Barton — 21st Annual Woody Guthrie Festival, 2018](/assets/images/blog/2018-11-26-woodyfest-gypsy-twang/czahller-20180713-12-15-09.jpg)
-  ![John Williams — 21st Annual Woody Guthrie Festival, 2018](/assets/images/blog/2018-11-26-woodyfest-gypsy-twang/czahller-20180713-12-16-19.jpg)
-  ![Sarah Barker Huhn — 21st Annual Woody Guthrie Festival, 2018](/assets/images/blog/2018-11-26-woodyfest-gypsy-twang/czahller-20180713-12-17-02.jpg)
-  ![Gypsy Twang Seen from Upstage (Fisheye) — 21st Annual Woody Guthrie Festival, 2018](/assets/images/blog/2018-11-26-woodyfest-gypsy-twang/czahller-20180713-12-19-06.jpg)
-  ![John Plays Harmonica — 21st Annual Woody Guthrie Festival, 2018](/assets/images/blog/2018-11-26-woodyfest-gypsy-twang/czahller-20180713-12-22-39.jpg)
-  ![Hen House Mic Stand — 21st Annual Woody Guthrie Festival, 2018](/assets/images/blog/2018-11-26-woodyfest-gypsy-twang/czahller-20180713-12-33-29.jpg)
-  ![George Barton (I) — 21st Annual Woody Guthrie Festival, 2018](/assets/images/blog/2018-11-26-woodyfest-gypsy-twang/czahller-20180713-12-33-49.jpg)
-  ![Harmonica & Set List (Gypsy Twang) — 21st Annual Woody Guthrie Festival, 2018](/assets/images/blog/2018-11-26-woodyfest-gypsy-twang/czahller-20180713-12-35-36.jpg)
-  ![Gypsy Twang with Guest Singer Linda Long Barton — 21st Annual Woody Guthrie Festival, 2018](/assets/images/blog/2018-11-26-woodyfest-gypsy-twang/czahller-20180713-12-51-22.jpg)
-  ![Kurt “Frenchy” Nielson & Linda Long Barton — 21st Annual Woody Guthrie Festival, 2018](/assets/images/blog/2018-11-26-woodyfest-gypsy-twang/czahller-20180713-12-53-46.jpg)
+  {% image "./src/assets/images/blog/2018-11-26-woodyfest-gypsy-twang/czahller-20180713-11-53-52.jpg", "", "Emcee Cattie Lesley introduces Gypsy Twang", "Emcee Cattie Lesley Introduces Gypsy Twang" %}
+
+  {% image "./src/assets/images/blog/2018-11-26-woodyfest-gypsy-twang/czahller-20180713-12-10-22.jpg", "", "Gypsy Twang", "Gypsy Twang" %}
+
+  {% image "featured", "", "Gypsy Twang", "Gypsy Twang (I)" %}
+
+  {% image "./src/assets/images/blog/2018-11-26-woodyfest-gypsy-twang/czahller-20180713-12-11-01.jpg", "", "Gypsy Twang", "Gypsy Twang (II)" %}
+
+  {% image "./src/assets/images/blog/2018-11-26-woodyfest-gypsy-twang/czahller-20180713-12-13-33.jpg", "", "Steve Huhn", "Steve Huhn" %}
+
+  {% image "./src/assets/images/blog/2018-11-26-woodyfest-gypsy-twang/czahller-20180713-12-13-56.jpg", "", "Kurt “Frenchy” Nielson", "Kurt “Frenchy” Nielson" %}
+
+  {% image "./src/assets/images/blog/2018-11-26-woodyfest-gypsy-twang/czahller-20180713-12-15-09.jpg", "", "George Barton", "George Barton" %}
+
+  {% image "./src/assets/images/blog/2018-11-26-woodyfest-gypsy-twang/czahller-20180713-12-16-19.jpg", "", "John Williams", "John Williams" %}
+
+  {% image "./src/assets/images/blog/2018-11-26-woodyfest-gypsy-twang/czahller-20180713-12-17-02.jpg", "", "Sarah Barker Huhn", "Sarah Barker Huhn" %}
+
+  {% image "./src/assets/images/blog/2018-11-26-woodyfest-gypsy-twang/czahller-20180713-12-19-06.jpg", "", "Gypsy Twang viewed from upstage through a fisheye lens", "Gypsy Twang Seen from Upstage (Fisheye)" %}
+
+  {% image "./src/assets/images/blog/2018-11-26-woodyfest-gypsy-twang/czahller-20180713-12-22-39.jpg", "", "John Williams plays harmonica", "John Plays Harmonica" %}
+
+  {% image "./src/assets/images/blog/2018-11-26-woodyfest-gypsy-twang/czahller-20180713-12-33-29.jpg", "", "Detail of Hen House microphone stand", "Hen House Mic Stand" %}
+
+  {% image "./src/assets/images/blog/2018-11-26-woodyfest-gypsy-twang/czahller-20180713-12-33-49.jpg", "", "George Barton", "George Barton (I)" %}
+
+  {% image "./src/assets/images/blog/2018-11-26-woodyfest-gypsy-twang/czahller-20180713-12-35-36.jpg", "", "Two of John Wiliams’s harmonicas lying on a set list", "Harmonica & Set List (Gypsy Twang)" %}
+
+  {% image "./src/assets/images/blog/2018-11-26-woodyfest-gypsy-twang/czahller-20180713-12-51-22.jpg", "", "Gypsy Twang with guest singer Linda Long Barton", "Gypsy Twang with Guest Singer Linda Long Barton" %}
+
+  {% image "./src/assets/images/blog/2018-11-26-woodyfest-gypsy-twang/czahller-20180713-12-53-46.jpg", "", "Kurt “Frenchy” Nielson & Linda Long Barton", "Kurt “Frenchy” Nielson & Linda Long Barton" %}
 </mpb-dialog-gallery>

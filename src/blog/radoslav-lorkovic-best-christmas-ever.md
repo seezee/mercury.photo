@@ -24,9 +24,9 @@ excerpt: According to a copyright story by News on 6, the most photographed Chin
 Acclaimed singer/songwriter, sideman, reunited with beloved accordion</stack-l></hgroup>
 <!-- markdownlint-enable MD025 --><mpb-dialog-img>
 
-{% image "featured", "img-constrained", "Radoslav Lorković smiles as he plays the accordion. His eyes twinkle like gemstones.", "Rad (XIV)", "eager" %}</mpb-dialog-img>
+{% image "featured", "", "Radoslav Lorković smiles as he plays the accordion. His eyes twinkle like gemstones.", "Rad (XIV)", "eager" %}</mpb-dialog-img>
 
-According to a copyright story by <cite>News on 6</cite>, the most photographed Chinese accordion in the world has been returned to <span class="h-card p-name"><span class="p-given-name">Radoslav</span> <span class="p-nickname">"Rad"</span> <span class="p-family-name">Lorković</span></span> after having been MIA for nine months. The accordion [disappeared](https://web.archive.org/web/20160309174821/https://www.newson6.com/story/17131893/musicians-accordian-stolen-after-woody-guthrie-tribute-concert){target=_blank rel="external noopener"} at Tulsa’s <span class="h-card p-org">Brady Theatre</span> after a <span class="h-card p-name"><span class="p-nickname">Woody</span> Guthrie</span> tribute concert.
+According to a copyright story by <cite>News on 6</cite>, the most photographed Chinese accordion in the world has been returned to <span class="h-card p-name"><span class="p-given-name">Radoslav</span> <span class="p-nickname">"Rad"</span> <span class="p-family-name">Lorković</span></span> after having been MIA for nine months. The accordion [disappeared](https://web.archive.org/web/20160309174821/https://www.newson6.com/story/17131893/musicians-accordion-stolen-after-woody-guthrie-tribute-concert){target=_blank rel="external noopener"} at Tulsa’s <span class="h-card p-org">Brady Theatre</span> after a <span class="h-card p-name"><span class="p-nickname">Woody</span> Guthrie</span> tribute concert.
 
 The little red accordion made its way back to Lorković after the <span class="h-card p-org">Mayo Hotel</span> gave it to an employee during a routine clean-out of unclaimed lost and found items. The employee gave the accordion to his wife, <span class="h-card p-name">Natasha Taylor</span>, as a Christmas present, but when she saw the festival stickers on the instrument case, she realized it must have been very special to its previous owner.
 
@@ -43,7 +43,7 @@ Ms. Taylor did some research on the internet and quickly discovered the accordio
 
 <mpb-dialog-img>
 
-{% image "./src/assets/images/blog/2012-12-31-radoslav/czahller-20121104-21-22-09.jpg", "img-constrained", "Rad draws a note on the accordion, expression intense, eyes closed.", "Rad (XVIII)" %}</mpb-dialog-img>
+{% image "./src/assets/images/blog/2012-12-31-radoslav/czahller-20121104-21-22-09.jpg", "", "Rad draws a note on the accordion, expression intense, eyes closed.", "Rad (XVIII)", "large" %}</mpb-dialog-img>
 
 Soon after the accordion was originally reported stolen, a private donor joined with the [Grammy MusiCares fund](https://www.musicares.org/){target=_blank rel="external noopener"} to donate a hand-made Dino Baffetti accordion (pictured above) to the musician. Baffetti was <time datetime="2012-01-09">recently</time> featured in a [story](https://www.npr.org/2012/01/09/144809351/italys-accordion-industry-tiny-and-thriving){target=_blank rel="external noopener"} about the Italian accordion industry on NPR.
 
@@ -53,7 +53,7 @@ Born in Zagreb, Croatia in <time datetime="1958">1958</time> and raised in the m
 
 <mpb-dialog-img>
 
-{% image "./src/assets/images/blog/2012-12-31-radoslav/czahller-20121104-20-30-07.jpg", "img-constrained", "Rad pauses to tell a story from behind the keys. He has both hands raised in a “What are you gonna do?” gesture.", "Rad Tells a Story (II)" %}</mpb-dialog-img>
+{% image "./src/assets/images/blog/2012-12-31-radoslav/czahller-20121104-20-30-07.jpg", "", "Rad pauses to tell a story from behind the keys. He has both hands raised in a “What are you gonna do?” gesture.", "Rad Tells a Story (II)", "large" %}</mpb-dialog-img>
 
 An accomplished writer and singer, Lorković cites influences ranging from classical and jazz to raw blues, country, and soul. Residents of central Oklahoma were lucky to see his November performance for the Performing Arts Studio’s [Winter Wind Concerts](https://www.normandepot.org/depot-concerts){target=_blank rel="external noopener"}.[^1]
 
@@ -65,37 +65,63 @@ This writer has been enjoying Lorković musicianship at the [Woody Guthrie Folk 
 
 <mpb-dialog-img>
 
-{% image "./src/assets/images/blog/2012-12-31-radoslav/czahller-20120713-15-22-52.jpg", "img-constrained", "Rad having lunch during the Woody Guthrie Folk Festival. The black and white images shows him smiling for the photographer. He wears a black western hat. An unidentified person “photo-bombs” the picture.", "Rad Having Lunch (Photo-bomber Unidentified)" %}</mpb-dialog-img>
+{% image "./src/assets/images/blog/2012-12-31-radoslav/czahller-20120713-15-22-52.jpg", "", "Rad having lunch during the Woody Guthrie Folk Festival. The black and white images shows him smiling for the photographer. He wears a black western hat. An unidentified person “photo-bombs” the picture.", "Rad Having Lunch (Photo-bomber Unidentified)", "large" %}</mpb-dialog-img>
 
 Lorković returned to Norman to appear in his second Winter Wind concert at the Performing Arts Studio in early November.
 
 <mpb-dialog-gallery hint rel cols="8">
 
-  ![Rad (I)](/assets/images/blog/2012-12-31-radoslav/czahller-20121104-19-00-45.jpg)
-  ![Rad (II)](/assets/images/blog/2012-12-31-radoslav/czahller-20121104-19-01-02.jpg)
-  ![Rad (III)](/assets/images/blog/2012-12-31-radoslav/czahller-20121104-19-01-27.jpg)
-  ![Rad (IV)](/assets/images/blog/2012-12-31-radoslav/czahller-20121104-19-04-10.jpg)
-  ![Rad (V)](/assets/images/blog/2012-12-31-radoslav/czahller-20121104-19-04-57.jpg)
-  ![Rad (VI)](/assets/images/blog/2012-12-31-radoslav/czahller-20121104-19-10-14.jpg)
-  ![Rad (VII)](/assets/images/blog/2012-12-31-radoslav/czahller-20121104-19-16-38.jpg)
-  ![Rad (VIII)](/assets/images/blog/2012-12-31-radoslav/czahller-20121104-19-23-43.jpg)
-  ![Rad (IX)](/assets/images/blog/2012-12-31-radoslav/czahller-20121104-19-24-23.jpg)
-  ![Rad (X)](/assets/images/blog/2012-12-31-radoslav/czahller-20121104-19-25-47.jpg)
-  ![Rad (XI](/assets/images/blog/2012-12-31-radoslav/czahller-20121104-19-29-08.jpg)
-  ![Rad (XII)](/assets/images/blog/2012-12-31-radoslav/czahller-20121104-19-30-16.jpg)
-  ![Rad (XIII)](/assets/images/blog/2012-12-31-radoslav/czahller-20121104-19-32-06.jpg)
-  ![Rad (Boots)](/assets/images/blog/2012-12-31-radoslav/czahller-20121104-19-45-11.jpg)
-  ![Rad Tells a Story (I)](/assets/images/blog/2012-12-31-radoslav/czahller-20121104-19-50-29.jpg)
-  ![Marck McClellan Passes the Donations Bucket](/assets/images/blog/2012-12-31-radoslav/czahller-20121104-20-20-08.jpg)
-  ![Rad (XIV)](/assets/images/blog/2012-12-31-radoslav/czahller-20121104-20-21-04.jpg)
-  ![Rad Tells a Story (II)](/assets/images/blog/2012-12-31-radoslav/czahller-20121104-20-30-07.jpg)
-  ![Rad Tells a Story (III)](/assets/images/blog/2012-12-31-radoslav/czahller-20121104-20-33-03.jpg)
-  ![Rad Tells a Story (IV)](/assets/images/blog/2012-12-31-radoslav/czahller-20121104-20-33-11.jpg)
-  ![Rad (XV)](/assets/images/blog/2012-12-31-radoslav/czahller-20121104-20-53-58.jpg)
-  ![Rad (XVI)](/assets/images/blog/2012-12-31-radoslav/czahller-20121104-20-54-48.jpg)
-  ![Rad (XVII)](/assets/images/blog/2012-12-31-radoslav/czahller-20121104-21-01-29.jpg)
-  ![Rad (XVIII)](/assets/images/blog/2012-12-31-radoslav/czahller-20121104-21-08-05.jpg)
-  ![Rad (XIX)](/assets/images/blog/2012-12-31-radoslav/czahller-20121104-21-22-09.jpg)
-  ![Rad (XX)](/assets/images/blog/2012-12-31-radoslav/czahller-20121104-21-22-24.jpg)
-  ![Guitar Shirts](/assets/images/blog/2012-12-31-radoslav/czahller-20121104-21-26-57.jpg)
+  {% image "./src/assets/images/blog/2012-12-31-radoslav/czahller-20121104-19-00-45.jpg", "", "Rad performing", "Rad (I)" %}
+
+  {% image "./src/assets/images/blog/2012-12-31-radoslav/czahller-20121104-19-01-02.jpg", "", "Rad performing", "Rad (II)" %}
+
+  {% image "./src/assets/images/blog/2012-12-31-radoslav/czahller-20121104-19-01-27.jpg", "", "Rad performing", "Rad (III)" %}
+
+  {% image "./src/assets/images/blog/2012-12-31-radoslav/czahller-20121104-19-04-10.jpg", "", "Rad performing", "Rad (IV)" %}
+
+  {% image "./src/assets/images/blog/2012-12-31-radoslav/czahller-20121104-19-04-57.jpg", "", "Rad performing", "Rad (V)" %}
+
+  {% image "./src/assets/images/blog/2012-12-31-radoslav/czahller-20121104-19-10-14.jpg", "", "Rad performing", "Rad (VI)" %}
+
+  {% image "./src/assets/images/blog/2012-12-31-radoslav/czahller-20121104-19-16-38.jpg", "", "Rad performing", "Rad (VII)" %}
+
+  {% image "./src/assets/images/blog/2012-12-31-radoslav/czahller-20121104-19-23-43.jpg", "", "Rad performing", "Rad (VIII)" %}
+
+  {% image "./src/assets/images/blog/2012-12-31-radoslav/czahller-20121104-19-24-23.jpg", "", "Rad performing", "Rad (IX)" %}
+
+  {% image "./src/assets/images/blog/2012-12-31-radoslav/czahller-20121104-19-25-47.jpg", "", "Rad performing", "Rad (X)" %}
+
+  {% image "./src/assets/images/blog/2012-12-31-radoslav/czahller-20121104-19-29-08.jpg", "Rad (XI)", "Rad performing", "" %}
+
+  {% image "./src/assets/images/blog/2012-12-31-radoslav/czahller-20121104-19-30-16.jpg", "Rad (XII)", "Rad performing", "" %}
+
+  {% image "./src/assets/images/blog/2012-12-31-radoslav/czahller-20121104-19-32-06.jpg", "Rad (XIII)", "Rad performing", "" %}
+
+  {% image "./src/assets/images/blog/2012-12-31-radoslav/czahller-20121104-19-45-11.jpg", "", "Rad’s right boot controlling the keyboard pedal", "Rad (Boots)" %}
+
+  {% image "./src/assets/images/blog/2012-12-31-radoslav/czahller-20121104-19-50-29.jpg", "", "Rad tells a story", "Rad Tells a Story (I)" %}
+
+  {% image "./src/assets/images/blog/2012-12-31-radoslav/czahller-20121104-20-20-08.jpg", "", "Mark McClellan passes the donations bucket", "Mark McClellan Passes the Donations Bucket" %}
+
+  {% image "./src/assets/images/blog/2012-12-31-radoslav/czahller-20121104-20-21-04.jpg", "", "Rad performing", "Rad (XIV)" %}
+
+  {% image "./src/assets/images/blog/2012-12-31-radoslav/czahller-20121104-20-30-07.jpg", "", "Rad tells a story", "Rad Tells a Story (II)" %}
+
+  {% image "./src/assets/images/blog/2012-12-31-radoslav/czahller-20121104-20-33-03.jpg", "", "Rad tells a story", "Rad Tells a Story (III)" %}
+
+  {% image "./src/assets/images/blog/2012-12-31-radoslav/czahller-20121104-20-33-11.jpg", "", "Rad tells a story", "Rad Tells a Story (IV)" %}
+
+  {% image "featured", "", "Radoslav Lorković smiles as he plays the accordion. His eyes twinkle like gemstones.", "Rad (XV)" %}
+
+  {% image "./src/assets/images/blog/2012-12-31-radoslav/czahller-20121104-20-54-48.jpg", "", "Rad performing", "Rad (XVI)" %}
+
+  {% image "./src/assets/images/blog/2012-12-31-radoslav/czahller-20121104-21-01-29.jpg", "", "Rad performing", "Rad (XVII)" %}
+
+  {% image "./src/assets/images/blog/2012-12-31-radoslav/czahller-20121104-21-08-05.jpg", "", "Rad performing", "Rad (XVIII)" %}
+
+  {% image "./src/assets/images/blog/2012-12-31-radoslav/czahller-20121104-21-22-09.jpg", "", "Rad playing accordion", "Rad (XIX)" %}
+
+  {% image "./src/assets/images/blog/2012-12-31-radoslav/czahller-20121104-21-22-24.jpg", "", "Rad playing accordion", "Rad (XX)" %}
+
+  {% image "./src/assets/images/blog/2012-12-31-radoslav/czahller-20121104-21-26-57.jpg", "", "Rad, wearing a shirt featuring an embroidered guitar design, poses with a man wearing a t-shirt with guitars printed on it", "Guitar Shirts" %}
 </mpb-dialog-gallery>

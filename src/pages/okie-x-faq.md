@@ -158,7 +158,7 @@ faq: '<script type="application/ld+json">
 </script>
 
 <!-- markdownlint-disable MD025 -->
-# <icon-l class="bigger icon-before"><span class="with-icon"><svg id="icon-faq-duo" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path fill="var(--mpb-color-accent)" d="M256 8C119 8 8 119.08 8 256s111 248 248 248 248-111 248-248S393 8 256 8zm0 422a46 46 0 1 1 46-46 46.05 46.05 0 0 1-46 46zm40-131.33V300a12 12 0 0 1-12 12h-56a12 12 0 0 1-12-12v-4c0-41.06 31.13-57.47 54.65-70.66 20.17-11.31 32.54-19 32.54-34 0-19.82-25.27-33-45.7-33-27.19 0-39.44 13.14-57.3 35.79a12 12 0 0 1-16.67 2.13L148.82 170a12 12 0 0 1-2.71-16.26C173.4 113 208.16 90 262.66 90c56.34 0 116.53 44 116.53 102 0 77-83.19 78.21-83.19 106.67z" /><path fill="var(--mpb-color-accentReverse)" d="M256 338a46 46 0 1 0 46 46 46 46 0 0 0-46-46zm6.66-248c-54.5 0-89.26 23-116.55 63.76a12 12 0 0 0 2.71 16.24l34.7 26.31a12 12 0 0 0 16.67-2.13c17.86-22.65 30.11-35.79 57.3-35.79 20.43 0 45.7 13.14 45.7 33 0 15-12.37 22.66-32.54 34C247.13 238.53 216 254.94 216 296v4a12 12 0 0 0 12 12h56a12 12 0 0 0 12-12v-1.33c0-28.46 83.19-29.67 83.19-106.67 0-58-60.19-102-116.53-102z" /></svg> {{ title }}</icon-l>
+# <icon-l class="bigger icon-before"><span class="with-icon"><svg id="icon-faq-duo" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path fill="var(--mpb-color-accent)" d="M256 8C119 8 8 119.08 8 256s111 248 248 248 248-111 248-248S393 8 256 8zm0 422a46 46 0 1 1 46-46 46.05 46.05 0 0 1-46 46zm40-131.33V300a12 12 0 0 1-12 12h-56a12 12 0 0 1-12-12v-4c0-41.06 31.13-57.47 54.65-70.66 20.17-11.31 32.54-19 32.54-34 0-19.82-25.27-33-45.7-33-27.19 0-39.44 13.14-57.3 35.79a12 12 0 0 1-16.67 2.13L148.82 170a12 12 0 0 1-2.71-16.26C173.4 113 208.16 90 262.66 90c56.34 0 116.53 44 116.53 102 0 77-83.19 78.21-83.19 106.67z" /><path fill="var(--mpb-color-accent-reverse)" d="M256 338a46 46 0 1 0 46 46 46 46 0 0 0-46-46zm6.66-248c-54.5 0-89.26 23-116.55 63.76a12 12 0 0 0 2.71 16.24l34.7 26.31a12 12 0 0 0 16.67-2.13c17.86-22.65 30.11-35.79 57.3-35.79 20.43 0 45.7 13.14 45.7 33 0 15-12.37 22.66-32.54 34C247.13 238.53 216 254.94 216 296v4a12 12 0 0 0 12 12h56a12 12 0 0 0 12-12v-1.33c0-28.46 83.19-29.67 83.19-106.67 0-58-60.19-102-116.53-102z" /></svg> {{ title }}</icon-l>
 <!-- markdownlint-enable MD025 -->
 <mpb-dialog-img>
 
@@ -180,6 +180,7 @@ Artists should fill out the [Artists’ Survey](/okie-x/okie-x-artists-survey) b
 <mpb-callout type="info" title="Notice">
 
 You are strongly encouraged to read all of this section before your OKIE-X portrait sitting. Just curious about the project? Please see the [General FAQ](#general-information).
+
 </mpb-callout>
 
 <details name="essential-faq"><summary>Who qualifies to participate?</summary><stack-l>
@@ -939,6 +940,7 @@ I’m making the portraits with a cherrywood [Wista 45DX](https://camera-wiki.or
 <mpb-callout type="note">
 
 Beginning in <time datetime="2016-04">April 2016</time>, I changed lenses, as noted in the updated information below.
+
 </mpb-callout>
 
 The lens is a <del>105mm &#402;/3</del> <ins>250mm &#402;/4</ins> "in barrel" brass [Petzval formula lens](https://camera-wiki.org/wiki/Petzval_lens), roughly 150 years old. <del>Most likely, it was a magic lantern or projector lens.</del> It has <del>no aperture control and</del> no shutter. I’ve fitted an old Packard #6 pneumatic shutter to the lens hood to control the exposure and to fire the studio lights. I chose the Petzval for its sharp center and "swirly" out-of-focus periphery. The lens’s dreamlike, surreal look cannot easily be reproduced by conventional means.

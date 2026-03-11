@@ -27,7 +27,7 @@ excerpt: This writer first saw Carter Sampson three-and-a-quarter years ago, whe
 <p>Queen of Oklahoma’s Pastures of Plenty debut</p></stack-l></hgroup>
 <!-- markdownlint-enable MD025 --><mpb-dialog-img>
 
-{% image "featured", "img-constrained", "Carter Sampson (Seen from Upstage) — 21st Annual Woody Guthrie Festival, 2018", "Carter Sampson (Seen from Upstage)&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;21st Annual Woody Guthrie Festival, 2018", "eager" %}</mpb-dialog-img>
+{% image "featured", "", "Carter Sampson viewed from upstage", "Carter Sampson (Seen from Upstage)", "eager" %}</mpb-dialog-img>
 
 This writer first saw <span class="h-card p-name">Carter Sampson</span> <time datetime="2015-07-11">three-and-a-quarter years ago</time>, when she played a short set at the Community Improvement Association (CIA) Stage at the Woody Guthrie Folk Festival. A few die-hards sat in the folding steel chairs at the outdoor venue, braving the 91&deg;&nbsp;F (32.8º&nbsp;C) temperature and 51 percent humidity as long as the beer vendor kept the suds coming. This reporter was between assignments and decided to stick around.{.drop-cap}
 
@@ -54,13 +54,21 @@ This was Sampson’s first year to play the big stage at the pasture. She’d ad
 
 <mpb-dialog-gallery hint rel cols="8">
   
-  ![Carter Sampson (Seen from Upstage) — 21st Annual Woody Guthrie Festival, 2018](/assets/images/blog/2018-11-16-woodyfest-carter-sampson/czahller-20180712-20-46-16.jpg)
-  ![Kyle Reid, Carter Sampson, Luke Mullinex, & Mike Satawake — 21st Annual Woody Guthrie Festival, 2018](/assets/images/blog/2018-11-16-woodyfest-carter-sampson/czahller-20180712-20-48-41.jpg)
-  ![Carter Sampson — 21st Annual Woody Guthrie Festival, 2018](/assets/images/blog/2018-11-16-woodyfest-carter-sampson/czahller-20180712-20-51-07.jpg)
-  ![Mike Satawake — 21st Annual Woody Guthrie Festival, 2018](/assets/images/blog/2018-11-16-woodyfest-carter-sampson/czahller-20180712-20-52-18.jpg)
-  ![Kyle Reid — 21st Annual Woody Guthrie Festival, 2018](/assets/images/blog/2018-11-16-woodyfest-carter-sampson/czahller-20180712-20-52-38.jpg)
-  ![Audience during Carter Sampson’s Set — 21st Annual Woody Guthrie Festival, 2018](/assets/images/blog/2018-11-16-woodyfest-carter-sampson/czahller-20180712-20-53-11.jpg)
-  ![Nellie Marie Clay, Jason Scott, & Ken Pomeroy Rehearsing (I) — Backstage at the 21st Annual Woody Guthrie Festival, 2018](/assets/images/blog/2018-11-16-woodyfest-carter-sampson/czahller-20180712-20-56-53.jpg)
-  ![Jared Tyler, Nellie Marie Clay, Ken Pomeroy, & Jason Scott Provice Backing Vocals for Carter Sampson — 21st Annual Woody Guthrie Festival, 2018](/assets/images/blog/2018-11-16-woodyfest-carter-sampson/czahller-20180712-21-17-27.jpg)
-  ![Jason Scott, Ken Pomeroy, Nellie Marie Clay, & Jared Tyler Seen from Upstage — 21st Annual Woody Guthrie Festival, 2018](/assets/images/blog/2018-11-16-woodyfest-carter-sampson/czahller-20180712-21-18-01.jpg)
+  {% image "featured", "", "Carter Sampson viewed from upstage during the golden hour. She wears a vintage green above-the-knee satin sack dress, open-crown western hat, and cowgirl boots.", "Carter Sampson (Seen from Upstage)" %}
+
+  {% image "./src/assets/images/blog/2018-11-16-woodyfest-carter-sampson/czahller-20180712-20-48-41.jpg", "", "Kyle Reid, Carter Sampson, Luke Mullinex, & Mike Satawake", "Kyle Reid, Carter Sampson, Luke Mullinex, & Mike Satawake" %}
+
+  {% image "./src/assets/images/blog/2018-11-16-woodyfest-carter-sampson/czahller-20180712-20-51-07.jpg", "", "Carter Sampson", "Carter Sampson" %}
+
+  {% image "./src/assets/images/blog/2018-11-16-woodyfest-carter-sampson/czahller-20180712-20-52-18.jpg", "", "Mike Satawake", "Mike Satawake" %}
+
+  {% image "./src/assets/images/blog/2018-11-16-woodyfest-carter-sampson/czahller-20180712-20-52-38.jpg", "", "Kyle Reid", "Kyle Reid" %}
+
+  {% image "./src/assets/images/blog/2018-11-16-woodyfest-carter-sampson/czahller-20180712-20-53-11.jpg", "", "Audience during Carter Sampson’s set", "Audience during Carter Sampson’s Set" %}
+
+  {% image "./src/assets/images/blog/2018-11-16-woodyfest-carter-sampson/czahller-20180712-20-56-53.jpg", "", "Nellie Marie Clay, Jason Scott, & Ken Pomeroy rehearsing vocal parts backstage at the Pasture of Plenty. The sky turns pink and blue as the sun sets behind them.", "Nellie Marie Clay, Jason Scott, & Ken Pomeroy Rehearsing (I)" %}
+
+  {% image "./src/assets/images/blog/2018-11-16-woodyfest-carter-sampson/czahller-20180712-21-17-27.jpg", "", "Jared Tyler, Nellie Marie Clay, Ken Pomeroy, & Jason Scott provide backing vocals for Carter Sampson", "Jared Tyler, Nellie Marie Clay, Ken Pomeroy, & Jason Scott Provide Backing Vocals for Carter Sampson" %}
+
+  {% image "./src/assets/images/blog/2018-11-16-woodyfest-carter-sampson/czahller-20180712-21-18-01.jpg", "", "Jason Scott, Ken Pomeroy, Nellie Marie Clay, & Jared Tyler viewed from upstage", "Jason Scott, Ken Pomeroy, Nellie Marie Clay, & Jared Tyler Seen from Upstage" %}
 </mpb-dialog-gallery>

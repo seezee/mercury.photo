@@ -22,7 +22,7 @@ excerpt: Visual artists and musicians pooled their talents last Saturday to rais
 <p>Artists raise funds for festival</p></stack-l></hgroup>
 <!-- markdownlint-enable MD025 --><mpb-dialog-img>
 
-{% image "featured", "img-constrained", "Joshua Pōlaschek smiling at audience", "Happy", "eager" %}</mpb-dialog-img>
+{% image "featured", "", "Joshua Pōlaschek smiling at audience", "Happy", "eager" %}</mpb-dialog-img>
 
 Visual artists and musicians pooled their talents <time datetime="2018-04-21">last Saturday</time> to raise money for the annual <a href="https://woodyfest.com"><span class="h-card p-org"><span class="p-name"><span class="p-nickname">Woody</span> Guthrie</span> Folk Festival</span></a>. Hosted by music venue and bar The Root[^1], the event featured artwork donated by Oklahoma artists <span class="h-card p-name">Sharra Beard</span>, <span class="h-card p-name">Nora Bisher</span>, <span class="h-card p-name">April Holder</span>, <span class="h-card p-name">Susan Yback</span> and others. <span class="h-card p-name">Mary Katherine Long</span> donated several prints by her late husband, photographer <span class="h-card p-name">[Tom Lee](https://cf.photoeye.com/bookstore/citation.cfm?Catalog=ZD462){target=_blank rel="external noopener"}</span>.{.drop-cap}
 
@@ -50,89 +50,173 @@ The benefit raised over $1200 USD for the Woody Guthrie Folk Festival. This year
 
 <mpb-dialog-gallery hint rel cols="8">
 
-  ![Gregg Standridge](/assets/images/blog/2018-04-23-hoot-root/czahller-20180421-16-27-24.jpg)
-  ![Terry “Buffalo” Ware & Gregg Standridge (Hootin’)](/assets/images/blog/2018-04-23-hoot-root/czahller-20180421-16-28-33.jpg)
-  ![Terry “Buffalo” Ware & Gregg Standridge (Pickin’)](/assets/images/blog/2018-04-23-hoot-root/czahller-20180421-16-29-13.jpg)
-  ![Terry “Buffalo” Ware & Gregg Standridge (Pickin’ Again)](/assets/images/blog/2018-04-23-hoot-root/czahller-20180421-16-29-23.jpg)
-  ![Vocal Mic Trouble Blues](/assets/images/blog/2018-04-23-hoot-root/czahller-20180421-16-39-02.jpg)
-  ![Audience (I)](/assets/images/blog/2018-04-23-hoot-root/czahller-20180421-16-43-30.jpg)
-  ![Tania Warnock (I)](/assets/images/blog/2018-04-23-hoot-root/czahller-20180421-16-59-34.jpg)
-  ![Tania Warnock (II)](/assets/images/blog/2018-04-23-hoot-root/czahller-20180421-17-00-20.jpg)
-  ![Tania Warnock (III)](/assets/images/blog/2018-04-23-hoot-root/czahller-20180421-17-00-56.jpg)
-  ![Tania Warnock (IV)](/assets/images/blog/2018-04-23-hoot-root/czahller-20180421-17-02-24.jpg)
-  ![Tania Warnock (V)](/assets/images/blog/2018-04-23-hoot-root/czahller-20180421-17-02-39.jpg)
-  ![Tania Warnock (VI)](/assets/images/blog/2018-04-23-hoot-root/czahller-20180421-17-02-57.jpg)
-  ![Lauren & Kamryn Lee (I)](/assets/images/blog/2018-04-23-hoot-root/czahller-20180421-17-41-36.jpg)
-  ![Lauren](/assets/images/blog/2018-04-23-hoot-root/czahller-20180421-17-43-54.jpg)
-  ![Lauren Smiling (I)](/assets/images/blog/2018-04-23-hoot-root/czahller-20180421-17-44-36.jpg)
-  ![Lauren Smiling (II)](/assets/images/blog/2018-04-23-hoot-root/czahller-20180421-17-45-33.jpg)
-  ![Lauren & Kamryn Lee (III)](/assets/images/blog/2018-04-23-hoot-root/czahller-20180421-17-45-58.jpg)
-  ![Lauren & Kamryn Lee (IV)](/assets/images/blog/2018-04-23-hoot-root/czahller-20180421-17-47-27.jpg)
-  ![Lauren & Kamryn Lee (V)](/assets/images/blog/2018-04-23-hoot-root/czahller-20180421-17-50-56.jpg)
-  ![Fiddle Duel](/assets/images/blog/2018-04-23-hoot-root/czahller-20180421-17-59-34.jpg)
-  ![Andy Adams (I)](/assets/images/blog/2018-04-23-hoot-root/czahller-20180421-18-10-44.jpg)
-  ![Guitar!](/assets/images/blog/2018-04-23-hoot-root/czahller-20180421-18-11-53.jpg)
-  ![Andy Adams (II)](/assets/images/blog/2018-04-23-hoot-root/czahller-20180421-18-13-46.jpg)
-  ![Andy Adams (III)](/assets/images/blog/2018-04-23-hoot-root/czahller-20180421-18-15-35.jpg)
-  ![Andy Adams (IV)](/assets/images/blog/2018-04-23-hoot-root/czahller-20180421-18-16-55.jpg)
-  ![Audience (II)](/assets/images/blog/2018-04-23-hoot-root/czahller-20180421-18-20-59.jpg)
-  ![Joshua Pōlaschek (I)](/assets/images/blog/2018-04-23-hoot-root/czahller-20180421-18-30-04.jpg)
-  ![He Could Take the Rings Off Your Fingers With That Smile](/assets/images/blog/2018-04-23-hoot-root/czahller-20180421-18-32-33.jpg)
-  ![Happy](/assets/images/blog/2018-04-23-hoot-root/czahller-20180421-18-33-09.jpg)
-  ![Joshua Pōlaschek (II)](/assets/images/blog/2018-04-23-hoot-root/czahller-20180421-18-33-45.jpg)
-  ![Joshua Pōlaschek (III)](/assets/images/blog/2018-04-23-hoot-root/czahller-20180421-18-33-54.jpg)
-  ![Joshua Pōlaschek (IV)](/assets/images/blog/2018-04-23-hoot-root/czahller-20180421-18-35-07.jpg)
-  ![Joshua Pōlaschek (Song Keys)](/assets/images/blog/2018-04-23-hoot-root/czahller-20180421-18-35-48.jpg)
-  ![Tom Marshall (I)](/assets/images/blog/2018-04-23-hoot-root/czahller-20180421-18-56-15.jpg)
-  ![Tom Marshall Set Lists](/assets/images/blog/2018-04-23-hoot-root/czahller-20180421-18-59-05.jpg)
-  ![Tom Marshall (II)](/assets/images/blog/2018-04-23-hoot-root/czahller-20180421-18-59-11.jpg)
-  ![Tom Marshall (III)](/assets/images/blog/2018-04-23-hoot-root/czahller-20180421-18-59-24.jpg)
-  ![Tom Marshall (IV)](/assets/images/blog/2018-04-23-hoot-root/czahller-20180421-19-00-35.jpg)
-  ![Tom Marshall (V)](/assets/images/blog/2018-04-23-hoot-root/czahller-20180421-19-02-14.jpg)
-  ![Rosette (Tom’s Guitar)](/assets/images/blog/2018-04-23-hoot-root/czahller-20180421-19-12-13.jpg)
-  ![Audience (Knitting)](/assets/images/blog/2018-04-23-hoot-root/czahller-20180421-19-15-31.jpg)
-  ![Cassie Latshaw (I)](/assets/images/blog/2018-04-23-hoot-root/czahller-20180421-19-21-55.jpg)
-  ![Cassie Latshaw (II)](/assets/images/blog/2018-04-23-hoot-root/czahller-20180421-19-22-59.jpg)
-  ![Cassie Latshaw (III)](/assets/images/blog/2018-04-23-hoot-root/czahller-20180421-19-23-07.jpg)
-  ![Cassie Latshaw (IV)](/assets/images/blog/2018-04-23-hoot-root/czahller-20180421-19-23-12.jpg)
-  ![Cassie Latshaw (V)](/assets/images/blog/2018-04-23-hoot-root/czahller-20180421-19-23-28.jpg)
-  ![Smiling](/assets/images/blog/2018-04-23-hoot-root/czahller-20180421-19-23-51.jpg)
-  ![Cassie Latshaw (VI)](/assets/images/blog/2018-04-23-hoot-root/czahller-20180421-19-25-34.jpg)
-  ![Cassie (from Upstage)](/assets/images/blog/2018-04-23-hoot-root/czahller-20180421-19-29-03.jpg)
-  ![Annie Oakley (I)](/assets/images/blog/2018-04-23-hoot-root/czahller-20180421-19-56-40.jpg)
-  ![Nia Personette](/assets/images/blog/2018-04-23-hoot-root/czahller-20180421-19-59-21.jpg)
-  ![Grace Babb](/assets/images/blog/2018-04-23-hoot-root/czahller-20180421-19-59-38.jpg)
-  ![Sophia & Grace (I)](/assets/images/blog/2018-04-23-hoot-root/czahller-20180421-20-00-00.jpg)
-  ![Sophia Babb](/assets/images/blog/2018-04-23-hoot-root/czahller-20180421-20-02-44.jpg)
-  ![Sophia (I)](/assets/images/blog/2018-04-23-hoot-root/czahller-20180421-20-05-01.jpg)
-  ![Grace (I)](/assets/images/blog/2018-04-23-hoot-root/czahller-20180421-20-05-09.jpg)
-  ![Grace (II)](/assets/images/blog/2018-04-23-hoot-root/czahller-20180421-20-05-14.jpg)
-  ![Nia](/assets/images/blog/2018-04-23-hoot-root/czahller-20180421-20-05-36.jpg)
-  ![Annie Oakley (II)](/assets/images/blog/2018-04-23-hoot-root/czahller-20180421-20-06-47.jpg)
-  ![Annie Oakley (from Upstage)](/assets/images/blog/2018-04-23-hoot-root/czahller-20180421-20-15-12.jpg)
-  ![Annie Oakley (III)](/assets/images/blog/2018-04-23-hoot-root/czahller-20180421-20-19-54.jpg)
-  ![Sophia & Grace (II)](/assets/images/blog/2018-04-23-hoot-root/czahller-20180421-20-21-50.jpg)
-  ![Sophia (II)](/assets/images/blog/2018-04-23-hoot-root/czahller-20180421-20-22-07.jpg)
-  ![Dylan Stewart](/assets/images/blog/2018-04-23-hoot-root/czahller-20180421-20-31-04.jpg)
-  ![Dylan (I)](/assets/images/blog/2018-04-23-hoot-root/czahller-20180421-20-32-31.jpg)
-  ![Dylan (II)](/assets/images/blog/2018-04-23-hoot-root/czahller-20180421-20-33-45.jpg)
-  ![Dylan (III)](/assets/images/blog/2018-04-23-hoot-root/czahller-20180421-20-35-23.jpg)
-  ![Buffalo Rogers & Luke Mullenix](/assets/images/blog/2018-04-23-hoot-root/czahller-20180421-20-57-30.jpg)
-  ![Luke Mullenix](/assets/images/blog/2018-04-23-hoot-root/czahller-20180421-21-09-31.jpg)
-  ![Buffalo Rogers](/assets/images/blog/2018-04-23-hoot-root/czahller-20180421-21-11-49.jpg)
-  ![Buffalo & Luke (I)](/assets/images/blog/2018-04-23-hoot-root/czahller-20180421-21-16-35.jpg)
-  ![Buffalo & Luke (II)](/assets/images/blog/2018-04-23-hoot-root/czahller-20180421-21-16-41.jpg)
-  ![Buffalo & Luke (III)](/assets/images/blog/2018-04-23-hoot-root/czahller-20180421-21-16-45.jpg)
-  ![Kalyn Fay](/assets/images/blog/2018-04-23-hoot-root/czahller-20180421-21-23-45.jpg)
-  ![Kalyn (I)](/assets/images/blog/2018-04-23-hoot-root/czahller-20180421-21-25-02.jpg)
-  ![Kalyn (II)](/assets/images/blog/2018-04-23-hoot-root/czahller-20180421-21-25-10.jpg)
-  ![Kalyn (III)](/assets/images/blog/2018-04-23-hoot-root/czahller-20180421-21-25-35.jpg)
-  ![Scott Hunt, Nellie Marie Clay, & Luke Mullenix](/assets/images/blog/2018-04-23-hoot-root/czahller-20180421-21-56-21.jpg)
-  ![Scott, Nellie, & Luke](/assets/images/blog/2018-04-23-hoot-root/czahller-20180421-21-56-45.jpg)
-  ![Scott & Nellie](/assets/images/blog/2018-04-23-hoot-root/czahller-20180421-21-58-04.jpg)
-  ![Scott Hunt](/assets/images/blog/2018-04-23-hoot-root/czahller-20180421-22-00-37.jpg)
-  ![Nellie Marie Clay](/assets/images/blog/2018-04-23-hoot-root/czahller-20180421-22-03-02.jpg)
-  ![Luke](/assets/images/blog/2018-04-23-hoot-root/czahller-20180421-22-04-08.jpg)
-  ![Chris Blevins](/assets/images/blog/2018-04-23-hoot-root/czahller-20180421-22-36-47.jpg)
-  ![Chris](/assets/images/blog/2018-04-23-hoot-root/czahller-20180421-22-42-52.jpg)
+  {% image "./src/assets/images/blog/2018-04-23-hoot-root/czahller-20180421-16-27-24.jpg", "", "Gregg Standridge", "Gregg Standridge" %}
+
+  {% image "./src/assets/images/blog/2018-04-23-hoot-root/czahller-20180421-16-28-33.jpg", "", "Terry “Buffalo” Ware & Gregg Standridge (Hootin’)", "Terry “Buffalo” Ware & Gregg Standridge (Hootin’)" %}
+
+  {% image "./src/assets/images/blog/2018-04-23-hoot-root/czahller-20180421-16-29-13.jpg", "", "Terry “Buffalo” Ware & Gregg Standridge (Pickin’)", "Terry “Buffalo” Ware & Gregg Standridge (Pickin’)" %}
+
+  {% image "./src/assets/images/blog/2018-04-23-hoot-root/czahller-20180421-16-29-23.jpg", "", "Terry “Buffalo” Ware & Gregg Standridge (Pickin’ Again)", "Terry “Buffalo” Ware & Gregg Standridge (Pickin’ Again)" %}
+
+  {% image "./src/assets/images/blog/2018-04-23-hoot-root/czahller-20180421-16-39-02.jpg", "", "Vocal Mic Trouble Blues", "Vocal Mic Trouble Blues" %}
+
+  {% image "./src/assets/images/blog/2018-04-23-hoot-root/czahller-20180421-16-43-30.jpg", "", "Audience", "Audience (I)" %}
+
+  {% image "./src/assets/images/blog/2018-04-23-hoot-root/czahller-20180421-16-59-34.jpg", "", "Tania Warnock", "Tania Warnock (I)" %}
+
+  {% image "./src/assets/images/blog/2018-04-23-hoot-root/czahller-20180421-17-00-20.jpg", "", "Tania Warnock", "Tania Warnock (II)" %}
+
+  {% image "./src/assets/images/blog/2018-04-23-hoot-root/czahller-20180421-17-00-56.jpg", "", "Tania Warnock", "Tania Warnock (III)" %}
+
+  {% image "./src/assets/images/blog/2018-04-23-hoot-root/czahller-20180421-17-02-24.jpg", "", "Tania Warnock", "Tania Warnock (IV)" %}
+
+  {% image "./src/assets/images/blog/2018-04-23-hoot-root/czahller-20180421-17-02-39.jpg", "", "Tania Warnock (V)", "Tania Warnock (V)" %}
+
+  {% image "./src/assets/images/blog/2018-04-23-hoot-root/czahller-20180421-17-02-57.jpg", "", "Tania Warnock", "Tania Warnock (VI)" %}
+
+  {% image "./src/assets/images/blog/2018-04-23-hoot-root/czahller-20180421-17-41-36.jpg", "", "Lauren & Kamryn Lee", "Lauren & Kamryn Lee (I)" %}
+
+  {% image "./src/assets/images/blog/2018-04-23-hoot-root/czahller-20180421-17-43-54.jpg", "", "Lauren", "Lauren" %}
+
+  {% image "./src/assets/images/blog/2018-04-23-hoot-root/czahller-20180421-17-44-36.jpg", "", "Lauren, smiling", "Lauren Smiling (I)" %}
+
+  {% image "./src/assets/images/blog/2018-04-23-hoot-root/czahller-20180421-17-45-33.jpg", "", "Lauren, smiling", "Lauren Smiling (II)" %}
+
+  {% image "./src/assets/images/blog/2018-04-23-hoot-root/czahller-20180421-17-45-58.jpg", "", "Lauren & Kamryn Lee", "Lauren & Kamryn Lee (III)" %}
+
+  {% image "./src/assets/images/blog/2018-04-23-hoot-root/czahller-20180421-17-47-27.jpg", "", "Lauren & Kamryn Lee", "Lauren & Kamryn Lee (IV)" %}
+
+  {% image "./src/assets/images/blog/2018-04-23-hoot-root/czahller-20180421-17-50-56.jpg", "", "Lauren & Kamryn Lee", "Lauren & Kamryn Lee (V)" %}
+
+  {% image "./src/assets/images/blog/2018-04-23-hoot-root/czahller-20180421-17-59-34.jpg", "", "Lauren & Kamryn both playing the fiddle. Lauren sits on the stage edge; Kamryn is on the floor in front of the stage facing her.", "Fiddle Duel" %}
+
+  {% image "./src/assets/images/blog/2018-04-23-hoot-root/czahller-20180421-18-10-44.jpg", "", "Andy Adams", "Andy Adams (I)" %}
+
+  {% image "./src/assets/images/blog/2018-04-23-hoot-root/czahller-20180421-18-11-53.jpg", "", "Andy Adams leans back and picks out an acoustic guitar solo", "Guitar!" %}
+
+  {% image "./src/assets/images/blog/2018-04-23-hoot-root/czahller-20180421-18-13-46.jpg", "", "Andy Adams", "Andy Adams (II)" %}
+
+  {% image "./src/assets/images/blog/2018-04-23-hoot-root/czahller-20180421-18-15-35.jpg", "", "Andy Adams", "Andy Adams (III)" %}
+
+  {% image "./src/assets/images/blog/2018-04-23-hoot-root/czahller-20180421-18-16-55.jpg", "", "Andy Adams", "Andy Adams (IV)" %}
+
+  {% image "./src/assets/images/blog/2018-04-23-hoot-root/czahller-20180421-18-20-59.jpg", "", "Audience", "Audience (II)" %}
+
+  {% image "./src/assets/images/blog/2018-04-23-hoot-root/czahller-20180421-18-30-04.jpg", "", "Joshua Pōlaschek", "Joshua Pōlaschek (I)" %}
+
+  {% image "./src/assets/images/blog/2018-04-23-hoot-root/czahller-20180421-18-32-33.jpg", "", "Joshua Pōlaschek smiling broadly", "He Could Take the Rings Off Your Fingers With That Smile" %}
+
+  {% image "featured", "", "Joshua Pōlaschek smiling at audience", "Happy" %}
+
+  {% image "./src/assets/images/blog/2018-04-23-hoot-root/czahller-20180421-18-33-45.jpg", "", "Joshua Pōlaschek", "Joshua Pōlaschek (II)" %}
+
+  {% image "./src/assets/images/blog/2018-04-23-hoot-root/czahller-20180421-18-33-54.jpg", "", "Joshua Pōlaschek", "Joshua Pōlaschek (III)" %}
+
+  {% image "./src/assets/images/blog/2018-04-23-hoot-root/czahller-20180421-18-35-07.jpg", "", "Joshua Pōlaschek", "Joshua Pōlaschek (IV)" %}
+
+  {% image "./src/assets/images/blog/2018-04-23-hoot-root/czahller-20180421-18-35-48.jpg", "", "List of songs with their keys taped to the side of Joshua Pōlaschek’s acoustic guitar", "Joshua Pōlaschek (Song Keys)" %}
+
+  {% image "./src/assets/images/blog/2018-04-23-hoot-root/czahller-20180421-18-56-15.jpg", "", "Tom Marshall", "Tom Marshall (I)" %}
+
+  {% image "./src/assets/images/blog/2018-04-23-hoot-root/czahller-20180421-18-59-05.jpg", "", "Tom Marshall Set Lists", "Tom Marshall Set Lists" %}
+
+  {% image "./src/assets/images/blog/2018-04-23-hoot-root/czahller-20180421-18-59-11.jpg", "", "Tom Marshall", "Tom Marshall (II)" %}
+
+  {% image "./src/assets/images/blog/2018-04-23-hoot-root/czahller-20180421-18-59-24.jpg", "", "Tom Marshall", "Tom Marshall (III)" %}
+
+  {% image "./src/assets/images/blog/2018-04-23-hoot-root/czahller-20180421-19-00-35.jpg", "", "Tom Marshall", "Tom Marshall (IV)" %}
+
+  {% image "./src/assets/images/blog/2018-04-23-hoot-root/czahller-20180421-19-02-14.jpg", "", "Tom Marshall", "Tom Marshall (V)" %}
+
+  {% image "./src/assets/images/blog/2018-04-23-hoot-root/czahller-20180421-19-12-13.jpg", "", "Detail of rosette sound hole on Tom Marshall’s Guitar", "Rosette (Tom’s Guitar)" %}
+
+  {% image "./src/assets/images/blog/2018-04-23-hoot-root/czahller-20180421-19-15-31.jpg", "", "Woman in audience knitting", "Audience (Knitting)" %}
+
+  {% image "./src/assets/images/blog/2018-04-23-hoot-root/czahller-20180421-19-21-55.jpg", "", "Cassie Latshaw", "Cassie Latshaw (I)" %}
+
+  {% image "./src/assets/images/blog/2018-04-23-hoot-root/czahller-20180421-19-22-59.jpg", "", "Cassie Latshaw", "Cassie Latshaw (II)" %}
+
+  {% image "./src/assets/images/blog/2018-04-23-hoot-root/czahller-20180421-19-23-07.jpg", "", "Cassie Latshaw", "Cassie Latshaw (III)" %}
+
+  {% image "./src/assets/images/blog/2018-04-23-hoot-root/czahller-20180421-19-23-12.jpg", "", "Cassie Latshaw", "Cassie Latshaw (IV)" %}
+
+  {% image "./src/assets/images/blog/2018-04-23-hoot-root/czahller-20180421-19-23-28.jpg", "", "Cassie Latshaw", "Cassie Latshaw (V)" %}
+
+  {% image "./src/assets/images/blog/2018-04-23-hoot-root/czahller-20180421-19-23-51.jpg", "", "Cassie Latshaw, smiling", "Smiling" %}
+
+  {% image "./src/assets/images/blog/2018-04-23-hoot-root/czahller-20180421-19-25-34.jpg", "", "Cassie Latshaw", "Cassie Latshaw (VI)" %}
+
+  {% image "./src/assets/images/blog/2018-04-23-hoot-root/czahller-20180421-19-29-03.jpg", "", "Cassie Latshaw seen from upstage", "Cassie (from Upstage)" %}
+
+  {% image "./src/assets/images/blog/2018-04-23-hoot-root/czahller-20180421-19-56-40.jpg", "", "Annie Oakley", "Annie Oakley (I)" %}
+
+  {% image "./src/assets/images/blog/2018-04-23-hoot-root/czahller-20180421-19-59-21.jpg", "", "Nia Personette", "Nia Personette" %}
+
+  {% image "./src/assets/images/blog/2018-04-23-hoot-root/czahller-20180421-19-59-38.jpg", "", "Grace Babb", "Grace Babb" %}
+
+  {% image "./src/assets/images/blog/2018-04-23-hoot-root/czahller-20180421-20-00-00.jpg", "", "Sophia & Grace", "Sophia & Grace (I)" %}
+
+  {% image "./src/assets/images/blog/2018-04-23-hoot-root/czahller-20180421-20-02-44.jpg", "", "Sophia Babb", "Sophia Babb" %}
+
+  {% image "./src/assets/images/blog/2018-04-23-hoot-root/czahller-20180421-20-05-01.jpg", "", "Sophia", "Sophia (I)" %}
+
+  {% image "./src/assets/images/blog/2018-04-23-hoot-root/czahller-20180421-20-05-09.jpg", "", "Grace", "Grace (I)" %}
+
+  {% image "./src/assets/images/blog/2018-04-23-hoot-root/czahller-20180421-20-05-14.jpg", "", "Grace", "Grace (II)" %}
+
+  {% image "./src/assets/images/blog/2018-04-23-hoot-root/czahller-20180421-20-05-36.jpg", "", "Nia", "Nia" %}
+
+  {% image "./src/assets/images/blog/2018-04-23-hoot-root/czahller-20180421-20-06-47.jpg", "", "Annie Oakley", "Annie Oakley (II)" %}
+
+  {% image "./src/assets/images/blog/2018-04-23-hoot-root/czahller-20180421-20-15-12.jpg", "", "Annie Oakley, seen from upstage", "Annie Oakley (from Upstage)" %}
+
+  {% image "./src/assets/images/blog/2018-04-23-hoot-root/czahller-20180421-20-19-54.jpg", "", "Annie Oakley", "Annie Oakley (III)" %}
+
+  {% image "./src/assets/images/blog/2018-04-23-hoot-root/czahller-20180421-20-21-50.jpg", "", "Sophia & Grace", "Sophia & Grace (II)" %}
+
+  {% image "./src/assets/images/blog/2018-04-23-hoot-root/czahller-20180421-20-22-07.jpg", "", "Sophia", "Sophia (II)" %}
+
+  {% image "./src/assets/images/blog/2018-04-23-hoot-root/czahller-20180421-20-31-04.jpg", "", "Dylan Stewart", "Dylan Stewart" %}
+
+  {% image "./src/assets/images/blog/2018-04-23-hoot-root/czahller-20180421-20-32-31.jpg", "", "Dylan Stewart", "Dylan (I)" %}
+
+  {% image "./src/assets/images/blog/2018-04-23-hoot-root/czahller-20180421-20-33-45.jpg", "", "Dylan Stewart", "Dylan (II)" %}
+
+  {% image "./src/assets/images/blog/2018-04-23-hoot-root/czahller-20180421-20-35-23.jpg", "", "Dylan Stewart", "Dylan (III)" %}
+
+  {% image "./src/assets/images/blog/2018-04-23-hoot-root/czahller-20180421-20-57-30.jpg", "", "Buffalo Rogers & Luke Mullenix", "Buffalo Rogers & Luke Mullenix" %}
+
+  {% image "./src/assets/images/blog/2018-04-23-hoot-root/czahller-20180421-21-09-31.jpg", "", "Luke Mullenix", "Luke Mullenix" %}
+
+  {% image "./src/assets/images/blog/2018-04-23-hoot-root/czahller-20180421-21-11-49.jpg", "", "Buffalo Rogers", "Buffalo Rogers" %}
+
+  {% image "./src/assets/images/blog/2018-04-23-hoot-root/czahller-20180421-21-16-35.jpg", "", "Buffalo & Luke", "Buffalo & Luke (I)" %}
+
+  {% image "./src/assets/images/blog/2018-04-23-hoot-root/czahller-20180421-21-16-41.jpg", "", "Buffalo & Luke", "Buffalo & Luke (II)" %}
+
+  {% image "./src/assets/images/blog/2018-04-23-hoot-root/czahller-20180421-21-16-45.jpg", "", "Buffalo & Luke", "Buffalo & Luke (III)" %}
+
+  {% image "./src/assets/images/blog/2018-04-23-hoot-root/czahller-20180421-21-23-45.jpg", "", "Kalyn Fay", "Kalyn Fay" %}
+
+  {% image "./src/assets/images/blog/2018-04-23-hoot-root/czahller-20180421-21-25-02.jpg", "", "Kalyn Fay", "Kalyn (I)" %}
+
+  {% image "./src/assets/images/blog/2018-04-23-hoot-root/czahller-20180421-21-25-10.jpg", "", "Kalyn Fay", "Kalyn (II)" %}
+
+  {% image "./src/assets/images/blog/2018-04-23-hoot-root/czahller-20180421-21-25-35.jpg", "", "Kalyn Fay", "Kalyn (III)" %}
+
+  {% image "./src/assets/images/blog/2018-04-23-hoot-root/czahller-20180421-21-56-21.jpg", "", "Scott Hunt, Nellie Marie Clay, & Luke Mullenix", "Scott Hunt, Nellie Marie Clay, & Luke Mullenix" %}
+
+  {% image "./src/assets/images/blog/2018-04-23-hoot-root/czahller-20180421-21-56-45.jpg", "", "Scott, Nellie, & Luke", "Scott, Nellie, & Luke" %}
+
+  {% image "./src/assets/images/blog/2018-04-23-hoot-root/czahller-20180421-21-58-04.jpg", "", "Scott & Nellie", "Scott & Nellie" %}
+
+  {% image "./src/assets/images/blog/2018-04-23-hoot-root/czahller-20180421-22-00-37.jpg", "", "Scott Hunt", "Scott Hunt" %}
+
+  {% image "./src/assets/images/blog/2018-04-23-hoot-root/czahller-20180421-22-03-02.jpg", "", "Nellie Marie Clay", "Nellie Marie Clay" %}
+
+  {% image "./src/assets/images/blog/2018-04-23-hoot-root/czahller-20180421-22-04-08.jpg", "", "Luke", "Luke" %}
+
+  {% image "./src/assets/images/blog/2018-04-23-hoot-root/czahller-20180421-22-36-47.jpg", "", "Chris Blevins", "Chris Blevins" %}
+
+  {% image "./src/assets/images/blog/2018-04-23-hoot-root/czahller-20180421-22-42-52.jpg", "", "Chris Blevins", "Chris" %}
 </mpb-dialog-gallery>

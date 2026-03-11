@@ -18,19 +18,19 @@ excerpt: Blues-rock duo The Trading Co. belong to a small stable of artists call
 
 <!-- markdownlint-enable MD025 --><mpb-dialog-img>
 
-{% image "featured", "img-constrained", "Jonathan drums & sings while Josh plays guitar.", "The Trading Co. (I)", "eager" %}</mpb-dialog-img>
+{% image "featured", "", "Jonathan drums & sings while Josh plays guitar.", "The Trading Co. (I)", "eager" %}</mpb-dialog-img>
 
 Blues-rock duo <span class="h-card p-org">The Trading Co.</span> (early candidates for band names: **<span class="foreign" lang="es">Tre Vero</span>** [“The Three Truths”], **King James Version**) belong to a small stable of artists calling [<span class="h-card p-org">Old Dog Records</span>](https://www.facebook.com/olddogrecords){target="_blank" rel="external noopener noreferrer"} their home. Like label mates the [<span class="h-card p-org">Kamals</span>](/blog/kamals-interview-gallery/) and <span class="h-card p-org">Black Jack Gypsys</span>, their sound is loud and heavy. It’s a sound that’s been compared to the early <span class="h-card p-org">Black Keys</span>; lyrically, they traffic in stories of sin and redemption, loneliness and betrayal.
 
 Singer/drummer <span class="h-card p-name">Jonathan Eldridge</span>, a slender, square-jawed young man with brown, side-parted hair and thick plastic eyeglass frames, sings with an anguished intensity usually reserved for jonesing addicts. His drumming is workmanlike&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;he makes no claims of virtuosity; the beat keeps time and underlines the suffering of the various storytellers as he channels spurned lovers, vagabonds, and wanderers. The first time I heard him sing, I was reminded of the way [<span class="h-card p-name">Gary Burger</span>](https://music.apple.com/us/album/the-early-years-1964-1965/1790512830?uo=4&at=10ldhk){target=_blank rel="external noopener"}</span> once spat out his shocking declamation&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;<q>I hate you! (But call me)</q>&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;to audiences in cold war Germany.
 
-Joshua flashes a wide, slightly goofy grin with little provocation. During the interview, the guitar player and sometimes singer emerged as the sunnier half of the pair. His receding hairline belies his relative youth, as does his expert guitar playing; he knows the language of electric blues. Despite the electrification, his playing owes more to “primitive” country blues&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;think <span class="h-card p-name">John Lee Hooker</span>&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;than to Chicago blues, with the instrument used as percussion as much as for scales and harmony. It’ll get you swaying.
+Joshua Griffin flashes a wide, slightly goofy grin with little provocation. During the interview, the guitar player and sometimes singer emerged as the sunnier half of the pair. His receding hairline belies his relative youth, as does his expert guitar playing; he knows the language of electric blues. Despite the electrification, his playing owes more to “primitive” country blues&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;think <span class="h-card p-name">John Lee Hooker</span>&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;than to Chicago blues, with the instrument used as percussion as much as for scales and harmony. It’ll get you swaying.
 
 We caught up with The Trading Co. between their <time datetime="2012-11">November</time> <span class="h-card p-org">Blue Note Lounge</span> appearance and their <time datetime="2013-02">late February</time> gig as part of the <span class="h-card p-org">Old Dog Records</span> showcase at the <span class="h-card p-org">Route 66 Roadhouse</span>. Their eponymous sophomore release is available as a digital download or a vinyl LP. The LP includes a code for a digital copy of the album in MP3 format.
 
 <mpb-dialog-img>
 
-{% image "./src/assets/images/blog/2013-03-27-trading-co/czahller-20121125-00-13-07.jpg", "img-constrained", "Jonathan hunches over the floor tom and a cymbal", "Jonathan (III)" %}</mpb-dialog-img>
+{% image "./src/assets/images/blog/2013-03-27-trading-co/czahller-20121125-00-13-07.jpg", "", "Jonathan hunches over the floor tom and a cymbal", "Jonathan (III)", "large" %}</mpb-dialog-img>
 
 <span class="spkr">Mercury Photo Bureau</span> Please introduce yourselves.
 
@@ -56,7 +56,7 @@ We caught up with The Trading Co. between their <time datetime="2012-11">Novembe
 
 <mpb-dialog-img>
 
-{% image "./src/assets/images/blog/2013-03-27-trading-co/czahller-20121125-00-45-06.jpg", "img-constrained", "Joshua, with eyes closed, sings and plays guitar.", "Joshua (II)" %}</mpb-dialog-img>
+{% image "./src/assets/images/blog/2013-03-27-trading-co/czahller-20121125-00-45-06.jpg", "", "Joshua, with eyes closed, sings and plays guitar.", "Joshua (II)", "large" %}</mpb-dialog-img>
 
 <span class="spkr">Eldridge</span> We […] ended up moving in&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;we’d known each other for seven or eight years&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;ended up moving in next door to each other. We kind of jammed once or twice [after that]; I actually played guitars; [they were] kinda the first instrument I picked up and learned. We’d jam with some other people like that; nothing serious, not intending to do anything with it, just having fun.
 
@@ -130,7 +130,7 @@ But, if people compare us to them, I’m honored by that. You [mentioned] their 
 
 <mpb-dialog-img>
 
-{% image "./src/assets/images/blog/2013-03-27-trading-co/czahller-20121125-00-18-41.jpg", "img-constrained", "Jonathan looks down to his right as he beat a floor tom.", "Jonathan (VI)" %}</mpb-dialog-img>
+{% image "./src/assets/images/blog/2013-03-27-trading-co/czahller-20121125-00-18-41.jpg", "", "Jonathan looks down to his right as he beat a floor tom.", "Jonathan (VI)", "large" %}</mpb-dialog-img>
 
 <span class="spkr">MPB</span> What’s the strangest or most memorable thing that’s happened to you as musicians?
 
@@ -164,7 +164,7 @@ In my house one day, they had a big junk day, and I saw […] an old record play
 
 <mpb-dialog-img>
 
-{% image "./src/assets/images/blog/2013-03-27-trading-co/czahller-20121125-00-18-57.jpg", "img-constrained", "Joshua plays a fender electric guitar.", "Joshua (I)" %}</mpb-dialog-img>
+{% image "./src/assets/images/blog/2013-03-27-trading-co/czahller-20121125-00-18-57.jpg", "", "Joshua plays a fender electric guitar.", "Joshua (I)", "large" %}</mpb-dialog-img>
 
 <span class="spkr">Griffin</span> I thought you were gonna tell the other story.
 
@@ -180,25 +180,45 @@ I grab them […], and I grab a big stack of records, you know, I’m flippin’
 
 <mpb-dialog-gallery hint rel cols="8">
   
-  ![Drumhead](/assets/images/blog/2013-03-27-trading-co/czahller-20121125-00-04-48.jpg)
-  ![Jonathan (I)](/assets/images/blog/2013-03-27-trading-co/czahller-20121125-00-09-13.jpg)
-  ![Jonathan (Kinetic I)](/assets/images/blog/2013-03-27-trading-co/czahller-20121125-00-09-36.jpg)
-  ![Jonathan (Kinetic II)](/assets/images/blog/2013-03-27-trading-co/czahller-20121125-00-09-39.jpg)
-  ![Jonathan (II)](/assets/images/blog/2013-03-27-trading-co/czahller-20121125-00-10-58.jpg)
-  ![Jonathan (III)](/assets/images/blog/2013-03-27-trading-co/czahller-20121125-00-13-07.jpg)
-  ![Jonathan (IV)](/assets/images/blog/2013-03-27-trading-co/czahller-20121125-00-13-45.jpg)
-  ![The Trading Co. (I)](/assets/images/blog/2013-03-27-trading-co/czahller-20121125-00-15-51.jpg)
-  ![Jonathan (V)](/assets/images/blog/2013-03-27-trading-co/czahller-20121125-00-18-13.jpg)
-  ![Jonathan (VI)](/assets/images/blog/2013-03-27-trading-co/czahller-20121125-00-18-41.jpg)
-  ![Joshua (I)](/assets/images/blog/2013-03-27-trading-co/czahller-20121125-00-18-57.jpg)
-  ![Joshua (II)](/assets/images/blog/2013-03-27-trading-co/czahller-20121125-00-45-06.jpg)
-  ![Joshua (III)](/assets/images/blog/2013-03-27-trading-co/czahller-20121125-00-45-08.jpg)
-  ![The Trading Co. (II)](/assets/images/blog/2013-03-27-trading-co/czahller-20121125-00-48-09.jpg)
-  ![The Trading Co. (III)](/assets/images/blog/2013-03-27-trading-co/czahller-20121125-00-59-25.jpg)
-  ![Joshua (IV)](/assets/images/blog/2013-03-27-trading-co/czahller-20121125-01-02-39.jpg)
-  ![Loren (I)](/assets/images/blog/2013-03-27-trading-co/czahller-20121125-01-03-28.jpg)
-  ![The Trading Co. with Special Guest Loren Williams](/assets/images/blog/2013-03-27-trading-co/czahller-20121125-01-04-05.jpg)
-  ![Loren (II)](/assets/images/blog/2013-03-27-trading-co/czahller-20121125-01-05-03.jpg)
-  ![The Trading Co. (IV)](/assets/images/blog/2013-03-27-trading-co/czahller-20121125-01-07-06.jpg)
-  ![Jonathan Knocks over His Floor Tom](/assets/images/blog/2013-03-27-trading-co/czahller-20121125-01-19-23.jpg)
+  {% image "./src/assets/images/blog/2013-03-27-trading-co/czahller-20121125-00-04-48.jpg", "", "Drumhead with Trading Co. logo", "Drumhead" %}
+
+  {% image "./src/assets/images/blog/2013-03-27-trading-co/czahller-20121125-00-09-13.jpg", "", "Jonathan Eldridge", "Jonathan (I)" %}
+
+  {% image "./src/assets/images/blog/2013-03-27-trading-co/czahller-20121125-00-09-36.jpg", "", "Jonathan Eldridge. He is blureed from motion.", "Jonathan (Kinetic I)" %}
+
+  {% image "./src/assets/images/blog/2013-03-27-trading-co/czahller-20121125-00-09-39.jpg", "", "Jonathan Eldridge. He is blureed from motion.", "Jonathan (Kinetic II)" %}
+
+  {% image "./src/assets/images/blog/2013-03-27-trading-co/czahller-20121125-00-10-58.jpg", "", "Jonathan Eldridge", "Jonathan (II)" %}
+
+  {% image "./src/assets/images/blog/2013-03-27-trading-co/czahller-20121125-00-13-07.jpg", "", "Jonathan Eldridge", "Jonathan (III)" %}
+
+  {% image "./src/assets/images/blog/2013-03-27-trading-co/czahller-20121125-00-13-45.jpg", "", "Jonathan Eldridge", "Jonathan (IV)" %}
+
+  {% image "featured", "", "Jonathan drums & sings while Josh plays guitar.", "The Trading Co. (I)" %}
+
+  {% image "./src/assets/images/blog/2013-03-27-trading-co/czahller-20121125-00-18-13.jpg", "", "Jonathan Eldridge", "Jonathan (V)" %}
+
+  {% image "./src/assets/images/blog/2013-03-27-trading-co/czahller-20121125-00-18-41.jpg", "", "Jonathan Eldridge", "Jonathan (VI)" %}
+
+  {% image "./src/assets/images/blog/2013-03-27-trading-co/czahller-20121125-00-18-57.jpg", "", "Joshua Griffin", "Joshua (I)" %}
+
+  {% image "./src/assets/images/blog/2013-03-27-trading-co/czahller-20121125-00-45-06.jpg", "", "Joshua Griffin", "Joshua (II)" %}
+
+  {% image "./src/assets/images/blog/2013-03-27-trading-co/czahller-20121125-00-45-08.jpg", "", "Joshua Griffin", "Joshua (III)" %}
+
+  {% image "./src/assets/images/blog/2013-03-27-trading-co/czahller-20121125-00-48-09.jpg", "", "The Trading Co.", "The Trading Co. (II)" %}
+
+  {% image "./src/assets/images/blog/2013-03-27-trading-co/czahller-20121125-00-59-25.jpg", "", "The Trading Co.", "The Trading Co. (III)" %}
+
+  {% image "./src/assets/images/blog/2013-03-27-trading-co/czahller-20121125-01-02-39.jpg", "", "Joshua Griffin", "Joshua (IV)" %}
+
+  {% image "./src/assets/images/blog/2013-03-27-trading-co/czahller-20121125-01-03-28.jpg", "", "Guest singer Loren Williams", "Loren (I)" %}
+
+  {% image "./src/assets/images/blog/2013-03-27-trading-co/czahller-20121125-01-04-05.jpg", "", "The Trading Co. with special guest Loren Williams", "The Trading Co. with Special Guest Loren Williams" %}
+
+  {% image "./src/assets/images/blog/2013-03-27-trading-co/czahller-20121125-01-05-03.jpg", "", "Guest singer Loren Williams", "Loren (II)" %}
+
+  {% image "./src/assets/images/blog/2013-03-27-trading-co/czahller-20121125-01-07-06.jpg", "", "The Trading Co.", "The Trading Co. (IV)" %}
+
+  {% image "./src/assets/images/blog/2013-03-27-trading-co/czahller-20121125-01-19-23.jpg", "", "Jonathan knocks over His floor tom", "Jonathan Knocks over His Floor Tom" %}
 </mpb-dialog-gallery>

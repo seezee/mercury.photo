@@ -18,7 +18,7 @@ excerpt: This past Sunday the Bureau invited noise-rockers SonicViolence to drop
 
 <!-- markdownlint-enable MD025 --><mpb-dialog-img>
 
-{% image "featured", "img-constrained", "Black & white image of Terrence Mack (keyboard), Edward Schotter (bass), Donald James (drums), and Leon Manson (vox, guitar). Fog envelops them on the dimly lit stage. The images exhibits considerable parallax due to the wide-angle lens.", "Finale (II)", "eager" %}</mpb-dialog-img>
+{% image "featured", "", "Black & white image of Terrence Mack (keyboard), Edward Schotter (bass), Donald James (drums), and Leon Manson (vox, guitar). Fog envelops them on the dimly lit stage. The images exhibits considerable parallax due to the wide-angle lens.", "Finale (II)", "eager" %}</mpb-dialog-img>
 
 This past <time datetime="2013-09-13">Sunday</time> the Bureau invited noise-rockers <span class="h-card p-org">SonicViolence</span>, along with video director <span class="h-card p-name">Mike Walsh</span>,[^1] to drop by for an interview in anticipation of their upcoming EP release.[^2]
 
@@ -54,7 +54,7 @@ I was playing in a different band at the time, so Donald and I got together and 
 
 <mpb-dialog-img>
 
-{% image "./src/assets/images/blog/2013-09-26-sonicviolence/czahller-20130614-20-24-10.jpg", "img-constrained", "Leon Manson playing guitar on the STASH patio during Friday Art Walk.", "Leon (I)" %}</mpb-dialog-img>
+{% image "./src/assets/images/blog/2013-09-26-sonicviolence/czahller-20130614-20-24-10.jpg", "", "Leon Manson playing guitar on the STASH patio during Friday Art Walk.", "Leon (I)" %}</mpb-dialog-img>
 
 <span class="spkr">MPB</span> The band name: SonicViolence. There’s an Essex, England&NoBreak;&ndash;&NoBreak;based band from the 1980s by that name.
 
@@ -80,7 +80,7 @@ I was playing in a different band at the time, so Donald and I got together and 
 
 <mpb-dialog-img>
 
-{% image "./src/assets/images/blog/2013-09-26-sonicviolence/czahller-20130731-21-54-45.jpg", "img-constrained", "Terrence Mack smiles while he plays the synthesizer on the stage at The Conservatory", "T-Mack Smiles" %}</mpb-dialog-img>
+{% image "./src/assets/images/blog/2013-09-26-sonicviolence/czahller-20130731-21-54-45.jpg", "", "Terrence Mack smiles while he plays the synthesizer on the stage at The Conservatory", "T-Mack Smiles" %}</mpb-dialog-img>
 
 <span class="spkr">Manson</span> Ed got into the band because he was my roommate at the time. He was just our default, go-to guy. He was the only logical addition to the band for the rhythm section. It just made sense at the time. <q>We need a bassist!</q> And you know, Ed’s hanging out on the couch, and we’re like, <q>Ed, [do] you have a bass?</q> and he’s like, <q>Yeah, I totally have a bass.</q> <q>Yeah, well you’re in the band, then.</q>
 
@@ -110,7 +110,7 @@ I was playing in a different band at the time, so Donald and I got together and 
 
 <mpb-dialog-img>
 
-{% image "./src/assets/images/blog/2013-09-26-sonicviolence/czahller-20130731-21-53-30.jpg", "img-constrained", "Brandon Wilson plays guitar on on the stage at The Conservatory", "Brandon" %}</mpb-dialog-img>
+{% image "./src/assets/images/blog/2013-09-26-sonicviolence/czahller-20130731-21-53-30.jpg", "", "Brandon Wilson plays guitar on on the stage at The Conservatory", "Brandon" %}</mpb-dialog-img>
 
 <span class="spkr">MPB</span> I don’t remember who it was, but I interviewed somebody else who had a sports injury and couldn’t play any more, and that’s when he took up whatever instrument it was.
 
@@ -134,7 +134,7 @@ I was kind of bummed out when we went up there&NoBreak;&hairsp;&NoBreak;&mdash;&
 
 <mpb-dialog-img>
 
-{% image "./src/assets/images/blog/2013-09-26-sonicviolence/czahller-20130614-20-24-53.jpg", "img-constrained", "Donald James plays drums on the STASH patio during Friday Art Walk", "Donald" %}</mpb-dialog-img>
+{% image "./src/assets/images/blog/2013-09-26-sonicviolence/czahller-20130614-20-24-53.jpg", "", "Donald James plays drums on the STASH patio during Friday Art Walk", "Donald" %}</mpb-dialog-img>
 
 The thing with the way I write lyrics is, I do it from a stream-of-consciousness standpoint; I mean, I’ll be listening to [the music], and I’ll just start saying stuff, and if it fits, it fits; and if it doesn’t, it doesn’t. I’ll look back at it, and it’s like I’m giving myself therapy.
 
@@ -160,7 +160,7 @@ That song is close to my heart, because it was written with everybody there. A l
 
 <mpb-dialog-img>
 
-{% image "./src/assets/images/blog/2013-09-26-sonicviolence/czahller-20130731-21-47-31.jpg", "img-constrained", "Ed Schotter plays bass on the stage at The Conservatory", "Ed (I)" %}</mpb-dialog-img>
+{% image "./src/assets/images/blog/2013-09-26-sonicviolence/czahller-20130731-21-47-31.jpg", "", "Ed Schotter plays bass on the stage at The Conservatory", "Ed (I)" %}</mpb-dialog-img>
 
 <span class="spkr">Wilson</span> I don’t think we aspire to be intellectual or <span class="foreign" lang="fr">avant garde</span>; just ambiguous. Open to some interpretation. A lot of my lyrics weave metaphor with the literal.
 
@@ -190,7 +190,7 @@ That song is close to my heart, because it was written with everybody there. A l
 
 <mpb-dialog-img>
 
-{% image "./src/assets/images/blog/2013-09-26-sonicviolence/czahller-20130614-20-22-07.jpg", "img-constrained", "Terrence (keyboard), Brandon (guitar), Donald (drums), and Ed (bass) play on the STASH patio during Friday Art Walk. The stage consists of stacked wooden pallets.", "SonicViolence (III)" %}</mpb-dialog-img>
+{% image "./src/assets/images/blog/2013-09-26-sonicviolence/czahller-20130614-20-22-07.jpg", "", "Terrence (keyboard), Brandon (guitar), Donald (drums), and Ed (bass) play on the STASH patio during Friday Art Walk. The stage consists of stacked wooden pallets.", "SonicViolence (III)" %}</mpb-dialog-img>
 
 <span class="spkr">MPB</span> Do you see music as a career, or is it going to turn out to be that thing you got to do when you were in your twenties?
 
@@ -222,7 +222,7 @@ That song is close to my heart, because it was written with everybody there. A l
 
 <mpb-dialog-img>
 
-{% image "./src/assets/images/blog/2013-09-26-sonicviolence/czahller-20130614-20-34-29.jpg", "img-constrained", "Closeup of Terrence’s hands on the keyboard.", "Terrence (Moog Detail)" %}</mpb-dialog-img>
+{% image "./src/assets/images/blog/2013-09-26-sonicviolence/czahller-20130614-20-34-29.jpg", "", "Closeup of Terrence’s hands on the keyboard.", "Terrence (Moog Detail)" %}</mpb-dialog-img>
 
 <span class="spkr">Mack</span> <cite class="short-work">[#41](https://geo.itunes.apple.com/us/album/41/id388136111?i=388136676&uo=4&at=10ldhk){target=_blank rel="external noopener"}</cite> by Dave Matthews. I know the <span class="h-card p-org"><span class="h-card p-name">Dave Matthews</span> Band</span> gets a lot of crap, but sometimes all I need to hear is <cite class="short-work">#41.</cite> It’s just so groovy; Carter Beauford is a really great drummer, and I actually enjoy the vocals. Just the vibe; it’s this whole kind of spacey vibe, and like, the bass&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;the bass line&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;I don’t know? I just really like it.
 
@@ -232,49 +232,80 @@ That song is close to my heart, because it was written with everybody there. A l
 
 <mpb-dialog-img>
 
-{% image "./src/assets/images/blog/2013-09-26-sonicviolence/czahller-20130915-16-00-00.jpg", "img-constrained", "Brandon, Leon, and Terrence seated on the sofa at Mercury Photo Bureau. Leon wears a “Pikachu” hat; both of his hands are raised in a peace sign. Terrance holds a drink in his left hand. Leon and Terrance are smiling; Brandon is just beginning to crack a smile.", "The SonicViolence Interview at Mercury Photo Bureau" %}</mpb-dialog-img>
+{% image "./src/assets/images/blog/2013-09-26-sonicviolence/czahller-20130915-16-00-00.jpg", "", "Brandon, Leon, and Terrence seated on the sofa at Mercury Photo Bureau. Leon wears a “Pikachu” hat; both of his hands are raised in a peace sign. Terrance holds a drink in his left hand. Leon and Terrance are smiling; Brandon is just beginning to crack a smile.", "The SonicViolence Interview at Mercury Photo Bureau" %}</mpb-dialog-img>
 
 ## Gallery: SonicViolence at Friday Art Walk
 
 <mpb-dialog-gallery hint rel cols="8">
 
-  ![SonicViolence (I)](/assets/images/blog/2013-09-26-sonicviolence/czahller-20130614-20-20-50.jpg)
-  ![SonicViolence (II)](/assets/images/blog/2013-09-26-sonicviolence/czahller-20130614-20-21-02.jpg)
-  ![SonicViolence (III)](/assets/images/blog/2013-09-26-sonicviolence/czahller-20130614-20-22-07.jpg)
-  ![Terrence (I)](/assets/images/blog/2013-09-26-sonicviolence/czahller-20130614-20-22-51.jpg)
-  ![Ed (I)](/assets/images/blog/2013-09-26-sonicviolence/czahller-20130614-20-23-17.jpg)
-  ![Brandon](/assets/images/blog/2013-09-26-sonicviolence/czahller-20130614-20-23-44.jpg)
-  ![Leon (I)](/assets/images/blog/2013-09-26-sonicviolence/czahller-20130614-20-24-10.jpg)
-  ![Leon (II)](/assets/images/blog/2013-09-26-sonicviolence/czahller-20130614-20-24-41.jpg)
-  ![Donald](/assets/images/blog/2013-09-26-sonicviolence/czahller-20130614-20-24-53.jpg)
-  ![Ed (II)](/assets/images/blog/2013-09-26-sonicviolence/czahller-20130614-20-25-38.jpg)
-  ![Terrence (II)](/assets/images/blog/2013-09-26-sonicviolence/czahller-20130614-20-25-52.jpg)
-  ![Audience (I)](/assets/images/blog/2013-09-26-sonicviolence/czahller-20130614-20-31-58.jpg)
-  ![Audience (II)](/assets/images/blog/2013-09-26-sonicviolence/czahller-20130614-20-32-37.jpg)
-  ![SonicViolence (IV)](/assets/images/blog/2013-09-26-sonicviolence/czahller-20130614-20-33-02.jpg)
-  ![Terrence (Moog Detail)](/assets/images/blog/2013-09-26-sonicviolence/czahller-20130614-20-34-29.jpg)
+  {% image "./src/assets/images/blog/2013-09-26-sonicviolence/czahller-20130614-20-20-50.jpg", "", "SonicViolence", "SonicViolence (I)" %}
+
+  {% image "./src/assets/images/blog/2013-09-26-sonicviolence/czahller-20130614-20-21-02.jpg", "", "SonicViolence", "SonicViolence (II)" %}
+
+  {% image "./src/assets/images/blog/2013-09-26-sonicviolence/czahller-20130614-20-22-07.jpg", "", "SonicViolence", "SonicViolence (III)" %}
+
+  {% image "./src/assets/images/blog/2013-09-26-sonicviolence/czahller-20130614-20-22-51.jpg", "", "Terrence Mack", "Terrence (I)" %}
+
+  {% image "./src/assets/images/blog/2013-09-26-sonicviolence/czahller-20130614-20-23-17.jpg", "", "Ed Schotter", "Ed (I)" %}
+
+  {% image "./src/assets/images/blog/2013-09-26-sonicviolence/czahller-20130614-20-23-44.jpg", "", "Brandon Wilson", "Brandon" %}
+
+  {% image "./src/assets/images/blog/2013-09-26-sonicviolence/czahller-20130614-20-24-10.jpg", "", "Leon Manson", "Leon (I)" %}
+
+  {% image "./src/assets/images/blog/2013-09-26-sonicviolence/czahller-20130614-20-24-41.jpg", "", "Leon Manson", "Leon (II)" %}
+
+  {% image "./src/assets/images/blog/2013-09-26-sonicviolence/czahller-20130614-20-24-53.jpg", "", "Donald James", "Donald" %}
+
+  {% image "./src/assets/images/blog/2013-09-26-sonicviolence/czahller-20130614-20-25-38.jpg", "", "Ed Schotter", "Ed (II)" %}
+
+  {% image "./src/assets/images/blog/2013-09-26-sonicviolence/czahller-20130614-20-25-52.jpg", "", "Terrence Mack", "Terrence (II)" %}
+
+  {% image "./src/assets/images/blog/2013-09-26-sonicviolence/czahller-20130614-20-31-58.jpg", "", "Audience", "Audience (I)" %}
+
+  {% image "./src/assets/images/blog/2013-09-26-sonicviolence/czahller-20130614-20-32-37.jpg", "", "Audience", "Audience (II)" %}
+
+  {% image "./src/assets/images/blog/2013-09-26-sonicviolence/czahller-20130614-20-33-02.jpg", "", "SonicViolence", "SonicViolence (IV)" %}
+
+  {% image "./src/assets/images/blog/2013-09-26-sonicviolence/czahller-20130614-20-34-29.jpg", "", "Detail of Moog synthesizer", "Terrence (Moog Detail)" %}
 </mpb-dialog-gallery>
 
 ## Gallery: SonicViolence at The Conservatory
 
 <mpb-dialog-gallery hint rel cols="8">
 
-  ![Terrence (I) (T-Mack)](/assets/images/blog/2013-09-26-sonicviolence/czahller-20130731-21-41-58.jpg)
-  ![Donald (I)](/assets/images/blog/2013-09-26-sonicviolence/czahller-20130731-21-42-14.jpg)
-  ![Ed & Leon (I)](/assets/images/blog/2013-09-26-sonicviolence/czahller-20130731-21-44-23.jpg)
-  ![Donald (II)](/assets/images/blog/2013-09-26-sonicviolence/czahller-20130731-21-45-16.jpg)
-  ![Leon (I)](/assets/images/blog/2013-09-26-sonicviolence/czahller-20130731-21-45-43.jpg)
-  ![Ed (I)](/assets/images/blog/2013-09-26-sonicviolence/czahller-20130731-21-47-31.jpg)
-  ![Brandon & Terrence](/assets/images/blog/2013-09-26-sonicviolence/czahller-20130731-21-47-50.jpg)
-  ![Audience](/assets/images/blog/2013-09-26-sonicviolence/czahller-20130731-21-50-43.jpg)
-  ![Leon (II) (Christmas in July)](/assets/images/blog/2013-09-26-sonicviolence/czahller-20130731-21-51-37.jpg)
-  ![Ed & Leon (II)](/assets/images/blog/2013-09-26-sonicviolence/czahller-20130731-21-51-54.jpg)
-  ![Donald (III)](/assets/images/blog/2013-09-26-sonicviolence/czahller-20130731-21-52-29.jpg)
-  ![Brandon](/assets/images/blog/2013-09-26-sonicviolence/czahller-20130731-21-53-30.jpg)
-  ![T-Mack Smiles](/assets/images/blog/2013-09-26-sonicviolence/czahller-20130731-21-54-45.jpg)
-  ![Ed (II)](/assets/images/blog/2013-09-26-sonicviolence/czahller-20130731-21-54-53.jpg)
-  ![Finale (I) (Thrash)](/assets/images/blog/2013-09-26-sonicviolence/czahller-20130731-21-56-59.jpg)
-  ![Finale (II)](/assets/images/blog/2013-09-26-sonicviolence/czahller-20130731-21-57-11.jpg)
-  ![Finale (III)](/assets/images/blog/2013-09-26-sonicviolence/czahller-20130731-22-07-30.jpg)
-  ![Finale (IV)](/assets/images/blog/2013-09-26-sonicviolence/czahller-20130731-22-07-37.jpg)
+  {% image "./src/assets/images/blog/2013-09-26-sonicviolence/czahller-20130731-21-41-58.jpg", "", "Terrence", "Terrence (I) (T-Mack)" %}
+
+  {% image "./src/assets/images/blog/2013-09-26-sonicviolence/czahller-20130731-21-42-14.jpg", "", "Donald", "Donald (I)" %}
+
+  {% image "./src/assets/images/blog/2013-09-26-sonicviolence/czahller-20130731-21-44-23.jpg", "", "Ed & Leon", "Ed & Leon (I)" %}
+
+  {% image "./src/assets/images/blog/2013-09-26-sonicviolence/czahller-20130731-21-45-16.jpg", "", "Donald", "Donald (II)" %}
+
+  {% image "./src/assets/images/blog/2013-09-26-sonicviolence/czahller-20130731-21-45-43.jpg", "", "Leon", "Leon (I)" %}
+
+  {% image "./src/assets/images/blog/2013-09-26-sonicviolence/czahller-20130731-21-47-31.jpg", "", "Ed", "Ed (I)" %}
+
+  {% image "./src/assets/images/blog/2013-09-26-sonicviolence/czahller-20130731-21-47-50.jpg", "", "Brandon & Terrence", "Brandon & Terrence" %}
+
+  {% image "./src/assets/images/blog/2013-09-26-sonicviolence/czahller-20130731-21-50-43.jpg", "", "Audience", "Audience" %}
+
+  {% image "./src/assets/images/blog/2013-09-26-sonicviolence/czahller-20130731-21-51-37.jpg", "", "Leon dons a Santa hat", "Leon (II) (Christmas in July)" %}
+
+  {% image "./src/assets/images/blog/2013-09-26-sonicviolence/czahller-20130731-21-51-54.jpg", "", "Ed & Leon", "Ed & Leon (II)" %}
+
+  {% image "./src/assets/images/blog/2013-09-26-sonicviolence/czahller-20130731-21-52-29.jpg", "", "Donald", "Donald (III)" %}
+
+  {% image "./src/assets/images/blog/2013-09-26-sonicviolence/czahller-20130731-21-53-30.jpg", "", "Brandon", "Brandon" %}
+
+  {% image "./src/assets/images/blog/2013-09-26-sonicviolence/czahller-20130731-21-54-45.jpg", "", "T-Mack smiling while he plays the keyboard", "T-Mack Smiles" %}
+
+  {% image "./src/assets/images/blog/2013-09-26-sonicviolence/czahller-20130731-21-54-53.jpg", "", "Ed", "Ed (II)" %}
+
+  {% image "./src/assets/images/blog/2013-09-26-sonicviolence/czahller-20130731-21-56-59.jpg", "", "As the band plays the final song, Leon leans over his guitar. His long hair flops forward, nearly touching the ground.", "Finale (I) (Thrash)" %}
+
+  {% image "featured", "", "Black & white image of Terrence Mack (keyboard), Edward Schotter (bass), Donald James (drums), and Leon Manson (vox, guitar). Fog envelops them on the dimly lit stage. The images exhibits considerable parallax due to the wide-angle lens.", "Finale (II)" %}
+
+  {% image "./src/assets/images/blog/2013-09-26-sonicviolence/czahller-20130731-22-07-30.jpg", "", "The band plays their final number", "Finale (III)" %}
+
+  {% image "./src/assets/images/blog/2013-09-26-sonicviolence/czahller-20130731-22-07-37.jpg", "", "The band plays their final number", "Finale (IV)" %}
 </mpb-dialog-gallery>

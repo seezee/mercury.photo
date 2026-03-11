@@ -25,7 +25,7 @@ excerpt: Yesterday we told you about the Surrogate Band, formed in 2011 to perfo
 <p>Ziggy lives</p></stack-l></hgroup>
 <!-- markdownlint-enable MD025 --><mpb-dialog-img>
 
-{% image "featured", "img-constrained", "Amy Downes, Gabe Barham, Justin Hogan, David Goad, Richie Zenner, Chris Sanders, J. R. Reagor, Chris Wilson, & Kristine Kamen Wendt as the Surrogate Band. They pose on the Opolis patio under sodium vapor lighting.", "The Surrogate Band", "eager" %}</mpb-dialog-img>
+{% image "featured", "", "Amy Downes, Gabe Barham, Justin Hogan, David Goad, Richie Zenner, Chris Sanders, J. R. Reagor, Chris Wilson, & Kristine Kamen Wendt as the Surrogate Band. They pose on the Opolis patio under sodium vapor lighting.", "The Surrogate Band", "eager" %}</mpb-dialog-img>
 
 <mpb-callout type="info" title="The Hunky Dory Details">
 
@@ -37,6 +37,7 @@ When
 
 Cover charge
 : $7.<sup>00</sup> USD
+
 </mpb-callout>
 
 <time datetime="2014-06-19">Yesterday</time> [we told you](/blog/surrogate-band-presents-david-bowie-tribute/) about the <span class="h-card p-org">Surrogate Band</span>, formed in <time datetime="2011">2011</time> at <abbr title="University of Central Oklahoma">UCO</abbr> to perform <span class="h-card p-org">Pink Floyd</span>’s [The Wall](https://music.apple.com/us/album/the-wall/1065975633?uo=4&at=10ldhk){target=_blank rel="external noopener"}</cite>. The Surrogate Band reformed late last year for a series of <span class="h-card p-name">[David Bowie](https://music.apple.com/us/artist/david-bowie/id551695?uo=4&at=10ldhk){target=_blank rel="external noopener"}</span> tribute shows. <time datetime="2014-06-21">Tomorrow</time> will be your final chance to catch them in Oklahoma City in a show featuring elaborate costumes, hair, and makeup reflecting the different periods in Bowie’s career.{.drop-cap}
@@ -49,37 +50,69 @@ Cover charge
 
 <mpb-dialog-gallery hint rel cols="8">
 
-  ![About to Take the Stage](/assets/images/blog/2014-06-20-surrogate-band-opolis/czahller-20140420-06-40-26.jpg)
-  ![The Surrogate Band (I)](/assets/images/blog/2014-06-20-surrogate-band-opolis/czahller-20140420-06-43-40.jpg)
-  ![The Surrogate Band (II)](/assets/images/blog/2014-06-20-surrogate-band-opolis/czahller-20140420-06-44-12.jpg)
-  ![Chris Wilson & Gabe (I)](/assets/images/blog/2014-06-20-surrogate-band-opolis/czahller-20140420-06-48-31.jpg)
-  ![Gabe](/assets/images/blog/2014-06-20-surrogate-band-opolis/czahller-20140420-06-48-41.jpg)
-  ![Justin & Amy (I)](/assets/images/blog/2014-06-20-surrogate-band-opolis/czahller-20140420-06-48-52.jpg)
-  ![Amy & J.R. (I)](/assets/images/blog/2014-06-20-surrogate-band-opolis/czahller-20140420-06-49-05.jpg)
-  ![Chris Sanders](/assets/images/blog/2014-06-20-surrogate-band-opolis/czahller-20140420-06-49-31.jpg)
-  ![Mike (I)](/assets/images/blog/2014-06-20-surrogate-band-opolis/czahller-20140420-06-50-43.jpg)
-  ![Richie (I)](/assets/images/blog/2014-06-20-surrogate-band-opolis/czahller-20140420-06-50-57.jpg)
-  ![Justin & Amy (II)](/assets/images/blog/2014-06-20-surrogate-band-opolis/czahller-20140420-06-51-42.jpg)
-  ![David (A Lad, Insane)](/assets/images/blog/2014-06-20-surrogate-band-opolis/czahller-20140420-06-51-56.jpg)
-  ![Amy & J.R. (II)](/assets/images/blog/2014-06-20-surrogate-band-opolis/czahller-20140420-06-53-29.jpg)
-  ![David (Ziggy) (I)](/assets/images/blog/2014-06-20-surrogate-band-opolis/czahller-20140420-07-02-41.jpg)
-  ![David (Ziggy) (II)](/assets/images/blog/2014-06-20-surrogate-band-opolis/czahller-20140420-07-10-37.jpg)
-  ![David (Ziggy) (III)](/assets/images/blog/2014-06-20-surrogate-band-opolis/czahller-20140420-07-10-48.jpg)
-  ![Audience (I)](/assets/images/blog/2014-06-20-surrogate-band-opolis/czahller-20140420-07-16-38.jpg)
-  ![Audience (II)](/assets/images/blog/2014-06-20-surrogate-band-opolis/czahller-20140420-07-17-22.jpg)
-  ![Audience (III)](/assets/images/blog/2014-06-20-surrogate-band-opolis/czahller-20140420-07-17-24.jpg)
-  ![Justin, Amy, &, J.R.](/assets/images/blog/2014-06-20-surrogate-band-opolis/czahller-20140420-07-50-48.jpg)
-  ![Mike (II)](/assets/images/blog/2014-06-20-surrogate-band-opolis/czahller-20140420-07-58-25.jpg)
-  ![Richie (II)](/assets/images/blog/2014-06-20-surrogate-band-opolis/czahller-20140420-07-59-04.jpg)
-  ![J.R.](/assets/images/blog/2014-06-20-surrogate-band-opolis/czahller-20140420-07-59-34.jpg)
-  ![Chris Wilson & Gabe (II)](/assets/images/blog/2014-06-20-surrogate-band-opolis/czahller-20140420-07-59-45.jpg)
-  ![David (Young American) (I)](/assets/images/blog/2014-06-20-surrogate-band-opolis/czahller-20140420-12-00-47.jpg)
-  ![David (Young American) (II)](/assets/images/blog/2014-06-20-surrogate-band-opolis/czahller-20140420-12-09-12.jpg)
-  ![The Surrogate Band (III)](/assets/images/blog/2014-06-20-surrogate-band-opolis/czahller-20140420-12-15-53.jpg)
-  ![The Surrogate Band (IV)](/assets/images/blog/2014-06-20-surrogate-band-opolis/czahller-20140420-12-20-46.jpg)
-  ![The Thin White Duke (I)](/assets/images/blog/2014-06-20-surrogate-band-opolis/czahller-20140420-12-21-02.jpg)
-  ![The Thin White Duke (II)](/assets/images/blog/2014-06-20-surrogate-band-opolis/czahller-20140420-12-21-17.jpg)
-  ![Magic Dance (I)](/assets/images/blog/2014-06-20-surrogate-band-opolis/czahller-20140420-12-29-51.jpg)
-  ![Magic Dance (II)](/assets/images/blog/2014-06-20-surrogate-band-opolis/czahller-20140420-12-30-51.jpg)
-  ![L to R: Amy Downes, Gabe Barham, Justin Hogan, David Goad, Richie Zenner, Chris Sanders, J. R. Reagor, Chris Wilson, Kristine Kamen](/assets/images/blog/2014-06-20-surrogate-band-opolis/czahller-20140420-12-38-05.jpg)
+   {% image "./src/assets/images/blog/2014-06-20-surrogate-band-opolis/czahller-20140420-06-40-26.jpg", "", "The band are on the Opolis patio about to enter the venue. They wear Ziggy Stardust–era glam costumes, complete with wigs and makeup.", "About to Take the Stage" %}
+
+   {% image "./src/assets/images/blog/2014-06-20-surrogate-band-opolis/czahller-20140420-06-43-40.jpg", "", "The Surrogate Band", "The Surrogate Band (I)" %}
+
+   {% image "./src/assets/images/blog/2014-06-20-surrogate-band-opolis/czahller-20140420-06-44-12.jpg", "", "The Surrogate Band", "The Surrogate Band (II)" %}
+
+   {% image "./src/assets/images/blog/2014-06-20-surrogate-band-opolis/czahller-20140420-06-48-31.jpg", "", "Chris Wilson & Gabe Barham", "Chris Wilson & Gabe (I)" %}
+
+   {% image "./src/assets/images/blog/2014-06-20-surrogate-band-opolis/czahller-20140420-06-48-41.jpg", "", "Gabe Barham", "Gabe" %}
+
+   {% image "./src/assets/images/blog/2014-06-20-surrogate-band-opolis/czahller-20140420-06-48-52.jpg", "", "Justin & Amy", "Justin & Amy (I)" %}
+
+   {% image "./src/assets/images/blog/2014-06-20-surrogate-band-opolis/czahller-20140420-06-49-05.jpg", "", "Amy & J.R.", "Amy & J.R. (I)" %}
+
+   {% image "./src/assets/images/blog/2014-06-20-surrogate-band-opolis/czahller-20140420-06-49-31.jpg", "", "Chris Sanders", "Chris Sanders" %}
+
+   {% image "./src/assets/images/blog/2014-06-20-surrogate-band-opolis/czahller-20140420-06-50-43.jpg", "", "Mike Mitchell", "Mike (I)" %}
+
+   {% image "./src/assets/images/blog/2014-06-20-surrogate-band-opolis/czahller-20140420-06-50-57.jpg", "", "Richie Zenner", "Richie (I)" %}
+
+   {% image "./src/assets/images/blog/2014-06-20-surrogate-band-opolis/czahller-20140420-06-51-42.jpg", "", "Justin & Amy", "Justin & Amy (II)" %}
+
+   {% image "./src/assets/images/blog/2014-06-20-surrogate-band-opolis/czahller-20140420-06-51-56.jpg", "", "David Goad dressed as Ziggy Stardust", "David (A Lad, Insane)" %}
+
+   {% image "./src/assets/images/blog/2014-06-20-surrogate-band-opolis/czahller-20140420-06-53-29.jpg", "", "Amy & J.R.", "Amy & J.R. (II)" %}
+
+   {% image "./src/assets/images/blog/2014-06-20-surrogate-band-opolis/czahller-20140420-07-02-41.jpg", "", "David Goad dressed as Ziggy Stardust", "David (Ziggy) (I)" %}
+
+   {% image "./src/assets/images/blog/2014-06-20-surrogate-band-opolis/czahller-20140420-07-10-37.jpg", "", "David Goad dressed as Ziggy Stardust", "David (Ziggy) (II)" %}
+
+   {% image "./src/assets/images/blog/2014-06-20-surrogate-band-opolis/czahller-20140420-07-10-48.jpg", "", "David Goad dressed as Ziggy Stardust", "David (Ziggy) (III)" %}
+
+   {% image "./src/assets/images/blog/2014-06-20-surrogate-band-opolis/czahller-20140420-07-16-38.jpg", "", "Audience", "Audience (I)" %}
+
+   {% image "./src/assets/images/blog/2014-06-20-surrogate-band-opolis/czahller-20140420-07-17-22.jpg", "", "Audience", "Audience (II)" %}
+
+   {% image "./src/assets/images/blog/2014-06-20-surrogate-band-opolis/czahller-20140420-07-17-24.jpg", "", "Audience", "Audience (III)" %}
+
+   {% image "./src/assets/images/blog/2014-06-20-surrogate-band-opolis/czahller-20140420-07-50-48.jpg", "", "Justin, Amy, &, J.R.", "Justin, Amy, &, J.R." %}
+
+   {% image "./src/assets/images/blog/2014-06-20-surrogate-band-opolis/czahller-20140420-07-58-25.jpg", "", "Mike Mitchell", "Mike (II)" %}
+
+   {% image "./src/assets/images/blog/2014-06-20-surrogate-band-opolis/czahller-20140420-07-59-04.jpg", "", "Richie Zenner", "Richie (II)" %}
+
+   {% image "./src/assets/images/blog/2014-06-20-surrogate-band-opolis/czahller-20140420-07-59-34.jpg", "", "J.R. Reagor", "J.R." %}
+
+   {% image "./src/assets/images/blog/2014-06-20-surrogate-band-opolis/czahller-20140420-07-59-45.jpg", "", "Chris Wilson & Gabe", "Chris Wilson & Gabe (II)" %}
+
+   {% image "./src/assets/images/blog/2014-06-20-surrogate-band-opolis/czahller-20140420-12-00-47.jpg", "", "David performs “Young Americans”", "David (Young American) (I)" %}
+
+   {% image "./src/assets/images/blog/2014-06-20-surrogate-band-opolis/czahller-20140420-12-09-12.jpg", "", "David performs “Young Americans”", "David (Young American) (II)" %}
+
+   {% image "./src/assets/images/blog/2014-06-20-surrogate-band-opolis/czahller-20140420-12-15-53.jpg", "", "The Surrogate Band", "The Surrogate Band (III)" %}
+
+   {% image "./src/assets/images/blog/2014-06-20-surrogate-band-opolis/czahller-20140420-12-20-46.jpg", "", "The Surrogate Band", "The Surrogate Band (IV)" %}
+
+   {% image "./src/assets/images/blog/2014-06-20-surrogate-band-opolis/czahller-20140420-12-21-02.jpg", "", "David Goad dressed as Bowie during his Thin White Duke period", "The Thin White Duke (I)" %}
+
+   {% image "./src/assets/images/blog/2014-06-20-surrogate-band-opolis/czahller-20140420-12-21-17.jpg", "", "David Goad dressed as Bowie during his Thin White Duke period", "The Thin White Duke (II)" %}
+
+   {% image "./src/assets/images/blog/2014-06-20-surrogate-band-opolis/czahller-20140420-12-29-51.jpg", "", "David sings “Magic Dance” while dressed as Jareth from the movie Labyrinth (1986). He wears a dark waistcoat, a white shirt with puffy sleeves, and a lacy ascot.", "Magic Dance (I)" %}
+
+   {% image "./src/assets/images/blog/2014-06-20-surrogate-band-opolis/czahller-20140420-12-30-51.jpg", "", "The band perform “Magic Dance”", "Magic Dance (II)" %}
+
+   {% image "featured", "", "Amy Downes, Gabe Barham, Justin Hogan, David Goad, Richie Zenner, Chris Sanders, J. R. Reagor, Chris Wilson, & Kristine Kamen Wendt as the Surrogate Band. They pose on the Opolis patio under sodium vapor lighting.", "L to R: Amy Downes, Gabe Barham, Justin Hogan, David Goad, Richie Zenner, Chris Sanders, J. R. Reagor, Chris Wilson, Kristine Kamen" %}
 </mpb-dialog-gallery>

@@ -31,7 +31,7 @@ A singer, a songwriter, a storyteller
   </stack-l>
 </hgroup><mpb-dialog-img>
 
-{% image "featured", "img-constrained", "Otis Gibbs. He is raising the neck of his acoustic guitar while strumming a chord. He wears a snap-brim fedora and sports a long, grey beard.", "Otis Gibbs (XIV)", "eager" %}</mpb-dialog-img>
+{% image "featured", "", "Otis Gibbs. He is raising the neck of his acoustic guitar while strumming a chord. He wears a snap-brim fedora and sports a long, grey beard.", "Otis Gibbs (XIV)", "eager" %}</mpb-dialog-img>
 
 <blockquote cite="https://otisgibbs.com/press-kit/">
 
@@ -55,19 +55,33 @@ Gibbs hosts a podcast, <cite>[Thanks for Giving a Damn](https://podcasts.apple.c
 
 <mpb-dialog-gallery hint rel cols="8">
 
-  ![Otis Gibbs (I)](/assets/images/blog/2013-10-17-woodyfest-otis-gibbs/czahller-20130712-11-55-37.jpg)
-  ![Otis Gibbs (II)](/assets/images/blog/2013-10-17-woodyfest-otis-gibbs/czahller-20130712-11-56-11.jpg)
-  ![Otis Gibbs (III)](/assets/images/blog/2013-10-17-woodyfest-otis-gibbs/czahller-20130712-11-56-35.jpg)
-  ![Otis Gibbs (IV)](/assets/images/blog/2013-10-17-woodyfest-otis-gibbs/czahller-20130712-11-56-51.jpg)
-  ![Otis Gibbs (V)](/assets/images/blog/2013-10-17-woodyfest-otis-gibbs/czahller-20130712-11-57-17.jpg)
-  ![Otis Gibbs (VI)](/assets/images/blog/2013-10-17-woodyfest-otis-gibbs/czahller-20130712-11-57-31.jpg)
-  ![Otis Gibbs (VII)](/assets/images/blog/2013-10-17-woodyfest-otis-gibbs/czahller-20130712-11-58-26.jpg)
-  ![Otis Gibbs (VIII)](/assets/images/blog/2013-10-17-woodyfest-otis-gibbs/czahller-20130712-12-00-07.jpg)
-  ![Otis Gibbs (IX)](/assets/images/blog/2013-10-17-woodyfest-otis-gibbs/czahller-20130712-12-02-17.jpg)
-  ![Otis Gibbs (X)](/assets/images/blog/2013-10-17-woodyfest-otis-gibbs/czahller-20130712-12-06-14.jpg)
-  ![Otis Gibbs (XI)](/assets/images/blog/2013-10-17-woodyfest-otis-gibbs/czahller-20130712-12-06-42.jpg)
-  ![Otis Gibbs (XII)](/assets/images/blog/2013-10-17-woodyfest-otis-gibbs/czahller-20130712-12-10-19.jpg)
-  ![Otis Gibbs (XIII)](/assets/images/blog/2013-10-17-woodyfest-otis-gibbs/czahller-20130712-12-26-23.jpg)
-  ![Otis Gibbs (XIV)](/assets/images/blog/2013-10-17-woodyfest-otis-gibbs/czahller-20130712-12-41-21.jpg)
-  ![Otis Gibbs (XV)](/assets/images/blog/2013-10-17-woodyfest-otis-gibbs/czahller-20130712-12-41-23.jpg)
+  {% image "./src/assets/images/blog/2013-10-17-woodyfest-otis-gibbs/czahller-20130712-11-55-37.jpg", "", "Otis Gibbs", "Otis Gibbs (I)" %}
+
+  {% image "./src/assets/images/blog/2013-10-17-woodyfest-otis-gibbs/czahller-20130712-11-56-11.jpg", "", "Otis Gibbs", "Otis Gibbs (II)" %}
+
+  {% image "./src/assets/images/blog/2013-10-17-woodyfest-otis-gibbs/czahller-20130712-11-56-35.jpg", "", "Otis Gibbs", "Otis Gibbs (III)" %}
+
+  {% image "./src/assets/images/blog/2013-10-17-woodyfest-otis-gibbs/czahller-20130712-11-56-51.jpg", "", "Otis Gibbs", "Otis Gibbs (IV)" %}
+
+  {% image "./src/assets/images/blog/2013-10-17-woodyfest-otis-gibbs/czahller-20130712-11-57-17.jpg", "", "Otis Gibbs", "Otis Gibbs (V)" %}
+
+  {% image "./src/assets/images/blog/2013-10-17-woodyfest-otis-gibbs/czahller-20130712-11-57-31.jpg", "", "Otis Gibbs", "Otis Gibbs (VI)" %}
+
+  {% image "./src/assets/images/blog/2013-10-17-woodyfest-otis-gibbs/czahller-20130712-11-58-26.jpg", "", "Otis Gibbs", "Otis Gibbs (VII)" %}
+
+  {% image "./src/assets/images/blog/2013-10-17-woodyfest-otis-gibbs/czahller-20130712-12-00-07.jpg", "", "Otis Gibbs", "Otis Gibbs (VIII)" %}
+
+  {% image "./src/assets/images/blog/2013-10-17-woodyfest-otis-gibbs/czahller-20130712-12-02-17.jpg", "", "Otis Gibbs", "Otis Gibbs (IX)" %}
+
+  {% image "./src/assets/images/blog/2013-10-17-woodyfest-otis-gibbs/czahller-20130712-12-06-14.jpg", "", "Otis Gibbs", "Otis Gibbs (X)" %}
+
+  {% image "./src/assets/images/blog/2013-10-17-woodyfest-otis-gibbs/czahller-20130712-12-06-42.jpg", "", "Otis Gibbs", "Otis Gibbs (XI)" %}
+
+  {% image "./src/assets/images/blog/2013-10-17-woodyfest-otis-gibbs/czahller-20130712-12-10-19.jpg", "", "Otis Gibbs", "Otis Gibbs (XII)" %}
+
+  {% image "./src/assets/images/blog/2013-10-17-woodyfest-otis-gibbs/czahller-20130712-12-26-23.jpg", "", "Otis Gibbs", "Otis Gibbs (XIII)" %}
+
+  {% image "featured", "", "Otis Gibbs. He is raising the neck of his acoustic guitar while strumming a chord. He wears a snap-brim fedora and sports a long, grey beard.", "Otis Gibbs (XIV)" %}
+
+  {% image "./src/assets/images/blog/2013-10-17-woodyfest-otis-gibbs/czahller-20130712-12-41-23.jpg", "", "Otis Gibbs", "Otis Gibbs (XV)" %}
 </mpb-dialog-gallery>

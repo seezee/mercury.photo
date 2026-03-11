@@ -29,7 +29,7 @@ excerpt: From the moment she began to sing her song “Trance” from the Brick 
 <p>From killing fields to killing audiences</p></stack-l></hgroup>
 <!-- markdownlint-enable MD025 --><mpb-dialog-img>
 
-{% image "featured", "img-constrained", "Mary — 21st Annual Woody Guthrie Festival, 2018", "Mary&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;21st Annual Woody Guthrie Festival, 2018", "eager" %}</mpb-dialog-img>
+{% image "featured", "", "Mary Battiata", "Mary", "eager" %}</mpb-dialog-img>
 
 From the moment she began to sing her song <cite class="short-work">Trance</cite> from the Brick Café stage, <span class="h-card p-name">Mary Battiata</span> had this writer’s short hairs standing at attention. The song, from her second full-length release <cite>Gladly Would We Anchor</cite>, is a swampy, off-kilter affair that sent shock waves through the audience.{.drop-cap}
 
@@ -49,16 +49,27 @@ Battiata has opened for the likes of <span class="h-card p-name">Neko Case</span
 
 <mpb-dialog-gallery hint rel cols="8">
   
-  ![Geoff Queen, Mary Battiata, & David Carroll (I) — 21st Annual Woody Guthrie Festival, 2018](/assets/images/blog/2018-11-02-woodyfest-mary-battiata/czahller-20180712-17-04-18.jpg)
-  ![Mary Battiata & David Carroll — 21st Annual Woody Guthrie Festival, 2018](/assets/images/blog/2018-11-02-woodyfest-mary-battiata/czahller-20180712-17-05-47.jpg)
-  ![Mary & David (I) —21st Annual Woody Guthrie Festival, 2018](/assets/images/blog/2018-11-02-woodyfest-mary-battiata/czahller-20180712-17-06-15.jpg)
-  ![Mary & David (II) — 21st Annual Woody Guthrie Festival, 2018](/assets/images/blog/2018-11-02-woodyfest-mary-battiata/czahller-20180712-17-06-21.jpg)
-  ![Geoff Queen Lap Steel (Detail) — 21st Annual Woody Guthrie Festival, 2018](/assets/images/blog/2018-11-02-woodyfest-mary-battiata/czahller-20180712-17-06-43.jpg)
-  ![Mary & David (III) — 21st Annual Woody Guthrie Festival, 2018](/assets/images/blog/2018-11-02-woodyfest-mary-battiata/czahller-20180712-17-08-10.jpg)
-  ![David Carroll — 21st Annual Woody Guthrie Festival, 2018](/assets/images/blog/2018-11-02-woodyfest-mary-battiata/czahller-20180712-17-09-54.jpg)
-  ![Mary & David (IV) — 21st Annual Woody Guthrie Festival, 2018](/assets/images/blog/2018-11-02-woodyfest-mary-battiata/czahller-20180712-17-10-00.jpg)
-  ![Geoff Queen — 21st Annual Woody Guthrie Festival, 2018](/assets/images/blog/2018-11-02-woodyfest-mary-battiata/czahller-20180712-17-14-15.jpg)
-  ![Mary Battiata — 21st Annual Woody Guthrie Festival, 2018](/assets/images/blog/2018-11-02-woodyfest-mary-battiata/czahller-20180712-17-19-35.jpg)
-  ![Geoff Queen, Mary Battiata, & David Carroll (II) — 21st Annual Woody Guthrie Festival, 2018](/assets/images/blog/2018-11-02-woodyfest-mary-battiata/czahller-20180712-17-34-56.jpg)
-  ![Mary — 21st Annual Woody Guthrie Festival, 2018](/assets/images/blog/2018-11-02-woodyfest-mary-battiata/czahller-20180712-17-39-49.jpg)
+  {% image "./src/assets/images/blog/2018-11-02-woodyfest-mary-battiata/czahller-20180712-17-04-18.jpg", "", "Geoff Queen, Mary Battiata, & David Carroll", "Geoff Queen, Mary Battiata, & David Carroll (I)" %}
+
+  {% image "./src/assets/images/blog/2018-11-02-woodyfest-mary-battiata/czahller-20180712-17-05-47.jpg", "", "Mary Battiata & David Carroll", "Mary Battiata & David Carroll" %}
+
+  {% image "./src/assets/images/blog/2018-11-02-woodyfest-mary-battiata/czahller-20180712-17-06-15.jpg", "", "Mary & David", "Mary & David (I)" %}
+
+  {% image "./src/assets/images/blog/2018-11-02-woodyfest-mary-battiata/czahller-20180712-17-06-21.jpg", "", "Mary & David", "Mary & David (II)" %}
+
+  {% image "./src/assets/images/blog/2018-11-02-woodyfest-mary-battiata/czahller-20180712-17-06-43.jpg", "", "Closeup of hands playing a lap steel guitar", "Geoff Queen Lap Steel (Detail)" %}
+
+  {% image "./src/assets/images/blog/2018-11-02-woodyfest-mary-battiata/czahller-20180712-17-08-10.jpg", "", "Mary & David", "Mary & David (III)" %}
+
+  {% image "./src/assets/images/blog/2018-11-02-woodyfest-mary-battiata/czahller-20180712-17-09-54.jpg", "", "David Carroll", "David Carroll" %}
+
+  {% image "./src/assets/images/blog/2018-11-02-woodyfest-mary-battiata/czahller-20180712-17-10-00.jpg", "", "Mary & David", "Mary & David (IV)" %}
+
+  {% image "./src/assets/images/blog/2018-11-02-woodyfest-mary-battiata/czahller-20180712-17-14-15.jpg", "", "Geoff Queen", "Geoff Queen" %}
+
+  {% image "./src/assets/images/blog/2018-11-02-woodyfest-mary-battiata/czahller-20180712-17-19-35.jpg", "", "Mary Battiata", "Mary Battiata" %}
+
+  {% image "./src/assets/images/blog/2018-11-02-woodyfest-mary-battiata/czahller-20180712-17-34-56.jpg", "", "Geoff Queen, Mary Battiata, & David Carroll", "Geoff Queen, Mary Battiata, & David Carroll (II)" %}
+
+  {% image "featured", "", "Mary Battiata", "Mary" %}
 </mpb-dialog-gallery>

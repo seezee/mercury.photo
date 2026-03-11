@@ -19,7 +19,7 @@ excerpt: Leica Camera AG announced their latest digital rangefinder this morning
 
 <!-- markdownlint-enable MD025 --><mpb-dialog-img>
 
-{% image "featured", "img-constrained", "Front of the so-called Leica MT. Taken from a real stock image that has been modified to appear to be an as yet unreleased camera.", "Leica MT (<span lang='de'>typ</span> 245) Silver Chrome Front", "eager" %}</mpb-dialog-img>
+{% image "featured", "", "Front of the so-called Leica MT. Taken from a real stock image that has been modified to appear to be an as yet unreleased camera.", "Leica MT (<span lang='de'>typ</span> 245) Silver Chrome Front", "eager" %}</mpb-dialog-img>
 
 <mpb-callout type="info" title="Overview">
 
@@ -34,6 +34,7 @@ Street price
 
 Manufacturer <span class="ord">No.</span>
 : 10855
+
 </mpb-callout>
 
 [COLOGNE, 1 April 2013]&NoBreak;&hairsp;&NoBreak;&mdash;{.no-drop-cap}
@@ -44,7 +45,7 @@ Leica Camera AG announced their latest digital rangefinder this morning, and **i
 
 <mpb-dialog-img>
 
-{% image "./src/assets/images/blog/2013-04-01-leica-mt/leica-mt-back.jpg", "img-constrained", "Back of the so-called Leica MT. Taken from a real stock image that has been modified to appear to be an as yet unreleased camera.", "Leica MT (<span lang='de'>typ</span> 245) Silver Chrome Back" %}</mpb-dialog-img>
+{% image "./src/assets/images/blog/2013-04-01-leica-mt/leica-mt-back.jpg", "", "Back of the so-called Leica MT. Taken from a real stock image that has been modified to appear to be an as yet unreleased camera.", "Leica MT (<span lang='de'>typ</span> 245) Silver Chrome Back", "large" %}</mpb-dialog-img>
 
 When we began hearing rumors about a Leica project code-named *Chronos* in late September last year, we assigned a small team of reporters to dig deeper. After we obtained internal Leica company documents confirming not only the development of a new camera, but also detailing the groundbreaking new feature associated with it, we reached out to Leica product manager <span class="h-card p-name">Stefan Daniel</span>, offering him a chance to go on record before we broke the story.
 
@@ -65,7 +66,7 @@ The time bubble collapses after fifteen seconds, and everything inside it jumps 
 
 <mpb-dialog-img>
 
-{% image "./src/assets/images/blog/2013-04-01-leica-mt/rewind.jpg", "img-constrained", "The rewind button. It features an icon of a circle with an arrowhead indicating a counterclockwise direction", "Rewind Time Button, a.k.a. <span class=’foreign’ lang=’de’>Wiederholen Knopf für die Zeit</span>" %}</mpb-dialog-img>
+{% image "./src/assets/images/blog/2013-04-01-leica-mt/rewind.jpg", "", "The rewind button. It features an icon of a circle with an arrowhead indicating a counterclockwise direction", "Rewind Time Button, a.k.a. <span class=’foreign’ lang=’de’>Wiederholen Knopf für die Zeit</span>", "large" %}</mpb-dialog-img>
 
 The camera presented many unique challenges, but neither overcoming physics nor ensuring user safety were the biggest. <q>The hardest problem was sizing the new components so we could keep the basic form factor of an M-system camera,</q> said Daniel. <q>We solved the time-space problem in the 1940s, but only recent advances in miniaturization allowed us to deploy the technology. The new camera is the same size as the two cameras we announced last year, so it’s completely compatible with all of the accessories for those cameras, including almost every lens Leica have ever manufactured.</q>
 

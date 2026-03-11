@@ -22,7 +22,7 @@ excerpt: Kill the Reflection front man Morgan Routt took time out after the band
 
 <!-- markdownlint-enable MD025 --><mpb-dialog-img>
 
-{% image "featured", "img-constrained", "Mark (bass), Christopher (drums), and Morgan (guitar, vox) seen from stage right. The image is black-and-white.", "Mark, Christopher, & Morgan", "eager" %}</mpb-dialog-img>
+{% image "featured", "", "Mark (bass), Christopher (drums), and Morgan (guitar, vox) seen from stage right. The image is black-and-white.", "Mark, Christopher, & Morgan", "eager" %}</mpb-dialog-img>
 
 <span aria-hidden="true">K</span><span class="h-card p-org"><span class="sr-only">K</span>ill the Reflection</span> front man <span class="h-card p-name">Morgan Routt</span> took time out after the band’s recent shows at the <span class="h-card p-org">HiLo Club</span>, <span class="h-card p-org">Blue Note Lounge</span> and the city of <span class="h-card p-org">Guthrie</span>’s [<span class="h-card p-event">Zombie Bolt 5K Run</span>](/blog/zombie-bolt/) to answer some questions.[^1]
 
@@ -40,7 +40,7 @@ Kill the Reflection’s latest release <cite>Together … Apart …</cite> is av
 
 <mpb-dialog-img>
 
-{% image "./src/assets/images/blog/2012-11-19-kill-reflection/czahller-20121014-00-18-29.jpg", "img-constrained", "Morgan, behind the microphone with his guitar, eyes cloded, in profile. The image is black-and-white.", "Morgan (I)" %}</mpb-dialog-img>
+{% image "./src/assets/images/blog/2012-11-19-kill-reflection/czahller-20121014-00-18-29.jpg", "", "Morgan, behind the microphone with his guitar, eyes cloded, in profile. The image is black-and-white.", "Morgan (I)", "large" %}</mpb-dialog-img>
 
 <span class="spkr">MPB</span> How did you meet [drummer] <span class="h-card p-name">Christopher Stevens</span> and [bassist] <span class="h-card p-name">Mark Martinez</span>? What are their musical backgrounds, pre&ndash;Kill the Reflection?
 
@@ -70,7 +70,7 @@ I want it to be like a virtual tour, trying to make it in the OKC scene, with al
 
 <mpb-dialog-img>
 
-{% image "./src/assets/images/blog/2012-11-19-kill-reflection/czahller-20121014-00-17-47.jpg", "img-constrained", "Christopher plays the drums. His eyes are closed. The image is black-and-white.", "Christopher (I)" %}</mpb-dialog-img>
+{% image "./src/assets/images/blog/2012-11-19-kill-reflection/czahller-20121014-00-17-47.jpg", "", "Christopher plays the drums. His eyes are closed. The image is black-and-white.", "Christopher (I)", "large" %}</mpb-dialog-img>
 
 <span class="spkr">MPB</span> What’s the origin of the band name?
 
@@ -88,7 +88,6 @@ The band’s answer to the question of influences is quite lengthy; click or tap
 
 <details>
 <summary>Kill the Reflection’s Influences</summary>
-
   <div class="col-2 allow-break">
 
 * Joy Division
@@ -148,9 +147,11 @@ The band’s answer to the question of influences is quite lengthy; click or tap
 * Ane Brun
 * Fever Ray
 * etc. …
+
   </div>
 
 </details>
+
 </mpb-callout>
 
 <span class="spkr">MPB</span> How has your music changed since the band’s formation?
@@ -169,7 +170,7 @@ The purpose of the three-piece is to not be one-sided with Kill the Reflection, 
 
 <mpb-dialog-img>
 
-{% image "./src/assets/images/blog/2012-11-19-kill-reflection/czahller-20121014-00-21-08.jpg", "img-constrained", "Mark plays bass. His face is blured by motion. The image is black-and-white.", "Mark (I)" %}</mpb-dialog-img>
+{% image "./src/assets/images/blog/2012-11-19-kill-reflection/czahller-20121014-00-21-08.jpg", "", "Mark plays bass. His face is blured by motion. The image is black-and-white.", "Mark (I)", "large" %}</mpb-dialog-img>
 
 <span class="spkr">MPB</span> If you couldn’t make music, what would you do instead?
 
@@ -187,20 +188,35 @@ I am never afraid to admit I like songs; *hell*, I had the maxi-single to <span 
 
 <mpb-dialog-gallery hint rel cols="8">
 
-  ![The Band Sets Up](/assets/images/blog/2012-11-19-kill-reflection/czahller-20121014-00-06-57.jpg)
-  ![Christopher (I)](/assets/images/blog/2012-11-19-kill-reflection/czahller-20121014-00-17-47.jpg)
-  ![Morgan (I)](/assets/images/blog/2012-11-19-kill-reflection/czahller-20121014-00-18-29.jpg)
-  ![Mark (I)](/assets/images/blog/2012-11-19-kill-reflection/czahller-20121014-00-21-08.jpg)
-  ![Mark’s Bass](/assets/images/blog/2012-11-19-kill-reflection/czahller-20121014-00-22-03.jpg)
-  ![Morgan’s Guitar](/assets/images/blog/2012-11-19-kill-reflection/czahller-20121014-00-22-13.jpg)
-  ![Morgan (II)](/assets/images/blog/2012-11-19-kill-reflection/czahller-20121014-00-22-41.jpg)
-  ![Mark (II)](/assets/images/blog/2012-11-19-kill-reflection/czahller-20121014-00-23-07.jpg)
-  ![Mark, Christopher, & Morgan](/assets/images/blog/2012-11-19-kill-reflection/czahller-20121014-00-26-08.jpg)
-  ![Christopher, Morgan, & Mark](/assets/images/blog/2012-11-19-kill-reflection/czahller-20121014-00-26-29.jpg)
-  ![Morgan (III)](/assets/images/blog/2012-11-19-kill-reflection/czahller-20121014-00-29-57.jpg)
-  ![Christopher (II)](/assets/images/blog/2012-11-19-kill-reflection/czahller-20121014-00-30-17.jpg)
-  ![Mark’s Converses](/assets/images/blog/2012-11-19-kill-reflection/czahller-20121014-00-37-55.jpg)
-  ![Wes (Drum Tech)](/assets/images/blog/2012-11-19-kill-reflection/czahller-20121014-00-39-14.jpg)
-  ![Drumhead](/assets/images/blog/2012-11-19-kill-reflection/czahller-20121014-00-58-38.jpg)
-  ![Girl Checking Mobile Phone](/assets/images/blog/2012-11-19-kill-reflection/czahller-20121014-01-01-27.jpg)
+  {% image "./src/assets/images/blog/2012-11-19-kill-reflection/czahller-20121014-00-06-57.jpg", "", "The band setting up their equipment. Their drum tech, Wes, assists Chris.", "The Band Sets Up" %}
+
+  {% image "./src/assets/images/blog/2012-11-19-kill-reflection/czahller-20121014-00-17-47.jpg", "", "Christopher (I)", "Christopher (I)" %}
+
+  {% image "./src/assets/images/blog/2012-11-19-kill-reflection/czahller-20121014-00-18-29.jpg", "", "Morgan (I)", "Morgan (I)" %}
+
+  {% image "./src/assets/images/blog/2012-11-19-kill-reflection/czahller-20121014-00-21-08.jpg", "", "Mark", "Mark (I)" %}
+
+  {% image "./src/assets/images/blog/2012-11-19-kill-reflection/czahller-20121014-00-22-03.jpg", "", "Mark’s Bass", "Mark’s Bass" %}
+
+  {% image "./src/assets/images/blog/2012-11-19-kill-reflection/czahller-20121014-00-22-13.jpg", "", "Morgan’s Guitar", "Morgan’s Guitar" %}
+
+  {% image "./src/assets/images/blog/2012-11-19-kill-reflection/czahller-20121014-00-22-41.jpg", "", "Morgan", "Morgan (II)" %}
+
+  {% image "./src/assets/images/blog/2012-11-19-kill-reflection/czahller-20121014-00-23-07.jpg", "", "Mark", "Mark (II)" %}
+
+  {% image "featured", "", "Mark (bass), Christopher (drums), and Morgan (guitar, vox) seen from stage right.", "Mark, Christopher, & Morgan" %}
+
+  {% image "./src/assets/images/blog/2012-11-19-kill-reflection/czahller-20121014-00-26-29.jpg", "", "Christopher, Morgan, & Mark", "Christopher, Morgan, & Mark" %}
+
+  {% image "./src/assets/images/blog/2012-11-19-kill-reflection/czahller-20121014-00-29-57.jpg", "", "Morgan", "Morgan (III)" %}
+
+  {% image "./src/assets/images/blog/2012-11-19-kill-reflection/czahller-20121014-00-30-17.jpg", "", "Christopher", "Christopher (II)" %}
+
+  {% image "./src/assets/images/blog/2012-11-19-kill-reflection/czahller-20121014-00-37-55.jpg", "", "Detail of Mark’s Converse shoes", "Mark’s Converses" %}
+
+  {% image "./src/assets/images/blog/2012-11-19-kill-reflection/czahller-20121014-00-39-14.jpg", "", "Wes, the Drum Tech. He wears glasses, a leather motorcycle jacket, and a mohawk haircut.", "Wes (Drum Tech)" %}
+
+  {% image "./src/assets/images/blog/2012-11-19-kill-reflection/czahller-20121014-00-58-38.jpg", "", "Drumhead with band logo", "Drumhead" %}
+
+  {% image "./src/assets/images/blog/2012-11-19-kill-reflection/czahller-20121014-01-01-27.jpg", "", "Girl in audience looking at her phone", "Girl Checking Mobile Phone" %}
 </mpb-dialog-gallery>

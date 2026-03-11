@@ -25,7 +25,7 @@ excerpt: Although singer-songwriter Audrey Auld describes her style as “music 
 
 <!-- markdownlint-enable MD025 --><mpb-dialog-img>
 
-{% image "featured", "img-constrained", "Audrey Auld on the Crystal Theatre stage. She is playing a large acoustic Taylor guitar with a blond spruce top and a tortoiseshell-colored pick guard. She wears a blue dress. Her hair is long and red with loose curls.", "Audrey Auld (III)", "eager" %}</mpb-dialog-img>
+{% image "featured", "", "Audrey Auld on the Crystal Theatre stage. She is playing a large acoustic Taylor guitar with a blond spruce top and a tortoiseshell-colored pick guard. She wears a blue dress. Her hair is long and red with loose curls.", "Audrey Auld (III)", "eager" %}</mpb-dialog-img>
 
 Although singer-songwriter <span class="h-card p-name">[Audrey Auld](https://music.apple.com/us/artist/audrey-auld/id39868384?uo=4&at=10ldhk){target=_blank rel="external noopener"}</span> describes her style as <q>music with the dirt left on,</q> that’s dirt from a distinctly different hemisphere&NoBreak;&hairsp;&NoBreak;—&NoBreak;&hairsp;&NoBreak;the southern one.
 
@@ -39,16 +39,27 @@ Auld currently lives in Nashville, performing and recording under her married na
 
 <mpb-dialog-gallery hint rel cols="8">
   
-  ![Audrey Auld (I)](/assets/images/blog/2013-10-04-woodyfest-audrey-auld/czahller-20130713-11-02-51.jpg)
-  ![Don Morris](/assets/images/blog/2013-10-04-woodyfest-audrey-auld/czahller-20130713-11-05-07.jpg)
-  ![Audrey Auld (II)](/assets/images/blog/2013-10-04-woodyfest-audrey-auld/czahller-20130713-11-07-08.jpg)
-  ![Audrey Auld (III)](/assets/images/blog/2013-10-04-woodyfest-audrey-auld/czahller-20130713-11-08-16.jpg)
-  ![View from Stage Right](/assets/images/blog/2013-10-04-woodyfest-audrey-auld/czahller-20130713-11-10-18.jpg)
-  ![Audrey Auld (IV)](/assets/images/blog/2013-10-04-woodyfest-audrey-auld/czahller-20130713-11-17-07.jpg)
-  ![Audrey Auld (V)](/assets/images/blog/2013-10-04-woodyfest-audrey-auld/czahller-20130713-11-18-11.jpg)
-  ![Audrey with Special Guests (Annie, Sam, & Marie)](/assets/images/blog/2013-10-04-woodyfest-audrey-auld/czahller-20130713-11-19-21.jpg)
-  ![Rich Brotherton](/assets/images/blog/2013-10-04-woodyfest-audrey-auld/czahller-20130713-11-29-28.jpg)
-  ![Audrey, Rich & Woodyfest House Band](/assets/images/blog/2013-10-04-woodyfest-audrey-auld/czahller-20130713-11-30-07.jpg)
-  ![Terry, Rich, & Dean](/assets/images/blog/2013-10-04-woodyfest-audrey-auld/czahller-20130713-11-31-13.jpg)
-  ![Audrey Auld (VI)](/assets/images/blog/2013-10-04-woodyfest-audrey-auld/czahller-20130713-11-32-07.jpg)
+    {% image "./src/assets/images/blog/2013-10-04-woodyfest-audrey-auld/czahller-20130713-11-02-51.jpg", "", "Audrey Auld", "Audrey Auld (I)" %}
+
+    {% image "./src/assets/images/blog/2013-10-04-woodyfest-audrey-auld/czahller-20130713-11-05-07.jpg", "", "Don Morris", "Don Morris" %}
+
+    {% image "./src/assets/images/blog/2013-10-04-woodyfest-audrey-auld/czahller-20130713-11-07-08.jpg", "", "Audrey Auld", "Audrey Auld (II)" %}
+
+    {% image "featured", "", "Audrey Auld on the Crystal Theatre stage. She is playing a large acoustic Taylor guitar with a blond spruce top and a tortoiseshell-colored pick guard. She wears a blue dress. Her hair is long and red with loose curls.", "Audrey Auld (III)" %}
+
+    {% image "./src/assets/images/blog/2013-10-04-woodyfest-audrey-auld/czahller-20130713-11-10-18.jpg", "", "Audrey Auld seen from stage right", "View from Stage Right" %}
+
+    {% image "./src/assets/images/blog/2013-10-04-woodyfest-audrey-auld/czahller-20130713-11-17-07.jpg", "", "Audrey Auld", "Audrey Auld (IV)" %}
+
+    {% image "./src/assets/images/blog/2013-10-04-woodyfest-audrey-auld/czahller-20130713-11-18-11.jpg", "", "Audrey Auld", "Audrey Auld (V)" %}
+
+    {% image "./src/assets/images/blog/2013-10-04-woodyfest-audrey-auld/czahller-20130713-11-19-21.jpg", "", "Audrey with Annie Burns, Sam Baker, and Marie Burns", "Audrey with Special Guests (Annie, Sam, & Marie)" %}
+
+    {% image "./src/assets/images/blog/2013-10-04-woodyfest-audrey-auld/czahller-20130713-11-29-28.jpg", "", "Rich Brotherton", "Rich Brotherton" %}
+
+    {% image "./src/assets/images/blog/2013-10-04-woodyfest-audrey-auld/czahller-20130713-11-30-07.jpg", "", "Audrey, Rich, and the house band", "Audrey, Rich & Woodyfest House Band" %}
+
+    {% image "./src/assets/images/blog/2013-10-04-woodyfest-audrey-auld/czahller-20130713-11-31-13.jpg", "", "Terry, Rich, & Dean", "Terry, Rich, & Dean" %}
+
+    {% image "./src/assets/images/blog/2013-10-04-woodyfest-audrey-auld/czahller-20130713-11-32-07.jpg", "", "Audrey Auld", "Audrey Auld (VI)" %}
 </mpb-dialog-gallery>

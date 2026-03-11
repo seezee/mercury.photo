@@ -19,10 +19,10 @@ excerpt: I made my usual Tuesday grocery shopping stop at the Cleveland County F
 <!-- markdownlint-enable MD025 -->
 <mpb-dialog-img>
 
-{% image "featured", "img-constrained", "A baby boy in a blue child-sized rocking recliner placed on a table laden with produce. In front of the rocker, a sign reads “Display Only ☺︎”", "Display Only (I)", "eager" %}</mpb-dialog-img>
+{% image "featured", "", "A baby boy in a blue child-sized rocking recliner placed on a table laden with produce. In front of the rocker, a sign reads “Display Only ☺︎”", "Display Only (I)", "eager" %}</mpb-dialog-img>
 
 I made my usual Tuesday grocery shopping stop at the Cleveland County Farmers Market and I saw this very attractive display at the Perry Farm vegetable stand.
 
 <mpb-dialog-img>
 
-{% image "./src/assets/images/blog/2015-08-19-display-only/czahller-20150818-16-15-57.jpg", "img-constrained", "A baby boy in a blue child-sized rocking recliner placed on a table laden with produce. In front of the rocker, a sign reads “Display Only ☺︎”", "Display Only (II)" %}</mpb-dialog-img>
+{% image "./src/assets/images/blog/2015-08-19-display-only/czahller-20150818-16-15-57.jpg", "", "A baby boy in a blue child-sized rocking recliner placed on a table laden with produce. In front of the rocker, a sign reads “Display Only ☺︎”", "Display Only (II)", "large" %}</mpb-dialog-img>

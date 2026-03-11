@@ -23,7 +23,7 @@ excerpt: Emerging from Baltimore's folk scene in the late 1980s, Sonia Rutstein 
 
 <!-- markdownlint-enable MD025 --><mpb-dialog-img>
 
-{% image "featured", "img-constrained", "SONiA disappear fear (II) — 17th Annual Woody Guthrie Folk Festival, 2014", "SONiA disappear fear (II)&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;17th Annual Woody Guthrie Folk Festival, 2014", "eager" %}</mpb-dialog-img>
+{% image "featured", "", "SONiA disappear fear (II)", "SONiA disappear fear (II)", "eager" %}</mpb-dialog-img>
 
 Emerging from Baltimore's folk scene in the <time datetime="1987">late 1980</time>s, <span class="h-card p-name">Sonia Rutstein</span> formed the folk-duo <span class="h-card p-org">Disappear Fear</span> (stylized &ldquo;disappear fear&rdquo;) with her sister <span class="h-card p-name">Cindy Frank</span>.&NoBreak;[^1]
 
@@ -37,13 +37,21 @@ For her <time datetime="2014-07-10T20:30:00-5:00">2014</time> appearance she per
 
 <mpb-dialog-gallery hint rel cols="8">
   
-  ![SONiA disappear fear (I) — 17th Annual Woody Guthrie Folk Festival, 2014](/assets/images/blog/2020-10-23-woodyfest-sonia-dissapear-fear/czahller-20140710-20-36-33.jpg)
-  ![SONiA at Keyboard — 17th Annual Woody Guthrie Folk Festival, 2014](/assets/images/blog/2020-10-23-woodyfest-sonia-dissapear-fear/czahller-20140710-20-41-48.jpg)
-  ![SONiA with Audience — 17th Annual Woody Guthrie Folk Festival, 2014](/assets/images/blog/2020-10-23-woodyfest-sonia-dissapear-fear/czahller-20140710-20-45-57.jpg)
-  ![Don Conoscenti Joins SONiA disappear fear — 17th Annual Woody Guthrie Folk Festival, 2014](/assets/images/blog/2020-10-23-woodyfest-sonia-dissapear-fear/czahller-20140710-20-50-39.jpg)
-  ![Jammin' with Don Con — 17th Annual Woody Guthrie Folk Festival, 2014](/assets/images/blog/2020-10-23-woodyfest-sonia-dissapear-fear/czahller-20140710-20-51-47.jpg)
-  ![SONiA disappear fear (II) — 17th Annual Woody Guthrie Folk Festival, 2014](/assets/images/blog/2020-10-23-woodyfest-sonia-dissapear-fear/czahller-20140710-20-53-42.jpg)
-  ![SONiA disappear fear (III) — 17th Annual Woody Guthrie Folk Festival, 2014](/assets/images/blog/2020-10-23-woodyfest-sonia-dissapear-fear/czahller-20140710-20-54-23.jpg)
-  ![Don Con — 17th Annual Woody Guthrie Folk Festival, 2014](/assets/images/blog/2020-10-23-woodyfest-sonia-dissapear-fear/czahller-20140710-20-56-30.jpg)
-  ![Final Jam — 17th Annual Woody Guthrie Folk Festival, 2014](/assets/images/blog/2020-10-23-woodyfest-sonia-dissapear-fear/czahller-20140710-21-10-45.jpg)
+  {% image "./src/assets/images/blog/2020-10-23-woodyfest-sonia-dissapear-fear/czahller-20140710-20-36-33.jpg", "", "SONiA disappear fear", "SONiA disappear fear (I)" %}
+
+  {% image "./src/assets/images/blog/2020-10-23-woodyfest-sonia-dissapear-fear/czahller-20140710-20-41-48.jpg", "", "SONiA at Keyboard", "SONiA at Keyboard" %}
+
+  {% image "./src/assets/images/blog/2020-10-23-woodyfest-sonia-dissapear-fear/czahller-20140710-20-45-57.jpg", "", "SONiA with Audience", "SONiA with Audience" %}
+
+  {% image "./src/assets/images/blog/2020-10-23-woodyfest-sonia-dissapear-fear/czahller-20140710-20-50-39.jpg", "", "Don Conoscenti joins SONiA disappear fear", "Don Conoscenti Joins SONiA disappear fear" %}
+
+  {% image "./src/assets/images/blog/2020-10-23-woodyfest-sonia-dissapear-fear/czahller-20140710-20-51-47.jpg", "", "SONiA & Don Con jamming", "Jammin' with Don Con" %}
+
+  {% image "featured", "", "SONiA disappear fear", "SONiA disappear fear (II)" %}
+
+  {% image "./src/assets/images/blog/2020-10-23-woodyfest-sonia-dissapear-fear/czahller-20140710-20-54-23.jpg", "", "SONiA disappear fear", "SONiA disappear fear (III)" %}
+
+  {% image "./src/assets/images/blog/2020-10-23-woodyfest-sonia-dissapear-fear/czahller-20140710-20-56-30.jpg", "", "Don Con", "Don Con" %}
+
+  {% image "./src/assets/images/blog/2020-10-23-woodyfest-sonia-dissapear-fear/czahller-20140710-21-10-45.jpg", "", "SONiA & Don Con leaning toward one another while thrashing their guitars", "Final Jam" %}
 </mpb-dialog-gallery>

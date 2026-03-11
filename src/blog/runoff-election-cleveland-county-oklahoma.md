@@ -19,7 +19,7 @@ excerpt: Democrats will decide between John Cox and Freda Deskin for the State S
 
 <!-- markdownlint-enable MD025 --><mpb-dialog-img>
 
-{% image "featured", "img-constrained", "Sign above service counter, Cleveland County Election Board", "Sign above Service Counter, Cleveland County Election Board", "eager" %}</mpb-dialog-img>
+{% image "featured", "", "Sign above service counter, Cleveland County Election Board", "Sign above Service Counter, Cleveland County Election Board", "eager" %}</mpb-dialog-img>
 
 [NORMAN, Okla., 26 August 2014]&NoBreak;&hairsp;&NoBreak;&mdash;{.no-drop-cap}
 
@@ -27,7 +27,7 @@ Democrats will decide between [<span class="h-card p-name">John Cox</span>](http
 
 <mpb-dialog-img>
 
-{% image "./src/assets/images/blog/2014-08-26-runoff/czahller-20140826-10-46-36.jpg", "img-constrained", "Norman resident Cleo Haines shortly after casting her vote in the Runoff Primary Election for the seat being vacated by U.S. Senator Tom Coburn & also for the next Oklahoma Superintendent of Public Instruction", "Voter Cleo Haines" %}</mpb-dialog-img>
+{% image "./src/assets/images/blog/2014-08-26-runoff/czahller-20140826-10-46-36.jpg", "", "Norman resident Cleo Haines shortly after casting her vote in the Runoff Primary Election for the seat being vacated by U.S. Senator Tom Coburn & also for the next Oklahoma Superintendent of Public Instruction", "Voter Cleo Haines", "large" %}</mpb-dialog-img>
 
 Cox garnered 41% of the vote in the primary, While Deskin accrued 38.2%.
 

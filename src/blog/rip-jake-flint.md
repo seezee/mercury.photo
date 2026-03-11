@@ -31,11 +31,12 @@ excerpt: Oklahoma Red Dirt musician Jake Flint, age 37, died Sunday mere hours a
 <p>Joy followed by tragedy</p></stack-l></hgroup>
 <!-- markdownlint-enable MD025 --><mpb-dialog-img>
 
-{% image "featured", "img-constrained", "Jake Flint (II) — Lou’s Rocky Road Tavern, 25th Annual Woody Guthrie Folk Festival, 2022", "Jake Flint (II) — Lou’s Rocky Road Tavern, 25th Annual Woody Guthrie Folk Festival, 2022", "eager" %}</mpb-dialog-img>
+{% image "featured", "", "Jake Flint (II)", "Jake Flint (II)", "eager" %}</mpb-dialog-img>
 
 <mpb-callout type="note" title="Update">
 
 According to an article in [The Oklahoman](https://www.oklahoman.com/story/lifestyle/2023/06/22/oklahoma-songwriter-jake-flints-cause-of-death-revealed-in-me-report/70348895007/){target=_blank rel="external noopener"}, the Oklahoma chief medical examiner’s office has determined the singer’s cause of death to be acute alcohol poisoning, with heart disease listed as a significant contributor to his death.
+
 </mpb-callout>
 
 Oklahoma Red Dirt musician <span class="h-card p-name">Jake Flint</span>, age 37, died <time datetime="2022-27-11">Sunday</time> mere hours after marrying his fiancée Brenda.[^1] His longtime publicist Clif Doyal confirmed to The Oklahoman that the Red Dirt musician died in his sleep hours after saying his vows.{.drop-cap}
@@ -62,21 +63,36 @@ The gallery features images of Jake from the <time datetime="2019">2019</time>, 
 
 <mpb-dialog-gallery hint rel cols="8">
   
-  ![Jake Flint (I) — The Hen House, 22nd Annual Woody Guthrie Festival, 2019](/assets/images/blog/2022-01-12-rip-jake-flint/czahller-20190713-15-35-28.jpg)
-  ![Jake Flint (II) — The Hen House, 22nd Annual Woody Guthrie Festival, 2019](/assets/images/blog/2022-01-12-rip-jake-flint/czahller-20190713-15-36-47.jpg)
-  ![Jake Flint (III) — The Hen House, 22nd Annual Woody Guthrie Festival, 2019](/assets/images/blog/2022-01-12-rip-jake-flint/czahller-20190713-15-37-00.jpg)
-  ![JJake Flint (IV) — The Hen House, 22nd Annual Woody Guthrie Festival, 2019](/assets/images/blog/2022-01-12-rip-jake-flint/czahller-20190713-15-40-07.jpg)
-  ![Jake Flint (Guitar Detail) — The Hen House, 22nd Annual Woody Guthrie Festival, 2019](/assets/images/blog/2022-01-12-rip-jake-flint/czahller-20190713-15-50-55.jpg)
-  ![Jake Flint (I) — Lou’s Rocky Road Tavern, 24th Annual Woody Guthrie Festival, 2021](/assets/images/blog/2022-01-12-rip-jake-flint/czahller-20210716-13-02-32.jpg)
-  ![Jake Flint (II) — Lou’s Rocky Road Tavern, 24th Annual Woody Guthrie Festival, 2021](/assets/images/blog/2022-01-12-rip-jake-flint/czahller-20210716-13-02-54.jpg)
-  ![Jake Flint (III) — Lou’s Rocky Road Tavern, 24th Annual Woody Guthrie Festival, 2021](/assets/images/blog/2022-01-12-rip-jake-flint/czahller-20210716-13-03-10.jpg)
-  ![Jake Flint (IV) — Lou’s Rocky Road Tavern, 24th Annual Woody Guthrie Festival, 2021](/assets/images/blog/2022-01-12-rip-jake-flint/czahller-20210716-13-03-28.jpg)
-  ![Jake Flint (V) — Lou’s Rocky Road Tavern, 24th Annual Woody Guthrie Festival, 2021](/assets/images/blog/2022-01-12-rip-jake-flint/czahller-20210716-13-36-13.jpg)
-  ![Jake Flint (I) — Lou’s Rocky Road Tavern, 25th Annual Woody Guthrie Folk Festival, 2022](/assets/images/blog/2022-01-12-rip-jake-flint/czahller-20220714-13-18-19.jpg)
-  ![Jake Flint (II) — Lou’s Rocky Road Tavern, 25th Annual Woody Guthrie Folk Festival, 2022](/assets/images/blog/2022-01-12-rip-jake-flint/czahller-20220714-13-19-07.jpg)
-  ![Jake Flint (III) — Lou’s Rocky Road Tavern, 25th Annual Woody Guthrie Folk Festival, 2022](/assets/images/blog/2022-01-12-rip-jake-flint/czahller-20220714-13-19-21.jpg)
-  ![Jake Flint (IV) — Lou’s Rocky Road Tavern, 25th Annual Woody Guthrie Folk Festival, 2022](/assets/images/blog/2022-01-12-rip-jake-flint/czahller-20220714-13-19-25.jpg)
-  ![Jake Flint (V) — Lou’s Rocky Road Tavern, 25th Annual Woody Guthrie Folk Festival, 2022](/assets/images/blog/2022-01-12-rip-jake-flint/czahller-20220714-13-22-58.jpg)
-  ![Jake Flint (VI) — Lou’s Rocky Road Tavern, 25th Annual Woody Guthrie Folk Festival, 2022](/assets/images/blog/2022-01-12-rip-jake-flint/czahller-20220714-13-24-16.jpg)
+   {% image "./src/assets/images/blog/2022-01-12-rip-jake-flint/czahller-20190713-15-35-28.jpg", "", "Jake Flint", "Jake Flint (I)&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;The Hen House, 22nd Annual Woody Guthrie Festival, 2019" %}
+
+   {% image "./src/assets/images/blog/2022-01-12-rip-jake-flint/czahller-20190713-15-36-47.jpg", "", "Jake Flint", "Jake Flint (II)&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;The Hen House, 22nd Annual Woody Guthrie Festival, 2019" %}
+
+   {% image "./src/assets/images/blog/2022-01-12-rip-jake-flint/czahller-20190713-15-37-00.jpg", "", "Jake Flint", "Jake Flint (III)&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;The Hen House, 22nd Annual Woody Guthrie Festival, 2019" %}
+
+   {% image "./src/assets/images/blog/2022-01-12-rip-jake-flint/czahller-20190713-15-40-07.jpg", "", "Jake Flint", "Jake Flint (IV)&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;The Hen House, 22nd Annual Woody Guthrie Festival, 2019" %}
+
+   {% image "./src/assets/images/blog/2022-01-12-rip-jake-flint/czahller-20190713-15-50-55.jpg", "", "Jake Flint", "Jake Flint (Guitar Detail)&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;The Hen House, 22nd Annual Woody Guthrie Festival, 2019" %}
+
+   {% image "./src/assets/images/blog/2022-01-12-rip-jake-flint/czahller-20210716-13-02-32.jpg", "", "Jake Flint", "Jake Flint (I)&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;Lou’s Rocky Road Tavern, 24th Annual Woody Guthrie Festival, 2021" %}
+
+   {% image "./src/assets/images/blog/2022-01-12-rip-jake-flint/czahller-20210716-13-02-54.jpg", "", "Jake Flint", "Jake Flint (II)&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;Lou’s Rocky Road Tavern, 24th Annual Woody Guthrie Festival, 2021" %}
+
+   {% image "./src/assets/images/blog/2022-01-12-rip-jake-flint/czahller-20210716-13-03-10.jpg", "", "Jake Flint", "Jake Flint (III)&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;Lou’s Rocky Road Tavern, 24th Annual Woody Guthrie Festival, 2021" %}
+
+   {% image "./src/assets/images/blog/2022-01-12-rip-jake-flint/czahller-20210716-13-03-28.jpg", "", "Jake Flint", "Jake Flint (IV)&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;Lou’s Rocky Road Tavern, 24th Annual Woody Guthrie Festival, 2021" %}
+
+   {% image "./src/assets/images/blog/2022-01-12-rip-jake-flint/czahller-20210716-13-36-13.jpg", "", "Jake Flint", "Jake Flint (V)&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;Lou’s Rocky Road Tavern, 24th Annual Woody Guthrie Festival, 2021" %}
+
+   {% image "./src/assets/images/blog/2022-01-12-rip-jake-flint/czahller-20220714-13-18-19.jpg", "", "Jake Flint", "Jake Flint (I)&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;Lou’s Rocky Road Tavern, 24th Annual Woody Guthrie Festival, 2022" %}
+
+   {% image "./src/assets/images/blog/2022-01-12-rip-jake-flint/czahller-20220714-13-19-07.jpg", "", "Jake Flint", "Jake Flint (II)&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;Lou’s Rocky Road Tavern, 24th Annual Woody Guthrie Festival, 2022" %}
+
+   {% image "./src/assets/images/blog/2022-01-12-rip-jake-flint/czahller-20220714-13-19-21.jpg", "", "Jake Flint", "Jake Flint (III)&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;Lou’s Rocky Road Tavern, 24th Annual Woody Guthrie Festival, 2022" %}
+
+   {% image "featured", "", "Jake Flint", "Jake Flint (IV)&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;Lou’s Rocky Road Tavern, 24th Annual Woody Guthrie Festival, 2022" %}
+
+   {% image "./src/assets/images/blog/2022-01-12-rip-jake-flint/czahller-20220714-13-22-58.jpg", "", "Jake Flint", "Jake Flint (V)&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;Lou’s Rocky Road Tavern, 24th Annual Woody Guthrie Festival, 2022" %}
+
+   {% image "./src/assets/images/blog/2022-01-12-rip-jake-flint/czahller-20220714-13-24-16.jpg", "", "Jake Flint", "Jake Flint (VI)&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;Lou’s Rocky Road Tavern, 24th Annual Woody Guthrie Festival, 2022" %}
   
 </mpb-dialog-gallery>

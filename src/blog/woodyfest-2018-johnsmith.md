@@ -27,7 +27,7 @@ excerpt: Making his eighth appearance as a performer at the Woody Guthrie Folk F
 <p>Kerrville award winner Johnsmith at the Crystal Theatre</p></stack-l></hgroup>
 <!-- markdownlint-enable MD025 --><mpb-dialog-img>
 
-{% image "featured", "img-constrained", "Jammin’ with Rad — 21st Annual Woody Guthrie Festival, 2018", "Jammin’ with Rad&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;21st Annual Woody Guthrie Festival, 2018", "eager" %}</mpb-dialog-img>
+{% image "featured", "", "Johnsmith & Radoslav Lorković jamming", "Jammin’ with Rad", "eager" %}</mpb-dialog-img>
 
 Making his eighth appearance as a performer at the Woody Guthrie Folk Festival, <span class="h-card p-name p-nickname">Johnsmith</span> thrilled the audience with a rock  ’n’ roll attitude erected over a solid folk foundation. The Wisconsin-based performer played <time datetime="2018-07-12T15:00:00-5:00">Thursday afternoon</time> at the Crystal Theatre. <span class="h-card p-name">Radoslav <span class="p-nickname">“Rad”</span> Lorković</span> accompanied him on keys and accordion, and festival favorite <span class="h-card p-name">Jaimee Harris</span> provided vocal harmonies on a couple of the closing numbers.{.drop-cap}
 
@@ -41,19 +41,33 @@ Born one of ten children in small-town Iowa, Johnsmith learned guitar as a teena
 
 <mpb-dialog-gallery hint rel cols="8">
   
-  ![Johnsmith & Rad (Seen from Upstage) — 21st Annual Woody Guthrie Festival, 2018](/assets/images/blog/2018-10-26-woodyfest-johnsmith/czahller-20180712-14-55-26.jpg)
-  ![Johnsmith — 21st Annual Woody Guthrie Festival, 2018](/assets/images/blog/2018-10-26-woodyfest-johnsmith/czahller-20180712-14-59-45.jpg)
-  ![Johnsmith [I] — 21st Annual Woody Guthrie Festival, 2018](/assets/images/blog/2018-10-26-woodyfest-johnsmith/czahller-20180712-15-01-00.jpg)
-  ![Radoslav “Rad” Lorković & Johnsmith — 21st Annual Woody Guthrie Festival, 2018](/assets/images/blog/2018-10-26-woodyfest-johnsmith/czahller-20180712-15-01-48.jpg)
-  ![Radoslav “Rad” Lorković — 21st Annual Woody Guthrie Festival, 2018](/assets/images/blog/2018-10-26-woodyfest-johnsmith/czahller-20180712-15-01-58.jpg)
-  ![Rad (I) — 21st Annual Woody Guthrie Festival, 2018](/assets/images/blog/2018-10-26-woodyfest-johnsmith/czahller-20180712-15-02-08.jpg)
-  ![Bright Light — 21st Annual Woody Guthrie Festival, 2018](/assets/images/blog/2018-10-26-woodyfest-johnsmith/czahller-20180712-15-02-28.jpg)
-  ![Johnsmith (II) — 21st Annual Woody Guthrie Festival, 2018](/assets/images/blog/2018-10-26-woodyfest-johnsmith/czahller-20180712-15-11-28.jpg)
-  ![Jammin’ with Rad — 21st Annual Woody Guthrie Festival, 2018](/assets/images/blog/2018-10-26-woodyfest-johnsmith/czahller-20180712-15-18-57.jpg)
-  ![More Jammin’ — 21st Annual Woody Guthrie Festival, 2018](/assets/images/blog/2018-10-26-woodyfest-johnsmith/czahller-20180712-15-23-11.jpg)
-  ![Just Like Pete Townshend — 21st Annual Woody Guthrie Festival, 2018](/assets/images/blog/2018-10-26-woodyfest-johnsmith/czahller-20180712-15-24-10.jpg)
-  ![Johnsmith (III) — 21st Annual Woody Guthrie Festival, 2018](/assets/images/blog/2018-10-26-woodyfest-johnsmith/czahller-20180712-15-24-14.jpg)
-  ![Jaimee Harris Joins In — 21st Annual Woody Guthrie Festival, 2018](/assets/images/blog/2018-10-26-woodyfest-johnsmith/czahller-20180712-15-26-28.jpg)
-  ![Jaimee Harris — 21st Annual Woody Guthrie Festival, 2018](/assets/images/blog/2018-10-26-woodyfest-johnsmith/czahller-20180712-15-28-58.jpg)
-  ![Final Jam — 21st Annual Woody Guthrie Festival, 2018](/assets/images/blog/2018-10-26-woodyfest-johnsmith/czahller-20180712-15-38-12.jpg)
+  {% image "./src/assets/images/blog/2018-10-26-woodyfest-johnsmith/czahller-20180712-14-55-26.jpg", "", "Johnsmith & Radoslav Lorković viewed from upstage", "Johnsmith & Rad (Seen from Upstage)" %}
+
+  {% image "./src/assets/images/blog/2018-10-26-woodyfest-johnsmith/czahller-20180712-14-59-45.jpg", "", "Johnsmith", "Johnsmith" %}
+
+  {% image "./src/assets/images/blog/2018-10-26-woodyfest-johnsmith/czahller-20180712-15-01-00.jpg", "", "Johnsmith", "Johnsmith (I)" %}
+
+  {% image "./src/assets/images/blog/2018-10-26-woodyfest-johnsmith/czahller-20180712-15-01-48.jpg", "", "Radoslav “Rad” Lorković & Johnsmith", "Radoslav “Rad” Lorković & Johnsmith" %}
+
+  {% image "./src/assets/images/blog/2018-10-26-woodyfest-johnsmith/czahller-20180712-15-01-58.jpg", "", "Radoslav “Rad” Lorković", "Radoslav “Rad” Lorković" %}
+
+  {% image "./src/assets/images/blog/2018-10-26-woodyfest-johnsmith/czahller-20180712-15-02-08.jpg", "", "Radoslav Lorković", "Rad (I)" %}
+
+  {% image "./src/assets/images/blog/2018-10-26-woodyfest-johnsmith/czahller-20180712-15-02-28.jpg", "", "Johnsmith & Radoslav Lorković viewed from upstage. A spotlight shines on them", "Bright Light" %}
+
+  {% image "./src/assets/images/blog/2018-10-26-woodyfest-johnsmith/czahller-20180712-15-11-28.jpg", "", "Johnsmith", "Johnsmith (II)" %}
+
+  {% image "featured", "", "Johnsmith & Radoslav Lorković jamming", "Jammin’ with Rad" %}
+
+  {% image "./src/assets/images/blog/2018-10-26-woodyfest-johnsmith/czahller-20180712-15-23-11.jpg", "", "Johnsmith & Radoslav Lorković jamming", "More Jammin’" %}
+
+  {% image "./src/assets/images/blog/2018-10-26-woodyfest-johnsmith/czahller-20180712-15-24-10.jpg", "", "Johnsmith “windmilling” on his guitar", "Just Like Pete Townshend" %}
+
+  {% image "./src/assets/images/blog/2018-10-26-woodyfest-johnsmith/czahller-20180712-15-24-14.jpg", "", "Johnsmith", "Johnsmith (III)" %}
+
+  {% image "./src/assets/images/blog/2018-10-26-woodyfest-johnsmith/czahller-20180712-15-26-28.jpg", "", "Jaimee Harris joins Johnsmith & Radoslav Lorković", "Jaimee Harris Joins In" %}
+
+  {% image "./src/assets/images/blog/2018-10-26-woodyfest-johnsmith/czahller-20180712-15-28-58.jpg", "", "Jaimee Harris", "Jaimee Harris" %}
+
+  {% image "./src/assets/images/blog/2018-10-26-woodyfest-johnsmith/czahller-20180712-15-38-12.jpg", "", "Johnsmith & Radoslav Lorković jamming", "Final Jam" %}
 </mpb-dialog-gallery>

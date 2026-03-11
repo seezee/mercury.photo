@@ -10,12 +10,12 @@ ogtype: website
   <stack-l>
 
 <!-- markdownlint-disable MD025 -->
-# <icon-l class="bigger icon-before"><span class="with-icon"><svg class="icon" viewBox="0 0 576 512" ><path fill="var(--mpb-color-accent)" d="M0 128v304a48 48 0 0 0 48 48h480a48 48 0 0 0 48-48V128zm176 64a64 64 0 1 1-64 64 64 64 0 0 1 64-64zm93.3 224H82.7c-10.4 0-18.8-10-15.6-19.8A64.09 64.09 0 0 1 128 352h8.2a103 103 0 0 0 79.6 0h8.2a64.09 64.09 0 0 1 60.9 44.2c3.2 9.9-5.2 19.8-15.6 19.8zM512 344a8 8 0 0 1-8 8H360a8 8 0 0 1-8-8v-16a8 8 0 0 1 8-8h144a8 8 0 0 1 8 8zm0-64a8 8 0 0 1-8 8H360a8 8 0 0 1-8-8v-16a8 8 0 0 1 8-8h144a8 8 0 0 1 8 8zm0-64a8 8 0 0 1-8 8H360a8 8 0 0 1-8-8v-16a8 8 0 0 1 8-8h144a8 8 0 0 1 8 8z" /><path fill="var(--mpb-color-accentReverse)" d="M224 352h-8.2a103 103 0 0 1-79.6 0H128a64.09 64.09 0 0 0-60.9 44.2C63.9 406 72.3 416 82.7 416h186.6c10.4 0 18.8-9.9 15.6-19.8A64.09 64.09 0 0 0 224 352zM528 32H48A48 48 0 0 0 0 80v48h576V80a48 48 0 0 0-48-48zM176 320a64 64 0 1 0-64-64 64 64 0 0 0 64 64z" /></svg></span>  {{ title }} </icon-l>
+# <icon-l class="bigger icon-before"><span class="with-icon"><svg class="icon" viewBox="0 0 576 512" ><path fill="var(--mpb-color-accent)" d="M0 128v304a48 48 0 0 0 48 48h480a48 48 0 0 0 48-48V128zm176 64a64 64 0 1 1-64 64 64 64 0 0 1 64-64zm93.3 224H82.7c-10.4 0-18.8-10-15.6-19.8A64.09 64.09 0 0 1 128 352h8.2a103 103 0 0 0 79.6 0h8.2a64.09 64.09 0 0 1 60.9 44.2c3.2 9.9-5.2 19.8-15.6 19.8zM512 344a8 8 0 0 1-8 8H360a8 8 0 0 1-8-8v-16a8 8 0 0 1 8-8h144a8 8 0 0 1 8 8zm0-64a8 8 0 0 1-8 8H360a8 8 0 0 1-8-8v-16a8 8 0 0 1 8-8h144a8 8 0 0 1 8 8zm0-64a8 8 0 0 1-8 8H360a8 8 0 0 1-8-8v-16a8 8 0 0 1 8-8h144a8 8 0 0 1 8 8z" /><path fill="var(--mpb-color-accent-reverse)" d="M224 352h-8.2a103 103 0 0 1-79.6 0H128a64.09 64.09 0 0 0-60.9 44.2C63.9 406 72.3 416 82.7 416h186.6c10.4 0 18.8-9.9 15.6-19.8A64.09 64.09 0 0 0 224 352zM528 32H48A48 48 0 0 0 0 80v48h576V80a48 48 0 0 0-48-48zM176 320a64 64 0 1 0-64-64 64 64 0 0 0 64 64z" /></svg></span>  {{ title }} </icon-l>
 <!-- markdownlint-enable MD025 -->
 Hey, aren't those all the same guy?
 </stack-l></hgroup><grid-l class="staff-wrapper"><div class="staff-card">
 
-![A Leica M3 rangefinder camera with auxiliary viewfinder](/assets/images/site/staff/czahller-20120423-14-34-49.jpg)<hgroup>
+{% image "./src/assets/images/site/staff/czahller-20120423-14-34-49.jpg", "img-constrained", "A Leica M3 rangefinder camera with auxiliary viewfinder" %}<hgroup>
 
 ## Chris J. “Weegee” Zähller
 
@@ -23,7 +23,7 @@ Photojournalist</hgroup>
 
 Chris studied fine art at the University of Oklahoma during the parachute pants and Studio 54 era. A notorious paparazzo, he’s often seen shoving his camera in visiting dignitaries’ mugs, without so much as a “Pardon me!”</div><div class="staff-card">
 
-![A cocktail in a coupé glass perched on a sunny windowsill. The liquid is brown. A lemon twist is perched languidly on the glass's edge.](/assets/images/site/staff/czahller-20120514-18-05-44.jpg)<hgroup>
+{% image "./src/assets/images/site/staff/czahller-20120514-18-05-44.jpg", "img-constrained", "A cocktail in a coupé glass perched on a sunny windowsill. The liquid is brown. A lemon twist is perched languidly on the glass's edge." %}<hgroup>
 
 ## Chris J. “Barkeep” Zähller
 
@@ -31,7 +31,7 @@ Mixologist</hgroup>
 
 Chris’s first tipple was communion wine. We’re not sure what his duties are; something to do with mixing vesper cocktails “shaken until ice cold,” concocting new recipes for grenadine, and putting up batches of pimento dram. Nevertheless, he makes for a relaxed atmosphere in our offices.</div><div class="staff-card">
   
-![An antique typewriter and a stuffed camel doll](/assets/images/site/staff/czahller-20120325-13-36-09.jpg)<hgroup>
+{% image "./src/assets/images/site/staff/czahller-20120325-13-36-09.jpg", "img-constrained", "An antique typewriter and a stuffed camel doll" %}<hgroup>
 
 ## Chris J. “Hack” Zähller
 

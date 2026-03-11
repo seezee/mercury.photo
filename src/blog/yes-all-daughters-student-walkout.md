@@ -18,13 +18,14 @@ excerpt: An online campaign to bring attention to the alleged rape of three fema
 
 <mpb-dialog-img>
 
-{% image "featured", "img-constrained", "Protesters hold up a large sign (about five feet tall and ten feet long) with the hashtag #YesAllDaughters", "The Big Sign", "eager" %}</mpb-dialog-img>
+{% image "featured", "", "Protesters hold up a large sign (about five feet tall and ten feet long) with the hashtag #YesAllDaughters", "The Big Sign", "eager" %}</mpb-dialog-img>
 
 <mpb-callout type="info" title="Update">
 
 This article has been updated to clarify the rôles of Danielle Brown, Kim Wright, and Stacey Wright within the campaign.
 
 Since this article’s publication, Norman School District superintendent <span class="h-card p-name"><span class="p-honorific-prefix">Dr.</span> Joe Siano</span> [has agreed](https://www.normantranscript.com/opinion/norman-seeks-to-be-national-model-in-sexual-assault-curriculum/article_851c3624-7580-11e4-95bd-2baab2d12f1c.html){target=_blank rel="external noopener"} to many of the students’ demands.
+
 </mpb-callout>
 
 [NORMAN, Okla., 24 Nov. 2014]⁠&NoBreak;&hairsp;&NoBreak;—{.no-drop-cap}
@@ -43,40 +44,75 @@ Norman Police Department Captain <span class="h-card p-name">Tom Easley</span> d
 
 <mpb-dialog-gallery hint rel cols="8">
 
-  ![Demonstrators (I)](/assets/images/blog/2014-11-24-yes-all-daughters/czahller-20141124-09-45-37.jpg)
-  ![Demonstrators (II)](/assets/images/blog/2014-11-24-yes-all-daughters/czahller-20141124-09-45-46.jpg)
-  ![#YAD](/assets/images/blog/2014-11-24-yes-all-daughters/czahller-20141124-09-47-37.jpg)
-  ![No!](/assets/images/blog/2014-11-24-yes-all-daughters/czahller-20141124-09-47-47.jpg)
-  ![Zero Tolerance](/assets/images/blog/2014-11-24-yes-all-daughters/czahller-20141124-09-47-56.jpg)
-  ![Demonstrators (III)](/assets/images/blog/2014-11-24-yes-all-daughters/czahller-20141124-09-48-10.jpg)
-  ![Demonstrators (IV)](/assets/images/blog/2014-11-24-yes-all-daughters/czahller-20141124-09-48-21.jpg)
-  ![She’s My Daughter](/assets/images/blog/2014-11-24-yes-all-daughters/czahller-20141124-09-48-25.jpg)
-  ![News Channel 9 Reporter Heather Hope](/assets/images/blog/2014-11-24-yes-all-daughters/czahller-20141124-09-48-43.jpg)
-  ![Don’t Rape](/assets/images/blog/2014-11-24-yes-all-daughters/czahller-20141124-09-48-53.jpg)
-  ![Transfer Is Not the Answer (I)](/assets/images/blog/2014-11-24-yes-all-daughters/czahller-20141124-09-49-08.jpg)
-  ![Demonstrators (VI)](/assets/images/blog/2014-11-24-yes-all-daughters/czahller-20141124-09-49-17.jpg)
-  ![Demonstrators (VII)](/assets/images/blog/2014-11-24-yes-all-daughters/czahller-20141124-09-49-24.jpg)
-  ![Tigers Take a Stand](/assets/images/blog/2014-11-24-yes-all-daughters/czahller-20141124-09-49-36.jpg)
-  ![Stop Victim Blaming](/assets/images/blog/2014-11-24-yes-all-daughters/czahller-20141124-09-49-45.jpg)
-  ![Public Spaces Should Be Safe Places](/assets/images/blog/2014-11-24-yes-all-daughters/czahller-20141124-09-50-00.jpg)
-  ![Demonstrators (VIII)](/assets/images/blog/2014-11-24-yes-all-daughters/czahller-20141124-09-50-57.jpg)
-  ![Demonstrators (IX)](/assets/images/blog/2014-11-24-yes-all-daughters/czahller-20141124-09-56-02.jpg)
-  ![End Victim Shaming](/assets/images/blog/2014-11-24-yes-all-daughters/czahller-20141124-09-56-12.jpg)
-  ![Education, Not Revictimization](/assets/images/blog/2014-11-24-yes-all-daughters/czahller-20141124-09-56-21.jpg)
-  ![Demonstrators (X)](/assets/images/blog/2014-11-24-yes-all-daughters/czahller-20141124-09-59-55.jpg)
-  ![Demonstrators (XI)](/assets/images/blog/2014-11-24-yes-all-daughters/czahller-20141124-10-00-02.jpg)
-  ![Public Safety (police monitoring the protest)](/assets/images/blog/2014-11-24-yes-all-daughters/czahller-20141124-10-07-43.jpg)
-  ![Zero Tolerance for Bullies](/assets/images/blog/2014-11-24-yes-all-daughters/czahller-20141124-10-08-27.jpg)
-  ![Fight Hate; Love Justice ](/assets/images/blog/2014-11-24-yes-all-daughters/czahller-20141124-10-09-37.jpg)
-  ![Transfer Is Not the Answer (II)](/assets/images/blog/2014-11-24-yes-all-daughters/czahller-20141124-10-09-42.jpg)
-  ![Leading the Chant](/assets/images/blog/2014-11-24-yes-all-daughters/czahller-20141124-10-10-41.jpg)
-  ![Kids](/assets/images/blog/2014-11-24-yes-all-daughters/czahller-20141124-10-14-38.jpg)
-  ![Applause](/assets/images/blog/2014-11-24-yes-all-daughters/czahller-20141124-10-16-54.jpg)
-  ![The Big Sign](/assets/images/blog/2014-11-24-yes-all-daughters/czahller-20141124-10-18-25.jpg)
-  ![Hands Across Campus](/assets/images/blog/2014-11-24-yes-all-daughters/czahller-20141124-10-19-48.jpg)
-  ![Transfer Is Not the Answer (III)](/assets/images/blog/2014-11-24-yes-all-daughters/czahller-20141124-10-45-15.jpg)
-  ![Interview](/assets/images/blog/2014-11-24-yes-all-daughters/czahller-20141124-10-46-27.jpg)
-  ![Megaphone](/assets/images/blog/2014-11-24-yes-all-daughters/czahller-20141124-10-53-06.jpg)
-  ![Sorry for Inconveniencing](/assets/images/blog/2014-11-24-yes-all-daughters/czahller-20141124-10-55-28.jpg)
-  ![Shame & Blame ](/assets/images/blog/2014-11-24-yes-all-daughters/czahller-20141124-10-55-34.jpg)
+  {% image "./src/assets/images/blog/2014-11-24-yes-all-daughters/czahller-20141124-09-45-37.jpg", "", "Demonstrators at the #YesAllDaughters protest", "Demonstrators (I)" %}
+
+  {% image "./src/assets/images/blog/2014-11-24-yes-all-daughters/czahller-20141124-09-45-46.jpg", "", "Demonstrators at the #YesAllDaughters protest", "Demonstrators (II)" %}
+
+  {% image "./src/assets/images/blog/2014-11-24-yes-all-daughters/czahller-20141124-09-47-37.jpg", "", "#YAD sign held by demonstrator", "#YAD" %}
+
+  {% image "./src/assets/images/blog/2014-11-24-yes-all-daughters/czahller-20141124-09-47-47.jpg", "", "Three demonstrators holding signs", "No!" %}
+
+  {% image "./src/assets/images/blog/2014-11-24-yes-all-daughters/czahller-20141124-09-47-56.jpg", "", "Zero tolerance for bullying sign held by demonstrator. She is flanked by two other girls with signs.", "Zero Tolerance" %}
+
+  {% image "./src/assets/images/blog/2014-11-24-yes-all-daughters/czahller-20141124-09-48-10.jpg", "", "Demonstrators at the #YesAllDaughters protest", "Demonstrators (III)" %}
+
+  {% image "./src/assets/images/blog/2014-11-24-yes-all-daughters/czahller-20141124-09-48-21.jpg", "", "Demonstrators at the #YesAllDaughters protest", "Demonstrators (IV)" %}
+
+  {% image "./src/assets/images/blog/2014-11-24-yes-all-daughters/czahller-20141124-09-48-25.jpg", "", "She’s My Daughter sign held by demonstrator", "She’s My Daughter" %}
+
+  {% image "./src/assets/images/blog/2014-11-24-yes-all-daughters/czahller-20141124-09-48-43.jpg", "", "News Channel 9 Reporter Heather Hope", "News Channel 9 Reporter Heather Hope" %}
+
+  {% image "./src/assets/images/blog/2014-11-24-yes-all-daughters/czahller-20141124-09-48-53.jpg", "", "Don’t Rape sign held by demonstrator", "Don’t Rape" %}
+
+  {% image "./src/assets/images/blog/2014-11-24-yes-all-daughters/czahller-20141124-09-49-08.jpg", "", "Transfer Is Not the Answer (I) sign held by demonstrator", "Transfer Is Not the Answer (I)" %}
+
+  {% image "./src/assets/images/blog/2014-11-24-yes-all-daughters/czahller-20141124-09-49-17.jpg", "", "Demonstrators at the #YesAllDaughters protest", "Demonstrators (VI)" %}
+
+  {% image "./src/assets/images/blog/2014-11-24-yes-all-daughters/czahller-20141124-09-49-24.jpg", "", "Demonstrators at the #YesAllDaughters protest", "Demonstrators (VII)" %}
+
+  {% image "./src/assets/images/blog/2014-11-24-yes-all-daughters/czahller-20141124-09-49-36.jpg", "", "Demonstrators at the #YesAllDaughters protest", "Tigers Take a Stand" %}
+
+  {% image "./src/assets/images/blog/2014-11-24-yes-all-daughters/czahller-20141124-09-49-45.jpg", "", "Stop Victim Blaming sign held by demonstrator", "Stop Victim Blaming" %}
+
+  {% image "./src/assets/images/blog/2014-11-24-yes-all-daughters/czahller-20141124-09-50-00.jpg", "", "Public Spaces Should Be Safe Places sign held by demonstrator", "Public Spaces Should Be Safe Places" %}
+
+  {% image "./src/assets/images/blog/2014-11-24-yes-all-daughters/czahller-20141124-09-50-57.jpg", "", "Demonstrators at the #YesAllDaughters protest", "Demonstrators (VIII)" %}
+
+  {% image "./src/assets/images/blog/2014-11-24-yes-all-daughters/czahller-20141124-09-56-02.jpg", "", "Demonstrators at the #YesAllDaughters protest", "Demonstrators (IX)" %}
+
+  {% image "./src/assets/images/blog/2014-11-24-yes-all-daughters/czahller-20141124-09-56-12.jpg", "", "End Victim Shaming sign held by demonstrator", "End Victim Shaming" %}
+
+  {% image "./src/assets/images/blog/2014-11-24-yes-all-daughters/czahller-20141124-09-56-21.jpg", "", "Education, Not Revictimization sign held by demonstrator", "Education, Not Revictimization" %}
+
+  {% image "./src/assets/images/blog/2014-11-24-yes-all-daughters/czahller-20141124-09-59-55.jpg", "", "Demonstrators at the #YesAllDaughters protest", "Demonstrators (X)" %}
+
+  {% image "./src/assets/images/blog/2014-11-24-yes-all-daughters/czahller-20141124-10-00-02.jpg", "", "Demonstrators at the #YesAllDaughters protest", "Demonstrators (XI)" %}
+
+  {% image "./src/assets/images/blog/2014-11-24-yes-all-daughters/czahller-20141124-10-07-43.jpg", "", "Police monitoring the protest", "Public Safety" %}
+
+  {% image "./src/assets/images/blog/2014-11-24-yes-all-daughters/czahller-20141124-10-08-27.jpg", "", "Zero Tolerance for Bullies sign held by demonstrator leading a march", "Zero Tolerance for Bullies" %}
+
+   {% image "./src/assets/images/blog/2014-11-24-yes-all-daughters/czahller-20141124-10-09-37.jpg", "", "A large Fight Hate; Love Justice sign held by demonstrator", "Fight Hate; Love Justice" %}
+
+  {% image "./src/assets/images/blog/2014-11-24-yes-all-daughters/czahller-20141124-10-09-42.jpg", "", "Transfer Is Not the Answer (II) sign held by demonstrator", "Transfer Is Not the Answer (II)" %}
+
+  {% image "./src/assets/images/blog/2014-11-24-yes-all-daughters/czahller-20141124-10-10-41.jpg", "", "A man wearing a dark suit leads a chant", "Leading the Chant" %}
+
+  {% image "./src/assets/images/blog/2014-11-24-yes-all-daughters/czahller-20141124-10-14-38.jpg", "", "Young children attending the demonstration", "Kids" %}
+
+  {% image "./src/assets/images/blog/2014-11-24-yes-all-daughters/czahller-20141124-10-16-54.jpg", "", "Demonstrators applauding", "Applause" %}
+
+  {% image "featured", "", "Protesters hold up a large sign (about five feet tall and ten feet long) with the hashtag #YesAllDaughters", "The Big Sign" %}
+
+  {% image "./src/assets/images/blog/2014-11-24-yes-all-daughters/czahller-20141124-10-19-48.jpg", "", "Demonstrators join hands, forming a human chain", "Hands Across Campus" %}
+
+  {% image "./src/assets/images/blog/2014-11-24-yes-all-daughters/czahller-20141124-10-45-15.jpg", "", "Transfer Is Not the Answer sign held by demonstrator", "Transfer Is Not the Answer (III)" %}
+
+  {% image "./src/assets/images/blog/2014-11-24-yes-all-daughters/czahller-20141124-10-46-27.jpg", "", "Reporter interviewing demonstrators", "Interview" %}
+
+  {% image "./src/assets/images/blog/2014-11-24-yes-all-daughters/czahller-20141124-10-53-06.jpg", "", "Demonstrator with megaphone", "Megaphone" %}
+
+  {% image "./src/assets/images/blog/2014-11-24-yes-all-daughters/czahller-20141124-10-55-28.jpg", "", "Sorry for Inconveniencing, We Are Trying to Change the World sign held by demonstrator", "Sorry for Inconveniencing" %}
+
+   {% image "./src/assets/images/blog/2014-11-24-yes-all-daughters/czahller-20141124-10-55-34.jpg", "", "Shame & Blame Belongs only to the Rapists sign held by demonstrator", "Shame & Blame" %}
 </mpb-dialog-gallery>

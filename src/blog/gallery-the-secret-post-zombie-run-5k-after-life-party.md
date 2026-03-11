@@ -20,7 +20,7 @@ excerpt: Tulsa’s The Secret Post and Oklahoma City’s Kill the Reflection pro
 
 <!-- markdownlint-enable MD025 --><mpb-dialog-img>
 
-{% image "featured", "img-constrained", "Zachariah’s Guitar — Zombie Bolt After Life Party, Guthrie, Oklahoma", "Zachariah’s Guitar — Zombie Bolt After Life Party, Guthrie, Oklahoma", "eager" %}</mpb-dialog-img>
+{% image "featured", "", "Zachariah’s Guitar", "Zachariah’s Guitar", "eager" %}</mpb-dialog-img>
 
 Recap: <time datime="2010-10-24">Five years ago</time> we published [a story](/blog/zombie-bolt/) about the 5K zombie race in Guthrie, Oklahoma. At the time we shared only a portion of the photos we shot during the race, relegating the remainder to <span class="h-card p-org">Flickr</span>. Since then Flickr have changed their [terms of service](https://blog.flickr.net/en/2018/11/01/changing-flickr-free-accounts-1000-photos/){target="_blank" rel="external noopener"}. We’re currently moving many of our photos from the platform to this blog.
 
@@ -34,26 +34,47 @@ The Secret Post is the brainchild of <span class="h-card p-name">Zachariah Wiser
 
 <mpb-dialog-gallery hint rel cols="8">
   
-  ![M Tunes His Bass — Zombie Bolt After Life Party, Guthrie, Oklahoma](/assets/images/blog/2019-05-20-zombie-run-secret-post/czahller-20121006-18-34-45.jpg)
-  ![Guitar Pedals — Zombie Bolt After Life Party, Guthrie, Oklahoma](/assets/images/blog/2019-05-20-zombie-run-secret-post/czahller-20121006-18-42-42.jpg)
-  ![The Secret Post Drum Head — Zombie Bolt After Life Party, Guthrie, Oklahoma](/assets/images/blog/2019-05-20-zombie-run-secret-post/czahller-20121006-18-47-04.jpg)
-  ![Zachariah (I) — Zombie Bolt After Life Party, Guthrie, Oklahoma](/assets/images/blog/2019-05-20-zombie-run-secret-post/czahller-20121006-19-04-48.jpg)
-  ![Aleks (I) — Zombie Bolt After Life Party, Guthrie, Oklahoma](/assets/images/blog/2019-05-20-zombie-run-secret-post/czahller-20121006-19-05-27.jpg)
-  ![Zachariah Seen from Behind — Zombie Bolt After Life Party, Guthrie, Oklahoma](/assets/images/blog/2019-05-20-zombie-run-secret-post/czahller-20121006-19-06-44.jpg)
-  ![M (I) — Zombie Bolt After Life Party, Guthrie, Oklahoma](/assets/images/blog/2019-05-20-zombie-run-secret-post/czahller-20121006-19-07-42.jpg)
-  ![Zachariah (II) — Zombie Bolt After Life Party, Guthrie, Oklahoma](/assets/images/blog/2019-05-20-zombie-run-secret-post/czahller-20121006-19-08-38.jpg)
-  ![Nicoli — Zombie Bolt After Life Party, Guthrie, Oklahoma](/assets/images/blog/2019-05-20-zombie-run-secret-post/czahller-20121006-19-09-44.jpg)
-  ![Aleks (II) — Zombie Bolt After Life Party, Guthrie, Oklahoma](/assets/images/blog/2019-05-20-zombie-run-secret-post/czahller-20121006-19-10-03.jpg)
-  ![M (II) — Zombie Bolt After Life Party, Guthrie, Oklahoma](/assets/images/blog/2019-05-20-zombie-run-secret-post/czahller-20121006-19-10-12.jpg)
-  ![Zachariah (III) — Zombie Bolt After Life Party, Guthrie, Oklahoma](/assets/images/blog/2019-05-20-zombie-run-secret-post/czahller-20121006-19-10-26.jpg)
-  ![Timothy — Zombie Bolt After Life Party, Guthrie, Oklahoma](/assets/images/blog/2019-05-20-zombie-run-secret-post/czahller-20121006-19-11-01.jpg)
-  ![Zachariah (IV) — Zombie Bolt After Life Party, Guthrie, Oklahoma](/assets/images/blog/2019-05-20-zombie-run-secret-post/czahller-20121006-19-13-05.jpg)
-  ![Aleks, M, Zachariah and Timothy (I) — Zombie Bolt After Life Party, Guthrie, Oklahoma](/assets/images/blog/2019-05-20-zombie-run-secret-post/czahller-20121006-19-13-47.jpg)
-  ![Aleks, M, and Zachariah (I) — Zombie Bolt After Life Party, Guthrie, Oklahoma](/assets/images/blog/2019-05-20-zombie-run-secret-post/czahller-20121006-19-14-45.jpg)
-  ![Aleks, M, Zachariah and Timothy (II) — Zombie Bolt After Life Party, Guthrie, Oklahoma](/assets/images/blog/2019-05-20-zombie-run-secret-post/czahller-20121006-19-16-37.jpg)
-  ![Zachariah (V) — Zombie Bolt After Life Party, Guthrie, Oklahoma](/assets/images/blog/2019-05-20-zombie-run-secret-post/czahller-20121006-19-21-35.jpg)
-  ![Aleks, M, and Zachariah (II) — Zombie Bolt After Life Party, Guthrie, Oklahoma](/assets/images/blog/2019-05-20-zombie-run-secret-post/czahller-20121006-19-24-12.jpg)
-  ![Audience (I) — Zombie Bolt After Life Party, Guthrie, Oklahoma](/assets/images/blog/2019-05-20-zombie-run-secret-post/czahller-20121006-19-27-00.jpg)
-  ![Zachariah’s Guitar — Zombie Bolt After Life Party, Guthrie, Oklahoma](/assets/images/blog/2019-05-20-zombie-run-secret-post/czahller-20121006-19-32-39.jpg)
-  ![Kill the Reflection — Zombie Bolt After Life Party, Guthrie, Oklahoma](/assets/images/blog/2019-05-20-zombie-run-secret-post/czahller-20121006-21-02-54.jpg)
+  {% image "./src/assets/images/blog/2019-05-20-zombie-run-secret-post/czahller-20121006-18-34-45.jpg", "", "M Tunes His Bass", "M Tunes His Bass" %}
+
+  {% image "./src/assets/images/blog/2019-05-20-zombie-run-secret-post/czahller-20121006-18-42-42.jpg", "", "Guitar Pedals", "Guitar Pedals" %}
+
+  {% image "./src/assets/images/blog/2019-05-20-zombie-run-secret-post/czahller-20121006-18-47-04.jpg", "", "The Secret Post Drum Head", "he Secret Post Drum Head" %}
+
+  {% image "./src/assets/images/blog/2019-05-20-zombie-run-secret-post/czahller-20121006-19-04-48.jpg", "", "Zachariah", "Zachariah (I)" %}
+
+  {% image "./src/assets/images/blog/2019-05-20-zombie-run-secret-post/czahller-20121006-19-05-27.jpg", "", "Aleks", "Aleks (I)" %}
+
+  {% image "./src/assets/images/blog/2019-05-20-zombie-run-secret-post/czahller-20121006-19-06-44.jpg", "", "Zachariah Seen from Behind", "Zachariah Seen from Behind" %}
+
+  {% image "./src/assets/images/blog/2019-05-20-zombie-run-secret-post/czahller-20121006-19-07-42.jpg", "", "M", "M (I)" %}
+
+  {% image "./src/assets/images/blog/2019-05-20-zombie-run-secret-post/czahller-20121006-19-08-38.jpg", "", "Zachariah", "Zachariah (II)" %}
+
+  {% image "./src/assets/images/blog/2019-05-20-zombie-run-secret-post/czahller-20121006-19-09-44.jpg", "", "Nicoli", "Nicoli" %}
+
+  {% image "./src/assets/images/blog/2019-05-20-zombie-run-secret-post/czahller-20121006-19-10-03.jpg", "", "Aleks", "Aleks (II)" %}
+
+  {% image "./src/assets/images/blog/2019-05-20-zombie-run-secret-post/czahller-20121006-19-10-12.jpg", "", "M", "M (II)" %}
+
+  {% image "./src/assets/images/blog/2019-05-20-zombie-run-secret-post/czahller-20121006-19-10-26.jpg", "", "Zachariah", "Zachariah (III)" %}
+
+  {% image "./src/assets/images/blog/2019-05-20-zombie-run-secret-post/czahller-20121006-19-11-01.jpg", "", "Timothy", "Timothy" %}
+
+  {% image "./src/assets/images/blog/2019-05-20-zombie-run-secret-post/czahller-20121006-19-13-05.jpg", "", "Zachariah (IV)", "Zachariah (IV)" %}
+
+  {% image "./src/assets/images/blog/2019-05-20-zombie-run-secret-post/czahller-20121006-19-13-47.jpg", "", "Aleks, M, Zachariah and Timothy", "Aleks, M, Zachariah and Timothy (I)" %}
+
+  {% image "./src/assets/images/blog/2019-05-20-zombie-run-secret-post/czahller-20121006-19-14-45.jpg", "", "Aleks, M, and Zachariah", "Aleks, M, and Zachariah (I)" %}
+
+  {% image "./src/assets/images/blog/2019-05-20-zombie-run-secret-post/czahller-20121006-19-16-37.jpg", "", "Aleks, M, Zachariah and Timothy", "Aleks, M, Zachariah and Timothy (II)" %}
+
+  {% image "./src/assets/images/blog/2019-05-20-zombie-run-secret-post/czahller-20121006-19-21-35.jpg", "", "Zachariah (V)", "Zachariah (V)" %}
+
+  {% image "./src/assets/images/blog/2019-05-20-zombie-run-secret-post/czahller-20121006-19-24-12.jpg", "", "Aleks, M, and Zachariah (II)", "Aleks, M, and Zachariah (II)" %}
+
+  {% image "./src/assets/images/blog/2019-05-20-zombie-run-secret-post/czahller-20121006-19-27-00.jpg", "", "Audience", "Audience (I)" %}
+
+  {% image "featured", "", "Zachariah’s Guitar", "Zachariah’s Guitar" %}
+
+  {% image "./src/assets/images/blog/2019-05-20-zombie-run-secret-post/czahller-20121006-21-02-54.jpg", "", "Kill the Reflection", "Kill the Reflection" %}
 </mpb-dialog-gallery>

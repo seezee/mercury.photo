@@ -8,7 +8,6 @@ const { feedPlugin } = require('@11ty/eleventy-plugin-rss');
 const htmlmin = require('html-minifier-next');
 const Image = require('@11ty/eleventy-img');
 const { imageSize } = require('image-size');
-// const { eleventyImageTransformPlugin } = require('@11ty/eleventy-img');
 const { JSDOM } = require('jsdom');
 const markdownIt = require('markdown-it');
 const mdAnchor = require('markdown-it-anchor');
@@ -44,6 +43,7 @@ const markdownLib = (mdLib) =>
   mdLib.use(mdAttrs).use(mdAnchor, mdAnchorOpts).use(mdDL).use(mdFN);
 
 module.exports = async (eleventyConfig) => {
+
   /**
    * Miscellaneous
    */
@@ -187,19 +187,28 @@ module.exports = async (eleventyConfig) => {
   eleventyConfig.on(`eleventy.before`, async () => {
     if (is_production) {
       await esbuild.build({
-        entryPoints: [`src/assets/js/index.js`, `src/assets/css/index.css`],
+        entryPoints: [`src/assets/css/index.css`, `src/assets/js/index.js` ],
+        loader: {
+          // Don't use backticks for keys.
+          '.svg' : `file`
+        },
         bundle: true,
         treeShaking: true,
+        assetNames: `[dir]/[name]-[hash]`,
         outdir: `_site/assets/`,
         sourcemap: true,
         minify: true,
-        target, // From our constant, set at top of file
+        target, // From our constant, set at top of file.
       });
     } else {
       await esbuild.build({
-        entryPoints: [`src/assets/js/index.js`, `src/assets/css/index.css`],
+        entryPoints: [`src/assets/css/index.css`, `src/assets/js/index.js` ],
+        loader: {
+          '.svg' : `file`
+        },
         bundle: true,
         treeShaking: true,
+        assetNames: `[dir]/[name]-[hash]`,
         outdir: `_site/assets/`,
         target,
       });
@@ -223,15 +232,13 @@ module.exports = async (eleventyConfig) => {
     if (this.page.outputPath && this.page.outputPath.endsWith(`.html`)) {
       let minified = await htmlmin.minify(content, {
         // Options: https://github.com/j9t/html-minifier-next?tab=readme-ov-file#options-quick-reference
-        // Don't set removeOptionalTags: true;
-        // it messes up custom elements!
         collapseBooleanAttributes: true,
         collapseWhitespace: true,
         caseSensitive: true,
         decodeEntities: true,
         minifyCSS: true,
         minifyJS: true,
-        // minifySVG: true,
+        minifySVG: true,
         preventAttributesEscaping: true,
         removeComments: true,
         removeEmptyElements: true,
@@ -243,9 +250,10 @@ module.exports = async (eleventyConfig) => {
           '<div class="cf-turnstile" data-sitekey="0x4AAAAAACNtFDIpDzvzMXIR" data-callback="enableSubmit"></div>'//,
           // '<snow-fall></snow-fall>'
         ],
+        removeOptionalTags: true,
         removeRedundantAttributes: true,
         sortAttributes: true,
-        sortClassName: true
+        sortClassNames: true
       });
       return minified;
     }
@@ -259,40 +267,8 @@ module.exports = async (eleventyConfig) => {
     });
   }
 
-  /**
-   * END minification & bundling
-   */
-
-  /**
-   * Image manipulation
-   */
-
-  // Transform images
-  /*   eleventyConfig.addPlugin(eleventyImageTransformPlugin), {
-    failOnError: false,
-		// output image formats
-		formats: [`webp`, `jpeg`],
-		// output image widths
-		widths: [400, 800, 1200, `auto`],
-
-		// optional, attributes assigned on <img> nodes override these values
-		htmlOptions: {
-			imgAttributes: {
-        alt: ``,
-        sizes: `(min-width: 24rem) 90vw, 100vw`,
-				loading: `lazy`,
-				decoding: `async`,
-			}
-		},
-    pictureAttributes: {},
-    outputDir: '_site/assets/images',
-    urlPath: '/assets/images',
-    transform: (sharp) => {
-      sharp.keepExif();
-    }
-	}; */
-
   // Image shortcode
+
   const imageShortcode = async function (
     src,
     className = undefined,
@@ -300,24 +276,46 @@ module.exports = async (eleventyConfig) => {
     caption,
     loading,
     fetchpriority,
-    widths = [400, 800, 1200, `auto`],
-    formats = [`webp`, `jpeg`],
-    sizes = `(min-width: 24rem) 90vw, 100vw`,
+    // Widths and sizes calculated by RespImageLint
+    // See https://ausi.github.io/respimagelint/
+    sizes,
+    widths = [`auto`, 200, 270, 330, 470, 530, 795, 886, 1024, 1240, 1320, 1450, 1530, 1560, 1774, 1920, 2048],
+    formats = [`webp`, `jpeg`]
   ) {
-    // Featured image attribute
-    if (src === `featured`) {
-      if (!this.ctx.image) {
-        console.error(`Featured image not set!`, err);
+    // Disallow empty alt attribute
+    try {
+      if ((alt === ``) || (!alt)) throw `alt attribute for ${src} on ${this.page.fileSlug} is empty`;
+
+      // Featured image attribute
+      if (src === `featured`) {
+        if (!this.ctx.image) {
+          throw `Featured image not set for ${this.page.fileSlug}!`;
+        } else {
+          src = `./src${this.ctx.image}`;
+          fetchpriority = `high`;
+        }
+      };
+
+      if (loading === `eager`) {
+        sizes = `(min-width: 1280px) 886px, (min-width: 420px) calc(82.14vw - 149px), calc(99vw - 17px)`
+      } else if (loading === `large`) {
+        sizes = `auto, ( min-width: 1280px) 886px, (min-width: 420px) calc(82.14vw - 149px), calc(99vw - 17px)`
       } else {
-        src = `./src${this.ctx.image}`;
-      }
-    }
+        sizes = `auto, (min-width: 1300px) 265px, (min-width: 1040px) 20.42vw, (min-width: 660px) calc(42.22vw - 95px), (min-width: 440px) calc(86vw - 165px), (min-width: 360px) calc(66.67vw - 85px), calc(100vw - 20px)`
+      };
+
+    } catch(err) {
+      console.log(err);
+    };
 
     const imageMetadata = await Image(src, {
       widths: [...widths, null],
       formats: [...formats, null],
-      outputDir: `_site/assets/images`,
-      urlPath: `/assets/images`,
+			outputDir: path.dirname(this.page.outputPath),
+			urlPath: this.page.url,
+      transform: (sharp) => {
+        sharp.keepExif();
+      }
     });
 
     /** Maps a config of attribute-value pairs to an HTML string
@@ -326,7 +324,7 @@ module.exports = async (eleventyConfig) => {
     const stringifyAttributes = (attributeMap) => {
       return Object.entries(attributeMap)
         .map(([attribute, value]) => {
-          if (typeof value === `undefined`) return ``;
+          if ((typeof value === `undefined`) || (value === ``)) return ``;
           return `${attribute}="${value}"`;
         })
         .join(` `);
@@ -358,27 +356,21 @@ module.exports = async (eleventyConfig) => {
     };
 
     const largestUnoptimizedImg = getLargestImage(formats[0]);
-    let imgAttributes;
-    if (loading === undefined) {
-      imgAttributes = stringifyAttributes({
-        src: largestUnoptimizedImg.url,
-        width: largestUnoptimizedImg.width,
-        height: largestUnoptimizedImg.height,
-        alt,
-        loading: `lazy`,
-        decoding: `async`,
-      });
+    if (loading === `eager`) {
+      loading;
     } else {
-      imgAttributes = stringifyAttributes({
-        src: largestUnoptimizedImg.url,
-        width: largestUnoptimizedImg.width,
-        height: largestUnoptimizedImg.height,
-        alt,
-        loading,
-        fetchpriority: `high`,
-        decoding: `async`,
-      });
-    }
+      loading = `lazy`;
+    };
+
+    const imgAttributes = stringifyAttributes({
+      src: largestUnoptimizedImg.url,
+      width: largestUnoptimizedImg.width,
+      height: largestUnoptimizedImg.height,
+      alt,
+      loading,
+      fetchpriority,
+      decoding: `async`,
+    });
 
     const imgHtmlString = `<img ${imgAttributes}>`;
 
@@ -392,12 +384,17 @@ module.exports = async (eleventyConfig) => {
         ${imgHtmlString}
       </picture>`;
     } else {
-      picture = `<figure><picture ${pictureAttributes}>
-        ${sourceHtmlString}
-        ${imgHtmlString}
-      </picture><figcaption>${caption}</figcaption></figure>`;
+      picture = `<figure>
+        <picture ${pictureAttributes}>
+          ${sourceHtmlString}
+          ${imgHtmlString}
+        </picture>
+        <figcaption>${caption}</figcaption>
+      </figure>`;
     }
 
+    // "outdent" prevents Markdown from interpreting indented strings as
+    // Markdown
     return outdent`${picture}`;
   };
 
@@ -423,7 +420,7 @@ module.exports = async (eleventyConfig) => {
   if (is_production) {
     eleventyConfig.addTransform(
       `img-dimensions`,
-      async function (content, outputPath) {
+      async (content, outputPath) => {
         if (!outputPath || !outputPath.endsWith(`.html`)) return content;
 
         const dom = new JSDOM(content);
@@ -461,6 +458,81 @@ module.exports = async (eleventyConfig) => {
     );
   };
 
+  const thumbnailShortcode = async (src, options = {}) => {
+    let {
+      outputDir,
+      className = ``,
+      alt = ``,
+      sizes,
+      widths = [`auto`, 270, 330, 470, 530, 795, 886, 1024],
+      srcDir = `./src`,
+      loading,
+      fetchpriority
+    } = options;
+
+    // `auto` attribute can only be used with loading="lazy".
+    if (loading === `eager`) {
+      sizes = `(min-width: 1880px) 320px, (min-width: 1360px) calc(3.8vw + 249px), (min-width: 1020px) calc(32.19vw - 24px), (min-width: 680px) calc(48.75vw - 25px), calc(100.28vw - 41px)`
+    } else {
+      sizes = `auto, (min-width: 1880px) 320px, (min-width: 1360px) calc(3.8vw + 249px), (min-width: 1020px) calc(32.19vw - 24px), (min-width: 680px) calc(48.75vw - 25px), calc(100.28vw - 41px)`
+    };
+
+    const sourceImagePath = `${srcDir}${src}`;
+
+    const metadata = await Image(sourceImagePath, {
+      widths: widths,
+      formats: [`webp`, `jpeg`],
+      outputDir: `_site/${outputDir}`,
+      urlPath: outputDir,
+      dryRun: true // Don't process images twice.
+    })
+
+    // Get the last (largest) JPEG.
+    const data = metadata.jpeg[metadata.jpeg.length - 1];
+
+    /** Maps a config of attribute-value pairs to an HTML string
+     * representing those same attribute-value pairs.
+     */
+    const stringifyAttributes = (attributeMap) => {
+      return Object.entries(attributeMap)
+        .map(([attribute, value]) => {
+          if ((typeof value === `undefined`) || (value === ``)) return ``;
+          return `${attribute}="${value}"`;
+        })
+        .join(` `);
+    };
+
+		const sourceHtmlString = Object.values(metadata)
+		// Map each format to the source HTML markup
+		.map((images) => {
+			// The first entry is representative of all the others
+			// since they each have the same shape
+			const { sourceType } = images[0];
+
+			// Use our util from earlier to make our lives easier
+			const sourceAttributes = stringifyAttributes({
+				type: sourceType,
+				// srcset needs to be a comma-separated attribute
+				srcset: images.map((image) => image.srcset).join(`, `),
+				sizes,
+			});
+
+			// Return one <source> per format
+			return `<source ${sourceAttributes}>`;
+		})
+		.join(`\n`);
+
+    const picture = `<picture>
+  ${sourceHtmlString}
+  <img src="${data.url}" class="${className}" width="${data.width}" height="${data.height}" alt="Read “${alt}”" loading="${loading}" fetchpriority="${fetchpriority}" decoding="async">
+</picture>`
+
+	  return picture;
+	};
+
+  // Register getThumbnail image shortcode
+  eleventyConfig.addNunjucksAsyncShortcode(`getThumbnail`, thumbnailShortcode);
+
   /**
    * END image manipulation
    */
@@ -473,14 +545,14 @@ module.exports = async (eleventyConfig) => {
   eleventyConfig.on(`eleventy.after`, async ({ dir }) => {
     const inputPath = dir.output;
     const outputPath = path.join(dir.output, `pagefind`);
-
+    console.time(`pageFindBuild`);
     console.info(`Creating Pagefind index of %s`, inputPath);
 
     const pagefind = await import(`pagefind`);
     const { index } = await pagefind.createIndex();
     const { page_count } = await index.addDirectory({ path: inputPath });
     await index.writeFiles({ outputPath });
-
+    console.timeEnd(`pageFindBuild`);
     console.info(
       `Created Pagefind index of %i pages in %s`,
       page_count,
@@ -549,6 +621,8 @@ module.exports = async (eleventyConfig) => {
 
   eleventyConfig.addFilter(`limit`, (arr, limit) => arr.slice(0, limit));
 
+  eleventyConfig.addFilter(`startFrom`, (arr, start) => arr.slice(start));
+
   /**
    * END Filters
    */
@@ -564,8 +638,11 @@ module.exports = async (eleventyConfig) => {
     // `src/assets/css/themeSwitcher.css`,
     `src/assets/files/`,
     `src/assets/fonts/`,
-    `src/assets/images/`,
-    `src/assets/media/`,
+    `src/assets/images/icons`,
+    `src/assets/images/okie-x`,
+    `src/assets/images/site/slideshow`,
+    `src/assets/images/site/mpb-logo.png`,
+    `src/assets/images/site/mpb-logo.webp`,
   ].forEach((path) => eleventyConfig.addPassthroughCopy(path));
 
   eleventyConfig.addPassthroughCopy({
@@ -573,6 +650,7 @@ module.exports = async (eleventyConfig) => {
     'src/assets/images/site/favicon/*': `/`,
     _redirects: `/`,
     'dislike404-verification.txt': `/`,
+    '_headers': `/`,
     // Snowfall. Comment next 2 lines out after the winter holidays.
     //'node_modules/@11ty/is-land/is-land.js': `assets/js/is-land.js`,
     //'node_modules/@zachleat/snow-fall/snow-fall.js': `assets/js/snow-fall.js`,

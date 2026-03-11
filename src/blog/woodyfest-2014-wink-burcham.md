@@ -24,11 +24,12 @@ excerpt: Wink Burcham will return to Woodyfest for the seventh time in 2021. His
 
 <!-- markdownlint-enable MD025 --><mpb-dialog-img>
 
-{% image "featured", "img-constrained", "Kyle Dismukes, Kurt “Frenchy” Nielsen, Wink Burcham, Kevin Smith, & Chris “Poppa” Foster — 17th Annual Woody Guthrie Folk Festival, 2014", "Kyle Dismukes, Kurt “Frenchy” Nielsen, Wink Burcham, Kevin Smith, & Chris “Poppa” Foster&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;17th Annual Woody Guthrie Folk Festival, 2014", "eager" %}</mpb-dialog-img>
+{% image "featured", "", "Kyle Dismukes, Kurt “Frenchy” Nielsen, Wink Burcham, Kevin Smith, & Chris “Poppa” Foster", "Kyle Dismukes, Kurt “Frenchy” Nielsen, Wink Burcham, Kevin Smith, & Chris “Poppa” Foster", "eager" %}</mpb-dialog-img>
 
 <mpb-callout type="notice">
 
 Wink Burcham will return to Woodyfest for the seventh time in 2021. His previous appearance, which we’ve [previously written about](/blog/woodyfest-2019-wink-burcham/), was in <time datetime="2019-07-11">2019</time>.
+
 </mpb-callout>
 
 ## Gallery: Wink Burcham
@@ -37,14 +38,23 @@ Today we present an image gallery of Burcham’s debut Woodyfest showcase in 201
 
 <mpb-dialog-gallery hint rel cols="8">
   
-  ![Kurt “Frenchy” Nielsen, Wink Burcham, Kevin Smith, & Chris “Poppa” Foster — 17th Annual Woody Guthrie Folk Festival, 2014](/assets/images/blog/2021-07-12-woodyfest-wink-burcham/czahller-20140711-12-08-40.jpg)
-  ![Chris “Poppa” Foster (I) — 17th Annual Woody Guthrie Folk Festival, 2014](/assets/images/blog/2021-07-12-woodyfest-wink-burcham/czahller-20140711-12-10-44.jpg)
-  ![Wink Burcham (I) — 17th Annual Woody Guthrie Folk Festival, 2014](/assets/images/blog/2021-07-12-woodyfest-wink-burcham/czahller-20140711-12-13-53.jpg)
-  ![Wink Burcham seen from upstage — 17th Annual Woody Guthrie Folk Festival, 2014](/assets/images/blog/2021-07-12-woodyfest-wink-burcham/czahller-20140711-12-17-37.jpg)
-  ![Kyle Dismukes, Kurt “Frenchy” Nielsen, & Wink Burcham — 17th Annual Woody Guthrie Folk Festival, 2014](/assets/images/blog/2021-07-12-woodyfest-wink-burcham/czahller-20140711-12-21-49.jpg)
-  ![Wink Burcham & Kevin Smith — 17th Annual Woody Guthrie Folk Festival, 2014](/assets/images/blog/2021-07-12-woodyfest-wink-burcham/czahller-20140711-12-22-26.jpg)
-  ![Kyle Dismukes & Kurt “Frenchy” Nielsen — 17th Annual Woody Guthrie Folk Festival, 2014](/assets/images/blog/2021-07-12-woodyfest-wink-burcham/czahller-20140711-12-22-31.jpg)
-  ![Kevin Smith — 17th Annual Woody Guthrie Folk Festival, 2014](/assets/images/blog/2021-07-12-woodyfest-wink-burcham/czahller-20140711-12-25-44.jpg)
-  ![Chris “Poppa” Foster {II) — 17th Annual Woody Guthrie Folk Festival, 2014](/assets/images/blog/2021-07-12-woodyfest-wink-burcham/czahller-20140711-12-38-58.jpg)
-  ![Kyle Dismukes, Kurt “Frenchy” Nielsen, Wink Burcham, Kevin Smith, & Chris “Poppa” Foster — 17th Annual Woody Guthrie Folk Festival, 2014](/assets/images/blog/2021-07-12-woodyfest-wink-burcham/czahller-20140711-12-40-43.jpg)
+  {% image "./src/assets/images/blog/2021-07-12-woodyfest-wink-burcham/czahller-20140711-12-08-40.jpg", "", "Kurt “Frenchy” Nielsen, Wink Burcham, Kevin Smith, & Chris “Poppa” Foster", "Kurt “Frenchy” Nielsen, Wink Burcham, Kevin Smith, & Chris “Poppa” Foster" %}
+
+  {% image "./src/assets/images/blog/2021-07-12-woodyfest-wink-burcham/czahller-20140711-12-10-44.jpg", "", "Chris “Poppa” Foster", "Chris “Poppa” Foster (I)" %}
+
+  {% image "./src/assets/images/blog/2021-07-12-woodyfest-wink-burcham/czahller-20140711-12-13-53.jpg", "", "Wink Burcham", "Wink Burcham (I)" %}
+
+  {% image "./src/assets/images/blog/2021-07-12-woodyfest-wink-burcham/czahller-20140711-12-17-37.jpg", "", "Wink Burcham seen from upstage", "Wink Burcham seen from upstage" %}
+
+  {% image "./src/assets/images/blog/2021-07-12-woodyfest-wink-burcham/czahller-20140711-12-21-49.jpg", "", "Kyle Dismukes, Kurt “Frenchy” Nielsen, & Wink Burcham", "Kyle Dismukes, Kurt “Frenchy” Nielsen, & Wink Burcham" %}
+
+  {% image "./src/assets/images/blog/2021-07-12-woodyfest-wink-burcham/czahller-20140711-12-22-26.jpg", "", "Wink Burcham & Kevin Smith", "Wink Burcham & Kevin Smith" %}
+
+  {% image "./src/assets/images/blog/2021-07-12-woodyfest-wink-burcham/czahller-20140711-12-22-31.jpg", "", "Kyle Dismukes & Kurt “Frenchy” Nielsen", "Kyle Dismukes & Kurt “Frenchy” Nielsen" %}
+
+  {% image "./src/assets/images/blog/2021-07-12-woodyfest-wink-burcham/czahller-20140711-12-25-44.jpg", "", "Kevin Smith", "Kevin Smith" %}
+
+  {% image "./src/assets/images/blog/2021-07-12-woodyfest-wink-burcham/czahller-20140711-12-38-58.jpg", "", "Chris “Poppa” Foster", "Chris “Poppa” Foster (II)" %}
+
+  {% image "featured", "", "Kyle Dismukes, Kurt “Frenchy” Nielsen, Wink Burcham, Kevin Smith, & Chris “Poppa” Foster", "Kyle Dismukes, Kurt “Frenchy” Nielsen, Wink Burcham, Kevin Smith, & Chris “Poppa” Foster" %}
 </mpb-dialog-gallery>

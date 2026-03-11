@@ -24,7 +24,7 @@ excerpt: Red Molly co-founder Carolann Solebello performed an intimate solo set 
 
 <!-- markdownlint-enable MD025 --><mpb-dialog-img>
 
-{% image "featured", "img-constrained", "Carolann Solebello & Audience (View from Upstage Right) — 22nd Annual Woody Guthrie Festival, 2019", "Carolann Solebello & Audience (View from Upstage Right)&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;22nd Annual Woody Guthrie Festival, 2019", "eager" %}</mpb-dialog-img>
+{% image "featured", "", "Carolann Solebello & audience viewed from upstage right", "Carolann Solebello & Audience (View from Upstage Right)", "eager" %}</mpb-dialog-img>
 
 Red Molly co-founder <span class="h-card p-name">Carolann Solebello</span> performed an intimate solo set on the <span class="h-card p-org">Crystal Theatre Stage</span> during Woodyfest <time datetime="2019-07-12T11:00:00-5:00">2019</time>. The small audience attending the <time datetime="2019-07-12T11:00:00-5:00">mid-morning</time> performance were treated to songs that blended rural folk traditions with Solebello’s distinctly urban rhythmic sensibility, peppered in between with pithy, humorous anecdotes.
 
@@ -36,16 +36,27 @@ Solebello's most recent album, <cite>Shiver</cite>, [is out now](https://geo.mus
 
 <mpb-dialog-gallery hint rel cols="8">
   
-  ![Carolann Solebello View from Upstage — 22nd Annual Woody Guthrie Festival, 2019](/assets/images/blog/2020-04-08-woodyfest-carolann-solebello/czahller-20190712-11-02-43.jpg)
-  ![Carolann Solebello (I) — 22nd Annual Woody Guthrie Festival, 2019](/assets/images/blog/2020-04-08-woodyfest-carolann-solebello/czahller-20190712-11-07-48.jpg)
-  ![Carolann Solebello (II) — 22nd Annual Woody Guthrie Festival, 2019](/assets/images/blog/2020-04-08-woodyfest-carolann-solebello/czahller-20190712-11-10-13.jpg)
-  ![Carolann Solebello (III) — 22nd Annual Woody Guthrie Festival, 2019](/assets/images/blog/2020-04-08-woodyfest-carolann-solebello/czahller-20190712-11-12-54.jpg)
-  ![Carolann Solebello (IV) — 22nd Annual Woody Guthrie Festival, 2019](/assets/images/blog/2020-04-08-woodyfest-carolann-solebello/czahller-20190712-11-14-03.jpg)
-  ![Carolann Solebello (V) — 22nd Annual Woody Guthrie Festival, 2019](/assets/images/blog/2020-04-08-woodyfest-carolann-solebello/czahller-20190712-11-14-31.jpg)
-  ![Carolann Solebello (Smiling) — 22nd Annual Woody Guthrie Festival, 2019](/assets/images/blog/2020-04-08-woodyfest-carolann-solebello/czahller-20190712-11-16-12.jpg)
-  ![Carolann Solebello (VI) — 22nd Annual Woody Guthrie Festival, 2019](/assets/images/blog/2020-04-08-woodyfest-carolann-solebello/czahller-20190712-11-19-29.jpg)
-  ![Carolann Solebello (Hands in the Air) — 22nd Annual Woody Guthrie Festival, 2019](/assets/images/blog/2020-04-08-woodyfest-carolann-solebello/czahller-20190712-11-23-11.jpg)
-  ![Carolann Solebello (VII) — 22nd Annual Woody Guthrie Festival, 2019](/assets/images/blog/2020-04-08-woodyfest-carolann-solebello/czahller-20190712-11-23-21.jpg)
-  ![Carolann Solebello (Hands Again) — 22nd Annual Woody Guthrie Festival, 2019](/assets/images/blog/2020-04-08-woodyfest-carolann-solebello/czahller-20190712-11-23-48.jpg)
-  ![Carolann Solebello & Audience (View from Upstage Right) — 22nd Annual Woody Guthrie Festival, 2019](/assets/images/blog/2020-04-08-woodyfest-carolann-solebello/czahller-20190712-11-29-30.jpg)
+  {% image "./src/assets/images/blog/2020-04-08-woodyfest-carolann-solebello/czahller-20190712-11-02-43.jpg", "", "Carolann Solebello viewed from upstage, facing the audience so we see her from behind", "Carolann Solebello View from Upstage" %}
+
+  {% image "./src/assets/images/blog/2020-04-08-woodyfest-carolann-solebello/czahller-20190712-11-07-48.jpg", "", "Carolann Solebello", "Carolann Solebello (I)" %}
+
+  {% image "./src/assets/images/blog/2020-04-08-woodyfest-carolann-solebello/czahller-20190712-11-10-13.jpg", "", "Carolann Solebello", "Carolann Solebello (II)" %}
+
+  {% image "./src/assets/images/blog/2020-04-08-woodyfest-carolann-solebello/czahller-20190712-11-12-54.jpg", "", "Carolann Solebello", "Carolann Solebello (III)" %}
+
+  {% image "./src/assets/images/blog/2020-04-08-woodyfest-carolann-solebello/czahller-20190712-11-14-03.jpg", "", "Carolann Solebello", "Carolann Solebello (IV)" %}
+
+  {% image "./src/assets/images/blog/2020-04-08-woodyfest-carolann-solebello/czahller-20190712-11-14-31.jpg", "", "Carolann Solebello", "Carolann Solebello (V)" %}
+
+  {% image "./src/assets/images/blog/2020-04-08-woodyfest-carolann-solebello/czahller-20190712-11-16-12.jpg", "", "Carolann Solebello smiling", "Carolann Solebello (Smiling)" %}
+
+  {% image "./src/assets/images/blog/2020-04-08-woodyfest-carolann-solebello/czahller-20190712-11-19-29.jpg", "", "Carolann Solebello", "Carolann Solebello (VI)" %}
+
+  {% image "./src/assets/images/blog/2020-04-08-woodyfest-carolann-solebello/czahller-20190712-11-23-11.jpg", "", "Carolann Solebello, hands raised above her head, palms facing forward", "Carolann Solebello (Hands in the Air)" %}
+
+  {% image "./src/assets/images/blog/2020-04-08-woodyfest-carolann-solebello/czahller-20190712-11-23-21.jpg", "", "Carolann Solebello", "Carolann Solebello (VII)" %}
+
+  {% image "./src/assets/images/blog/2020-04-08-woodyfest-carolann-solebello/czahller-20190712-11-23-48.jpg", "", "Carolann Solebello, hands raised, palms facing forward", "Carolann Solebello (Hands Again)" %}
+
+  {% image "featured", "", "Carolann Solebello & audience viewed from upstage right", "Carolann Solebello & Audience (View from Upstage Right)" %}
 </mpb-dialog-gallery>

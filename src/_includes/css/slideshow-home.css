@@ -11,7 +11,7 @@
   position: relative;
   overflow: hidden;
   block-size: 100%; /* Or set a fixed height */
-  color: var(--mpb-color-textPrimary);
+  color: var(--mpb-color-text-primary);
   text-align: center;
 }
 
@@ -95,7 +95,7 @@
 
 .slider-wrapper .bullets {
   position: absolute;
-  z-index: 2;
+  z-index: 1;
   inset-block-end: 0;
   padding-block: 1rem;
   padding-inline: 0;

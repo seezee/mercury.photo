@@ -23,7 +23,7 @@ excerpt: Self-described “folky-tonk” duo Pushing Chain made their Woodyfest 
 
 <!-- markdownlint-enable MD025 --><mpb-dialog-img>
 
-{% image "featured", "img-constrained", "Pushing Chain (Upstage View)", "Pushing Chain (Upstage View)&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;22nd Annual Woody Guthrie Festival, 2019", "eager" %}</mpb-dialog-img>
+{% image "featured", "", "Pushing Chain, viewed from upstage", "Pushing Chain (Upstage View)", "eager" %}</mpb-dialog-img>
 
 Self-described “folky-tonk” duo <span class="h-card p-org">Pushing Chain</span> made their Woodyfest debut on the Bound for Glory stage on <time datetime="2019-07-12T14:30:00-5:00">festival Friday</time>. The pair, consisting of <span class="h-card p-name">Boyd <span class="p-nickname">“Bump”</span> Blomberg</span> and <span class="h-card p-name">Adam Moe</span>, hail from northern Minnesota. Boyd plays guitar while Moe fiddles. Both write the songs and sing them.
 
@@ -33,13 +33,21 @@ The two have been playing together since <time datetime="2012">2012</time>. Push
 
 <mpb-dialog-gallery hint rel cols="8">
   
-  ![Pushing Chain (I) — 22nd Annual Woody Guthrie Festival, 2019](/assets/images/blog/2020-04-10-woodyfest-pushing-chain/czahller-20190712-14-35-16.jpg)
-  ![Pushing Chain (II) — 22nd Annual Woody Guthrie Festival, 2019](/assets/images/blog/2020-04-10-woodyfest-pushing-chain/czahller-20190712-14-36-23.jpg)
-  ![](/assets/images/blog/2020-04-10-woodyfest-pushing-chain/czahller-20190712-14-37-01.jpg)
-  ![Boyd Blomberg (I) — 22nd Annual Woody Guthrie Festival, 2019](/assets/images/blog/2020-04-10-woodyfest-pushing-chain/czahller-20190712-14-37-36.jpg)
-  ![Boyd Blomberg (II) — 22nd Annual Woody Guthrie Festival, 2019](/assets/images/blog/2020-04-10-woodyfest-pushing-chain/czahller-20190712-14-38-59.jpg)
-  ![Pushing Chain (Upstage View) — 22nd Annual Woody Guthrie Festival, 2019](/assets/images/blog/2020-04-10-woodyfest-pushing-chain/czahller-20190712-14-39-24.jpg)
-  ![Adam Moe (II) — 22nd Annual Woody Guthrie Festival, 2019](/assets/images/blog/2020-04-10-woodyfest-pushing-chain/czahller-20190712-14-40-01.jpg)
-  ![Adam Moe (III) — 22nd Annual Woody Guthrie Festival, 2019](/assets/images/blog/2020-04-10-woodyfest-pushing-chain/czahller-20190712-14-44-27.jpg)
-  ![Boyd Blomberg (III) — 22nd Annual Woody Guthrie Festival, 2019](/assets/images/blog/2020-04-10-woodyfest-pushing-chain/czahller-20190712-14-44-47.jpg)
+  {% image "./src/assets/images/blog/2020-04-10-woodyfest-pushing-chain/czahller-20190712-14-35-16.jpg", "", "Boyd Blomberg & Adam Moe", "Pushing Chain (I)" %}
+
+  {% image "./src/assets/images/blog/2020-04-10-woodyfest-pushing-chain/czahller-20190712-14-36-23.jpg", "", "Adam Moe", "Adam Moe (I)" %}
+
+  {% image "./src/assets/images/blog/2020-04-10-woodyfest-pushing-chain/czahller-20190712-14-37-01.jpg", "", "Adam Moe & Boyd Blomberg", "Pushing Chain (II)" %}
+
+  {% image "./src/assets/images/blog/2020-04-10-woodyfest-pushing-chain/czahller-20190712-14-37-36.jpg", "", "Boyd Blomberg", "Boyd Blomberg (I)" %}
+
+  {% image "./src/assets/images/blog/2020-04-10-woodyfest-pushing-chain/czahller-20190712-14-38-59.jpg", "", "Boyd Blomberg", "Boyd Blomberg (II)" %}
+
+  {% image "featured", "", "Pushing Chain, viewed from upstage", "Pushing Chain (Upstage View)" %}
+
+  {% image "./src/assets/images/blog/2020-04-10-woodyfest-pushing-chain/czahller-20190712-14-40-01.jpg", "", "Adam Moe", "Adam Moe (II)" %}
+
+  {% image "./src/assets/images/blog/2020-04-10-woodyfest-pushing-chain/czahller-20190712-14-44-27.jpg", "", "Adam Moe", "Adam Moe (III)" %}
+
+  {% image "./src/assets/images/blog/2020-04-10-woodyfest-pushing-chain/czahller-20190712-14-44-47.jpg", "", "Boyd Blomberg", "Boyd Blomberg (III)" %}
 </mpb-dialog-gallery>

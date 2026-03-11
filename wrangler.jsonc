@@ -1,6 +1,6 @@
 {
   "name": "cf-worker-mercury-photo",
-  "compatibility_date": "2026-01-20",
+  "compatibility_date": "2026-02-12",
   "assets": {
     "directory": "_site",
     "not_found_handling": "404-page"
@@ -8,5 +8,13 @@
   "vars": {
     "ELEVENTY_ENV": "production"
   },
-  "routes": [{ "pattern": "mercury.photo", "custom_domain": true }]
+  "routes": [
+    {
+      "pattern": "mercury.photo",
+      "custom_domain": true
+    }
+  ],
+  "compatibility_flags": [
+    "brotli_content_encoding"
+  ]
 }

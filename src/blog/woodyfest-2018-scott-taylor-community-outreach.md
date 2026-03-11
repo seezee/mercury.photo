@@ -29,7 +29,7 @@ excerpt: This year’s Woodyfest continued a long-standing tradition of providin
 <p>Festival continues years-long tradition</p></stack-l></hgroup>
 <!-- markdownlint-enable MD025 --><mpb-dialog-img>
 
-{% image "featured", "img-constrained", "Scott (I) — 21st Annual Woody Guthrie Festival, 2018", "Scott (I)&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;21st Annual Woody Guthrie Festival, 2018", "eager" %}</mpb-dialog-img>
+{% image "featured", "", "Scott Taylor", "Scott (I)", "eager" %}</mpb-dialog-img>
 
 This year’s Woodyfest continued a long-standing tradition of providing accessible entertainment throughout the host-town of Okemah. On <time datetime="2018-07-13T13:50:01-5:00">festival Friday</time>, the <span class="h-card p-name"><span class="p-honorific">Reverend <abbr class="noscaps">Dr.</abbr></span> Scott Taylor</span> brought a mix of traditional and original songs to the Colonial Park Manor nursing home.{.drop-cap}
 
@@ -40,14 +40,22 @@ Taylor has released five albums, his latest being <cite>An Acoustic Christmas</c
 ## Gallery: Scott Taylor
 
 <mpb-dialog-gallery hint rel cols="8">
-  
-  ![Scott Taylor — Community Outreach, 21st Annual Woody Guthrie Festival, 2018](/assets/images/blog/2018-12-03-woodyfest-scott-taylor/czahller-20180713-13-50-01.jpg)
-  ![Scott (I) — Community Outreach, 21st Annual Woody Guthrie Festival, 2018](/assets/images/blog/2018-12-03-woodyfest-scott-taylor/czahller-20180713-13-50-26.jpg)
-  ![Scott (II) — Community Outreach, 21st Annual Woody Guthrie Festival, 2018](/assets/images/blog/2018-12-03-woodyfest-scott-taylor/czahller-20180713-13-50-45.jpg)
-  ![Scott (III) — Community Outreach, 21st Annual Woody Guthrie Festival, 2018](/assets/images/blog/2018-12-03-woodyfest-scott-taylor/czahller-20180713-13-52-13.jpg)
-  ![Scott (IV) — Community Outreach, 21st Annual Woody Guthrie Festival, 2018](/assets/images/blog/2018-12-03-woodyfest-scott-taylor/czahller-20180713-13-52-26.jpg)
-  ![Scott (V) — Community Outreach, 21st Annual Woody Guthrie Festival, 2018](/assets/images/blog/2018-12-03-woodyfest-scott-taylor/czahller-20180713-13-52-30.jpg)
-  ![Scott (VI) — Community Outreach, 21st Annual Woody Guthrie Festival, 2018](/assets/images/blog/2018-12-03-woodyfest-scott-taylor/czahller-20180713-13-53-11.jpg)
-  ![Scott (VII) — Community Outreach, 21st Annual Woody Guthrie Festival, 2018](/assets/images/blog/2018-12-03-woodyfest-scott-taylor/czahller-20180713-13-53-17.jpg)
-  ![Scott (VIII) — Community Outreach, 21st Annual Woody Guthrie Festival, 2018](/assets/images/blog/2018-12-03-woodyfest-scott-taylor/czahller-20180713-13-53-46.jpg)
+
+  {% image "./src/assets/images/blog/2018-12-03-woodyfest-scott-taylor/czahller-20180713-13-50-01.jpg", "", "Scott Taylor", "Scott Taylor" %}
+
+  {% image "featured", "", "Scott Taylor", "Scott (I)" %}
+
+  {% image "./src/assets/images/blog/2018-12-03-woodyfest-scott-taylor/czahller-20180713-13-50-45.jpg", "", "Scott Taylor", "Scott (II)" %}
+
+  {% image "./src/assets/images/blog/2018-12-03-woodyfest-scott-taylor/czahller-20180713-13-52-13.jpg", "", "Scott Taylor", "Scott (III)" %}
+
+  {% image "./src/assets/images/blog/2018-12-03-woodyfest-scott-taylor/czahller-20180713-13-52-26.jpg", "", "Scott Taylor", "Scott (IV)" %}
+
+  {% image "./src/assets/images/blog/2018-12-03-woodyfest-scott-taylor/czahller-20180713-13-52-30.jpg", "", "Scott Taylor", "Scott (V)" %}
+
+  {% image "./src/assets/images/blog/2018-12-03-woodyfest-scott-taylor/czahller-20180713-13-53-11.jpg", "", "Scott Taylor", "Scott (VI)" %}
+
+  {% image "./src/assets/images/blog/2018-12-03-woodyfest-scott-taylor/czahller-20180713-13-53-17.jpg", "", "Scott Taylor", "Scott (VII)" %}
+
+  {% image "./src/assets/images/blog/2018-12-03-woodyfest-scott-taylor/czahller-20180713-13-53-46.jpg", "", "Scott Taylor", "Scott (VIII)" %}
 </mpb-dialog-gallery>

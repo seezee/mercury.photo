@@ -27,7 +27,7 @@ excerpt: Kicking off the 21st annual Woody Guthrie Folk Festival, Bill Lewis bro
 <p>Bill Lewis brings taste of Hill Country to Okemah</p></stack-l></hgroup>
 <!-- markdownlint-enable MD025 --><mpb-dialog-img>
 
-{% image "featured", "img-constrained", "Bill Lewis (VI) — 21st Annual Woody Guthrie Festival, 2018", "Bill Lewis (VI)&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;21st Annual Woody Guthrie Festival, 2018", "eager" %}</mpb-dialog-img>
+{% image "featured", "", "Bill Lewis (VI)", "Bill Lewis (VI)", "eager" %}</mpb-dialog-img>
 
 Kicking off the twenty-first annual Woody Guthrie Folk Festival, <span class="h-card p-name">Bill Lewis</span> brought his solo troubadour act to the basement of the Brick Street Café <time datetime="2018-07-12:T11:00:00-5:00">on 12 July at 11:00 a.m.</time>, two days before Woody’s birthday.{.drop-cap}
 
@@ -41,10 +41,15 @@ Lewis is a regular at Oklahoma City’s Blue Door and is the co-writer of a folk
 
 <mpb-dialog-gallery hint rel cols="8">
   
-  ![Bill Lewis (I) — 21st Annual Woody Guthrie Festival, 2018](/assets/images/blog/2018-10-15-woodyfest-bill-lewis/czahller-20180712-11-05-42.jpg)
-  ![Bill Lewis (II) — 21st Annual Woody Guthrie Festival, 2018](/assets/images/blog/2018-10-15-woodyfest-bill-lewis/czahller-20180712-11-11-21.jpg)
-  ![Bill Lewis (III) — 21st Annual Woody Guthrie Festival, 2018](/assets/images/blog/2018-10-15-woodyfest-bill-lewis/czahller-20180712-11-13-46.jpg)
-  ![Bill Lewis (IV) — 21st Annual Woody Guthrie Festival, 2018](/assets/images/blog/2018-10-15-woodyfest-bill-lewis/czahller-20180712-11-13-55.jpg)
-  ![Bill Lewis (V) — 21st Annual Woody Guthrie Festival, 2018](/assets/images/blog/2018-10-15-woodyfest-bill-lewis/czahller-20180712-11-25-58.jpg)
-  ![Bill Lewis (VI) — 21st Annual Woody Guthrie Festival, 2018](/assets/images/blog/2018-10-15-woodyfest-bill-lewis/czahller-20180712-11-47-39.jpg)
+  {% image "./src/assets/images/blog/2018-10-15-woodyfest-bill-lewis/czahller-20180712-11-05-42.jpg", "", "Bill Lewis", "Bill Lewis (I)" %}
+
+  {% image "./src/assets/images/blog/2018-10-15-woodyfest-bill-lewis/czahller-20180712-11-11-21.jpg", "", "Bill Lewis", "Bill Lewis (II)" %}
+
+  {% image "./src/assets/images/blog/2018-10-15-woodyfest-bill-lewis/czahller-20180712-11-13-46.jpg", "", "Bill Lewis", "Bill Lewis (III)" %}
+
+  {% image "./src/assets/images/blog/2018-10-15-woodyfest-bill-lewis/czahller-20180712-11-13-55.jpg", "", "Bill Lewis", "Bill Lewis (IV)" %}
+
+  {% image "./src/assets/images/blog/2018-10-15-woodyfest-bill-lewis/czahller-20180712-11-25-58.jpg", "", "Bill Lewis", "Bill Lewis (V)" %}
+
+  {% image "featured", "", "Bill Lewis", "Bill Lewis (VI)" %}
 </mpb-dialog-gallery>

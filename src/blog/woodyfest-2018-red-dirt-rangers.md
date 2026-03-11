@@ -28,7 +28,7 @@ excerpt: The Red Dirt Rangers may not have birthed Red Dirt, but they helped mid
 <p>Days of future past</p></stack-l></hgroup>
 <!-- markdownlint-enable MD025 --><mpb-dialog-img>
 
-{% image "featured", "img-constrained", "Morgan, Brad, John M. Cooper, & John Fullbright — 21st Annual Woody Guthrie Festival, 2018", "Morgan, Brad, John M. Cooper, & John Fullbright&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;21st Annual Woody Guthrie Festival, 2018", "eager" %}</mpb-dialog-img>
+{% image "featured", "", "Morgan, Brad, John M. Cooper, & John Fullbright", "Morgan, Brad, John M. Cooper, & John Fullbright", "eager" %}</mpb-dialog-img>
 
 The Red Dirt Rangers may not have birthed Red Dirt, but they helped midwife the musical genre into the world. And like so much Oklahoma music, Red Dirt has made its influence felt far beyond the state’s borders.{.drop-cap}
 
@@ -46,7 +46,7 @@ Western swing got its start at Tulsa’s <span class="h-card p-org">Cain’s Bal
 
 <mpb-dialog-img>
 
-{% image "./src/assets/images/blog/2018-11-12-woodyfest-red-dirt-rangers/czahller-20180712-19-15-24.jpg", "img-constrained", "Roger Osburn converses with Randy Crouch shortly before the Red Dirt Rangers’ set — 21st Annual Woody Guthrie Festival, 2018", "Roger Osburn converses with Randy Crouch shortly before the Red Dirt Rangers’ set&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;21st Annual Woody Guthrie Festival, 2018" %}</mpb-dialog-img>
+{% image "./src/assets/images/blog/2018-11-12-woodyfest-red-dirt-rangers/czahller-20180712-19-15-24.jpg", "", "Roger Osburn converses with Randy Crouch shortly before the Red Dirt Rangers’ set", "Roger Osburn converses with Randy Crouch shortly before the Red Dirt Rangers’ set&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;21st Annual Woody Guthrie Festival, 2018", "large" %}</mpb-dialog-img>
 
 In <cite>From Blue Devils to Red Dirt: The Colors of Oklahoma Music</cite>, author <span class="h-card p-name">John Wooley</span> speculates that Oklahoma’s geographically central location, with <q>music from the rest of the  USA swirling through it from all sides,</q> was one factor in the creative ferment going on in the state throughout the twentieth century. Whatever it was&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;something in the air and water, outlaw genes passed down from the Sooners, the state’s geographic and demographic diversity&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;the music has always traveled in both directions. Think of how dust blowing in from the northern plains caused a young <span class="h-card p-name"><span class="p-nickname">Woody</span> Guthrie</span> to hit the road with his guitar and pen. Every schoolchild in the nation knows the first verse to <cite class="short-work">This Land Is Your Land.</cite>
 
@@ -70,19 +70,33 @@ Comprising guitarists and singers <span class="h-card p-name">Brad Piccolo</span
 
 <mpb-dialog-gallery hint rel cols="8">
 
-  ![Red Dirt Rangers (I) — 21st Annual Woody Guthrie Festival, 2018](/assets/images/blog/2018-11-12-woodyfest-red-dirt-rangers/czahller-20180712-19-39-30.jpg)
-  ![Red Dirt Rangers (II) — 21st Annual Woody Guthrie Festival, 2018](/assets/images/blog/2018-11-12-woodyfest-red-dirt-rangers/czahller-20180712-19-39-44.jpg)
-  ![Terry “Buffalo” Ware — 21st Annual Woody Guthrie Festival, 2018](/assets/images/blog/2018-11-12-woodyfest-red-dirt-rangers/czahller-20180712-19-42-42.jpg)
-  ![Rick Gomez — 21st Annual Woody Guthrie Festival, 2018](/assets/images/blog/2018-11-12-woodyfest-red-dirt-rangers/czahller-20180712-19-42-46.jpg)
-  ![Morgan Reynolds — 21st Annual Woody Guthrie Festival, 2018](/assets/images/blog/2018-11-12-woodyfest-red-dirt-rangers/czahller-20180712-19-42-53.jpg)
-  ![John Fullbright — 21st Annual Woody Guthrie Festival, 2018](/assets/images/blog/2018-11-12-woodyfest-red-dirt-rangers/czahller-20180712-19-43-04.jpg)
-  ![Ben Han — 21st Annual Woody Guthrie Festival, 2018](/assets/images/blog/2018-11-12-woodyfest-red-dirt-rangers/czahller-20180712-19-43-28.jpg)
-  ![T.Z. Wright — 21st Annual Woody Guthrie Festival, 2018](/assets/images/blog/2018-11-12-woodyfest-red-dirt-rangers/czahller-20180712-19-43-32.jpg)
-  ![Brad Piccolo (RESIST) — 21st Annual Woody Guthrie Festival, 2018](/assets/images/blog/2018-11-12-woodyfest-red-dirt-rangers/czahller-20180712-19-43-42.jpg)
-  ![John M. Cooper — 21st Annual Woody Guthrie Festival, 2018](/assets/images/blog/2018-11-12-woodyfest-red-dirt-rangers/czahller-20180712-19-44-27.jpg)
-  ![John, Rick, Don, & Randy — 21st Annual Woody Guthrie Festival, 2018](/assets/images/blog/2018-11-12-woodyfest-red-dirt-rangers/czahller-20180712-19-44-32.jpg)
-  ![Don Morris — 21st Annual Woody Guthrie Festival, 2018](/assets/images/blog/2018-11-12-woodyfest-red-dirt-rangers/czahller-20180712-19-44-48.jpg)
-  ![Morgan, Brad, John M. Cooper, & John Fullbright — 21st Annual Woody Guthrie Festival, 2018](/assets/images/blog/2018-11-12-woodyfest-red-dirt-rangers/czahller-20180712-19-45-33.jpg)
-  ![Playing to the Throne — 21st Annual Woody Guthrie Festival, 2018](/assets/images/blog/2018-11-12-woodyfest-red-dirt-rangers/czahller-20180712-19-49-03.jpg)
-  ![Resistance without Risk Is Like Faith without Works — 21st Annual Woody Guthrie Festival, 2018](/assets/images/blog/2018-11-12-woodyfest-red-dirt-rangers/czahller-20180712-19-49-43.jpg)
+  {% image "./src/assets/images/blog/2018-11-12-woodyfest-red-dirt-rangers/czahller-20180712-19-39-30.jpg", "", "Red Dirt Rangers", "Red Dirt Rangers (I)" %}
+
+  {% image "./src/assets/images/blog/2018-11-12-woodyfest-red-dirt-rangers/czahller-20180712-19-39-44.jpg", "", "Red Dirt Rangers", "Red Dirt Rangers (II)" %}
+
+  {% image "./src/assets/images/blog/2018-11-12-woodyfest-red-dirt-rangers/czahller-20180712-19-42-42.jpg", "", "Terry “Buffalo” Ware", "Terry “Buffalo” Ware" %}
+
+  {% image "./src/assets/images/blog/2018-11-12-woodyfest-red-dirt-rangers/czahller-20180712-19-42-46.jpg", "", "Rick Gomez", "Rick Gomez" %}
+
+  {% image "./src/assets/images/blog/2018-11-12-woodyfest-red-dirt-rangers/czahller-20180712-19-42-53.jpg", "", "Morgan Reynolds", "Morgan Reynolds" %}
+
+  {% image "./src/assets/images/blog/2018-11-12-woodyfest-red-dirt-rangers/czahller-20180712-19-43-04.jpg", "", "John Fullbright at the keyboard", "John Fullbright" %}
+
+  {% image "./src/assets/images/blog/2018-11-12-woodyfest-red-dirt-rangers/czahller-20180712-19-43-28.jpg", "", "Ben Han", "Ben Han" %}
+
+  {% image "./src/assets/images/blog/2018-11-12-woodyfest-red-dirt-rangers/czahller-20180712-19-43-32.jpg", "", "T.Z. Wright", "T.Z. Wright" %}
+
+  {% image "./src/assets/images/blog/2018-11-12-woodyfest-red-dirt-rangers/czahller-20180712-19-43-42.jpg", "", " Brad Piccolo wearing a t-shirt emblazoned “RESIST”", "Brad Piccolo (RESIST)" %}
+
+  {% image "./src/assets/images/blog/2018-11-12-woodyfest-red-dirt-rangers/czahller-20180712-19-44-27.jpg", "", "John M. Cooper", "John M. Cooper" %}
+
+  {% image "./src/assets/images/blog/2018-11-12-woodyfest-red-dirt-rangers/czahller-20180712-19-44-32.jpg", "", "John M. Cooper, Rick Gomez, Don Morris, & Randy Crouch", "John, Rick, Don, & Randy" %}
+
+  {% image "./src/assets/images/blog/2018-11-12-woodyfest-red-dirt-rangers/czahller-20180712-19-44-48.jpg", "", "Don Morris", "Don Morris" %}
+
+  {% image "featured", "", "Morgan, Brad, John M. Cooper, & John Fullbright", "Morgan, Brad, John M. Cooper, & John Fullbright" %}
+
+  {% image "./src/assets/images/blog/2018-11-12-woodyfest-red-dirt-rangers/czahller-20180712-19-49-03.jpg", "", "John M. Cooper facing upstage, playing to drummer Rick Gomez", "Playing to the Throne" %}
+
+  {% image "./src/assets/images/blog/2018-11-12-woodyfest-red-dirt-rangers/czahller-20180712-19-49-43.jpg", "", "Text on the back of Brad Piccolo’s t-shirt, which reads: “Resistance without Risk Is Like Faith without Works”", "Resistance without Risk Is Like Faith without Works" %}
 </mpb-dialog-gallery>

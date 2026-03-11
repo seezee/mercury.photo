@@ -25,7 +25,7 @@ excerpt: Woodyfest held its inaugural Woodyfest Youth Songwriting/Showcase Compe
 
 <!-- markdownlint-enable MD025 --><mpb-dialog-img>
 
-{% image "featured", "img-constrained", "Left to right: Hannah Carriker, Amour Carriker, Lillian Hill, Kelby Vass, Riley Amanda, London Reilly, Blakelee Pugh, & Autie Rich — Kids’ Songwriting Contest Awards Announcement, 21st Annual Woody Guthrie Festival, 2018", "L to R: Hannah Carriker, Amour Carriker, Lillian Hill, Kelby Vass, Riley Amanda, London Reilly, Blakelee Pugh, & Autie Rich — Kids’ Songwriting Contest Awards Announcement, 21st Annual Woody Guthrie Festival, 2018", "eager" %}</mpb-dialog-img>
+{% image "featured", "", "Left to right: Hannah Carriker, Amour Carriker, Lillian Hill, Kelby Vass, Riley Amanda, London Reilly, Blakelee Pugh, & Autie Rich", "L to R: Hannah Carriker, Amour Carriker, Lillian Hill, Kelby Vass, Riley Amanda, London Reilly, Blakelee Pugh, & Autie Rich", "eager" %}</mpb-dialog-img>
 
 Woodyfest held its inaugural Woodyfest Youth Songwriting/Showcase Competition in <time datetime="2018">2018</time>. The showcase featured performers age sixteen or younger. Master of Ceremonies and regular Woodyfest performer <span class="h-card p-name">Lauren Lee</span> announced the winners during an awards ceremony on <time datetime="2018-07-14T13:00:00-5:00">Saturday afternoon</time> from the Hen House stage.
 
@@ -39,16 +39,27 @@ The showcase was originally conceived as a songwriting competition. Organizers d
 
 <mpb-dialog-gallery hint rel cols="8">
   
-  ![Left to right: Lauren Lee, Hannah Carriker, Amour Carriker, Lillian Hill, Kelby Vass, Riley Amanda, London Reilly, Blakelee Pugh, & Autie Rich — Kids’ Songwriting Contest Awards Announcement, 21st Annual Woody Guthrie Festival, 2018](/assets/images/blog/2019-01-14-woodyfest-kids-songwriting-contest/czahller-20180714-13-10-36.jpg)
-  ![Left to right: Hannah Carriker, Amour Carriker, Lillian Hill, Kelby Vass, Riley Amanda, London Reilly, Blakelee Pugh, & Autie Rich — Kids’ Songwriting Contest Awards Announcement, 21st Annual Woody Guthrie Festival, 2018](/assets/images/blog/2019-01-14-woodyfest-kids-songwriting-contest/czahller-20180714-13-12-07.jpg)
-  ![Lauren Lee & 3rd Place Winner Kelby Vass — Kids’ Songwriting Contest Awards Announcement, 21st Annual Woody Guthrie Festival, 2018](/assets/images/blog/2019-01-14-woodyfest-kids-songwriting-contest/czahller-20180714-13-12-17.jpg)
-  ![Lauren Lee Hands Award to 2nd Place Winner Autie Rich — Kids’ Songwriting Contest Awards Announcement, 21st Annual Woody Guthrie Festival, 2018](/assets/images/blog/2019-01-14-woodyfest-kids-songwriting-contest/czahller-20180714-13-12-43.jpg)
-  ![Lauren Lee & 2nd Place Winner Autie Rich — Kids’ Songwriting Contest Awards Announcement, 21st Annual Woody Guthrie Festival, 2018](/assets/images/blog/2019-01-14-woodyfest-kids-songwriting-contest/czahller-20180714-13-12-48.jpg)
-  ![Lauren Lee Announces 1st Place Winner Riley Amanda — Kids’ Songwriting Contest Awards Announcement, 21st Annual Woody Guthrie Festival, 2018](/assets/images/blog/2019-01-14-woodyfest-kids-songwriting-contest/czahller-20180714-13-13-14.jpg)
-  ![Lauren & Riley Hug — Kids’ Songwriting Contest Awards Announcement, 21st Annual Woody Guthrie Festival, 2018](/assets/images/blog/2019-01-14-woodyfest-kids-songwriting-contest/czahller-20180714-13-13-15.jpg)
-  ![1st Place Winner Riley Amanda & Lauren Lee — Kids’ Songwriting Contest Awards Announcement, 21st Annual Woody Guthrie Festival, 2018](/assets/images/blog/2019-01-14-woodyfest-kids-songwriting-contest/czahller-20180714-13-13-17.jpg)
-  ![Raynita Lee & Amanda Riley — Kids’ Songwriting Contest Awards Announcement, 21st Annual Woody Guthrie Festival, 2018](/assets/images/blog/2019-01-14-woodyfest-kids-songwriting-contest/czahller-20180714-13-13-19.jpg)
-  ![Riley Accepts a T-Shirt As Part of Her Prize Package — Kids’ Songwriting Contest Awards Announcement, 21st Annual Woody Guthrie Festival, 2018](/assets/images/blog/2019-01-14-woodyfest-kids-songwriting-contest/czahller-20180714-13-13-23.jpg)
-  ![Riley & Lauren (I) — Kids’ Songwriting Contest Awards Announcement, 21st Annual Woody Guthrie Festival, 2018](/assets/images/blog/2019-01-14-woodyfest-kids-songwriting-contest/czahller-20180714-13-13-26.jpg)
-  ![Riley & Lauren (II) — Kids’ Songwriting Contest Awards Announcement, 21st Annual Woody Guthrie Festival, 2018](/assets/images/blog/2019-01-14-woodyfest-kids-songwriting-contest/czahller-20180714-13-13-33.jpg)
+  {% image "./src/assets/images/blog/2019-01-14-woodyfest-kids-songwriting-contest/czahller-20180714-13-10-36.jpg", "", "Left to right: Lauren Lee, Hannah Carriker, Amour Carriker, Lillian Hill, Kelby Vass, Riley Amanda, London Reilly, Blakelee Pugh, & Autie Rich", "Left to right: Lauren Lee, Hannah Carriker, Amour Carriker, Lillian Hill, Kelby Vass, Riley Amanda, London Reilly, Blakelee Pugh, & Autie Rich" %}
+
+  {% image "featured", "", "Left to right: Hannah Carriker, Amour Carriker, Lillian Hill, Kelby Vass, Riley Amanda, London Reilly, Blakelee Pugh, & Autie Rich", "L to R: Hannah Carriker, Amour Carriker, Lillian Hill, Kelby Vass, Riley Amanda, London Reilly, Blakelee Pugh, & Autie Rich" %}
+
+  {% image "./src/assets/images/blog/2019-01-14-woodyfest-kids-songwriting-contest/czahller-20180714-13-12-17.jpg", "", "Lauren Lee & 3rd Place Winner Kelby Vass", "Lauren Lee & 3rd Place Winner Kelby Vass" %}
+
+  {% image "./src/assets/images/blog/2019-01-14-woodyfest-kids-songwriting-contest/czahller-20180714-13-12-43.jpg", "", "Lauren Lee hands award to 2nd place winner Autie Rich", "Lauren Lee Hands Award to 2nd Place Winner Autie Rich" %}
+
+  {% image "./src/assets/images/blog/2019-01-14-woodyfest-kids-songwriting-contest/czahller-20180714-13-12-48.jpg", "", "Lauren Lee & 2nd Place Winner Autie Rich", "Lauren Lee & 2nd Place Winner Autie Rich" %}
+
+  {% image "./src/assets/images/blog/2019-01-14-woodyfest-kids-songwriting-contest/czahller-20180714-13-13-14.jpg", "", "Lauren Lee announces 1st place winner Riley Amanda", "Lauren Lee Announces 1st Place Winner Riley Amanda" %}
+
+  {% image "./src/assets/images/blog/2019-01-14-woodyfest-kids-songwriting-contest/czahller-20180714-13-13-15.jpg", "", "Riley Amanda & Lauren Lee hugging", "Lauren & Riley Hug" %}
+
+  {% image "./src/assets/images/blog/2019-01-14-woodyfest-kids-songwriting-contest/czahller-20180714-13-13-17.jpg", "", "1st Place Winner Riley Amanda & Lauren Lee", "1st Place Winner Riley Amanda & Lauren Lee" %}
+
+    {% image "./src/assets/images/blog/2019-01-14-woodyfest-kids-songwriting-contest/czahller-20180714-13-13-19.jpg", "", "Raynita Lee & Amanda Riley", "Raynita Lee & Amanda Riley" %}
+
+  {% image "./src/assets/images/blog/2019-01-14-woodyfest-kids-songwriting-contest/czahller-20180714-13-13-23.jpg", "", "Riley accepts a t-shirt as part of her prize package", "Riley Accepts a T-Shirt As Part of Her Prize Package" %}
+
+  {% image "./src/assets/images/blog/2019-01-14-woodyfest-kids-songwriting-contest/czahller-20180714-13-13-26.jpg", "", "Riley Amanda & Lauren Lee", "Riley & Lauren (I)" %}
+
+  {% image "./src/assets/images/blog/2019-01-14-woodyfest-kids-songwriting-contest/czahller-20180714-13-13-33.jpg", "", "Riley Amanda & Lauren Lee", "Riley & Lauren (II)" %}
 </mpb-dialog-gallery>

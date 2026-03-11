@@ -20,7 +20,7 @@ excerpt: Tumbling Nebulæ formed in early 2013 when bassist Steven Machovic and 
 
 <!-- markdownlint-enable MD025 --><mpb-dialog-img>
 
-{% image "featured", "img-constrained", "Steven, Cynthia, and Jason sitting on the sofa at Mercury Photo Bureau studio. In front of them, a typewriter stand with a Mac Airbook, a recording interface, and some audio cables used to record teh interview. Steven is suppressing a laugh; Cynthia is laughing and her eyes are closed. Jason keeps a straight face", "Tumbling Nebulæ Interview (III)", "eager" %}</mpb-dialog-img>
+{% image "featured", "", "Steven, Cynthia, and Jason sitting on the sofa at Mercury Photo Bureau studio. In front of them, a typewriter stand with a Mac Airbook, a recording interface, and some audio cables used to record teh interview. Steven is suppressing a laugh; Cynthia is laughing and her eyes are closed. Jason keeps a straight face", "Tumbling Nebulæ Interview (III)", "eager" %}</mpb-dialog-img>
 
 Tumbling Nebulæ formed in early <time datetime="2013">2013</time> when bassist <span class="h-card p-name">Steven Machovic</span> and keyboard player <span class="h-card p-name"><span class="p-given-name">Cynthia</span> <span class="p-nickname">“Luxy”</span> <span class="p-family-name">Machovic</span></span> got together with a couple of other musicians who should be familiar to anyone following Norman’s indie music scene. Guitarist <span class="h-card p-name">Joey Powell</span> was the guitar player for the late, lamented [<span class="h-card p-org">Shi++y Awesome</span>](/blog/shittyawesome-post-mortem/), while <span class="h-card p-name"><span class="p-given-name">Jason</span> <span class="p-nickname">“Lightsmith”</span> <span class="p-family-name">Scott</span></span> has played drums for the <span class="h-card p-org">Mean Spirits</span> and occasionally substitutes with <span class="h-card p-org">Em and the Mother Superior</span>.
 
@@ -71,7 +71,7 @@ Around <time datetime="2003">2003</time> I got into a lot of busy math rock, lik
 
 <mpb-dialog-img>
 
-{% image "./src/assets/images/blog/2014-01-14-tumbling-nebulae/czahller-20131020-21-01-08.jpg", "img-constrained", "Steven, Cynthia, and Jason sitting on the sofa at Mercury Photo Bureau studio. Steven & Jason flank Cynthia and are leaning in close to her. All three hold drinks in front of themselves.", "Tumbling Nebulæ Interview (I)" %}</mpb-dialog-img>
+{% image "./src/assets/images/blog/2014-01-14-tumbling-nebulae/czahller-20131020-21-01-08.jpg", "", "Steven, Cynthia, and Jason sitting on the sofa at Mercury Photo Bureau studio. Steven & Jason flank Cynthia and are leaning in close to her. All three hold drinks in front of themselves.", "Tumbling Nebulæ Interview (I)", "large" %}</mpb-dialog-img>
 
 <span class="spkr">MPB</span> Steven and Luxy, how did you meet?
 
@@ -135,7 +135,7 @@ Steven came up with a lot of our spicy and bacon recipes, like the Ghost Pepper 
 
 <mpb-dialog-img>
 
-{% image "./src/assets/images/blog/2014-01-14-tumbling-nebulae/czahller-20131020-21-01-15.jpg", "img-constrained", "Steven, Cynthia, and Jason sitting on the sofa at Mercury Photo Bureau studio. They are making silly faces.", "Tumbling Nebulæ Interview (II)" %}</mpb-dialog-img>
+{% image "./src/assets/images/blog/2014-01-14-tumbling-nebulae/czahller-20131020-21-01-15.jpg", "", "Steven, Cynthia, and Jason sitting on the sofa at Mercury Photo Bureau studio. They are making silly faces.", "Tumbling Nebulæ Interview (II)", "large" %}</mpb-dialog-img>
 
 <span class="spkr">Jason</span> That’s *my* favorite, too.
 
@@ -197,7 +197,7 @@ What I want&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;you know, 
 
 <mpb-dialog-img>
 
-{% image "./src/assets/images/blog/2014-01-14-tumbling-nebulae/czahller-20131020-21-01-53.jpg", "img-constrained", "Steven, Cynthia, and Jason sitting on the sofa at Mercury Photo Bureau studio. They are suppressing laughter, unsuccessfully.", "Tumbling Nebulæ Interview (IV)" %}</mpb-dialog-img>
+{% image "./src/assets/images/blog/2014-01-14-tumbling-nebulae/czahller-20131020-21-01-53.jpg", "", "Steven, Cynthia, and Jason sitting on the sofa at Mercury Photo Bureau studio. They are suppressing laughter, unsuccessfully.", "Tumbling Nebulæ Interview (IV)", "large" %}</mpb-dialog-img>
 
 <span class="spkr">MPB</span> What are your future plans? [*Discussion of various schedules ensues*&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;Ed.]
 
@@ -255,12 +255,19 @@ I really like the whole album. The song is about a guy who’s died and he’s a
 
 <mpb-dialog-gallery hint rel cols="8">
   
-  ![Tumbling Nebulæ (I](/assets/images/blog/2014-01-14-tumbling-nebulae/czahller-20130914-22-53-43.jpg)
-  ![Tumbling Nebulæ (II](/assets/images/blog/2014-01-14-tumbling-nebulae/czahller-20130914-22-54-05.jpg)
-  ![Tumbling Nebulæ (III)](/assets/images/blog/2014-01-14-tumbling-nebulae/czahller-20130914-22-55-10.jpg)
-  ![Tumbling Nebulæ (IV)](/assets/images/blog/2014-01-14-tumbling-nebulae/czahller-20130914-22-55-30.jpg)
-  ![Joey (I)](/assets/images/blog/2014-01-14-tumbling-nebulae/czahller-20130914-22-57-28.jpg)
-  ![Jason (Tracers)](/assets/images/blog/2014-01-14-tumbling-nebulae/czahller-20130914-23-00-03.jpg)
-  ![Pedal Board (Joey)](/assets/images/blog/2014-01-14-tumbling-nebulae/czahller-20130914-23-16-29.jpg)
-  ![Joey (II)](/assets/images/blog/2014-01-14-tumbling-nebulae/czahller-20130914-23-16-58.jpg)
+  {% image "./src/assets/images/blog/2014-01-14-tumbling-nebulae/czahller-20130914-22-53-43.jpg", "", "Tumbling Nebulæ", "Tumbling Nebulæ (I)" %}
+
+  {% image "./src/assets/images/blog/2014-01-14-tumbling-nebulae/czahller-20130914-22-54-05.jpg", "", "Tumbling Nebulæ", "Tumbling Nebulæ (II)" %}
+
+  {% image "./src/assets/images/blog/2014-01-14-tumbling-nebulae/czahller-20130914-22-55-10.jpg", "", "Tumbling Nebulæ", "Tumbling Nebulæ (III)" %}
+
+  {% image "./src/assets/images/blog/2014-01-14-tumbling-nebulae/czahller-20130914-22-55-30.jpg", "", "Tumbling Nebulæ", "Tumbling Nebulæ (IV)" %}
+
+  {% image "./src/assets/images/blog/2014-01-14-tumbling-nebulae/czahller-20130914-22-57-28.jpg", "", "Joey", "Joey (I)" %}
+
+  {% image "./src/assets/images/blog/2014-01-14-tumbling-nebulae/czahller-20130914-23-00-03.jpg", "", "Jason. Because he is moving, tracers appear around his drumsticks.", "Jason (Tracers)" %}
+
+  {% image "./src/assets/images/blog/2014-01-14-tumbling-nebulae/czahller-20130914-23-16-29.jpg", "", "A pedal board", "Pedal Board (Joey)" %}
+
+  {% image "./src/assets/images/blog/2014-01-14-tumbling-nebulae/czahller-20130914-23-16-58.jpg", "", "Joey", "Joey (II)" %}
 </mpb-dialog-gallery>

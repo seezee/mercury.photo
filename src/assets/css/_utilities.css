@@ -6,7 +6,7 @@
  * 3. .no-wrap
  * 4. .sr-only, .keywords
  * 5. .frac
- * 6. .small-caps, #breadcrumbs
+ * 6. .small-caps
  * 7. .short-work
  */
 
@@ -119,8 +119,8 @@ table .frac {
   line-height: 0.8;
   margin-inline-end: 0.05em;
   text-shadow:
-    -3px 3px var(--mpb-color-textSecondary),
-    -5px 5px var(--mpb-color-textPrimary);
+    -3px 3px var(--mpb-color-text-secondary),
+    -5px 5px var(--mpb-color-text-primary);
 }
 
 .drop-cap.descender::first-letter {
@@ -136,8 +136,8 @@ hgroup:has(stack-l h1) {
     line-height: 0.8;
     margin-inline-end: 0.05em;
     text-shadow:
-      -3px 3px var(--mpb-color-textSecondary),
-      -5px 5px var(--mpb-color-textPrimary);
+      -3px 3px var(--mpb-color-text-secondary),
+      -5px 5px var(--mpb-color-text-primary);
   }
 
   ~ p:not(:empty).descender:first-of-type::first-letter {
@@ -151,22 +151,21 @@ hgroup:has(stack-l h1) {
   }
 }
 
-.fonts-stage-2 {
-  .drop-cap:first-letter {
-    font-family: "Playfair Display", serif;
-  }
+.drop-cap:first-letter {
+  font-family: "Playfair Display", serif;
+}
 
-  h1,
-  hgroup:has(stack-l h1) {
-    ~ p:not(:empty):first-of-type::first-letter {
-      font-family: "Playfair Display", serif;
-    }
+h1,
+hgroup:has(stack-l h1) {
+  ~ p:not(:empty):first-of-type::first-letter {
+    font-family: "Playfair Display", serif;
   }
 }
 
 hgroup:has(h1) h1 ~ p:not(:empty):first-of-type:first-letter,
 .no-drop-cap p:not(:empty):first-of-type:first-letter,
-h1 ~ p.no-drop-cap:not(:empty):first-of-type:first-letter {
+h1 ~ p.no-drop-cap:not(:empty):first-of-type:first-letter,
+.no-drop-cap:first-letter {
   font: inherit;
   color: inherit;
   float: none;
@@ -181,9 +180,8 @@ h1 ~ p.no-drop-cap:not(:empty):first-of-type:first-letter {
   }
 }
 
-/* .small-caps, #breadcrumbs */
-.small-caps,
-#breadcrumbs * {
+/* .small-caps */
+.small-caps * {
   font-variant: all-small-caps;
   letter-spacing: 0.05ch;
 }
@@ -255,11 +253,9 @@ figcaption {
   }
 }
 
-.fonts-stage-2 {
-  .spkr {
-    font-family: var(--mpb-font-display-sc);
-    font-variant: normal;
-  }
+.spkr {
+  font-family: var(--mpb-font-display-sc);
+  font-variant: normal;
 }
 
 html[data-theme="dark"] {

@@ -18,7 +18,7 @@ excerpt: My friend Jaime Ladd delivered a wild boar shoulder to me so I could ma
 
 <!-- markdownlint-enable MD025 --><mpb-dialog-img>
 
-{% image "featured", "img-constrained", "Jaime leaning back in armchair, holding a brown stoneware jug in her right hand. Her left knee is raised, her eyes closed. She wears a dark cloche (hat).", "Jamie with Jug (V)", "eager" %}</mpb-dialog-img>
+{% image "featured", "", "Jaime leaning back in armchair, holding a brown stoneware jug in her right hand. Her left knee is raised, her eyes closed. She wears a dark cloche (hat).", "Jaimie with Jug (V)", "eager" %}</mpb-dialog-img>
 
 My friend <span class="h-card p-name">Jaime Ladd</span> coördinates an “adventurous diners” group on a popular social media platform; one of the group members, <span class="h-card p-name">Waco Tomlinson</span>, recently killed a wild boar and offered up some choice cuts to the other members to prepare individual dishes for a potluck luncheon. Jaime agreed to deliver a shoulder to me so I could make red chili <span lang="es">pozole</span>, so I asked if she’d mind modeling for me as I continue to work on my studio lighting technique.
 
@@ -30,13 +30,21 @@ We used whatever props were at hand&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&ha
 
 <mpb-dialog-gallery hint rel cols="8">
 
-  ![Jaimie with Pitcher](/assets/images/blog/2015-01-09-jaime/czahller-20150108-14-15-50.jpg)
-  ![Jamie with Jug (I)](/assets/images/blog/2015-01-09-jaime/czahller-20150108-14-19-43.jpg)
-  ![Jamie with Jug (II)](/assets/images/blog/2015-01-09-jaime/czahller-20150108-14-23-58.jpg)
-  ![Jamie with Jug (Gag Pose)](/assets/images/blog/2015-01-09-jaime/czahller-20150108-14-28-33.jpg)
-  ![Jamie with Jug (III)](/assets/images/blog/2015-01-09-jaime/czahller-20150108-14-40-08.jpg)
-  ![Jamie with Jug (IV)](/assets/images/blog/2015-01-09-jaime/czahller-20150108-14-42-17.jpg)
-  ![Jamie with Jug (V)](/assets/images/blog/2015-01-09-jaime/czahller-20150108-14-42-43.jpg)
-  ![Jamie with Bourbon Bottle](/assets/images/blog/2015-01-09-jaime/czahller-20150108-14-48-12.jpg)
-  ![Jaimie with Book (Kafka)](/assets/images/blog/2015-01-09-jaime/czahller-20150108-15-02-44.jpg)
+  {% image "./src/assets/images/blog/2015-01-09-jaime/czahller-20150108-14-15-50.jpg", "", "Jaimie holding a silver aluminum pitcher", "Jaimie with Pitcher" %}
+
+  {% image "./src/assets/images/blog/2015-01-09-jaime/czahller-20150108-14-19-43.jpg", "", "Jaimie holding a brown stoneware jug", "Jaimie with Jug (I)" %}
+
+  {% image "./src/assets/images/blog/2015-01-09-jaime/czahller-20150108-14-23-58.jpg", "", "Jaimie holding a brown stoneware jug", "Jaimie with Jug (II)" %}
+
+  {% image "./src/assets/images/blog/2015-01-09-jaime/czahller-20150108-14-28-33.jpg", "", "Jaimie pretending to drink from a brown stoneware jug like some kind of drunken hillbilly", "Jaimie with Jug (Gag Pose)" %}
+
+  {% image "./src/assets/images/blog/2015-01-09-jaime/czahller-20150108-14-40-08.jpg", "", "Jaimie holding a brown stoneware jug", "Jaimie with Jug (III)" %}
+
+  {% image "./src/assets/images/blog/2015-01-09-jaime/czahller-20150108-14-42-17.jpg", "", "Jaimie holding a brown stoneware jug", "Jaimie with Jug (IV)" %}
+
+  {% image "featured", "", "Jaime leaning back in armchair, holding a brown stoneware jug in her right hand. Her left knee is raised, her eyes closed. She wears a dark cloche (hat).", "Jaimie with Jug (V)" %}
+
+  {% image "./src/assets/images/blog/2015-01-09-jaime/czahller-20150108-14-48-12.jpg", "", "Jaimie with Bourbon Bottle", "Jaimie with Bourbon Bottle" %}
+
+  {% image "./src/assets/images/blog/2015-01-09-jaime/czahller-20150108-15-02-44.jpg", "", "Jaimie holding open a copy of the collected stories of Franz Kafka. She pretends to be shocked by what she reads.", "Jaimie with Book (Kafka)" %}
 </mpb-dialog-gallery>

@@ -29,7 +29,7 @@ Pair recounts dark historical chapter in story & song
   </stack-l>
 </hgroup><mpb-dialog-img>
 
-{% image "featured", "img-constrained", "Phil Lancaster & Alison Moore performing a song, accompanied by banjo & guitar", "Phil & Alison (I)", "eager" %}</mpb-dialog-img>
+{% image "featured", "", "Phil Lancaster & Alison Moore performing a song, accompanied by banjo & guitar", "Phil & Alison (I)", "eager" %}</mpb-dialog-img>
 
 <blockquote cite="https://web.archive.org/web/20131019132259/https://www.ridersontheorphantrain.org/testimonials.html">
 
@@ -61,10 +61,15 @@ The pair have been presenting a 90-minute multi-media program at libraries, scho
 
 <mpb-dialog-gallery hint rel cols="8">
 
-  ![Phil Lancaster & Alison Moore](/assets/images/blog/2013-10-17-woodyfest-orphan-train/czahller-20130711-17-41-12.jpg)
-  ![Alison (I)](/assets/images/blog/2013-10-17-woodyfest-orphan-train/czahller-20130711-17-42-40.jpg)
-  ![Phil](/assets/images/blog/2013-10-17-woodyfest-orphan-train/czahller-20130711-17-42-59.jpg)
-  ![Alison (II)](/assets/images/blog/2013-10-17-woodyfest-orphan-train/czahller-20130711-17-44-19.jpg)
-  ![Phil & Alison (I)](/assets/images/blog/2013-10-17-woodyfest-orphan-train/czahller-20130711-17-44-24.jpg)
-  ![Phil & Alison (II)](/assets/images/blog/2013-10-17-woodyfest-orphan-train/czahller-20130711-17-45-18.jpg)
+  {% image "./src/assets/images/blog/2013-10-17-woodyfest-orphan-train/czahller-20130711-17-41-12.jpg", "", "Phil Lancaster & Alison Moore", "Phil Lancaster & Alison Moore" %}
+
+  {% image "./src/assets/images/blog/2013-10-17-woodyfest-orphan-train/czahller-20130711-17-42-40.jpg", "", "Alison", "Alison (I)" %}
+
+  {% image "./src/assets/images/blog/2013-10-17-woodyfest-orphan-train/czahller-20130711-17-42-59.jpg", "", "Phil", "Phil" %}
+
+  {% image "./src/assets/images/blog/2013-10-17-woodyfest-orphan-train/czahller-20130711-17-44-19.jpg", "", "Alison", "Alison (II)" %}
+
+  {% image "featured", "", "Phil Lancaster & Alison Moore performing a song, accompanied by banjo & guitar", "Phil & Alison (I)" %}
+
+  {% image "./src/assets/images/blog/2013-10-17-woodyfest-orphan-train/czahller-20130711-17-45-18.jpg", "", "Phil & Alison", "Phil & Alison (II)" %}
 </mpb-dialog-gallery>

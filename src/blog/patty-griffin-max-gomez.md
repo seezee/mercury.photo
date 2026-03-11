@@ -19,7 +19,7 @@ excerpt: Singer-songwriter Patty Griffin returned to Norman’s Sooner Theatre f
 
 <!-- markdownlint-enable MD025 --><mpb-dialog-img>
 
-{% image "featured", "img-constrained", "Patty Griffin’s red boots. The top of her white layer-cake dress is also visible. Except for the boots, the color is desaturated, leaving only pastel bluish shadows and yellowish highlights.", "Red Boots (Flaming Red)", "eager" %}</mpb-dialog-img>
+{% image "featured", "", "Patty Griffin’s red boots. The top of her white layer-cake dress is also visible. Except for the boots, the color is desaturated, leaving only pastel bluish shadows and yellowish highlights.", "Red Boots (Flaming Red)", "eager" %}</mpb-dialog-img>
 
 ## Patty Griffin
 
@@ -40,7 +40,7 @@ Griffin has collaborated with many notable musicians, including <span class="h-c
 
 <mpb-dialog-img>
 
-{% image "./src/assets/images/blog/2012-11-14-griffin-gomez/czahller-20121025-20-55-14.jpg", "img-constrained", "Patty Griffin leans to the left as she strum her acoustic guitar. Her head is blurred due to the motion. The image color is desaturated, leaving only pastel bluish shadows and yellowish highlights.", "Patty (III) (In Motion)" %}</mpb-dialog-img>
+{% image "./src/assets/images/blog/2012-11-14-griffin-gomez/czahller-20121025-20-55-14.jpg", "", "Patty Griffin leans to the left as she strum her acoustic guitar. Her head is blurred due to the motion. The image color is desaturated, leaving only pastel bluish shadows and yellowish highlights.", "Patty (III) (In Motion)", "large" %}</mpb-dialog-img>
 
 Griffin’s set shifted from down-tempo, quiet ballads (<cite class="short-work">[Railroad Wings](https://music.apple.com/us/album/railroad-wings/id212230540?i=212232531&uo=4&at=10ldhk){target=_blank rel="external noopener"}</cite>) to gut-wrenching, distorted blues (the spine-tingling, short hairs&ndash;raising <cite class="short-work">[Flaming Red](https://music.apple.com/us/album/flaming-red/id390067?uo=4&at=10ldhk){target=_blank rel="external noopener"}</cite>). During the numerous guitar re-tunings,[^2] Griffin kept the audience entertained with stories about growing up and of her life as a touring musician as well as with backstories to her songs.
 
@@ -52,7 +52,7 @@ Hailing from Taos, New Mexico, singer <span class="h-card p-name">Max Gomez</spa
 
 <mpb-dialog-img>
 
-{% image "./src/assets/images/blog/2012-11-14-griffin-gomez/czahller-20121025-19-56-44.jpg", "img-constrained", "Max Gomez smiles as he plays for the audience at the Sooner Theatre. The image color is desaturated, leaving only pastel bluish shadows and yellowish highlights.", "Max Gomez (II)" %}</mpb-dialog-img>
+{% image "./src/assets/images/blog/2012-11-14-griffin-gomez/czahller-20121025-19-56-44.jpg", "", "Max Gomez smiles as he plays for the audience at the Sooner Theatre. The image color is desaturated, leaving only pastel bluish shadows and yellowish highlights.", "Max Gomez (II)", "large" %}</mpb-dialog-img>
 
 Gomez’s mother <span class="h-card p-name p-given-name">Tonia</span> was present for the show; see the [gallery](#gallery-max-gomez) for her portrait. His debut CD, <cite>Rule the World</cite>, is available for pre-order in all the usual places. His debut single, <cite class="short-work">[Run from You](https://music.apple.com/us/album/run-from-you-feat-jeff-trott/1212872447?i=1212872800&uo=4&at=10ldhk){target=_blank rel="external noopener"}</cite>, is available on iTunes now.
 
@@ -60,37 +60,62 @@ Gomez’s mother <span class="h-card p-name p-given-name">Tonia</span> was prese
 
 <mpb-dialog-gallery hint rel cols="8">
 
-  ![Patty at the Piano](/assets/images/blog/2012-11-14-griffin-gomez/czahller-20121025-20-46-03.jpg)
-  ![Patty Seen from Stage Left (I)](/assets/images/blog/2012-11-14-griffin-gomez/czahller-20121025-20-50-07.jpg)
-  ![Patty Seen from Stage Left (II)](/assets/images/blog/2012-11-14-griffin-gomez/czahller-20121025-20-51-39.jpg)
-  ![Patty (I)](/assets/images/blog/2012-11-14-griffin-gomez/czahller-20121025-20-53-27.jpg)
-  ![Patty (II) (In Motion)](/assets/images/blog/2012-11-14-griffin-gomez/czahller-20121025-20-53-28.jpg)
-  ![Patty Seen from Stage Right (I)](/assets/images/blog/2012-11-14-griffin-gomez/czahller-20121025-20-54-02.jpg)
-  ![Patty (III) (In Motion)](/assets/images/blog/2012-11-14-griffin-gomez/czahller-20121025-20-55-14.jpg)
-  ![Patty (IV)](/assets/images/blog/2012-11-14-griffin-gomez/czahller-20121025-20-55-18.jpg)
-  ![Patty (V)](/assets/images/blog/2012-11-14-griffin-gomez/czahller-20121025-20-55-28.jpg)
-  ![Red Boots (Flaming Red)](/assets/images/blog/2012-11-14-griffin-gomez/czahller-20121025-20-55-38.jpg)
-  ![Smile](/assets/images/blog/2012-11-14-griffin-gomez/czahller-20121025-20-56-16.jpg)
-  ![Patty (VI)](/assets/images/blog/2012-11-14-griffin-gomez/czahller-20121025-20-56-53.jpg)
-  ![Patty (VII)](/assets/images/blog/2012-11-14-griffin-gomez/czahller-20121025-20-58-08.jpg)
-  ![Goodbye](/assets/images/blog/2012-11-14-griffin-gomez/czahller-20121025-21-14-44.jpg)
-  ![Encore](/assets/images/blog/2012-11-14-griffin-gomez/czahller-20121025-21-44-08.jpg)
-  ![Set List](/assets/images/blog/2012-11-14-griffin-gomez/czahller-20121025-22-22-20.jpg)
+  {% image "./src/assets/images/blog/2012-11-14-griffin-gomez/czahller-20121025-20-46-03.jpg", "", "Patty Griffin plays the piano & sings", "Patty at the Piano" %}
+
+  {% image "./src/assets/images/blog/2012-11-14-griffin-gomez/czahller-20121025-20-50-07.jpg", "", "Patty Griffin, seen from stage left", "Patty Seen from Stage Left (I)" %}
+
+  {% image "./src/assets/images/blog/2012-11-14-griffin-gomez/czahller-20121025-20-51-39.jpg", "", "Patty Griffin, seen from stage left", "Patty Seen from Stage Left (II)" %}
+
+  {% image "./src/assets/images/blog/2012-11-14-griffin-gomez/czahller-20121025-20-53-27.jpg", "", "Patty Griffin", "Patty (I)" %}
+
+  {% image "./src/assets/images/blog/2012-11-14-griffin-gomez/czahller-20121025-20-53-28.jpg", "", "Patty Griffin seen from below. She is blurry from movement.", "Patty (II) (In Motion)" %}
+
+  {% image "./src/assets/images/blog/2012-11-14-griffin-gomez/czahller-20121025-20-54-02.jpg", "", "Patty Griffin, seen from stage right", "Patty Seen from Stage Right (I)" %}
+
+  {% image "./src/assets/images/blog/2012-11-14-griffin-gomez/czahller-20121025-20-55-14.jpg", "", "Patty Griffin. She is leaning forward slightly. Her head is in motion, causing it to appear blurry.", "Patty (III) (In Motion)" %}
+
+  {% image "./src/assets/images/blog/2012-11-14-griffin-gomez/czahller-20121025-20-55-18.jpg", "", "Patty Griffin", "Patty (IV)" %}
+
+  {% image "./src/assets/images/blog/2012-11-14-griffin-gomez/czahller-20121025-20-55-28.jpg", "", "Patty Griffin", "Patty (V)" %}
+
+  {% image "featured", "", "Patty Griffin’s red boots. The top of her white layer-cake dress is also visible. Except for the boots, the color is desaturated, leaving only pastel bluish shadows and yellowish highlights.", "Red Boots (Flaming Red)" %}
+
+  {% image "./src/assets/images/blog/2012-11-14-griffin-gomez/czahller-20121025-20-56-16.jpg", "", "Patty Griffin, smiling", "Smile" %}
+
+  {% image "./src/assets/images/blog/2012-11-14-griffin-gomez/czahller-20121025-20-56-53.jpg", "", "Patty Griffin", "Patty (VI)" %}
+
+  {% image "./src/assets/images/blog/2012-11-14-griffin-gomez/czahller-20121025-20-58-08.jpg", "", "Patty Griffin", "Patty Griffin (VII)" %}
+
+  {% image "./src/assets/images/blog/2012-11-14-griffin-gomez/czahller-20121025-21-14-44.jpg", "", "Patty waving goodbye", "Goodbye" %}
+
+  {% image "./src/assets/images/blog/2012-11-14-griffin-gomez/czahller-20121025-21-44-08.jpg", "", "Patty Griffin encore", "Encore" %}
+
+  {% image "./src/assets/images/blog/2012-11-14-griffin-gomez/czahller-20121025-22-22-20.jpg", "", "Patty Griffin Set List", "Set List" %}
 </mpb-dialog-gallery>
 
 ## Gallery: Max Gomez
 
 <mpb-dialog-gallery hint rel cols="8">
 
-  ![Max Gomez (I)](/assets/images/blog/2012-11-14-griffin-gomez/czahller-20121025-19-56-23.jpg)
-  ![Max Gomez (II)](/assets/images/blog/2012-11-14-griffin-gomez/czahller-20121025-19-56-44.jpg)
-  ![Max Gomez (III)](/assets/images/blog/2012-11-14-griffin-gomez/czahller-20121025-19-57-00.jpg)
-  ![Max Gomez (IV)](/assets/images/blog/2012-11-14-griffin-gomez/czahller-20121025-19-57-07.jpg)
-  ![Max Gomez (V)](/assets/images/blog/2012-11-14-griffin-gomez/czahller-20121025-20-00-11.jpg)
-  ![Max Gomez (VI)](/assets/images/blog/2012-11-14-griffin-gomez/czahller-20121025-20-00-57.jpg)
-  ![Max Gomez (VII)](/assets/images/blog/2012-11-14-griffin-gomez/czahller-20121025-20-08-32.jpg)
-  ![Max Gomez (VIII)](/assets/images/blog/2012-11-14-griffin-gomez/czahller-20121025-20-24-29.jpg)
-  ![Max Gomez (IX) (Farewell)](/assets/images/blog/2012-11-14-griffin-gomez/czahller-20121025-20-27-24.jpg)
-  ![Tonia (Max’s Mother)](/assets/images/blog/2012-11-14-griffin-gomez/czahller-20121025-20-29-50.jpg)
-  ![Tonia & Max](/assets/images/blog/2012-11-14-griffin-gomez/czahller-20121025-20-32-52.jpg)
+  {% image "./src/assets/images/blog/2012-11-14-griffin-gomez/czahller-20121025-19-56-23.jpg", "", "Max Gomez", "Max Gomez (I)" %}
+
+  {% image "./src/assets/images/blog/2012-11-14-griffin-gomez/czahller-20121025-19-56-44.jpg", "", "Max Gomez", "Max Gomez (II)" %}
+
+  {% image "./src/assets/images/blog/2012-11-14-griffin-gomez/czahller-20121025-19-57-00.jpg", "", "Max Gomez", "Max Gomez (III)" %}
+
+  {% image "./src/assets/images/blog/2012-11-14-griffin-gomez/czahller-20121025-19-57-07.jpg", "", "Max Gomez", "Max Gomez (IV)" %}
+
+  {% image "./src/assets/images/blog/2012-11-14-griffin-gomez/czahller-20121025-20-00-11.jpg", "", "Max Gomez", "Max Gomez (V)" %}
+
+  {% image "./src/assets/images/blog/2012-11-14-griffin-gomez/czahller-20121025-20-00-57.jpg", "", "Max Gomez", "Max Gomez (VI)" %}
+
+  {% image "./src/assets/images/blog/2012-11-14-griffin-gomez/czahller-20121025-20-08-32.jpg", "", "Max Gomez", "Max Gomez (VII)" %}
+
+  {% image "./src/assets/images/blog/2012-11-14-griffin-gomez/czahller-20121025-20-24-29.jpg", "", "Max Gomez", "Max Gomez (VIII)" %}
+
+  {% image "./src/assets/images/blog/2012-11-14-griffin-gomez/czahller-20121025-20-27-24.jpg", "", "Max Gomez", "Max Gomez (IX) (Farewell)" %}
+
+  {% image "./src/assets/images/blog/2012-11-14-griffin-gomez/czahller-20121025-20-29-50.jpg", "", "Tonia (Max’s mother) in the theatre lobby", "Tonia (Max’s Mother)" %}
+
+  {% image "./src/assets/images/blog/2012-11-14-griffin-gomez/czahller-20121025-20-32-52.jpg", "", "Tonia & Max in the theatre lobby", "Tonia & Max" %}
 </mpb-dialog-gallery>

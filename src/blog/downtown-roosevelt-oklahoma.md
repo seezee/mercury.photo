@@ -21,7 +21,7 @@ excerpt: Roosevelt is a small, all-but-abandoned town in western Oklahoma. Accor
 
 <!-- markdownlint-enable MD025 --><mpb-dialog-img>
 
-{% image "featured", "img-constrained", "Downtown, Roosevelt, Oklahoma", "Downtown, Roosevelt, Oklahoma", "eager" %}</mpb-dialog-img>
+{% image "featured", "", "Downtown, Roosevelt, Oklahoma", "Downtown, Roosevelt, Oklahoma", "eager" %}</mpb-dialog-img>
 
 Roosevelt is a small, all-but-abandoned town in western Oklahoma. According to the latest census, the population numbers 248. Today it’s known as a massive automobile morgue: several auto salvage companies have set up shop there, and today the corpses of cars and trucks outnumber the living.
 
@@ -33,11 +33,15 @@ The five buildings shown are a former bank, now occupied by city hall; the forme
 
 <mpb-dialog-gallery hint rel cols="8">
 
-  ![City Hall & Nash’s](/assets/images/blog/2017-08-04-roosevelt/czahller-20170730-14-53-35.jpg)
-  ![Nash’s Department Store](/assets/images/blog/2017-08-04-roosevelt/czahller-20170730-14-57-01.jpg)
-  ![Moose & Squirrel](/assets/images/blog/2017-08-04-roosevelt/czahller-20170730-15-01-39.jpg)
-  ![Pharmacy & Grocers](/assets/images/blog/2017-08-04-roosevelt/czahller-20170730-15-04-46.jpg)
-  ![North end of 500 block, S Main St](/assets/images/blog/2017-08-04-roosevelt/czahller-20170730-15-07-06.jpg)
+   {% image "./src/assets/images/blog/2017-08-04-roosevelt/czahller-20170730-14-53-35.jpg", "", "City Hall & Nash’s", "City Hall & Nash’s" %}
+
+   {% image "./src/assets/images/blog/2017-08-04-roosevelt/czahller-20170730-14-57-01.jpg", "", "Nash’s Department Store", "Nash’s Department Store" %}
+
+   {% image "./src/assets/images/blog/2017-08-04-roosevelt/czahller-20170730-15-01-39.jpg", "", "Moose & Squirrel graffiti on boarded-up window", "Moose & Squirrel" %}
+
+   {% image "./src/assets/images/blog/2017-08-04-roosevelt/czahller-20170730-15-04-46.jpg", "", "Pharmacy & Grocers", "Pharmacy & Grocers" %}
+
+   {% image "./src/assets/images/blog/2017-08-04-roosevelt/czahller-20170730-15-07-06.jpg", "", "North end of 500 block, South Main St", "North end of 500 block, S Main St" %}
 </mpb-dialog-gallery>
 
 ## Technical
@@ -78,8 +82,10 @@ Software
   <span class="sr-only" id="label-margin-notes">Notes</span>
   <ul class="marginnotes-list" role="list">
     <li id="mn1" role="listitem">
+<mpb-dialog-img>
 
-{% image "./src/assets/images/blog/2017-08-04-roosevelt/google-earth-roosevelt.jpg", "img-constrained", "Google Earth view of salvage yards, Roosevelt, Oklahoma", "Google Earth view of salvage yards, Roosevelt, Oklahoma&nbsp;<a href=\"#mnref1\" class=\"govuk-link\"><span class=\"sr-only\">Back to content </span>↩︎" %}
+  {% image "./src/assets/images/blog/2017-08-04-roosevelt/google-earth-roosevelt.jpg", "", "Google Earth view of salvage yards, Roosevelt, Oklahoma", "Google Earth view of salvage yards, Roosevelt, Oklahoma&nbsp;<a href=\"#mnref1\" class=\"govuk-link\"><span class=\"sr-only\">Back to content </span>↩︎" %}
+</mpb-dialog-img>
     </li>
   </ul>
 </footer>

@@ -12,8 +12,9 @@ document.addEventListener(`DOMContentLoaded`, () => {
   if (grids.length) {
     // Check for support using both of the proposed syntaxes;
     // see https://github.com/w3c/csswg-drafts/issues/9041
-    if (
-      getComputedStyle(grids[0]).display === `grid-lanes`
+    if ( /* grid-template-rows: masonry will be deprecated by grid-lanes */
+      (getComputedStyle(grids[0]).display === `grid-lanes`) ||
+      (getComputedStyle(grids[0]).gridTemplateRows === `masonry`)
     ) {
       console.log(`Masonry supported, doing nothing`);
     } else {

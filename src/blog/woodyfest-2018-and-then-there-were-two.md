@@ -23,7 +23,7 @@ excerpt: Contrary to their name, the band And Then There Were Two does not compr
 
 <!-- markdownlint-enable MD025 --><mpb-dialog-img>
 
-{% image "featured", "img-constrained", "And Then There Were Two (I) — 21st Annual Woody Guthrie Festival, 2018", "And Then There Were Two (I)&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;21st Annual Woody Guthrie Festival, 2018", "eager" %}</mpb-dialog-img>
+{% image "featured", "", "And Then There Were Two (I)", "And Then There Were Two (I)", "eager" %}</mpb-dialog-img>
 
 ## Oklahoma Feel Good Music
 
@@ -55,22 +55,39 @@ Lee, Haworth, and Varnell were accompanied during their Woodyfest showcase by <s
 
 <mpb-dialog-gallery hint rel cols="8">
   
-  ![And Then There Were Two (I) — 21st Annual Woody Guthrie Festival, 2018](/assets/images/blog/2019-01-21-woodyfest-and-then-there-were-two/czahller-20180714-15-09-06.jpg)
-  ![And Then There Were Two (II) — 21st Annual Woody Guthrie Festival, 2018](/assets/images/blog/2019-01-21-woodyfest-and-then-there-were-two/czahller-20180714-15-09-26.jpg)
-  ![Amy Carlin Lee — 21st Annual Woody Guthrie Festival, 2018](/assets/images/blog/2019-01-21-woodyfest-and-then-there-were-two/czahller-20180714-15-11-51.jpg)
-  ![Amy (I) — 21st Annual Woody Guthrie Festival, 2018](/assets/images/blog/2019-01-21-woodyfest-and-then-there-were-two/czahller-20180714-15-13-12.jpg)
-  ![Austin K. Haworth — 21st Annual Woody Guthrie Festival, 2018](/assets/images/blog/2019-01-21-woodyfest-and-then-there-were-two/czahller-20180714-15-14-18.jpg)
-  ![Amy (II) — 21st Annual Woody Guthrie Festival, 2018](/assets/images/blog/2019-01-21-woodyfest-and-then-there-were-two/czahller-20180714-15-15-05.jpg)
-  ![Amy (III) — 21st Annual Woody Guthrie Festival, 2018](/assets/images/blog/2019-01-21-woodyfest-and-then-there-were-two/czahller-20180714-15-15-33.jpg)
-  ![Austin (I) — 21st Annual Woody Guthrie Festival, 2018](/assets/images/blog/2019-01-21-woodyfest-and-then-there-were-two/czahller-20180714-15-15-48.jpg)
-  ![Seen from Upstage (Fisheye) — 21st Annual Woody Guthrie Festival, 2018](/assets/images/blog/2019-01-21-woodyfest-and-then-there-were-two/czahller-20180714-15-19-37.jpg)
-  ![Amy (IV) — 21st Annual Woody Guthrie Festival, 2018](/assets/images/blog/2019-01-21-woodyfest-and-then-there-were-two/czahller-20180714-15-20-11.jpg)
-  ![And Then There Were Two (III) — 21st Annual Woody Guthrie Festival, 2018](/assets/images/blog/2019-01-21-woodyfest-and-then-there-were-two/czahller-20180714-15-22-42.jpg)
-  ![Austin (II) — 21st Annual Woody Guthrie Festival, 2018](/assets/images/blog/2019-01-21-woodyfest-and-then-there-were-two/czahller-20180714-15-24-21.jpg)
-  ![Amy & Austin (I) — 21st Annual Woody Guthrie Festival, 2018](/assets/images/blog/2019-01-21-woodyfest-and-then-there-were-two/czahller-20180714-15-26-12.jpg)
-  ![Back to Back — 21st Annual Woody Guthrie Festival, 2018](/assets/images/blog/2019-01-21-woodyfest-and-then-there-were-two/czahller-20180714-15-31-21.jpg)
-  ![Amy & Austin (II) — 21st Annual Woody Guthrie Festival, 2018](/assets/images/blog/2019-01-21-woodyfest-and-then-there-were-two/czahller-20180714-15-35-42.jpg)
-  ![Jump! — 21st Annual Woody Guthrie Festival, 2018](/assets/images/blog/2019-01-21-woodyfest-and-then-there-were-two/czahller-20180714-15-36-02.jpg)
-  ![Luke Mullinex — 21st Annual Woody Guthrie Festival, 2018](/assets/images/blog/2019-01-21-woodyfest-and-then-there-were-two/czahller-20180714-15-41-58.jpg)
-  ![Chad Varnell — 21st Annual Woody Guthrie Festival, 2018](/assets/images/blog/2019-01-21-woodyfest-and-then-there-were-two/czahller-20180714-15-42-35.jpg)
+  {% image "featured", "", "Luke Mullinex, Chad Varnell, Amy Carlin Lee, & Austin K. Haworth", "And Then There Were Two (I)" %}
+
+  {% image "./src/assets/images/blog/2019-01-21-woodyfest-and-then-there-were-two/czahller-20180714-15-09-26.jpg", "", "Luke Mullinex, Amy Carlin Lee, Chad Varnell, & Austin K. Haworth", "And Then There Were Two (II)" %}
+
+  {% image "./src/assets/images/blog/2019-01-21-woodyfest-and-then-there-were-two/czahller-20180714-15-11-51.jpg", "", "Amy Carlin Lee", "Amy Carlin Lee" %}
+
+  {% image "./src/assets/images/blog/2019-01-21-woodyfest-and-then-there-were-two/czahller-20180714-15-13-12.jpg", "", "Amy Carlin Lee", "Amy (I)" %}
+
+  {% image "./src/assets/images/blog/2019-01-21-woodyfest-and-then-there-were-two/czahller-20180714-15-14-18.jpg", "", "Austin K. Haworth", "Austin K. Haworth" %}
+
+  {% image "./src/assets/images/blog/2019-01-21-woodyfest-and-then-there-were-two/czahller-20180714-15-15-05.jpg", "", "Amy (II)", "Amy Carlin Lee" %}
+
+  {% image "./src/assets/images/blog/2019-01-21-woodyfest-and-then-there-were-two/czahller-20180714-15-15-33.jpg", "", "Amy (III)", "Amy Carlin Lee" %}
+
+  {% image "./src/assets/images/blog/2019-01-21-woodyfest-and-then-there-were-two/czahller-20180714-15-15-48.jpg", "", "Austin (I)", "Austin K. Haworth" %}
+
+  {% image "./src/assets/images/blog/2019-01-21-woodyfest-and-then-there-were-two/czahller-20180714-15-19-37.jpg", "", "The band viewed through a fisheye lens from upstage. Because of the lens, the image exhibits barrel distortion.", "Seen from Upstage (Fisheye)" %}
+
+  {% image "./src/assets/images/blog/2019-01-21-woodyfest-and-then-there-were-two/czahller-20180714-15-20-11.jpg", "", "Amy Carlin Lee", "Amy (IV)" %}
+
+  {% image "./src/assets/images/blog/2019-01-21-woodyfest-and-then-there-were-two/czahller-20180714-15-22-42.jpg", "", "Luke Mullinex, Amy Carlin Lee, Chad Varnell, & Austin K. Haworth", "And Then There Were Two (III)" %}
+
+  {% image "./src/assets/images/blog/2019-01-21-woodyfest-and-then-there-were-two/czahller-20180714-15-24-21.jpg", "", "Austin K. Haworth", "Austin (II)" %}
+
+  {% image "./src/assets/images/blog/2019-01-21-woodyfest-and-then-there-were-two/czahller-20180714-15-26-12.jpg", "", "Amy Carlin Lee & Austin K. Haworth", "Amy & Austin (I)" %}
+
+  {% image "./src/assets/images/blog/2019-01-21-woodyfest-and-then-there-were-two/czahller-20180714-15-31-21.jpg", "", "Amy Carlin Lee & Austin K. Haworth lean into one another’s shoulders while Austin plays guitar", "Back to Back" %}
+
+  {% image "./src/assets/images/blog/2019-01-21-woodyfest-and-then-there-were-two/czahller-20180714-15-35-42.jpg", "", "Amy Carlin Lee & Austin K. Haworth", "Amy & Austin (II)" %}
+
+  {% image "./src/assets/images/blog/2019-01-21-woodyfest-and-then-there-were-two/czahller-20180714-15-36-02.jpg", "", "Austin K. Haworth pogos straight up while playing guitar. His shoes hover several inches above the stage.", "Jump!" %}
+
+  {% image "./src/assets/images/blog/2019-01-21-woodyfest-and-then-there-were-two/czahller-20180714-15-41-58.jpg", "", "Luke Mullinex", "Luke Mullinex" %}
+
+  {% image "./src/assets/images/blog/2019-01-21-woodyfest-and-then-there-were-two/czahller-20180714-15-42-35.jpg", "", "Chad Varnell", "Chad Varnell" %}
 </mpb-dialog-gallery>

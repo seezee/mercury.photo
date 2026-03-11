@@ -23,9 +23,12 @@ excerpt: Chase Anderson, Oliver Holden-Moses, and Nico Lantelme are typical subu
 <p>Local teenagers organize long-boarding charity event</p></stack-l></hgroup>
 <!-- markdownlint-enable MD025 --><mpb-dialog-img>
 
-{% image "featured", "img-constrained", "RAD JAM Organizers Nico Lantelme, Oliver Holden-Moses, and Chase Anderson pose with their decks. Anderson wears a skate helmet.", "RAD JAM Organizers Nico Lantelme, Oliver Holden-Moses, and Chase Anderson (I)", "eager" %}</mpb-dialog-img>
+{% image "featured", "", "RAD JAM Organizers Nico Lantelme, Oliver Holden-Moses, and Chase Anderson pose with their decks. Anderson wears a skate helmet.", "RAD JAM Organizers Nico Lantelme, Oliver Holden-Moses, and Chase Anderson (I)", "eager" %}</mpb-dialog-img>
 
-[NORMAN, Okla., 18 Aug. 2013]&NoBreak;&hairsp;&NoBreak;&mdash;{.no-drop-cap}
+<div class="no-drop-cap">
+
+[NORMAN, Okla., 18 Aug. 2013]&NoBreak;&hairsp;&NoBreak;&mdash;
+</div>
 
 C<span class="h-card p-name"><span class="sr-only" aria-hidden="true">C</span>hase Anderson</span> and <span class="h-card p-name">Oliver Holden-Moses</span>, both age fourteen, and <span class="h-card p-name">Nico Lantelme</span>, age thirteen, are typical suburban teenage boys&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;and like many boys their age, they’re skateboarders. Specifically, they are long-boarders, preferring the longer style of board commonly used for cruising, downhill racing, slalom racing, and “sliding.”{.drop-cap}
 
@@ -35,19 +38,33 @@ But they’re also activists: on <time datetime="2013-08-18">Sunday, 18 August</
 
 <mpb-dialog-gallery hint rel cols="8">
 
-  ![Prize Scrum (I)](/assets/images/blog/2013-08-18-rad-jam/czahller-20130818-14-51-02.jpg)
-  ![Prize Scrum (II)](/assets/images/blog/2013-08-18-rad-jam/czahller-20130818-14-51-03.jpg)
-  ![Prize Scrum (III)](/assets/images/blog/2013-08-18-rad-jam/czahller-20130818-14-52-50.jpg)
-  ![Prize Scrum (IV)](/assets/images/blog/2013-08-18-rad-jam/czahller-20130818-14-52-55.jpg)
-  ![Prize Scrum (V)](/assets/images/blog/2013-08-18-rad-jam/czahller-20130818-14-54-41.jpg)
-  ![Prize Scrum (VI)](/assets/images/blog/2013-08-18-rad-jam/czahller-20130818-14-57-03.jpg)
-  ![Slide (I)](/assets/images/blog/2013-08-18-rad-jam/czahller-20130818-15-05-33.jpg)
-  ![Runaway Board](/assets/images/blog/2013-08-18-rad-jam/czahller-20130818-15-13-00.jpg)
-  ![Longboarder (I)](/assets/images/blog/2013-08-18-rad-jam/czahller-20130818-15-14-00.jpg)
-  ![Young Longboarder](/assets/images/blog/2013-08-18-rad-jam/czahller-20130818-15-15-10.jpg)
-  ![Longboarder (II)](/assets/images/blog/2013-08-18-rad-jam/czahller-20130818-15-15-58.jpg)
-  ![Longboarder (III)](/assets/images/blog/2013-08-18-rad-jam/czahller-20130818-15-16-31.jpg)
-  ![Tanner Ruminer Going into a Slide](/assets/images/blog/2013-08-18-rad-jam/czahller-20130818-15-16-43.jpg)
-  ![RAD JAM Organizers Nico Lantelme, Oliver Holden-Moses, and Chase Anderson (I)](/assets/images/blog/2013-08-18-rad-jam/czahller-20130818-15-22-59.jpg)
-  ![RAD JAM Organizers Nico Lantelme, Oliver Holden-Moses, and Chase Anderson (II)](/assets/images/blog/2013-08-18-rad-jam/czahller-20130818-15-23-32.jpg)
+  {% image "./src/assets/images/blog/2013-08-18-rad-jam/czahller-20130818-14-51-02.jpg", "", "Skaters piling into a scrum to grab a prize", "Prize Scrum (I)" %}
+
+  {% image "./src/assets/images/blog/2013-08-18-rad-jam/czahller-20130818-14-51-03.jpg", "", "Skaters piling into a scrum to grab a prize", "Prize Scrum (II)" %}
+
+  {% image "./src/assets/images/blog/2013-08-18-rad-jam/czahller-20130818-14-52-50.jpg", "", "Skaters piling into a scrum to grab a prize", "Prize Scrum (III)" %}
+
+  {% image "./src/assets/images/blog/2013-08-18-rad-jam/czahller-20130818-14-52-55.jpg", "Prize Scrum (IV)", "Skaters piling into a scrum to grab a prize", "" %}
+
+  {% image "./src/assets/images/blog/2013-08-18-rad-jam/czahller-20130818-14-54-41.jpg", "", "Skaters piling into a scrum to grab a prize", "Prize Scrum (V)" %}
+
+  {% image "./src/assets/images/blog/2013-08-18-rad-jam/czahller-20130818-14-57-03.jpg", "", "Skaters piling into a scrum to grab a prize", "Prize Scrum (VI)" %}
+
+  {% image "./src/assets/images/blog/2013-08-18-rad-jam/czahller-20130818-15-05-33.jpg", "", "A skater turns into a slide, both hands raised above his head", "Slide (I)" %}
+
+  {% image "./src/assets/images/blog/2013-08-18-rad-jam/czahller-20130818-15-13-00.jpg", "", "A skater chases his lost board on the hill. Another skater assists by stepping in its path.", "Runaway Board" %}
+
+  {% image "./src/assets/images/blog/2013-08-18-rad-jam/czahller-20130818-15-14-00.jpg", "", "Longboarder", "Longboarder (I)" %}
+
+  {% image "./src/assets/images/blog/2013-08-18-rad-jam/czahller-20130818-15-15-10.jpg", "", "Young Longboarder", "Young Longboarder" %}
+
+  {% image "./src/assets/images/blog/2013-08-18-rad-jam/czahller-20130818-15-15-58.jpg", "", "Longboarder", "Longboarder (II)" %}
+
+  {% image "./src/assets/images/blog/2013-08-18-rad-jam/czahller-20130818-15-16-31.jpg", "", "Longboarder", "Longboarder (III)" %}
+
+  {% image "./src/assets/images/blog/2013-08-18-rad-jam/czahller-20130818-15-16-43.jpg", "", "Tanner Ruminer Going into a Slide", "Tanner Ruminer Going into a Slide" %}
+
+  {% image "featured", "", "RAD JAM Organizers Nico Lantelme, Oliver Holden-Moses, and Chase Anderson pose with their decks. Anderson wears a skate helmet.", "RAD JAM Organizers Nico Lantelme, Oliver Holden-Moses, and Chase Anderson (I)" %}
+
+  {% image "./src/assets/images/blog/2013-08-18-rad-jam/czahller-20130818-15-23-32.jpg", "", "RAD JAM Organizers Nico Lantelme, Oliver Holden-Moses, and Chase Anderson pose with their decks. Anderson wears a skate helmet.", "RAD JAM Organizers Nico Lantelme, Oliver Holden-Moses, and Chase Anderson (II)" %}
 </mpb-dialog-gallery>

@@ -21,7 +21,7 @@ excerpt: Cleveland County residents may cast early in-person absentee ballots at
 <p>Citizens! Do your part for Democracy! Vote!</p></stack-l></hgroup>
 <!-- markdownlint-enable MD025 --><mpb-dialog-img>
 
-{% image "featured", "img-constrained", "Woman with “I Voted” sticker stuck to her forehead.", "I Voted", "eager" %}</mpb-dialog-img>
+{% image "featured", "", "Woman with “I Voted” sticker stuck to her forehead.", "I Voted", "eager" %}</mpb-dialog-img>
 
 [NORMAN, Okla., 3 November 2016]&NoBreak;&hairsp;&NoBreak;&mdash;{.no-drop-cap}
 
@@ -35,15 +35,25 @@ Polls close at <time datetime="2016-04-01T18:00-5:00">6 p.m. tonight</time>, and
 
 <mpb-dialog-gallery hint rel cols="8">
   
-  ![Cleveland County Election Board Sign — Early Absentee Voting, General Election, November 2016](/assets/images/blog/2016-11-03-early-voting/czahller-20161103-11-18-28.jpg)
-  ![Voters in Line to Cast Their Votes (I) — Early Absentee Voting, General Election, November 2016](/assets/images/blog/2016-11-03-early-voting/czahller-20161103-11-19-07.jpg)
-  ![Voters in Line to Cast Their Votes (II) — Early Absentee Voting, General Election, November 2016](/assets/images/blog/2016-11-03-early-voting/czahller-20161103-11-19-22.jpg)
-  ![Voters in Line to Cast Their Votes (III) — Early Absentee Voting, General Election, November 2016](/assets/images/blog/2016-11-03-early-voting/czahller-20161103-11-19-42.jpg)
-  ![Voters in Line to Cast Their Votes (IV) — Early Absentee Voting, General Election, November 2016](/assets/images/blog/2016-11-03-early-voting/czahller-20161103-11-20-32.jpg)
-  ![Precinct Officials Parking Only — Early Absentee Voting, General Election, November 2016](/assets/images/blog/2016-11-03-early-voting/czahller-20161103-11-31-21.jpg)
-  ![Poll Worker (Patsy) — Early Absentee Voting, General Election, November 2016](/assets/images/blog/2016-11-03-early-voting/czahller-20161103-11-46-24.jpg)
-  ![Election Official (Kathleen) — Early Absentee Voting, General Election, November 2016](/assets/images/blog/2016-11-03-early-voting/czahller-20161103-11-55-11.jpg)
-  ![I Voted! — Early Absentee Voting, General Election, November 2016](/assets/images/blog/2016-11-03-early-voting/czahller-20161103-11-59-26.jpg)
-  ![Poll Worker (I) — Early Absentee Voting, General Election, November 2016](/assets/images/blog/2016-11-03-early-voting/czahller-20161103-12-01-58.jpg)
-  ![Poll Worker (II) — Early Absentee Voting, General Election, November 2016](/assets/images/blog/2016-11-03-early-voting/czahller-20161103-12-02-05.jpg)
+  {% image "./src/assets/images/blog/2016-11-03-early-voting/czahller-20161103-11-18-28.jpg", "", "Cleveland County Election Board Sign", "Cleveland County Election Board Sign" %}
+
+  {% image "./src/assets/images/blog/2016-11-03-early-voting/czahller-20161103-11-19-07.jpg", "", "Voters in Line to Cast Their Votes", "Voters in Line to Cast Their Votes (I)" %}
+
+  {% image "./src/assets/images/blog/2016-11-03-early-voting/czahller-20161103-11-19-22.jpg", "", "Voters in Line to Cast Their Votes", "Voters in Line to Cast Their Votes (II)" %}
+
+  {% image "./src/assets/images/blog/2016-11-03-early-voting/czahller-20161103-11-19-42.jpg", "", "Voters in Line to Cast Their Votes", "Voters in Line to Cast Their Votes (III)" %}
+
+  {% image "./src/assets/images/blog/2016-11-03-early-voting/czahller-20161103-11-20-32.jpg", "", "Voters in Line to Cast Their Votes", "Voters in Line to Cast Their Votes (IV)" %}
+
+  {% image "./src/assets/images/blog/2016-11-03-early-voting/czahller-20161103-11-31-21.jpg", "", "“Precinct Officials Parking Only” signs", "Precinct Officials Parking Only" %}
+
+  {% image "./src/assets/images/blog/2016-11-03-early-voting/czahller-20161103-11-46-24.jpg", "", "Poll Worker (Patsy)", "Poll Worker (Patsy)" %}
+
+  {% image "./src/assets/images/blog/2016-11-03-early-voting/czahller-20161103-11-55-11.jpg", "", "Election Official (Kathleen)", "Election Official (Kathleen)" %}
+
+  {% image "featured", "", "Woman with “I Voted” sticker stuck to her forehead.", "I Voted!" %}
+
+  {% image "./src/assets/images/blog/2016-11-03-early-voting/czahller-20161103-12-01-58.jpg", "", "Poll Worker", "Poll Worker (I)" %}
+
+  {% image "./src/assets/images/blog/2016-11-03-early-voting/czahller-20161103-12-02-05.jpg", "", "Poll Worker", "Poll Worker (II)" %}
 </mpb-dialog-gallery>

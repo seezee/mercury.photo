@@ -16,9 +16,9 @@ excerpt: To launch our new collaboration with director Mike Walsh, we were the l
 
 # {{ title }}
 
-<!-- markdownlint-enable MD025 --><mpb-dialog-img>
+<!-- markdownlint-enable MD025 -->
 
-{% image "featured", "img-constrained", "Medium portrait of the author. He wears vintage two-tone eyeglass frames and a porkpie hat, a vintage rayon scarf, a green plaid flannel shirt, and a bulky green cable-knit fisherman’s cardigan. He sports an inverted handlebar moustache, also known as a biker ’stache.", "Lighting Test", "eager" %}</mpb-dialog-img>
+{% image "featured", "", "Screenshot of Rev Hi-Fi video showing cover of Small Faces’ Ogden’s Nut Gone Flake", "", "eager" %}
 
 To launch our new collaboration with director <span class="h-card p-name">Mike Walsh</span>, <span class="h-card p-org">Mercury Photo Bureau</span> was the latest guest on his <cite>Rev Hi-Fi</cite> video series. See more [<cite>Rev Hi-Fi</cite> here](){target=_blank rel="external noopener"}</a>.
 

@@ -93,7 +93,7 @@ recipe: '<script type="application/ld+json">
 <p>Wet, warm spring spawns spectacular ’shrooms</p></stack-l></hgroup>
 <!-- markdownlint-enable MD025 --><mpb-dialog-img>
 
-{% image "featured", "img-constrained", "RT Valine displaying his morel haul and brandishing his mushroom knife", "The Mighty Hunter’s Bounty&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;Oklahoma Morel Foraging, 2019", "eager" %}</mpb-dialog-img>
+{% image "featured", "", "RT Valine displaying his morel haul and brandishing his mushroom knife", "The Mighty Hunter’s Bounty&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;Oklahoma Morel Foraging, 2019", "eager" %}</mpb-dialog-img>
 
 My friend <span class="h-card p-name">[RT Valine](/blog/woodyfest-2018-brad-fielder-rt-valine/)</span> and his wife <span class="h-card p-name p-given-name">Jackie</span> were visiting the Bureau one evening and we got to discussing food and cooking. The Valines live in rural Allen, Oklahoma. When the conditions are right, they have access to wild morel mushrooms.{.drop-cap}
 
@@ -101,7 +101,7 @@ Morels are delicious,<a href="#mn1" id="mnref1"><span class="sr-only"> [See note
 
 <mpb-dialog-img>
 
-{% image "./src/assets/images/blog/2019-04-19-mushroom-hunt/czahller-20190408-16-29-39.jpg", "img-constrained", "Mayapples (Podophyllum peltatum) — Oklahoma Morel Foraging, 2019", "Mayapples (<span class=\"foreign\" lang=\"la\">Podophyllum peltatum</span>). All parts of the plant except the fruit are poisonous, including the seeds. The fruit must be cooked to be safe to eat. It can be made into jellies or preserves." %}
+{% image "./src/assets/images/blog/2019-04-19-mushroom-hunt/czahller-20190408-16-29-39.jpg", "", "Mayapples (Podophyllum peltatum) — Oklahoma Morel Foraging, 2019", "Mayapples (<span class=\"foreign\" lang=\"la\">Podophyllum peltatum</span>). All parts of the plant except the fruit are poisonous, including the seeds. The fruit must be cooked to be safe to eat. It can be made into jellies or preserves.", "large" %}
 </mpb-dialog-img>
 
 Being the generous people they are, the Valines invited me to stay in their comfortably appointed guest cabin to forage for the tasty fungi during morel season. I gladly accepted the offer.
@@ -114,14 +114,14 @@ I met RT at the Allen <span class="h-card p-org">Dollar General Store</span>, wh
 
 <mpb-dialog-img>
 
-{% image "./src/assets/images/blog/2019-04-19-mushroom-hunt/czahller-20190408-17-59-23.jpg", "img-constrained", "Bracket Fungi on Burnt Branch — Oklahoma Morel Foraging, 2019", "Bracket Fungi on Burnt Branch&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;Oklahoma Morel Foraging, 2019" %}
+{% image "./src/assets/images/blog/2019-04-19-mushroom-hunt/czahller-20190408-17-59-23.jpg", "", "Bracket Fungi on Burnt Branch — Oklahoma Morel Foraging, 2019", "Bracket Fungi on Burnt Branch&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;Oklahoma Morel Foraging, 2019", "large" %}
 </mpb-dialog-img>
 
 Over the next ninety minutes or so we harvested a bounty of morels,<a href="#mn4" id="mnref4"><span class="sr-only"> [See note]</span></a> with RT spotting three for every one I found. We placed our haul in net onion bags on the theory it would help spread the spores. At a certain point we concluded we had enough and headed to his homestead, after a quick stop to get my MINI. Arriving at the guest cabin, I dropped off my Gladstone and went up to the main house. There, I took a load off and enjoyed a refreshing beer in the Valines’ living room.
 
 <mpb-dialog-img>
 
-{% image "./src/assets/images/blog/2019-04-19-mushroom-hunt/czahller-20190408-18-08-03.jpg", "img-constrained", "Goats GG & L’il Kim, the dog Wino, & RT in the woods", "GG, L’il Kim, Wino, & RT&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;Oklahoma Morel Foraging, 2019" %}
+{% image "./src/assets/images/blog/2019-04-19-mushroom-hunt/czahller-20190408-18-08-03.jpg", "", "Goats GG & L’il Kim, the dog Wino, & RT in the woods", "GG, L’il Kim, Wino, & RT&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;Oklahoma Morel Foraging, 2019", "large" %}
 </mpb-dialog-img>
 
 After we had cooled off and recuperated some of our expended energy we set out across the road. RT had had good luck hunting there <time datetime="2019-04-06">the previous day</time> and thought we might find more mushrooms. The dog, Wino, and the two goats, GG and L’il Kim, followed us and kept us company during the hunt. An hour in we’d found very few mushrooms and the older goat, GG, was getting tired. By this time my legs were aching and I was bleeding from the ubiquitous sawbriar, so I was glad for the excuse to turn back.
@@ -132,7 +132,7 @@ After sundown, RT pan-fried the steaks over the outdoor fire pit while I prepped
 
 <mpb-dialog-img>
 
-{% image "./src/assets/images/blog/2019-04-19-mushroom-hunt/czahller-20190408-18-18-31.jpg", "img-constrained", "The Last Morel — Oklahoma Morel Foraging, 2019", "The Last Morel&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;Oklahoma Morel Foraging, 2019" %}
+{% image "./src/assets/images/blog/2019-04-19-mushroom-hunt/czahller-20190408-18-18-31.jpg", "", "The Last Morel — Oklahoma Morel Foraging, 2019", "The Last Morel&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;Oklahoma Morel Foraging, 2019", "large" %}
 </mpb-dialog-img>
 
 We sat around the firepit eating and drinking the cold beers. I’d brought along a bottle of moonshine<a href="#mn5" id="mnref5"><span class="sr-only"> [See note]</span></a> RT had given me a few weeks earlier but which I hadn’t finished; we drank it empty while the embers died down and the crickets sang.
@@ -220,6 +220,6 @@ For foraging mushrooms, I recommend a sharp carbon-steel knife and a mushroom br
     </li>
     <li id="mn5" role="listitem">
 
-{% image "./src/assets/images/blog/2019-04-19-mushroom-hunt/czahller-20190419-14-09-05.jpg", "img-constrained", "Empty pint bottle with custom RT n’ the 44s label. The bottle formerly contained home-distilled hooch.", "Moonshine — RT n’ the 44s&nbsp;<a href=\"#mnref5\" class=\"govuk-link\"><span class=\"sr-only\">Back to content&nbsp;</span>↩︎</a>" %}
+{% image "./src/assets/images/blog/2019-04-19-mushroom-hunt/czahller-20190419-14-09-05.jpg", "", "Empty pint bottle with custom RT n’ the 44s label. The bottle formerly contained home-distilled hooch.", "Moonshine — RT n’ the 44s&nbsp;<a href=\"#mnref5\" class=\"govuk-link\"><span class=\"sr-only\">Back to content&nbsp;</span>↩︎</a>" %}
     </li>  </ul>
 </footer>

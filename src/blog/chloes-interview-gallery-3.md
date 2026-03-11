@@ -19,7 +19,7 @@ excerpt: In this concluding part of the Chloës interview, we hear the never-bef
 
 <!-- markdownlint-enable MD025 --><mpb-dialog-img>
 
-{% image "featured", "img-constrained", "The Chloës. April Wenzel, wearing a sequined dress, is center frame in profile looking to the left edge of the image. Her band mates are obscured by shadows and are slightly out of focus. The scene is hazy from the fog machine. Glitter hangs in the air. Photographer Doug Schwarz’s camera protrudes into the left edge of the frame. Chris Sanders is barely visible in the audience.", "The Chloës", "eager" %}</mpb-dialog-img>
+{% image "featured", "", "The Chloës. April Wenzel, wearing a sequined dress, is center frame in profile looking to the left edge of the image. Her band mates are obscured by shadows and are slightly out of focus. The scene is hazy from the fog machine. Glitter hangs in the air. Photographer Doug Schwarz’s camera protrudes into the left edge of the frame. Chris Sanders is barely visible in the audience.", "The Chloës", "eager" %}</mpb-dialog-img>
 
 In this concluding part of the <span class="h-card p-org">Chloës</span> interview, we hear the never-before-told story behind crowd-pleaser <cite class="short-work">[Put that Dick Away](https://music.apple.com/us/album/put-that-dick-away/1289963239?i=1289963247&uo=4&at=10ldhk){target=_blank rel="external noopener"},</cite> plus we learn how the ladies *really* feel about men. Then we conclude with our regular feature, *Redeem a Song*, in which we learn about some musical guilty pleasures.
 
@@ -41,7 +41,7 @@ In [part two](/blog/chloes-interview-gallery-2/){rel=prev} the Chloës’ <span 
 
 <mpb-dialog-img>
 
-{% image "./src/assets/images/blog/2013-05-15-nmf6-chloes/czahller-20130427-05-13-45.jpg", "img-constrained", "Leila Wright at the Norman Music Festival. She sits on the drum throne wearing a sequined dress while she beats the skins.", "Leila (I)" %}</mpb-dialog-img>
+{% image "./src/assets/images/blog/2013-05-15-nmf6-chloes/czahller-20130427-05-13-45.jpg", "", "Leila Wright at the Norman Music Festival. She sits on the drum throne wearing a sequined dress while she beats the skins.", "Leila (I)", "large" %}</mpb-dialog-img>
 
 <span class="spkr">Wright</span> And the line is, <q>He touched my elbow like it’s made out of gold,</q> and then, <q>She steps into the conversation like a lightning storm.</q> It’s like, <q>Rraaah!</q>
 
@@ -61,7 +61,7 @@ In [part two](/blog/chloes-interview-gallery-2/){rel=prev} the Chloës’ <span 
 
 <mpb-dialog-img>
 
-{% image "./src/assets/images/blog/2013-05-15-nmf6-chloes/czahller-20130427-05-12-56.jpg", "img-constrained", "Lysandra Chapman’s head just visible over her keyboard, Norman Music Festival", "Lysandra (I)" %}</mpb-dialog-img>
+{% image "./src/assets/images/blog/2013-05-15-nmf6-chloes/czahller-20130427-05-12-56.jpg", "", "Lysandra Chapman’s head just visible over her keyboard, Norman Music Festival", "Lysandra (I)", "large" %}</mpb-dialog-img>
 
 And then, about two weeks later, all of a sudden&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;or maybe not even that; maybe a week later, [April] had the song written. I hated it. I *hated* it; I thought it was like, very hokey, and I was like, <q>This is like&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;are we <span class="h-card p-org">Ween</span> all of a sudden? […] I don’t want to be [in] a joke band!</q> And then all of a sudden, [April]’s playing triads, and she’s playing really hardcore, like, *rock* stuff, and I was like, <q>That’s actually *really* good.</q> And then it became […] our anthem!
 
@@ -86,7 +86,7 @@ But it has a really hardcore message to it; like, <q>Seriously, yeah, we will do
 <span class="spkr">MPB</span> One of the things that may have happened is that when the riot grrrl movement was beginning, that was near the tail end of second wave feminism, and now we’re well into third wave feminism. You really *have* <q>come a long way, baby.</q>
 <mpb-dialog-img>
 
-{% image "./src/assets/images/blog/2013-05-15-nmf6-chloes/czahller-20130427-05-11-25.jpg", "img-constrained", "April, wearing a sequined dress and dark sunglasses, plays guitar and sings, while Brandi, in a short black dress and fishnet stockings, plays a Fender bass to her left (audience right).", "April & Brandie (I)" %}</mpb-dialog-img>
+{% image "./src/assets/images/blog/2013-05-15-nmf6-chloes/czahller-20130427-05-11-25.jpg", "", "April, wearing a sequined dress and dark sunglasses, plays guitar and sings, while Brandi, in a short black dress and fishnet stockings, plays a Fender bass to her left (audience right).", "April & Brandie (I)", "large" %}</mpb-dialog-img>
 
 <span class="spkr">Chapman</span> Considering when we started this, April and I could have *easily* been part of the riot grrrl movement; all things considered, maybe that’s why the universe didn’t put us into this until now. Because we did always like men, and there was never a vibe in us to hate on men.
 
@@ -115,7 +115,7 @@ I just have to put this out there: We just got mentioned in the <cite>[Dallas] O
 
 <mpb-dialog-img>
 
-{% image "./src/assets/images/blog/2013-05-15-nmf6-chloes/czahller-20130427-05-14-00.jpg", "img-constrained", "Tiffany Byrd shreds on guitar. Her hair is flying across her face. She wears a white, full-length gown.", "Tiffany (I)" %}</mpb-dialog-img>
+{% image "./src/assets/images/blog/2013-05-15-nmf6-chloes/czahller-20130427-05-14-00.jpg", "", "Tiffany Byrd shreds on guitar. Her hair is flying across her face. She wears a white, full-length gown.", "Tiffany (I)", "large" %}</mpb-dialog-img>
 
 <span class="spkr">Byrd</span> I’m pretty open about what I like; I don’t deny it. I like … country; I’m a big country [music] person. I am a small town country person.
 
@@ -134,7 +134,7 @@ I just have to put this out there: We just got mentioned in the <cite>[Dallas] O
 <span class="spkr">Wright</span> &mdash;&NoBreak;&hairsp;&NoBreak;and my karaoke song is <cite class="short-work">[Bust a Move](https://music.apple.com/us/album/bust-a-move/1440915116?i=1440915125&uo=4&at=10ldhk){target=_blank rel="external noopener"}</cite>. I do have legitimate music taste; I’m not all stupid electronic club music; but I love that song, and it’s&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;[*cracking up*] I fuckin’ love it! So, this is our opportunity for the Chloës’ to cover that!
 <mpb-dialog-img>
 
-{% image "./src/assets/images/blog/2013-05-15-nmf6-chloes/czahller-20130427-05-38-40.jpg", "img-constrained", "Brandi Dawson smiles as she plays bass at the Norman Music Festival", "Brandie (III)" %}</mpb-dialog-img>
+{% image "./src/assets/images/blog/2013-05-15-nmf6-chloes/czahller-20130427-05-38-40.jpg", "", "Brandi Dawson smiles as she plays bass at the Norman Music Festival", "Brandie (III)", "large" %}</mpb-dialog-img>
 
 <span class="spkr">Dawson</span> We’re big <span class="h-card p-org">Tool</span> fans; my cat’s name is **Maynard**[^2]. [*laughter*] My favorite Tool song is <cite class="short-work">Ænema.</cite> I don’t know; that song&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;it’s so angry. I love Maynard’s voice. And I’ve been to a Tool concert, and that was, like, the best song ever, because the whole crowd was, like, swirling and jumping. It was crazy.
 
@@ -151,22 +151,39 @@ I just have to put this out there: We just got mentioned in the <cite>[Dallas] O
 
 <mpb-dialog-gallery hint rel cols="8">
 
-  ![My Little Pony](/assets/images/blog/2013-05-15-nmf6-chloes/czahller-20130427-05-07-31.jpg)
-  ![April & Brandie (I)](/assets/images/blog/2013-05-15-nmf6-chloes/czahller-20130427-05-11-25.jpg)
-  ![April & Brandie (II)](/assets/images/blog/2013-05-15-nmf6-chloes/czahller-20130427-05-11-55.jpg)
-  ![Lysandra (I)](/assets/images/blog/2013-05-15-nmf6-chloes/czahller-20130427-05-12-56.jpg)
-  ![April (I) (Sunglasses)](/assets/images/blog/2013-05-15-nmf6-chloes/czahller-20130427-05-13-17.jpg)
-  ![Brandie (I)](/assets/images/blog/2013-05-15-nmf6-chloes/czahller-20130427-05-13-26.jpg)
-  ![Leila (I)](/assets/images/blog/2013-05-15-nmf6-chloes/czahller-20130427-05-13-45.jpg)
-  ![Tiffany (I)](/assets/images/blog/2013-05-15-nmf6-chloes/czahller-20130427-05-14-00.jpg)
-  ![Tiffany (II)](/assets/images/blog/2013-05-15-nmf6-chloes/czahller-20130427-05-14-11.jpg)
-  ![April (II)](/assets/images/blog/2013-05-15-nmf6-chloes/czahller-20130427-05-14-24.jpg)
-  ![Tiffany (III)](/assets/images/blog/2013-05-15-nmf6-chloes/czahller-20130427-05-16-43.jpg)
-  ![Lysandra (II)](/assets/images/blog/2013-05-15-nmf6-chloes/czahller-20130427-05-17-24.jpg)
-  ![April (III)](/assets/images/blog/2013-05-15-nmf6-chloes/czahller-20130427-05-18-48.jpg)
-  ![Leila (II)](/assets/images/blog/2013-05-15-nmf6-chloes/czahller-20130427-05-19-26.jpg)
-  ![The Lamp](/assets/images/blog/2013-05-15-nmf6-chloes/czahller-20130427-05-23-02.jpg)
-  ![Brandie (II)](/assets/images/blog/2013-05-15-nmf6-chloes/czahller-20130427-05-37-57.jpg)
-  ![Brandie (III)](/assets/images/blog/2013-05-15-nmf6-chloes/czahller-20130427-05-38-40.jpg)
-  ![The Chloës](/assets/images/blog/2013-05-15-nmf6-chloes/czahller-20130427-05-38-49.jpg)
+  {% image "./src/assets/images/blog/2013-05-15-nmf6-chloes/czahller-20130427-05-07-31.jpg", "", "A small stuffed horse toy resting on the bass drum", "My Little Pony" %}
+
+  {% image "./src/assets/images/blog/2013-05-15-nmf6-chloes/czahller-20130427-05-11-25.jpg", "", "April & Brandie", "April & Brandie (I)" %}
+
+  {% image "./src/assets/images/blog/2013-05-15-nmf6-chloes/czahller-20130427-05-11-55.jpg", "", "April & Brandie", "April & Brandie (II)" %}
+
+  {% image "./src/assets/images/blog/2013-05-15-nmf6-chloes/czahller-20130427-05-12-56.jpg", "", "Lysandra", "Lysandra (I)" %}
+
+  {% image "./src/assets/images/blog/2013-05-15-nmf6-chloes/czahller-20130427-05-13-17.jpg", "", "April wearing mirrored aviator shades", "April (I) (Sunglasses)" %}
+
+  {% image "./src/assets/images/blog/2013-05-15-nmf6-chloes/czahller-20130427-05-13-26.jpg", "", "Brandie", "Brandie (I)" %}
+
+  {% image "./src/assets/images/blog/2013-05-15-nmf6-chloes/czahller-20130427-05-13-45.jpg", "", "Leila", "Leila (I)" %}
+
+  {% image "./src/assets/images/blog/2013-05-15-nmf6-chloes/czahller-20130427-05-14-00.jpg", "", "Tiffany", "Tiffany (I)" %}
+
+  {% image "./src/assets/images/blog/2013-05-15-nmf6-chloes/czahller-20130427-05-14-11.jpg", "", "Tiffany", "Tiffany (II)" %}
+
+  {% image "./src/assets/images/blog/2013-05-15-nmf6-chloes/czahller-20130427-05-14-24.jpg", "", "April", "April (II)" %}
+
+  {% image "./src/assets/images/blog/2013-05-15-nmf6-chloes/czahller-20130427-05-16-43.jpg", "", "Tiffany", "Tiffany (III)" %}
+
+  {% image "./src/assets/images/blog/2013-05-15-nmf6-chloes/czahller-20130427-05-17-24.jpg", "", "Lysandra", "Lysandra (II)" %}
+
+  {% image "./src/assets/images/blog/2013-05-15-nmf6-chloes/czahller-20130427-05-18-48.jpg", "", "April", "April (III)" %}
+
+  {% image "./src/assets/images/blog/2013-05-15-nmf6-chloes/czahller-20130427-05-19-26.jpg", "", "Leila", "Leila (II)" %}
+
+  {% image "./src/assets/images/blog/2013-05-15-nmf6-chloes/czahller-20130427-05-23-02.jpg", "", "A small, vintage table lamp featuring a rustic moose design on the shade sits near the drumkit", "The Lamp" %}
+
+  {% image "./src/assets/images/blog/2013-05-15-nmf6-chloes/czahller-20130427-05-37-57.jpg", "", "Brandie", "Brandie (II)" %}
+
+  {% image "./src/assets/images/blog/2013-05-15-nmf6-chloes/czahller-20130427-05-38-40.jpg", "", "Brandie", "Brandie (III)" %}
+
+  {% image "featured", "", "The Chloës. April Wenzel, wearing a sequined dress, is center frame in profile looking to the left edge of the image. Her band mates are obscured by shadows and are slightly out of focus. The scene is hazy from the fog machine. Glitter hangs in the air. Photographer Doug Schwarz’s camera protrudes into the left edge of the frame. Chris Sanders is barely visible in the audience.", "The Chloës" %}
 </mpb-dialog-gallery>

@@ -21,7 +21,7 @@ excerpt: Forming in 2007 while its members were in high school, The Myrrors play
 
 <!-- markdownlint-enable MD025 --><mpb-dialog-img>
 
-{% image "featured", "img-constrained", "The Myrrors (II) — The Myrrors at Dope Chapel", "The Myrrors (II) — The Myrrors at Dope Chapel", "eager" %}</mpb-dialog-img>
+{% image "featured", "", "The Myrrors", "The Myrrors (II)", "eager" %}</mpb-dialog-img>
 
 ## Sonoran Trance
 
@@ -39,46 +39,80 @@ Experimental composer and guitarist <span class="h-card p-name">Sam Regan</span>
 
 <mpb-dialog-gallery hint rel cols="8">
   
-  ![Simlarity (Sam Regan) — At Dope Chapel](/assets/images/blog/2020-09-04-myrrors/czahller-20150511-21-41-21.jpg)
-  ![Sam Regan (I) — At Dope Chapel](/assets/images/blog/2020-09-04-myrrors/czahller-20150511-21-41-45.jpg)
-  ![Sam Regan (II) — At Dope Chapel](/assets/images/blog/2020-09-04-myrrors/czahller-20150511-21-41-48.jpg)
-  ![Sam Regan (III) — At Dope Chapel](/assets/images/blog/2020-09-04-myrrors/czahller-20150511-21-42-15.jpg)
-  ![Sam Regan (IV) — At Dope Chapel](/assets/images/blog/2020-09-04-myrrors/czahller-20150511-21-42-31.jpg)
-  ![Sam Regan (V) — At Dope Chapel](/assets/images/blog/2020-09-04-myrrors/czahller-20150511-21-43-14.jpg)
-  ![Sam Regan (VI) — At Dope Chapel](/assets/images/blog/2020-09-04-myrrors/czahller-20150511-21-43-37.jpg)
-  ![Sam Regan (VII) — At Dope Chapel](/assets/images/blog/2020-09-04-myrrors/czahller-20150511-21-44-27.jpg)
-  ![Sam Regan (VIII) — At Dope Chapel](/assets/images/blog/2020-09-04-myrrors/czahller-20150511-21-46-33.jpg)
+   {% image "./src/assets/images/blog/2020-09-04-myrrors/czahller-20150511-21-41-21.jpg", "", "Sam Regan", "Similarity (Sam Regan)" %}
+
+   {% image "./src/assets/images/blog/2020-09-04-myrrors/czahller-20150511-21-41-45.jpg", "", "Sam Regan", "Sam Regan (I)" %}
+
+   {% image "./src/assets/images/blog/2020-09-04-myrrors/czahller-20150511-21-41-48.jpg", "", "Sam Regan", "Sam Regan (II)" %}
+
+   {% image "./src/assets/images/blog/2020-09-04-myrrors/czahller-20150511-21-42-15.jpg", "", "Sam Regan", "Sam Regan (III)" %}
+
+   {% image "./src/assets/images/blog/2020-09-04-myrrors/czahller-20150511-21-42-31.jpg", "", "Sam Regan", "Sam Regan (IV)" %}
+
+   {% image "./src/assets/images/blog/2020-09-04-myrrors/czahller-20150511-21-43-14.jpg", "", "Sam Regan", "Sam Regan (V)" %}
+
+   {% image "./src/assets/images/blog/2020-09-04-myrrors/czahller-20150511-21-43-37.jpg", "", "Sam Regan", "Sam Regan (VI)" %}
+
+   {% image "./src/assets/images/blog/2020-09-04-myrrors/czahller-20150511-21-44-27.jpg", "", "Sam Regan", "Sam Regan (VII)" %}
+
+   {% image "./src/assets/images/blog/2020-09-04-myrrors/czahller-20150511-21-46-33.jpg", "", "Sam Regan", "Sam Regan (VIII)" %}
 </mpb-dialog-gallery>
 
 ## Gallery: The Myrrors
 
 <mpb-dialog-gallery hint rel cols="8">
 
-  ![The Myrrors (I) — The Myrrors at Dope Chapel](/assets/images/blog/2020-09-04-myrrors/czahller-20150511-22-26-17.jpg)
-  ![The Myrrors (II) — The Myrrors at Dope Chapel](/assets/images/blog/2020-09-04-myrrors/czahller-20150511-22-26-33.jpg)
-  ![The Myrrors (III) — The Myrrors at Dope Chapel](/assets/images/blog/2020-09-04-myrrors/czahller-20150511-22-26-46.jpg)
-  ![The Myrrors (IV) — The Myrrors at Dope Chapel](/assets/images/blog/2020-09-04-myrrors/czahller-20150511-22-26-58.jpg)
-  ![Grant Beyschau, Miguel Urbina, Nik Rayne — The Myrrors at Dope Chapel](/assets/images/blog/2020-09-04-myrrors/czahller-20150511-22-27-13.jpg)
-  ![Connor Gallagher (I) — The Myrrors at Dope Chapel](/assets/images/blog/2020-09-04-myrrors/czahller-20150511-22-27-26.jpg)
-  ![Nik Rayne — The Myrrors at Dope Chapel](/assets/images/blog/2020-09-04-myrrors/czahller-20150511-22-27-37.jpg)
-  ![Miguel Urbina (I) — The Myrrors at Dope Chapel](/assets/images/blog/2020-09-04-myrrors/czahller-20150511-22-27-44.jpg)
-  ![Connor Gallagher (II) — The Myrrors at Dope Chapel](/assets/images/blog/2020-09-04-myrrors/czahller-20150511-22-29-53.jpg)
-  ![Connor Gallagher (III) — The Myrrors at Dope Chapel](/assets/images/blog/2020-09-04-myrrors/czahller-20150511-22-29-58.jpg)
-  ![Miguel Urbina (II) — The Myrrors at Dope Chapel](/assets/images/blog/2020-09-04-myrrors/czahller-20150511-22-30-12.jpg)
-  ![Cody Schwartz, Connor Gallagher, & Grant Beyschau (I) — The Myrrors at Dope Chapel](/assets/images/blog/2020-09-04-myrrors/czahller-20150511-22-31-53.jpg)
-  ![Cody Schwartz, Connor Gallagher, & Grant Beyschau (II) — The Myrrors at Dope Chapel](/assets/images/blog/2020-09-04-myrrors/czahller-20150511-22-32-07.jpg)
-  ![Miguel Urbina & Nik Rayne — The Myrrors at Dope Chapel](/assets/images/blog/2020-09-04-myrrors/czahller-20150511-22-32-27.jpg)
-  ![Cody Schwartz — The Myrrors at Dope Chapel](/assets/images/blog/2020-09-04-myrrors/czahller-20150511-22-32-37.jpg)
-  ![Nik Rayne & Miguel Urbina — The Myrrors at Dope Chapel](/assets/images/blog/2020-09-04-myrrors/czahller-20150511-22-33-07.jpg)
-  ![Connor Gallagher & Cody Schwartz — The Myrrors at Dope Chapel](/assets/images/blog/2020-09-04-myrrors/czahller-20150511-22-33-30.jpg)
-  ![Grant Beyschau (I) — The Myrrors at Dope Chapel](/assets/images/blog/2020-09-04-myrrors/czahller-20150511-22-33-48.jpg)
-  ![Connor Gallagher (IV) — The Myrrors at Dope Chapel](/assets/images/blog/2020-09-04-myrrors/czahller-20150511-22-34-19.jpg)
-  ![Miguel Urbina (III) — The Myrrors at Dope Chapel](/assets/images/blog/2020-09-04-myrrors/czahller-20150511-22-35-14.jpg)
-  ![Connor Gallagher, Cody Schwartz, Nik Rayne, & Grant Beyschau (I) — The Myrrors at Dope Chapel](/assets/images/blog/2020-09-04-myrrors/czahller-20150511-22-35-32.jpg)
-  ![Connor Gallagher, Cody Schwartz, Nik Rayne, & Grant Beyschau (II) — The Myrrors at Dope Chapel](/assets/images/blog/2020-09-04-myrrors/czahller-20150511-22-35-42.jpg)
-  ![Nik Rayne & Cody Schwartz — The Myrrors at Dope Chapel](/assets/images/blog/2020-09-04-myrrors/czahller-20150511-22-36-57.jpg)
-  ![Cody Schwartz & Grant Beyschau — The Myrrors at Dope Chapel](/assets/images/blog/2020-09-04-myrrors/czahller-20150511-22-38-03.jpg)
-  ![Audience (I) — The Myrrors at Dope Chapel](/assets/images/blog/2020-09-04-myrrors/czahller-20150511-22-38-37.jpg)
-  ![Grant Beyschau (II) — The Myrrors at Dope Chapel](/assets/images/blog/2020-09-04-myrrors/czahller-20150511-22-40-58.jpg)
-  ![Audience (II) — The Myrrors at Dope Chapel](/assets/images/blog/2020-09-04-myrrors/czahller-20150511-22-45-05.jpg)
+  {% image "./src/assets/images/blog/2020-09-04-myrrors/czahller-20150511-22-26-17.jpg", "", "The Myrrors", "The Myrrors (I)" %}
+
+  {% image "featured", "The Myrrors", "The Myrrors", "The Myrrors (II)" %}
+
+  {% image "./src/assets/images/blog/2020-09-04-myrrors/czahller-20150511-22-26-46.jpg", "", "The Myrrors", "The Myrrors (III)" %}
+
+  {% image "./src/assets/images/blog/2020-09-04-myrrors/czahller-20150511-22-26-58.jpg", "", "The Myrrors", "The Myrrors (IV)" %}
+
+  {% image "./src/assets/images/blog/2020-09-04-myrrors/czahller-20150511-22-27-13.jpg", "", "Grant Beyschau, Miguel Urbina, Nik Rayne", "Grant Beyschau, Miguel Urbina, Nik Rayne" %}
+
+  {% image "./src/assets/images/blog/2020-09-04-myrrors/czahller-20150511-22-27-26.jpg", "", "Connor Gallagher", "Connor Gallagher (I)" %}
+
+  {% image "./src/assets/images/blog/2020-09-04-myrrors/czahller-20150511-22-27-37.jpg", "", "Nik Rayne", "Nik Rayne" %}
+
+  {% image "./src/assets/images/blog/2020-09-04-myrrors/czahller-20150511-22-27-44.jpg", "", "Miguel Urbina", "Miguel Urbina (I)" %}
+
+  {% image "./src/assets/images/blog/2020-09-04-myrrors/czahller-20150511-22-29-53.jpg", "", "Connor Gallagher", "Connor Gallagher (II)" %}
+
+  {% image "./src/assets/images/blog/2020-09-04-myrrors/czahller-20150511-22-29-58.jpg", "", "Connor Gallagher", "Connor Gallagher (III)" %}
+
+  {% image "./src/assets/images/blog/2020-09-04-myrrors/czahller-20150511-22-30-12.jpg", "", "Miguel Urbina", "Miguel Urbina (II)" %}
+
+  {% image "./src/assets/images/blog/2020-09-04-myrrors/czahller-20150511-22-31-53.jpg", "", "Cody Schwartz, Connor Gallagher, & Grant Beyschau", "Cody Schwartz, Connor Gallagher, & Grant Beyschau (I)" %}
+
+  {% image "./src/assets/images/blog/2020-09-04-myrrors/czahller-20150511-22-32-07.jpg", "", "Cody Schwartz, Connor Gallagher, & Grant Beyschau", "Cody Schwartz, Connor Gallagher, & Grant Beyschau (II)" %}
+
+  {% image "./src/assets/images/blog/2020-09-04-myrrors/czahller-20150511-22-32-27.jpg", "", "Miguel Urbina & Nik Rayne", "Miguel Urbina & Nik Rayne" %}
+
+  {% image "./src/assets/images/blog/2020-09-04-myrrors/czahller-20150511-22-32-37.jpg", "", "Cody Schwartz", "Cody Schwartz" %}
+
+  {% image "./src/assets/images/blog/2020-09-04-myrrors/czahller-20150511-22-33-07.jpg", "", "Nik Rayne & Miguel Urbina", "Nik Rayne & Miguel Urbina" %}
+
+  {% image "./src/assets/images/blog/2020-09-04-myrrors/czahller-20150511-22-33-30.jpg", "", "Connor Gallagher & Cody Schwartz", "Connor Gallagher & Cody Schwartz" %}
+
+  {% image "./src/assets/images/blog/2020-09-04-myrrors/czahller-20150511-22-33-48.jpg", "", "Grant Beyschau", "Grant Beyschau (I)" %}
+
+  {% image "./src/assets/images/blog/2020-09-04-myrrors/czahller-20150511-22-34-19.jpg", "", "Connor Gallagher", "Connor Gallagher (IV)" %}
+
+  {% image "./src/assets/images/blog/2020-09-04-myrrors/czahller-20150511-22-35-14.jpg", "", "Miguel Urbina", "Miguel Urbina (III)" %}
+
+  {% image "./src/assets/images/blog/2020-09-04-myrrors/czahller-20150511-22-35-32.jpg", "", "Connor Gallagher, Cody Schwartz, Nik Rayne, & Grant Beyschau", "Connor Gallagher, Cody Schwartz, Nik Rayne, & Grant Beyschau (I)" %}
+
+  {% image "./src/assets/images/blog/2020-09-04-myrrors/czahller-20150511-22-35-42.jpg", "", "Connor Gallagher, Cody Schwartz, Nik Rayne, & Grant Beyschau", "Connor Gallagher, Cody Schwartz, Nik Rayne, & Grant Beyschau (II)" %}
+
+  {% image "./src/assets/images/blog/2020-09-04-myrrors/czahller-20150511-22-36-57.jpg", "", "Nik Rayne & Cody Schwartz", "Nik Rayne & Cody Schwartz" %}
+
+  {% image "./src/assets/images/blog/2020-09-04-myrrors/czahller-20150511-22-38-03.jpg", "", "Cody Schwartz & Grant Beyschau", "Cody Schwartz & Grant Beyschau" %}
+
+  {% image "./src/assets/images/blog/2020-09-04-myrrors/czahller-20150511-22-38-37.jpg", "", "Audience", "Audience (I)" %}
+
+  {% image "./src/assets/images/blog/2020-09-04-myrrors/czahller-20150511-22-40-58.jpg", "", "Grant Beyschau", "Grant Beyschau (II)" %}
+
+  {% image "./src/assets/images/blog/2020-09-04-myrrors/czahller-20150511-22-45-05.jpg", "", "Audience", "Audience (II)" %}
 </mpb-dialog-gallery>

@@ -19,7 +19,7 @@ excerpt: We expended no effort getting David Goad to talk for an over an hour ab
 
 <!-- markdownlint-enable MD025 --><mpb-dialog-img>
 
-{% image "featured", "img-constrained", "David Goad holds a microphone to his mouth with his left hand. His right hand is raised, palm facing him, fingers slightly curled, as if invoking something.", "David (V)", "eager" %}</mpb-dialog-img>
+{% image "featured", "", "David Goad holds a microphone to his mouth with his left hand. His right hand is raised, palm facing him, fingers slightly curled, as if invoking something.", "David (V)", "eager" %}</mpb-dialog-img>
 
 We expended no effort getting <span class="h-card p-org">Kali Ra</span> front man <span class="h-card p-name">David Goad</span> to talk for an over an hour about music, technology, and absinthe when he dropped by a couple of weeks ago before the [concert that wasn’t](/blog/concert-that-was-not/).
 
@@ -31,7 +31,7 @@ The absinthe talk took place while we were mixing [vesper](https://web.archive.o
 
 <mpb-dialog-img>
 
-{% image "./src/assets/images/blog/2012-11-27-kali-ra-pt-1/czahller-20121013-23-14-44.jpg", "img-constrained", "David on the HiLo stage; old surrealist films are projected on the wall behind him.", "David (III)" %}</mpb-dialog-img>
+{% image "./src/assets/images/blog/2012-11-27-kali-ra-pt-1/czahller-20121013-23-14-44.jpg", "", "David on the HiLo stage; old surrealist films are projected on the wall behind him.", "David (III)", "large" %}</mpb-dialog-img>
 
 <span class="spkr">Mercury Photo Bureau</span> You’re touring right now, with a show coming up in St. Louis; how big is the tour?
 
@@ -52,7 +52,7 @@ These are large ambitions; I *have* heard them before; and I’m not really sure
 
 <mpb-dialog-img>
 
-{% image "./src/assets/images/blog/2012-11-27-kali-ra-pt-1/czahller-20121013-23-15-01.jpg", "img-constrained", "David holds the microphone to his face while he sings.", "David (IV)" %}</mpb-dialog-img>
+{% image "./src/assets/images/blog/2012-11-27-kali-ra-pt-1/czahller-20121013-23-15-01.jpg", "", "David holds the microphone to his face while he sings.", "David (IV)", "large" %}</mpb-dialog-img>
 
 <span class="spkr">Goad</span> Alright. You may ask yourself, <q>Do I really need a time share?</q> but here’s my sales pitch. [*laughter*]
 
@@ -96,7 +96,7 @@ Beyond that, in recorded music, listeners are often drawn in by melodic hooks, a
 
 <mpb-dialog-img>
 
-{% image "./src/assets/images/blog/2012-11-27-kali-ra-pt-1/czahller-20121013-23-44-59.jpg", "img-constrained", "David, verys still, eyes closed, hands straight down at his sides, while the band plays around him.", "David (VI)" %}</mpb-dialog-img>
+{% image "./src/assets/images/blog/2012-11-27-kali-ra-pt-1/czahller-20121013-23-44-59.jpg", "", "David, very still, eyes closed, hands straight down at his sides, while the band plays around him.", "David (VI)", "large" %}</mpb-dialog-img>
 
 <span class="spkr">Goad</span> You&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;[*pauses dramatically*]&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;are a baker,&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;[*pauses again*]&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;and you make cakes —
 

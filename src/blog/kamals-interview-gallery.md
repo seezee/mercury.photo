@@ -21,7 +21,7 @@ excerpt: Five-piece fuzz rock outfit the Kamals (minus guitarist/backing vocalis
 
 <!-- markdownlint-enable MD025 --><mpb-dialog-img>
 
-{% image "featured", "img-constrained", "The Kamals performing on the OPOLIS stage. Brad Nance (guitar, vox), Trey Allen (bass), Zachary Kaczka (guitar, vox), and Loren Williams (keys, vox). Not pictured: River Myers (drums).", "The Kamals", "eager" %}</mpb-dialog-img>
+{% image "featured", "", "The Kamals performing on the OPOLIS stage. Brad Nance (guitar, vox), Trey Allen (bass), Zachary Kaczka (guitar, vox), and Loren Williams (keys, vox). Not pictured: River Myers (drums).", "The Kamals", "eager" %}</mpb-dialog-img>
 
 Five-piece fuzz rock outfit the <span class="h-card p-org">Kamals</span> (minus guitarist/backing vocalist <span class="h-card p-name">Brad Nance</span>) dropped by the Bureau in <time datetime="2013-01-20">January</time>, following their [rescheduled](/blog/concert-that-was-not/) appearance at Opolis in Norman. Described as a blend of hard rock, stoner rock, heavy psych, fuzz rock, and psychedelic rock styles,[^1] with the occasional foray into boogie rock and acoustic country-blues, the band’s sound is not of this era.
 
@@ -37,7 +37,7 @@ Bespectacled and sporting a neatly trimmed goatee and short dreadlocks, guitaris
 
 <mpb-dialog-img>
 
-{% image "./src/assets/images/blog/2013-02-11-kamals/czahller-20130120-17-52-25.jpg", "img-constrained", "Loren, Zac, Trey, and River seated on the Mercury Photo Bureau sofa. River’s girlfriend, Madi, is seated on the right sofa arm.", "The Kamals (I)" %}</mpb-dialog-img>
+{% image "./src/assets/images/blog/2013-02-11-kamals/czahller-20130120-17-52-25.jpg", "", "Loren, Zac, Trey, and River seated on the Mercury Photo Bureau sofa. River’s girlfriend, Madi, is seated on the right sofa arm.", "The Kamals (I)", "large" %}</mpb-dialog-img>
 
 <span class="spkr">Mercury Photo Bureau</span> Tell me about the band’s name.
 
@@ -57,7 +57,7 @@ Bespectacled and sporting a neatly trimmed goatee and short dreadlocks, guitaris
 
 <mpb-dialog-img>
 
-{% image "./src/assets/images/blog/2013-02-11-kamals/czahller-20130112-23-19-02.jpg", "img-constrained", "Zac sings & plays guitar at OPOLIS", "Zac (VI)" %}</mpb-dialog-img>
+{% image "./src/assets/images/blog/2013-02-11-kamals/czahller-20130112-23-19-02.jpg", "", "Zac sings & plays guitar at OPOLIS", "Zac (VI)", "large" %}</mpb-dialog-img>
 
 <span class="spkr">Zak Kaczka</span> I’m Zak; I play guitar, and I’m twenty-two.
 
@@ -105,7 +105,7 @@ Bespectacled and sporting a neatly trimmed goatee and short dreadlocks, guitaris
 
 <mpb-dialog-img>
 
-{% image "./src/assets/images/blog/2013-02-11-kamals/czahller-20130112-23-11-52.jpg", "img-constrained", "River plays the drums at OPOLIS", "River (II)" %}</mpb-dialog-img>
+{% image "./src/assets/images/blog/2013-02-11-kamals/czahller-20130112-23-11-52.jpg", "", "River plays the drums at OPOLIS", "River (II)", "large" %}</mpb-dialog-img>
 
 <span class="spkr">Myers</span> I was twelve or thirteen, and right after I’d get out of school, they had all this musical equipment at the barn, so I’d go play Loren’s drums after school.
 
@@ -129,7 +129,7 @@ Bespectacled and sporting a neatly trimmed goatee and short dreadlocks, guitaris
 
 <mpb-dialog-img>
 
-{% image "./src/assets/images/blog/2013-02-11-kamals/czahller-20130112-22-59-12.jpg", "img-constrained", "Loren, behind the keyboard, gazes stage right", "Loren (I)" %}</mpb-dialog-img>
+{% image "./src/assets/images/blog/2013-02-11-kamals/czahller-20130112-22-59-12.jpg", "", "Loren, behind the keyboard, gazes stage right", "Loren (I)", "large" %}</mpb-dialog-img>
 
 <span class="spkr">Williams</span> Drums. They’re really primal; you don’t need no music theory, although it helps as far as rhythmic patterns. You learn your eight beats, sixteen beats, stuff like that. It’s very easy to pick up and it’s a full body expression.
 
@@ -206,7 +206,7 @@ It’s kind of like electric guitar, a little bit, you know, you can distort the
 
 <mpb-dialog-img>
 
-{% image "./src/assets/images/blog/2013-02-11-kamals/czahller-20130120-17-52-46.jpg", "img-constrained", "Loren, Zac, Trey, and River seated on the Mercury Photo Bureau sofa. River’s girlfriend, Madi, is seated on the right sofa arm. Zac sticks his tongue out.", "The Kamals (II)" %}</mpb-dialog-img>
+{% image "./src/assets/images/blog/2013-02-11-kamals/czahller-20130120-17-52-46.jpg", "", "Loren, Zac, Trey, and River seated on the Mercury Photo Bureau sofa. River’s girlfriend, Madi, is seated on the right sofa arm. Zac sticks his tongue out.", "The Kamals (II)", "large" %}</mpb-dialog-img>
 
 <span class="spkr">MPB</span> What about the musical composition?
 
@@ -272,7 +272,7 @@ Say, you’ve got two sections of a song that don’t fit together at all, there
 
 <mpb-dialog-img>
 
-{% image "./src/assets/images/blog/2013-02-11-kamals/czahller-20130112-23-10-46.jpg", "img-constrained", "Trey plays bass. He wears a red bandana around his head. River is visible but out-of-focus to his right.", "Trey (II)" %}</mpb-dialog-img>
+{% image "./src/assets/images/blog/2013-02-11-kamals/czahller-20130112-23-10-46.jpg", "", "Trey plays bass. He wears a red bandana around his head. River is visible but out-of-focus to his right.", "Trey (II)", "large" %}</mpb-dialog-img>
 
 <span class="spkr">Allen</span> We’d love too. [But,] we’re all really blue collar&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;we all work together, actually, at the same warehouse, so it’s kind of hard for us to just […] take off like that. We’re really gonna need some rocket fuel to get there. […] We’ve all worked for everything we have.
 
@@ -292,7 +292,7 @@ Say, you’ve got two sections of a song that don’t fit together at all, there
 
 <mpb-dialog-img>
 
-{% image "./src/assets/images/blog/2013-02-11-kamals/czahller-20130112-23-41-03.jpg", "img-constrained", "Brad tuning his guitar. He is bald with a full beard and wears an American flag button shirt.", "Brad (II)" %}</mpb-dialog-img>
+{% image "./src/assets/images/blog/2013-02-11-kamals/czahller-20130112-23-41-03.jpg", "", "Brad tuning his guitar. He is bald with a full beard and wears an American flag button shirt.", "Brad (II)", "large" %}</mpb-dialog-img>
 
 <span class="spkr">MPB</span> Since Brad couldn’t make the interview, could you tell me about him?
 
@@ -310,40 +310,69 @@ Say, you’ve got two sections of a song that don’t fit together at all, there
 
 <mpb-dialog-img>
 
-{% image "./src/assets/images/blog/2013-02-11-kamals/czahller-20130120-17-52-57.jpg", "img-constrained", "Loren, Zac, Trey, and River seated on the Mercury Photo Bureau sofa. River’s girlfriend, Madi, is seated on the right sofa arm, leaning her head on top of his. Loren & Zac attempt to put “bunny ears“ behind one another’s head.", "The Kamals (III)" %}</mpb-dialog-img>
+{% image "./src/assets/images/blog/2013-02-11-kamals/czahller-20130120-17-52-57.jpg", "", "Loren, Zac, Trey, and River seated on the Mercury Photo Bureau sofa. River’s girlfriend, Madi, is seated on the right sofa arm, leaning her head on top of his. Loren & Zac attempt to put “bunny ears“ behind one another’s head.", "The Kamals (III)", "large" %}</mpb-dialog-img>
 
 ## Gallery: The Kamals
 
 <mpb-dialog-gallery hint rel cols="8">
 
-  ![Fender Rhodes Electric Piano](/assets/images/blog/2013-02-11-kamals/czahller-20130112-22-58-42.jpg)
-  ![Loren (I)](/assets/images/blog/2013-02-11-kamals/czahller-20130112-22-59-12.jpg)
-  ![Zac (I)](/assets/images/blog/2013-02-11-kamals/czahller-20130112-23-01-52.jpg)
-  ![Zac (II)](/assets/images/blog/2013-02-11-kamals/czahller-20130112-23-02-03.jpg)
-  ![Zac (III)](/assets/images/blog/2013-02-11-kamals/czahller-20130112-23-02-36.jpg)
-  ![Trey (I)](/assets/images/blog/2013-02-11-kamals/czahller-20130112-23-03-01.jpg)
-  ![Zac (IV)](/assets/images/blog/2013-02-11-kamals/czahller-20130112-23-04-13.jpg)
-  ![The Kamals](/assets/images/blog/2013-02-11-kamals/czahller-20130112-23-06-06.jpg)
-  ![Trey (II)](/assets/images/blog/2013-02-11-kamals/czahller-20130112-23-10-46.jpg)
-  ![River (I)](/assets/images/blog/2013-02-11-kamals/czahller-20130112-23-10-56.jpg)
-  ![Trey (III)](/assets/images/blog/2013-02-11-kamals/czahller-20130112-23-11-11.jpg)
-  ![River (II)](/assets/images/blog/2013-02-11-kamals/czahller-20130112-23-11-52.jpg)
-  ![Loren (II)](/assets/images/blog/2013-02-11-kamals/czahller-20130112-23-13-35.jpg)
-  ![Zac (V)](/assets/images/blog/2013-02-11-kamals/czahller-20130112-23-14-03.jpg)
-  ![River (III)](/assets/images/blog/2013-02-11-kamals/czahller-20130112-23-14-16.jpg)
-  ![River (III)](/assets/images/blog/2013-02-11-kamals/czahller-20130112-23-16-05.jpg)
-  ![River (IV)](/assets/images/blog/2013-02-11-kamals/czahller-20130112-23-16-15.jpg)
-  ![River (V)](/assets/images/blog/2013-02-11-kamals/czahller-20130112-23-16-32.jpg)
-  ![Zac (VI)](/assets/images/blog/2013-02-11-kamals/czahller-20130112-23-19-02.jpg)
-  ![Zac (VII)](/assets/images/blog/2013-02-11-kamals/czahller-20130112-23-29-37.jpg)
-  ![Zac (Feedback)](/assets/images/blog/2013-02-11-kamals/czahller-20130112-23-33-23.jpg)
-  ![Zac (VIII)](/assets/images/blog/2013-02-11-kamals/czahller-20130112-23-34-06.jpg)
-  ![Loren’s Left Hand (Fend er Rhodes)](/assets/images/blog/2013-02-11-kamals/czahller-20130112-23-36-08.jpg)
-  ![Loren (IV)](/assets/images/blog/2013-02-11-kamals/czahller-20130112-23-36-28.jpg)
-  ![Zac (IX) (Soul Man)](/assets/images/blog/2013-02-11-kamals/czahller-20130112-23-38-04.jpg)
-  ![Rockin’ Out (I)](/assets/images/blog/2013-02-11-kamals/czahller-20130112-23-38-48.jpg)
-  ![Rockin’ Out (II)](/assets/images/blog/2013-02-11-kamals/czahller-20130112-23-38-54.jpg)
-  ![Brad (I)](/assets/images/blog/2013-02-11-kamals/czahller-20130112-23-40-54.jpg)
-  ![Brad (II)](/assets/images/blog/2013-02-11-kamals/czahller-20130112-23-41-03.jpg)
-  ![Zac (X)](/assets/images/blog/2013-02-11-kamals/czahller-20130112-23-44-09.jpg)
+   {% image "./src/assets/images/blog/2013-02-11-kamals/czahller-20130112-22-58-42.jpg", "", "A Fender Rhodes electric piano. The top is missing, so the internal mechanisms are visible.", "Fender Rhodes Electric Piano" %}
+
+   {% image "./src/assets/images/blog/2013-02-11-kamals/czahller-20130112-22-59-12.jpg", "", "Loren", "Loren (I)" %}
+
+   {% image "./src/assets/images/blog/2013-02-11-kamals/czahller-20130112-23-01-52.jpg", "", "Zac", "Zac (I)" %}
+
+   {% image "./src/assets/images/blog/2013-02-11-kamals/czahller-20130112-23-02-03.jpg", "", "Zac", "Zac (II)" %}
+
+   {% image "./src/assets/images/blog/2013-02-11-kamals/czahller-20130112-23-02-36.jpg", "", "Zac", "Zac (III)" %}
+
+   {% image "./src/assets/images/blog/2013-02-11-kamals/czahller-20130112-23-03-01.jpg", "", "Trey", "Trey (I)" %}
+
+   {% image "./src/assets/images/blog/2013-02-11-kamals/czahller-20130112-23-04-13.jpg", "", "Zac", "Zac (IV)" %}
+
+   {% image "featured", "", "The Kamals performing on the OPOLIS stage. Brad Nance (guitar, vox), Trey Allen (bass), Zachary Kaczka (guitar, vox), and Loren Williams (keys, vox). Not pictured: River Myers (drums).", "The Kamals" %}
+
+   {% image "./src/assets/images/blog/2013-02-11-kamals/czahller-20130112-23-10-46.jpg", "", "Trey", "Trey (II)" %}
+
+   {% image "./src/assets/images/blog/2013-02-11-kamals/czahller-20130112-23-10-56.jpg", "", "River", "River (I)" %}
+
+   {% image "./src/assets/images/blog/2013-02-11-kamals/czahller-20130112-23-11-11.jpg", "", "Trey", "Trey (III)" %}
+
+   {% image "./src/assets/images/blog/2013-02-11-kamals/czahller-20130112-23-11-52.jpg", "", "River", "River (II)" %}
+
+   {% image "./src/assets/images/blog/2013-02-11-kamals/czahller-20130112-23-13-35.jpg", "", "Loren", "Loren (II)" %}
+
+   {% image "./src/assets/images/blog/2013-02-11-kamals/czahller-20130112-23-14-03.jpg", "", "Zac", "Zac (V)" %}
+
+   {% image "./src/assets/images/blog/2013-02-11-kamals/czahller-20130112-23-14-16.jpg", "", "River", "River (III)" %}
+
+   {% image "./src/assets/images/blog/2013-02-11-kamals/czahller-20130112-23-16-05.jpg", "", "River", "River (III)" %}
+
+   {% image "./src/assets/images/blog/2013-02-11-kamals/czahller-20130112-23-16-15.jpg", "", "River", "River (IV)" %}
+
+   {% image "./src/assets/images/blog/2013-02-11-kamals/czahller-20130112-23-16-32.jpg", "", "River", "River (V)" %}
+
+   {% image "./src/assets/images/blog/2013-02-11-kamals/czahller-20130112-23-19-02.jpg", "", "Zac", "Zac (VI)" %}
+
+   {% image "./src/assets/images/blog/2013-02-11-kamals/czahller-20130112-23-29-37.jpg", "", "Zac", "Zac (VII)" %}
+
+   {% image "./src/assets/images/blog/2013-02-11-kamals/czahller-20130112-23-33-23.jpg", "", "Zac kneels in front of his guitar amp to create feedback", "Zac (Feedback)" %}
+
+   {% image "./src/assets/images/blog/2013-02-11-kamals/czahller-20130112-23-34-06.jpg", "", "Zac", "Zac (VIII)" %}
+
+   {% image "./src/assets/images/blog/2013-02-11-kamals/czahller-20130112-23-36-08.jpg", "", "Loren’s Left Hand on the Fender Rhodes", "Loren’s Left Hand (Fender Rhodes)" %}
+
+   {% image "./src/assets/images/blog/2013-02-11-kamals/czahller-20130112-23-36-28.jpg", "", "Loren", "Loren (IV)" %}
+
+   {% image "./src/assets/images/blog/2013-02-11-kamals/czahller-20130112-23-38-04.jpg", "", "Zac", "Zac (IX) (Soul Man)" %}
+
+   {% image "./src/assets/images/blog/2013-02-11-kamals/czahller-20130112-23-38-48.jpg", "", "The band rockin’ out", "Rockin’ Out (I)" %}
+
+   {% image "./src/assets/images/blog/2013-02-11-kamals/czahller-20130112-23-38-54.jpg", "", "The band rockin’ out", "Rockin’ Out (II)" %}
+
+   {% image "./src/assets/images/blog/2013-02-11-kamals/czahller-20130112-23-40-54.jpg", "", "Brad", "Brad (I)" %}
+
+   {% image "./src/assets/images/blog/2013-02-11-kamals/czahller-20130112-23-41-03.jpg", "", "Brad", "Brad (II)" %}
+
+   {% image "./src/assets/images/blog/2013-02-11-kamals/czahller-20130112-23-44-09.jpg", "", "Zac", "Zac (X)" %}
 </mpb-dialog-gallery>

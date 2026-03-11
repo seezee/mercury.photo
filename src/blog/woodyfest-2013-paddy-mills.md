@@ -30,7 +30,7 @@ New England folk singer wins contest
   </stack-l>
 </hgroup><mpb-dialog-img>
 
-{% image "featured", "img-constrained", "Paddy Mills, seen from upstage on the New Dominion Stage. His back is to the camera and he faces the audience. He holds an acoustic guitar. His weight is on his left foot.", "Paddy Mills (IX)", "eager" %}</mpb-dialog-img>
+{% image "featured", "", "Paddy Mills, seen from upstage on the New Dominion Stage. His back is to the camera and he faces the audience. He holds an acoustic guitar. His weight is on his left foot.", "Paddy Mills (IX)", "eager" %}</mpb-dialog-img>
 
 <blockquote cite="https://www.sonicbids.com/2/EPK/?epk_id=33722">
 
@@ -54,16 +54,27 @@ In addition to his own material, Mills’ repertoire includes Irish, North Ameri
 
 <mpb-dialog-gallery hint rel cols="8">
 
-  ![Paddy Mills (I)](/assets/images/blog/2013-10-21-woodyfest-paddy-mills/czahller-20130711-19-11-28.jpg)
-  ![Paddy Mills (II)](/assets/images/blog/2013-10-21-woodyfest-paddy-mills/czahller-20130711-19-11-35.jpg)
-  ![Paddy Mills (III)](/assets/images/blog/2013-10-21-woodyfest-paddy-mills/czahller-20130711-19-12-22.jpg)
-  ![Paddy Mills (IV)](/assets/images/blog/2013-10-21-woodyfest-paddy-mills/czahller-20130711-19-12-51.jpg)
-  ![Paddy Mills (V)](/assets/images/blog/2013-10-21-woodyfest-paddy-mills/czahller-20130711-19-13-06.jpg)
-  ![Paddy Mills (VI)](/assets/images/blog/2013-10-21-woodyfest-paddy-mills/czahller-20130711-19-13-57.jpg)
-  ![Paddy Mills (VII)](/assets/images/blog/2013-10-21-woodyfest-paddy-mills/czahller-20130711-19-15-04.jpg)
-  ![Paddy Mills (VIII)](/assets/images/blog/2013-10-21-woodyfest-paddy-mills/czahller-20130711-19-15-04.jpg)
-  ![Paddy Mills (IX)](/assets/images/blog/2013-10-21-woodyfest-paddy-mills/czahller-20130711-19-15-34.jpg)
-  ![Paddy Mills (X)](/assets/images/blog/2013-10-21-woodyfest-paddy-mills/czahller-20130711-19-19-33.jpg)
-  ![Paddy Mills (XI)](/assets/images/blog/2013-10-21-woodyfest-paddy-mills/czahller-20130711-19-20-24.jpg)
-  ![Backstage with Paddy Mills](/assets/images/blog/2013-10-21-woodyfest-paddy-mills/czahller-20130711-19-23-11.jpg)
+  {% image "./src/assets/images/blog/2013-10-21-woodyfest-paddy-mills/czahller-20130711-19-11-28.jpg", "", "Paddy Mills", "Paddy Mills (I)" %}
+
+  {% image "./src/assets/images/blog/2013-10-21-woodyfest-paddy-mills/czahller-20130711-19-11-35.jpg", "", "Paddy Mills", "Paddy Mills (II)" %}
+
+  {% image "./src/assets/images/blog/2013-10-21-woodyfest-paddy-mills/czahller-20130711-19-12-22.jpg", "", "Paddy Mills", "Paddy Mills (III)" %}
+
+  {% image "./src/assets/images/blog/2013-10-21-woodyfest-paddy-mills/czahller-20130711-19-12-51.jpg", "", "Paddy Mills", "Paddy Mills (IV)" %}
+
+  {% image "./src/assets/images/blog/2013-10-21-woodyfest-paddy-mills/czahller-20130711-19-13-06.jpg", "", "Paddy Mills", "Paddy Mills (V)" %}
+
+  {% image "./src/assets/images/blog/2013-10-21-woodyfest-paddy-mills/czahller-20130711-19-13-57.jpg", "", "Paddy Mills", "Paddy Mills (VI)" %}
+
+  {% image "./src/assets/images/blog/2013-10-21-woodyfest-paddy-mills/czahller-20130711-19-15-04.jpg", "", "Paddy Mills", "Paddy Mills (VII)" %}
+
+  {% image "./src/assets/images/blog/2013-10-21-woodyfest-paddy-mills/czahller-20130711-19-15-04.jpg", "", "Paddy Mills", "Paddy Mills (VIII)" %}
+
+  {% image "featured", "", "Paddy Mills, seen from upstage on the New Dominion Stage. His back is to the camera and he faces the audience. He holds an acoustic guitar. His weight is on his left foot.", "Paddy Mills (IX)" %}
+
+  {% image "./src/assets/images/blog/2013-10-21-woodyfest-paddy-mills/czahller-20130711-19-19-33.jpg", "", "Paddy Mills", "Paddy Mills (X)" %}
+
+  {% image "./src/assets/images/blog/2013-10-21-woodyfest-paddy-mills/czahller-20130711-19-20-24.jpg", "", "Paddy Mills", "Paddy Mills (XI)" %}
+
+  {% image "./src/assets/images/blog/2013-10-21-woodyfest-paddy-mills/czahller-20130711-19-23-11.jpg", "", "Backstage with Paddy Mills", "Backstage with Paddy Mills" %}
 </mpb-dialog-gallery>

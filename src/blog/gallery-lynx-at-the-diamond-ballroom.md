@@ -22,7 +22,7 @@ excerpt: As part of our cleanup of our Flickr account, we present these photos o
 <!-- markdownlint-enable MD025 -->
 <mpb-dialog-img>
 
-{% image "featured", "img-constrained", "Lynx (III), Beats Antique “Animal Mechanique Tour”", "Lynx (III), Beats Antique “Animal Mechanique Tour”", "eager" %}</mpb-dialog-img>
+{% image "featured", "", "Lynx (III)", "Lynx (III)", "eager" %}</mpb-dialog-img>
 
 As part of our cleanup of our Flickr account,[^1] we present these photos of <span class="h-card p-name p-nickname">LYNX</span> we took at the Diamond Ballroom in <time datetime="2012-09-12">2012</time>. LYNX opened for [Beats Antique](/blog/beats-antique-skeleton-key-gallery/)"> during their Animal Mechanique tour.
 
@@ -34,13 +34,21 @@ According to [their bio](https://www.lynxdemuth.com/){target="_blank" rel="exter
 
 <mpb-dialog-gallery hint rel cols="8">
 
-  ![Lynx (I), Beats Antique “Animal Mechanique Tour”](/assets/images/blog/2019-03-20-lynx/czahller-20120912-21-02-19.jpg)
-  ![Lynx (II), Beats Antique “Animal Mechanique Tour”](/assets/images/blog/2019-03-20-lynx/czahller-20120912-21-05-50.jpg)
-  ![Lynx (III), Beats Antique “Animal Mechanique Tour”](/assets/images/blog/2019-03-20-lynx/czahller-20120912-21-06-40.jpg)
-  ![Lynx (IV), Beats Antique “Animal Mechanique Tour”](/assets/images/blog/2019-03-20-lynx/czahller-20120912-21-13-37.jpg)
-  ![Lynx (V), Beats Antique “Animal Mechanique Tour”](/assets/images/blog/2019-03-20-lynx/czahller-20120912-21-14-39-2.jpg)
-  ![Lynx (VI), Beats Antique “Animal Mechanique Tour”](/assets/images/blog/2019-03-20-lynx/czahller-20120912-21-14-39.jpg)
-  ![Lynx (VII), Beats Antique “Animal Mechanique Tour”](/assets/images/blog/2019-03-20-lynx/czahller-20120912-21-16-48.jpg)
-  ![Lynx (VIII), Beats Antique “Animal Mechanique Tour”](/assets/images/blog/2019-03-20-lynx/czahller-20120912-21-18-38.jpg)
-  ![Lynx (IX), Beats Antique “Animal Mechanique Tour”](/assets/images/blog/2019-03-20-lynx/czahller-20120912-21-19-58.jpg)
+  {% image "./src/assets/images/blog/2019-03-20-lynx/czahller-20120912-21-02-19.jpg", "", "Lynx", "Lynx (I)" %}
+
+  {% image "./src/assets/images/blog/2019-03-20-lynx/czahller-20120912-21-05-50.jpg", "", "Lynx", "Lynx (II)" %}
+
+  {% image "featured", "", "Lynx", "Lynx (III)" %}
+
+  {% image "./src/assets/images/blog/2019-03-20-lynx/czahller-20120912-21-13-37.jpg", "", "Lynx", "Lynx (IV)" %}
+
+  {% image "./src/assets/images/blog/2019-03-20-lynx/czahller-20120912-21-14-39-2.jpg", "", "Lynx", "Lynx (V)" %}
+
+  {% image "./src/assets/images/blog/2019-03-20-lynx/czahller-20120912-21-14-39.jpg", "", "Lynx", "Lynx (VI)" %}
+
+  {% image "./src/assets/images/blog/2019-03-20-lynx/czahller-20120912-21-16-48.jpg", "", "Lynx", "Lynx (VII)" %}
+
+  {% image "./src/assets/images/blog/2019-03-20-lynx/czahller-20120912-21-18-38.jpg", "", "Lynx", "Lynx (VIII)" %}
+
+  {% image "./src/assets/images/blog/2019-03-20-lynx/czahller-20120912-21-19-58.jpg", "", "Lynx", "Lynx (IX)" %}
 </mpb-dialog-gallery>

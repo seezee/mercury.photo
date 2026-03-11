@@ -74,7 +74,7 @@ review: '<script type="application/ld+json">
 <p>Terrific taco; stellar service</p></stack-l></hgroup>
 <!-- markdownlint-enable MD025 --><mpb-dialog-img>
 
-{% image "featured", "img-constrained", "Maria Ruiz displays a blender pitcher of freshly made salsa verde.", "Salsa Picante (Verde) at Taqueria Ruiz", "eager" %}</mpb-dialog-img>
+{% image "featured", "", "Maria Ruiz displays a blender pitcher of freshly made salsa verde.", "Salsa Picante (Verde) at Taqueria Ruiz", "eager" %}</mpb-dialog-img>
 
 Location
 : 401 South Porter Avenue, Norman, Oklahoma
@@ -114,6 +114,6 @@ When I told proprietress <span class="h-card p-name">Mariía Ruiz</span> that I�
 
 <mpb-dialog-img>
 
-{% image "./src/assets/images/blog/2013-09-27-taqueria-san-tadeo/czahller-20150213-18-57-42.jpg", "img-constrained", "Taqueria San Tadeo Sign", "Taqueria San Tadeo Sign" %}</mpb-dialog-img>
+{% image "./src/assets/images/blog/2013-09-27-taqueria-san-tadeo/czahller-20150213-18-57-42.jpg", "", "Taqueria San Tadeo Sign", "Taqueria San Tadeo Sign", "large" %}</mpb-dialog-img>
 
 The restaurant doesn’t currently serve alcohol<del>, but they are associated with <span class="foreign" lang="es">Los Dos Amigos</span> (which has a beverage license), so that may change</del>. Besides the great service, the food was delicious and inexpensive, and the location is conveniently close by for East Norman residents. Highly recommended.

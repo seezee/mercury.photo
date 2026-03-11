@@ -19,7 +19,7 @@ excerpt: Cleveland County voters may cast their ballots before Tuesday at the Cl
 
 <!-- markdownlint-enable MD025 --><mpb-dialog-img>
 
-{% image "featured", "img-constrained", "Election official (Sue), a middle-aged blond woman, seated & smiling, wearing a cardigan and eyeglasses", "Sue", "eager" %}</mpb-dialog-img>
+{% image "featured", "", "Election official (Sue), a middle-aged blond woman, seated & smiling, wearing a cardigan and eyeglasses", "Sue", "eager" %}</mpb-dialog-img>
 
 [NORMAN, Okla., 30 Oct. 2014]&NoBreak;&hairsp;&NoBreak;&mdash;{.no-drop-cap}
 
@@ -27,10 +27,10 @@ Cleveland County voters may cast their ballots before Tuesday at the Cleveland C
 
 <mpb-dialog-img>
 
-{% image "./src/assets/images/blog/2014-10-30-midterm-early-voting/czahller-20141030-10-35-26.jpg", "img-constrained", "Election official (Colleen), an mature brunette, standing & smiling, wearing a plaid blouse", "Colleen" %}</mpb-dialog-img>
+{% image "./src/assets/images/blog/2014-10-30-midterm-early-voting/czahller-20141030-10-35-26.jpg", "", "Election official (Colleen), an mature brunette, standing & smiling, wearing a plaid blouse", "Colleen", "large" %}</mpb-dialog-img>
 
 In addition to the state offices up for grabs, three proposed [constitutional changes](https://www.clevelandcountyelectionboard.com/news/sample-ballots-available-2014-general-election){target=_blank rel="external noopener"} appear on the ballot</a>&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;be sure to fill out *both* sides!
 
 <mpb-dialog-img>
 
-{% image "./src/assets/images/blog/2014-10-30-midterm-early-voting/czahller-20141030-10-38-53.jpg", "img-constrained", "Election official (Tabetha), a young brunette, seated & smiling", "Tabetha" %}</mpb-dialog-img>
+{% image "./src/assets/images/blog/2014-10-30-midterm-early-voting/czahller-20141030-10-38-53.jpg", "", "Election official (Tabetha), a young brunette, seated & smiling", "Tabetha", "large" %}</mpb-dialog-img>

@@ -19,11 +19,12 @@ excerpt: Comprising an ever-changing lineup of local musicians, Venditos have be
 
 <!-- markdownlint-enable MD025 --><mpb-dialog-img>
 
-{% image "featured", "img-constrained", "Chris Sanders & Gabe Barham seated on the sofa at Mercury Photo Bureau. Chris holds a v-shaped cocktail glass in his right hand.", "Chris & Gabe", "eager" %}</mpb-dialog-img>
+{% image "featured", "", "Chris Sanders & Gabe Barham seated on the sofa at Mercury Photo Bureau. Chris holds a v-shaped cocktail glass in his right hand.", "Chris & Gabe", "eager" %}</mpb-dialog-img>
 
 <mpb-callout type="notice">
 
   This interview features **strong language** and discussions of **intoxication** and **human sexuality**. If you are not comfortable with these topics, consider skipping to the [gallery](#gallery-venditos). Or you could [look at some kittens](https://www.google.com/search?q=kittens&hl=en&tbo=u&tbm=isch&source=univ&sa=X&ei=JbQaUeLwO-io2wX_6YHwAg&ved=0CHIQsAQ&biw=1280&bih=653){target=_blank rel="external noopener"}.
+
 </mpb-callout>
 
 Comprising an ever-changing lineup of local musicians (including more drummers than <span class="h-card p-org">Spinal Tap</span>), <span class="h-card p-org">Venditos</span> have been rockin’ Oklahoma City for nearly a decade. Their sound is hard, heavy, and fast; their lyrics tend toward the funny and profane. Frontman and founder <span class="h-card p-name">Chris Sanders</span> and bassist <span class="h-card p-name"><span class="p-given-name">Gabriel</span> <span class="p-nickname">“Gabe”</span> <span class="p-family-name">Barham</span></span> graciously granted the Bureau an interview in <time datetime="2013-02-07">early February</time>.{.drop-cap}
@@ -46,7 +47,7 @@ During a break from the interview, Sanders and Barham told us how the band name 
 
 <mpb-dialog-img>
 
-{% image "./src/assets/images/blog/2013-02-18-venditos/czahller-20121202-00-21-26.jpg", "img-constrained", "Chris Sanders jams with drummer Austin Barham", "Chris Jams with Austin (I)" %}</mpb-dialog-img>
+{% image "./src/assets/images/blog/2013-02-18-venditos/czahller-20121202-00-21-26.jpg", "", "Chris Sanders jams with drummer Austin Barham", "Chris Jams with Austin (I)", "large" %}</mpb-dialog-img>
 
 <span class="spkr">MPB</span> Are you looking for a permanent drummer?
 
@@ -84,7 +85,7 @@ And, he really seems mad that I claim I’m from Apache, Oklahoma.[^2] I was act
 
 <mpb-dialog-img>
 
-{% image "./src/assets/images/blog/2013-02-18-venditos/czahller-20121202-00-07-55.jpg", "img-constrained", "Richie Zenner plays bass & sings", "Richie (II)" %}</mpb-dialog-img>
+{% image "./src/assets/images/blog/2013-02-18-venditos/czahller-20121202-00-07-55.jpg", "", "Richie Zenner plays bass & sings", "Richie (II)", "large" %}</mpb-dialog-img>
 
 <span class="spkr">MPB</span> When did you graduate?
 
@@ -154,9 +155,7 @@ I went and played with [Venditos] out of town; I think we played in Kansas for a
 
 I’m also the backup drummer for the <span class="h-card p-org">Chloës</span>. They have a drummer&NoBreak;&hairsp;&NoBreak;&mdash;
 
-<span class="spkr">MPB</span> They have a *hot* drummer![^6]
-
-[^6]: Read an interview and see pix of all of the Chloës, including hot drummer Leila Wright, in our three-part [profile](/blog/chloes-interview-gallery-1/).
+<span class="spkr">MPB</span> They have a *hot* drummer^6]
 
 <span class="spkr">Sanders</span> Yeah; people are disappointed when I show up.
 
@@ -164,7 +163,7 @@ I’m also the backup drummer for the <span class="h-card p-org">Chloës</span>.
 
 <mpb-dialog-img>
 
-{% image "./src/assets/images/blog/2013-02-18-venditos/czahller-20121202-00-26-04.jpg", "img-constrained", "Chris plays a guitar solo", "Chris (VII)" %}</mpb-dialog-img>
+{% image "./src/assets/images/blog/2013-02-18-venditos/czahller-20121202-00-26-04.jpg", "", "Chris plays a guitar solo", "Chris (VII)", "large" %}</mpb-dialog-img>
 
 <span class="spkr">MPB</span> Gabe, what other bands are you in?
 
@@ -196,7 +195,7 @@ Nathan Steinman was one of the original [members], and he stuck with it for a lo
 
 <mpb-dialog-img>
 
-{% image "./src/assets/images/blog/2013-02-18-venditos/czahller-20121202-00-02-22.jpg", "img-constrained", "Gabe playing bass", "Gabe (III)" %}</mpb-dialog-img>
+{% image "./src/assets/images/blog/2013-02-18-venditos/czahller-20121202-00-02-22.jpg", "", "Gabe playing bass", "Gabe (III)", "large" %}</mpb-dialog-img>
 
 I did drink a little bit at the party; [then] I went to the bus and slept for about two hours [and] drove the bus through the French Quarter to get to […] where we were staying […]. The drummer, Rob White at the time, saw [us arrive and] me open the bus door; I had barely got the parking brake on when he grabs me, throws me out of the seat, and throws me […] on the ground. And he’s wasted […] on whiskey, and he’s like <q>You’re not leaving me in New Orleans,</q> and I’m like, <q>Dude, I’m just going to the house, where all our stuff is at,</q> and that […] started the whole thing.
 
@@ -288,7 +287,7 @@ We used to push [the drinking] way too far, every time; it was a [status thing. 
 
 <mpb-dialog-img>
 
-{% image "./src/assets/images/blog/2013-02-18-venditos/czahller-20121201-23-58-16.jpg", "img-constrained", "Chris screams into the microphone", "Chris (I)" %}</mpb-dialog-img>
+{% image "./src/assets/images/blog/2013-02-18-venditos/czahller-20121201-23-58-16.jpg", "", "Chris screams into the microphone", "Chris (I)", "large" %}</mpb-dialog-img>
 
 <span class="spkr">Barham</span> For me, it got to the point where I was telling the crowd that I was <span class="h-card p-name">Jesus</span> and yelling at them. I would finish off a bottle of Bushmills on stage, and that stuff just can’t happen.
 
@@ -390,40 +389,75 @@ I’m tryin’ to write somethin’ that’s […] following this [rock star cha
 
 <mpb-dialog-gallery hint rel cols="8">
   
-  ![Tapestry Introduces the Venditos](/assets/images/blog/2013-02-18-venditos/czahller-20121201-23-56-11.jpg)
-  ![Richie (I)](/assets/images/blog/2013-02-18-venditos/czahller-20121201-23-56-51.jpg)
-  ![Gabe (I)](/assets/images/blog/2013-02-18-venditos/czahller-20121201-23-58-00.jpg)
-  ![Chris (I)](/assets/images/blog/2013-02-18-venditos/czahller-20121201-23-58-16.jpg)
-  ![Austin (I)](/assets/images/blog/2013-02-18-venditos/czahller-20121201-23-59-04.jpg)
-  ![Gabe (II)](/assets/images/blog/2013-02-18-venditos/czahller-20121201-23-59-38.jpg)
-  ![Chris (II)](/assets/images/blog/2013-02-18-venditos/czahller-20121202-00-01-11.jpg)
-  ![Gabe (III)](/assets/images/blog/2013-02-18-venditos/czahller-20121202-00-02-22.jpg)
-  ![Chris (III)](/assets/images/blog/2013-02-18-venditos/czahller-20121202-00-02-35.jpg)
-  ![Chris (IV)](/assets/images/blog/2013-02-18-venditos/czahller-20121202-00-03-05.jpg)
-  ![Venditos (I)](/assets/images/blog/2013-02-18-venditos/czahller-20121202-00-04-13.jpg)
-  ![Venditos (II)](/assets/images/blog/2013-02-18-venditos/czahller-20121202-00-04-41.jpg)
-  ![Austin (II)](/assets/images/blog/2013-02-18-venditos/czahller-20121202-00-06-26.jpg)
-  ![Chris (V)](/assets/images/blog/2013-02-18-venditos/czahller-20121202-00-06-37.jpg)
-  ![Gabe (IV)](/assets/images/blog/2013-02-18-venditos/czahller-20121202-00-06-42.jpg)
-  ![Gabe (V)](/assets/images/blog/2013-02-18-venditos/czahller-20121202-00-07-08.jpg)
-  ![Richie (II)](/assets/images/blog/2013-02-18-venditos/czahller-20121202-00-07-55.jpg)
-  ![Chris & Gabe (I)](/assets/images/blog/2013-02-18-venditos/czahller-20121202-00-08-31.jpg)
-  ![Chris & Gabe (II)](/assets/images/blog/2013-02-18-venditos/czahller-20121202-00-08-34.jpg)
-  ![Gabe (VI)](/assets/images/blog/2013-02-18-venditos/czahller-20121202-00-10-11.jpg)
-  ![Gabe (VII)](/assets/images/blog/2013-02-18-venditos/czahller-20121202-00-11-16.jpg)
-  ![Venditos (III)](/assets/images/blog/2013-02-18-venditos/czahller-20121202-00-15-37.jpg)
-  ![Richie (III)](/assets/images/blog/2013-02-18-venditos/czahller-20121202-00-16-52.jpg)
-  ![Chris & Gabe (II)](/assets/images/blog/2013-02-18-venditos/czahller-20121202-00-18-58.jpg)
-  ![Chris Jams with Austin (I](/assets/images/blog/2013-02-18-venditos/czahller-20121202-00-21-26.jpg)
-  ![Chris Jams with Austin (II)](/assets/images/blog/2013-02-18-venditos/czahller-20121202-00-21-38.jpg)
-  ![Gabe (VIII)](/assets/images/blog/2013-02-18-venditos/czahller-20121202-00-25-31.jpg)
-  ![Chris (VI)](/assets/images/blog/2013-02-18-venditos/czahller-20121202-00-26-01.jpg)
-  ![Chris (VII)](/assets/images/blog/2013-02-18-venditos/czahller-20121202-00-26-04.jpg)
-  ![Chris (VIII)](/assets/images/blog/2013-02-18-venditos/czahller-20121202-00-27-28.jpg)
-  ![Chris & Gabe (III)](/assets/images/blog/2013-02-18-venditos/czahller-20121202-00-30-27.jpg)
-  ![Chris & Gabe (IV)](/assets/images/blog/2013-02-18-venditos/czahller-20121202-00-32-20.jpg)
-  ![Chris (IX)](/assets/images/blog/2013-02-18-venditos/czahller-20121202-00-36-22.jpg)
-  ![Gabe (VIII)](/assets/images/blog/2013-02-18-venditos/czahller-20121202-00-39-21.jpg)
-  ![Chris & Gabe (V)](/assets/images/blog/2013-02-18-venditos/czahller-20121202-00-40-25.jpg)
-  ![Venditos Set List](/assets/images/blog/2013-02-18-venditos/czahller-20121202-15-58-16.jpg)
+  {% image "./src/assets/images/blog/2013-02-18-venditos/czahller-20121201-23-56-11.jpg", "", "Tapestry introduces the band", "Tapestry Introduces the Venditos" %}
+
+  {% image "./src/assets/images/blog/2013-02-18-venditos/czahller-20121201-23-56-51.jpg", "", "Richie Zenner", "Richie (I)" %}
+
+  {% image "./src/assets/images/blog/2013-02-18-venditos/czahller-20121201-23-58-00.jpg", "", "Gabe Barham", "Gabe (I)" %}
+
+  {% image "./src/assets/images/blog/2013-02-18-venditos/czahller-20121201-23-58-16.jpg", "", "Chris Sanders", "Chris (I)" %}
+
+  {% image "./src/assets/images/blog/2013-02-18-venditos/czahller-20121201-23-59-04.jpg", "", "Austin Barham", "Austin (I)" %}
+
+  {% image "./src/assets/images/blog/2013-02-18-venditos/czahller-20121201-23-59-38.jpg", "", "Gabe Barham", "Gabe (II)" %}
+
+  {% image "./src/assets/images/blog/2013-02-18-venditos/czahller-20121202-00-01-11.jpg", "", "Chris Sanders", "Chris (II)" %}
+
+  {% image "./src/assets/images/blog/2013-02-18-venditos/czahller-20121202-00-02-22.jpg", "", "Gabe Barham", "Gabe (III)" %}
+
+  {% image "./src/assets/images/blog/2013-02-18-venditos/czahller-20121202-00-02-35.jpg", "", "Chris Sanders", "Chris (III)" %}
+
+  {% image "./src/assets/images/blog/2013-02-18-venditos/czahller-20121202-00-03-05.jpg", "", "Chris Sanders", "Chris (IV)" %}
+
+  {% image "./src/assets/images/blog/2013-02-18-venditos/czahller-20121202-00-04-13.jpg", "", "Venditos", "Venditos (I)" %}
+
+  {% image "./src/assets/images/blog/2013-02-18-venditos/czahller-20121202-00-04-41.jpg", "", "Venditos", "Venditos (II)" %}
+
+  {% image "./src/assets/images/blog/2013-02-18-venditos/czahller-20121202-00-06-26.jpg", "", "Austin Barham", "Austin (II)" %}
+
+  {% image "./src/assets/images/blog/2013-02-18-venditos/czahller-20121202-00-06-37.jpg", "", "Chris Sanders", "Chris (V)" %}
+
+  {% image "./src/assets/images/blog/2013-02-18-venditos/czahller-20121202-00-06-42.jpg", "", "Gabe Barham", "Gabe (IV)" %}
+
+  {% image "./src/assets/images/blog/2013-02-18-venditos/czahller-20121202-00-07-08.jpg", "", "Gabe Barham", "Gabe (V)" %}
+
+  {% image "./src/assets/images/blog/2013-02-18-venditos/czahller-20121202-00-07-55.jpg", "", "Richie Zenner", "Richie (II)" %}
+
+  {% image "./src/assets/images/blog/2013-02-18-venditos/czahller-20121202-00-08-31.jpg", "", "Chris & Gabe", "Chris & Gabe (I)" %}
+
+  {% image "./src/assets/images/blog/2013-02-18-venditos/czahller-20121202-00-08-34.jpg", "", "Chris & Gabe", "Chris & Gabe (II)" %}
+
+  {% image "./src/assets/images/blog/2013-02-18-venditos/czahller-20121202-00-10-11.jpg", "", "Gabe Barham", "Gabe (VI)" %}
+
+  {% image "./src/assets/images/blog/2013-02-18-venditos/czahller-20121202-00-11-16.jpg", "", "Gabe Barham", "Gabe (VII)" %}
+
+  {% image "./src/assets/images/blog/2013-02-18-venditos/czahller-20121202-00-15-37.jpg", "", "Venditos", "Venditos (III)" %}
+
+  {% image "./src/assets/images/blog/2013-02-18-venditos/czahller-20121202-00-16-52.jpg", "", "Richie Zenner", "Richie (III)" %}
+
+  {% image "./src/assets/images/blog/2013-02-18-venditos/czahller-20121202-00-18-58.jpg", "", "Chris & Gabe", "Chris & Gabe (III)" %}
+
+  {% image "./src/assets/images/blog/2013-02-18-venditos/czahller-20121202-00-21-26.jpg", "", "Chris Jams with Austin", "Chris Jams with Austin (I)" %}
+
+  {% image "./src/assets/images/blog/2013-02-18-venditos/czahller-20121202-00-21-38.jpg", "", "Chris Jams with Austin", "Chris Jams with Austin (II)" %}
+
+  {% image "./src/assets/images/blog/2013-02-18-venditos/czahller-20121202-00-25-31.jpg", "", "Gabe Barham", "Gabe (VIII)" %}
+
+  {% image "./src/assets/images/blog/2013-02-18-venditos/czahller-20121202-00-26-01.jpg", "", "Chris Sanders", "Chris (VI)" %}
+
+  {% image "./src/assets/images/blog/2013-02-18-venditos/czahller-20121202-00-26-04.jpg", "", "Chris Sanders", "Chris (VII)" %}
+
+  {% image "./src/assets/images/blog/2013-02-18-venditos/czahller-20121202-00-27-28.jpg", "", "Chris Sanders", "Chris (VIII)" %}
+
+  {% image "./src/assets/images/blog/2013-02-18-venditos/czahller-20121202-00-30-27.jpg", "", "Chris & Gabe", "Chris & Gabe (IV)" %}
+
+  {% image "./src/assets/images/blog/2013-02-18-venditos/czahller-20121202-00-32-20.jpg", "", "Chris & Gabe", "Chris & Gabe (V)" %}
+
+  {% image "./src/assets/images/blog/2013-02-18-venditos/czahller-20121202-00-36-22.jpg", "", "Chris Sanders", "Chris (IX)" %}
+
+  {% image "./src/assets/images/blog/2013-02-18-venditos/czahller-20121202-00-39-21.jpg", "", "Gabe Barham", "Gabe (VIII)" %}
+
+  {% image "./src/assets/images/blog/2013-02-18-venditos/czahller-20121202-00-40-25.jpg", "", "Chris & Gabe", "Chris & Gabe (VI)" %}
+
+  {% image "./src/assets/images/blog/2013-02-18-venditos/czahller-20121202-15-58-16.jpg", "", "Venditos Set List", "Venditos Set List" %}
 </mpb-dialog-gallery>

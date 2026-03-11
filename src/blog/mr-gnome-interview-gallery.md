@@ -20,7 +20,7 @@ excerpt: The word “atmospheric” gets tossed around a lot when describing Cle
 
 <!-- markdownlint-enable MD025 --><mpb-dialog-img>
 
-{% image "featured", "img-constrained", "Nicole Barille shredding on guitar. Her hair is flying about her head. She wears a striped tank top.", "Nicole (IX)", "eager" %}</mpb-dialog-img>
+{% image "featured", "", "Nicole Barille shredding on guitar. Her hair is flying about her head. She wears a striped tank top.", "Nicole (IX)", "eager" %}</mpb-dialog-img>
 
 The word “atmospheric” gets tossed around a lot when describing Cleveland-based <span class="h-card p-org">mr. Gnome</span>. Also “schizophrenic,” “psychedelic,” “weird,” “experimental,” “thunderous,” “dreamy,” “loud,” “introspective,” “stormy,” “crunchy,” “aggressive,” “ghostly,” “sweet,” “dark,” “bright,” and “spastic.” Also “cute,” as petite guitarist and singer <span class="h-card p-name">Nicole Barrille</span> is certainly elfin, while her husband-<span lang="la" class="foreign">cum</span>-drummer, <span class="h-card p-name">Sam Meister</span>, is a handsome giant[^1]. Rarely apart from one another by more than a few feet, **they certainly are a cute couple**.
 
@@ -48,7 +48,7 @@ Just returned home from mr. Gnome’s <cite>Madness in Miniature</cite> tour, Ba
 
 <mpb-dialog-img>
 
-{% image "./src/assets/images/blog/2013-01-16-mr-gnome/czahller-20121113-23-55-54.jpg", "img-constrained", "Sam Meister playing the drums under cyan and magenta lights and fog.", "Sam (III)" %}</mpb-dialog-img>
+{% image "./src/assets/images/blog/2013-01-16-mr-gnome/czahller-20121113-23-55-54.jpg", "", "Sam Meister playing the drums under cyan and magenta lights and fog.", "Sam (III)", "large" %}</mpb-dialog-img>
 
 <span class="spkr">MPB</span> Your latest album, <cite>[Madness in Miniature](https://music.apple.com/us/album/madness-in-miniature/id460467822?uo=4&at=10ldhk){target=_blank rel="external noopener"}</cite>, is undeniably a concept album, with a narrative tying the songs together. Would you be creating concept albums without having heard examples from the Prog Rock era, especially Pink Floyd?
 
@@ -58,9 +58,7 @@ Just returned home from mr. Gnome’s <cite>Madness in Miniature</cite> tour, Ba
 
 <span class="spkr">MPB</span> Speaking of Pink Floyd, you’ve talked about the concert film <cite>Live at Pompeii</cite> on numerous occasions. When I was a wee sprout attending college, I heard a nationally-syndicated radio show (possibly the <cite>King Biscuit Flour Hour</cite>) broadcast the entire audio from the film. I knew I couldn’t be home to hear it because I had to work that night, so I arranged for one of my mom’s co-workers to tape it on his reel-to-reel recorder. What do the visuals add to your experience of the film that I missed, since I’ve only heard it?
 
-<span class="spkr">Barrille</span> Oh man &hellip; I highly recommend checking out <cite>Live at Pompeii</cite>. Sam introduced me to that film when we were in high school, and I was just blown away. The mood and energy of their performance is really amazing, and the movie […] really influenced Sam as a filmmaker. <span class="h-card p-name">David Gilmour</span> was a huge inspiration to me, vocally and as a guitar player. Sam’s main inspiration for drumming is <span class="h-card p-name">Nick Mason</span>, and he is quite incredible in this video. Overall a really unique editing and presentation of a live performance. We don’t recommend watching the director’s cut … stick with the original release![^5]
-
-[^5]: The Director’s Cut DVD includes the original sixty-minute theatrical cut. In <time datetime="2025">2025</time> Sony Music released a remastered and remixed edition of the theatrical cut on CD and Blu Ray.
+<span class="spkr">Barrille</span> Oh man &hellip; I highly recommend checking out <cite>Live at Pompeii</cite>. Sam introduced me to that film when we were in high school, and I was just blown away. The mood and energy of their performance is really amazing, and the movie […] really influenced Sam as a filmmaker. <span class="h-card p-name">David Gilmour</span> was a huge inspiration to me, vocally and as a guitar player. Sam’s main inspiration for drumming is <span class="h-card p-name">Nick Mason</span>, and he is quite incredible in this video. Overall a really unique editing and presentation of a live performance. We don’t recommend watching the director’s cut … stick with the original release^5]
 
 <span class="spkr">MPB</span> A lot of artists can’t produce or perform anything worthwhile when they’re actually high, but still draw inspiration from the experience. You joke about drugs and alcohol a lot in your interviews, but how important is an altered state of mind to your creativity? Does it ever hinder it? Do you ever worry about the consequences of overindulgence?
 
@@ -96,7 +94,7 @@ Sam’s mom, <span class="h-card p-name p-given-name">Barb</span>, did all of th
 
 <mpb-dialog-img>
 
-{% image "./src/assets/images/blog/2013-01-16-mr-gnome/czahller-20121113-23-10-13.jpg", "img-constrained", "Sam plays drums under cyan light and fog.", "Sam (I)" %}</mpb-dialog-img>
+{% image "./src/assets/images/blog/2013-01-16-mr-gnome/czahller-20121113-23-10-13.jpg", "", "Sam plays drums under cyan light and fog.", "Sam (I)", "large" %}</mpb-dialog-img>
 
 <span class="spkr">Barrille</span> That was pretty crazy, wasn’t it? Unfortunately, that was not the only […] theft along this tour. Someone stole something off of our table on the very first night of the tour in **Louisville, Kentucky**. I think it has more to do with the fact that people are drunk and stupid than anything else! But yeah, it’s unfortunate that people [&hellip;] steal from musicians.
 
@@ -148,7 +146,7 @@ I wrote the idea of that song [on the] thrift store organ &hellip; the melody an
 
 <mpb-dialog-img>
 
-{% image "./src/assets/images/blog/2013-01-16-mr-gnome/czahller-20121113-23-42-02.jpg", "img-constrained", "Nicole singing; her mouth forms an “O.” She holds a microphone in her right hand and grasps her semi-hollow body electric guitar’s neck in her left", "Nicole (XIV)" %}</mpb-dialog-img>
+{% image "./src/assets/images/blog/2013-01-16-mr-gnome/czahller-20121113-23-42-02.jpg", "", "Nicole singing; her mouth forms an “O.” She holds a microphone in her right hand and grasps her semi-hollow body electric guitar’s neck in her left", "Nicole (XIV)", "large" %}</mpb-dialog-img>
 
 <span class="spkr">MPB</span> What media does Sam use for the illustrations? Does he start with pen and paper or paint and brush, or does he stick mainly to the digital realm?
 
@@ -194,30 +192,55 @@ The first few times I did it live were extremely nerve-wracking, and it’s stil
 
 <mpb-dialog-gallery hint rel cols="8">
 
-  ![Drumhead](/assets/images/blog/2013-01-16-mr-gnome/czahller-20121113-23-09-40.jpg)
-  ![Sam (I)](/assets/images/blog/2013-01-16-mr-gnome/czahller-20121113-23-10-13.jpg)
-  ![Sugar Skull (T-Shirt)](/assets/images/blog/2013-01-16-mr-gnome/czahller-20121113-23-11-37.jpg)
-  ![Nicole (III)](/assets/images/blog/2013-01-16-mr-gnome/czahller-20121113-23-19-29.jpg)
-  ![Sam (II)](/assets/images/blog/2013-01-16-mr-gnome/czahller-20121113-23-23-54.jpg)
-  ![Sam (III)](/assets/images/blog/2013-01-16-mr-gnome/czahller-20121113-23-27-27.jpg)
-  ![Nicole (IV)](/assets/images/blog/2013-01-16-mr-gnome/czahller-20121113-23-29-03.jpg)
-  ![Nicole (V)](/assets/images/blog/2013-01-16-mr-gnome/czahller-20121113-23-29-20.jpg)
-  ![Nicole (VI)](/assets/images/blog/2013-01-16-mr-gnome/czahller-20121113-23-30-13.jpg)
-  ![Nicole (VII)](/assets/images/blog/2013-01-16-mr-gnome/czahller-20121113-23-30-29.jpg)
-  ![Nicole (VIII)](/assets/images/blog/2013-01-16-mr-gnome/czahller-20121113-23-30-31.jpg)
-  ![Nicole (IX)](/assets/images/blog/2013-01-16-mr-gnome/czahller-20121113-23-31-54-2.jpg)
-  ![Nicole (X)](/assets/images/blog/2013-01-16-mr-gnome/czahller-20121113-23-31-54.jpg)
-  ![Nicole (XI)](/assets/images/blog/2013-01-16-mr-gnome/czahller-20121113-23-31-55.jpg)
-  ![Pedal Board](/assets/images/blog/2013-01-16-mr-gnome/czahller-20121113-23-32-48.jpg)
-  ![Guitar (Detail showing Bigsby tailpiece)](/assets/images/blog/2013-01-16-mr-gnome/czahller-20121113-23-33-18.jpg)
-  ![Gear](/assets/images/blog/2013-01-16-mr-gnome/czahller-20121113-23-33-41.jpg)
-  ![Nicole (XII)](/assets/images/blog/2013-01-16-mr-gnome/czahller-20121113-23-40-23.jpg)
-  ![Nicole (XIII)](/assets/images/blog/2013-01-16-mr-gnome/czahller-20121113-23-41-30.jpg)
-  ![Nicole (XIV)](/assets/images/blog/2013-01-16-mr-gnome/czahller-20121113-23-42-02.jpg)
-  ![Nicole (XV)](/assets/images/blog/2013-01-16-mr-gnome/czahller-20121113-23-43-59.jpg)
-  ![Nicole (XVI)](/assets/images/blog/2013-01-16-mr-gnome/czahller-20121113-23-45-01.jpg)
-  ![Nicole (XVII)](/assets/images/blog/2013-01-16-mr-gnome/czahller-20121113-23-45-05.jpg)
-  ![Nicole (XX)](/assets/images/blog/2013-01-16-mr-gnome/czahller-20121113-23-55-02.jpg)
-  ![Sam (Iv)](/assets/images/blog/2013-01-16-mr-gnome/czahller-20121113-23-55-54.jpg)
-  ![Sam (V)](/assets/images/blog/2013-01-16-mr-gnome/czahller-20121113-23-55-56.jpg)
+  {% image "./src/assets/images/blog/2013-01-16-mr-gnome/czahller-20121113-23-09-40.jpg", "", "Drumhead featuring mr. Gnome logo (wordmark)", "Drumhead" %}
+
+  {% image "./src/assets/images/blog/2013-01-16-mr-gnome/czahller-20121113-23-10-13.jpg", "", "Sam", "Sam (I)" %}
+
+  {% image "./src/assets/images/blog/2013-01-16-mr-gnome/czahller-20121113-23-11-37.jpg", "", "A t-shirt featuring a sugar skull design lies in a pile of gear on the stage. ", "Sugar Skull (T-Shirt)" %}
+
+  {% image "./src/assets/images/blog/2013-01-16-mr-gnome/czahller-20121113-23-19-29.jpg", "", "Nicole", "Nicole (III)" %}
+
+  {% image "./src/assets/images/blog/2013-01-16-mr-gnome/czahller-20121113-23-23-54.jpg", "", "Sam", "Sam (II)" %}
+
+  {% image "./src/assets/images/blog/2013-01-16-mr-gnome/czahller-20121113-23-27-27.jpg", "", "Sam", "Sam (III)" %}
+
+  {% image "./src/assets/images/blog/2013-01-16-mr-gnome/czahller-20121113-23-29-03.jpg", "", "Nicole", "Nicole (IV)" %}
+
+  {% image "./src/assets/images/blog/2013-01-16-mr-gnome/czahller-20121113-23-29-20.jpg", "", "Nicole", "Nicole (V)" %}
+
+  {% image "./src/assets/images/blog/2013-01-16-mr-gnome/czahller-20121113-23-30-13.jpg", "", "Nicole", "Nicole (VI)" %}
+
+  {% image "./src/assets/images/blog/2013-01-16-mr-gnome/czahller-20121113-23-30-29.jpg", "", "Nicole", "Nicole (VII)" %}
+
+  {% image "./src/assets/images/blog/2013-01-16-mr-gnome/czahller-20121113-23-30-31.jpg", "", "Nicole", "Nicole (VIII)" %}
+
+  {% image "featured", "", "Nicole Barille shredding on guitar. Her hair is flying about her head. She wears a striped tank top.", "Nicole (IX)" %}
+
+  {% image "./src/assets/images/blog/2013-01-16-mr-gnome/czahller-20121113-23-31-54.jpg", "", "Nicole", "Nicole (X)" %}
+
+  {% image "./src/assets/images/blog/2013-01-16-mr-gnome/czahller-20121113-23-31-55.jpg", "", "Nicole", "Nicole (XI)" %}
+
+  {% image "./src/assets/images/blog/2013-01-16-mr-gnome/czahller-20121113-23-32-48.jpg", "", "Pedal board", "Pedal Board" %}
+
+  {% image "./src/assets/images/blog/2013-01-16-mr-gnome/czahller-20121113-23-33-18.jpg", "", "Guitar deatil of Bigsby tailpiece", "Guitar (Detail showing Bigsby tailpiece)" %}
+
+  {% image "./src/assets/images/blog/2013-01-16-mr-gnome/czahller-20121113-23-33-41.jpg", "", "Gear", "Gear" %}
+
+  {% image "./src/assets/images/blog/2013-01-16-mr-gnome/czahller-20121113-23-40-23.jpg", "", "Nicole", "Nicole (XII)" %}
+
+  {% image "./src/assets/images/blog/2013-01-16-mr-gnome/czahller-20121113-23-41-30.jpg", "", "Nicole", "Nicole (XIII)" %}
+
+  {% image "./src/assets/images/blog/2013-01-16-mr-gnome/czahller-20121113-23-42-02.jpg", "", "Nicole", "Nicole (XIV)" %}
+
+  {% image "./src/assets/images/blog/2013-01-16-mr-gnome/czahller-20121113-23-43-59.jpg", "", "Nicole", "Nicole (XV)" %}
+
+  {% image "./src/assets/images/blog/2013-01-16-mr-gnome/czahller-20121113-23-45-01.jpg", "", "Nicole", "Nicole (XVI)" %}
+
+  {% image "./src/assets/images/blog/2013-01-16-mr-gnome/czahller-20121113-23-45-05.jpg", "", "Nicole", "Nicole (XVII)" %}
+
+  {% image "./src/assets/images/blog/2013-01-16-mr-gnome/czahller-20121113-23-55-02.jpg", "", "Nicole", "Nicole (XX)" %}
+
+  {% image "./src/assets/images/blog/2013-01-16-mr-gnome/czahller-20121113-23-55-54.jpg", "", "Sam", "Sam (IV)" %}
+
+  {% image "./src/assets/images/blog/2013-01-16-mr-gnome/czahller-20121113-23-55-56.jpg", "", "Sam", "Sam (V)" %}
 </mpb-dialog-gallery>

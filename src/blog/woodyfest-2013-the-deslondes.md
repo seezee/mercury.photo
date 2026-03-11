@@ -23,7 +23,7 @@ excerpt: When they appeared on the Brick Café stage during Woodyfest 2013, the 
 
 <!-- markdownlint-enable MD025 --><mpb-dialog-img>
 
-{% image "featured", "img-constrained", "Sam, Riley, & Special Guest Douglas Francisco", "Sam, Riley, & Special Guest Douglas Francisco (II)&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;Sam Doores + Riley Downing & the Tumbleweeds at the Brick Café, Woody Guthrie Folk Festival 16", "eager" %}</mpb-dialog-img>
+{% image "featured", "", "Sam, Riley, & Special Guest Douglas Francisco", "Sam, Riley, & Special Guest Douglas Francisco (II)&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;Sam Doores + Riley Downing & the Tumbleweeds at the Brick Café, Woody Guthrie Folk Festival 16", "eager" %}</mpb-dialog-img>
 
 When they appeared on the <span class="h-card p-org">Brick Caf&eacute;</span> stage during Woodyfest <time datetime="2013-07-13T16:00-5:00">2013</time>, the <span class="h-card p-org">Deslondes</span> were still billing themselves as <span class="h-card p-org">Sam Doores + Riley Downing &amp; the Tumbleweeds.</span> The moniker was not only long and awkward; it also conflicted with the dozens of other musical acts also calling themselves “The Tumbleweeds.”
 
@@ -65,31 +65,57 @@ The Deslondes sophomore album, <cite>[Hurry Home](https://geo.music.apple.com/us
 
 <mpb-dialog-gallery hint rel cols="8">
   
-  ![The Deslondes (Formerly Sam Doores + Riley Downing & the Tumbleweeds) (I) — at the Brick Café, Woody Guthrie Folk Festival 16](/assets/images/blog/2020-04-11-woodyfest-deslondes/czahller-20130713-16-13-01.jpg)
-  ![The Deslondes (Formerly Sam Doores + Riley Downing & the Tumbleweeds) (II) — at the Brick Café, Woody Guthrie Folk Festival 16](/assets/images/blog/2020-04-11-woodyfest-deslondes/czahller-20130713-16-13-20.jpg)
-  ![The Deslondes (Formerly Sam Doores + Riley Downing & the Tumbleweeds) (III) — at the Brick Café, Woody Guthrie Folk Festival 16](/assets/images/blog/2020-04-11-woodyfest-deslondes/czahller-20130713-16-14-06.jpg)
-  ![Dan (I) — Sam Doores + Riley Downing & the Tumbleweeds at the Brick Café, Woody Guthrie Folk Festival 16](/assets/images/blog/2020-04-11-woodyfest-deslondes/czahller-20130713-16-15-07.jpg)
-  ![Sam, Riley, & Special Guest Douglas Francisco (I) — Sam Doores + Riley Downing & the Tumbleweeds at the Brick Café, Woody Guthrie Folk Festival 16](/assets/images/blog/2020-04-11-woodyfest-deslondes/czahller-20130713-16-16-04.jpg)
-  ![Harmonica Solo — Sam Doores + Riley Downing & the Tumbleweeds at the Brick Café, Woody Guthrie Folk Festival 16](/assets/images/blog/2020-04-11-woodyfest-deslondes/czahller-20130713-16-16-22.jpg)
-  ![Riley (I) — Sam Doores + Riley Downing & the Tumbleweeds at the Brick Café, Woody Guthrie Folk Festival 16](/assets/images/blog/2020-04-11-woodyfest-deslondes/czahller-20130713-16-17-39.jpg)
-  ![Special Guest Douglas Francisco (I) — Sam Doores + Riley Downing & the Tumbleweeds at the Brick Café, Woody Guthrie Folk Festival 16](/assets/images/blog/2020-04-11-woodyfest-deslondes/czahller-20130713-16-17-51.jpg)
-  ![Dan (II) — Sam Doores + Riley Downing & the Tumbleweeds at the Brick Café, Woody Guthrie Folk Festival 16](/assets/images/blog/2020-04-11-woodyfest-deslondes/czahller-20130713-16-20-07.jpg)
-  ![Cameron (Harmonica Solo) — Sam Doores + Riley Downing & the Tumbleweeds at the Brick Café, Woody Guthrie Folk Festival 16](/assets/images/blog/2020-04-11-woodyfest-deslondes/czahller-20130713-16-21-46.jpg)
-  ![Cameron plays beef hooves shaker — Sam Doores + Riley Downing & the Tumbleweeds at the Brick Café, Woody Guthrie Folk Festival 16](/assets/images/blog/2020-04-11-woodyfest-deslondes/czahller-20130713-16-23-03.jpg)
-  ![Riley (II) — Sam Doores + Riley Downing & the Tumbleweeds at the Brick Café, Woody Guthrie Folk Festival 16](/assets/images/blog/2020-04-11-woodyfest-deslondes/czahller-20130713-16-24-12.jpg)
-  ![Sam, Riley, & Special Guest Douglas Francisco (II) — Sam Doores + Riley Downing & the Tumbleweeds at the Brick Café, Woody Guthrie Folk Festival 16](/assets/images/blog/2020-04-11-woodyfest-deslondes/czahller-20130713-16-24-44.jpg)
-  ![Sam, Riley, & Special Guest Douglas Francisco (III) — Sam Doores + Riley Downing & the Tumbleweeds at the Brick Café, Woody Guthrie Folk Festival 16](/assets/images/blog/2020-04-11-woodyfest-deslondes/czahller-20130713-16-24-49.jpg)
-  ![Dan (III) — Sam Doores + Riley Downing & the Tumbleweeds at the Brick Café, Woody Guthrie Folk Festival 16](/assets/images/blog/2020-04-11-woodyfest-deslondes/czahller-20130713-16-25-06.jpg)
-  ![Cameron playing the tambourine — Sam Doores + Riley Downing & the Tumbleweeds at the Brick Café, Woody Guthrie Folk Festival 16](/assets/images/blog/2020-04-11-woodyfest-deslondes/czahller-20130713-16-25-41.jpg)
-  ![The Deslondes (Formerly Sam Doores + Riley Downing & the Tumbleweeds) (IV) — at the Brick Café, Woody Guthrie Folk Festival 16](/assets/images/blog/2020-04-11-woodyfest-deslondes/czahller-20130713-16-27-11.jpg)
-  ![The Deslondes (Formerly Sam Doores + Riley Downing & the Tumbleweeds) (V) — at the Brick Café, Woody Guthrie Folk Festival 16](/assets/images/blog/2020-04-11-woodyfest-deslondes/czahller-20130713-16-28-23.jpg)
-  ![Boot + Tambourine — Sam Doores + Riley Downing & the Tumbleweeds at the Brick Café, Woody Guthrie Folk Festival 16](/assets/images/blog/2020-04-11-woodyfest-deslondes/czahller-20130713-16-31-20.jpg)
-  ![Cameron playing a small marching band bass drum — Sam Doores + Riley Downing & the Tumbleweeds at the Brick Café, Woody Guthrie Folk Festival 16](/assets/images/blog/2020-04-11-woodyfest-deslondes/czahller-20130713-16-34-20.jpg)
-  ![Special Guest Douglas Francisco (II) — Sam Doores + Riley Downing & the Tumbleweeds at the Brick Café, Woody Guthrie Folk Festival 16](/assets/images/blog/2020-04-11-woodyfest-deslondes/czahller-20130713-16-34-52.jpg)
-  ![Audience — Sam Doores + Riley Downing & the Tumbleweeds at the Brick Café, Woody Guthrie Folk Festival 16](/assets/images/blog/2020-04-11-woodyfest-deslondes/czahller-20130713-16-40-37.jpg)
-  ![Dan, Sam, & Riley — Sam Doores + Riley Downing & the Tumbleweeds at the Brick Café, Woody Guthrie Folk Festival 16](/assets/images/blog/2020-04-11-woodyfest-deslondes/czahller-20130713-16-43-03.jpg)
-  ![The Deslondes (Formerly Sam Doores + Riley Downing & the Tumbleweeds) (VI) — at the Brick Café, Woody Guthrie Folk Festival 16](/assets/images/blog/2020-04-11-woodyfest-deslondes/czahller-20130713-16-43-52.jpg)
-  ![Riley (III) (Hat in Hand) — Sam Doores + Riley Downing & the Tumbleweeds at the Brick Café, Woody Guthrie Folk Festival 16](/assets/images/blog/2020-04-11-woodyfest-deslondes/czahller-20130713-16-52-15.jpg)
-  ![Dan & Sam — Sam Doores + Riley Downing & the Tumbleweeds at the Brick Café, Woody Guthrie Folk Festival 16](/assets/images/blog/2020-04-11-woodyfest-deslondes/czahller-20130713-16-52-48.jpg)
-  ![Riley (IV) (Harmonica Solo) — Sam Doores + Riley Downing & the Tumbleweeds at the Brick Café, Woody Guthrie Folk Festival 16](/assets/images/blog/2020-04-11-woodyfest-deslondes/czahller-20130713-16-55-47.jpg)
+  {% image "./src/assets/images/blog/2020-04-11-woodyfest-deslondes/czahller-20130713-16-13-01.jpg", "", "The Deslondes", "The Deslondes (Formerly Sam Doores + Riley Downing & the Tumbleweeds) (I)" %}
+
+  {% image "./src/assets/images/blog/2020-04-11-woodyfest-deslondes/czahller-20130713-16-13-20.jpg", "", "The Deslondes", "The Deslondes (Formerly Sam Doores + Riley Downing & the Tumbleweeds) (II)" %}
+
+  {% image "./src/assets/images/blog/2020-04-11-woodyfest-deslondes/czahller-20130713-16-14-06.jpg", "", "The Deslondes", "The Deslondes (Formerly Sam Doores + Riley Downing & the Tumbleweeds) (III)" %}
+
+  {% image "./src/assets/images/blog/2020-04-11-woodyfest-deslondes/czahller-20130713-16-15-07.jpg", "", "Dan Cutler", "Dan (I)" %}
+
+  {% image "./src/assets/images/blog/2020-04-11-woodyfest-deslondes/czahller-20130713-16-16-04.jpg", "", "Sam Doores, Riley Downing, and Douglas Francisco", "Sam, Riley, & Special Guest Douglas Francisco (I)" %}
+
+  {% image "./src/assets/images/blog/2020-04-11-woodyfest-deslondes/czahller-20130713-16-16-22.jpg", "", "Sam Doores plays harmonica and guitar", "Harmonica Solo" %}
+
+  {% image "./src/assets/images/blog/2020-04-11-woodyfest-deslondes/czahller-20130713-16-17-39.jpg", "", "Riley Downing", "Riley (I)" %}
+
+  {% image "./src/assets/images/blog/2020-04-11-woodyfest-deslondes/czahller-20130713-16-17-51.jpg", "", "Douglas Francisco", "Special Guest Douglas Francisco (I)" %}
+
+  {% image "./src/assets/images/blog/2020-04-11-woodyfest-deslondes/czahller-20130713-16-20-07.jpg", "", "Dan Cutler", "Dan (II)" %}
+
+  {% image "./src/assets/images/blog/2020-04-11-woodyfest-deslondes/czahller-20130713-16-21-46.jpg", "", "Cameron Snyder plays harmonica", "Cameron (Harmonica Solo)" %}
+
+  {% image "./src/assets/images/blog/2020-04-11-woodyfest-deslondes/czahller-20130713-16-23-03.jpg", "", "Cameron Snyder plays beef hooves shaker", "Cameron plays beef hooves shaker" %}
+
+  {% image "./src/assets/images/blog/2020-04-11-woodyfest-deslondes/czahller-20130713-16-24-12.jpg", "", "Riley Downing", "Riley (II)" %}
+
+  {% image "featured", "", "Sam Doores, Riley Downing, and Douglas Francisco", "Sam, Riley, & Special Guest Douglas Francisco (II)" %}
+
+  {% image "./src/assets/images/blog/2020-04-11-woodyfest-deslondes/czahller-20130713-16-24-49.jpg", "", "Sam Doores, Riley Downing, and Douglas Francisco", "Sam, Riley, & Special Guest Douglas Francisco (III)" %}
+
+  {% image "./src/assets/images/blog/2020-04-11-woodyfest-deslondes/czahller-20130713-16-25-06.jpg", "", "Dan Cutler", "Dan (III)" %}
+
+  {% image "./src/assets/images/blog/2020-04-11-woodyfest-deslondes/czahller-20130713-16-25-41.jpg", "", "Cameron Snyder playing the tambourine", "Cameron playing the tambourine" %}
+
+  {% image "./src/assets/images/blog/2020-04-11-woodyfest-deslondes/czahller-20130713-16-27-11.jpg", "", "The Deslondes", "The Deslondes (Formerly Sam Doores + Riley Downing & the Tumbleweeds) (IV)" %}
+
+  {% image "./src/assets/images/blog/2020-04-11-woodyfest-deslondes/czahller-20130713-16-28-23.jpg", "", "The Deslondes", "The Deslondes (Formerly Sam Doores + Riley Downing & the Tumbleweeds) (V)" %}
+
+  {% image "./src/assets/images/blog/2020-04-11-woodyfest-deslondes/czahller-20130713-16-31-20.jpg", "", "Sam Doores plays a tambourine with his foot. He wears cowboy boots.", "Boot + Tambourine" %}
+
+  {% image "./src/assets/images/blog/2020-04-11-woodyfest-deslondes/czahller-20130713-16-34-20.jpg", "", "Cameron Snyder playing a small marching band bass drum", "Cameron playing a small marching band bass drum" %}
+
+  {% image "./src/assets/images/blog/2020-04-11-woodyfest-deslondes/czahller-20130713-16-34-52.jpg", "", "Douglas Francisco", "Special Guest Douglas Francisco (II)" %}
+
+  {% image "./src/assets/images/blog/2020-04-11-woodyfest-deslondes/czahller-20130713-16-40-37.jpg", "", "Audience", "Audience" %}
+
+  {% image "./src/assets/images/blog/2020-04-11-woodyfest-deslondes/czahller-20130713-16-43-03.jpg", "", "Dan Cutler, Sam Doores, & Riley Downing", "Dan, Sam, & Riley" %}
+
+  {% image "./src/assets/images/blog/2020-04-11-woodyfest-deslondes/czahller-20130713-16-43-52.jpg", "", "The Deslondes", "The Deslondes (Formerly Sam Doores + Riley Downing & the Tumbleweeds) (VI)" %}
+
+  {% image "./src/assets/images/blog/2020-04-11-woodyfest-deslondes/czahller-20130713-16-52-15.jpg", "", "Riley Downing", "Riley (III) (Hat in Hand)" %}
+
+  {% image "./src/assets/images/blog/2020-04-11-woodyfest-deslondes/czahller-20130713-16-52-48.jpg", "", "Dan Cutler & Sam Doores", "Dan & Sam" %}
+
+  {% image "./src/assets/images/blog/2020-04-11-woodyfest-deslondes/czahller-20130713-16-55-47.jpg", "", "Riley Downing playing harmonica", "Riley (IV) (Harmonica Solo)" %}
 </mpb-dialog-gallery>

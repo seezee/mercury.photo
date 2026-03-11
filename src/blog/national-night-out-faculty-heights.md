@@ -22,7 +22,7 @@ excerpt: Last Tuesday evening the Faculty Heights neighborhood joined thousands 
 <p>Neighbors meet & greet local politicians, community peace officers</p></stack-l></hgroup>
 <!-- markdownlint-enable MD025 --><mpb-dialog-img>
 
-{% image "featured", "img-constrained", "Michael Walker, Grillmaster — Faculty Heights Neighborhood National Night Out, 2018", "Michael Walker, Grillmaster&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;Faculty Heights Neighborhood National Night Out, 2018", "eager" %}</mpb-dialog-img>
+{% image "featured", "", "Michael Walker, Grillmaster", "Michael Walker, Grillmaster&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;Faculty Heights Neighborhood National Night Out, 2018", "eager" %}</mpb-dialog-img>
 
 <time datetime="2018-08-19">Last Tuesday evening</time> the Faculty Heights neighborhood joined thousands of others across the U.S. to celebrate National Night Out.[^1] Neighborhood residents gathered at host <span class="h-card p-name">Miranda Arana</span>’s home[^2] to share food and fellowship. Ward Four councilman <span class="h-card p-name">Bill Hickman</span> dropped in to answer questions about city construction projects, traffic calming, the <abbr title="University North Park">UNP</abbr> <abbr title="Tax Increment Finance">TIF</abbr>, and other concerns. Norman PD’s Lieutenant Cary Bryant and one of his officers also joined the gathering to take questions and address concerns.{.drop-cap}
 
@@ -32,7 +32,7 @@ excerpt: Last Tuesday evening the Faculty Heights neighborhood joined thousands 
 
 As usual, <span class="h-card p-name">Michael Walker</span> served as grill master, serving up curry burgers and frankfurters to the hungry crowd. The serving table stood laden with delicious entrées and desserts brought by guests to the potluck-style picnic.
 
-After friends and neighbors finished eating, they lingered in conversation while small children ran about the spacious backyard. The several swings and the distracted state of their parents encouraged them to engage in the kind of unstructured play that seems to be vanishing into history these days.
+After friends and neighbors finished eating, they lingered in conversation while small children ran about the spacious backyard. The several swings and the distracted state of their parents encouraged them to engage in unstructured play, a type of activity rare in children’s lives in the present era.
 
 ## Gallery: National Night Out, 2018
 
@@ -40,18 +40,29 @@ We brought along a medium format camera loaded with Kodak Tri&NoBreak;-&NoBreak;
 
 <mpb-dialog-gallery hint rel cols="8">
   
-  ![Lieutenant Cary Bryant Discusses Neighorhood Issues with Karin Teresa Fain — Faculty Heights Neighborhood National Night Out, 2018](/assets/images/blog/2018-10-09-natl-night-out/czahller-20181002-17-05-19.jpg)
-  ![Waiting for Burgers — Faculty Heights Neighborhood National Night Out, 2018](/assets/images/blog/2018-10-09-natl-night-out/czahller-20181002-17-08-52.jpg)
-  ![Lieutenant Cary Bryant Directs Virginia Reynolds to a Seat — Faculty Heights Neighborhood National Night Out, 2018](/assets/images/blog/2018-10-09-natl-night-out/czahller-20181002-17-13-21.jpg)
-  ![Michael Walker, Grill Master — Faculty Heights Neighborhood National Night Out, 2018](/assets/images/blog/2018-10-09-natl-night-out/czahller-20181002-17-41-24.jpg)
-  ![Community Liaison — Faculty Heights Neighborhood National Night Out, 2018](/assets/images/blog/2018-10-09-natl-night-out/czahller-20181002-17-50-57.jpg)
-  ![Somebody Please Give Me a Push! — Faculty Heights Neighborhood National Night Out, 2018](/assets/images/blog/2018-10-09-natl-night-out/czahller-20181002-18-18-24.jpg)
-  ![Swing (I) — Faculty Heights Neighborhood National Night Out, 2018](/assets/images/blog/2018-10-09-natl-night-out/czahller-20181002-18-28-42.jpg)
-  ![Swing (II) — Faculty Heights Neighborhood National Night Out, 2018](/assets/images/blog/2018-10-09-natl-night-out/czahller-20181002-18-34-16.jpg)
-  ![Swing (III) — Faculty Heights Neighborhood National Night Out, 2018](/assets/images/blog/2018-10-09-natl-night-out/czahller-20181002-18-39-41.jpg)
-  ![Virginia & Robert — Faculty Heights Neighborhood National Night Out, 2018](/assets/images/blog/2018-10-09-natl-night-out/czahller-20181002-18-45-32.jpg)
-  ![Evan Dunn Teaches Willow Arana Guitar Fundamentals — Faculty Heights Neighborhood National Night Out, 2018](/assets/images/blog/2018-10-09-natl-night-out/czahller-20181002-18-51-18.jpg)
-  ![Rita Keresztesi & Katie Marske Are Not Amused (Get That Camera Out of My Face!) — Faculty Heights Neighborhood National Night Out, 2018](/assets/images/blog/2018-10-09-natl-night-out/czahller-20181002-19-11-51.jpg)
+  {% image "./src/assets/images/blog/2018-10-09-natl-night-out/czahller-20181002-17-05-19.jpg", "", "Lieutenant Cary Bryant discusses neighorhood issues with Karin Teresa Fain", "Lieutenant Cary Bryant Discusses Neighorhood Issues with Karin Teresa Fain" %}
+
+  {% image "./src/assets/images/blog/2018-10-09-natl-night-out/czahller-20181002-17-08-52.jpg", "", "Karin Teresa Fain and another woman sit at a picnic table. Others stand and converse.", "Waiting for Burgers" %}
+
+  {% image "./src/assets/images/blog/2018-10-09-natl-night-out/czahller-20181002-17-13-21.jpg", "", "Police Lieutenant Bryant help Virginia Reynolds find a seat", "Lieutenant Cary Bryant Directs Virginia Reynolds to a Seat" %}
+
+  {% image "featured", "", "Michael Walker grills burgers", "Michael Walker, Grill Master" %}
+
+  {% image "./src/assets/images/blog/2018-10-09-natl-night-out/czahller-20181002-17-50-57.jpg", "", "A police officer and two neighbors", "Community Liaison" %}
+
+  {% image "./src/assets/images/blog/2018-10-09-natl-night-out/czahller-20181002-18-18-24.jpg", "", "A child sits on a swing while adults converse nearby", "Somebody Please Give Me a Push!" %}
+
+  {% image "./src/assets/images/blog/2018-10-09-natl-night-out/czahller-20181002-18-28-42.jpg", "", "A father helps his daughter with the tree swing", "Swing (I)" %}
+
+  {% image "./src/assets/images/blog/2018-10-09-natl-night-out/czahller-20181002-18-34-16.jpg", "", "A girl on the tree swing", "Swing (II)" %}
+
+  {% image "./src/assets/images/blog/2018-10-09-natl-night-out/czahller-20181002-18-39-41.jpg", "", "A father pushes his daughter on the tree swing", "Swing (III)" %}
+
+  {% image "./src/assets/images/blog/2018-10-09-natl-night-out/czahller-20181002-18-45-32.jpg", "", "Virginia & Robert", "Virginia & Robert" %}
+
+  {% image "./src/assets/images/blog/2018-10-09-natl-night-out/czahller-20181002-18-51-18.jpg", "", "Evan Dunn teaches Willow Arana guitar fundamentals", "Evan Dunn Teaches Willow Arana Guitar Fundamentals" %}
+
+  {% image "./src/assets/images/blog/2018-10-09-natl-night-out/czahller-20181002-19-11-51.jpg", "", "Rita Keresztesi & Katie Marske. Their expressions suggest they prefer not to be photographed.", "Rita Keresztesi & Katie Marske Are Not Amused (Get That Camera Out of My Face!)" %}
 </mpb-dialog-gallery>
 
 ## Technical
@@ -68,6 +79,7 @@ Camera
 
 Lens
 : Carl Zeiss Distagon CF T* 50mm &fnof;/4,0
+: **NOTE**: We used the incorrect lens shade, which caused the images to be vignetted
 
 Aperture
 : &fnof;/8

@@ -33,7 +33,7 @@ A crasher with a camera
   </stack-l>
 </hgroup><mpb-dialog-img>
 
-{% image "featured", "img-constrained", "Jacklyn Guthrie, Cathy Guthrie, Sophia Irion, & Mez Mezera in the Green Room — Backstage at the 21st Annual Woody Guthrie Festival, 2018", "Jacklyn Guthrie, Cathy Guthrie, Sophia Irion, & Mez Mezera in the Green Room&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;Backstage at the 21st Annual Woody Guthrie Festival, 2018", "eager" %}</mpb-dialog-img>
+{% image "featured", "", "Jacklyn Guthrie, Cathy Guthrie, Sophia Irion, & Mez Mezera in the Green Room", "Jacklyn Guthrie, Cathy Guthrie, Sophia Irion, & Mez Mezera in the Green Room", "eager" %}</mpb-dialog-img>
 
 We took the same medium format gear to the Pastures of Plenty backstage on Woodyfest 2019 <time datetime="20180714">Saturday</time> as we had on <time datetime="2018-07-12T18:16:50-5:00">[Thursday](/blog/woodyfest-2018-thursday-backstage/)</time> and <time datetime="2018-07-13T18:46:57-5:00">[Friday](/blog/woodyfest-2018-friday-backstage/)</time>. We’ve [already written](/blog/woodyfest-2018-thursday-backstage/) about the facilities improvements to the outdoor venue. Unless you care to read about them, we suggest you [skip to <time datetime="2018-07-14T17:31:21-5:00">Saturday</time>’s pictures](#gallery)!
 
@@ -47,20 +47,33 @@ Here are <time datetime="2018-07-14T19:08:35-5:00">the third night</time>&rsquo;
 
 <mpb-dialog-gallery hint rel cols="8">
 
-  ![Jared Tyler & Chris Buhalis — Backstage at the Crystal Theatre, 21st Annual Woody Guthrie Festival, 2018](/assets/images/blog/2019-02-08-woodyfest-backstage-saturday/czahller-20180714-17-31-21.jpg)
-  ![Roger Osburn — Backstage at the Crystal Theatre, 21st Annual Woody Guthrie Festival, 2018](/assets/images/blog/2019-02-08-woodyfest-backstage-saturday/czahller-20180714-17-31-41.jpg)
-  ![Tabatha Greer, Hank Woji, & Sam Baker — Backstage at the 21st Annual Woody Guthrie Festival, 2018](/assets/images/blog/2019-02-08-woodyfest-backstage-saturday/czahller-20180714-19-08-35.jpg)
-  ![GiGi Benno, Crys Matthews, Luke Callen, & Rachel Cline — Backstage at the 21st Annual Woody Guthrie Festival, 2018](/assets/images/blog/2019-02-08-woodyfest-backstage-saturday/czahller-20180714-20-45-45.jpg)
-  ![Chris Blevins, Laney Brassfield, Cheyenne Felker, GiGi Benno, Crys Matthews, Luke Callen, & Rachel Cline — Backstage at the 21st Annual Woody Guthrie Festival, 2018](/assets/images/blog/2019-02-08-woodyfest-backstage-saturday/czahller-20180714-20-53-38.jpg)
-  ![Abbie Gardner, Seth Glier, & Ellis Paul — Backstage at the 21st Annual Woody Guthrie Festival, 2018](/assets/images/blog/2019-02-08-woodyfest-backstage-saturday/czahller-20180714-21-03-20.jpg)
-  ![Bob Livingston, Don Conoscenti, & Vivian Nesbitt — Backstage at the 21st Annual Woody Guthrie Festival, 2018](/assets/images/blog/2019-02-08-woodyfest-backstage-saturday/czahller-20180714-21-14-44.jpg)
-  ![Guy V. Zähller, Josh OKeefe, & Cora Carpenter — Backstage at the 21st Annual Woody Guthrie Festival, 2018](/assets/images/blog/2019-02-08-woodyfest-backstage-saturday/czahller-20180714-21-19-57.jpg)
-  ![Matheus Veradino, Michael “Banjo Mike” Mullholan, Cole Rotante, & Christian Apuzzo — Backstage at the 21st Annual Woody Guthrie Festival, 2018](/assets/images/blog/2019-02-08-woodyfest-backstage-saturday/czahller-20180714-21-31-14.jpg)
-  ![Jacklyn Guthrie, Cathy Guthrie, Sophia Irion, & Mez Mezera in the Green Room — Backstage at the 21st Annual Woody Guthrie Festival, 2018](/assets/images/blog/2019-02-08-woodyfest-backstage-saturday/czahller-20180714-21-48-34.jpg)
-  ![Bob Sokol, Hank Woji, Vivian Nesbitt, & Johnsmith — Backstage at the 21st Annual Woody Guthrie Festival, 2018](/assets/images/blog/2019-02-08-woodyfest-backstage-saturday/czahller-20180714-21-54-21.jpg)
-  ![Louise Goldberg & Mary Reynolds — Backstage at the 21st Annual Woody Guthrie Festival, 2018](/assets/images/blog/2019-02-08-woodyfest-backstage-saturday/czahller-20180714-22-00-00.jpg)
-  ![Michael “Banjo Mike” Mullholan, Cole Quest Rotante, Christian Apuzzo, & Matheus Veradino — Backstage at the 21st Annual Woody Guthrie Festival, 2018](/assets/images/blog/2019-02-08-woodyfest-backstage-saturday/czahller-20180714-22-05-00.jpg)
-  ![Jaimee Harris, Chris Buhalis, & Christina Cavazos — Backstage at the 21st Annual Woody Guthrie Festival, 2018](/assets/images/blog/2019-02-08-woodyfest-backstage-saturday/czahller-20180714-22-10-18.jpg)
+  {% image "./src/assets/images/blog/2019-02-08-woodyfest-backstage-saturday/czahller-20180714-17-31-21.jpg", "", "Jared Tyler & Chris Buhalis backstage at the Crystal Theatre", "Jared Tyler & Chris Buhalis" %}
+
+  {% image "./src/assets/images/blog/2019-02-08-woodyfest-backstage-saturday/czahller-20180714-17-31-41.jpg", "", "Roger Osburn backstage at the Crystal Theatre", "Roger Osburn" %}
+
+  {% image "./src/assets/images/blog/2019-02-08-woodyfest-backstage-saturday/czahller-20180714-19-08-35.jpg", "", "Tabatha Greer, Hank Woji, & Sam Baker backstage at the Pastures of Plenty", "Tabatha Greer, Hank Woji, & Sam Baker" %}
+
+  {% image "./src/assets/images/blog/2019-02-08-woodyfest-backstage-saturday/czahller-20180714-20-45-45.jpg", "", "GiGi Benno, Crys Matthews, Luke Callen, & Rachel Cline backstage at the Pastures of Plenty", "GiGi Benno, Crys Matthews, Luke Callen, & Rachel Cline" %}
+
+  {% image "./src/assets/images/blog/2019-02-08-woodyfest-backstage-saturday/czahller-20180714-20-53-38.jpg", "", "Chris Blevins, Laney Brassfield, Cheyenne Felker, GiGi Benno, Crys Matthews, Luke Callen, & Rachel Cline backstage at the Pastures of Plenty", "Chris Blevins, Laney Brassfield, Cheyenne Felker, GiGi Benno, Crys Matthews, Luke Callen, & Rachel Cline" %}
+
+  {% image "./src/assets/images/blog/2019-02-08-woodyfest-backstage-saturday/czahller-20180714-21-03-20.jpg", "", "Abbie Gardner, Seth Glier, & Ellis Paul in the canteen, backstage at the Pastures of Plenty", "Abbie Gardner, Seth Glier, & Ellis Paul" %}
+
+  {% image "./src/assets/images/blog/2019-02-08-woodyfest-backstage-saturday/czahller-20180714-21-14-44.jpg", "", "Bob Livingston, Don Conoscenti, & Vivian Nesbitt backstage at the Pastures of Plenty", "Bob Livingston, Don Conoscenti, & Vivian Nesbitt" %}
+
+  {% image "./src/assets/images/blog/2019-02-08-woodyfest-backstage-saturday/czahller-20180714-21-19-57.jpg", "", "Guy V. Zähller, Josh OKeefe, & Cora Carpenter in the canteen, backstage at the Pastures of Plenty", "Guy V. Zähller, Josh OKeefe, & Cora Carpenter" %}
+
+  {% image "./src/assets/images/blog/2019-02-08-woodyfest-backstage-saturday/czahller-20180714-21-31-14.jpg", "", "Matheus Veradino, Michael “Banjo Mike” Mullholan, Cole Rotante, & Christian Apuzzo backstage at the Pastures of Plenty", "Matheus Veradino, Michael “Banjo Mike” Mullholan, Cole Rotante, & Christian Apuzzo" %}
+
+  {% image "featured", "", "Jacklyn Guthrie, Cathy Guthrie, Sophia Irion, & Mez Mezera in the Green Room", "Jacklyn Guthrie, Cathy Guthrie, Sophia Irion, & Mez Mezera in the Green Room" %}
+
+  {% image "./src/assets/images/blog/2019-02-08-woodyfest-backstage-saturday/czahller-20180714-21-54-21.jpg", "", "Bob Sokol, Hank Woji, Vivian Nesbitt, & Johnsmith in the canteen, backstage at the Pastures of Plenty", "Bob Sokol, Hank Woji, Vivian Nesbitt, & Johnsmith" %}
+
+  {% image "./src/assets/images/blog/2019-02-08-woodyfest-backstage-saturday/czahller-20180714-22-00-00.jpg", "", "Louise Goldberg & Mary Reynolds backstage at the Pastures of Plenty", "Louise Goldberg & Mary Reynolds" %}
+
+  {% image "./src/assets/images/blog/2019-02-08-woodyfest-backstage-saturday/czahller-20180714-22-05-00.jpg", "", "Michael “Banjo Mike” Mullholan, Cole Quest Rotante, Christian Apuzzo, & Matheus Veradino backstage at the Pastures of Plenty", "Michael “Banjo Mike” Mullholan, Cole Quest Rotante, Christian Apuzzo, & Matheus Veradino" %}
+
+  {% image "./src/assets/images/blog/2019-02-08-woodyfest-backstage-saturday/czahller-20180714-22-10-18.jpg", "", "Jaimee Harris, Chris Buhalis, & Christina Cavazos backstage at the Pastures of Plenty", "" %}
 </mpb-dialog-gallery>
 
 ## Technical

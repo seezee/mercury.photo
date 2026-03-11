@@ -17,7 +17,7 @@ excerpt: The zombie run was followed by an after-party (the “after life party�
 
 <!-- markdownlint-enable MD025 --><mpb-dialog-img>
 
-{% image "featured", "img-constrained", "The venue exterior. Windows boarded up with plywood; the words “Zombie bolt after life party” crudely spraypainted on them.", "The Venue — Zombie Bolt After Life Party, Guthrie, Oklahoma", "eager" %}</mpb-dialog-img>
+{% image "featured", "", "The venue exterior. Windows boarded up with plywood; the words “Zombie bolt after life party” crudely spray-painted on them.", "The Venue", "eager" %}</mpb-dialog-img>
 
 Recap: <time datime="2010-10-24">Five years ago</time> we published [a story](/blog/zombie-bolt/) about the 5K zombie race in Guthrie, Oklahoma. At the time we shared only a portion of the photos we shot during the race, relegating the remainder to <span class="h-card p-org">Flickr</span>. Since then Flickr have changed their [terms of service](https://blog.flickr.net/en/2018/11/01/changing-flickr-free-accounts-1000-photos/){target="_blank" rel="external noopener"}. We’re currently moving many of our photos from the platform to this blog.
 
@@ -27,37 +27,69 @@ These are the photos from the after-party. [The rest of the "new" pictures start
 
 <mpb-dialog-gallery hint rel cols="8">
   
-  ![The Venue — Zombie Bolt After Life Party, Guthrie, Oklahoma](/assets/images/blog/2019-05-17-zombie-run-afterparty/czahller-20121006-18-01-20.jpg)
-  ![Zombie Girl with Batman Hat — Zombie Bolt After Life Party, Guthrie, Oklahoma](/assets/images/blog/2019-05-17-zombie-run-afterparty/czahller-20121006-18-11-41.jpg)
-  ![Beer Slinger (I) — Zombie Bolt After Life Party, Guthrie, Oklahoma](/assets/images/blog/2019-05-17-zombie-run-afterparty/czahller-20121006-18-15-17.jpg)
-  ![Beer Slinger (II)— Zombie Bolt After Life Party, Guthrie, Oklahoma](/assets/images/blog/2019-05-17-zombie-run-afterparty/czahller-20121006-18-15-30.jpg)
-  ![Greaser Zombie; Zombie Bride — Zombie Bolt After Life Party, Guthrie, Oklahoma](/assets/images/blog/2019-05-17-zombie-run-afterparty/czahller-20121006-18-16-18.jpg)
-  ![Having a Bad Day — Zombie Bolt After Life Party, Guthrie, Oklahoma](/assets/images/blog/2019-05-17-zombie-run-afterparty/czahller-20121006-18-16-43.jpg)
-  ![Zombie Telecommunication — Zombie Bolt After Life Party, Guthrie, Oklahoma](/assets/images/blog/2019-05-17-zombie-run-afterparty/czahller-20121006-18-17-18.jpg)
-  ![Partygoers (I) — Zombie Bolt After Life Party, Guthrie, Oklahoma](/assets/images/blog/2019-05-17-zombie-run-afterparty/czahller-20121006-18-17-57.jpg)
-  ![Partygoers (II) — Zombie Bolt After Life Party, Guthrie, Oklahoma](/assets/images/blog/2019-05-17-zombie-run-afterparty/czahller-20121006-18-19-19.jpg)
-  ![Zombie Practicing Her Conversional Skills — Zombie Bolt After Life Party, Guthrie, Oklahoma](/assets/images/blog/2019-05-17-zombie-run-afterparty/czahller-20121006-18-19-32.jpg)
-  ![Another Zombie Practicing Her Conversional Skills — Zombie Bolt After Life Party, Guthrie, Oklahoma](/assets/images/blog/2019-05-17-zombie-run-afterparty/czahller-20121006-18-19-40.jpg)
-  ![Rule #25: Shoot First — Zombie Bolt After Life Party, Guthrie, Oklahoma](/assets/images/blog/2019-05-17-zombie-run-afterparty/czahller-20121006-18-19-56.jpg)
-  ![Zombie Party! — Zombie Bolt After Life Party, Guthrie, Oklahoma](/assets/images/blog/2019-05-17-zombie-run-afterparty/czahller-20121006-18-21-10.jpg)
-  ![The Convict (III) — Zombie Bolt After Life Party, Guthrie, Oklahoma](/assets/images/blog/2019-05-17-zombie-run-afterparty/czahller-20121006-18-21-13.jpg)
-  ![Madonna and Child — Zombie Bolt After Life Party, Guthrie, Oklahoma](/assets/images/blog/2019-05-17-zombie-run-afterparty/czahller-20121006-18-22-10.jpg)
-  ![What Zombies Do in Their Leisure Hours — Zombie Bolt After Life Party, Guthrie, Oklahoma](/assets/images/blog/2019-05-17-zombie-run-afterparty/czahller-20121006-18-22-35.jpg)
-  ![Cheerleader & Tutu — Zombie Bolt After Life Party, Guthrie, Oklahoma](/assets/images/blog/2019-05-17-zombie-run-afterparty/czahller-20121006-18-24-01.jpg)
-  ![Partygoers (III) — Zombie Bolt After Life Party, Guthrie, Oklahoma](/assets/images/blog/2019-05-17-zombie-run-afterparty/czahller-20121006-18-26-55.jpg)
-  ![Partygoers (IV) — Zombie Bolt After Life Party, Guthrie, Oklahoma](/assets/images/blog/2019-05-17-zombie-run-afterparty/czahller-20121006-18-27-13.jpg)
-  ![Bruce Nobles, Zombie Priest (Cheers) — Zombie Bolt After Life Party, Guthrie, Oklahoma](/assets/images/blog/2019-05-17-zombie-run-afterparty/czahller-20121006-18-33-58.jpg)
-  ![Party Conversation — Zombie Bolt After Life Party, Guthrie, Oklahoma](/assets/images/blog/2019-05-17-zombie-run-afterparty/czahller-20121006-18-34-25.jpg)
-  ![Smile! — Zombie Bolt After Life Party, Guthrie, Oklahoma](/assets/images/blog/2019-05-17-zombie-run-afterparty/czahller-20121006-18-34-54.jpg)
-  ![Aleks (The Secret Post) and Christopher (Kill the Reflection) — Zombie Bolt After Life Party, Guthrie, Oklahoma](/assets/images/blog/2019-05-17-zombie-run-afterparty/czahller-20121006-18-35-01.jpg)
-  ![Little Man with a Camera Phone — Zombie Bolt After Life Party, Guthrie, Oklahoma](/assets/images/blog/2019-05-17-zombie-run-afterparty/czahller-20121006-18-37-03.jpg)
-  ![iPhones Are Making Us Zombies — Zombie Bolt After Life Party, Guthrie, Oklahoma](/assets/images/blog/2019-05-17-zombie-run-afterparty/czahller-20121006-18-45-29.jpg)
-  ![Aleks (The Secret Post) and Holly — Zombie Bolt After Life Party, Guthrie, Oklahoma](/assets/images/blog/2019-05-17-zombie-run-afterparty/czahller-20121006-18-45-55.jpg)
-  ![Cruel Shoes (boots with spike heels) — Zombie Bolt After Life Party, Guthrie, Oklahoma](/assets/images/blog/2019-05-17-zombie-run-afterparty/czahller-20121006-18-49-33.jpg)
-  ![Enjoy Grapette Soda (sign painted on venue exterior) — Zombie Bolt After Life Party, Guthrie, Oklahoma](/assets/images/blog/2019-05-17-zombie-run-afterparty/czahller-20121006-18-50-52.jpg)
-  ![Nicoli (The Secret Post) and Friend — Zombie Bolt After Life Party, Guthrie, Oklahoma](/assets/images/blog/2019-05-17-zombie-run-afterparty/czahller-20121006-18-57-37.jpg)
-  ![Chad’s 2nd Office (The Head) — Zombie Bolt After Life Party, Guthrie, Oklahoma](/assets/images/blog/2019-05-17-zombie-run-afterparty/czahller-20121006-19-20-07.jpg)
-  ![Audience (II) — Zombie Bolt After Life Party, Guthrie, Oklahoma](/assets/images/blog/2019-05-17-zombie-run-afterparty/czahller-20121006-19-28-44.jpg)
-  ![Family — Zombie Bolt After Life Party, Guthrie, Oklahoma](/assets/images/blog/2019-05-17-zombie-run-afterparty/czahller-20121006-19-34-38.jpg)
-  ![Cheerleaders (Andria and Friend) — Zombie Bolt After Life Party, Guthrie, Oklahoma](/assets/images/blog/2019-05-17-zombie-run-afterparty/czahller-20121006-19-37-16.jpg)
+{% image "featured", "", "The venue exterior. Windows boarded up with plywood; the words “Zombie bolt after life party” crudely spray-painted on them.", "The Venue" %}
+
+{% image "./src/assets/images/blog/2019-05-17-zombie-run-afterparty/czahller-20121006-18-11-41.jpg", "", "Zombie Girl with Batman Hat", "Zombie Girl with Batman Hat" %}
+
+{% image "./src/assets/images/blog/2019-05-17-zombie-run-afterparty/czahller-20121006-18-15-17.jpg", "", "Woman serving beer from a pass-thru window", "Beer Slinger (I)" %}
+
+{% image "./src/assets/images/blog/2019-05-17-zombie-run-afterparty/czahller-20121006-18-15-30.jpg", "", "Woman serving beer from a pass-thru window", "Beer Slinger (II)" %}
+
+{% image "./src/assets/images/blog/2019-05-17-zombie-run-afterparty/czahller-20121006-18-16-18.jpg", "", "Greaser Zombie & Zombie Bride", "Greaser Zombie & Zombie Bride" %}
+
+{% image "./src/assets/images/blog/2019-05-17-zombie-run-afterparty/czahller-20121006-18-16-43.jpg", "", "A blood-spattered zombie with a bloody handprint on his shirt", "Having a Bad Day" %}
+
+{% image "./src/assets/images/blog/2019-05-17-zombie-run-afterparty/czahller-20121006-18-17-18.jpg", "", "A zombie looking at her phone", "Zombie Telecommunication" %}
+
+{% image "./src/assets/images/blog/2019-05-17-zombie-run-afterparty/czahller-20121006-18-17-57.jpg", "", "Partygoers", "Partygoers (I)" %}
+
+{% image "./src/assets/images/blog/2019-05-17-zombie-run-afterparty/czahller-20121006-18-19-19.jpg", "", "Partgoers", "Partygoers (II)" %}
+
+{% image "./src/assets/images/blog/2019-05-17-zombie-run-afterparty/czahller-20121006-18-19-32.jpg", "", "Zombie Practicing Her Conversational Skills", "Zombie Practicing Her Conversational Skills" %}
+
+{% image "./src/assets/images/blog/2019-05-17-zombie-run-afterparty/czahller-20121006-18-19-40.jpg", "", "Another Zombie Practicing Her Conversational Skills", "Another Zombie Practicing Her Conversational Skills" %}
+
+{% image "./src/assets/images/blog/2019-05-17-zombie-run-afterparty/czahller-20121006-18-19-56.jpg", "", "Two women wearing pink t-shirts that say “Rule #25: Shoot First” on the back", "Rule #25: Shoot First" %}
+
+{% image "./src/assets/images/blog/2019-05-17-zombie-run-afterparty/czahller-20121006-18-21-10.jpg", "", "Two zombies; one wears orange prison overalls and a necklace made of human hands and feet", "Zombie Party!" %}
+
+{% image "./src/assets/images/blog/2019-05-17-zombie-run-afterparty/czahller-20121006-18-21-13.jpg", "", "A zombie wearing orange prison overalls and a necklace made of human hands and feet", "The Convict (III)" %}
+
+{% image "./src/assets/images/blog/2019-05-17-zombie-run-afterparty/czahller-20121006-18-22-10.jpg", "", "Angel Stevens and her young son", "Madonna and Child" %}
+
+{% image "./src/assets/images/blog/2019-05-17-zombie-run-afterparty/czahller-20121006-18-22-35.jpg", "", "A Zombie holding a red plastic cup", "What Zombies Do in Their Leisure Hours" %}
+
+{% image "./src/assets/images/blog/2019-05-17-zombie-run-afterparty/czahller-20121006-18-24-01.jpg", "", "A young women dressed as a cheerleader and another wearing a pink tutu pose for the photographer", "Cheerleader & Tutu" %}
+
+{% image "./src/assets/images/blog/2019-05-17-zombie-run-afterparty/czahller-20121006-18-26-55.jpg", "", "Partygoers", "Partygoers (III)" %}
+
+{% image "./src/assets/images/blog/2019-05-17-zombie-run-afterparty/czahller-20121006-18-27-13.jpg", "", "Partygoers", "Partygoers (IV)" %}
+
+{% image "./src/assets/images/blog/2019-05-17-zombie-run-afterparty/czahller-20121006-18-33-58.jpg", "", "Bruce Nobles raises a red cup while dressed as a zombie priest", "Bruce Nobles, Zombie Priest (Cheers)" %}
+
+{% image "./src/assets/images/blog/2019-05-17-zombie-run-afterparty/czahller-20121006-18-34-25.jpg", "", "Party Conversation", "Party Conversation" %}
+
+{% image "./src/assets/images/blog/2019-05-17-zombie-run-afterparty/czahller-20121006-18-34-54.jpg", "", "Young redhead smiling for the camera", "Smile!" %}
+
+{% image "./src/assets/images/blog/2019-05-17-zombie-run-afterparty/czahller-20121006-18-35-01.jpg", "", "Aleks, guitarist for The Secret Post, with Christopher, drummer for Kill the Reflection", "Aleks (The Secret Post) and Christopher (Kill the Reflection)" %}
+
+{% image "./src/assets/images/blog/2019-05-17-zombie-run-afterparty/czahller-20121006-18-37-03.jpg", "", "Angel Stevens’ young son holding a phone", "Little Man with a Camera Phone" %}
+
+{% image "./src/assets/images/blog/2019-05-17-zombie-run-afterparty/czahller-20121006-18-45-29.jpg", "", "Zombie looking at his phone while talking to other zombies", "iPhones Are Making Us Zombies" %}
+
+{% image "./src/assets/images/blog/2019-05-17-zombie-run-afterparty/czahller-20121006-18-45-55.jpg", "", "Aleks and his wife, Holly", "Aleks (The Secret Post) and Holly" %}
+
+{% image "./src/assets/images/blog/2019-05-17-zombie-run-afterparty/czahller-20121006-18-49-33.jpg", "", "Boots with spike heels", "Cruel Shoes (boots with spike heels)" %}
+
+{% image "./src/assets/images/blog/2019-05-17-zombie-run-afterparty/czahller-20121006-18-50-52.jpg", "", "Enjoy Grapette Soda (sign painted on venue exterior)", "Enjoy Grapette Soda (sign painted on venue exterior)" %}
+
+{% image "./src/assets/images/blog/2019-05-17-zombie-run-afterparty/czahller-20121006-18-57-37.jpg", "", "Nicoli drummer for The Secret Post, and a lady friend", "Nicoli (The Secret Post) and Friend" %}
+
+{% image "./src/assets/images/blog/2019-05-17-zombie-run-afterparty/czahller-20121006-19-20-07.jpg", "", "Graffiti on the bathroom door reading “Chad’s 2nd Office”", "Chad’s 2nd Office (The Head)" %}
+
+{% image "./src/assets/images/blog/2019-05-17-zombie-run-afterparty/czahller-20121006-19-28-44.jpg", "", "Audience (II)", "Audience (II)" %}
+
+{% image "./src/assets/images/blog/2019-05-17-zombie-run-afterparty/czahller-20121006-19-34-38.jpg", "", "Family (mother, father, two sons) wearing Zombie Bolt t-shirts", "Family" %}
+
+{% image "./src/assets/images/blog/2019-05-17-zombie-run-afterparty/czahller-20121006-19-37-16.jpg", "", "Two young women dressed as cheerleaders", "Cheerleaders (Andria and Friend)" %}
 </mpb-dialog-gallery>

@@ -15,7 +15,7 @@ excerpt: My friend David Goad needed a refresher course on driving a manual tran
 
 <!-- markdownlint-enable MD025 --><mpb-dialog-img>
 
-{% image "featured", "img-constrained", "David, a slender young man with blue hair, sits at a bar with a cocktail in his hand, about to take a sip.", "Davey at Blackbird", "eager" %}</mpb-dialog-img>
+{% image "featured", "", "David, a slender young man with blue hair, sits at a bar with a cocktail in his hand, about to take a sip.", "Davey at Blackbird", "eager" %}</mpb-dialog-img>
 
 My friend <span class="h-card p-name">David Goad</span> (<span class="h-card p-org">[Kali-Ra](/blog/kali-ra-interview-pt-1/)</span>, <span class="h-card p-org">Of the Tower</span>) and his wife <span class="h-card p-name"><span class="p-given-name">Alicia</span></span> are heading to Europe for vacation soon. David needed a refresher course on driving a manual transmission vehicle, since the rental cars will have stick-shifts.
 

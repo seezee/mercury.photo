@@ -27,7 +27,7 @@ excerpt: According to their band bio, The Damn Quails began life as a weekly jam
 <p>From jam session to touring band</p></stack-l></hgroup>
 <!-- markdownlint-enable MD025 --><mpb-dialog-img>
 
-{% image "featured", "img-constrained", "Cigarette (detail) — 21st Annual Woody Guthrie Festival, 2018", "Cigarette (detail)&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;21st Annual Woody Guthrie Festival, 2018", "eager" %}</mpb-dialog-img>
+{% image "featured", "", "Cropped closeup of cigarette held in Bryon White’s left (fretting) hand while he plays guitar", "Cigarette (detail)", "eager" %}</mpb-dialog-img>
 
 According to their band bio, <span class="h-card p-org">The Damn Quails</span> began life as a weekly jam session between songwriters and core band members <span class="h-card p-name">Gabe Marshall</span> and <span class="h-card p-name">Bryon White</span>. Eventually expanding to a five-piece act, the band added drummer <span class="h-card p-name">Thomas Young</span>, multi-instrumentalist and singer <span class="h-card p-name">Kevin <span class="p-nickname">“Haystack”</span> Foster</span>, and bassist <span class="h-card p-name">Dillon Sampson</span>.{.drop-cap}
 
@@ -43,16 +43,27 @@ The Quails played a pared down set at Lou’s Rocky Road Tavern on festival <tim
 
 <mpb-dialog-gallery hint rel cols="8">
   
-  ![The Damn Quails (I) — 21st Annual Woody Guthrie Festival, 2018](/assets/images/blog/2018-12-21-woodyfest-damn-quails/czahller-20180713-18-00-09.jpg)
-  ![The Damn Quails (II) — 21st Annual Woody Guthrie Festival, 2018](/assets/images/blog/2018-12-21-woodyfest-damn-quails/czahller-20180713-18-00-14.jpg)
-  ![Bryon White — 21st Annual Woody Guthrie Festival, 2018](/assets/images/blog/2018-12-21-woodyfest-damn-quails/czahller-20180713-18-00-39.jpg)
-  ![Gabe Marshall — 21st Annual Woody Guthrie Festival, 2018](/assets/images/blog/2018-12-21-woodyfest-damn-quails/czahller-20180713-18-00-52.jpg)
-  ![Bryon (I) — 21st Annual Woody Guthrie Festival, 2018](/assets/images/blog/2018-12-21-woodyfest-damn-quails/czahller-20180713-18-01-19.jpg)
-  ![Gabe (I) — 21st Annual Woody Guthrie Festival, 2018](/assets/images/blog/2018-12-21-woodyfest-damn-quails/czahller-20180713-18-01-39.jpg)
-  ![Gabe (II) — 21st Annual Woody Guthrie Festival, 2018](/assets/images/blog/2018-12-21-woodyfest-damn-quails/czahller-20180713-18-01-58.jpg)
-  ![Damn Quails (III) — 21st Annual Woody Guthrie Festival, 2018](/assets/images/blog/2018-12-21-woodyfest-damn-quails/czahller-20180713-18-02-05.jpg)
-  ![Bryon (II) — 21st Annual Woody Guthrie Festival, 2018](/assets/images/blog/2018-12-21-woodyfest-damn-quails/czahller-20180713-18-02-10.jpg)
-  ![Cigarette — 21st Annual Woody Guthrie Festival, 2018](/assets/images/blog/2018-12-21-woodyfest-damn-quails/czahller-20180713-18-12-27.jpg)
-  ![Bryon’s Guitar (Detail) — 21st Annual Woody Guthrie Festival, 2018](/assets/images/blog/2018-12-21-woodyfest-damn-quails/czahller-20180713-18-12-36.jpg)
-  ![Audience, Damn Quails — 21st Annual Woody Guthrie Festival, 2018](/assets/images/blog/2018-12-21-woodyfest-damn-quails/czahller-20180713-18-20-15.jpg)
+  {% image "./src/assets/images/blog/2018-12-21-woodyfest-damn-quails/czahller-20180713-18-00-09.jpg", "", "Gabe Marshall & Bryon White", "The Damn Quails (I)" %}
+
+  {% image "./src/assets/images/blog/2018-12-21-woodyfest-damn-quails/czahller-20180713-18-00-14.jpg", "", "Gabe Marshall & Bryon White", "The Damn Quails (II)" %}
+
+  {% image "./src/assets/images/blog/2018-12-21-woodyfest-damn-quails/czahller-20180713-18-00-39.jpg", "", "Bryon White", "Bryon White" %}
+
+  {% image "./src/assets/images/blog/2018-12-21-woodyfest-damn-quails/czahller-20180713-18-00-52.jpg", "", "Gabe Marshall", "Gabe Marshall" %}
+
+  {% image "./src/assets/images/blog/2018-12-21-woodyfest-damn-quails/czahller-20180713-18-01-19.jpg", "", "Bryon White", "Bryon (I)" %}
+
+  {% image "./src/assets/images/blog/2018-12-21-woodyfest-damn-quails/czahller-20180713-18-01-39.jpg", "", "Gabe Marshall", "Gabe (I)" %}
+
+  {% image "./src/assets/images/blog/2018-12-21-woodyfest-damn-quails/czahller-20180713-18-01-58.jpg", "", "Gabe Marshall", "Gabe (II)" %}
+
+  {% image "./src/assets/images/blog/2018-12-21-woodyfest-damn-quails/czahller-20180713-18-02-05.jpg", "", "Gabe Marshall & Bryon White", "Damn Quails (III)" %}
+
+  {% image "./src/assets/images/blog/2018-12-21-woodyfest-damn-quails/czahller-20180713-18-02-10.jpg", "", "Bryon White", "Bryon (II)" %}
+
+  {% image "./src/assets/images/blog/2018-12-21-woodyfest-damn-quails/czahller-20180713-18-12-27.jpg", "", "Closeup of cigarette held in Bryon White’s left (fretting) hand while he plays guitar", "Cigarette" %}
+
+  {% image "./src/assets/images/blog/2018-12-21-woodyfest-damn-quails/czahller-20180713-18-12-36.jpg", "", "Detail of Bryon White’s guitar various stickers, including ones for Kierston White, Tom Skinner, Shit Creek Survivor,the Lucky Girls, & Teague Knives", "Bryon’s Guitar (Detail)" %}
+
+  {% image "./src/assets/images/blog/2018-12-21-woodyfest-damn-quails/czahller-20180713-18-20-15.jpg", "", "Audience", "Audience, Damn Quails" %}
 </mpb-dialog-gallery>

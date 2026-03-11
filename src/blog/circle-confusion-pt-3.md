@@ -19,7 +19,7 @@ excerpt: I spent the next couple of months obsessively researching Leica cameras
 Research</stack-l></hgroup>
 <!-- markdownlint-enable MD025 --><mpb-dialog-img>
 
-{% image "featured", "img-constrained", "Leica Hektor 135mm f/4.5 lens. The lens is chrome with black Vulcanite and a black plastic rear cap. The front cap is aluminum and is debossed with the Leica script wordmark.", "Leica Hektor 135mm f/4.5 lens", "eager" %}</mpb-dialog-img>
+{% image "featured", "", "Leica Hektor 135mm f/4.5 lens. The lens is chrome with black Vulcanite and a black plastic rear cap. The front cap is aluminum and is debossed with the Leica script wordmark.", "Leica Hektor 135mm f/4.5 lens", "eager" %}</mpb-dialog-img>
 
 I spent the next couple of months obsessively researching Leica cameras and lenses. I began by downloading the [owner’s manual](https://www.cameramanuals.org/leica_pdf/leica_m3.pdf){target=_blank rel="external noopener"} for the M3 rangefinder. Then I practiced composing and focusing with no film in the camera.
 
@@ -38,7 +38,7 @@ Later reading revealed that the lens, a Hektor 135mm ƒ/4.5 manufactured circa <
 
 <mpb-dialog-img>
 
-{% image "./src/assets/images/blog/2012-08-22-circle-confusion-3/czahller-20120822-14-24-41.jpg", "img-constrained", "Leica Hektor 135mm f/4.5 lens. The lens is chrome with black Vulcanite and a black plastic rear cap. The front cap is aluminum and is debossed with the Leica script wordmark.", "Leica Hektor 135mm f/4.5 lens, mfr. date ca. 1955" %}</mpb-dialog-img>
+{% image "./src/assets/images/blog/2012-08-22-circle-confusion-3/czahller-20120822-14-24-41.jpg", "", "Leica Hektor 135mm f/4.5 lens. The lens is chrome with black Vulcanite and a black plastic rear cap. The front cap is aluminum and is debossed with the Leica script wordmark.", "Leica Hektor 135mm f/4.5 lens, mfr. date ca. 1955", "large" %}</mpb-dialog-img>
 
 After a little poking about the dusty corners of the internet, I found <span class="h-card p-name">Ken Rockwell</span>’s blog. Of particular interest is the section on [Leica lenses](https://www.kenrockwell.com/leica/lens-reviews.htm){target=_blank rel="external noopener"}. These are thorough, detailed, highly opinionated reviews, and required reading for anyone considering shooting with a **Leica** (or any other rangefinder, for that matter). Also informative were <span class="h-card p-name">Steve Huff</span>’s [reviews](https://stevehuffphoto.com){target=_blank rel="external noopener"} and CameraQuest’s [guide](https://www.cameraquest.com/mlenses.htm){target=_blank rel="external noopener"} to M-mount lenses.
 
@@ -46,7 +46,7 @@ My first instinct was to go cheap and buy **Voigtländer** (sometimes called **C
 
 <mpb-dialog-img>
 
-{% image "./src/assets/images/blog/2012-08-22-circle-confusion-3/czahller-20120630-23-04-29.jpg", "img-constrained", "Joe, a slight, elderly man; Erik, a talll, bald Dutchman, and Angelique, a young, attractive Dutchwoman with a huge smile, seated in a restaurant.", "Joe, Erik, & Angelique at Red Brick Pizza, Roswell, NM" %}</mpb-dialog-img>
+{% image "./src/assets/images/blog/2012-08-22-circle-confusion-3/czahller-20120630-23-04-29.jpg", "", "Joe, a slight, elderly man; Erik, a talll, bald Dutchman, and Angelique, a young, attractive Dutchwoman with a huge smile, seated in a restaurant.", "Joe, Erik, & Angelique at Red Brick Pizza, Roswell, NM", "large" %}</mpb-dialog-img>
 
 I spent a lot of time adding Leica and Zeiss lenses to my eBay watch list after that, thinking I’d buy a couple of lenses, and that would be that. But it was not to be. Remember the [Dutchman](http://photosteron.com){target=_blank rel="external noopener"} and his crazy digital Leica? I still lusted for the M9, but the price was pretty scary. Then I stumbled on <span class="h-card p-name">Thorsten Overgaard</span>’s blog.
 

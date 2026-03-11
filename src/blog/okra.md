@@ -20,7 +20,7 @@ excerpt: My acquaintance Robert Mark Campbell recently adopted a five-year-old c
 <!-- markdownlint-enable MD025 -->
 <mpb-dialog-img>
 
-{% image "featured", "img-constrained", "Okra, a small, black cairn terrier, lying on the seat of an hardwood arts and crafts—style chair. Her big, dark, warm, wet eyes look straight at the camera, evoking sympathy in the viewer.", "Okra in Chair (III)", "eager" %}</mpb-dialog-img>
+{% image "featured", "", "Okra, a small, black cairn terrier, lying on the seat of an hardwood arts and crafts—style chair. Her big, dark, warm, wet eyes look straight at the camera, evoking sympathy in the viewer.", "Okra in Chair (III)", "eager" %}</mpb-dialog-img>
 
 My acquaintance <span class="h-card p-name">Robert Mark Campbell</span> (he goes by “Mark”) recently adopted a five-year-old cairn terrier after his longtime therapy dog <span class="h-card p-name">Mr. Miyagi</span> died. The terrier’s name is <span class="h-card p-name">Mayella Okra</span>, or Okra for short.
 
@@ -30,19 +30,33 @@ Okra sat for me last <time datetime="2015-01-19">Monday</time> after Mark asked 
 
 <mpb-dialog-gallery hint rel cols="8">
 
-  ![Okra in Chair (I)](/assets/images/blog/2015-01-27-okra/czahller-20150119-03-13-32.jpg)
-  ![Okra in Chair (II)](/assets/images/blog/2015-01-27-okra/czahller-20150119-03-16-41.jpg)
-  ![Okra in Chair (III)](/assets/images/blog/2015-01-27-okra/czahller-20150119-03-16-49.jpg)
-  ![Closeup in Chair (I)](/assets/images/blog/2015-01-27-okra/czahller-20150119-03-21-14.jpg)
-  ![Closeup in Chair (II)](/assets/images/blog/2015-01-27-okra/czahller-20150119-03-22-36.jpg)
-  ![Closeup in Chair (III)](/assets/images/blog/2015-01-27-okra/czahller-20150119-03-24-20.jpg)
-  ![Closeup with White Backdrop (I)](/assets/images/blog/2015-01-27-okra/czahller-20150119-03-32-44.jpg)
-  ![Okra’s Tongue](/assets/images/blog/2015-01-27-okra/czahller-20150119-03-37-02.jpg)
-  ![Okra with Toys](/assets/images/blog/2015-01-27-okra/czahller-20150119-03-45-14.jpg)
-  ![Don’t Tease the Wookie (Okra wearing furry costume)](/assets/images/blog/2015-01-27-okra/czahller-20150119-03-48-55.jpg)
-  ![Possibly an Ewok (Okra wearing furry costume)](/assets/images/blog/2015-01-27-okra/czahller-20150119-03-49-38.jpg)
-  ![Mark & Okra](/assets/images/blog/2015-01-27-okra/czahller-20150119-04-07-45.jpg)
-  ![Mr Miyagi’s Ashes](/assets/images/blog/2015-01-27-okra/czahller-20150119-04-12-11.jpg)
-  ![Mr Miyagi’s Footprint (Memento Mori) (I)](/assets/images/blog/2015-01-27-okra/czahller-20150119-04-15-45.jpg)
-  ![Mr Miyagi’s Footprint (Memento Mori) (II)](/assets/images/blog/2015-01-27-okra/czahller-20150119-04-16-14.jpg)
+  {% image "./src/assets/images/blog/2015-01-27-okra/czahller-20150119-03-13-32.jpg", "", "Okra, a small, black cairn terrier", "Okra in Chair (I)" %}
+
+  {% image "./src/assets/images/blog/2015-01-27-okra/czahller-20150119-03-16-41.jpg", "", "Okra, a small, black cairn terrier", "Okra in Chair (II)" %}
+
+  {% image "featured", "", "Okra, a small, black cairn terrier, lying on the seat of an hardwood arts and crafts—style chair. Her big, dark, warm, wet eyes look straight at the camera, evoking sympathy in the viewer.", "Okra in Chair (III)" %}
+
+  {% image "./src/assets/images/blog/2015-01-27-okra/czahller-20150119-03-21-14.jpg", "", "Closeup of Okra", "Closeup in Chair (I)" %}
+
+  {% image "./src/assets/images/blog/2015-01-27-okra/czahller-20150119-03-22-36.jpg", "", "Closeup of Okra", "Closeup in Chair (II)" %}
+
+  {% image "./src/assets/images/blog/2015-01-27-okra/czahller-20150119-03-24-20.jpg", "", "Closeup of Okra", "Closeup in Chair (III)" %}
+
+  {% image "./src/assets/images/blog/2015-01-27-okra/czahller-20150119-03-32-44.jpg", "", "Closeup of Okra", "Closeup with White Backdrop (I)" %}
+
+  {% image "./src/assets/images/blog/2015-01-27-okra/czahller-20150119-03-37-02.jpg", "", "Okra sticks her tongue out. It forms a sideways “S”", "Okra’s Tongue" %}
+
+  {% image "./src/assets/images/blog/2015-01-27-okra/czahller-20150119-03-45-14.jpg", "", "Okra in a chair with a stuffed cartoon animal, possibly a horse, and various other toys", "Okra with Toys" %}
+
+  {% image "./src/assets/images/blog/2015-01-27-okra/czahller-20150119-03-48-55.jpg", "", "Okra wearing furry costume", "Don’t Tease the Wookie" %}
+
+  {% image "./src/assets/images/blog/2015-01-27-okra/czahller-20150119-03-49-38.jpg", "", "Okra wearing furry costume", "Possibly an Ewok" %}
+
+  {% image "./src/assets/images/blog/2015-01-27-okra/czahller-20150119-04-07-45.jpg", "", "Okra sits in Mark’s lap", "Mark & Okra" %}
+
+  {% image "./src/assets/images/blog/2015-01-27-okra/czahller-20150119-04-12-11.jpg", "", "Robert holds a box containing Mr Miyagi’s ashes", "Mr Miyagi’s Ashes" %}
+
+  {% image "./src/assets/images/blog/2015-01-27-okra/czahller-20150119-04-15-45.jpg", "", "Robert holds a cast of Mr Miyagi’s Footprint", "Mr Miyagi’s Footprint (Memento Mori) (I)" %}
+
+  {% image "./src/assets/images/blog/2015-01-27-okra/czahller-20150119-04-16-14.jpg", "", "Robert holds a cast of Mr Miyagi’s Footprint", "Mr Miyagi’s Footprint (Memento Mori) (II)" %}
 </mpb-dialog-gallery>

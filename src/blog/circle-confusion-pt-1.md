@@ -18,7 +18,7 @@ excerpt: My best friend Joe Crumley is an interesting character.
 
 <!-- markdownlint-enable MD025 --><mpb-dialog-img>
 
-{% image "featured", "img-constrained", "Joe, a slight, older man with fine white hair & eyeglasses, holding a black-painted Leica rangefinder camera. The image is monochrome with blue & green split-toning.", "Joe Crumley with his trusty Leica M4-P.", "eager" %}</mpb-dialog-img>
+{% image "featured", "", "Joe, a slight, older man with fine white hair & eyeglasses, holding a black-painted Leica rangefinder camera. The image is monochrome with blue & green split-toning.", "Joe Crumley with his trusty Leica M4-P.", "eager" %}</mpb-dialog-img>
 
 <figure>
   <figcaption>Dedication</figcaption>
@@ -34,7 +34,7 @@ He’s also a horrible, wicked enabler of my worst compulsions: My love of old t
 
 <mpb-dialog-img>
 
-{% image "./src/assets/images/blog/2012-07-17-circle-confusion-1/czahller-20120423-14-34-49.jpg", "img-constrained", "Split-toned image of a chrome-finish Leica M3 rangefinder with an auxiliary viewfinder mounted in the cold shoe. It sports a vintage Leica lens, also chrome.", "Leica M3, manufactured ca. 1957; previous owner: Joe Crumley" %}</mpb-dialog-img>
+{% image "./src/assets/images/blog/2012-07-17-circle-confusion-1/czahller-20120423-14-34-49.jpg", "", "Split-toned image of a chrome-finish Leica M3 rangefinder with an auxiliary viewfinder mounted in the cold shoe. It sports a vintage Leica lens, also chrome.", "Leica M3, manufactured ca. 1957; previous owner: Joe Crumley", "large" %}</mpb-dialog-img>
 
 It was an early model with the double-stroke film advance lever, in good mechanical and cosmetic condition, except for a tiny bit of vulcanite missing near the lens mount. Along with the camera came the only subpar lens Leica ever made, a Hektor ƒ/4.5 135mm, and some 35mm film. And, like the ’blad, the Leica sat unused on a bookshelf until <time datetime="2012-05">this past May</time>, taunting me.[^2] I was hesitant to load it up with film and take it out due to:
 

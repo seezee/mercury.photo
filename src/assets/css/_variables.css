@@ -75,25 +75,25 @@
   --mpb-color-secondary-800: oklch(var(--mpb-c-s-800));
   --mpb-color-secondary-900: oklch(var(--mpb-c-s-900));
 
-  --mpb-color-textPrimary: var(--mpb-color-primary-800);
-  --mpb-color-textSecondary: var(--mpb-color-secondary-100);
-  --mpb-color-textReverse: var(--mpb-color-primary-100);
+  --mpb-color-text-primary: var(--mpb-color-primary-800);
+  --mpb-color-text-secondary: var(--mpb-color-secondary-100);
+  --mpb-color-text-reverse: var(--mpb-color-primary-100);
 
   --mpb-color-accent: var(--mpb-color-secondary-500);
-  --mpb-color-accentReverse: oklch(79.5% 0.1533 79.91);
-  --mpb-color-highlight: var(--mpb-color-accentReverse);
+  --mpb-color-accent-reverse: oklch(79.5% 0.1533 79.91);
+  --mpb-color-highlight: var(--mpb-color-accent-reverse);
 
   --mpb-color-submenu-indicator: var(--mpb-c-p-900);
 
-  --mpb-color-hoverPrimary: var(--mpb-color-primary-700);
-  --mpb-color-hoverSecondary: var(--mpb-color-primary-200);
+  --mpb-color-hover-primary: var(--mpb-color-primary-700);
+  --mpb-color-hover-secondary: var(--mpb-color-primary-200);
 
-  --mpb-color-iconFillHover: var(--mpb-color-hoverPrimary);
+  --mpb-color-icon-hover: var(--mpb-color-hover-primary);
 
-  --mpb-color-figureBG: oklch(var(--mpb-c-p-200));
-  --mpb-color-imgBG: oklch(var(--mpb-c-p-100));
+  --mpb-color-figure-bg: oklch(var(--mpb-c-p-200));
+  --mpb-color-img-bg: oklch(var(--mpb-c-p-100));
 
-  --mpb-color-tabPanelBG: oklch(var(--mpb-c-p-200));
+  --mpb-color-tab-panel-bg: oklch(var(--mpb-c-p-200));
 
   --mpb-alert-color-lightness: 95%;
   --mpb-alert-color-chroma: 0.1;
@@ -188,6 +188,14 @@
     var(--snowfall-color-lightness) var(--mpb-alert-color-chroma) 221.42 / .5
   );
 
+  /* Icons */
+  --mpb-details-marker: url(../../assets/images/icons/chevron-right.svg);
+  --mpb-icon-external: url(../../assets/images/icons/external.svg);
+  --mpb-icon-link: url(../../assets/images/icons/link.svg);
+  --mpb-icon-search: url(../../assets/images/icons/search.svg);
+  --mpb-icon-stickynote: url(../../assets/images/icons/sticky-note.svg);
+  --mpb-icon-lettermark: url(../../assets/images/icons/mpb-lettermark.svg);
+
   &[data-theme="dark"] {
     --mpb-c-p-50: 10% 0 0;
     --mpb-c-p-100: 20% 0 0;
@@ -218,13 +226,20 @@
     --mpb-color-submenu-indicator: var(--mpb-c-p-100);
 
     --mpb-color-accent: var(--mpb-color-secondary-700);
-    --mpb-color-accentReverse: oklch(48.5% 0.2332 28.05);
+    --mpb-color-accent-reverse: oklch(48.5% 0.2332 28.05);
 
     --normal: 300;
     --bold: 500;
     --x-bold: 700;
 
     --snowfall-color-lightness: 95%;
+
+    /* Icons */
+    --mpb-details-marker: url(../../assets/images/icons/chevron-right-dark.svg);
+    --mpb-icon-external: url(../../assets/images/icons/external-dark.svg);
+    --mpb-icon-link: url(../../assets/images/icons/link-dark.svg);
+    --mpb-icon-search: url(../../assets/images/icons/search-dark.svg);
+    --mpb-icon-stickynote: url(../../assets/images/icons/sticky-note-dark.svg)
   }
 
   --ratio: 1.4;
@@ -247,6 +262,7 @@
   --border-thin: var(--s-5);
   --border-thick: var(--s-2);
 
+  /* Fonts */
   --mpb-font-default:
     Merriweather, "Rockwell Nova", "Roboto Slab", "DejaVu Serif", "Sitka Small",
     serif;
@@ -304,7 +320,7 @@
     clamp(1.383rem, 0.9239rem + 2.2957cqi, 2.703rem)
   );
 
-  --mpb-size-textDefault: var(--mpb-font-size-1);
+  --mpb-size-text-default: var(--mpb-font-size-1);
 
   --mpb-masonry-width: min(13rem, 100%);
   --mpb-masonry-gap: var(--s-2);
@@ -319,12 +335,12 @@
 @media (prefers-reduced-transparency: no-preference) {
 /* biome-ignore-end lint: Valid rule */
   :root {
-    --mpb-color-figureBG: oklch(var(--mpb-c-p-200) / 0.5);
-    --mpb-color-imgBG: oklch(var(--mpb-c-p-100) / 0.5);
+    --mpb-color-figure-bg: oklch(var(--mpb-c-p-200) / 0.5);
+    --mpb-color-img-bg: oklch(var(--mpb-c-p-100) / 0.5);
 
     &[data-theme="dark"] {
-      --mpb-color-figureBG: oklch(var(--mpb-c-p-200) / 0.5);
-      --mpb-color-imgBG: oklch(var(--mpb-c-p-100) / 0.5);
+      --mpb-color-figure-bg: oklch(var(--mpb-c-p-200) / 0.5);
+      --mpb-color-img-bg: oklch(var(--mpb-c-p-100) / 0.5);
     }
   }
 }

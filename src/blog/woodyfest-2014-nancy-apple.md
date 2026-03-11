@@ -23,7 +23,7 @@ excerpt: I met “Princess of Twang” Nancy Apple in 2013, my first year volunt
 
 <!-- markdownlint-enable MD025 --><mpb-dialog-img>
 
-{% image "featured", "img-constrained", "Nancy Apple photographed from upstage as she is about to start her set at the 2014 Woody Guthrie Folk Festival", "Nancy Apple photographed from upstage as she is about to start her set at the 2014 Woody Guthrie Folk Festival", "eager" %}</mpb-dialog-img>
+{% image "featured", "", "Nancy Apple photographed from upstage as she is about to start her set at the 2014 Woody Guthrie Folk Festival", "Nancy Apple, from Upstage", "eager" %}</mpb-dialog-img>
 
 I met “Princess of Twang” <span class="h-card p-name">Nancy Apple</span> in <time datetime="2013-07-12">2013</time>, my first year volunteering to document the Woody Guthrie Folk Festival. I had photographed her earlier in the day and happened to sit next to her at the communal dinner backstage at the Pastures of Plenty.
 
@@ -35,7 +35,7 @@ Apple played on every stage of the festival during the period from <time datetim
 
 <mpb-dialog-img>
 
-{% image "./src/assets/images/blog/2022-01-03-woodyfest-nancy-apple/czahller-20140712-14-19-39.jpg", "img-constrained", "Nancy Apple, Community Outreach at Colonial Park Nursing Home (I) — 17th Annual Woody Guthrie Folk Festival, 2014", "Nancy Apple, Community Outreach at Colonial Park Nursing Home (I) — 17th Annual Woody Guthrie Folk Festival, 2014" %}</mpb-dialog-img>
+{% image "./src/assets/images/blog/2022-01-03-woodyfest-nancy-apple/czahller-20140712-14-19-39.jpg", "", "Nancy Apple, Community Outreach at Colonial Park Nursing Home", "Nancy Apple, Community Outreach at Colonial Park Nursing Home (I)", "large" %}</mpb-dialog-img>
 
 Today's gallery comprises images from Apple's <time datetime="2014-07-11T11:00-5:00">2014</time> Crystal Theatre showcase and her program at the <span class="h-card p-org">Colonial Estates Nursing Home</span>. The facility is one of two nursing homes located in Okemah, where the festival is held. Both facilities host annual community outreach by festival musicians, except in <time datetime="2020">2020</time> and <time datetime="2021">2021</time> due to <abbr>COVID-19</abbr> precautions. Apple has performed for the residents at both facilities over the years.
 
@@ -47,13 +47,21 @@ Apple owns the independent record label <a href="https://www.facebook.com/profil
 
 <mpb-dialog-gallery hint rel cols="8">
   
-  ![Nancy Apple, from Upstage — 17th Annual Woody Guthrie Folk Festival, 2014](/assets/images/blog/2022-01-03-woodyfest-nancy-apple/czahller-20140711-11-02-25.jpg)
-  ![Terry “Buffalo” Ware, Nancy Apple, Don Morris, Lauren Lee, & T.Z. Wright — 17th Annual Woody Guthrie Folk Festival, 2014](/assets/images/blog/2022-01-03-woodyfest-nancy-apple/czahller-20140711-11-05-06.jpg)
-  ![Nancy Apple — 17th Annual Woody Guthrie Folk Festival, 2014](/assets/images/blog/2022-01-03-woodyfest-nancy-apple/czahller-20140711-11-09-36.jpg)
-  ![Nancy with Harmonica — 17th Annual Woody Guthrie Folk Festival, 2014](/assets/images/blog/2022-01-03-woodyfest-nancy-apple/czahller-20140711-11-29-55.jpg)
-  ![Terry “Buffalo” Ware, Nancy Apple, Don Morris, Butch Morgan, Lauren Lee, & T.Z. Wright — 17th Annual Woody Guthrie Folk Festival, 2014](/assets/images/blog/2022-01-03-woodyfest-nancy-apple/czahller-20140711-11-41-32.jpg)
-  ![Terry “Buffalo” Ware, Michael McCarty, Nancy Apple, Don Morris, Lauren Lee, & T.Z. Wright — 17th Annual Woody Guthrie Folk Festival, 2014](/assets/images/blog/2022-01-03-woodyfest-nancy-apple/czahller-20140711-11-42-35.jpg)
-  ![Nancy Apple with Nursing Home Residents — 17th Annual Woody Guthrie Folk Festival, 2014](/assets/images/blog/2022-01-03-woodyfest-nancy-apple/czahller-20140712-14-09-19.jpg)
-  ![Nancy Apple, Community Outreach at Colonial Park Nursing Home (I) — 17th Annual Woody Guthrie Folk Festival, 2014](/assets/images/blog/2022-01-03-woodyfest-nancy-apple/czahller-20140712-14-19-39.jpg)
-  ![Nancy Apple, Community Outreach at Colonial Park Nursing Home (II) — 17th Annual Woody Guthrie Folk Festival, 2014](/assets/images/blog/2022-01-03-woodyfest-nancy-apple/czahller-20140712-14-22-45.jpg)
+  {% image "featured", "", "Nancy Apple photographed from upstage as she is about to start her set at the 2014 Woody Guthrie Folk Festival", "Nancy Apple, from Upstage" %}
+
+  {% image "./src/assets/images/blog/2022-01-03-woodyfest-nancy-apple/czahller-20140711-11-05-06.jpg", "", "Terry “Buffalo” Ware, Nancy Apple, Don Morris, Lauren Lee, & T.Z. Wright", "Terry “Buffalo” Ware, Nancy Apple, Don Morris, Lauren Lee, & T.Z. Wright" %}
+
+  {% image "./src/assets/images/blog/2022-01-03-woodyfest-nancy-apple/czahller-20140711-11-09-36.jpg", "", "Nancy Apple", "Nancy Apple" %}
+
+  {% image "./src/assets/images/blog/2022-01-03-woodyfest-nancy-apple/czahller-20140711-11-29-55.jpg", "", "Nancy Apple plays harmonica", "Nancy with Harmonica" %}
+
+  {% image "./src/assets/images/blog/2022-01-03-woodyfest-nancy-apple/czahller-20140711-11-41-32.jpg", "", "Terry “Buffalo” Ware, Nancy Apple, Don Morris, Butch Morgan, Lauren Lee, & T.Z. Wright", "Terry “Buffalo” Ware, Nancy Apple, Don Morris, Butch Morgan, Lauren Lee, & T.Z. Wright" %}
+
+  {% image "./src/assets/images/blog/2022-01-03-woodyfest-nancy-apple/czahller-20140711-11-42-35.jpg", "", "Terry “Buffalo” Ware, Michael McCarty, Nancy Apple, Don Morris, Lauren Lee, & T.Z. Wright", "Terry “Buffalo” Ware, Michael McCarty, Nancy Apple, Don Morris, Lauren Lee, & T.Z. Wright" %}
+
+  {% image "./src/assets/images/blog/2022-01-03-woodyfest-nancy-apple/czahller-20140712-14-09-19.jpg", "", "Nancy Apple with nursing home residents", "Nancy Apple with Nursing Home Residents" %}
+
+  {% image "./src/assets/images/blog/2022-01-03-woodyfest-nancy-apple/czahller-20140712-14-19-39.jpg", "", "Nancy Apple community outreach at Colonial Parks Nursing Home", "Nancy Apple, Community Outreach at Colonial Park Nursing Home (I)" %}
+
+  {% image "./src/assets/images/blog/2022-01-03-woodyfest-nancy-apple/czahller-20140712-14-22-45.jpg", "", "Nancy Apple community outreach at Colonial Parks Nursing Home", "Nancy Apple, Community Outreach at Colonial Park Nursing Home (II)" %}
 </mpb-dialog-gallery>

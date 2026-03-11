@@ -30,7 +30,7 @@ excerpt: My first encounter with the music of My Brightest Diamond was a track o
 <p>Chamber pop chanteuse enchants</p></stack-l></hgroup>
 <!-- markdownlint-enable MD025 --><mpb-dialog-img>
 
-{% image "featured", "img-constrained", "Shara Nova (Outtake 2) — OKIE-X (Oklahoma Musicians on X-ray Film)", "Shara Nova (Outtake 2)&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;OKIE-X (Oklahoma Musicians on X-ray Film)", "eager" %}</mpb-dialog-img>
+{% image "featured", "", "Shara Nova (Outtake 2) — OKIE-X (Oklahoma Musicians on X-ray Film)", "Shara Nova (Outtake 2)&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;OKIE-X (Oklahoma Musicians on X-ray Film)", "eager" %}</mpb-dialog-img>
 
 My first encounter with the music of <span class="h-card p-org"><a href="https://geo.itunes.apple.com/us/artist/my-brightest-diamond/174818899?mt=1&app=music&at=10ldhk" target="_ blank" rel="external noopener">My Brightest Diamond</a></span> was a track on a <span class="h-card p-org">RED + HOT</span> compilation.[^1] During the summer break, my neighbor’s teenage daughter and her friend used to hang out in my living room and spin CDs on my hi-fi. One day she brought over <cite>[Dark Was the Night](https://geo.itunes.apple.com/us/album/dark-was-the-night/303463575?mt=1&app=music&at=10ldhk){target=_blank rel="external noopener"}</cite>, the fifteenth entry in the RED + HOT series.{.drop-cap}
 
@@ -48,7 +48,7 @@ I finally got to see Nova at <time datetime="2018-04-28T07:00:00-5:00">the 2018<
 
 <mpb-dialog-img>
 
-{% image "./src/assets/images/blog/2019-04-17-my-brightest-diamond/czahller-20180428-20-01-12.jpg", "img-constrained", "Looking over Aaron’s Drumkit — 11th Annual Norman Music Festival", "Looking over Aaron’s Drumkit — 11th Annual Norman Music Festival" %}</mpb-dialog-img>
+{% image "./src/assets/images/blog/2019-04-17-my-brightest-diamond/czahller-20180428-20-01-12.jpg", "", "Looking over Aaron’s Drumkit — 11th Annual Norman Music Festival", "Looking over Aaron’s Drumkit — 11th Annual Norman Music Festival", "large" %}</mpb-dialog-img>
 
 As readers of this blog know, I’ve been photographing Oklahoma musicians for <a href="/okie-x/">OKIE-X</a> since <time datetime="2016">2016</time>. The project definition for an “Oklahoma musician” is pretty liberal&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;to qualify, each subject must be a current or former Oklahoma resident who is a current or former singer, rapper, instrumentalist, songwriter, arranger, composer, or producer who performs or performed in public or makes or made their music available to the public via physical media or online. *Phew!* Try saying that three times really fast!
 
@@ -62,7 +62,7 @@ When I learned that Nova would be back in Oklahoma to open for <span class="h-ca
 
 <mpb-dialog-img>
 
-{% image "./src/assets/images/blog/2019-04-17-my-brightest-diamond/czahller-20190406-14-42-49.jpg", "img-constrained", "Shara Nova (Outtake 1) — OKIE-X (Oklahoma Musicians on X-ray Film)", "Shara Nova (Outtake 1)&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;OKIE-X (Oklahoma Musicians on X-ray Film)" %}</mpb-dialog-img>
+{% image "./src/assets/images/blog/2019-04-17-my-brightest-diamond/czahller-20190406-14-42-49.jpg", "", "Shara Nova (Outtake 1) — OKIE-X (Oklahoma Musicians on X-ray Film)", "Shara Nova (Outtake 1)&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;OKIE-X (Oklahoma Musicians on X-ray Film)", "large" %}</mpb-dialog-img>
 
 ## Serendipity, or, Lucky the Store Owners Don’t Watch Marie Kondo
 
@@ -85,42 +85,77 @@ The minute My Brightest Diamond arrived in Oklahoma City they headed to Guestroo
 
 <mpb-dialog-gallery hint rel cols="8">
 
-  ![Adjusting a Pedal — My Brightest Diamond at Guestroom Records OKC](/assets/images/blog/2019-04-17-my-brightest-diamond/czahller-20190406-15-03-27.jpg)
-  ![Play List — My Brightest Diamond at Guestroom Records OKC](/assets/images/blog/2019-04-17-my-brightest-diamond/czahller-20190406-15-03-52.jpg)
-  ![Greeting the Audience — My Brightest Diamond at Guestroom Records OKC](/assets/images/blog/2019-04-17-my-brightest-diamond/czahller-20190406-15-05-35.jpg)
-  ![Dancing to the Beats — My Brightest Diamond at Guestroom Records OKC](/assets/images/blog/2019-04-17-my-brightest-diamond/czahller-20190406-15-05-40.jpg)
-  ![Rock On — My Brightest Diamond at Guestroom Records OKC](/assets/images/blog/2019-04-17-my-brightest-diamond/czahller-20190406-15-05-50.jpg)
-  ![Keyboard Dance — My Brightest Diamond at Guestroom Records OKC](/assets/images/blog/2019-04-17-my-brightest-diamond/czahller-20190406-15-06-00.jpg)
-  ![“It’s Me on the Dance Floor” — My Brightest Diamond at Guestroom Records OKC](/assets/images/blog/2019-04-17-my-brightest-diamond/czahller-20190406-15-06-09.jpg)
-  ![“I’m Looking Out, for Someone to See” — My Brightest Diamond at Guestroom Records OKC](/assets/images/blog/2019-04-17-my-brightest-diamond/czahller-20190406-15-06-19.jpg)
-  ![“Thought I Was Down for the Count” — My Brightest Diamond at Guestroom Records OKC](/assets/images/blog/2019-04-17-my-brightest-diamond/czahller-20190406-15-08-19.jpg)
-  ![Rising Star — My Brightest Diamond at Guestroom Records OKC](/assets/images/blog/2019-04-17-my-brightest-diamond/czahller-20190406-15-08-20.jpg)
-  ![“Alright, Starchild” — My Brightest Diamond at Guestroom Records OKC](/assets/images/blog/2019-04-17-my-brightest-diamond/czahller-20190406-15-08-27.jpg)
-  ![“Diamonds Fell Out of My Crown” — My Brightest Diamond at Guestroom Records OKC](/assets/images/blog/2019-04-17-my-brightest-diamond/czahller-20190406-15-08-32.jpg)
-  ![“O Begin …” — My Brightest Diamond at Guestroom Records OKC](/assets/images/blog/2019-04-17-my-brightest-diamond/czahller-20190406-15-10-42.jpg)
-  ![Jharis Yokley (I) — My Brightest Diamond at Guestroom Records OKC](/assets/images/blog/2019-04-17-my-brightest-diamond/czahller-20190406-15-10-52.jpg)
-  ![Jharis Yokley (II) — My Brightest Diamond at Guestroom Records OKC](/assets/images/blog/2019-04-17-my-brightest-diamond/czahller-20190406-15-11-02.jpg)
-  ![Shara Nova — My Brightest Diamond at Guestroom Records OKC](/assets/images/blog/2019-04-17-my-brightest-diamond/czahller-20190406-15-13-15.jpg)
-  ![Jharis Yokley (III) — My Brightest Diamond at Guestroom Records OKC](/assets/images/blog/2019-04-17-my-brightest-diamond/czahller-20190406-15-13-25.jpg)
-  ![Champagne — My Brightest Diamond at Guestroom Records OKC](/assets/images/blog/2019-04-17-my-brightest-diamond/czahller-20190406-15-13-38.jpg)
-  ![“I Cannot Go Halfway” — My Brightest Diamond at Guestroom Records OKC](/assets/images/blog/2019-04-17-my-brightest-diamond/czahller-20190406-15-15-38.jpg)
-  ![Audience — My Brightest Diamond at Guestroom Records OKC](/assets/images/blog/2019-04-17-my-brightest-diamond/czahller-20190406-15-16-25.jpg)
-  ![Pedal Board — My Brightest Diamond at Guestroom Records OKC](/assets/images/blog/2019-04-17-my-brightest-diamond/czahller-20190406-15-17-13.jpg)
-  ![“Diamond” Boxing Shorts — My Brightest Diamond at Guestroom Records OKC](/assets/images/blog/2019-04-17-my-brightest-diamond/czahller-20190406-15-19-02.jpg)
-  ![“I’ll Be Lighter than Air” — My Brightest Diamond at Guestroom Records OKC](/assets/images/blog/2019-04-17-my-brightest-diamond/czahller-20190406-15-20-39.jpg)
-  ![“I Know How to Float in Gravity” — My Brightest Diamond at Guestroom Records OKC](/assets/images/blog/2019-04-17-my-brightest-diamond/czahller-20190406-15-20-49.jpg)
-  ![“No One Can Stop What’s Coming Up” — My Brightest Diamond at Guestroom Records OKC](/assets/images/blog/2019-04-17-my-brightest-diamond/czahller-20190406-15-20-56.jpg)
-  ![Another Chance — My Brightest Diamond at Guestroom Records OKC](/assets/images/blog/2019-04-17-my-brightest-diamond/czahller-20190406-15-22-13.jpg)
-  ![“If I Get Another Chance at Love” — My Brightest Diamond at Guestroom Records OKC](/assets/images/blog/2019-04-17-my-brightest-diamond/czahller-20190406-15-22-20.jpg)
-  ![“I Will Call You My Sweet Thing” — My Brightest Diamond at Guestroom Records OKC](/assets/images/blog/2019-04-17-my-brightest-diamond/czahller-20190406-15-22-29.jpg)
-  ![“I Have No Regrets” — My Brightest Diamond at Guestroom Records OKC](/assets/images/blog/2019-04-17-my-brightest-diamond/czahller-20190406-15-23-37.jpg)
-  ![“My Kisses Will Be Neverending” — My Brightest Diamond at Guestroom Records OKC](/assets/images/blog/2019-04-17-my-brightest-diamond/czahller-20190406-15-23-42.jpg)
-  ![Inside a Boy — My Brightest Diamond at Guestroom Records OKC](/assets/images/blog/2019-04-17-my-brightest-diamond/czahller-20190406-15-23-47.jpg)
-  ![“I Found a Universe” — My Brightest Diamond at Guestroom Records OKC](/assets/images/blog/2019-04-17-my-brightest-diamond/czahller-20190406-15-23-52.jpg)
-  ![“A Thousand Stars on a Dark Sky” — My Brightest Diamond at Guestroom Records OKC](/assets/images/blog/2019-04-17-my-brightest-diamond/czahller-20190406-15-23-59.jpg)
-  ![“Fauns and Shapeshifters” — My Brightest Diamond at Guestroom Records OKC](/assets/images/blog/2019-04-17-my-brightest-diamond/czahller-20190406-15-24-05.jpg)
-  ![Colliding — My Brightest Diamond at Guestroom Records OKC](/assets/images/blog/2019-04-17-my-brightest-diamond/czahller-20190406-15-24-12.jpg)
-  ![Unwinding — My Brightest Diamond at Guestroom Records OKC](/assets/images/blog/2019-04-17-my-brightest-diamond/czahller-20190406-15-24-32.jpg)
+  {% image "./src/assets/images/blog/2019-04-17-my-brightest-diamond/czahller-20190406-15-03-27.jpg", "", "Closeup of Shara’s hand as she adjusts a guitar pedal", "Adjusting a Pedal" %}
+
+  {% image "./src/assets/images/blog/2019-04-17-my-brightest-diamond/czahller-20190406-15-03-52.jpg", "", "Play list taped to the bass drum", "Play List" %}
+
+  {% image "./src/assets/images/blog/2019-04-17-my-brightest-diamond/czahller-20190406-15-05-35.jpg", "", "Shara greets the audience", "Greeting the Audience" %}
+
+  {% image "./src/assets/images/blog/2019-04-17-my-brightest-diamond/czahller-20190406-15-05-40.jpg", "", "Shara dances to the drum beat", "Dancing to the Beats" %}
+
+  {% image "./src/assets/images/blog/2019-04-17-my-brightest-diamond/czahller-20190406-15-05-50.jpg", "", "Shara flashes the sign of the horns", "Rock On" %}
+
+  {% image "./src/assets/images/blog/2019-04-17-my-brightest-diamond/czahller-20190406-15-06-00.jpg", "", "Shara dances and sings from behind the keyboard", "Keyboard Dance" %}
+
+  {% image "./src/assets/images/blog/2019-04-17-my-brightest-diamond/czahller-20190406-15-06-09.jpg", "", "Shara and Jaris", "“It’s Me on the Dance Floor”" %}
+
+  {% image "./src/assets/images/blog/2019-04-17-my-brightest-diamond/czahller-20190406-15-06-19.jpg", "", "Shara and Jaris", "“I’m Looking Out, for Someone to See”" %}
+
+  {% image "./src/assets/images/blog/2019-04-17-my-brightest-diamond/czahller-20190406-15-08-19.jpg", "", "Shara sings and plays keys", "“Thought I Was Down for the Count”" %}
+
+  {% image "./src/assets/images/blog/2019-04-17-my-brightest-diamond/czahller-20190406-15-08-20.jpg", "", "Shara sings and plays keys", "Rising Star" %}
+
+  {% image "./src/assets/images/blog/2019-04-17-my-brightest-diamond/czahller-20190406-15-08-27.jpg", "", "Shara raises her arms in front of her gesturing to the audience. Her palms face up.", "“Alright, Starchild”" %}
+
+  {% image "./src/assets/images/blog/2019-04-17-my-brightest-diamond/czahller-20190406-15-08-32.jpg", "", "Shara points up with her left hand while making eye contact with the audience", "“Diamonds Fell Out of My Crown”" %}
+
+  {% image "./src/assets/images/blog/2019-04-17-my-brightest-diamond/czahller-20190406-15-10-42.jpg", "", "Shara raises her right hand while she continues to play keys with her left", "“O Begin …”" %}
+
+  {% image "./src/assets/images/blog/2019-04-17-my-brightest-diamond/czahller-20190406-15-10-52.jpg", "", "Jaris smiles while he plays the drums", "Jharis Yokley (I)" %}
+
+  {% image "./src/assets/images/blog/2019-04-17-my-brightest-diamond/czahller-20190406-15-11-02.jpg", "", "Jaris", "Jharis Yokley (II)" %}
+
+  {% image "./src/assets/images/blog/2019-04-17-my-brightest-diamond/czahller-20190406-15-13-15.jpg", "", "Shara Nova backlit by the natural light. Her varsity-style jacket is covered with sequins, which sparkle in the light.", "Shara Nova" %}
+
+  {% image "./src/assets/images/blog/2019-04-17-my-brightest-diamond/czahller-20190406-15-13-25.jpg", "Jaris, eyes closed, smiling", "Jaris", "Jharis Yokley (III)" %}
+
+  {% image "./src/assets/images/blog/2019-04-17-my-brightest-diamond/czahller-20190406-15-13-38.jpg", "", "Shara grasps the microphone in her left hand", "Champagne" %}
+
+  {% image "./src/assets/images/blog/2019-04-17-my-brightest-diamond/czahller-20190406-15-15-38.jpg", "", "Closeup of Shara", "“I Cannot Go Halfway”" %}
+
+  {% image "./src/assets/images/blog/2019-04-17-my-brightest-diamond/czahller-20190406-15-16-25.jpg", "", "Audience", "Audience" %}
+
+  {% image "./src/assets/images/blog/2019-04-17-my-brightest-diamond/czahller-20190406-15-17-13.jpg", "", "Pedal board", "Pedal Board" %}
+
+  {% image "./src/assets/images/blog/2019-04-17-my-brightest-diamond/czahller-20190406-15-19-02.jpg", "", "Detail of “Diamond” boxing shorts worn by Shara Nova over her tights", "“Diamond” Boxing Shorts" %}
+
+  {% image "./src/assets/images/blog/2019-04-17-my-brightest-diamond/czahller-20190406-15-20-39.jpg", "", "Shara, wearing her Fender guitar, introduces a song", "“I’ll Be Lighter than Air”" %}
+
+  {% image "./src/assets/images/blog/2019-04-17-my-brightest-diamond/czahller-20190406-15-20-49.jpg", "", "Shara plays guitar & sings", "“I Know How to Float in Gravity”" %}
+
+  {% image "./src/assets/images/blog/2019-04-17-my-brightest-diamond/czahller-20190406-15-20-56.jpg", "", "Shara leans on her back leg while fretting the guitar", "“No One Can Stop What’s Coming Up”" %}
+
+  {% image "./src/assets/images/blog/2019-04-17-my-brightest-diamond/czahller-20190406-15-22-13.jpg", "", "Shara stands behind the keys while wearing her Fender guitar", "Another Chance" %}
+
+  {% image "./src/assets/images/blog/2019-04-17-my-brightest-diamond/czahller-20190406-15-22-20.jpg", "", "Shara plays guitar & sings", "“If I Get Another Chance at Love”" %}
+
+  {% image "./src/assets/images/blog/2019-04-17-my-brightest-diamond/czahller-20190406-15-22-29.jpg", "", "Shara plays guitar & sings. Jaris is to her left (audience right) playing the drums.", "“I Will Call You My Sweet Thing”" %}
+
+  {% image "./src/assets/images/blog/2019-04-17-my-brightest-diamond/czahller-20190406-15-23-37.jpg", "", "Shara frets the guitar with her left hand, holding it straight up, while she raises her right arm toward the ceiling", "“I Have No Regrets”" %}
+
+  {% image "./src/assets/images/blog/2019-04-17-my-brightest-diamond/czahller-20190406-15-23-42.jpg", "", "Shara leans back right after releasing a chord", "“My Kisses Will Be Neverending”" %}
+
+  {% image "./src/assets/images/blog/2019-04-17-my-brightest-diamond/czahller-20190406-15-23-47.jpg", "", "Share & Jaris. Jaris is smiling.", "Inside a Boy" %}
+
+  {% image "./src/assets/images/blog/2019-04-17-my-brightest-diamond/czahller-20190406-15-23-52.jpg", "", "Shara & Jarvis. Shara is singing loudly.", "“I Found a Universe”" %}
+
+  {% image "./src/assets/images/blog/2019-04-17-my-brightest-diamond/czahller-20190406-15-23-59.jpg", "", "Shara leans over while playing the guitar", "“A Thousand Stars on a Dark Sky”" %}
+
+  {% image "./src/assets/images/blog/2019-04-17-my-brightest-diamond/czahller-20190406-15-24-05.jpg", "", "Shara faces Jaris while she continues to play", "“Fauns and Shapeshifters”" %}
+
+  {% image "./src/assets/images/blog/2019-04-17-my-brightest-diamond/czahller-20190406-15-24-12.jpg", "", "Shara leans toward the camera. She is looking at her left (fretting) hand.", "Colliding" %}
+
+  {% image "./src/assets/images/blog/2019-04-17-my-brightest-diamond/czahller-20190406-15-24-32.jpg", "", "Shara & Jaris perform the final number", "Unwinding" %}
 </mpb-dialog-gallery>
 
 <div class="widget__wrapper">

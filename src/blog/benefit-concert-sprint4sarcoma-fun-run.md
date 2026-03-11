@@ -24,7 +24,7 @@ excerpt: Friends and family of 25-year-old Norman resident Dayna Cannon gathered
 <!-- markdownlint-enable MD025 -->
 <mpb-dialog-img>
 
-{% image "featured", "img-constrained", "Dayna Cannon wins a raffle Prize (a t-shirt)", "Dayna Cannon Wins a Raffle Prize", "eager" %}</mpb-dialog-img>
+{% image "featured", "", "Dayna Cannon wins a raffle Prize (a t-shirt)", "Dayna Cannon Wins a Raffle Prize", "eager" %}</mpb-dialog-img>
 
 Friends and family of 25-year-old Norman resident <span class="h-card p-name">Dayna Cannon</span> gathered at the Deli on <time datetime="2016-06-30T19:00-5:00">Thursday</time> for a benefit concert featuring the <span class="h-card p-org">Tequila Songbirds</span>. The event raised over 300 dollars to fund the Sprint4Sarcoma 5K & 1M Fun Run, to be held next <time datetime="2016-07-09:T8:00-5:00">Saturday</time> at Stars and Stripes Park in Oklahoma City.
 
@@ -38,19 +38,33 @@ For more information on the Fun Run, please visit the event’s [Facebook page](
 
 <mpb-dialog-gallery hint rel cols="8">
 
-  ![Tequila Songbirds (I)](/assets/images/blog/2016-07-01-dayna-strong/czahller-20160630-20-12-10.jpg)
-  ![Kierston (I)](/assets/images/blog/2016-07-01-dayna-strong/czahller-20160630-20-13-36.jpg)
-  ![Ali (I)](/assets/images/blog/2016-07-01-dayna-strong/czahller-20160630-20-16-41.jpg)
-  ![Kierston (II)](/assets/images/blog/2016-07-01-dayna-strong/czahller-20160630-20-17-29.jpg)
-  ![Play List — Benefit Concert for Sprint4Sarcoma Fun Run](/assets/images/blog/2016-07-01-dayna-strong/czahller-20160630-20-18-58.jpg)
-  ![Ali (II)](/assets/images/blog/2016-07-01-dayna-strong/czahller-20160630-20-19-52.jpg)
-  ![Eliza (I)](/assets/images/blog/2016-07-01-dayna-strong/czahller-20160630-20-41-58.jpg)
-  ![Ali (III)](/assets/images/blog/2016-07-01-dayna-strong/czahller-20160630-20-42-07.jpg)
-  ![Eliza & Kierston](/assets/images/blog/2016-07-01-dayna-strong/czahller-20160630-21-04-56.jpg)
-  ![Kierston & Ali](/assets/images/blog/2016-07-01-dayna-strong/czahller-20160630-21-05-16.jpg)
-  ![Tequila Songbirds (II)](/assets/images/blog/2016-07-01-dayna-strong/czahller-20160630-21-07-11.jpg)
-  ![Eliza (II)](/assets/images/blog/2016-07-01-dayna-strong/czahller-20160630-21-09-47.jpg)
-  ![Eliza (III)](/assets/images/blog/2016-07-01-dayna-strong/czahller-20160630-21-10-28.jpg)
-  ![Dayna Cannon Wins a Raffle Prize](/assets/images/blog/2016-07-01-dayna-strong/czahller-20160630-21-16-28.jpg)
-  ![Tequila Songbirds (III)](/assets/images/blog/2016-07-01-dayna-strong/czahller-20160630-21-34-46.jpg)
+  {% image "./src/assets/images/blog/2016-07-01-dayna-strong/czahller-20160630-20-12-10.jpg", "", "Tequila Songbirds (I)", "Tequila Songbirds (I)" %}
+
+  {% image "./src/assets/images/blog/2016-07-01-dayna-strong/czahller-20160630-20-13-36.jpg", "", "Kierston (I)", "Kierston (I)" %}
+
+  {% image "./src/assets/images/blog/2016-07-01-dayna-strong/czahller-20160630-20-16-41.jpg", "", "Ali (I)", "Ali (I)" %}
+
+  {% image "./src/assets/images/blog/2016-07-01-dayna-strong/czahller-20160630-20-17-29.jpg", "", "Kierston (II)", "Kierston (II)" %}
+
+  — Benefit Concert for Sprint4Sarcoma Fun Run {% image "./src/assets/images/blog/2016-07-01-dayna-strong/czahller-20160630-20-18-58.jpg", "", "Play List", "Play List" %}
+
+  {% image "./src/assets/images/blog/2016-07-01-dayna-strong/czahller-20160630-20-19-52.jpg", "", "Ali (II)", "Ali (II)" %}
+
+  {% image "./src/assets/images/blog/2016-07-01-dayna-strong/czahller-20160630-20-41-58.jpg", "", "Eliza (I)", "Eliza (I)" %}
+
+  {% image "./src/assets/images/blog/2016-07-01-dayna-strong/czahller-20160630-20-42-07.jpg", "", "Ali (III)", "Ali (III)" %}
+
+  {% image "./src/assets/images/blog/2016-07-01-dayna-strong/czahller-20160630-21-04-56.jpg", "", "Eliza & Kierston", "Eliza & Kierston" %}
+
+  {% image "./src/assets/images/blog/2016-07-01-dayna-strong/czahller-20160630-21-05-16.jpg", "", "Kierston & Ali", "Kierston & Ali" %}
+
+  {% image "./src/assets/images/blog/2016-07-01-dayna-strong/czahller-20160630-21-07-11.jpg", "", "Tequila Songbirds (II)", "Tequila Songbirds (II)" %}
+
+  {% image "./src/assets/images/blog/2016-07-01-dayna-strong/czahller-20160630-21-09-47.jpg", "", "Eliza (II)", "Eliza (II)" %}
+
+  {% image "./src/assets/images/blog/2016-07-01-dayna-strong/czahller-20160630-21-10-28.jpg", "", "Eliza (III)", "Eliza (III)" %}
+
+  {% image "featured", "", "Dayna Cannon Wins a Raffle Prize", "Dayna Cannon Wins a Raffle Prize" %}
+
+  {% image "./src/assets/images/blog/2016-07-01-dayna-strong/czahller-20160630-21-34-46.jpg", "", "Tequila Songbirds (III)", "Tequila Songbirds (III)" %}
 </mpb-dialog-gallery>

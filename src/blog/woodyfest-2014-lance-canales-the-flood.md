@@ -23,7 +23,7 @@ excerpt: "In 2013, Lance Canales and his band the Flood covered Woody Guthrie’
 
 <!-- markdownlint-enable MD025 --><mpb-dialog-img>
 
-{% image "featured", "img-constrained", "Lance & Carlos — 17th Annual Woody Guthrie Folk Festival, 2014", "Lance & Carlos&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;17th Annual Woody Guthrie Folk Festival, 2014", "eager" %}</mpb-dialog-img>
+{% image "featured", "", "Lance Canales & Carlos Rodriguez", "Lance & Carlos", "eager" %}</mpb-dialog-img>
 
 ## Deportee
 
@@ -88,20 +88,35 @@ Impossible to take one’s eyes off of, Canales commanded the stage. His gravell
 
 <mpb-dialog-gallery hint rel cols="8">
 
-  ![Lance Canales soundcheck — 17th Annual Woody Guthrie Folk Festival, 2014](/assets/images/blog/2020-10-09-woodyfest-lance-canales/czahller-20140710-10-25-30.jpg)
-  ![Lance Canales & the Flood (I) — 17th Annual Woody Guthrie Folk Festival, 2014](/assets/images/blog/2020-10-09-woodyfest-lance-canales/czahller-20140710-11-01-19.jpg)
-  ![Lance Canales & the Flood (II) — 17th Annual Woody Guthrie Folk Festival, 2014](/assets/images/blog/2020-10-09-woodyfest-lance-canales/czahller-20140710-11-01-37.jpg)
-  ![Bassist David Quinday — 17th Annual Woody Guthrie Folk Festival, 2014](/assets/images/blog/2020-10-09-woodyfest-lance-canales/czahller-20140710-11-02-22.jpg)
-  ![Percussionist Carlos Rodriguez — 17th Annual Woody Guthrie Folk Festival, 2014](/assets/images/blog/2020-10-09-woodyfest-lance-canales/czahller-20140710-11-04-17.jpg)
-  ![Lance Canales Gettin’ Down — 17th Annual Woody Guthrie Folk Festival, 2014](/assets/images/blog/2020-10-09-woodyfest-lance-canales/czahller-20140710-11-04-39.jpg)
-  ![Lance Canales & the Flood (III) — 17th Annual Woody Guthrie Folk Festival, 2014](/assets/images/blog/2020-10-09-woodyfest-lance-canales/czahller-20140710-11-11-27.jpg)
-  ![Lance Canales & the Flood (IV) — 17th Annual Woody Guthrie Folk Festival, 2014](/assets/images/blog/2020-10-09-woodyfest-lance-canales/czahller-20140710-11-13-23.jpg)
-  ![Hat in Hand — 17th Annual Woody Guthrie Folk Festival, 2014](/assets/images/blog/2020-10-09-woodyfest-lance-canales/czahller-20140710-11-21-44.jpg)
-  ![David & Lance — 17th Annual Woody Guthrie Folk Festival, 2014](/assets/images/blog/2020-10-09-woodyfest-lance-canales/czahller-20140710-11-23-11.jpg)
-  ![Tim Z. Hernandez reads the names of those killed in the Plane Wreck at Los Gatos — 17th Annual Woody Guthrie Folk Festival, 2014](/assets/images/blog/2020-10-09-woodyfest-lance-canales/czahller-20140710-11-24-59.jpg)
-  ![Lance Canales with Cigar Box Guitar — 17th Annual Woody Guthrie Folk Festival, 2014](/assets/images/blog/2020-10-09-woodyfest-lance-canales/czahller-20140710-11-41-48.jpg)
-  ![Lance & Carlos — 17th Annual Woody Guthrie Folk Festival, 2014](/assets/images/blog/2020-10-09-woodyfest-lance-canales/czahller-20140710-11-43-47.jpg)
-  ![Lance with Slide — 17th Annual Woody Guthrie Folk Festival, 2014](/assets/images/blog/2020-10-09-woodyfest-lance-canales/czahller-20140710-11-43-51.jpg)
-  ![Lance Canales (I) — 17th Annual Woody Guthrie Folk Festival, 2014](/assets/images/blog/2020-10-09-woodyfest-lance-canales/czahller-20140710-11-45-37.jpg)
-  ![Lance Canales (II) — 17th Annual Woody Guthrie Folk Festival, 2014](/assets/images/blog/2020-10-09-woodyfest-lance-canales/czahller-20140710-11-46-34.jpg)
+  {% image "./src/assets/images/blog/2020-10-09-woodyfest-lance-canales/czahller-20140710-10-25-30.jpg", "", "David Quinday and Lance Canales photographed from stage right", "Lance Canales soundcheck" %}
+
+  {% image "./src/assets/images/blog/2020-10-09-woodyfest-lance-canales/czahller-20140710-11-01-19.jpg", "", "Lance Canales & the Flood", "Lance Canales & the Flood (I)" %}
+
+  {% image "./src/assets/images/blog/2020-10-09-woodyfest-lance-canales/czahller-20140710-11-01-37.jpg", "", "Lance Canales & the Flood", "Lance Canales & the Flood (II)" %}
+
+  {% image "./src/assets/images/blog/2020-10-09-woodyfest-lance-canales/czahller-20140710-11-02-22.jpg", "", "David Quinday", "Bassist David Quinday" %}
+
+  {% image "./src/assets/images/blog/2020-10-09-woodyfest-lance-canales/czahller-20140710-11-04-17.jpg", "", "Carlos Rodriguez", "Percussionist Carlos Rodriguez" %}
+
+  {% image "./src/assets/images/blog/2020-10-09-woodyfest-lance-canales/czahller-20140710-11-04-39.jpg", "", "Lance Canales", "Lance Canales Gettin’ Down" %}
+
+  {% image "./src/assets/images/blog/2020-10-09-woodyfest-lance-canales/czahller-20140710-11-11-27.jpg", "", "Lance Canales & the Flood", "Lance Canales & the Flood (III)" %}
+
+  {% image "./src/assets/images/blog/2020-10-09-woodyfest-lance-canales/czahller-20140710-11-13-23.jpg", "", "Lance Canales & the Flood", "Lance Canales & the Flood (IV)" %}
+
+  {% image "./src/assets/images/blog/2020-10-09-woodyfest-lance-canales/czahller-20140710-11-21-44.jpg", "", "Lance Canales holds holds his hat in his left hand", "Hat in Hand" %}
+
+  {% image "./src/assets/images/blog/2020-10-09-woodyfest-lance-canales/czahller-20140710-11-23-11.jpg", "", "David Canales & Lance Quinday", "David & Lance" %}
+
+  {% image "./src/assets/images/blog/2020-10-09-woodyfest-lance-canales/czahller-20140710-11-24-59.jpg", "", "Tim Z. Hernandez reads the names of those killed in the Plane Wreck at Los Gatos", "Tim Z. Hernandez reads the names of those killed in the Plane Wreck at Los Gatos" %}
+
+  {% image "./src/assets/images/blog/2020-10-09-woodyfest-lance-canales/czahller-20140710-11-41-48.jpg", "", "Lance Canales with cigar box guitar", "Lance Canales with Cigar Box Guitar" %}
+
+  {% image "featured", "", "Lance Canales & Carlos Rodriguez", "Lance & Carlos" %}
+
+  {% image "./src/assets/images/blog/2020-10-09-woodyfest-lance-canales/czahller-20140710-11-43-51.jpg", "", "Lance Canales plays a cigar box guitar with a slide", "Lance with Slide" %}
+
+  {% image "./src/assets/images/blog/2020-10-09-woodyfest-lance-canales/czahller-20140710-11-45-37.jpg", "", "Lance Canales", "Lance Canales (I)" %}
+
+  {% image "./src/assets/images/blog/2020-10-09-woodyfest-lance-canales/czahller-20140710-11-46-34.jpg", "", "Lance Canales", "Lance Canales (II)" %}
 </mpb-dialog-gallery>

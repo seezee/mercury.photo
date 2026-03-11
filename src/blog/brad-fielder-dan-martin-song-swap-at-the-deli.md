@@ -27,7 +27,7 @@ excerpt: A pair of Oklahoma’s premier songwriters sharing a stage should draw 
 <p>Peerless pickers swap songs</p></stack-l></hgroup>
 <!-- markdownlint-enable MD025 --><mpb-dialog-img>
 
-{% image "featured", "img-constrained", "Dan & Brad (II) — Brad Fielder & Dan Martin Song Swap at the Deli", "Dan & Brad (II) — Brad Fielder & Dan Martin Song Swap at the Deli", "eager" %}</mpb-dialog-img>
+{% image "featured", "", "Dan & Brad — Brad Fielder & Dan Martin Song Swap at the Deli", "Dan & Brad (II)", "eager" %}</mpb-dialog-img>
 
 A pair of Oklahoma’s premier songwriters sharing a stage should draw a crowd. But if it’s Monday night the week before finals in a university town, maybe not. When <span class="h-card p-name">Brad Fielder</span> and <span class="h-card p-name">Dan Martin</span> started their late-night set at Campus Corner dive <span class="h-card p-org">The Deli</span>,[^1] the only audience besides me and one other customer were the audio engineer, the bartender, and four loud-mouthed boys-in-men’s-bodies. The latter were more interested in discussing strip clubs than showing deference to the artistry on display. Their loss. At least they left after the third song.{.drop-cap}
 
@@ -39,17 +39,27 @@ I’ve written elsewhere about [Fielder’s](/blog/woodyfest-2018-brad-fielder-r
 
 <mpb-dialog-gallery hint rel cols="8">
 
-  ![Dan & Brad (I) — Brad Fielder & Dan Martin Song Swap at the Deli](/assets/images/blog/2019-05-03-brad-fielder-dan-martin-deli/czahller-20190429-22-05-50.jpg)
-  ![Dan & Brad (II) — Brad Fielder & Dan Martin Song Swap at the Deli](/assets/images/blog/2019-05-03-brad-fielder-dan-martin-deli/czahller-20190429-22-07-59.jpg)
-  ![Dan & Brad (III) — Brad Fielder & Dan Martin Song Swap at the Deli](/assets/images/blog/2019-05-03-brad-fielder-dan-martin-deli/czahller-20190429-22-09-04.jpg)
-  ![Upstage View — Brad Fielder & Dan Martin Song Swap at the Deli](/assets/images/blog/2019-05-03-brad-fielder-dan-martin-deli/czahller-20190429-22-11-45.jpg)
-  ![Dan Martin (I) — Brad Fielder & Dan Martin Song Swap at the Deli](/assets/images/blog/2019-05-03-brad-fielder-dan-martin-deli/czahller-20190429-22-13-03.jpg)
-  ![Dan Martin (II) — Brad Fielder & Dan Martin Song Swap at the Deli](/assets/images/blog/2019-05-03-brad-fielder-dan-martin-deli/czahller-20190429-22-15-51.jpg)
-  ![Brad Fielder (I) — Brad Fielder & Dan Martin Song Swap at the Deli](/assets/images/blog/2019-05-03-brad-fielder-dan-martin-deli/czahller-20190429-22-17-38.jpg)
-  ![Brad Fielder (II) — Brad Fielder & Dan Martin Song Swap at the Deli](/assets/images/blog/2019-05-03-brad-fielder-dan-martin-deli/czahller-20190429-22-19-12.jpg)
-  ![Dan Martin (III) — Brad Fielder & Dan Martin Song Swap at the Deli](/assets/images/blog/2019-05-03-brad-fielder-dan-martin-deli/czahller-20190429-22-21-19.jpg)
-  ![Dan Martin (IV) — Brad Fielder & Dan Martin Song Swap at the Deli](/assets/images/blog/2019-05-03-brad-fielder-dan-martin-deli/czahller-20190429-22-22-35.jpg)
-  ![Brad Fielder (III) — Brad Fielder & Dan Martin Song Swap at the Deli](/assets/images/blog/2019-05-03-brad-fielder-dan-martin-deli/czahller-20190429-22-24-30.jpg)
+  {% image "./src/assets/images/blog/2019-05-03-brad-fielder-dan-martin-deli/czahller-20190429-22-05-50.jpg", "", "Dan & Brad", "Dan & Brad (I)" %}
+
+  {% image "featured", "", "Dan & Brad", "Dan & Brad (II)" %}
+
+  {% image "./src/assets/images/blog/2019-05-03-brad-fielder-dan-martin-deli/czahller-20190429-22-09-04.jpg", "", "Dan & Brad", "Dan & Brad (III)" %}
+
+  {% image "./src/assets/images/blog/2019-05-03-brad-fielder-dan-martin-deli/czahller-20190429-22-11-45.jpg", "", "Upstage View", "Upstage View" %}
+
+  {% image "./src/assets/images/blog/2019-05-03-brad-fielder-dan-martin-deli/czahller-20190429-22-13-03.jpg", "", "Dan Martin", "Dan Martin (I)" %}
+
+  {% image "./src/assets/images/blog/2019-05-03-brad-fielder-dan-martin-deli/czahller-20190429-22-15-51.jpg", "", "Dan Martin", "Dan Martin (II)" %}
+
+  {% image "./src/assets/images/blog/2019-05-03-brad-fielder-dan-martin-deli/czahller-20190429-22-17-38.jpg", "", "Brad Fielder", "Brad Fielder (I)" %}
+
+  {% image "./src/assets/images/blog/2019-05-03-brad-fielder-dan-martin-deli/czahller-20190429-22-19-12.jpg", "", "Brad Fielder", "Brad Fielder (II)" %}
+
+  {% image "./src/assets/images/blog/2019-05-03-brad-fielder-dan-martin-deli/czahller-20190429-22-21-19.jpg", "", "Dan Martin", "Dan Martin (III)" %}
+
+  {% image "./src/assets/images/blog/2019-05-03-brad-fielder-dan-martin-deli/czahller-20190429-22-22-35.jpg", "", "Dan Martin", "Dan Martin (IV)" %}
+
+  {% image "./src/assets/images/blog/2019-05-03-brad-fielder-dan-martin-deli/czahller-20190429-22-24-30.jpg", "", "Brad Fielder", "Brad Fielder (III)" %}
 </mpb-dialog-gallery>
 
 ## Technical

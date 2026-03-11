@@ -27,7 +27,7 @@ excerpt: Ellis Paul loves Woody. Of the Woody Guthrie tattoo on his right should
 <p>Old and new bring diverse audience to festival</p></stack-l></hgroup>
 <!-- markdownlint-enable MD025 --><mpb-dialog-img>
 
-{% image "featured", "img-constrained", "Jazon Mraz with Audience (II) — 21st Annual Woody Guthrie Festival, 2018", "Jazon Mraz with Audience (II)&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;21st Annual Woody Guthrie Festival, 2018", "eager" %}</mpb-dialog-img>
+{% image "featured", "", "Jazon Mraz with Audience (II)", "Jazon Mraz with Audience (II)", "eager" %}</mpb-dialog-img>
 
 ## Founding Fabulist Faithful to Festival
 
@@ -56,7 +56,7 @@ During Paul’s set, members of the Guthrie family watched from stage right of t
 
 <mpb-dialog-img>
 
-{% image "./src/assets/images/blog/2019-01-04-woodyfest-ellis-paul-jason-mraz/gzahller-20180713-07-33-25.jpg", "img-constrained", "Group Sing — 21st Annual Woody Guthrie Festival, 2018", "Group Sing&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;21st Annual Woody Guthrie Festival, 2018. Copyright &copy; 2018 Guy V. Zähller/Monterey Bay Photo. All rights reserved. Used with permission." %}</mpb-dialog-img>
+{% image "./src/assets/images/blog/2019-01-04-woodyfest-ellis-paul-jason-mraz/gzahller-20180713-07-33-25.jpg", "", "Group Sing", "Group Sing&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;21st Annual Woody Guthrie Festival, 2018. Copyright &copy; 2018 Guy V. Zähller/Monterey Bay Photo. All rights reserved. Used with permission.", "large" %}</mpb-dialog-img>
 
 Paul sits on the festival’s advisory board. An amateur illustrator, his drawings have graced the festival program book and the souvenir T-shirts several times.
 
@@ -83,22 +83,39 @@ I didn't get many photograph's of Ellis Paul's set as I was taking a break from 
 
 <mpb-dialog-gallery hint rel cols="8">
 
-  ![Ellis Paul Audience — 21st Annual Woody Guthrie Festival, 2018](/assets/images/blog/2019-01-04-woodyfest-ellis-paul-jason-mraz/czahller-20180713-21-14-05.jpg)
-  ![Ellis Paul Group Sing (I) — 21st Annual Woody Guthrie Festival, 2018](/assets/images/blog/2019-01-04-woodyfest-ellis-paul-jason-mraz/czahller-20180713-21-20-51.jpg)
-  ![Ellis Paul Group Sing (II) — 21st Annual Woody Guthrie Festival, 2018](/assets/images/blog/2019-01-04-woodyfest-ellis-paul-jason-mraz/czahller-20180713-21-21-32.jpg)
-  ![Jason Mraz (from Upstage) — 21st Annual Woody Guthrie Festival, 2018](/assets/images/blog/2019-01-04-woodyfest-ellis-paul-jason-mraz/czahller-20180713-22-33-21.jpg)
-  ![Jason Mraz with Guthrie Family watching from Stage Right — 21st Annual Woody Guthrie Festival, 2018](/assets/images/blog/2019-01-04-woodyfest-ellis-paul-jason-mraz/czahller-20180713-22-33-27.jpg)
-  ![Jason Mraz (I) — 21st Annual Woody Guthrie Festival, 2018](/assets/images/blog/2019-01-04-woodyfest-ellis-paul-jason-mraz/czahller-20180713-22-35-25.jpg)
-  ![Jason Mraz Audience — 21st Annual Woody Guthrie Festival, 2018](/assets/images/blog/2019-01-04-woodyfest-ellis-paul-jason-mraz/czahller-20180713-22-35-50.jpg)
-  ![Jason Mraz (II) — 21st Annual Woody Guthrie Festival, 2018](/assets/images/blog/2019-01-04-woodyfest-ellis-paul-jason-mraz/czahller-20180713-22-36-46.jpg)
-  ![Jason Mraz (III) — 21st Annual Woody Guthrie Festival, 2018](/assets/images/blog/2019-01-04-woodyfest-ellis-paul-jason-mraz/czahller-20180713-22-36-52.jpg)
-  ![Jason Mraz (IV) — 21st Annual Woody Guthrie Festival, 2018](/assets/images/blog/2019-01-04-woodyfest-ellis-paul-jason-mraz/czahller-20180713-22-38-53.jpg)
-  ![Jazon Mraz (Seen from Stage Stairs) — 21st Annual Woody Guthrie Festival, 2018](/assets/images/blog/2019-01-04-woodyfest-ellis-paul-jason-mraz/czahller-20180713-22-40-08.jpg)
-  ![“Breathe” — 21st Annual Woody Guthrie Festival, 2018](/assets/images/blog/2019-01-04-woodyfest-ellis-paul-jason-mraz/czahller-20180713-22-40-51.jpg)
-  ![Jazon Mraz with Audience (I) — 21st Annual Woody Guthrie Festival, 2018](/assets/images/blog/2019-01-04-woodyfest-ellis-paul-jason-mraz/czahller-20180713-22-41-00.jpg)
-  ![Guthrie Family Watching Jason Mraz from Stage Right — 21st Annual Woody Guthrie Festival, 2018](/assets/images/blog/2019-01-04-woodyfest-ellis-paul-jason-mraz/czahller-20180713-22-57-31.jpg)
-  ![Jazon Mraz Audience & Security Personnel — 21st Annual Woody Guthrie Festival, 2018](/assets/images/blog/2019-01-04-woodyfest-ellis-paul-jason-mraz/czahller-20180713-23-11-15.jpg)
-  ![Terry “Buffalo” Ware, Jason Mraz, & Joel Rafael — 21st Annual Woody Guthrie Festival, 2018](/assets/images/blog/2019-01-04-woodyfest-ellis-paul-jason-mraz/czahller-20180713-23-19-00.jpg)
-  ![Jazon Mraz with Audience (II) — 21st Annual Woody Guthrie Festival, 2018](/assets/images/blog/2019-01-04-woodyfest-ellis-paul-jason-mraz/czahller-20180713-23-26-26.jpg)
-  ![Jason Mraz Leaving the Stage — 21st Annual Woody Guthrie Festival, 2018](/assets/images/blog/2019-01-04-woodyfest-ellis-paul-jason-mraz/czahller-20180713-23-32-51.jpg)
+  {% image "./src/assets/images/blog/2019-01-04-woodyfest-ellis-paul-jason-mraz/czahller-20180713-21-14-05.jpg", "", "Ellis Paul audience", "Ellis Paul Audience" %}
+
+  {% image "./src/assets/images/blog/2019-01-04-woodyfest-ellis-paul-jason-mraz/czahller-20180713-21-20-51.jpg", "", "Ellis Paul group sing. Festival artist join Ellis Paul on the stage.", "Ellis Paul Group Sing (I)" %}
+
+  {% image "./src/assets/images/blog/2019-01-04-woodyfest-ellis-paul-jason-mraz/czahller-20180713-21-21-32.jpg", "", "Ellis Paul group sing. Festival artist join Ellis Paul on the stage.", "Ellis Paul Group Sing (II)" %}
+
+  {% image "./src/assets/images/blog/2019-01-04-woodyfest-ellis-paul-jason-mraz/czahller-20180713-22-33-21.jpg", "", "Jason Mraz viewed from upstage", "Jason Mraz (from Upstage)" %}
+
+  {% image "./src/assets/images/blog/2019-01-04-woodyfest-ellis-paul-jason-mraz/czahller-20180713-22-33-27.jpg", "", "Jason Mraz with Guthrie family watching from stage right. The family is seated criss-cross apple sauce.", "Jason Mraz with Guthrie Family watching from Stage Right" %}
+
+  {% image "./src/assets/images/blog/2019-01-04-woodyfest-ellis-paul-jason-mraz/czahller-20180713-22-35-25.jpg", "", "Jason Mraz", "Jason Mraz (I)" %}
+
+  {% image "./src/assets/images/blog/2019-01-04-woodyfest-ellis-paul-jason-mraz/czahller-20180713-22-35-50.jpg", "", "Jason Mraz audience", "Jason Mraz Audience" %}
+
+  {% image "./src/assets/images/blog/2019-01-04-woodyfest-ellis-paul-jason-mraz/czahller-20180713-22-36-46.jpg", "", "Jason Mraz", "Jason Mraz (II)" %}
+
+  {% image "./src/assets/images/blog/2019-01-04-woodyfest-ellis-paul-jason-mraz/czahller-20180713-22-36-52.jpg", "", "Jason Mraz", "Jason Mraz (III)" %}
+
+  {% image "./src/assets/images/blog/2019-01-04-woodyfest-ellis-paul-jason-mraz/czahller-20180713-22-38-53.jpg", "", "Jason Mraz", "Jason Mraz (IV)" %}
+
+  {% image "./src/assets/images/blog/2019-01-04-woodyfest-ellis-paul-jason-mraz/czahller-20180713-22-40-08.jpg", "", "Jazon Mraz viewed from upstage", "Jazon Mraz (Seen from Stage Stairs)" %}
+
+  {% image "./src/assets/images/blog/2019-01-04-woodyfest-ellis-paul-jason-mraz/czahller-20180713-22-40-51.jpg", "", "Jazon Mraz viewed from upstage", "“Breathe”" %}
+
+  {% image "./src/assets/images/blog/2019-01-04-woodyfest-ellis-paul-jason-mraz/czahller-20180713-22-41-00.jpg", "", "Jazon Mraz with audience", "Jazon Mraz with Audience (I)" %}
+
+  {% image "./src/assets/images/blog/2019-01-04-woodyfest-ellis-paul-jason-mraz/czahller-20180713-22-57-31.jpg", "", "Guthrie Family watching Jason Mraz from stage right", "Guthrie Family Watching Jason Mraz from Stage Right" %}
+
+  {% image "./src/assets/images/blog/2019-01-04-woodyfest-ellis-paul-jason-mraz/czahller-20180713-23-11-15.jpg", "", "Jazon Mraz audience & security personnel", "Jazon Mraz Audience & Security Personnel" %}
+
+  {% image "./src/assets/images/blog/2019-01-04-woodyfest-ellis-paul-jason-mraz/czahller-20180713-23-19-00.jpg", "", "Terry “Buffalo” Ware, Jason Mraz, & Joel Rafael", "Terry “Buffalo” Ware, Jason Mraz, & Joel Rafael" %}
+
+  {% image "./src/assets/images/blog/2019-01-04-woodyfest-ellis-paul-jason-mraz/czahller-20180713-23-26-26.jpg", "", "Jazon Mraz with audience", "Jazon Mraz with Audience (II)" %}
+
+  {% image "./src/assets/images/blog/2019-01-04-woodyfest-ellis-paul-jason-mraz/czahller-20180713-23-32-51.jpg", "", "Jason Mraz leaving the stage", "Jason Mraz Leaving the Stage" %}
 </mpb-dialog-gallery>

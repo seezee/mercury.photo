@@ -19,16 +19,14 @@ h3:has(> .widget__btn[role="tab"]) {
   font-weight: bold;
   text-transform: unset;
 
-  color: var(--mpb-color-textReverse);
-  background-color: var(--mpb-color-textPrimary);
+  color: var(--mpb-color-text-reverse);
+  background-color: var(--mpb-color-text-primary);
 
   cursor: pointer;
 }
 
-.fonts-stage-2 {
-  .widget__btn {
-    font-family: var(--mpb-font-sans);
-  }
+.widget__btn {
+  font-family: var(--mpb-font-sans);
 }
 
 .widget__btn[aria-expanded] {
@@ -44,7 +42,7 @@ h3:has(> .widget__btn[role="tab"]) {
 .widget__btn[aria-expanded]::after {
   content: "";
   position: absolute;
-  background-color: var(--mpb-color-textReverse);
+  background-color: var(--mpb-color-text-reverse);
 }
 
 /* The cross icon horizontal element */
@@ -67,7 +65,7 @@ h3:has(> .widget__btn[role="tab"]) {
 }
 
 .widget__btn[aria-expanded]:focus-visible {
-  outline: var(--mpb-alert-border-width) solid var(--mpb-color-textReverse);
+  outline: var(--mpb-alert-border-width) solid var(--mpb-color-text-reverse);
   outline-offset: calc(var(--mpb-alert-border-width) * -2);
 }
 
@@ -76,12 +74,12 @@ h3:has(> .widget__btn[role="tab"]) {
   inset-block-start: calc(var(--s-5) * -1);
   padding: var(--s1);
 
-  border: solid var(--mpb-color-textPrimary) var(--s-5);
+  border: solid var(--mpb-color-text-primary) var(--s-5);
   border-start-end-radius: var(--mpb-radius-1x);
   border-end-start-radius: var(--mpb-radius-1x);
   border-end-end-radius: var(--mpb-radius-1x);
 
-  background-color: var(--mpb-color-tabPanelBG);
+  background-color: var(--mpb-color-tab-panel-bg);
 }
 
 [role="tablist"] {
@@ -93,17 +91,17 @@ h3:has(> .widget__btn[role="tab"]) {
   position: relative;
   inset-block-start: var(--s-5);
 
-  border-inline: var(--s-5) solid var(--mpb-color-textPrimary);
-  border-block-start: var(--s-5) solid var(--mpb-color-textPrimary);
+  border-inline: var(--s-5) solid var(--mpb-color-text-primary);
+  border-block-start: var(--s-5) solid var(--mpb-color-text-primary);
   border-start-start-radius: 0;
   border-end-start-radius: 0;
   border-end-end-radius: 0;
 }
 
 [role="tab"][aria-selected="true"] {
-  color: var(--mpb-color-textPrimary);
-  background-color: var(--mpb-color-tabPanelBG);
-  box-shadow: 0 var(--s-5) var(--mpb-color-tabPanelBG);
+  color: var(--mpb-color-text-primary);
+  background-color: var(--mpb-color-tab-panel-bg);
+  box-shadow: 0 var(--s-5) var(--mpb-color-tab-panel-bg);
 }
 
 [role="tab"][aria-selected="true"]::after {
@@ -113,7 +111,7 @@ h3:has(> .widget__btn[role="tab"]) {
   inset-block-end: calc(var(--s-5) * -0.5);
   inline-size: 100%;
   block-size: calc(var(--s-5) + 2px);
-  background-color: var(--mpb-color-tabPanelBG);
+  background-color: var(--mpb-color-tab-panel-bg);
   z-index: 2;
 }
 
@@ -121,12 +119,12 @@ h3:has(> .widget__btn[role="tab"]) {
   position: relative;
   padding: var(--s1);
 
-  border: var(--s-5) solid var(--mpb-color-textPrimary);
+  border: var(--s-5) solid var(--mpb-color-text-primary);
   border-start-end-radius: var(--mpb-radius-1x);
   border-end-start-radius: var(--mpb-radius-1x);
   border-end-end-radius: var(--mpb-radius-1x);
 
-  background-color: var(--mpb-color-tabPanelBG);
+  background-color: var(--mpb-color-tab-panel-bg);
 }
 
 [role="tab"]:focus-visible {

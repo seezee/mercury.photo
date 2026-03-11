@@ -16,7 +16,7 @@ excerpt: We do a fair amount of concert photography with the Leica M9-P digital
 
 <!-- markdownlint-enable MD025 --><mpb-dialog-img>
 
-{% image "featured", "img-constrained", "Jeannie Burns performs at the Crystal Theatre. She is in front of a heavy red velvet curtain. She is in motion, causing her hair to blur and cover her face.", "Jeannie (I)", "eager" %}</mpb-dialog-img>
+{% image "featured", "", "Jeannie Burns performs at the Crystal Theatre. She is in front of a heavy red velvet curtain. She is in motion, causing her hair to blur and cover her face.", "Jeannie (I)", "eager" %}</mpb-dialog-img>
 
 We do a fair amount of concert photography with the Leica M9-P digital rangefinder camera.[^1] This presents certain challenges not affecting the typical DSLR shooter.
 
@@ -28,7 +28,7 @@ Chiefly, focal length is limited. Although M-mount lenses are made up to 135mm 
 
 <mpb-dialog-img>
 
-{% image "./src/assets/images/blog/2012-09-11-leica-rangefinder-concerts/czahller-20120713-14-01-11.jpg", "img-constrained", "A black-and-white shot of the Crystal Theatre backstage. Roger Osburn, Greg Johnson, Annie Burns, and an unidentified person congregate in the area. Johnson speaks to the unidentified young man.", "Backstage (II)" %}</mpb-dialog-img>
+{% image "./src/assets/images/blog/2012-09-11-leica-rangefinder-concerts/czahller-20120713-14-01-11.jpg", "", "A black-and-white shot of the Crystal Theatre backstage. Roger Osburn, Greg Johnson, Annie Burns, and an unidentified person congregate in the area. Johnson speaks to the unidentified young man.", "Backstage (II)", "large" %}</mpb-dialog-img>
 
 In larger venues where it’s hard to get close to the stage, we prefer a Leica Tele-Elmarit-M 90mm lens. It’s small, fast, and sharp, and cheaper to buy used than the current 90mm lens in Leica’s lineup. On a Leica M3 with its high viewfinder magnification, it’s even better.
 
@@ -44,7 +44,7 @@ Since most stage lights are tungsten, even with colored gels, we either set our 
 
 <mpb-dialog-img>
 
-{% image "./src/assets/images/blog/2012-09-11-leica-rangefinder-concerts/czahller-20120713-17-20-21.jpg", "img-constrained", "John Fullbright plays during the Bob Childers tribute at the Brick Café basement. As usual when he performs, Fullbright’s eyes are closed. The image is black-and-white.", "John Fullbright (II)" %}</mpb-dialog-img>
+{% image "./src/assets/images/blog/2012-09-11-leica-rangefinder-concerts/czahller-20120713-17-20-21.jpg", "", "John Fullbright plays during the Bob Childers tribute at the Brick Café basement. As usual when he performs, Fullbright’s eyes are closed. The image is black-and-white.", "John Fullbright (II)", "large" %}</mpb-dialog-img>
 
 ## Exposure & ISO
 
@@ -76,6 +76,4 @@ We usually offer the performer a pick of the best images afterward, with the und
 
 ## Have Fun
 
-A stage show is an opportunity to enjoy yourself. You’ll take better pictures if you use your  ears; this is a scientific fact![^6] Relax, enjoy the show, and take pictures.
-
-[^6]: According to Professor Baloney of the Hogwash Institute.
+A stage show is an opportunity to enjoy yourself. You’ll take better pictures if you use your  ears; this is a scientific fact^6] Relax, enjoy the show, and take pictures.

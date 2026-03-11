@@ -18,7 +18,7 @@ excerpt: Adobe Lightroom is a powerful tool for managing and processing digital 
 
 <!-- markdownlint-enable MD025 --><mpb-dialog-img>
 
-{% image "featured", "img-constrained", "A gaunt, elderly man with long hair, a long beard, and piercing eyes sits in the dark, his face illuminated by a torch.", "Greybeard (Richard)", "eager" %}</mpb-dialog-img>
+{% image "featured", "", "A gaunt, elderly man with long hair, a long beard, and piercing eyes sits in the dark, his face illuminated by a torch.", "Greybeard (Richard)", "eager" %}</mpb-dialog-img>
 
 Adobe Lightroom is a powerful tool for managing and processing digital photos. It can catalogue and organize your photos, automate online publishing, batch process, manage metadata (<abbr title="Exchangeable image file format: A standard specifying the formats for Metadata in digital image and sound files.">EXIF</abbr> and <abbr title="Metadata standard developed by the The International Press Telecommunications Council.">IPTC</abbr>), and watermark your images on export. It can also apply essential basic image adjustments non-destructively: All changes are written to a database, leaving your original image untouched, so you can always revert.
 
@@ -34,7 +34,7 @@ We started by cropping the image. We based the crop area on the Rule of Thirds;[
 
 <mpb-dialog-img>
 
-{% image "./src/assets/images/blog/2012-09-04-lr-tut/czahller-20120904-18-35-45_01-crop.jpg", "img-constrained", "Cropping the image", "Step 1: Crop" %}</mpb-dialog-img>
+{% image "./src/assets/images/blog/2012-09-04-lr-tut/czahller-20120904-18-35-45_01-crop.jpg", "", "Cropping the image", "Step 1: Crop", "large" %}</mpb-dialog-img>
 
 ## Exposure Adjustments
 
@@ -47,30 +47,30 @@ We set white balance in camera with a [WhiBal G7](https://bhpho.to/4q2PxnH){targ
 
 <mpb-dialog-img>
 
-{% image "./src/assets/images/blog/2012-09-04-lr-tut/czahller-20120904-18-35-46_02-contrast.jpg", "img-constrained", "Adjusting contrast", "Step 2: Contrast" %}</mpb-dialog-img>
+{% image "./src/assets/images/blog/2012-09-04-lr-tut/czahller-20120904-18-35-46_02-contrast.jpg", "", "Adjusting contrast", "Step 2: Contrast", "large" %}</mpb-dialog-img>
 
 <mpb-dialog-img>
 
-{% image "./src/assets/images/blog/2012-09-04-lr-tut/czahller-20120904-18-35-47_03-shadows.jpg", "img-constrained", "Adjusting shadows", "Step 3: Shadows" %}</mpb-dialog-img>
+{% image "./src/assets/images/blog/2012-09-04-lr-tut/czahller-20120904-18-35-47_03-shadows.jpg", "", "Adjusting shadows", "Step 3: Shadows", "large" %}</mpb-dialog-img>
 
 <mpb-dialog-img>
 
-{% image "./src/assets/images/blog/2012-09-04-lr-tut/czahller-20120904-18-35-48_04-blacks.jpg", "img-constrained", "Adjusting black levels", "Step 4: Blacks" %}</mpb-dialog-img>
+{% image "./src/assets/images/blog/2012-09-04-lr-tut/czahller-20120904-18-35-48_04-blacks.jpg", "", "Adjusting black levels", "Step 4: Blacks", "large" %}</mpb-dialog-img>
 
 <mpb-dialog-img>
 
-{% image "./src/assets/images/blog/2012-09-04-lr-tut/czahller-20120904-18-35-48_05-clarity.jpg", "img-constrained", "Adjusting clarity", "Step 5: Clarity" %}</mpb-dialog-img>
+{% image "./src/assets/images/blog/2012-09-04-lr-tut/czahller-20120904-18-35-48_05-clarity.jpg", "", "Adjusting clarity", "Step 5: Clarity", "large" %}</mpb-dialog-img>
 
 * Convert to B+W
 * **B+W Auto-mix** (after trying various filters for B+W & rejecting them)
 
 <mpb-dialog-img>
 
-{% image "./src/assets/images/blog/2012-09-04-lr-tut/czahller-20120904-18-35-49_06-monochrome.jpg", "img-constrained", "Converting to black & white", "B+W Conversion" %}</mpb-dialog-img>
+{% image "./src/assets/images/blog/2012-09-04-lr-tut/czahller-20120904-18-35-49_06-monochrome.jpg", "", "Converting to black & white", "B+W Conversion", "large" %}</mpb-dialog-img>
 
 <mpb-dialog-img>
 
-{% image "./src/assets/images/blog/2012-09-04-lr-tut/czahller-20120904-18-35-50_07-mix.jpg", "img-constrained", "Adjusting black & white mix", "Step 7: B+W Mix" %}</mpb-dialog-img>
+{% image "./src/assets/images/blog/2012-09-04-lr-tut/czahller-20120904-18-35-50_07-mix.jpg", "", "Adjusting black & white mix", "Step 7: B+W Mix", "large" %}</mpb-dialog-img>
 
 ## Local Adjustments
 
@@ -81,11 +81,11 @@ Next, I employed the **Adjustment Brush** (Size = 6.2; Feather, Flow and Density
 
 <mpb-dialog-img>
 
-{% image "./src/assets/images/blog/2012-09-04-lr-tut/czahller-20120904-18-35-51_08-brush-exposure+.jpg", "img-constrained", "Locally increasing exposure: The subject’s face", "Step 8: Adjustment Brush (Increase Exposure)" %}</mpb-dialog-img>
+{% image "./src/assets/images/blog/2012-09-04-lr-tut/czahller-20120904-18-35-51_08-brush-exposure+.jpg", "", "Locally increasing exposure: The subject’s face", "Step 8: Adjustment Brush (Increase Exposure)", "large" %}</mpb-dialog-img>
 
 <mpb-dialog-img>
 
-{% image "./src/assets/images/blog/2012-09-04-lr-tut/czahller-20120904-18-35-52_09-brush-exposure-.jpg", "img-constrained", "Locally decreasing exposure: The torch", "Step 9: Adjustment Brush (Decrease Exposure)" %}</mpb-dialog-img>
+{% image "./src/assets/images/blog/2012-09-04-lr-tut/czahller-20120904-18-35-52_09-brush-exposure-.jpg", "", "Locally decreasing exposure: The torch", "Step 9: Adjustment Brush (Decrease Exposure)", "large" %}</mpb-dialog-img>
 
 ## Noise Reduction
 
@@ -97,11 +97,11 @@ The image was shot in low light using a tripod and a long exposure. It’s prett
 
 <mpb-dialog-img>
 
-{% image "./src/assets/images/blog/2012-09-04-lr-tut/czahller-20120904-18-35-53_10-zoom-noise.jpg", "img-constrained", "Zooming in to inspect noise before applying noise reduction", "Step 10: Zoom in to See Noise" %}</mpb-dialog-img>
+{% image "./src/assets/images/blog/2012-09-04-lr-tut/czahller-20120904-18-35-53_10-zoom-noise.jpg", "", "Zooming in to inspect noise before applying noise reduction", "Step 10: Zoom in to See Noise", "large" %}</mpb-dialog-img>
 
 <mpb-dialog-img>
 
-{% image "./src/assets/images/blog/2012-09-04-lr-tut/czahller-20120904-18-35-54_11-noise-reduction.jpg", "img-constrained", "Applying noise reduction (luminance only)", "Step 11: Noise Reduction (Luminance)" %}</mpb-dialog-img>
+{% image "./src/assets/images/blog/2012-09-04-lr-tut/czahller-20120904-18-35-54_11-noise-reduction.jpg", "", "Applying noise reduction (luminance only)", "Step 11: Noise Reduction (Luminance)", "large" %}</mpb-dialog-img>
 
 That’s it; other tools we frequently use are the Graduated Filter and the Lens Correction tools; the latter is particularly handy for removing the squirrely chromatic aberration and magenta/green fringes that plague Leica digital cameras under certain conditions.
 
@@ -109,12 +109,12 @@ That’s it; other tools we frequently use are the Graduated Filter and the Lens
 
 <figure>
   <stack-l>
-    <mpb-picslider aspect="3 / 2" color="var(--mpb-color-textReverse)" bg-color="var(--mpb-color-accent)">
+    <mpb-picslider aspect="3 / 2" color="var(--mpb-color-text-reverse)" bg-color="var(--mpb-color-accent)">
       <stack-l>
 
   ![Cropped image before other adjustments. A small group of people gathered for Band Camp at the Okemah Fairgrounds during the Woody Guthrie Folk Festival. The image is in color, shot in low light, and is very noisy.](/assets/images/blog/2012-09-04-lr-tut/czahller-20120715-01-55-12-crop.jpg)![The same image after adjustments. It has been converted to black & white and has been edited to emphasize a single person’s face: A man named Richard. He is gaunt, elderly man with long hair, a long beard, and piercing eyes sitting in the dark, his face illuminated by a torch.](/assets/images/blog/2012-09-04-lr-tut/czahller-20120715-01-55-12-final.jpg)
-    </stack-l>
-  </mpb-picslider>
+      </stack-l>
+    </mpb-picslider>
   <figcaption>
 
     Cropped image before & after adjustments

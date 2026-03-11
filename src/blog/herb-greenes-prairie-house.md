@@ -23,7 +23,7 @@ excerpt: In 1957 a young architect named Herb Greene returned to his alma mater,
 <p>An architectural gem on the Oklahoma prairie</p></stack-l></hgroup>
 <!-- markdownlint-enable MD025 --><mpb-dialog-img>
 
-{% image "featured", "img-constrained", "Southwest View — Prairie House, Norman, Oklahoma", "Southwest View — Prairie House, Norman, Oklahoma", "eager" %}</mpb-dialog-img>
+{% image "featured", "", "Southwest View", "Southwest View", "eager" %}</mpb-dialog-img>
 
 In <time datetime="1957">1957</time> a young architect named <span class="h-card p-name">Herb Greene</span> returned to his alma mater, the <span class="h-card p-org">University of Oklahoma</span>, to teach. Working alongside his former professor (modernist <span class="h-card p-name">Bruce Goff</span>) and others, he helped develop the <span class="h-card p-org">American School</span> of architecture. Described as <q>A new school, probably the only indigenous one in the United States</q> by co-founder <span class="h-card p-name">Donald MacDonald</span>, the curriculum eschewed the pedagogy of the French Beaux Arts and Bauhaus schools, instead approaching architecture and its pedagogy in an <q>original and authentically American fashion</q> by emphasizing <q>individual creativity, organic forms, and experimentation.</q>&NoBreak;[^1]{.drop-cap}
 
@@ -43,7 +43,7 @@ Situated on two acres with no other homes in view, the house featured <q>natural
 
 <mpb-dialog-img>
 
-{% image "./src/assets/images/blog/2019-04-24-prairie-house/jcrumley-20170521-16-06-06.jpg", "img-constrained", "The author, Chris J. Zähller in front of Herb Greene’s “Prairie Chicken” House in Norman, Oklahoma. Joseph Crumley’s Mimaya medium format camera hangs on his left hip suspended by a wide cross-body strap.", "The author in front of Herb Greene’s “Prairie Chicken” House in Norman, Oklahoma. Photo © 2017 The Estate of Joseph W. Crumley. Used by permission." %}</mpb-dialog-img>
+{% image "./src/assets/images/blog/2019-04-24-prairie-house/jcrumley-20170521-16-06-06.jpg", "", "The author, Chris J. Zähller in front of Herb Greene’s “Prairie Chicken” House in Norman, Oklahoma. Joseph Crumley’s Mimaya medium format camera hangs on his left hip suspended by a wide cross-body strap.", "The author in front of Herb Greene’s “Prairie Chicken” House in Norman, Oklahoma. Photo © 2017 The Estate of Joseph W. Crumley. Used by permission.", "large" %}</mpb-dialog-img>
 
 Greene and his family lived in the house for only a year-and-a-half. The <span class="h-card p-org">University of Kentucky</span> offered him a professorship, and for the next half century the house was home to local businesswoman <span class="h-card p-name">Janie Wilson</span>,&NoBreak;[^5] who lived in it until her death in <time datetime="2016-01">2016</time>. Business owner <span class="h-card p-name">Brent Swift</span> acquired the property soon after.
 
@@ -69,21 +69,35 @@ When my friend <span class="h-card p-name">Joe Crumley</span> and I photographed
 
 <mpb-dialog-gallery hint rel cols="8">
 
-  ![The author in front of Herb Greene’s “Prairie Chicken” House in Norman, Oklahoma. Photo © 2017 The Estate of Joseph W. Crumley. Used by permission.](/assets/images/blog/2019-04-24-prairie-house/jcrumley-20170521-16-06-06.jpg)
-  ![Standing Water & Reeds — Prairie House, Norman, Oklahoma](/assets/images/blog/2019-04-24-prairie-house/czahller-20170521-16-16-59.jpg)
-  ![Northwest View — Prairie House, Norman, Oklahoma](/assets/images/blog/2019-04-24-prairie-house/czahller-20170521-16-19-55.jpg)
-  ![West View — Prairie House, Norman, Oklahoma](/assets/images/blog/2019-04-24-prairie-house/czahller-20170521-16-22-56.jpg)
-  ![Southwest View — Prairie House, Norman, Oklahoma](/assets/images/blog/2019-04-24-prairie-house/czahller-20170521-16-26-25.jpg)
-  ![West Window — Prairie House, Norman, Oklahoma](/assets/images/blog/2019-04-24-prairie-house/czahller-20170521-16-30-48.jpg)
-  ![West End, Detail — Prairie House, Norman, Oklahoma](/assets/images/blog/2019-04-24-prairie-house/czahller-20170521-16-33-11.jpg)
-  ![Detail — Prairie House, Norman, Oklahoma](/assets/images/blog/2019-04-24-prairie-house/czahller-20170521-16-38-59.jpg)
-  ![Carport — Prairie House, Norman, Oklahoma](/assets/images/blog/2019-04-24-prairie-house/czahller-20170521-16-41-24.jpg)
-  ![Northeast View — Prairie House, Norman, Oklahoma](/assets/images/blog/2019-04-24-prairie-house/czahller-20170521-16-43-39.jpg)
-  ![South View with Carport — Prairie House, Norman, Oklahoma](/assets/images/blog/2019-04-24-prairie-house/czahller-20170521-16-48-43.jpg)
-  ![Southwest View — Prairie House, Norman, Oklahoma](/assets/images/blog/2019-04-24-prairie-house/czahller-20170521-16-49-07.jpg)
-  ![Carport Detail — Prairie House, Norman, Oklahoma](/assets/images/blog/2019-04-24-prairie-house/czahller-20170521-16-51-00.jpg)
-  ![Carport Detail — Prairie House, Norman, Oklahoma](/assets/images/blog/2019-04-24-prairie-house/czahller-20170521-16-53-05.jpg)
-  ![Shingle Detail — Prairie House, Norman, Oklahoma](/assets/images/blog/2019-04-24-prairie-house/czahller-20170521-16-55-30.jpg)
+  {% image "./src/assets/images/blog/2019-04-24-prairie-house/jcrumley-20170521-16-06-06.jpg", "", "The author in front of Herb Greene’s “Prairie Chicken” House in Norman, Oklahoma.", "The author in front of Herb Greene’s “Prairie Chicken” House in Norman, Oklahoma. Photo © 2017 The Estate of Joseph W. Crumley. Used by permission." %}
+
+  {% image "./src/assets/images/blog/2019-04-24-prairie-house/czahller-20170521-16-16-59.jpg", "", "Standing water & reeds west of the building", "Standing Water & Reeds" %}
+
+  {% image "./src/assets/images/blog/2019-04-24-prairie-house/czahller-20170521-16-19-55.jpg", "", "Northwest View", "Northwest View" %}
+
+  {% image "./src/assets/images/blog/2019-04-24-prairie-house/czahller-20170521-16-22-56.jpg", "", "West View", "West View" %}
+
+  {% image "featured", "", "Southwest View", "Southwest View" %}
+
+  {% image "./src/assets/images/blog/2019-04-24-prairie-house/czahller-20170521-16-30-48.jpg", "", "West Window", "West Window" %}
+
+  {% image "./src/assets/images/blog/2019-04-24-prairie-house/czahller-20170521-16-33-11.jpg", "", "West End, Detail", "West End, Detail" %}
+
+  {% image "./src/assets/images/blog/2019-04-24-prairie-house/czahller-20170521-16-38-59.jpg", "", "Detail of shingle siding", "Detail" %}
+
+  {% image "./src/assets/images/blog/2019-04-24-prairie-house/czahller-20170521-16-41-24.jpg", "", "Carport resembling a great wing", "Carport" %}
+
+  {% image "./src/assets/images/blog/2019-04-24-prairie-house/czahller-20170521-16-43-39.jpg", "", "Northeast View", "Northeast View" %}
+
+  {% image "./src/assets/images/blog/2019-04-24-prairie-house/czahller-20170521-16-48-43.jpg", "", "South View with Carport", "South View with Carport" %}
+
+  {% image "./src/assets/images/blog/2019-04-24-prairie-house/czahller-20170521-16-49-07.jpg", "", "Southwest View", "Southwest View" %}
+
+  {% image "./src/assets/images/blog/2019-04-24-prairie-house/czahller-20170521-16-51-00.jpg", "", "Carport Detail", "Carport Detail" %}
+
+  {% image "./src/assets/images/blog/2019-04-24-prairie-house/czahller-20170521-16-53-05.jpg", "", "Carport Detail", "Carport Detail" %}
+
+  {% image "./src/assets/images/blog/2019-04-24-prairie-house/czahller-20170521-16-55-30.jpg", "", "Shingle Detail", "Shingle Detail" %}
 </mpb-dialog-gallery>
 
 ## Technical

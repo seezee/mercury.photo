@@ -27,7 +27,7 @@ excerpt: In 2019 Tulsa-based singer/songwriter Wink Burcham made his sixth strai
 
 <mpb-dialog-img>
 
-{% image "featured", "img-constrained", "Wink Burcham (I) — 22nd Annual Woody Guthrie Festival, 2019", "Wink Burcham (I)&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;22nd Annual Woody Guthrie Festival, 2019", "eager" %}</mpb-dialog-img>
+{% image "featured", "", "Black & white image of Wink Burcham sitting in a metal folding chair playing an acoustic guitar and singing into a microphone. His eyes are closed. He wears a plaid, short-sleeved shirt and a tweed newsboy cap.", "Wink Burcham (I)", "eager" %}</mpb-dialog-img>
 
 In <time datetime="2019-07-11T16:30-5:00">2019</time> Tulsa-based singer/songwriter <span class="h-card p-name">Wink Burcham</span> made his sixth straight Woodyfest appearance, performing a late-afternoon set on the Bound for Glory stage.
 
@@ -52,16 +52,27 @@ Burcham’s music blends rockabilly, Piedmont blues, country, and western swing.
 
 <mpb-dialog-gallery hint rel cols="8">
 
-  ![Wink Burcham (I) — 22nd Annual Woody Guthrie Festival, 2019](/assets/images/blog/2020-03-30-woodyfest-wink-burcham/czahller-20190711-16-37-24.jpg)
-  ![Wink Burcham (II) — 22nd Annual Woody Guthrie Festival, 2019](/assets/images/blog/2020-03-30-woodyfest-wink-burcham/czahller-20190711-16-41-05.jpg)
-  ![Wink Burcham (III) — 22nd Annual Woody Guthrie Festival, 2019](/assets/images/blog/2020-03-30-woodyfest-wink-burcham/czahller-20190711-16-41-09.jpg)
-  ![Wink Burcham (IV) — 22nd Annual Woody Guthrie Festival, 2019](/assets/images/blog/2020-03-30-woodyfest-wink-burcham/czahller-20190711-16-43-59.jpg)
-  ![Wink Burcham (V) — 22nd Annual Woody Guthrie Festival, 2019](/assets/images/blog/2020-03-30-woodyfest-wink-burcham/czahller-20190711-16-45-41.jpg)
-  ![Wink Burcham (VI) — 22nd Annual Woody Guthrie Festival, 2019](/assets/images/blog/2020-03-30-woodyfest-wink-burcham/czahller-20190711-16-45-55.jpg)
-  ![Wink Burcham (VII) — 22nd Annual Woody Guthrie Festival, 2019](/assets/images/blog/2020-03-30-woodyfest-wink-burcham/czahller-20190711-16-46-20.jpg)
-  ![Wink Burcham (VIII) — 22nd Annual Woody Guthrie Festival, 2019](/assets/images/blog/2020-03-30-woodyfest-wink-burcham/czahller-20190711-16-46-36.jpg)
-  ![Wink Burcham (View from Upstage Left) — 22nd Annual Woody Guthrie Festival, 2019](/assets/images/blog/2020-03-30-woodyfest-wink-burcham/czahller-20190711-16-47-32.jpg)
-  ![Wink Burcham (IX) — 22nd Annual Woody Guthrie Festival, 2019](/assets/images/blog/2020-03-30-woodyfest-wink-burcham/czahller-20190711-16-48-30.jpg)
-  ![Wink Burcham (X) — 22nd Annual Woody Guthrie Festival, 2019](/assets/images/blog/2020-03-30-woodyfest-wink-burcham/czahller-20190711-17-00-02.jpg)
-  ![Wink Burcham (XI) — 22nd Annual Woody Guthrie Festival, 2019](/assets/images/blog/2020-03-30-woodyfest-wink-burcham/czahller-20190711-17-05-39.jpg)
+  {% image "featured", "", "Black & white image of Wink Burcham sitting in a metal folding chair playing an acoustic guitar and singing into a microphone. His eyes are closed. He wears a plaid, short-sleeved shirt and a tweed newsboy cap.", "Wink Burcham (I)" %}
+
+  {% image "./src/assets/images/blog/2020-03-30-woodyfest-wink-burcham/czahller-20190711-16-41-05.jpg", "", "Wink Burcham", "Wink Burcham (II)" %}
+
+  {% image "./src/assets/images/blog/2020-03-30-woodyfest-wink-burcham/czahller-20190711-16-41-09.jpg", "", "Wink Burcham", "Wink Burcham (III)" %}
+
+  {% image "./src/assets/images/blog/2020-03-30-woodyfest-wink-burcham/czahller-20190711-16-43-59.jpg", "", "Wink Burcham", "Wink Burcham (IV)" %}
+
+  {% image "./src/assets/images/blog/2020-03-30-woodyfest-wink-burcham/czahller-20190711-16-45-41.jpg", "", "Wink Burcham", "Wink Burcham (V)" %}
+
+  {% image "./src/assets/images/blog/2020-03-30-woodyfest-wink-burcham/czahller-20190711-16-45-55.jpg", "", "Wink Burcham", "Wink Burcham (VI)" %}
+
+  {% image "./src/assets/images/blog/2020-03-30-woodyfest-wink-burcham/czahller-20190711-16-46-20.jpg", "", "Wink Burcham", "Wink Burcham (VII)" %}
+
+  {% image "./src/assets/images/blog/2020-03-30-woodyfest-wink-burcham/czahller-20190711-16-46-36.jpg", "", "Wink Burcham", "Wink Burcham (VIII)" %}
+
+  {% image "./src/assets/images/blog/2020-03-30-woodyfest-wink-burcham/czahller-20190711-16-47-32.jpg", "", "Wink Burcham, viewed from upstage left", "Wink Burcham (View from Upstage Left)" %}
+
+  {% image "./src/assets/images/blog/2020-03-30-woodyfest-wink-burcham/czahller-20190711-16-48-30.jpg", "", "Wink Burcham", "Wink Burcham (IX)" %}
+
+  {% image "./src/assets/images/blog/2020-03-30-woodyfest-wink-burcham/czahller-20190711-17-00-02.jpg", "", "Wink Burcham", "Wink Burcham (X)" %}
+
+  {% image "./src/assets/images/blog/2020-03-30-woodyfest-wink-burcham/czahller-20190711-17-05-39.jpg", "", "Wink Burcham", "Wink Burcham (XI)" %}
 </mpb-dialog-gallery>

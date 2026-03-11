@@ -19,7 +19,7 @@ excerpt: The Chloës talk about auditioning drummers, mind-control techniques, a
 
 <!-- markdownlint-enable MD025 --><mpb-dialog-img>
 
-{% image "featured", "img-constrained", "The Chloës on the OPOLIS stage. April stand center, legs wide apart, wearing dark glasses, a sequined dress, knee socks and canvas Converse shoes. She has just finished playing a power chord on her guitar and her mouth is open wide as she shouts and sings.", "The Chloës", "eager" %}</mpb-dialog-img>
+{% image "featured", "", "The Chloës on the OPOLIS stage. April stand center, legs wide apart, wearing dark glasses, a sequined dress, knee socks and canvas Converse shoes. She has just finished playing a power chord on her guitar and her mouth is open wide as she shouts and sings.", "The Chloës (II)", "eager" %}</mpb-dialog-img>
 
 In part two of our interview with the <span class="h-card p-org">Chloës</span>, the ladies talk about the joys and pitfalls of auditioning drummers, keyboardist <span class="h-card p-name">Lysandra Chapman</span>’s mind-control techniques, and the difficulty of breaking into the Dallas&NoBreak;&hairsp;&NoBreak;&ndash;&NoBreak;&hairsp;&NoBreak;Fort Worth music scene. Plus, Chapman reveals how she came to speak Icelandic.
 
@@ -33,7 +33,7 @@ So [auditions were] probably a six-week process; we started going on <span class
 
 <mpb-dialog-img>
 
-{% image "./src/assets/images/blog/2013-05-14-chloes-opolis/czahller-20130414-07-07-54.jpg", "img-constrained", "Lysandra Chapman. Only her head is visible above her keyboard.", "Lysandra (I)" %}</mpb-dialog-img>
+{% image "./src/assets/images/blog/2013-05-14-chloes-opolis/czahller-20130414-07-07-54.jpg", "", "Lysandra Chapman. Only her head is visible above her keyboard.", "Lysandra (I)", "large" %}</mpb-dialog-img>
 
 <span class="spkr">Chapman</span> I think she might have done pretty well in, like, a "rage" girl&ndash;punk band. She was probably nearing fifty? And it sucked, because that’s not what we ascribe to. We don’t want to, in any way, discourage *any* woman, but you have to look at what we’re trying to put across, and there is some sort of image we were trying for. And that was very hard on us; [we want to promote] *all* women doing rock. […] It was good, but it just didn’t feel right. […] We *did* keep her on the shortlist.
 
@@ -55,7 +55,7 @@ However, I have to say this; this is really funny: [the handler] was *so* nice. 
 
 <mpb-dialog-img>
 
-{% image "./src/assets/images/blog/2013-05-14-chloes-opolis/czahller-20130414-07-15-04.jpg", "img-constrained", "April Wenzel. She wears a sequined dress. Her arms are raised on either side; palm facing not quite forward, fingers extended.", "April (II)" %}</mpb-dialog-img>
+{% image "./src/assets/images/blog/2013-05-14-chloes-opolis/czahller-20130414-07-15-04.jpg", "", "April Wenzel. She wears a sequined dress. Her arms are raised on either side; palm facing not quite forward, fingers extended.", "April (II)", "large" %}</mpb-dialog-img>
 
 […] That was probably our low point; we didn’t know *what* we were gonna do. […] And this guy at our rehearsal space said, <q>You gotta check out this girl, Leila. She had a band in high school, and she’s been playing with some guys. […] She’s on this tour of Europe, backpacking.</q> And I’m like, <q>Oh-my-god! Is she gonna be like this, total granola girl? Is she gonna be&NoBreak;&hairsp;&NoBreak;&mdash;</q> […] And she walks in, and she’s this blond bombshell. And [she] has her own gear. And sets up. And like, <q>That’s it!</q> Every song we had, I’m like, <q>This girl gets it.</q> I mean, it was right on, man! We didn’t even rehearse; she had it! [We were so confident that she was the right choice, that] when she was trying to load up [after the audition], we said, <q>Just leave your gear!</q>
 
@@ -73,7 +73,7 @@ However, I have to say this; this is really funny: [the handler] was *so* nice. 
 
 <mpb-dialog-img>
 
-{% image "./src/assets/images/blog/2013-05-14-chloes-opolis/czahller-20130414-07-44-49.jpg", "img-constrained", "Leila Wright smiles as she plays the drums. She wears an aquamarine dress with a wide, sequined belt.", "Leila (III)" %}</mpb-dialog-img>
+{% image "./src/assets/images/blog/2013-05-14-chloes-opolis/czahller-20130414-07-44-49.jpg", "", "Leila Wright smiles as she plays the drums. She wears an aquamarine dress with a wide, sequined belt.", "Leila (III)", "large" %}</mpb-dialog-img>
 
 <span class="spkr">Wright</span> It was confusing. [Promoters and MCs] would say <q>Chasing Chloë,</q> <q>Counting Chloë,</q> …
 
@@ -121,7 +121,7 @@ However, I have to say this; this is really funny: [the handler] was *so* nice. 
 
 <mpb-dialog-img>
 
-{% image "./src/assets/images/blog/2013-05-14-chloes-opolis/czahller-20130414-07-21-04.jpg", "img-constrained", "Brandie Dawson grimaces as she plays the bass. She wears a black lace dress.", "Brandie (I)" %}</mpb-dialog-img>
+{% image "./src/assets/images/blog/2013-05-14-chloes-opolis/czahller-20130414-07-21-04.jpg", "", "Brandie Dawson grimaces as she plays the bass. She wears a black lace dress.", "Brandie (I)", "large" %}</mpb-dialog-img>
 
 <span class="spkr">Chapman</span> I *love that*, and I think, lately, I don’t know if I’ve told you guys, but I’ve had *two* people say this to me recently, that Chloës is so much like that movie, <cite>Heathers</cite>. Like that’s such a token, like, ’90s name? Of like the, uh, white, bitchy, *girl*; you know, but there’s a power in that? And look, let’s be honest, I mean, we can’t pretend to not be white girls. I mean, we are who we are; we’re these caucasian women who are in a band together. And two people have said the same thing to me, that it denotes this kind of *cool* name that *had* some power.[^2] Someone who’s kind of a bit bitchy, but [also] a little bit powerful and cool, and was like, <q>I kinda like that.</q> […]
 
@@ -169,7 +169,7 @@ However, I have to say this; this is really funny: [the handler] was *so* nice. 
 
 <mpb-dialog-img>
 
-{% image "./src/assets/images/blog/2013-05-14-chloes-opolis/czahller-20130414-07-43-57.jpg", "img-constrained", "Tiffany Byrd leans over as she bends her guitar strings. She is smiling. She wears a black sleeveless jersey-knit top with an abstract cross design across the chest.", "Tiffany (III)" %}</mpb-dialog-img>
+{% image "./src/assets/images/blog/2013-05-14-chloes-opolis/czahller-20130414-07-43-57.jpg", "", "Tiffany Byrd leans over as she bends her guitar strings. She is smiling. She wears a black sleeveless jersey-knit top with an abstract cross design across the chest.", "Tiffany (III)", "large" %}</mpb-dialog-img>
 
 <span class="spkr">Tiffany Byrd</span> You know, dude, <cite class="short-work">[Nothing Lasts](https://music.apple.com/us/album/nothing-lasts/1289963239?i=1289963254&uo=4&at=10ldhk){target=_blank rel="external noopener"}</cite> is one of my favorite songs. I think it’s because I like the way it builds; like, it starts out slow, and then it just gets heavier and *heavier*, and by the end, April’s like, screaming hardcore&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;I dunno, it just sounds good; it’s fun to play. As far as overall songs just to listen to, I would say <cite class="short-work">[Run Run Run](https://music.apple.com/us/album/run-run-run/1289963239?i=1289963245&uo=4&at=10ldhk){target=_blank rel="external noopener"}</cite>, because of the words, the meaning behind it all&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;[*a train goes past sounding its horn*&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;<abbr>Ed.</abbr>]&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;the one time I talk, the *train* comes? [*laughter*]
 
@@ -194,31 +194,57 @@ In mid-April, the Chloës donated their time and talent to a fundraiser for <spa
 
 <mpb-dialog-gallery hint rel cols="8">
 
-  ![Setup & Sound Check](/assets/images/blog/2013-05-14-chloes-opolis/czahller-20130414-07-04-43.jpg)
-  ![The Chloës (I)](/assets/images/blog/2013-05-14-chloes-opolis/czahller-20130414-07-06-23.jpg)
-  ![The Chloës (II)](/assets/images/blog/2013-05-14-chloes-opolis/czahller-20130414-07-06-27.jpg)
-  ![The Chloës (III)](/assets/images/blog/2013-05-14-chloes-opolis/czahller-20130414-07-06-41.jpg)
-  ![Lysandra (I)](/assets/images/blog/2013-05-14-chloes-opolis/czahller-20130414-07-06-56.jpg)
-  ![Lysandra (I)](/assets/images/blog/2013-05-14-chloes-opolis/czahller-20130414-07-07-54.jpg)
-  ![Leila (I)](/assets/images/blog/2013-05-14-chloes-opolis/czahller-20130414-07-09-15.jpg)
-  ![April (I)](/assets/images/blog/2013-05-14-chloes-opolis/czahller-20130414-07-09-54.jpg)
-  ![April (II)](/assets/images/blog/2013-05-14-chloes-opolis/czahller-20130414-07-15-04.jpg)
-  ![Brandie (I)](/assets/images/blog/2013-05-14-chloes-opolis/czahller-20130414-07-21-04.jpg)
-  ![Lysandra (II)](/assets/images/blog/2013-05-14-chloes-opolis/czahller-20130414-07-21-47.jpg)
-  ![Brandie (II)](/assets/images/blog/2013-05-14-chloes-opolis/czahller-20130414-07-22-19.jpg)
-  ![Tiffany (I)](/assets/images/blog/2013-05-14-chloes-opolis/czahller-20130414-07-22-53.jpg)
-  ![Leila (II)](/assets/images/blog/2013-05-14-chloes-opolis/czahller-20130414-07-24-45.jpg)
-  ![April (III)](/assets/images/blog/2013-05-14-chloes-opolis/czahller-20130414-07-24-53.jpg)
-  ![April (IV)](/assets/images/blog/2013-05-14-chloes-opolis/czahller-20130414-07-26-39.jpg)
-  ![Lysandra (III)](/assets/images/blog/2013-05-14-chloes-opolis/czahller-20130414-07-27-40.jpg)
-  ![Chris](/assets/images/blog/2013-05-14-chloes-opolis/czahller-20130414-07-33-37.jpg)
-  ![The Chloës with Special Guest Chris Sanders](/assets/images/blog/2013-05-14-chloes-opolis/czahller-20130414-07-35-04.jpg)
-  ![Lysandra & Leila Duet](/assets/images/blog/2013-05-14-chloes-opolis/czahller-20130414-07-36-10.jpg)
-  ![April (V)](/assets/images/blog/2013-05-14-chloes-opolis/czahller-20130414-07-36-58.jpg)
-  ![April (VI)](/assets/images/blog/2013-05-14-chloes-opolis/czahller-20130414-07-40-00.jpg)
-  ![Tiffany (II)](/assets/images/blog/2013-05-14-chloes-opolis/czahller-20130414-07-43-53.jpg)
-  ![Tiffany (III)](/assets/images/blog/2013-05-14-chloes-opolis/czahller-20130414-07-43-57.jpg)
-  ![Tiffany (IV)](/assets/images/blog/2013-05-14-chloes-opolis/czahller-20130414-07-44-14.jpg)
-  ![Tiffany’s Boots (Country Girl)](/assets/images/blog/2013-05-14-chloes-opolis/czahller-20130414-07-44-27.jpg)
-  ![Leila (III)](/assets/images/blog/2013-05-14-chloes-opolis/czahller-20130414-07-44-49.jpg)
+  {% image "./src/assets/images/blog/2013-05-14-chloes-opolis/czahller-20130414-07-04-43.jpg", "", "Setup & Sound Check", "Setup & Sound Check" %}
+
+  {% image "./src/assets/images/blog/2013-05-14-chloes-opolis/czahller-20130414-07-06-23.jpg", "", "The Chloës", "The Chloës (I)" %}
+
+  {% image "featured", "", "The Chloës on the OPOLIS stage. April stand center, legs wide apart, wearing dark glasses, a sequined dress, knee socks and canvas Converse shoes. She has just finished playing a power chord on her guitar and her mouth is open wide as she shouts and sings.", "The Chloës (II)" %}
+
+  {% image "./src/assets/images/blog/2013-05-14-chloes-opolis/czahller-20130414-07-06-41.jpg", "", "The Chloës", "The Chloës (III)" %}
+
+  {% image "./src/assets/images/blog/2013-05-14-chloes-opolis/czahller-20130414-07-06-56.jpg", "", "Lysandra", "Lysandra (I)" %}
+
+  {% image "./src/assets/images/blog/2013-05-14-chloes-opolis/czahller-20130414-07-07-54.jpg", "", "Lysandra", "Lysandra (I)" %}
+
+  {% image "./src/assets/images/blog/2013-05-14-chloes-opolis/czahller-20130414-07-09-15.jpg", "", "Leila", "Leila (I)" %}
+
+  {% image "./src/assets/images/blog/2013-05-14-chloes-opolis/czahller-20130414-07-09-54.jpg", "", "April", "April (I)" %}
+
+  {% image "./src/assets/images/blog/2013-05-14-chloes-opolis/czahller-20130414-07-15-04.jpg", "", "April", "April (II)" %}
+
+  {% image "./src/assets/images/blog/2013-05-14-chloes-opolis/czahller-20130414-07-21-04.jpg", "", "Brandie", "Brandie (I)" %}
+
+  {% image "./src/assets/images/blog/2013-05-14-chloes-opolis/czahller-20130414-07-21-47.jpg", "", "Lysandra", "Lysandra (II)" %}
+
+  {% image "./src/assets/images/blog/2013-05-14-chloes-opolis/czahller-20130414-07-22-19.jpg", "", "Brandie", "Brandie (II)" %}
+
+  {% image "./src/assets/images/blog/2013-05-14-chloes-opolis/czahller-20130414-07-22-53.jpg", "", "Tiffany (I)", "Tiffany (I)" %}
+
+  {% image "./src/assets/images/blog/2013-05-14-chloes-opolis/czahller-20130414-07-24-45.jpg", "", "Leila", "Leila (II)" %}
+
+  {% image "./src/assets/images/blog/2013-05-14-chloes-opolis/czahller-20130414-07-24-53.jpg", "", "April", "April (III)" %}
+
+  {% image "./src/assets/images/blog/2013-05-14-chloes-opolis/czahller-20130414-07-26-39.jpg", "", "April", "April (IV)" %}
+
+  {% image "./src/assets/images/blog/2013-05-14-chloes-opolis/czahller-20130414-07-27-40.jpg", "", "Lysandra", "Lysandra (III)" %}
+
+  {% image "./src/assets/images/blog/2013-05-14-chloes-opolis/czahller-20130414-07-33-37.jpg", "", "Chris Sanders takes over the drums", "Chris" %}
+
+  {% image "./src/assets/images/blog/2013-05-14-chloes-opolis/czahller-20130414-07-35-04.jpg", "", "The Chloës with Special Guest Chris Sanders", "The Chloës with Special Guest Chris Sanders" %}
+
+  {% image "./src/assets/images/blog/2013-05-14-chloes-opolis/czahller-20130414-07-36-10.jpg", "", "Lysandra & Leila Duet", "Lysandra & Leila Duet" %}
+
+  {% image "./src/assets/images/blog/2013-05-14-chloes-opolis/czahller-20130414-07-36-58.jpg", "", "April", "April (V)" %}
+
+  {% image "./src/assets/images/blog/2013-05-14-chloes-opolis/czahller-20130414-07-40-00.jpg", "", "April", "April (VI)" %}
+
+  {% image "./src/assets/images/blog/2013-05-14-chloes-opolis/czahller-20130414-07-43-53.jpg", "", "Tiffany (II)", "Tiffany (II)" %}
+
+  {% image "./src/assets/images/blog/2013-05-14-chloes-opolis/czahller-20130414-07-43-57.jpg", "", "Tiffany", "Tiffany (III)" %}
+
+  {% image "./src/assets/images/blog/2013-05-14-chloes-opolis/czahller-20130414-07-44-14.jpg", "", "Tiffany", "Tiffany (IV)" %}
+
+  {% image "./src/assets/images/blog/2013-05-14-chloes-opolis/czahller-20130414-07-44-27.jpg", "", "Tiffany’s western boots", "Tiffany’s Boots (Country Girl)" %}
+
+  {% image "./src/assets/images/blog/2013-05-14-chloes-opolis/czahller-20130414-07-44-49.jpg", "", "Leila", "Leila (III)" %}
 </mpb-dialog-gallery>

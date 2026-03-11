@@ -23,7 +23,7 @@ excerpt: For the second straight year, Woodyfest hosted a children’s harmonica
 
 <!-- markdownlint-enable MD025 --><mpb-dialog-img>
 
-{% image "featured", "img-constrained", "Two children, brother & sister, in the audience", "Siblings&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;22nd Annual Woody Guthrie Festival, 2019", "eager" %}</mpb-dialog-img>
+{% image "featured", "", "Two children, brother & sister, in the audience", "Siblings", "eager" %}</mpb-dialog-img>
 
 For the [second straight year](/blog/woodyfest-2018-kids-harmonica-class/), Woodyfest hosted an expanded children’s outreach, featuring several youth concerts and workshops. These included a children’s harmonica class taught by festival regulars <span class="h-card p-name">Joe Baxter</span> and <span class="h-card p-name">John Williams</span>.&NoBreak;[^1]
 
@@ -36,19 +36,33 @@ The pair were assisted by East Texas singer-songwriter and multi-instrumentalist
 
 <mpb-dialog-gallery hint rel cols="8">
   
-  ![Kids’ Harmonica Class with Joe Baxter & John Williams — 22nd Annual Woody Guthrie Festival, 2019](/assets/images/blog/2020-04-09-woodyfest-kids-harmonica/czahller-20190712-13-33-22.jpg)
-  ![Steve Fisher Assists — 22nd Annual Woody Guthrie Festival, 2019](/assets/images/blog/2020-04-09-woodyfest-kids-harmonica/czahller-20190712-13-33-44.jpg)
-  ![Joe Baxter Pointing at the “G” — 22nd Annual Woody Guthrie Festival, 2019](/assets/images/blog/2020-04-09-woodyfest-kids-harmonica/czahller-20190712-13-34-24.jpg)
-  ![Steve Fisher — 22nd Annual Woody Guthrie Festival, 2019](/assets/images/blog/2020-04-09-woodyfest-kids-harmonica/czahller-20190712-13-34-36.jpg)
-  ![John Williams — 22nd Annual Woody Guthrie Festival, 2019](/assets/images/blog/2020-04-09-woodyfest-kids-harmonica/czahller-20190712-13-36-01.jpg)
-  ![Joe & John — 22nd Annual Woody Guthrie Festival, 2019](/assets/images/blog/2020-04-09-woodyfest-kids-harmonica/czahller-20190712-13-36-11.jpg)
-  ![Students (I) — 22nd Annual Woody Guthrie Festival, 2019](/assets/images/blog/2020-04-09-woodyfest-kids-harmonica/czahller-20190712-13-38-04.jpg)
-  ![Students (II) — 22nd Annual Woody Guthrie Festival, 2019](/assets/images/blog/2020-04-09-woodyfest-kids-harmonica/czahller-20190712-13-38-21.jpg)
-  ![Sisters — 22nd Annual Woody Guthrie Festival, 2019](/assets/images/blog/2020-04-09-woodyfest-kids-harmonica/czahller-20190712-13-39-00.jpg)
-  ![Young Man — 22nd Annual Woody Guthrie Festival, 2019](/assets/images/blog/2020-04-09-woodyfest-kids-harmonica/czahller-20190712-13-39-09.jpg)
-  ![Siblings — 22nd Annual Woody Guthrie Festival, 2019](/assets/images/blog/2020-04-09-woodyfest-kids-harmonica/czahller-20190712-13-39-38.jpg)
-  ![Father & Son — 22nd Annual Woody Guthrie Festival, 2019](/assets/images/blog/2020-04-09-woodyfest-kids-harmonica/czahller-20190712-13-40-33.jpg)
-  ![John Shows the Correct Grip (I) — 22nd Annual Woody Guthrie Festival, 2019](/assets/images/blog/2020-04-09-woodyfest-kids-harmonica/czahller-20190712-13-41-17.jpg)
-  ![John Shows the Correct Grip (II) — 22nd Annual Woody Guthrie Festival, 2019](/assets/images/blog/2020-04-09-woodyfest-kids-harmonica/czahller-20190712-13-41-27.jpg)
-  ![John Shows the Correct Grip (III) — 22nd Annual Woody Guthrie Festival, 2019](/assets/images/blog/2020-04-09-woodyfest-kids-harmonica/czahller-20190712-13-41-32.jpg)
+  {% image "./src/assets/images/blog/2020-04-09-woodyfest-kids-harmonica/czahller-20190712-13-33-22.jpg", "", "Joe Baxter & John Williams at the start of the class. John holds up a music diagram.", "Kids’ Harmonica Class with Joe Baxter & John Williams" %}
+
+  {% image "./src/assets/images/blog/2020-04-09-woodyfest-kids-harmonica/czahller-20190712-13-33-44.jpg", "", "Steve Fisher holds up a music diagram. The diagram shows the chords for the Oscar Mayer weiner song. It is hand written on yellow card stock.", "Steve Fisher Assists" %}
+
+  {% image "./src/assets/images/blog/2020-04-09-woodyfest-kids-harmonica/czahller-20190712-13-34-24.jpg", "", "Joe Baxter pointing at a “G” on a music diagram written out on yellow card stock", "Joe Baxter Pointing at the “G”" %}
+
+  {% image "./src/assets/images/blog/2020-04-09-woodyfest-kids-harmonica/czahller-20190712-13-34-36.jpg", "", "Steve Fisher", "Steve Fisher" %}
+
+  {% image "./src/assets/images/blog/2020-04-09-woodyfest-kids-harmonica/czahller-20190712-13-36-01.jpg", "", "John Williams", "John Williams" %}
+
+  {% image "./src/assets/images/blog/2020-04-09-woodyfest-kids-harmonica/czahller-20190712-13-36-11.jpg", "", "Joe Baxter & John Williams", "Joe & John" %}
+
+  {% image "./src/assets/images/blog/2020-04-09-woodyfest-kids-harmonica/czahller-20190712-13-38-04.jpg", "", "Families in church pews. The kids all have harmonicas.", "Students (I)" %}
+
+  {% image "./src/assets/images/blog/2020-04-09-woodyfest-kids-harmonica/czahller-20190712-13-38-21.jpg", "", "Families in church pews. The kids all have harmonicas.", "Students (II)" %}
+
+  {% image "./src/assets/images/blog/2020-04-09-woodyfest-kids-harmonica/czahller-20190712-13-39-00.jpg", "", "Young sisters in audience", "Sisters" %}
+
+  {% image "./src/assets/images/blog/2020-04-09-woodyfest-kids-harmonica/czahller-20190712-13-39-09.jpg", "", "Tween boy in audience holding harmonica to mouth", "Young Man" %}
+
+  {% image "featured", "", "Two children, brother & sister, in the audience", "Siblings" %}
+
+  {% image "./src/assets/images/blog/2020-04-09-woodyfest-kids-harmonica/czahller-20190712-13-40-33.jpg", "", "Father & son in audience", "Father & Son" %}
+
+  {% image "./src/assets/images/blog/2020-04-09-woodyfest-kids-harmonica/czahller-20190712-13-41-17.jpg", "", "John Williams demonstrates the correct harmonica grip", "John Shows the Correct Grip (I)" %}
+
+  {% image "./src/assets/images/blog/2020-04-09-woodyfest-kids-harmonica/czahller-20190712-13-41-27.jpg", "", "John Williams demonstrates the correct harmonica grip", "John Shows the Correct Grip (II)" %}
+
+  {% image "./src/assets/images/blog/2020-04-09-woodyfest-kids-harmonica/czahller-20190712-13-41-32.jpg", "", "John Williams demonstrates the correct harmonica grip", "John Shows the Correct Grip (III)" %}
 </mpb-dialog-gallery>

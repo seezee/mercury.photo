@@ -28,7 +28,7 @@ excerpt: Your humble author first met musician Kalyn Fay in early 2016 when jour
 <p>Expat-Tulsa singer returns to Woodyfest</p></stack-l></hgroup>
 <!-- markdownlint-enable MD025 --><mpb-dialog-img>
 
-{% image "featured", "img-constrained", "Kalyn (II) (detail) — 21st Annual Woody Guthrie Festival, 2018", "Kalyn (II) (detail)&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;21st Annual Woody Guthrie Festival, 2018", "eager" %}</mpb-dialog-img>
+{% image "featured", "", "Cropped closeup of Kalyn Fay", "Kalyn (II) (detail)", "eager" %}</mpb-dialog-img>
 
 ## Tsa-La-Gi Songstress
 
@@ -70,16 +70,27 @@ Fay finally did make the move from Oklahoma&NoBreak;&hairsp;&NoBreak;&mdash;&NoB
 
 <mpb-dialog-gallery hint rel cols="8">
   
-  ![Kalyn Fay — 21st Annual Woody Guthrie Festival, 2018](/assets/images/blog/2018-12-17-woodyfest-kalyn-fay/czahller-20180713-17-06-22.jpg)
-  ![Kalyn Fay & Stephen Lee — 21st Annual Woody Guthrie Festival, 2018](/assets/images/blog/2018-12-17-woodyfest-kalyn-fay/czahller-20180713-17-08-11.jpg)
-  ![Kalyn (I) — 21st Annual Woody Guthrie Festival, 2018](/assets/images/blog/2018-12-17-woodyfest-kalyn-fay/czahller-20180713-17-09-18.jpg)
-  ![Kalyn (II) — 21st Annual Woody Guthrie Festival, 2018](/assets/images/blog/2018-12-17-woodyfest-kalyn-fay/czahller-20180713-17-09-37.jpg)
-  ![Kalyn & Stephen — 21st Annual Woody Guthrie Festival, 2018](/assets/images/blog/2018-12-17-woodyfest-kalyn-fay/czahller-20180713-17-10-39.jpg)
-  ![Kalyn & Stephen (I) — 21st Annual Woody Guthrie Festival, 2018](/assets/images/blog/2018-12-17-woodyfest-kalyn-fay/czahller-20180713-17-10-42.jpg)
-  ![Kalyn & Stephen (II) — 21st Annual Woody Guthrie Festival, 2018](/assets/images/blog/2018-12-17-woodyfest-kalyn-fay/czahller-20180713-17-24-35.jpg)
-  ![Kalyn (III) — 21st Annual Woody Guthrie Festival, 2018](/assets/images/blog/2018-12-17-woodyfest-kalyn-fay/czahller-20180713-17-35-53.jpg)
-  ![Jacob Tovar, Kalyn Fay, & Stephen Lee — 21st Annual Woody Guthrie Festival, 2018](/assets/images/blog/2018-12-17-woodyfest-kalyn-fay/czahller-20180713-17-36-27.jpg)
-  ![Jacob Tovar & Kalyn Fay — 21st Annual Woody Guthrie Festival, 2018](/assets/images/blog/2018-12-17-woodyfest-kalyn-fay/czahller-20180713-17-38-42.jpg)
-  ![Jacob, Kalyn, & Stephen — 21st Annual Woody Guthrie Festival, 2018](/assets/images/blog/2018-12-17-woodyfest-kalyn-fay/czahller-20180713-17-39-10.jpg)
-  ![Jacob, Kalyn, & Stephen (I) — 21st Annual Woody Guthrie Festival, 2018](/assets/images/blog/2018-12-17-woodyfest-kalyn-fay/czahller-20180713-17-41-45.jpg)
+  {% image "./src/assets/images/blog/2018-12-17-woodyfest-kalyn-fay/czahller-20180713-17-06-22.jpg", "", "Kalyn Fay", "Kalyn Fay" %}
+
+  {% image "./src/assets/images/blog/2018-12-17-woodyfest-kalyn-fay/czahller-20180713-17-08-11.jpg", "", "Kalyn Fay & Stephen Lee", "Kalyn Fay & Stephen Lee" %}
+
+  {% image "./src/assets/images/blog/2018-12-17-woodyfest-kalyn-fay/czahller-20180713-17-09-18.jpg", "", "Kalyn Fay", "Kalyn (I)" %}
+
+  {% image "./src/assets/images/blog/2018-12-17-woodyfest-kalyn-fay/czahller-20180713-17-09-37.jpg", "", "Kalyn Fay", "Kalyn (II)" %}
+
+  {% image "./src/assets/images/blog/2018-12-17-woodyfest-kalyn-fay/czahller-20180713-17-10-39.jpg", "", "Kalyn Fay & Stephen Lee", "Kalyn & Stephen" %}
+
+  {% image "./src/assets/images/blog/2018-12-17-woodyfest-kalyn-fay/czahller-20180713-17-10-42.jpg", "", "Kalyn Fay & Stephen Lee", "Kalyn & Stephen (I)" %}
+
+  {% image "./src/assets/images/blog/2018-12-17-woodyfest-kalyn-fay/czahller-20180713-17-24-35.jpg", "", "Kalyn Fay & Stephen Lee", "Kalyn & Stephen (II)" %}
+
+  {% image "./src/assets/images/blog/2018-12-17-woodyfest-kalyn-fay/czahller-20180713-17-35-53.jpg", "", "Kalyn Fay", "Kalyn (III)" %}
+
+  {% image "./src/assets/images/blog/2018-12-17-woodyfest-kalyn-fay/czahller-20180713-17-36-27.jpg", "", "Jacob Tovar, Kalyn Fay, & Stephen Lee", "Jacob Tovar, Kalyn Fay, & Stephen Lee" %}
+
+  {% image "./src/assets/images/blog/2018-12-17-woodyfest-kalyn-fay/czahller-20180713-17-38-42.jpg", "", "Jacob Tovar & Kalyn Fay", "Jacob Tovar & Kalyn Fay" %}
+
+  {% image "./src/assets/images/blog/2018-12-17-woodyfest-kalyn-fay/czahller-20180713-17-39-10.jpg", "", "Jacob Tovar, Kaylyn Fay, & Stephen Lee", "Jacob, Kalyn, & Stephen" %}
+
+  {% image "./src/assets/images/blog/2018-12-17-woodyfest-kalyn-fay/czahller-20180713-17-41-45.jpg", "", "Jacob Tovar, Kaylyn Fay, & Stephen Lee", "acob, Kalyn, & Stephen (I)" %}
 </mpb-dialog-gallery>

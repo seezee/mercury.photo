@@ -19,13 +19,13 @@ excerpt: Then Joe took a trip to Roswell. As I mentioned in Part 1, Joe rides mo
 
 <!-- markdownlint-enable MD025 --><mpb-dialog-img>
 
-{% image "featured", "img-constrained", "Actor Denise Crosby with her arm around Joe Crumley’s shoulder. Joe is half-a-head shorter than Crosby. He wears glasses and has fine white hair and sharp features.", "Joe with Denise Crosby (he has no idea who she is)", "eager" %}</mpb-dialog-img>
+{% image "featured", "", "Actor Denise Crosby with her arm around Joe Crumley’s shoulder. Joe is half-a-head shorter than Crosby. He wears glasses and has fine white hair and sharp features.", "Joe with Denise Crosby (he has no idea who she is)", "eager" %}</mpb-dialog-img>
 
 Then <span class="h-card p-name p-given-name">Joe</span> took a trip to Roswell. As I mentioned in [Part 1](/blog/circle-confusion-pt-1/){rel=prev}, Joe rides motorcycles: BMWs, Kawasakis, and more recently a Harley. He’s also interested in UFOs and the Roswell Incident. I think he’s more interested in the characters who are drawn to them than to the alleged aliens and spacecraft themselves, but his interest is enough that he’s made several trips out there by motorbike, always during the annual UFO convention.
 
 <mpb-dialog-img>
 
-{% image "./src/assets/images/blog/2012-08-18-circle-confusion-2/czahller-20120629-14-16-39.jpg", "img-constrained", "Two young women wearing handmade aluminum foil hats with decorative plastic wands sticking out of them.", "Tin Hat Cuties, Roswell, New Mexico" %}</mpb-dialog-img>
+{% image "./src/assets/images/blog/2012-08-18-circle-confusion-2/czahller-20120629-14-16-39.jpg", "", "Two young women wearing handmade aluminum foil hats with decorative plastic wands sticking out of them.", "Tin Hat Cuties, Roswell, New Mexico", "large" %}</mpb-dialog-img>
 
 On his last trip to Roswell, Joe met [<span class="h-card p-name">Erik van ’t Woud</span>](http://photosteron.com){target=_blank rel="external noopener"}. Erik, a photojournalist from the Netherlands, was shooting with a Leica M camera&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;but it wasn’t a film camera; it was the latest and greatest digital Leica. When Joe returned home, he told me about this Dutchman and his crazy camera, and showed me the Roswell pictures that Erik had emailed to him. <q>Wow. These are terrific. This makes me want to make pictures,</q> I thought.[^1]
 

@@ -24,7 +24,7 @@ excerpt: "As part of Woodyfest’s continuing educational outreach, author Danie
 
 <!-- markdownlint-enable MD025 --><mpb-dialog-img>
 
-{% image "./src/assets/images/blog/2020-10-16-woodyfest-jared-tyler/czahller-20190712-16-40-07.jpg", "img-constrained", "Grown-Up Anger: The Connected Mysteries of Bob Dylan, Woody Guthrie, and the Calumet Massacre of 1913 — 22nd Annual Woody Guthrie Festival, 2019", "Grown-Up Anger: The Connected Mysteries of Bob Dylan, Woody Guthrie, and the Calumet Massacre of 1913&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;22nd Annual Woody Guthrie Festival, 2019", "eager" %}</mpb-dialog-img>
+{% image "featured", "", "The spine of a trade paperback copy of Grown-Up Anger: The Connected Mysteries of Bob Dylan, Woody Guthrie, and the Calumet Massacre of 1913", "Grown-Up Anger: The Connected Mysteries of Bob Dylan, Woody Guthrie, and the Calumet Massacre of 1913", "eager" %}</mpb-dialog-img>
 
 ## Calument, Guthrie, Dylan
 
@@ -42,10 +42,15 @@ Festival regular <span class="h-card p-name">Chris Buhalis</span> provided music
 
 <mpb-dialog-gallery hint rel cols="8">
 
-  ![Daniel Wolff & Chris Buhalis Present: Grown-Up Anger — 22nd Annual Woody Guthrie Festival, 2019](/assets/images/blog/2020-04-14-woodyfest-2019-daniel-wolff/czahller-20190712-15-17-33.jpg)
-  ![Author Daniel Wolff — 22nd Annual Woody Guthrie Festival, 2019 ](/assets/images/blog/2020-04-14-woodyfest-2019-daniel-wolff/czahller-20190712-15-18-00.jpg)
-  ![Audience — 22nd Annual Woody Guthrie Festival, 2019 ](/assets/images/blog/2020-04-14-woodyfest-2019-daniel-wolff/czahller-20190712-15-18-08.jpg)
-  ![Grown-Up Anger: The Connected Mysteries of Bob Dylan, Woody Guthrie, and the Calumet Massacre of 1913 — 22nd Annual Woody Guthrie Festival, 2019 ](/assets/images/blog/2020-04-14-woodyfest-2019-daniel-wolff/czahller-20190712-15-21-00.jpg)
-  ![Lecture Notes — 22nd Annual Woody Guthrie Festival, 2019 ](/assets/images/blog/2020-04-14-woodyfest-2019-daniel-wolff/czahller-20190712-15-21-18.jpg)
-  ![Chris Buhalis — 22nd Annual Woody Guthrie Festival, 2019 ](/assets/images/blog/2020-04-14-woodyfest-2019-daniel-wolff/czahller-20190712-15-21-33.jpg)
+  {% image "./src/assets/images/blog/2020-04-14-woodyfest-2019-daniel-wolff/czahller-20190712-15-17-33.jpg", "", "Daniel Wolff & Chris Buhalis", "Daniel Wolff & Chris Buhalis Present: Grown-Up Anger" %}
+
+  {% image "./src/assets/images/blog/2020-04-14-woodyfest-2019-daniel-wolff/czahller-20190712-15-18-00.jpg", "", "Author Daniel Wolff", "Author Daniel Wolff" %}
+
+  {% image "./src/assets/images/blog/2020-04-14-woodyfest-2019-daniel-wolff/czahller-20190712-15-18-08.jpg", "", "Audience ", "Audience " %}
+
+  {% image "featured", "", "The spine of a trade paperback copy of Grown-Up Anger: The Connected Mysteries of Bob Dylan, Woody Guthrie, and the Calumet Massacre of 1913", "Grown-Up Anger: The Connected Mysteries of Bob Dylan, Woody Guthrie, and the Calumet Massacre of 1913" %}
+
+  {% image "./src/assets/images/blog/2020-04-14-woodyfest-2019-daniel-wolff/czahller-20190712-15-21-18.jpg", "", "Lecture notes", "Lecture Notes" %}
+
+  {% image "./src/assets/images/blog/2020-04-14-woodyfest-2019-daniel-wolff/czahller-20190712-15-21-33.jpg", "", "Chris Buhalis", "Chris Buhalis" %}
 </mpb-dialog-gallery>

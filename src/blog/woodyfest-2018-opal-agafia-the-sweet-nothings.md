@@ -27,7 +27,7 @@ excerpt: The biggest musical influence in Opal Agafia’s life is her mom. Agafi
 
 <!-- markdownlint-enable MD025 --><mpb-dialog-img>
 
-{% image "featured", "img-constrained", "Michael Schembre, Justin Easter, Opal Agafia, David Lucas Gesualdo, & Ron Landis — 21st Annual Woody Guthrie Festival, 2018", "Michael Schembre, Justin Easter, Opal Agafia, David Lucas Gesualdo, & Ron Landis&NoBreak;&hairsp;&NoBreak;&mdash;&NoBreak;&hairsp;&NoBreak;21st Annual Woody Guthrie Festival, 2018", "eager" %}</mpb-dialog-img>
+{% image "featured", "", "Michael Schembre, Justin Easter, Opal Agafia, David Lucas Gesualdo, & Ron Landis", "Michael Schembre, Justin Easter, Opal Agafia, David Lucas Gesualdo, & Ron Landis", "eager" %}</mpb-dialog-img>
 
 ## Ozark Mountain Soul
 
@@ -62,20 +62,35 @@ For her Woodyfest début, Agafia was accompanied by her band, <span class="h-car
 
 <mpb-dialog-gallery hint rel cols="8">
 
-  ![Michael Schembre, Justin Easter, Opal Agafia, David Lucas Gesualdo, & Ron Landis — 21st Annual Woody Guthrie Festival, 2018](/assets/images/blog/2019-02-04-woodyfest-opal-agafia/czahller-20180714-20-56-05.jpg)
-  ![Opal Agafia — 21st Annual Woody Guthrie Festival, 2018](/assets/images/blog/2019-02-04-woodyfest-opal-agafia/czahller-20180714-20-58-27.jpg)
-  ![Michael Schembre — 21st Annual Woody Guthrie Festival, 2018](/assets/images/blog/2019-02-04-woodyfest-opal-agafia/czahller-20180714-20-58-57.jpg)
-  ![Opal (I) — 21st Annual Woody Guthrie Festival, 2018](/assets/images/blog/2019-02-04-woodyfest-opal-agafia/czahller-20180714-20-59-08.jpg)
-  ![Opal (II) — 21st Annual Woody Guthrie Festival, 2018](/assets/images/blog/2019-02-04-woodyfest-opal-agafia/czahller-20180714-20-59-12.jpg)
-  ![Ron Landis — 21st Annual Woody Guthrie Festival, 2018](/assets/images/blog/2019-02-04-woodyfest-opal-agafia/czahller-20180714-21-00-01.jpg)
-  ![Opal Agafia & the Sweet Nothings — 21st Annual Woody Guthrie Festival, 2018](/assets/images/blog/2019-02-04-woodyfest-opal-agafia/czahller-20180714-21-00-05.jpg)
-  ![Justin Easter — 21st Annual Woody Guthrie Festival, 2018](/assets/images/blog/2019-02-04-woodyfest-opal-agafia/czahller-20180714-21-00-30.jpg)
-  ![Opal (III) — 21st Annual Woody Guthrie Festival, 2018](/assets/images/blog/2019-02-04-woodyfest-opal-agafia/czahller-20180714-21-00-57.jpg)
-  ![Opal (IV) — 21st Annual Woody Guthrie Festival, 2018](/assets/images/blog/2019-02-04-woodyfest-opal-agafia/czahller-20180714-21-01-06.jpg)
-  ![Michael (I) — 21st Annual Woody Guthrie Festival, 2018](/assets/images/blog/2019-02-04-woodyfest-opal-agafia/czahller-20180714-21-01-17.jpg)
-  ![Opal (V) — 21st Annual Woody Guthrie Festival, 2018](/assets/images/blog/2019-02-04-woodyfest-opal-agafia/czahller-20180714-21-03-15.jpg)
-  ![Opal (VI) — 21st Annual Woody Guthrie Festival, 2018](/assets/images/blog/2019-02-04-woodyfest-opal-agafia/czahller-20180714-21-04-40.jpg)
-  ![David Lucas Gesualdo — 21st Annual Woody Guthrie Festival, 2018](/assets/images/blog/2019-02-04-woodyfest-opal-agafia/czahller-20180714-21-05-06.jpg)
-  ![Opal Agafia & the Sweet Nothings (Upstage View) — 21st Annual Woody Guthrie Festival, 2018](/assets/images/blog/2019-02-04-woodyfest-opal-agafia/czahller-20180714-21-07-21.jpg)
-  ![Michael & Justin — 21st Annual Woody Guthrie Festival, 2018](/assets/images/blog/2019-02-04-woodyfest-opal-agafia/czahller-20180714-21-14-48.jpg)
+  {% image "featured", "", "Michael Schembre, Justin Easter, Opal Agafia, David Lucas Gesualdo, & Ron Landis", "Michael Schembre, Justin Easter, Opal Agafia, David Lucas Gesualdo, & Ron Landis" %}
+
+  {% image "./src/assets/images/blog/2019-02-04-woodyfest-opal-agafia/czahller-20180714-20-58-27.jpg", "", "Opal Agafia", "Opal Agafia" %}
+
+  {% image "./src/assets/images/blog/2019-02-04-woodyfest-opal-agafia/czahller-20180714-20-58-57.jpg", "", "Michael Schembre stands in a sort of half-squat while he plays the fiddle", "Michael Schembre" %}
+
+  {% image "./src/assets/images/blog/2019-02-04-woodyfest-opal-agafia/czahller-20180714-20-59-08.jpg", "", "Opal Agafia", "Opal (II)" %}
+
+  {% image "./src/assets/images/blog/2019-02-04-woodyfest-opal-agafia/czahller-20180714-20-59-12.jpg", "", "Opal Agafia", "Opal (III)" %}
+
+  {% image "./src/assets/images/blog/2019-02-04-woodyfest-opal-agafia/czahller-20180714-21-00-01.jpg", "", "Ron Landis", "Ron Landis" %}
+
+  {% image "./src/assets/images/blog/2019-02-04-woodyfest-opal-agafia/czahller-20180714-21-00-05.jpg", "", "Opal Agafia & the Sweet Nothings", "Opal Agafia & the Sweet Nothings" %}
+
+  {% image "./src/assets/images/blog/2019-02-04-woodyfest-opal-agafia/czahller-20180714-21-00-30.jpg", "", "Justin Easter", "Justin Easter" %}
+
+  {% image "./src/assets/images/blog/2019-02-04-woodyfest-opal-agafia/czahller-20180714-21-00-57.jpg", "", "Michael Schembre & John Landis", "Michael Schembre & John Landis" %}
+
+  {% image "./src/assets/images/blog/2019-02-04-woodyfest-opal-agafia/czahller-20180714-21-01-06.jpg", "", "Opal Agafia", "Opal (IV)" %}
+
+  {% image "./src/assets/images/blog/2019-02-04-woodyfest-opal-agafia/czahller-20180714-21-01-17.jpg", "", "Opal Agafia", "Opal (V)" %}
+
+  {% image "./src/assets/images/blog/2019-02-04-woodyfest-opal-agafia/czahller-20180714-21-03-15.jpg", "", "Michael Schembre", "Michael (I)" %}
+
+  {% image "./src/assets/images/blog/2019-02-04-woodyfest-opal-agafia/czahller-20180714-21-04-40.jpg", "", "Opal Agafia", "Opal (VI)" %}
+
+  {% image "./src/assets/images/blog/2019-02-04-woodyfest-opal-agafia/czahller-20180714-21-05-06.jpg", "", "Opal Agafia", "Opal (VII)" %}
+
+  {% image "./src/assets/images/blog/2019-02-04-woodyfest-opal-agafia/czahller-20180714-21-07-21.jpg", "", "David Lucas Gesualdo", "David Lucas Gesualdo" %}
+
+  {% image "./src/assets/images/blog/2019-02-04-woodyfest-opal-agafia/czahller-20180714-21-14-48.jpg", "", "Opal Agafia & the Sweet Nothings viewed from upstage", "Opal Agafia & the Sweet Nothings (Upstage View)" %}
 </mpb-dialog-gallery>
