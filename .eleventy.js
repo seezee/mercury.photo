@@ -279,7 +279,7 @@ module.exports = async (eleventyConfig) => {
     // Widths and sizes calculated by RespImageLint
     // See https://ausi.github.io/respimagelint/
     sizes,
-    widths = [`auto`, 200, 270, 330, 470, 530, 795, 886, 1024, 1240, 1320, 1450, 1530, 1560, 1774, 1920, 2048],
+    widths = [`auto`, 128, 256, 384, 512, 470, 768, 1024, 1536],
     formats = [`webp`, `jpeg`]
   ) {
     // Disallow empty alt attribute
