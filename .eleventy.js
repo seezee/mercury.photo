@@ -464,7 +464,7 @@ module.exports = async (eleventyConfig) => {
       className = ``,
       alt = ``,
       sizes,
-      widths = [`auto`, 270, 330, 470, 530, 795, 886, 1024],
+      widths = [`auto`, 128, 256, 512, 1024],
       srcDir = `./src`,
       loading,
       fetchpriority

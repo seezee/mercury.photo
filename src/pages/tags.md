@@ -42,12 +42,21 @@ View [all tags](/blog/tags/) &rarr;{.no-drop-cap}
 
 <ol class="taglist" data-pagefind-ignore>
 {% set taglist = collections[ tag ] %}
-{% for post in taglist | sortByPubDate | reverse %}
+{% for post in taglist | sortByPubDate | reverse | limit(1) %}
   <li>
     <stack-l>
       <h2 class="tag-header"><a href="{{ post.url }}">{{ post.data.title | safe }}</a></h2>
       <switcher-l limit="2">
-        <a href="{{ post.url }}"><img class="tag-thumbnail" src="{{ post.data.image | safe }}" alt="Read “{{ post.data.title | safe }}”" loading="lazy" /></a>
+        <a href="{{ post.url }}">
+          {%
+            getThumbnail post.data.image, {
+              outputDir: post.url,
+              alt: post.data.title,
+              loading: "eager",
+              fetchpriority: "high"
+            }
+          %}
+        </a>
         <div class="tag-post-excerpt">
           <small>
             {% if post.data.pubdate %}
@@ -60,4 +69,30 @@ View [all tags](/blog/tags/) &rarr;{.no-drop-cap}
     </stack-l>
   </li>
 {% endfor %}
-</ol>
+{% for post in taglist | sortByPubDate | reverse | startFrom(1) %}
+  <li>
+    <stack-l>
+      <h2 class="tag-header"><a href="{{ post.url }}">{{ post.data.title | safe }}</a></h2>
+      <switcher-l limit="2">
+        <a href="{{ post.url }}">
+          {%
+            getThumbnail post.data.image, {
+              outputDir: post.url,
+              alt: post.data.title,
+              loading: "lazy",
+              fetchpriority: "auto"
+            }
+          %}
+        </a>
+        <div class="tag-post-excerpt">
+          <small>
+            {% if post.data.pubdate %}
+              <time datetime="{{ post.data.pubdate | toISOString | safe}}">{{ post.data.pubdate.toUTCString() | safe}}</time>
+            {% endif %}
+          </small>
+          <p>{{ post.data.excerpt | safe }}</p>
+        </div></switcher-l>
+      <hr  class="hr-fancy"/>
+    </stack-l>
+  </li>
+{% endfor %}</ol>
