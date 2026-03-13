@@ -1,6 +1,6 @@
 {
   "name": "mercury.photo",
-  "version": "2.0.5",
+  "version": "2.0.6",
   "description": "Rangefinder + Mirrorless Digital + Large Format Film Photography + Music, Arts, & News",
   "main": "index.js",
   "bugs": {
@@ -18,8 +18,7 @@
     "util:rimraf": "npx rimraf _site",
     "util:killport": "npx kill-port --port 8787",
     "start": "ELEVENTY_ENV=dev npx @11ty/eleventy --serve --incremental",
-    "start:prodclean": "ELEVENTY_ENV=production npm-run-all util:rimraf util:killport 11ty:build --parallel 11ty:watch d:dev",
-    "start:prod": "ELEVENTY_ENV=production npm-run-all 11ty:build --parallel 11ty:watch wrangler:dev",
+    "start:wrangler": "ELEVENTY_ENV=production npm-run-all util:rimraf util:killport 11ty:build --parallel 11ty:watch wrangler:dev",
     "wrangler:dev": "npx wrangler dev --live-reload",
     "wrangler:deploy": "npx wrangler deploy",
     "knip": "knip"
@@ -48,10 +47,10 @@
   "devDependencies": {
     "@11ty/eleventy-plugin-rss": "^2.0.4",
     "@biomejs/biome": "2.4.6",
-    "@types/node": "^25.4.0",
+    "@types/node": "^25.5.0",
     "browserslist": "^4.28.1",
     "eleventy-auto-cache-buster": "^0.9.1",
-    "esbuild": "^0.27.3",
+    "esbuild": "^0.27.4",
     "esbuild-plugin-browserslist": "^2.0.0",
     "html-minifier-next": "^5.2.0",
     "image-size": "^2.0.2",
@@ -70,7 +69,7 @@
     "rimraf": "^6.1.3",
     "terser": "^5.46.0",
     "typescript": "^5.9.3",
-    "wrangler": "^4.72.0"
+    "wrangler": "^4.73.0"
   },
   "browserslist": {
     "production": [
