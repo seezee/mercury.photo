@@ -176,6 +176,7 @@ cython_debug/
 
 # Eleventy
 _site
+.cache
 
 # Cloudflare Wrangler
 .wrangler/
