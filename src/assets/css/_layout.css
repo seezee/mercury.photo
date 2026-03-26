@@ -987,8 +987,6 @@ li[id^=mn] {
   border-radius: 50%;
   border: 0.1rem solid var(--mpb-color-accent);
   background-color: var(--mpb-color-accent-reverse);
-  /* emoji don't behave like regular fonts
-     so this helps position it correctly */
   padding: 0.25rem;
 
   svg {

@@ -472,9 +472,9 @@ module.exports = async (eleventyConfig) => {
 
     // `auto` attribute can only be used with loading="lazy".
     if (loading === `eager`) {
-      sizes = `(min-width: 1880px) 320px, (min-width: 1360px) calc(3.8vw + 249px), (min-width: 1020px) calc(32.19vw - 24px), (min-width: 680px) calc(48.75vw - 25px), calc(100.28vw - 41px)`
+      sizes = `(min-width: 1780px) 322px, (min-width: 1360px) calc(5.25vw + 231px), (min-width: 1000px) calc(32.06vw - 20px), (min-width: 660px) 48.44vw, calc(99.12vw - 18px)`
     } else {
-      sizes = `auto, (min-width: 1880px) 320px, (min-width: 1360px) calc(3.8vw + 249px), (min-width: 1020px) calc(32.19vw - 24px), (min-width: 680px) calc(48.75vw - 25px), calc(100.28vw - 41px)`
+      sizes = `auto, (min-width: 1780px) 322px, (min-width: 1360px) calc(5.25vw + 231px), (min-width: 1000px) calc(32.06vw - 20px), (min-width: 660px) 48.44vw, calc(99.12vw - 18px)`
     };
 
     const sourceImagePath = `${srcDir}${src}`;
