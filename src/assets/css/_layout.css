@@ -66,18 +66,13 @@ noscript div {
 /* #skip-link, #skip-slideshow-link */
 
 div:has( > #skip-link:not(:focus-visible):not(:active)) {
-  position: absolute;
-  display: inline-block;
+  clip-path: inset(100%);
+  clip: rect(1px, 1px, 1px, 1px);
   inline-size: 1px;
   block-size: 1px;
-  padding: 0;
-  margin: -1px;
   overflow: hidden;
-  clip: rect(0, 0, 0, 0);
-
+  position: absolute;
   white-space: nowrap;
-
-  border-width: 0;
 }
 
 #skip-link,
@@ -212,6 +207,10 @@ div:has( > #skip-link:not(:focus-visible):not(:active)) {
   &.pagefind-ui__hidden {
     display: none;
   }
+}
+
+pagefind-ui__result {
+  content: content;
 }
 
 .pagefind-ui__button {
@@ -357,8 +356,13 @@ h3 {
 .tags-button {
   font-family: var(--mpb-font-sans);
 
-  li p {
-    font-family: var(--mpb-font-default);
+  li {
+
+    contain: content;
+
+    p {
+      font-family: var(--mpb-font-default);
+    }
   }
 }
 
@@ -711,18 +715,13 @@ li[id^=mn] {
 
   [id^=mnref]:not(.test)::after {
     &:not(:focus-visible) {
-      position: absolute;
-      display: inline-block;
+      clip-path: inset(100%);
+      clip: rect(1px, 1px, 1px, 1px);
       inline-size: 1px;
       block-size: 1px;
-      padding: 0;
-      margin: -1px;
       overflow: hidden;
-      clip: rect(0, 0, 0, 0);
-
+      position: absolute;
       white-space: nowrap;
-
-      border-width: 0;
     }
   }
 }

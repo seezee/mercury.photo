@@ -63,17 +63,13 @@ h6 {
 
     a:not(:hover):not(:focus-visible):not(:active) {
       &:after {
-        position: absolute;
+        clip-path: inset(100%);
+        clip: rect(1px, 1px, 1px, 1px);
         inline-size: 1px;
         block-size: 1px;
-        padding: 0;
-        margin: -1px;
         overflow: hidden;
-        clip: rect(0, 0, 0, 0);
-
+        position: absolute;
         white-space: nowrap;
-
-        border-width: 0;
       }
     }
   }

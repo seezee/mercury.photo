@@ -1079,8 +1079,8 @@ del {
 :where(del, ins, s)::after {
   clip-path: inset(100%);
   clip: rect(1px, 1px, 1px, 1px);
-  height: 1px;
-  width: 1px;
+  inline-size: 1px;
+  block-size: 1px;
   overflow: hidden;
   position: absolute;
   white-space: nowrap;

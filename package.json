@@ -1,6 +1,6 @@
 {
   "name": "mercury.photo",
-  "version": "2.0.8",
+  "version": "2.0.9",
   "description": "Rangefinder + Mirrorless Digital + Large Format Film Photography + Music, Arts, & News",
   "main": "index.js",
   "bugs": {
@@ -46,17 +46,17 @@
   },
   "devDependencies": {
     "@11ty/eleventy-plugin-rss": "^3.0.0",
-    "@biomejs/biome": "2.4.9",
-    "@types/node": "^25.5.0",
-    "browserslist": "^4.28.1",
+    "@biomejs/biome": "2.4.10",
+    "@types/node": "^25.5.2",
+    "browserslist": "^4.28.2",
     "eleventy-auto-cache-buster": "^0.9.2",
-    "esbuild": "^0.27.4",
+    "esbuild": "^0.27.7",
     "esbuild-plugin-browserslist": "^2.0.0",
-    "html-minifier-next": "^5.2.2",
+    "html-minifier-next": "^6.1.1",
     "image-size": "^2.0.2",
-    "jsdom": "^29.0.1",
+    "jsdom": "^29.0.2",
     "kill-port": "2.0.1",
-    "knip": "^6.1.0",
+    "knip": "^6.3.1",
     "markdown-it": "^14.1.1",
     "markdown-it-anchor": "^9.2.0",
     "markdown-it-attrs": "^4.3.1",
@@ -64,12 +64,12 @@
     "markdown-it-footnote": "^4.0.0",
     "npm-run-all-next": "^1.2.5",
     "outdent": "^0.8.0",
-    "pagefind": "^1.4.0",
+    "pagefind": "^1.5.0",
     "path": "^0.12.7",
     "rimraf": "^6.1.3",
     "terser": "^5.46.1",
     "typescript": "^6.0.2",
-    "wrangler": "^4.78.0"
+    "wrangler": "^4.81.0"
   },
   "browserslist": {
     "production": [
