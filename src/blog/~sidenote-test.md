@@ -65,7 +65,7 @@ Bar
     </li>
     <li id="mn2" role="listitem">
 
-When choosing food to accompany morels, avoid strongly flavored ingredients. The delicate taste and aroma of the mushrooms is easily overwhelmed. Strong cheeses, raw or undercooked garlic, and highly aromatic spices are all no-nos. The simpler the better.&nbsp;<a href="#mnref2" a><span class="sr-only">Back to content&nbsp;</span>↩︎</a>
+When choosing food to accompany morels, avoid strongly flavored ingredients. The delicate taste and aroma of the mushrooms is easily overwhelmed. Strong cheeses, raw or undercooked garlic, and highly aromatic spices are all no-nos. The simpler the better.&nbsp;<a href="#mnref2"><span class="sr-only">Back to content&nbsp;</span>↩︎</a>
     </li>
     <li id="mn3" role="listitem">
 
