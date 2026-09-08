@@ -48,7 +48,7 @@
     "@11ty/eleventy-plugin-rss": "^3.0.0",
     "@biomejs/biome": "2.5.0",
     "@types/node": "^25.9.3",
-    "browserslist": "^4.28.2",
+    "browserslist": "^4.28.9",
     "eleventy-auto-cache-buster": "^0.9.2",
     "esbuild": "^0.28.1",
     "esbuild-plugin-browserslist": "^4.0.0",
