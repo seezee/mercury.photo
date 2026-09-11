@@ -6,7 +6,7 @@ const eleventyAutoCacheBuster = require('eleventy-auto-cache-buster');
 const esbuild = require('esbuild');
 const { feedPlugin } = require('@11ty/eleventy-plugin-rss');
 const htmlmin = require('html-minifier-next');
-const Image = require('@11ty/eleventy-img');
+const { Image } = require('@11ty/eleventy-img');
 const { imageSize } = require('image-size');
 const { JSDOM } = require('jsdom');
 const markdownIt = require('markdown-it');
@@ -308,7 +308,7 @@ module.exports = async (eleventyConfig) => {
       console.log(err);
     };
 
-    const imageMetadata = await Image(src, {
+    const imageMetadata = await new Image(src, {
       widths: [...widths, null],
       formats: [...formats, null],
 			outputDir: path.dirname(this.page.outputPath),
@@ -403,7 +403,7 @@ module.exports = async (eleventyConfig) => {
 
   // For inline SVG; see https://medium.com/@brettdewoody/inlining-svgs-in-eleventy-cffb1114e7b
   eleventyConfig.addNunjucksAsyncShortcode(`svgIcon`, async (src) => {
-    const metadata = await Image(src, {
+    const metadata = await new Image(src, {
       formats: [`svg`],
       dryRun: true,
     });
