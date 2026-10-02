@@ -57,7 +57,7 @@
     "jsdom": "^29.1.1",
     "kill-port": "2.0.1",
     "knip": "^6.16.1",
-    "markdown-it": "^14.2.0",
+    "markdown-it": "^14.3.2",
     "markdown-it-anchor": "^9.2.0",
     "markdown-it-attrs": "^5.0.0",
     "markdown-it-deflist": "^3.0.1",
